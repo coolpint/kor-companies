@@ -1,0 +1,221 @@
+{
+  "run_at": "2026-03-07T09:05:04.333845+00:00",
+  "summary": {
+    "source_count": 23,
+    "success_count": 23,
+    "failed_count": 0,
+    "matched_count": 0,
+    "new_count": 0
+  },
+  "new_articles": [],
+  "matched_articles": [],
+  "source_runs": [
+    {
+      "source_id": "nyt_business",
+      "source_name": "The New York Times Business",
+      "country_code": "US",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "nyt_technology",
+      "source_name": "The New York Times Technology",
+      "country_code": "US",
+      "success": true,
+      "item_count": 21,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "marketwatch_topstories",
+      "source_name": "MarketWatch Top Stories",
+      "country_code": "US",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "npr_business",
+      "source_name": "NPR Business",
+      "country_code": "US",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "nikkei_asia",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "japan_times_topstories",
+      "source_name": "The Japan Times",
+      "country_code": "JP",
+      "success": true,
+      "item_count": 30,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "nhk_business",
+      "source_name": "NHK Business",
+      "country_code": "JP",
+      "success": true,
+      "item_count": 77,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "nhk_world",
+      "source_name": "NHK International",
+      "country_code": "JP",
+      "success": true,
+      "item_count": 187,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "vnexpress_business",
+      "source_name": "VnExpress Business",
+      "country_code": "VN",
+      "success": true,
+      "item_count": 60,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "vnexpress_world",
+      "source_name": "VnExpress World",
+      "country_code": "VN",
+      "success": true,
+      "item_count": 60,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "vietnamnews_business",
+      "source_name": "Vietnam News Business",
+      "country_code": "VN",
+      "success": true,
+      "item_count": 0,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "vietnamnews_economy",
+      "source_name": "Vietnam News Economy",
+      "country_code": "VN",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "vietnamnews_world",
+      "source_name": "Vietnam News World",
+      "country_code": "VN",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "dw_business",
+      "source_name": "Deutsche Welle Business",
+      "country_code": "DE",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "dw_world",
+      "source_name": "Deutsche Welle World",
+      "country_code": "DE",
+      "success": true,
+      "item_count": 13,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "dw_topstories",
+      "source_name": "Deutsche Welle Top Stories",
+      "country_code": "DE",
+      "success": true,
+      "item_count": 21,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "tagesschau_wirtschaft",
+      "source_name": "tagesschau Wirtschaft",
+      "country_code": "DE",
+      "success": true,
+      "item_count": 75,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "tagesschau_ausland",
+      "source_name": "tagesschau Ausland",
+      "country_code": "DE",
+      "success": true,
+      "item_count": 64,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "bbc_business",
+      "source_name": "BBC Business",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 59,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "bbc_world",
+      "source_name": "BBC World",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "bbc_technology",
+      "source_name": "BBC Technology",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 54,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "ft_companies",
+      "source_name": "Financial Times Companies",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "ft_world",
+      "source_name": "Financial Times World",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    }
+  ]
+}

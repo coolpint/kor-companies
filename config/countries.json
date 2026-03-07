@@ -1,0 +1,51 @@
+[
+  {
+    "country_code": "US",
+    "country_name_ko": "미국",
+    "country_name_en": "United States",
+    "priority": "P1",
+    "languages": ["en"],
+    "active": true
+  },
+  {
+    "country_code": "CN",
+    "country_name_ko": "중국",
+    "country_name_en": "China",
+    "priority": "P1",
+    "languages": ["en", "zh"],
+    "active": true
+  },
+  {
+    "country_code": "JP",
+    "country_name_ko": "일본",
+    "country_name_en": "Japan",
+    "priority": "P1",
+    "languages": ["ja", "en"],
+    "active": true
+  },
+  {
+    "country_code": "VN",
+    "country_name_ko": "베트남",
+    "country_name_en": "Vietnam",
+    "priority": "P1",
+    "languages": ["en", "vi"],
+    "active": true
+  },
+  {
+    "country_code": "DE",
+    "country_name_ko": "독일",
+    "country_name_en": "Germany",
+    "priority": "P2",
+    "languages": ["de", "en"],
+    "active": true
+  },
+  {
+    "country_code": "GB",
+    "country_name_ko": "영국",
+    "country_name_en": "United Kingdom",
+    "priority": "P2",
+    "languages": ["en"],
+    "active": true
+  }
+]
+

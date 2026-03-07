@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Sample RSS</title>
+    <item>
+      <title>Samsung Electronics expands AI chip production</title>
+      <link>https://example.com/articles/samsung-ai?utm_source=test</link>
+      <description>Samsung Electronics said it will increase output for AI chips.</description>
+      <pubDate>Fri, 07 Mar 2026 07:00:00 GMT</pubDate>
+      <guid>samsung-ai</guid>
+    </item>
+    <item>
+      <title>Unrelated story</title>
+      <link>https://example.com/articles/other</link>
+      <description>Nothing to see here.</description>
+      <pubDate>Fri, 07 Mar 2026 06:00:00 GMT</pubDate>
+      <guid>other</guid>
+    </item>
+  </channel>
+</rss>
+

@@ -1,0 +1,68 @@
+# kor-companies
+
+해외 언론 RSS를 수집해 한국 주요 기업 언급 기사를 골라내고 텔레그램으로 보내는 모니터링 앱이다.
+
+## 목표
+
+- 하루 2회 원격에서 실행
+- 로컬 장비가 꺼져 있어도 계속 동작
+- 결과는 텔레그램으로 전달하고 GitHub에도 남긴다
+- 상태는 저장소 안에 기록해 다음 실행에 재사용
+
+## 현재 구조
+
+- `config/companies.json`: 감시 대상 기업과 별칭
+- `config/countries.json`: 국가 우선순위와 언어 정보
+- `config/sources.json`: RSS 소스 목록
+- `src/`: 모니터링 앱
+- `data/state/state.json`: 중복 제거용 상태 저장
+- `reports/`: 최신 리포트와 아카이브
+- `.github/workflows/monitor.yml`: GitHub Actions 스케줄 실행
+
+## 실행
+
+```bash
+python3 -m src.main
+```
+
+옵션 예시:
+
+```bash
+python3 -m src.main --since-hours 48 --max-items-per-feed 100
+```
+
+## 원격 실행 방식
+
+GitHub Actions가 UTC 기준 `09:00`, `23:00`에 실행된다.
+
+- `23:00 UTC` = 다음날 `08:00 KST`
+- `09:00 UTC` = 당일 `18:00 KST`
+
+워크플로는 실행 후 아래 파일을 갱신하고 같은 저장소에 다시 커밋한다.
+
+- `reports/latest.md`
+- `reports/latest.json`
+- `reports/archive/...`
+- `data/state/state.json`
+
+결과는 텔레그램으로 즉시 전송하고, 동시에 GitHub에도 남긴다.
+
+필요한 GitHub Secrets:
+
+- `TELEGRAM_BOT_TOKEN`
+- `TELEGRAM_CHAT_ID`
+- `TELEGRAM_MESSAGE_THREAD_ID` (선택)
+
+## 검증
+
+표준 라이브러리만 사용하도록 작성했다.
+
+```bash
+python3 -m unittest discover -s tests -v
+```
+
+## 한계
+
+- 현재는 RSS/Atom/RDF 피드만 사용한다.
+- 기사 본문 전문 스크래핑은 아직 하지 않는다.
+- 중국 소스는 공개 RSS 안정성이 낮아 일부 후보를 비활성 상태로 두었다.

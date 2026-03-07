@@ -1,0 +1,242 @@
+[
+  {
+    "canonical_name_ko": "삼성전자",
+    "canonical_name_en": "Samsung Electronics",
+    "group_name": "삼성",
+    "aliases_en": ["Samsung Electronics", "Samsung Elec"],
+    "aliases_ko": ["삼성전자"],
+    "aliases_local": ["サムスン電子", "三星电子"],
+    "primary_brands": ["Galaxy"],
+    "active": true
+  },
+  {
+    "canonical_name_ko": "SK하이닉스",
+    "canonical_name_en": "SK hynix",
+    "group_name": "SK",
+    "aliases_en": ["SK hynix", "SK Hynix"],
+    "aliases_ko": ["SK하이닉스"],
+    "aliases_local": ["SKハイニックス", "SK海力士"],
+    "primary_brands": [],
+    "active": true
+  },
+  {
+    "canonical_name_ko": "현대자동차",
+    "canonical_name_en": "Hyundai Motor",
+    "group_name": "현대자동차그룹",
+    "aliases_en": ["Hyundai Motor", "Hyundai Motor Co", "Hyundai"],
+    "aliases_ko": ["현대자동차", "현대차"],
+    "aliases_local": ["ヒョンデ", "現代自動車"],
+    "primary_brands": ["Hyundai"],
+    "active": true
+  },
+  {
+    "canonical_name_ko": "기아",
+    "canonical_name_en": "Kia",
+    "group_name": "현대자동차그룹",
+    "aliases_en": ["Kia", "Kia Corp", "Kia Motors"],
+    "aliases_ko": ["기아", "기아차"],
+    "aliases_local": ["キア", "起亚"],
+    "primary_brands": [],
+    "active": true
+  },
+  {
+    "canonical_name_ko": "LG에너지솔루션",
+    "canonical_name_en": "LG Energy Solution",
+    "group_name": "LG",
+    "aliases_en": ["LG Energy Solution", "LGES"],
+    "aliases_ko": ["LG에너지솔루션"],
+    "aliases_local": ["LGエナジーソリューション"],
+    "primary_brands": [],
+    "active": true
+  },
+  {
+    "canonical_name_ko": "LG전자",
+    "canonical_name_en": "LG Electronics",
+    "group_name": "LG",
+    "aliases_en": ["LG Electronics"],
+    "aliases_ko": ["LG전자"],
+    "aliases_local": ["LG電子"],
+    "primary_brands": [],
+    "active": true
+  },
+  {
+    "canonical_name_ko": "포스코홀딩스",
+    "canonical_name_en": "POSCO Holdings",
+    "group_name": "포스코",
+    "aliases_en": ["POSCO Holdings", "POSCO"],
+    "aliases_ko": ["포스코홀딩스", "포스코"],
+    "aliases_local": ["ポスコ", "浦项制铁"],
+    "primary_brands": [],
+    "active": true
+  },
+  {
+    "canonical_name_ko": "한화에어로스페이스",
+    "canonical_name_en": "Hanwha Aerospace",
+    "group_name": "한화",
+    "aliases_en": ["Hanwha Aerospace"],
+    "aliases_ko": ["한화에어로스페이스"],
+    "aliases_local": ["ハンファエアロスペース"],
+    "primary_brands": [],
+    "active": true
+  },
+  {
+    "canonical_name_ko": "한화오션",
+    "canonical_name_en": "Hanwha Ocean",
+    "group_name": "한화",
+    "aliases_en": ["Hanwha Ocean"],
+    "aliases_ko": ["한화오션"],
+    "aliases_local": [],
+    "primary_brands": [],
+    "active": true
+  },
+  {
+    "canonical_name_ko": "HD현대",
+    "canonical_name_en": "HD Hyundai",
+    "group_name": "HD현대",
+    "aliases_en": ["HD Hyundai", "Hyundai Heavy Industries", "HD Hyundai Heavy Industries"],
+    "aliases_ko": ["HD현대", "현대중공업"],
+    "aliases_local": ["HD現代", "HDヒョンデ", "現代重工業"],
+    "primary_brands": [],
+    "active": true
+  },
+  {
+    "canonical_name_ko": "네이버",
+    "canonical_name_en": "NAVER",
+    "group_name": "네이버",
+    "aliases_en": ["NAVER", "Naver"],
+    "aliases_ko": ["네이버"],
+    "aliases_local": ["ネイバー"],
+    "primary_brands": [],
+    "active": true
+  },
+  {
+    "canonical_name_ko": "카카오",
+    "canonical_name_en": "Kakao",
+    "group_name": "카카오",
+    "aliases_en": ["Kakao", "Kakao Corp"],
+    "aliases_ko": ["카카오"],
+    "aliases_local": ["カカオ"],
+    "primary_brands": ["KakaoTalk"],
+    "active": true
+  },
+  {
+    "canonical_name_ko": "쿠팡",
+    "canonical_name_en": "Coupang",
+    "group_name": "쿠팡",
+    "aliases_en": ["Coupang"],
+    "aliases_ko": ["쿠팡"],
+    "aliases_local": ["クーパン", "酷澎"],
+    "primary_brands": [],
+    "active": true
+  },
+  {
+    "canonical_name_ko": "셀트리온",
+    "canonical_name_en": "Celltrion",
+    "group_name": "셀트리온",
+    "aliases_en": ["Celltrion"],
+    "aliases_ko": ["셀트리온"],
+    "aliases_local": ["セルトリオン"],
+    "primary_brands": [],
+    "active": true
+  },
+  {
+    "canonical_name_ko": "대한항공",
+    "canonical_name_en": "Korean Air",
+    "group_name": "한진",
+    "aliases_en": ["Korean Air", "Korean Air Lines"],
+    "aliases_ko": ["대한항공"],
+    "aliases_local": ["大韓航空"],
+    "primary_brands": [],
+    "active": true
+  },
+  {
+    "canonical_name_ko": "롯데케미칼",
+    "canonical_name_en": "Lotte Chemical",
+    "group_name": "롯데",
+    "aliases_en": ["Lotte Chemical", "Lotte Group"],
+    "aliases_ko": ["롯데케미칼", "롯데"],
+    "aliases_local": ["ロッテケミカル", "乐天"],
+    "primary_brands": [],
+    "active": true
+  },
+  {
+    "canonical_name_ko": "CJ제일제당",
+    "canonical_name_en": "CJ CheilJedang",
+    "group_name": "CJ",
+    "aliases_en": ["CJ CheilJedang", "CJ Group"],
+    "aliases_ko": ["CJ제일제당", "CJ"],
+    "aliases_local": [],
+    "primary_brands": ["Bibigo"],
+    "active": true
+  },
+  {
+    "canonical_name_ko": "KT",
+    "canonical_name_en": "KT Corp",
+    "group_name": "KT",
+    "aliases_en": ["KT Corp", "KT Corporation"],
+    "aliases_ko": ["KT"],
+    "aliases_local": [],
+    "primary_brands": [],
+    "active": true
+  },
+  {
+    "canonical_name_ko": "두산에너빌리티",
+    "canonical_name_en": "Doosan Enerbility",
+    "group_name": "두산",
+    "aliases_en": ["Doosan Enerbility", "Doosan"],
+    "aliases_ko": ["두산에너빌리티", "두산"],
+    "aliases_local": ["斗山"],
+    "primary_brands": [],
+    "active": true
+  },
+  {
+    "canonical_name_ko": "신세계",
+    "canonical_name_en": "Shinsegae",
+    "group_name": "신세계",
+    "aliases_en": ["Shinsegae", "E-Mart"],
+    "aliases_ko": ["신세계", "이마트"],
+    "aliases_local": [],
+    "primary_brands": [],
+    "active": true
+  },
+  {
+    "canonical_name_ko": "효성중공업",
+    "canonical_name_en": "Hyosung Heavy Industries",
+    "group_name": "효성",
+    "aliases_en": ["Hyosung Heavy Industries", "Hyosung"],
+    "aliases_ko": ["효성중공업", "효성"],
+    "aliases_local": [],
+    "primary_brands": [],
+    "active": true
+  },
+  {
+    "canonical_name_ko": "미래에셋",
+    "canonical_name_en": "Mirae Asset",
+    "group_name": "미래에셋",
+    "aliases_en": ["Mirae Asset"],
+    "aliases_ko": ["미래에셋"],
+    "aliases_local": [],
+    "primary_brands": [],
+    "active": true
+  },
+  {
+    "canonical_name_ko": "에코프로",
+    "canonical_name_en": "EcoPro",
+    "group_name": "에코프로",
+    "aliases_en": ["EcoPro", "Ecopro"],
+    "aliases_ko": ["에코프로"],
+    "aliases_local": [],
+    "primary_brands": [],
+    "active": true
+  },
+  {
+    "canonical_name_ko": "고려아연",
+    "canonical_name_en": "Korea Zinc",
+    "group_name": "고려아연",
+    "aliases_en": ["Korea Zinc"],
+    "aliases_ko": ["고려아연"],
+    "aliases_local": [],
+    "primary_brands": [],
+    "active": true
+  }
+]
