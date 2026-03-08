@@ -87,6 +87,10 @@ class MatchedArticle:
     source_name: str
     country_code: str
     country_name_ko: str
+    source_language: str = ""
+    original_title: str = ""
+    original_summary: str = ""
+    company_summary: str = ""
     matched_companies: List[str] = field(default_factory=list)
     matched_aliases: List[str] = field(default_factory=list)
     is_new: bool = True
@@ -101,4 +105,3 @@ class SourceRunResult:
     item_count: int = 0
     matched_count: int = 0
     error: str = ""
-

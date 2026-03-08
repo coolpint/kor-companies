@@ -20,12 +20,16 @@ class FetchResponse:
     content_type: str
 
 
-def fetch_feed(url: str, timeout: int = 20) -> FetchResponse:
+def fetch_url(
+    url: str,
+    timeout: int = 20,
+    accept: str = "application/rss+xml, application/atom+xml, application/xml, text/xml;q=0.9, */*;q=0.8",
+) -> FetchResponse:
     request = Request(
         url,
         headers={
             "User-Agent": USER_AGENT,
-            "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml;q=0.9, */*;q=0.8",
+            "Accept": accept,
             "Accept-Encoding": "gzip",
         },
     )
@@ -44,3 +48,6 @@ def fetch_feed(url: str, timeout: int = 20) -> FetchResponse:
     except OSError as exc:
         raise FetchError(f"I/O error for {url}: {exc}") from exc
 
+
+def fetch_feed(url: str, timeout: int = 20) -> FetchResponse:
+    return fetch_url(url=url, timeout=timeout)

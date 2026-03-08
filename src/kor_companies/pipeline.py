@@ -5,7 +5,9 @@ from datetime import datetime, timedelta
 from pathlib import Path
 from typing import Dict, List, Optional, Sequence
 
+from .article_context import build_article_context
 from .config import load_companies, load_countries, load_sources
+from .enrichment import ArticleEnricher
 from .feed_parser import FeedParseError, parse_feed
 from .fetcher import FetchError, fetch_feed
 from .matcher import CompanyMatcher
@@ -36,6 +38,7 @@ def run_monitor(
     countries = load_countries(config_dir / "countries.json")
     sources = load_sources(config_dir / "sources.json", allowed_countries=country_codes)
     matcher = CompanyMatcher(companies)
+    enricher = ArticleEnricher.from_env()
     state = StateStore(state_path)
 
     run_at = utc_now()
@@ -75,22 +78,41 @@ def run_monitor(
             country = countries.get(source.country_code)
             country_name_ko = country.country_name_ko if country else source.country_code
 
-            article = matched_by_key.get(article_key)
+            validation_aliases = _dedupe_preserve_order(
+                [alias for result in match_results for alias in result.company.all_aliases()]
+            )
             matched_companies = [result.company.canonical_name_en for result in match_results]
+            article = matched_by_key.get(article_key)
             matched_aliases = [alias for result in match_results for alias in result.aliases]
+            article_context = build_article_context(entry.link, validation_aliases)
+            enrichment = enricher.enrich(
+                source_language=source.language,
+                title=normalize_whitespace(entry.title),
+                summary=normalize_whitespace(entry.summary),
+                matched_companies=matched_companies,
+                matched_aliases=matched_aliases,
+                context=article_context,
+            )
+            if not enrichment.is_related:
+                matched_count -= 1
+                continue
 
             if article is None:
                 matched_by_key[article_key] = MatchedArticle(
                     article_key=article_key,
                     canonical_link=canonical_link,
                     link=entry.link,
-                    title=normalize_whitespace(entry.title),
-                    summary=normalize_whitespace(entry.summary),
+                    title=enrichment.translated_title or normalize_whitespace(entry.title),
+                    summary=enrichment.translated_summary or normalize_whitespace(entry.summary),
                     published_at=entry.published_at,
                     source_id=source.source_id,
                     source_name=source.source_name,
                     country_code=source.country_code,
                     country_name_ko=country_name_ko,
+                    source_language=source.language,
+                    original_title=normalize_whitespace(entry.title),
+                    original_summary=normalize_whitespace(entry.summary),
+                    company_summary=enrichment.company_summary,
                     matched_companies=_dedupe_preserve_order(matched_companies),
                     matched_aliases=_dedupe_preserve_order(matched_aliases),
                 )
@@ -101,8 +123,10 @@ def run_monitor(
                 article.matched_aliases = _dedupe_preserve_order(
                     article.matched_aliases + matched_aliases
                 )
-                if not article.summary and entry.summary:
-                    article.summary = normalize_whitespace(entry.summary)
+                if not article.summary and enrichment.translated_summary:
+                    article.summary = enrichment.translated_summary
+                if not article.company_summary and enrichment.company_summary:
+                    article.company_summary = enrichment.company_summary
                 if article.published_at is None and entry.published_at is not None:
                     article.published_at = entry.published_at
 

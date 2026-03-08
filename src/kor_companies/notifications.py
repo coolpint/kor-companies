@@ -95,7 +95,7 @@ def build_run_summary_messages(
                 f"국가/매체: {article.country_name_ko} / {article.source_name}",
                 f"발행: {published}",
                 f"링크: {article.link}",
-                f"요약: {short_text(article.summary or '요약 없음', 200)}",
+                f"요약: {short_text(article.company_summary or article.summary or '요약 없음', 200)}",
             ]
         )
         candidate = block if not current else f"{current}\n\n{block}"

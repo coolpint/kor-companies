@@ -1,17 +1,5 @@
 {
   "version": 1,
-  "last_run_at": "2026-03-07T23:28:23.226076+00:00",
-  "seen_articles": {
-    "http://www3.nhk.or.jp/news/html/20260308/k10015069661000.html": {
-      "title": "トランプ大統領は成果を強調 湾岸諸国ではイランの攻撃相次ぐ",
-      "link": "http://www3.nhk.or.jp/news/html/20260308/k10015069661000.html",
-      "source_name": "NHK International",
-      "country_code": "JP",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-03-07T23:28:23.226076+00:00",
-      "last_seen_at": "2026-03-07T23:28:23.226076+00:00"
-    }
-  }
+  "last_run_at": "2026-03-08T01:18:50.201018+00:00",
+  "seen_articles": {}
 }

@@ -52,6 +52,8 @@ GitHub Actions가 UTC 기준 `09:00`, `23:00`에 실행된다.
 - `TELEGRAM_BOT_TOKEN`
 - `TELEGRAM_CHAT_ID`
 - `TELEGRAM_MESSAGE_THREAD_ID` (선택)
+- `OPENAI_API_KEY` (비영문 기사 한국어 번역과 회사 관련 요약 생성을 위해 사실상 필수)
+- `OPENAI_MODEL` (선택, 기본값 `gpt-4.1-mini`)
 
 ## 검증
 
@@ -64,5 +66,5 @@ python3 -m unittest discover -s tests -v
 ## 한계
 
 - 현재는 RSS/Atom/RDF 피드만 사용한다.
-- 기사 본문 전문 스크래핑은 아직 하지 않는다.
+- 기사 본문 HTML에서 회사 관련 문장을 보조적으로 추출하지만, 사이트 구조가 크게 다르면 문맥 추출 품질이 떨어질 수 있다.
 - 중국 소스는 공개 RSS 안정성이 낮아 일부 후보를 비활성 상태로 두었다.

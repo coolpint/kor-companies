@@ -8,6 +8,10 @@ from .models import CompanyConfig
 from .utils import normalize_whitespace
 
 LATIN_PATTERN = re.compile(r"[A-Za-z]")
+HIRAGANA_PATTERN = re.compile(r"[\u3040-\u309f]")
+KATAKANA_PATTERN = re.compile(r"[\u30a0-\u30ff\uff66-\uff9f]")
+HAN_PATTERN = re.compile(r"[\u3400-\u4dbf\u4e00-\u9fff]")
+HANGUL_PATTERN = re.compile(r"[\uac00-\ud7a3]")
 
 
 @dataclass
@@ -63,10 +67,55 @@ def _compile_alias(alias: str) -> _AliasRule:
     value = alias.strip()
     if not value:
         return _AliasRule(alias=value, pattern=None, use_substring=True)
+    escaped = re.escape(value)
+    escaped = escaped.replace(r"\ ", r"\s+")
     if LATIN_PATTERN.search(value):
-        escaped = re.escape(value)
-        escaped = escaped.replace(r"\ ", r"\s+")
         pattern = re.compile(rf"(?<![A-Za-z0-9]){escaped}(?![A-Za-z0-9])", re.IGNORECASE)
         return _AliasRule(alias=value, pattern=pattern, use_substring=False)
-    return _AliasRule(alias=value, pattern=None, use_substring=True)
+    boundary_chars = _build_non_latin_boundary_chars(value)
+    pattern = re.compile(rf"(?<![{boundary_chars}]){escaped}(?![{boundary_chars}])")
+    return _AliasRule(alias=value, pattern=pattern, use_substring=False)
 
+
+def find_matching_aliases(text: str, aliases: List[str]) -> List[str]:
+    haystack = normalize_whitespace(text)
+    lowered = haystack.casefold()
+    hits: List[str] = []
+    for alias in aliases:
+        rule = _compile_alias(alias)
+        if rule.use_substring:
+            if rule.alias.casefold() in lowered:
+                hits.append(rule.alias)
+        elif rule.pattern and rule.pattern.search(haystack):
+            hits.append(rule.alias)
+
+    deduped = []
+    seen = set()
+    for alias in hits:
+        key = alias.casefold()
+        if key in seen:
+            continue
+        seen.add(key)
+        deduped.append(alias)
+    return deduped
+
+
+def is_short_latin_alias(alias: str) -> bool:
+    value = alias.strip()
+    if not value:
+        return False
+    compact = re.sub(r"[^A-Za-z0-9]", "", value)
+    return bool(compact) and compact.isascii() and compact.isalpha() and len(compact) <= 4
+
+
+def _build_non_latin_boundary_chars(alias: str) -> str:
+    chunks = ["A-Za-z0-9_"]
+    if HIRAGANA_PATTERN.search(alias):
+        chunks.append(r"\u3040-\u309f")
+    if KATAKANA_PATTERN.search(alias):
+        chunks.append(r"\u30a0-\u30ff\uff66-\uff9f")
+    if HAN_PATTERN.search(alias):
+        chunks.append(r"\u3400-\u4dbf\u4e00-\u9fff")
+    if HANGUL_PATTERN.search(alias):
+        chunks.append(r"\uac00-\ud7a3")
+    return "".join(chunks)

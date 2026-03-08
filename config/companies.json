@@ -34,8 +34,8 @@
     "canonical_name_en": "Kia",
     "group_name": "현대자동차그룹",
     "aliases_en": ["Kia", "Kia Corp", "Kia Motors"],
-    "aliases_ko": ["기아", "기아차"],
-    "aliases_local": ["キア", "起亚"],
+    "aliases_ko": ["기아", "기아차", "기아자동차"],
+    "aliases_local": ["キア", "起亚", "起亜", "起亜自動車"],
     "primary_brands": [],
     "active": true
   },

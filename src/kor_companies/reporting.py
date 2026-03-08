@@ -78,7 +78,8 @@ def _build_markdown(run_at, matched_articles, new_articles, source_runs) -> str:
                     f"- 발행 시각: {published}",
                     f"- 링크: {article.link}",
                     f"- 매칭 별칭: {', '.join(article.matched_aliases)}",
-                    f"- 요약: {short_text(article.summary or '요약 없음', 280)}",
+                    f"- 원문 제목: {article.original_title or article.title}",
+                    f"- 요약: {short_text(article.company_summary or article.summary or '요약 없음', 280)}",
                     "",
                 ]
             )
@@ -116,13 +117,16 @@ def _serialize_article(article: MatchedArticle) -> Dict:
         "link": article.link,
         "title": article.title,
         "summary": article.summary,
+        "original_title": article.original_title,
+        "original_summary": article.original_summary,
+        "company_summary": article.company_summary,
         "published_at": isoformat_or_none(article.published_at),
         "source_id": article.source_id,
         "source_name": article.source_name,
         "country_code": article.country_code,
         "country_name_ko": article.country_name_ko,
+        "source_language": article.source_language,
         "matched_companies": article.matched_companies,
         "matched_aliases": article.matched_aliases,
         "is_new": article.is_new,
     }
-
