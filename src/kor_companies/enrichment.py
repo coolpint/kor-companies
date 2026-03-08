@@ -3,13 +3,15 @@ from __future__ import annotations
 import json
 import os
 from dataclasses import dataclass
+from html import unescape
 from typing import List, Optional
 from urllib.error import HTTPError, URLError
+from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 
 from .article_context import ArticleContext
 from .matcher import is_short_latin_alias
-from .utils import normalize_whitespace, short_text
+from .utils import normalize_whitespace
 
 
 class EnrichmentError(RuntimeError):
@@ -26,27 +28,25 @@ class EnrichmentResult:
 
 
 @dataclass
-class OpenAIConfig:
+class GoogleTranslateConfig:
     api_key: str
-    model: str = "gpt-4.1-mini"
-    base_url: str = "https://api.openai.com/v1/chat/completions"
+    base_url: str = "https://translation.googleapis.com/language/translate/v2"
 
     @classmethod
-    def from_env(cls) -> Optional["OpenAIConfig"]:
-        api_key = os.getenv("OPENAI_API_KEY", "").strip()
+    def from_env(cls) -> Optional["GoogleTranslateConfig"]:
+        api_key = os.getenv("GOOGLE_TRANSLATE_API_KEY", "").strip()
         if not api_key:
             return None
-        model = os.getenv("OPENAI_MODEL", "").strip() or "gpt-4.1-mini"
-        return cls(api_key=api_key, model=model)
+        return cls(api_key=api_key)
 
 
 class ArticleEnricher:
-    def __init__(self, config: Optional[OpenAIConfig]) -> None:
+    def __init__(self, config: Optional[GoogleTranslateConfig]) -> None:
         self.config = config
 
     @classmethod
     def from_env(cls) -> "ArticleEnricher":
-        return cls(OpenAIConfig.from_env())
+        return cls(GoogleTranslateConfig.from_env())
 
     def enrich(
         self,
@@ -66,115 +66,103 @@ class ArticleEnricher:
                 reason="short_alias_without_company_context",
             )
 
-        if self.config is None:
-            return self._heuristic_result(title, summary, matched_companies, context)
+        company_summary_source = self._build_company_summary_source(summary, context)
+        if self.config is None or source_language.casefold().startswith("ko"):
+            return self._heuristic_result(title, summary, matched_companies, company_summary_source)
+
         try:
-            return self._openai_result(
-                source_language=source_language,
-                title=title,
-                summary=summary,
-                matched_companies=matched_companies,
-                matched_aliases=matched_aliases,
-                context=context,
+            translated_title, translated_company_summary = self._translate_texts(
+                [title, company_summary_source],
+                target_language="ko",
             )
         except EnrichmentError:
-            return self._heuristic_result(title, summary, matched_companies, context)
+            return self._heuristic_result(title, summary, matched_companies, company_summary_source)
+
+        formatted_company_summary = self._format_company_summary(
+            matched_companies,
+            translated_company_summary or company_summary_source or summary,
+        )
+        return EnrichmentResult(
+            is_related=True,
+            translated_title=translated_title or title,
+            translated_summary=formatted_company_summary,
+            company_summary=formatted_company_summary,
+        )
 
     def _heuristic_result(
         self,
         title: str,
         summary: str,
         matched_companies: List[str],
-        context: ArticleContext,
+        company_summary_source: str,
     ) -> EnrichmentResult:
-        company_summary = normalize_whitespace(
-            " ".join(context.relevant_sentences[:2]) or context.meta_description or summary
+        formatted_company_summary = self._format_company_summary(
+            matched_companies,
+            company_summary_source or summary or "요약 없음",
         )
-        if matched_companies and company_summary:
-            company_summary = f"{', '.join(matched_companies)} 관련 내용: {company_summary}"
         return EnrichmentResult(
             is_related=True,
             translated_title=title,
-            translated_summary=company_summary or summary or "요약 없음",
-            company_summary=company_summary or summary or "요약 없음",
+            translated_summary=formatted_company_summary,
+            company_summary=formatted_company_summary,
         )
 
-    def _openai_result(
-        self,
-        source_language: str,
-        title: str,
-        summary: str,
-        matched_companies: List[str],
-        matched_aliases: List[str],
-        context: ArticleContext,
-    ) -> EnrichmentResult:
-        assert self.config is not None
-        prompt_payload = {
-            "source_language": source_language,
-            "title": title,
-            "feed_summary": summary,
-            "matched_companies": matched_companies,
-            "matched_aliases": matched_aliases,
-            "company_related_sentences": context.relevant_sentences,
-            "article_context_excerpt": context.text_excerpt,
-        }
-        body = {
-            "model": self.config.model,
-            "temperature": 0.1,
-            "response_format": {"type": "json_object"},
-            "messages": [
-                {
-                    "role": "system",
-                    "content": (
-                        "You convert foreign news alerts into Korean monitoring output. "
-                        "Always respond with JSON. "
-                        "Rules: 1) translated_title must be natural Korean. "
-                        "2) translated_summary must be Korean and must explicitly say how the Korean company is involved. "
-                        "3) company_summary must focus only on the Korean company-related point in Korean. "
-                        "4) If the article is not genuinely related to the matched Korean company, set is_related to false."
-                    ),
-                },
-                {
-                    "role": "user",
-                    "content": json.dumps(prompt_payload, ensure_ascii=False),
-                },
-            ],
-        }
+    def _build_company_summary_source(self, summary: str, context: ArticleContext) -> str:
+        return normalize_whitespace(
+            " ".join(context.relevant_sentences[:2]) or context.meta_description or summary
+        )
 
+    def _format_company_summary(self, matched_companies: List[str], body: str) -> str:
+        normalized_body = normalize_whitespace(body)
+        if not normalized_body:
+            return "요약 없음"
+        if matched_companies:
+            return f"{', '.join(matched_companies)} 관련 내용: {normalized_body}"
+        return normalized_body
+
+    def _translate_texts(self, texts: List[str], target_language: str) -> List[str]:
+        assert self.config is not None
+        translated = list(texts)
+        indexed_texts = [
+            (index, normalize_whitespace(text))
+            for index, text in enumerate(texts)
+            if normalize_whitespace(text)
+        ]
+        if not indexed_texts:
+            return translated
+
+        request_url = f"{self.config.base_url}?{urlencode({'key': self.config.api_key})}"
+        body = {
+            "q": [text for _, text in indexed_texts],
+            "target": target_language,
+            "format": "text",
+        }
         request = Request(
-            self.config.base_url,
+            request_url,
             data=json.dumps(body).encode("utf-8"),
-            headers={
-                "Authorization": f"Bearer {self.config.api_key}",
-                "Content-Type": "application/json",
-            },
+            headers={"Content-Type": "application/json; charset=utf-8"},
             method="POST",
         )
         try:
-            with urlopen(request, timeout=30) as response:
+            with urlopen(request, timeout=20) as response:
                 payload = json.loads(response.read().decode("utf-8"))
         except HTTPError as exc:
-            raise EnrichmentError(f"OpenAI HTTP {exc.code}") from exc
+            raise EnrichmentError(f"Google Translate HTTP {exc.code}") from exc
         except URLError as exc:
-            raise EnrichmentError(f"OpenAI URL error: {exc.reason}") from exc
+            raise EnrichmentError(f"Google Translate URL error: {exc.reason}") from exc
         except OSError as exc:
-            raise EnrichmentError(f"OpenAI I/O error: {exc}") from exc
+            raise EnrichmentError(f"Google Translate I/O error: {exc}") from exc
 
         try:
-            content = payload["choices"][0]["message"]["content"]
-            parsed = json.loads(content)
-        except (KeyError, IndexError, json.JSONDecodeError) as exc:
-            raise EnrichmentError("OpenAI returned invalid JSON") from exc
+            items = payload["data"]["translations"]
+        except KeyError as exc:
+            raise EnrichmentError("Google Translate returned invalid JSON") from exc
+        if len(items) != len(indexed_texts):
+            raise EnrichmentError("Google Translate returned an unexpected item count")
 
-        return EnrichmentResult(
-            is_related=bool(parsed.get("is_related", True)),
-            translated_title=normalize_whitespace(parsed.get("translated_title") or title),
-            translated_summary=normalize_whitespace(parsed.get("translated_summary") or summary),
-            company_summary=normalize_whitespace(
-                parsed.get("company_summary") or parsed.get("translated_summary") or summary
-            ),
-            reason=normalize_whitespace(parsed.get("reason", "")),
-        )
+        for (index, _), item in zip(indexed_texts, items):
+            translated[index] = normalize_whitespace(unescape(item.get("translatedText", "")))
+        return translated
 
     def _looks_like_short_alias_false_positive(
         self, matched_aliases: List[str], context: ArticleContext
@@ -184,4 +172,3 @@ class ArticleEnricher:
         if not matched_aliases:
             return False
         return all(is_short_latin_alias(alias) for alias in matched_aliases)
-

@@ -37,17 +37,18 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GOOGLE_TRANSLATE_API_KEY: ${{ secrets.GOOGLE_TRANSLATE_API_KEY }}
         run: |
           test -n "${TELEGRAM_BOT_TOKEN}" || (echo "Missing TELEGRAM_BOT_TOKEN secret" && exit 1)
           test -n "${TELEGRAM_CHAT_ID}" || (echo "Missing TELEGRAM_CHAT_ID secret" && exit 1)
+          test -n "${GOOGLE_TRANSLATE_API_KEY}" || (echo "Missing GOOGLE_TRANSLATE_API_KEY secret" && exit 1)
 
       - name: Run monitor
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           TELEGRAM_MESSAGE_THREAD_ID: ${{ secrets.TELEGRAM_MESSAGE_THREAD_ID }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
+          GOOGLE_TRANSLATE_API_KEY: ${{ secrets.GOOGLE_TRANSLATE_API_KEY }}
         run: python -m src.main --since-hours 36 --max-items-per-feed 80
 
       - name: Commit updated outputs

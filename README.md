@@ -52,8 +52,9 @@ GitHub Actions가 UTC 기준 `09:00`, `23:00`에 실행된다.
 - `TELEGRAM_BOT_TOKEN`
 - `TELEGRAM_CHAT_ID`
 - `TELEGRAM_MESSAGE_THREAD_ID` (선택)
-- `OPENAI_API_KEY` (비영문 기사 한국어 번역과 회사 관련 요약 생성을 위해 사실상 필수)
-- `OPENAI_MODEL` (선택, 기본값 `gpt-4.1-mini`)
+- `GOOGLE_TRANSLATE_API_KEY` (비영문 기사 제목/회사 관련 요약을 한국어로 번역하기 위해 필수)
+
+번역은 Google Cloud Translation Basic(v2) API를 사용한다. 앱은 기사 전체를 번역하지 않고, 제목과 회사 관련 문장만 번역해 비용을 줄인다.
 
 ## 검증
 
