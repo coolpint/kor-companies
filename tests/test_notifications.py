@@ -38,9 +38,7 @@ class NotificationTests(unittest.TestCase):
                 )
             ],
         )
-        self.assertEqual(len(messages), 1)
-        self.assertIn("신규로 감지된 기사가 없다.", messages[0])
-        self.assertIn("Source A: timeout", messages[0])
+        self.assertEqual(messages, [])
 
     def test_build_summary_with_article(self):
         article = MatchedArticle(

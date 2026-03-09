@@ -55,10 +55,10 @@ def build_run_summary_messages(
     new_articles: List[MatchedArticle],
     source_runs: List[SourceRunResult],
 ) -> List[str]:
-    failed_sources = [item for item in source_runs if not item.success]
-    if not new_articles and not failed_sources:
+    if not new_articles:
         return []
 
+    failed_sources = [item for item in source_runs if not item.success]
     headline_lines = [
         "해외 언론 한국 기업 모니터링",
         f"실행: {run_at_label}",
@@ -71,18 +71,12 @@ def build_run_summary_messages(
         f"매칭 기사: {len(matched_articles)}건",
         f"신규 기사: {len(new_articles)}건",
     ]
-    if not new_articles:
-        headline_lines.append("신규로 감지된 기사가 없다.")
-
     if failed_sources:
         headline_lines.append("실패 소스:")
         for item in failed_sources[:8]:
             headline_lines.append(f"- {item.source_name}: {item.error}")
 
     messages = ["\n".join(headline_lines)]
-    if not new_articles:
-        return messages
-
     chunks: List[str] = []
     current = ""
     for index, article in enumerate(new_articles[:12], start=1):

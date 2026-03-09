@@ -53,9 +53,14 @@ class EnrichmentTests(unittest.TestCase):
             ),
         )
         self.assertTrue(result.is_related)
-        self.assertIn("Kia", result.company_summary)
+        self.assertIn("Kia 관련 기사다.", result.company_summary)
+        self.assertIn("기사 제목은 '起亜が新型EVを日本で公開'이다.", result.company_summary)
         self.assertIn("起亜", result.company_summary)
         self.assertIn("現地 딜러 네트워크 확대 계획도 밝혔다.", result.company_summary)
+        self.assertGreaterEqual(
+            result.company_summary.count(".") + result.company_summary.count("。"),
+            5,
+        )
 
     @patch("src.kor_companies.enrichment.urlopen")
     def test_google_translate_translates_title_and_company_summary(self, mock_urlopen):
@@ -64,6 +69,7 @@ class EnrichmentTests(unittest.TestCase):
                 "data": {
                     "translations": [
                         {"translatedText": "기아가 일본에서 신형 EV를 공개"},
+                        {"translatedText": "전시회에서 신형 EV를 소개했다."},
                         {
                             "translatedText": (
                                 "기아는 일본에서 신형 EV를 공개했다. "
@@ -97,13 +103,13 @@ class EnrichmentTests(unittest.TestCase):
         )
 
         self.assertEqual(result.translated_title, "기아가 일본에서 신형 EV를 공개")
-        self.assertEqual(
-            result.company_summary,
-            (
-                "Kia 관련 내용: 기아는 일본에서 신형 EV를 공개했다. 회사는 가격 전략도 함께 설명했다. "
-                "전시회에서는 충전 성능 개선을 강조했다. 판매 시점은 올해 하반기로 예상된다고 밝혔다. "
-                "현지 딜러 네트워크 확대 계획도 공개했다."
-            ),
+        self.assertIn("Kia 관련 기사다.", result.company_summary)
+        self.assertIn("기사 제목은 '기아가 일본에서 신형 EV를 공개'이다.", result.company_summary)
+        self.assertIn("전시회에서 신형 EV를 소개했다.", result.company_summary)
+        self.assertIn("현지 딜러 네트워크 확대 계획도 공개했다.", result.company_summary)
+        self.assertGreaterEqual(
+            result.company_summary.count(".") + result.company_summary.count("。"),
+            5,
         )
         self.assertEqual(result.translated_summary, result.company_summary)
 

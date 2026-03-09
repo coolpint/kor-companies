@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 import os
+import re
 from dataclasses import dataclass
 from html import unescape
 from typing import List, Optional
@@ -16,6 +17,9 @@ from .utils import normalize_whitespace
 
 class EnrichmentError(RuntimeError):
     """Raised when enrichment fails."""
+
+
+SUMMARY_SENTENCE_SPLIT_RE = re.compile(r"(?<=[\.\!\?。！？])\s*")
 
 
 @dataclass
@@ -66,21 +70,34 @@ class ArticleEnricher:
                 reason="short_alias_without_company_context",
             )
 
-        company_summary_source = self._build_company_summary_source(summary, context)
+        feed_summary_source = normalize_whitespace(summary or context.meta_description)
+        context_summary_source = self._build_company_summary_source(summary, context)
         if self.config is None or source_language.casefold().startswith("ko"):
-            return self._heuristic_result(title, summary, matched_companies, company_summary_source)
+            return self._heuristic_result(
+                title=title,
+                matched_companies=matched_companies,
+                feed_summary_source=feed_summary_source,
+                context_summary_source=context_summary_source,
+            )
 
         try:
-            translated_title, translated_company_summary = self._translate_texts(
-                [title, company_summary_source],
+            translated_title, translated_feed_summary, translated_context_summary = self._translate_texts(
+                [title, feed_summary_source, context_summary_source],
                 target_language="ko",
             )
         except EnrichmentError:
-            return self._heuristic_result(title, summary, matched_companies, company_summary_source)
+            return self._heuristic_result(
+                title=title,
+                matched_companies=matched_companies,
+                feed_summary_source=feed_summary_source,
+                context_summary_source=context_summary_source,
+            )
 
-        formatted_company_summary = self._format_company_summary(
-            matched_companies,
-            translated_company_summary or company_summary_source or summary,
+        formatted_company_summary = self._compose_company_summary(
+            matched_companies=matched_companies,
+            translated_title=translated_title or title,
+            translated_feed_summary=translated_feed_summary or feed_summary_source,
+            translated_context_summary=translated_context_summary or context_summary_source,
         )
         return EnrichmentResult(
             is_related=True,
@@ -92,13 +109,15 @@ class ArticleEnricher:
     def _heuristic_result(
         self,
         title: str,
-        summary: str,
         matched_companies: List[str],
-        company_summary_source: str,
+        feed_summary_source: str,
+        context_summary_source: str,
     ) -> EnrichmentResult:
-        formatted_company_summary = self._format_company_summary(
-            matched_companies,
-            company_summary_source or summary or "요약 없음",
+        formatted_company_summary = self._compose_company_summary(
+            matched_companies=matched_companies,
+            translated_title=title,
+            translated_feed_summary=feed_summary_source,
+            translated_context_summary=context_summary_source,
         )
         return EnrichmentResult(
             is_related=True,
@@ -115,13 +134,68 @@ class ArticleEnricher:
             or summary
         )
 
-    def _format_company_summary(self, matched_companies: List[str], body: str) -> str:
-        normalized_body = normalize_whitespace(body)
-        if not normalized_body:
-            return "요약 없음"
+    def _compose_company_summary(
+        self,
+        matched_companies: List[str],
+        translated_title: str,
+        translated_feed_summary: str,
+        translated_context_summary: str,
+    ) -> str:
+        sentences: List[str] = []
+
         if matched_companies:
-            return f"{', '.join(matched_companies)} 관련 내용: {normalized_body}"
-        return normalized_body
+            sentences.append(self._ensure_sentence(f"{', '.join(matched_companies)} 관련 기사다"))
+        if translated_title:
+            sentences.append(self._ensure_sentence(f"기사 제목은 '{translated_title}'이다"))
+
+        for candidate in self._split_summary_sentences(translated_feed_summary):
+            self._append_unique_sentence(sentences, candidate)
+        for candidate in self._split_summary_sentences(translated_context_summary):
+            self._append_unique_sentence(sentences, candidate)
+
+        fallback_sentences = [
+            "이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+            "가능한 경우 본문에서 회사 언급 전후 문맥을 함께 반영했다.",
+            "세부 내용은 원문 링크에서 추가로 확인할 수 있다.",
+        ]
+        for candidate in fallback_sentences:
+            self._append_unique_sentence(sentences, candidate)
+            if len(sentences) >= 5:
+                break
+
+        if not sentences:
+            return "요약 없음"
+        return " ".join(sentences[:8])
+
+    def _split_summary_sentences(self, text: str) -> List[str]:
+        normalized = normalize_whitespace(text)
+        if not normalized:
+            return []
+        return [
+            self._ensure_sentence(part)
+            for part in SUMMARY_SENTENCE_SPLIT_RE.split(normalized)
+            if normalize_whitespace(part)
+        ]
+
+    def _append_unique_sentence(self, sentences: List[str], candidate: str) -> None:
+        normalized_candidate = normalize_whitespace(candidate)
+        if not normalized_candidate:
+            return
+        candidate_key = self._sentence_key(normalized_candidate)
+        if any(self._sentence_key(existing) == candidate_key for existing in sentences):
+            return
+        sentences.append(normalized_candidate)
+
+    def _sentence_key(self, sentence: str) -> str:
+        return re.sub(r"[^\w가-힣\u3040-\u30ff\u3400-\u9fff]+", "", sentence).casefold()
+
+    def _ensure_sentence(self, text: str) -> str:
+        normalized = normalize_whitespace(text)
+        if not normalized:
+            return ""
+        if normalized[-1] in ".!?。！？":
+            return normalized
+        return normalized + "."
 
     def _translate_texts(self, texts: List[str], target_language: str) -> List[str]:
         assert self.config is not None
