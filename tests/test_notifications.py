@@ -21,8 +21,26 @@ class NotificationTests(unittest.TestCase):
                 )
             ],
         )
+        self.assertEqual(messages, [])
+
+    def test_build_summary_without_articles_but_with_failures(self):
+        messages = build_run_summary_messages(
+            run_at_label="2026-03-07 18:00:00 KST",
+            matched_articles=[],
+            new_articles=[],
+            source_runs=[
+                SourceRunResult(
+                    source_id="a",
+                    source_name="Source A",
+                    country_code="US",
+                    success=False,
+                    error="timeout",
+                )
+            ],
+        )
         self.assertEqual(len(messages), 1)
         self.assertIn("신규로 감지된 기사가 없다.", messages[0])
+        self.assertIn("Source A: timeout", messages[0])
 
     def test_build_summary_with_article(self):
         article = MatchedArticle(
@@ -61,4 +79,3 @@ class NotificationTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-

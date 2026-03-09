@@ -72,8 +72,11 @@ def main() -> int:
                 new_articles=summary.new_articles,
                 source_runs=summary.source_runs,
             )
-            sent_count = send_telegram_messages(telegram_config, messages)
-            print(f"telegram=sent messages={sent_count}")
+            if not messages:
+                print("telegram=skipped no_new_articles")
+            else:
+                sent_count = send_telegram_messages(telegram_config, messages)
+                print(f"telegram=sent messages={sent_count}")
     except (TelegramConfigError, TelegramSendError) as exc:
         print(f"telegram=failed error={exc}")
         return 1
