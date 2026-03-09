@@ -41,11 +41,21 @@ class EnrichmentTests(unittest.TestCase):
             summary="展示会で新型EVを紹介した。",
             matched_companies=["Kia"],
             matched_aliases=["起亜"],
-            context=ArticleContext(relevant_sentences=["起亜は日本で新型EVを公開した。"]),
+            context=ArticleContext(
+                relevant_sentences=["起亜は日本で新型EVを公開した。"],
+                summary_sentences=[
+                    "起亜は日本で新型EVを公開した。",
+                    "同社は価格戦略もあわせて説明した。",
+                    "展示会では充電 성능 개선도 강조했다.",
+                    "販売時期は今年後半を見込んでいる。",
+                    "現地 딜러 네트워크 확대 계획도 밝혔다.",
+                ],
+            ),
         )
         self.assertTrue(result.is_related)
         self.assertIn("Kia", result.company_summary)
         self.assertIn("起亜", result.company_summary)
+        self.assertIn("現地 딜러 네트워크 확대 계획도 밝혔다.", result.company_summary)
 
     @patch("src.kor_companies.enrichment.urlopen")
     def test_google_translate_translates_title_and_company_summary(self, mock_urlopen):
@@ -54,7 +64,15 @@ class EnrichmentTests(unittest.TestCase):
                 "data": {
                     "translations": [
                         {"translatedText": "기아가 일본에서 신형 EV를 공개"},
-                        {"translatedText": "기아는 일본에서 신형 EV를 공개했다."},
+                        {
+                            "translatedText": (
+                                "기아는 일본에서 신형 EV를 공개했다. "
+                                "회사는 가격 전략도 함께 설명했다. "
+                                "전시회에서는 충전 성능 개선을 강조했다. "
+                                "판매 시점은 올해 하반기로 예상된다고 밝혔다. "
+                                "현지 딜러 네트워크 확대 계획도 공개했다."
+                            )
+                        },
                     ]
                 }
             }
@@ -66,13 +84,26 @@ class EnrichmentTests(unittest.TestCase):
             summary="展示会で新型EVを紹介した。",
             matched_companies=["Kia"],
             matched_aliases=["起亜"],
-            context=ArticleContext(relevant_sentences=["起亜は日本で新型EVを公開した。"]),
+            context=ArticleContext(
+                relevant_sentences=["起亜は日本で新型EVを公開した。"],
+                summary_sentences=[
+                    "起亜は日本で新型EVを公開した。",
+                    "同社は価格戦略もあわせて説明した。",
+                    "展示会では充電性能の改善も強調した。",
+                    "販売時期は今年後半を見込んでいる。",
+                    "現地ディーラーネットワーク拡大計画も明らかにした。",
+                ],
+            ),
         )
 
         self.assertEqual(result.translated_title, "기아가 일본에서 신형 EV를 공개")
         self.assertEqual(
             result.company_summary,
-            "Kia 관련 내용: 기아는 일본에서 신형 EV를 공개했다.",
+            (
+                "Kia 관련 내용: 기아는 일본에서 신형 EV를 공개했다. 회사는 가격 전략도 함께 설명했다. "
+                "전시회에서는 충전 성능 개선을 강조했다. 판매 시점은 올해 하반기로 예상된다고 밝혔다. "
+                "현지 딜러 네트워크 확대 계획도 공개했다."
+            ),
         )
         self.assertEqual(result.translated_summary, result.company_summary)
 

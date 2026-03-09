@@ -79,7 +79,7 @@ def _build_markdown(run_at, matched_articles, new_articles, source_runs) -> str:
                     f"- 링크: {article.link}",
                     f"- 매칭 별칭: {', '.join(article.matched_aliases)}",
                     f"- 원문 제목: {article.original_title or article.title}",
-                    f"- 요약: {short_text(article.company_summary or article.summary or '요약 없음', 280)}",
+                    f"- 요약: {short_text(article.company_summary or article.summary or '요약 없음', 1400)}",
                     "",
                 ]
             )

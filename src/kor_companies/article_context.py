@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 import re
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from html import unescape
 from html.parser import HTMLParser
 from typing import List
@@ -28,6 +28,7 @@ BOILERPLATE_MARKERS = (
 @dataclass
 class ArticleContext:
     relevant_sentences: List[str]
+    summary_sentences: List[str] = field(default_factory=list)
     meta_description: str = ""
     text_excerpt: str = ""
     fetch_error: str = ""
@@ -72,11 +73,15 @@ def build_article_context(url: str, aliases: List[str], timeout: int = 20) -> Ar
     html = _decode_html(response.body)
     meta_description = _extract_meta_description(html)
     text = _extract_text(html)
-    relevant_sentences = _select_relevant_sentences(text, aliases)
-    excerpt_source = " ".join(relevant_sentences[:3]) if relevant_sentences else meta_description or text
+    sentences = _extract_candidate_sentences(text)
+    relevant_indices = _find_relevant_sentence_indices(sentences, aliases)
+    relevant_sentences = [sentences[index] for index in relevant_indices[:3]]
+    summary_sentences = _select_summary_sentences(sentences, relevant_indices)
+    excerpt_source = " ".join(summary_sentences) if summary_sentences else meta_description or text
 
     return ArticleContext(
         relevant_sentences=relevant_sentences[:3],
+        summary_sentences=summary_sentences[:5],
         meta_description=meta_description,
         text_excerpt=short_text(excerpt_source, 1200),
     )
@@ -104,11 +109,11 @@ def _extract_text(html: str) -> str:
     return parser.text()
 
 
-def _select_relevant_sentences(text: str, aliases: List[str]) -> List[str]:
+def _extract_candidate_sentences(text: str) -> List[str]:
     if not text:
         return []
     sentences = [normalize_whitespace(part) for part in SENTENCE_SPLIT_RE.split(text)]
-    relevant = []
+    candidates = []
     for sentence in sentences:
         if len(sentence) < 12:
             continue
@@ -116,8 +121,39 @@ def _select_relevant_sentences(text: str, aliases: List[str]) -> List[str]:
             continue
         if sentence.count("|") >= 2:
             continue
+        candidates.append(sentence)
+    return candidates
+
+
+def _find_relevant_sentence_indices(sentences: List[str], aliases: List[str]) -> List[int]:
+    relevant_indices = []
+    for index, sentence in enumerate(sentences):
         if find_matching_aliases(sentence, aliases):
-            relevant.append(sentence)
-        if len(relevant) >= 3:
+            relevant_indices.append(index)
+    return relevant_indices
+
+
+def _select_summary_sentences(
+    sentences: List[str], relevant_indices: List[int], max_sentences: int = 5
+) -> List[str]:
+    if not sentences:
+        return []
+
+    selected: List[str] = []
+    seen = set()
+    for index in relevant_indices:
+        for candidate_index in range(max(0, index - 2), min(len(sentences), index + 3)):
+            if candidate_index in seen:
+                continue
+            seen.add(candidate_index)
+            selected.append(sentences[candidate_index])
+            if len(selected) >= max_sentences:
+                return selected
+
+    for index, sentence in enumerate(sentences):
+        if index in seen:
+            continue
+        selected.append(sentence)
+        if len(selected) >= max_sentences:
             break
-    return relevant
+    return selected

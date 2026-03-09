@@ -109,7 +109,10 @@ class ArticleEnricher:
 
     def _build_company_summary_source(self, summary: str, context: ArticleContext) -> str:
         return normalize_whitespace(
-            " ".join(context.relevant_sentences[:2]) or context.meta_description or summary
+            " ".join(context.summary_sentences[:5])
+            or " ".join(context.relevant_sentences[:3])
+            or context.meta_description
+            or summary
         )
 
     def _format_company_summary(self, matched_companies: List[str], body: str) -> str:
