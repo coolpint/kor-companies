@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-03-09T00:17:14.414932+00:00",
+  "last_run_at": "2026-03-09T09:58:14.193992+00:00",
   "seen_articles": {
     "https://www.ft.com/content/3752d058-d3ee-41a4-b702-d49ae7f61b5c": {
       "title": "삼성은 애플의 스마트폰 시장 선두 자리를 위협하기 위해 AI 관련 인수합병을 추진하고 있다.",
@@ -12,6 +12,17 @@
       ],
       "first_seen_at": "2026-03-08T09:35:06.409707+00:00",
       "last_seen_at": "2026-03-09T00:17:14.414932+00:00"
+    },
+    "https://www.ft.com/content/04e5603e-e87c-4035-90a5-03c3d1da3a2e": {
+      "title": "한국의 주요 온라인 소매업체는 미국 회사인가요?",
+      "link": "https://www.ft.com/content/04e5603e-e87c-4035-90a5-03c3d1da3a2e",
+      "source_name": "Financial Times Companies",
+      "country_code": "GB",
+      "companies": [
+        "Coupang"
+      ],
+      "first_seen_at": "2026-03-09T09:58:14.193992+00:00",
+      "last_seen_at": "2026-03-09T09:58:14.193992+00:00"
     }
   }
 }
