@@ -20,6 +20,87 @@ class EnrichmentError(RuntimeError):
 
 
 SUMMARY_SENTENCE_SPLIT_RE = re.compile(r"(?<=[\.\!\?。！？])\s*")
+TRANSLATED_BOILERPLATE_MARKERS = (
+    "디지털 구독",
+    "인쇄판",
+    "관련 기사",
+    "관련 뉴스",
+    "북마크",
+    "링크 복사",
+    "최신 뉴스",
+    "더 많은 콘텐츠",
+    "구독하세요",
+    "로그아웃",
+    "내 계정",
+    "공유/저장",
+    "digital subscriber",
+    "print edition",
+    "related stories",
+    "related articles",
+    "link copied",
+    "copy link",
+    "latest news",
+    "sign up",
+    "subscribe",
+)
+TRANSLATED_SOCIAL_MARKERS = (
+    "facebook",
+    "linkedin",
+    "reddit",
+    "bluesky",
+    "threads",
+    "instagram",
+    "youtube",
+    "이메일",
+    "북마크",
+    "링크 복사",
+    "인쇄",
+    "bookmark",
+    "email",
+    "print",
+)
+TRANSLATED_CATEGORY_MARKERS = (
+    "정치",
+    "사회",
+    "범죄",
+    "법률",
+    "과학",
+    "건강",
+    "비즈니스",
+    "기업",
+    "경제",
+    "시장",
+    "기술",
+    "스포츠",
+    "축구",
+    "야구",
+    "농구",
+    "테니스",
+    "의견",
+    "사설",
+    "여행",
+    "음식",
+    "스타일",
+    "문화",
+    "영화",
+    "책",
+    "음악",
+    "미술",
+    "TV",
+    "스트리밍",
+    "환경",
+    "기후",
+    "에너지",
+    "정치",
+    "business",
+    "markets",
+    "technology",
+    "sports",
+    "opinion",
+    "travel",
+    "culture",
+    "entertainment",
+)
 
 
 @dataclass
@@ -127,6 +208,10 @@ class ArticleEnricher:
         )
 
     def _build_company_summary_source(self, summary: str, context: ArticleContext) -> str:
+        if context.low_confidence:
+            return normalize_whitespace(
+                " ".join(context.relevant_sentences[:3]) or context.meta_description or summary
+            )
         return normalize_whitespace(
             " ".join(context.summary_sentences[:5])
             or " ".join(context.relevant_sentences[:3])
@@ -181,6 +266,8 @@ class ArticleEnricher:
         normalized_candidate = normalize_whitespace(candidate)
         if not normalized_candidate:
             return
+        if self._looks_like_boilerplate_sentence(normalized_candidate):
+            return
         candidate_key = self._sentence_key(normalized_candidate)
         if any(self._sentence_key(existing) == candidate_key for existing in sentences):
             return
@@ -196,6 +283,26 @@ class ArticleEnricher:
         if normalized[-1] in ".!?。！？":
             return normalized
         return normalized + "."
+
+    def _looks_like_boilerplate_sentence(self, sentence: str) -> bool:
+        lowered = sentence.casefold()
+        marker_hits = sum(
+            1 for marker in TRANSLATED_BOILERPLATE_MARKERS if marker.casefold() in lowered
+        )
+        social_hits = sum(1 for marker in TRANSLATED_SOCIAL_MARKERS if marker.casefold() in lowered)
+        category_hits = sum(
+            1 for marker in TRANSLATED_CATEGORY_MARKERS if marker.casefold() in lowered
+        )
+
+        if marker_hits >= 1:
+            return True
+        if social_hits >= 3:
+            return True
+        if category_hits >= 6:
+            return True
+        if category_hits >= 4 and social_hits >= 1:
+            return True
+        return False
 
     def _translate_texts(self, texts: List[str], target_language: str) -> List[str]:
         assert self.config is not None

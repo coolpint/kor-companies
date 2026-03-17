@@ -62,6 +62,29 @@ class EnrichmentTests(unittest.TestCase):
             5,
         )
 
+    def test_boilerplate_sentences_are_skipped_from_company_summary(self):
+        enricher = ArticleEnricher(config=None)
+        result = enricher.enrich(
+            source_language="ko",
+            title="미국 법원, AI 활용 인수 분쟁에서 크래프톤에 불리한 판결",
+            summary="크래프톤은 미국 자회사 경영진 해임이 부당했다는 판결을 받았다.",
+            matched_companies=["Krafton"],
+            matched_aliases=["Krafton"],
+            context=ArticleContext(
+                relevant_sentences=["크래프톤은 미국 자회사 경영진 해임이 부당했다는 판결을 받았다."],
+                summary_sentences=[
+                    "디지털 구독 인쇄판 최신 뉴스 북마크 링크 복사.",
+                    "크래프톤은 미국 자회사 경영진 해임이 부당했다는 판결을 받았다.",
+                    "델라웨어 법원은 경영진 복직을 명령했다.",
+                    "회사는 2억5천만달러 규모 분쟁 대응 방식을 다시 검토하게 됐다.",
+                ],
+            ),
+        )
+
+        self.assertIn("크래프톤은 미국 자회사 경영진 해임이 부당했다는 판결을 받았다.", result.company_summary)
+        self.assertIn("델라웨어 법원은 경영진 복직을 명령했다.", result.company_summary)
+        self.assertNotIn("디지털 구독 인쇄판", result.company_summary)
+
     @patch("src.kor_companies.enrichment.urlopen")
     def test_google_translate_translates_title_and_company_summary(self, mock_urlopen):
         mock_urlopen.return_value = _FakeResponse(
