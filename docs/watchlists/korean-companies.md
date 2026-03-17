@@ -87,6 +87,7 @@
 | B | LS | LS Electric |
 | B | 한국항공우주산업 | Korea Aerospace Industries |
 | B | 아모레퍼시픽 | Amorepacific |
+| B | 게임 | NCSOFT, Nexon, Netmarble, Krafton |
 | B | 신세계 | Shinsegae, E-Mart |
 | B | 효성 | Hyosung, Hyosung Heavy Industries |
 | B | KT | KT Corp |

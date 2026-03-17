@@ -190,6 +190,46 @@
     "active": true
   },
   {
+    "canonical_name_ko": "엔씨소프트",
+    "canonical_name_en": "NCSOFT",
+    "group_name": "엔씨소프트",
+    "aliases_en": ["NCSOFT", "NCSoft"],
+    "aliases_ko": ["엔씨소프트"],
+    "aliases_local": ["エヌシーソフト", "NCソフト"],
+    "primary_brands": [],
+    "active": true
+  },
+  {
+    "canonical_name_ko": "넥슨",
+    "canonical_name_en": "Nexon",
+    "group_name": "넥슨",
+    "aliases_en": ["Nexon"],
+    "aliases_ko": ["넥슨"],
+    "aliases_local": ["ネクソン"],
+    "primary_brands": [],
+    "active": true
+  },
+  {
+    "canonical_name_ko": "넷마블",
+    "canonical_name_en": "Netmarble",
+    "group_name": "넷마블",
+    "aliases_en": ["Netmarble"],
+    "aliases_ko": ["넷마블"],
+    "aliases_local": ["ネットマーブル", "网石"],
+    "primary_brands": [],
+    "active": true
+  },
+  {
+    "canonical_name_ko": "크래프톤",
+    "canonical_name_en": "Krafton",
+    "group_name": "크래프톤",
+    "aliases_en": ["Krafton", "KRAFTON"],
+    "aliases_ko": ["크래프톤"],
+    "aliases_local": ["クラフトン"],
+    "primary_brands": [],
+    "active": true
+  },
+  {
     "canonical_name_ko": "쿠팡",
     "canonical_name_en": "Coupang",
     "group_name": "쿠팡",
