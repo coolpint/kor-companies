@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-03-16T23:35:47.040856+00:00",
+  "last_run_at": "2026-03-17T05:46:46.725641+00:00",
   "seen_articles": {
     "https://www.ft.com/content/3752d058-d3ee-41a4-b702-d49ae7f61b5c": {
       "title": "삼성은 애플의 스마트폰 시장 선두 자리를 위협하기 위해 AI 관련 인수합병을 추진하고 있다.",
@@ -23,6 +23,28 @@
       ],
       "first_seen_at": "2026-03-09T09:58:14.193992+00:00",
       "last_seen_at": "2026-03-09T13:57:53.851693+00:00"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/global-memory-chip-crunch-set-to-last-till-2030-sk-hynix": {
+      "title": "SK하이닉스, \"글로벌 메모리 칩 공급 부족 현상, 2030년까지 지속될 전망\"",
+      "link": "https://asia.nikkei.com/business/tech/semiconductors/global-memory-chip-crunch-set-to-last-till-2030-sk-hynix",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-03-17T05:46:46.725641+00:00",
+      "last_seen_at": "2026-03-17T05:46:46.725641+00:00"
+    },
+    "https://www.theguardian.com/technology/2026/mar/16/samsung-galaxy-s26-ultra-review": {
+      "title": "삼성 갤럭시 S26 울트라 리뷰: 거대한 화면 덕분에 뒤에서 몰래 엿보는 사람을 막을 수 있다",
+      "link": "https://www.theguardian.com/technology/2026/mar/16/samsung-galaxy-s26-ultra-review",
+      "source_name": "The Guardian Technology",
+      "country_code": "GB",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-03-17T05:46:46.725641+00:00",
+      "last_seen_at": "2026-03-17T05:46:46.725641+00:00"
     }
   }
 }
