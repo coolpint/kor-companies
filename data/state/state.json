@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-03-17T06:20:35.379285+00:00",
+  "last_run_at": "2026-03-17T07:04:12.911915+00:00",
   "seen_articles": {
     "https://www.ft.com/content/3752d058-d3ee-41a4-b702-d49ae7f61b5c": {
       "title": "삼성은 애플의 스마트폰 시장 선두 자리를 위협하기 위해 AI 관련 인수합병을 추진하고 있다.",
@@ -33,7 +33,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-03-17T05:46:46.725641+00:00",
-      "last_seen_at": "2026-03-17T06:20:35.379285+00:00"
+      "last_seen_at": "2026-03-17T07:04:12.911915+00:00"
     },
     "https://www.theguardian.com/technology/2026/mar/16/samsung-galaxy-s26-ultra-review": {
       "title": "삼성 갤럭시 S26 울트라 리뷰: 거대한 화면 덕분에 뒤에서 몰래 엿보는 사람을 막을 수 있다",
@@ -44,7 +44,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-03-17T05:46:46.725641+00:00",
-      "last_seen_at": "2026-03-17T06:20:35.379285+00:00"
+      "last_seen_at": "2026-03-17T07:04:12.911915+00:00"
     },
     "https://www.japantimes.co.jp/business/2026/03/17/tech/us-south-korea-gaming-ai": {
       "title": "미국 법원, AI를 이용한 인수 계획으로 한국 게임 회사에 불리한 판결 내려",
@@ -55,7 +55,7 @@
         "Krafton"
       ],
       "first_seen_at": "2026-03-17T06:20:35.379285+00:00",
-      "last_seen_at": "2026-03-17T06:20:35.379285+00:00"
+      "last_seen_at": "2026-03-17T07:04:12.911915+00:00"
     }
   }
 }
