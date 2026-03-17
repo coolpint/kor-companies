@@ -44,6 +44,28 @@
     "trust_tier": 1
   },
   {
+    "source_id": "foxbusiness_markets",
+    "source_name": "Fox Business Markets",
+    "country_code": "US",
+    "feed_url": "https://moxie.foxbusiness.com/google-publisher/markets.xml",
+    "homepage_url": "https://www.foxbusiness.com/markets",
+    "language": "en",
+    "category": "business",
+    "enabled": true,
+    "trust_tier": 2
+  },
+  {
+    "source_id": "foxbusiness_technology",
+    "source_name": "Fox Business Technology",
+    "country_code": "US",
+    "feed_url": "https://moxie.foxbusiness.com/google-publisher/technology.xml",
+    "homepage_url": "https://www.foxbusiness.com/technology",
+    "language": "en",
+    "category": "technology",
+    "enabled": true,
+    "trust_tier": 2
+  },
+  {
     "source_id": "chinadaily_bizchina",
     "source_name": "China Daily BizChina",
     "country_code": "CN",
@@ -51,9 +73,9 @@
     "homepage_url": "https://www.chinadaily.com.cn/business",
     "language": "en",
     "category": "business",
-    "enabled": false,
+    "enabled": true,
     "trust_tier": 2,
-    "notes": "공개 RSS는 있으나 최신성 검증이 더 필요함"
+    "notes": "China Daily 공식 RSS 목록에 포함된 비즈니스 피드"
   },
   {
     "source_id": "chinadaily_world",
@@ -63,9 +85,21 @@
     "homepage_url": "https://www.chinadaily.com.cn/world",
     "language": "en",
     "category": "world",
-    "enabled": false,
+    "enabled": true,
     "trust_tier": 2,
-    "notes": "공개 RSS는 있으나 최신성 검증이 더 필요함"
+    "notes": "China Daily 공식 RSS 목록에 포함된 월드 피드"
+  },
+  {
+    "source_id": "chinadaily_china",
+    "source_name": "China Daily China",
+    "country_code": "CN",
+    "feed_url": "https://www.chinadaily.com.cn/rss/china_rss.xml",
+    "homepage_url": "https://www.chinadaily.com.cn/china",
+    "language": "en",
+    "category": "general",
+    "enabled": true,
+    "trust_tier": 2,
+    "notes": "China Daily 공식 RSS 목록에 포함된 중국 일반 뉴스 피드"
   },
   {
     "source_id": "nikkei_asia",
@@ -275,6 +309,38 @@
     "category": "world",
     "enabled": true,
     "trust_tier": 1
+  },
+  {
+    "source_id": "guardian_business",
+    "source_name": "The Guardian Business",
+    "country_code": "GB",
+    "feed_url": "https://www.theguardian.com/business/rss",
+    "homepage_url": "https://www.theguardian.com/business",
+    "language": "en",
+    "category": "business",
+    "enabled": true,
+    "trust_tier": 1
+  },
+  {
+    "source_id": "guardian_world",
+    "source_name": "The Guardian World",
+    "country_code": "GB",
+    "feed_url": "https://www.theguardian.com/world/rss",
+    "homepage_url": "https://www.theguardian.com/world",
+    "language": "en",
+    "category": "world",
+    "enabled": true,
+    "trust_tier": 1
+  },
+  {
+    "source_id": "guardian_technology",
+    "source_name": "The Guardian Technology",
+    "country_code": "GB",
+    "feed_url": "https://www.theguardian.com/uk/technology/rss",
+    "homepage_url": "https://www.theguardian.com/uk/technology",
+    "language": "en",
+    "category": "technology",
+    "enabled": true,
+    "trust_tier": 1
   }
 ]
-

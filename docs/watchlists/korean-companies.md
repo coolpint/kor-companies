@@ -62,10 +62,10 @@
 
 | 구분 | 대표 회사/그룹 | 핵심 추적 대상 예시 |
 | --- | --- | --- |
-| A | 삼성 | Samsung Electronics, Samsung SDI, Samsung Biologics |
+| A | 삼성 | Samsung Electronics, Samsung SDI, Samsung Biologics, Samsung Heavy Industries |
 | A | SK | SK hynix, SK Innovation, SK Telecom |
 | A | 현대자동차그룹 | Hyundai Motor, Kia, Hyundai Mobis |
-| A | LG | LG Electronics, LG Energy Solution, LG Chem |
+| A | LG | LG Electronics, LG Energy Solution, LG Chem, LG Display |
 | A | 포스코 | POSCO Holdings, POSCO Future M |
 | A | 한화 | Hanwha Aerospace, Hanwha Ocean, Hanwha Solutions |
 | A | HD현대 | HD Hyundai, HD Hyundai Heavy Industries, HD Hyundai Electric |
@@ -73,6 +73,7 @@
 | A | CJ | CJ CheilJedang, CJ ENM |
 | A | 네이버 | NAVER |
 | A | 카카오 | Kakao |
+| A | HYBE | HYBE |
 | A | 쿠팡 | Coupang |
 | A | 셀트리온 | Celltrion |
 | A | 대한항공/한진 | Korean Air, Hanjin KAL |
@@ -84,6 +85,8 @@
 | B | GS | GS, GS Caltex, GS E&C |
 | B | 두산 | Doosan Enerbility, Doosan Bobcat |
 | B | LS | LS Electric |
+| B | 한국항공우주산업 | Korea Aerospace Industries |
+| B | 아모레퍼시픽 | Amorepacific |
 | B | 신세계 | Shinsegae, E-Mart |
 | B | 효성 | Hyosung, Hyosung Heavy Industries |
 | B | KT | KT Corp |

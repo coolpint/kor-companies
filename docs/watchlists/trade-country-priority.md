@@ -56,8 +56,8 @@
 
 ### 미국
 
-- 1차 후보: CNBC
-- 2차 후보: 미국 일반/경제 매체 RSS 또는 안정적 섹션 피드 1곳 추가 검증
+- 1차 후보: NYT Business, NPR Business, MarketWatch
+- 2차 후보: NYT Technology, Fox Business Markets, Fox Business Technology
 - 보조 수단: Google News US 검색 결과에서 허용 도메인만 통과
 
 메모:
@@ -67,8 +67,8 @@
 
 ### 중국
 
-- 1차 후보: China Daily RSS
-- 2차 후보: Global Times English
+- 1차 후보: China Daily BizChina, China Daily World
+- 2차 후보: China Daily China, Global Times English
 
 메모:
 
@@ -105,8 +105,8 @@
 
 ### 영국
 
-- 1차 후보: The Guardian RSS
-- 2차 후보: BBC News Business RSS
+- 1차 후보: BBC News Business RSS, FT Companies RSS
+- 2차 후보: The Guardian Business, World, Technology RSS
 
 메모:
 

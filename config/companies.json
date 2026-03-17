@@ -10,6 +10,26 @@
     "active": true
   },
   {
+    "canonical_name_ko": "삼성SDI",
+    "canonical_name_en": "Samsung SDI",
+    "group_name": "삼성",
+    "aliases_en": ["Samsung SDI"],
+    "aliases_ko": ["삼성SDI"],
+    "aliases_local": ["サムスンSDI", "三星SDI"],
+    "primary_brands": [],
+    "active": true
+  },
+  {
+    "canonical_name_ko": "삼성바이오로직스",
+    "canonical_name_en": "Samsung Biologics",
+    "group_name": "삼성",
+    "aliases_en": ["Samsung Biologics"],
+    "aliases_ko": ["삼성바이오로직스"],
+    "aliases_local": ["サムスンバイオロジクス"],
+    "primary_brands": [],
+    "active": true
+  },
+  {
     "canonical_name_ko": "SK하이닉스",
     "canonical_name_en": "SK hynix",
     "group_name": "SK",
@@ -40,6 +60,16 @@
     "active": true
   },
   {
+    "canonical_name_ko": "현대모비스",
+    "canonical_name_en": "Hyundai Mobis",
+    "group_name": "현대자동차그룹",
+    "aliases_en": ["Hyundai Mobis", "Hyundai Mobis Co"],
+    "aliases_ko": ["현대모비스"],
+    "aliases_local": ["現代モービス", "现代摩比斯"],
+    "primary_brands": [],
+    "active": true
+  },
+  {
     "canonical_name_ko": "LG에너지솔루션",
     "canonical_name_en": "LG Energy Solution",
     "group_name": "LG",
@@ -56,6 +86,26 @@
     "aliases_en": ["LG Electronics"],
     "aliases_ko": ["LG전자"],
     "aliases_local": ["LG電子"],
+    "primary_brands": [],
+    "active": true
+  },
+  {
+    "canonical_name_ko": "LG화학",
+    "canonical_name_en": "LG Chem",
+    "group_name": "LG",
+    "aliases_en": ["LG Chem", "LG Chem Ltd"],
+    "aliases_ko": ["LG화학"],
+    "aliases_local": ["LG化学", "LG化學"],
+    "primary_brands": [],
+    "active": true
+  },
+  {
+    "canonical_name_ko": "LG디스플레이",
+    "canonical_name_en": "LG Display",
+    "group_name": "LG",
+    "aliases_en": ["LG Display"],
+    "aliases_ko": ["LG디스플레이"],
+    "aliases_local": ["LGディスプレイ", "LG显示"],
     "primary_brands": [],
     "active": true
   },
@@ -100,6 +150,16 @@
     "active": true
   },
   {
+    "canonical_name_ko": "한국항공우주산업",
+    "canonical_name_en": "Korea Aerospace Industries",
+    "group_name": "한국항공우주산업",
+    "aliases_en": ["Korea Aerospace Industries"],
+    "aliases_ko": ["한국항공우주산업"],
+    "aliases_local": ["韓国航空宇宙産業", "韩国航空宇宙产业"],
+    "primary_brands": [],
+    "active": true
+  },
+  {
     "canonical_name_ko": "네이버",
     "canonical_name_en": "NAVER",
     "group_name": "네이버",
@@ -117,6 +177,16 @@
     "aliases_ko": ["카카오"],
     "aliases_local": ["カカオ"],
     "primary_brands": ["KakaoTalk"],
+    "active": true
+  },
+  {
+    "canonical_name_ko": "하이브",
+    "canonical_name_en": "HYBE",
+    "group_name": "HYBE",
+    "aliases_en": ["HYBE", "Hybe"],
+    "aliases_ko": ["하이브"],
+    "aliases_local": ["ハイブ"],
+    "primary_brands": [],
     "active": true
   },
   {
@@ -146,6 +216,16 @@
     "aliases_en": ["Korean Air", "Korean Air Lines"],
     "aliases_ko": ["대한항공"],
     "aliases_local": ["大韓航空"],
+    "primary_brands": [],
+    "active": true
+  },
+  {
+    "canonical_name_ko": "삼성중공업",
+    "canonical_name_en": "Samsung Heavy Industries",
+    "group_name": "삼성",
+    "aliases_en": ["Samsung Heavy Industries"],
+    "aliases_ko": ["삼성중공업"],
+    "aliases_local": ["サムスン重工業", "三星重工"],
     "primary_brands": [],
     "active": true
   },
@@ -186,6 +266,16 @@
     "aliases_en": ["Doosan Enerbility", "Doosan"],
     "aliases_ko": ["두산에너빌리티", "두산"],
     "aliases_local": ["斗山"],
+    "primary_brands": [],
+    "active": true
+  },
+  {
+    "canonical_name_ko": "아모레퍼시픽",
+    "canonical_name_en": "Amorepacific",
+    "group_name": "아모레퍼시픽",
+    "aliases_en": ["Amorepacific", "AmorePacific"],
+    "aliases_ko": ["아모레퍼시픽"],
+    "aliases_local": ["アモーレパシフィック", "爱茉莉太平洋"],
     "primary_brands": [],
     "active": true
   },
