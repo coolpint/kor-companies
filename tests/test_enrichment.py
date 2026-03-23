@@ -85,6 +85,32 @@ class EnrichmentTests(unittest.TestCase):
         self.assertIn("델라웨어 법원은 경영진 복직을 명령했다.", result.company_summary)
         self.assertNotIn("디지털 구독 인쇄판", result.company_summary)
 
+    def test_low_confidence_context_falls_back_to_meta_description(self):
+        enricher = ArticleEnricher(config=None)
+        result = enricher.enrich(
+            source_language="ko",
+            title="BTS 복귀 앞두고 하이브에 더 큰 검증 요구",
+            summary="",
+            matched_companies=["HYBE"],
+            matched_aliases=["하이브"],
+            context=ArticleContext(
+                relevant_sentences=[],
+                summary_sentences=[
+                    "강해련은 서울에서 활동하는 영화 제작자이자 저널리스트입니다.",
+                    "다음 기사 보기 미디어 & 엔터테인먼트 BTS 컴백 쇼.",
+                ],
+                meta_description="BTS 복귀를 앞두고 HYBE의 지배구조와 해외 확장 전략에 대한 검증 요구가 커지고 있다.",
+                low_confidence=True,
+            ),
+        )
+
+        self.assertIn(
+            "BTS 복귀를 앞두고 HYBE의 지배구조와 해외 확장 전략에 대한 검증 요구가 커지고 있다.",
+            result.company_summary,
+        )
+        self.assertNotIn("영화 제작자이자 저널리스트", result.company_summary)
+        self.assertNotIn("다음 기사 보기", result.company_summary)
+
     @patch("src.kor_companies.enrichment.urlopen")
     def test_google_translate_translates_title_and_company_summary(self, mock_urlopen):
         mock_urlopen.return_value = _FakeResponse(

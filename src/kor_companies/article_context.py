@@ -11,9 +11,19 @@ from .fetcher import FetchError, fetch_url
 from .matcher import find_matching_aliases
 from .utils import normalize_whitespace, short_text
 
-META_DESCRIPTION_RE = re.compile(
-    r'<meta[^>]+name=["\']description["\'][^>]+content=["\']([^"\']+)["\']',
-    re.IGNORECASE,
+META_DESCRIPTION_PATTERNS = (
+    re.compile(
+        r'<meta[^>]+name=["\']description["\'][^>]+content=["\']([^"\']+)["\']',
+        re.IGNORECASE,
+    ),
+    re.compile(
+        r'<meta[^>]+property=["\']og:description["\'][^>]+content=["\']([^"\']+)["\']',
+        re.IGNORECASE,
+    ),
+    re.compile(
+        r'<meta[^>]+name=["\']twitter:description["\'][^>]+content=["\']([^"\']+)["\']',
+        re.IGNORECASE,
+    ),
 )
 SENTENCE_SPLIT_RE = re.compile(r"(?<=[\.\!\?。！？])")
 SKIP_TEXT_TAGS = {
@@ -78,6 +88,9 @@ DOMAIN_BOILERPLATE_MARKERS = {
     "asia.nikkei.com": (
         "exclusive subscriber content",
         "read next",
+        "mission k-pop",
+        "usg audio",
+        "media & entertainment",
     ),
     "theguardian.com": (
         "skip to main content",
@@ -104,6 +117,17 @@ SOCIAL_MARKERS = (
     "bookmark",
     "copy link",
     "print",
+)
+AUTHOR_BIO_MARKERS = (
+    "journalist",
+    "columnist",
+    "editor",
+    "reporter",
+    "producer",
+    "filmmaker",
+    "documentary",
+    "podcast",
+    "host",
 )
 CATEGORY_MARKERS = (
     "politics",
@@ -233,10 +257,11 @@ def _decode_html(payload: bytes) -> str:
 
 
 def _extract_meta_description(html: str) -> str:
-    match = META_DESCRIPTION_RE.search(html)
-    if not match:
-        return ""
-    return normalize_whitespace(unescape(match.group(1)))
+    for pattern in META_DESCRIPTION_PATTERNS:
+        match = pattern.search(html)
+        if match:
+            return normalize_whitespace(unescape(match.group(1)))
+    return ""
 
 
 def _extract_text(html: str) -> str:
@@ -390,6 +415,8 @@ def _is_noise_sentence(sentence: str, boilerplate_markers: List[str]) -> bool:
     social_hits = sum(1 for marker in SOCIAL_MARKERS if marker in lowered)
     category_hits = sum(1 for marker in CATEGORY_MARKERS if marker in lowered)
 
+    if _looks_like_author_bio(sentence):
+        return True
     if marker_hits >= 2:
         return True
     if social_hits >= 3:
@@ -401,6 +428,18 @@ def _is_noise_sentence(sentence: str, boilerplate_markers: List[str]) -> bool:
     if len(sentence) > 220 and category_hits >= 4:
         return True
     return False
+
+
+def _looks_like_author_bio(sentence: str) -> bool:
+    lowered = sentence.casefold()
+    bio_hits = sum(1 for marker in AUTHOR_BIO_MARKERS if marker in lowered)
+    if bio_hits == 0:
+        return False
+    if "is a " in lowered or "is an " in lowered:
+        return True
+    if "host of" in lowered or "director of" in lowered:
+        return True
+    return bio_hits >= 2
 
 
 def _is_low_confidence(

@@ -25,6 +25,7 @@ TRANSLATED_BOILERPLATE_MARKERS = (
     "인쇄판",
     "관련 기사",
     "관련 뉴스",
+    "다음 기사 보기",
     "북마크",
     "링크 복사",
     "최신 뉴스",
@@ -60,6 +61,7 @@ TRANSLATED_SOCIAL_MARKERS = (
     "print",
 )
 TRANSLATED_CATEGORY_MARKERS = (
+    "미디어 & 엔터테인먼트",
     "정치",
     "사회",
     "범죄",
@@ -100,6 +102,17 @@ TRANSLATED_CATEGORY_MARKERS = (
     "travel",
     "culture",
     "entertainment",
+)
+TRANSLATED_AUTHOR_BIO_MARKERS = (
+    "저널리스트",
+    "칼럼니스트",
+    "기자",
+    "편집자",
+    "영화 제작자",
+    "다큐멘터리",
+    "팟캐스트",
+    "진행자",
+    "감독",
 )
 
 
@@ -293,8 +306,13 @@ class ArticleEnricher:
         category_hits = sum(
             1 for marker in TRANSLATED_CATEGORY_MARKERS if marker.casefold() in lowered
         )
+        author_bio_hits = sum(
+            1 for marker in TRANSLATED_AUTHOR_BIO_MARKERS if marker.casefold() in lowered
+        )
 
         if marker_hits >= 1:
+            return True
+        if author_bio_hits >= 2:
             return True
         if social_hits >= 3:
             return True

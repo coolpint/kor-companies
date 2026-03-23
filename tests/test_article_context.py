@@ -88,6 +88,48 @@ class ArticleContextTests(unittest.TestCase):
         self.assertEqual(context.summary_sentences, [])
         self.assertEqual(context.meta_description, "Krafton dispute heads to Delaware court.")
 
+    @patch("src.kor_companies.article_context.fetch_url")
+    def test_build_article_context_uses_og_description_and_filters_nikkei_bio(self, mock_fetch_url):
+        html = """
+        <html>
+          <head>
+            <meta
+              property="og:description"
+              content="As BTS returns to the stage, HYBE faces pressure to improve governance and overseas expansion discipline."
+            />
+          </head>
+          <body>
+            <article>
+              <p>
+                Hae-Ryoun Kang is a Seoul-based filmmaker and journalist. She is also the host of
+                the eight-part podcast Mission K-Pop produced by USG Audio and Novel.
+              </p>
+              <p>
+                Read next Media &amp; Entertainment BTS comeback show comes to Netflix as an
+                exclusive 'Dynamite' performance.
+              </p>
+            </article>
+          </body>
+        </html>
+        """
+        mock_fetch_url.return_value = FetchResponse(
+            url="https://asia.nikkei.com/opinion/bts-back-to-showbiz-group-s-agency-hybe-demands-closer-scrutiny",
+            body=html.encode("utf-8"),
+            content_type="text/html",
+        )
+
+        context = build_article_context(
+            "https://asia.nikkei.com/opinion/bts-back-to-showbiz-group-s-agency-hybe-demands-closer-scrutiny",
+            aliases=["HYBE"],
+        )
+
+        self.assertTrue(context.low_confidence)
+        self.assertEqual(context.summary_sentences, [])
+        self.assertEqual(
+            context.meta_description,
+            "As BTS returns to the stage, HYBE faces pressure to improve governance and overseas expansion discipline.",
+        )
+
 
 if __name__ == "__main__":
     unittest.main()
