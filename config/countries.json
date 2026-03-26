@@ -46,6 +46,21 @@
     "priority": "P2",
     "languages": ["en"],
     "active": true
+  },
+  {
+    "country_code": "FR",
+    "country_name_ko": "프랑스",
+    "country_name_en": "France",
+    "priority": "P2",
+    "languages": ["fr", "en"],
+    "active": true
+  },
+  {
+    "country_code": "EU",
+    "country_name_ko": "유럽",
+    "country_name_en": "Europe",
+    "priority": "P2",
+    "languages": ["en"],
+    "active": true
   }
 ]
-

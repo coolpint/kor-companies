@@ -1,12 +1,15 @@
 from __future__ import annotations
 
+import json
 import re
 from dataclasses import dataclass, field
+from datetime import datetime
 from html import unescape
 from html.parser import HTMLParser
-from typing import List
+from typing import Any, List, Optional
 from urllib.parse import urlsplit
 
+from .feed_parser import parse_datetime
 from .fetcher import FetchError, fetch_url
 from .matcher import find_matching_aliases
 from .utils import normalize_whitespace, short_text
@@ -25,7 +28,26 @@ META_DESCRIPTION_PATTERNS = (
         re.IGNORECASE,
     ),
 )
+META_DATE_PATTERNS = (
+    re.compile(
+        r'<meta[^>]+name=["\']date["\'][^>]+content=["\']([^"\']+)["\']',
+        re.IGNORECASE,
+    ),
+    re.compile(
+        r'<meta[^>]+property=["\']article:published_time["\'][^>]+content=["\']([^"\']+)["\']',
+        re.IGNORECASE,
+    ),
+    re.compile(
+        r'"datePublished"\s*:\s*"([^"]+)"',
+        re.IGNORECASE,
+    ),
+)
+JSON_LD_SCRIPT_RE = re.compile(
+    r'<script[^>]+type=["\']application/ld\+json["\'][^>]*>(.*?)</script>',
+    re.IGNORECASE | re.DOTALL,
+)
 SENTENCE_SPLIT_RE = re.compile(r"(?<=[\.\!\?。！？])")
+STRUCTURED_SUMMARY_KEYS = ("description", "alternativeHeadline")
 SKIP_TEXT_TAGS = {
     "script",
     "style",
@@ -76,6 +98,24 @@ GENERIC_BOILERPLATE_MARKERS = (
     "共有",
     "ブックマーク",
     "最新ニュース",
+    "sponsored content",
+    "this content was commissioned",
+)
+TRAILING_BOILERPLATE_MARKERS = (
+    "read next",
+    "next article",
+    "sponsored content",
+    "sponsor content",
+    "this content was commissioned",
+    "nikkei global business bureau",
+    "continue reading",
+    "recommended stories",
+    "related stories",
+    "related articles",
+)
+TRAILING_BOILERPLATE_TOKENS = (
+    "©",
+    "copyright",
 )
 DOMAIN_BOILERPLATE_MARKERS = {
     "japantimes.co.jp": (
@@ -91,6 +131,9 @@ DOMAIN_BOILERPLATE_MARKERS = {
         "mission k-pop",
         "usg audio",
         "media & entertainment",
+        "sponsored content",
+        "nikkei global business bureau",
+        "this content was commissioned",
     ),
     "theguardian.com": (
         "skip to main content",
@@ -168,7 +211,9 @@ CATEGORY_MARKERS = (
     "soccer",
     "sustainability",
     "wildlife",
+    "electric vehicles",
 )
+TITLE_CASE_WORD_RE = re.compile(r"\b[A-Z][a-z]+(?:'[a-z]+)?\b")
 
 
 @dataclass
@@ -179,6 +224,7 @@ class ArticleContext:
     text_excerpt: str = ""
     fetch_error: str = ""
     low_confidence: bool = False
+    published_at_hint: Optional[datetime] = None
 
     @property
     def has_relevant_sentences(self) -> bool:
@@ -219,6 +265,7 @@ def build_article_context(url: str, aliases: List[str], timeout: int = 20) -> Ar
 
     html = _decode_html(response.body)
     meta_description = _extract_meta_description(html)
+    published_at_hint = _extract_meta_published_at(html)
     text = _extract_text(html)
     boilerplate_markers = _boilerplate_markers_for_url(response.url or url)
     sentences = _extract_candidate_sentences(text, boilerplate_markers)
@@ -230,13 +277,15 @@ def build_article_context(url: str, aliases: List[str], timeout: int = 20) -> Ar
         aliases,
         boilerplate_markers,
     )
-    excerpt_source = " ".join(summary_sentences) if summary_sentences else meta_description or text
     low_confidence = _is_low_confidence(
         summary_sentences=summary_sentences,
         relevant_sentences=relevant_sentences,
         summary_scores=summary_scores,
         meta_description=meta_description,
     )
+    if low_confidence:
+        summary_sentences = []
+    excerpt_source = " ".join(summary_sentences) if summary_sentences else meta_description or text
 
     return ArticleContext(
         relevant_sentences=relevant_sentences[:3],
@@ -244,6 +293,7 @@ def build_article_context(url: str, aliases: List[str], timeout: int = 20) -> Ar
         meta_description=meta_description,
         text_excerpt=short_text(excerpt_source, 1200),
         low_confidence=low_confidence,
+        published_at_hint=published_at_hint,
     )
 
 
@@ -257,11 +307,35 @@ def _decode_html(payload: bytes) -> str:
 
 
 def _extract_meta_description(html: str) -> str:
-    for pattern in META_DESCRIPTION_PATTERNS:
+    candidates = _collect_meta_description_candidates(html)
+    if not candidates:
+        return ""
+
+    scored_candidates = sorted(
+        candidates,
+        key=lambda candidate: (_meta_description_score(candidate), len(candidate)),
+        reverse=True,
+    )
+    selected: List[str] = []
+    for candidate in scored_candidates:
+        if any(candidate.casefold() in existing.casefold() for existing in selected):
+            continue
+        selected.append(candidate)
+        if len(selected) >= 2:
+            break
+    joined = " ".join(_ensure_terminal_punctuation(candidate) for candidate in selected)
+    return normalize_whitespace(joined)
+
+
+def _extract_meta_published_at(html: str):
+    for pattern in META_DATE_PATTERNS:
         match = pattern.search(html)
-        if match:
-            return normalize_whitespace(unescape(match.group(1)))
-    return ""
+        if not match:
+            continue
+        published_at = parse_datetime(unescape(match.group(1)))
+        if published_at is not None:
+            return published_at
+    return None
 
 
 def _extract_text(html: str) -> str:
@@ -279,12 +353,97 @@ def _boilerplate_markers_for_url(url: str) -> List[str]:
     return markers
 
 
+def _collect_meta_description_candidates(html: str) -> List[str]:
+    candidates: List[str] = []
+    for pattern in META_DESCRIPTION_PATTERNS:
+        for match in pattern.finditer(html):
+            _append_unique_candidate(candidates, _clean_meta_candidate(match.group(1)))
+
+    for script_body in JSON_LD_SCRIPT_RE.findall(html):
+        for candidate in _extract_structured_summaries(script_body):
+            _append_unique_candidate(candidates, _clean_meta_candidate(candidate))
+
+    return candidates
+
+
+def _extract_structured_summaries(script_body: str) -> List[str]:
+    try:
+        payload = json.loads(unescape(script_body))
+    except json.JSONDecodeError:
+        return []
+
+    candidates: List[str] = []
+    for value in _walk_structured_values(payload):
+        if not isinstance(value, dict):
+            continue
+        for key in STRUCTURED_SUMMARY_KEYS:
+            _append_unique_candidate(candidates, _clean_meta_candidate(value.get(key, "")))
+    return candidates
+
+
+def _walk_structured_values(value: Any):
+    if isinstance(value, dict):
+        yield value
+        for child in value.values():
+            yield from _walk_structured_values(child)
+    elif isinstance(value, list):
+        for child in value:
+            yield from _walk_structured_values(child)
+
+
+def _append_unique_candidate(candidates: List[str], candidate: str) -> None:
+    if not candidate:
+        return
+    key = candidate.casefold()
+    if any(existing.casefold() == key for existing in candidates):
+        return
+    candidates.append(candidate)
+
+
+def _clean_meta_candidate(value: str) -> str:
+    cleaned = normalize_whitespace(unescape(value))
+    if not cleaned:
+        return ""
+    if cleaned[-1] not in ".!?。！？":
+        tokens = cleaned.split()
+        if tokens and len(tokens[-1]) <= 3:
+            cleaned = " ".join(tokens[:-1]).rstrip(" ,;:-")
+    return normalize_whitespace(cleaned)
+
+
+def _meta_description_score(candidate: str) -> int:
+    lowered = candidate.casefold()
+    score = 0
+    if 40 <= len(candidate) <= 220:
+        score += 3
+    elif len(candidate) >= 24:
+        score += 1
+    if candidate[-1] in ".!?。！？":
+        score += 2
+    if " -- " in candidate or ": " in candidate:
+        score += 1
+    if sum(1 for marker in GENERIC_BOILERPLATE_MARKERS if marker.casefold() in lowered):
+        score -= 10
+    if _looks_like_headline_blob(candidate):
+        score -= 4
+    return score
+
+
+def _ensure_terminal_punctuation(value: str) -> str:
+    if not value:
+        return ""
+    if value[-1] in ".!?。！？":
+        return value
+    return value + "."
+
+
 def _extract_candidate_sentences(text: str, boilerplate_markers: List[str]) -> List[str]:
     if not text:
         return []
     sentences = [normalize_whitespace(part) for part in SENTENCE_SPLIT_RE.split(text)]
     candidates = []
     for sentence in sentences:
+        sentence = _trim_trailing_boilerplate(sentence)
         if len(sentence) < 12:
             continue
         if sentence.count("|") >= 2:
@@ -417,6 +576,8 @@ def _is_noise_sentence(sentence: str, boilerplate_markers: List[str]) -> bool:
 
     if _looks_like_author_bio(sentence):
         return True
+    if _looks_like_headline_blob(sentence):
+        return True
     if marker_hits >= 2:
         return True
     if social_hits >= 3:
@@ -428,6 +589,31 @@ def _is_noise_sentence(sentence: str, boilerplate_markers: List[str]) -> bool:
     if len(sentence) > 220 and category_hits >= 4:
         return True
     return False
+
+
+def _trim_trailing_boilerplate(sentence: str) -> str:
+    trimmed = normalize_whitespace(sentence)
+    if not trimmed:
+        return ""
+
+    lowered = trimmed.casefold()
+    cut_positions = []
+    for marker in TRAILING_BOILERPLATE_MARKERS:
+        position = lowered.find(marker.casefold())
+        if position > 0:
+            cut_positions.append(position)
+        elif position == 0:
+            return ""
+    for token in TRAILING_BOILERPLATE_TOKENS:
+        position = trimmed.find(token)
+        if position > 0:
+            cut_positions.append(position)
+        elif position == 0:
+            return ""
+
+    if cut_positions:
+        trimmed = trimmed[: min(cut_positions)]
+    return normalize_whitespace(trimmed.rstrip(" -|:;,.!"))
 
 
 def _looks_like_author_bio(sentence: str) -> bool:
@@ -442,6 +628,25 @@ def _looks_like_author_bio(sentence: str) -> bool:
     return bio_hits >= 2
 
 
+def _looks_like_headline_blob(sentence: str) -> bool:
+    lowered = sentence.casefold()
+    if len(sentence) < 80:
+        return False
+    words = sentence.split()
+    title_case_ratio = 0.0
+    if words:
+        title_case_ratio = len(TITLE_CASE_WORD_RE.findall(sentence)) / len(words)
+    if any(lowered.startswith(marker + " ") for marker in CATEGORY_MARKERS):
+        return True
+    if not re.search(r"[.!?。！？]", sentence) and len(sentence) >= 110 and title_case_ratio >= 0.33:
+        return True
+    if sentence[-1:].isupper() and title_case_ratio >= 0.25:
+        return True
+    if len(words) >= 12 and title_case_ratio >= 0.45:
+        return True
+    return False
+
+
 def _is_low_confidence(
     summary_sentences: List[str],
     relevant_sentences: List[str],
@@ -449,6 +654,8 @@ def _is_low_confidence(
     meta_description: str,
 ) -> bool:
     if not summary_sentences and not relevant_sentences:
+        return True
+    if any(_looks_like_headline_blob(sentence) for sentence in summary_sentences + relevant_sentences):
         return True
     if relevant_sentences and summary_scores and max(summary_scores) >= 5:
         return False

@@ -342,5 +342,71 @@
     "category": "technology",
     "enabled": true,
     "trust_tier": 1
+  },
+  {
+    "source_id": "lemonde_economie",
+    "source_name": "Le Monde Economie",
+    "country_code": "FR",
+    "feed_url": "https://www.lemonde.fr/economie/rss_full.xml",
+    "homepage_url": "https://www.lemonde.fr/economie/",
+    "language": "fr",
+    "category": "business",
+    "enabled": true,
+    "trust_tier": 1
+  },
+  {
+    "source_id": "lemonde_international",
+    "source_name": "Le Monde International",
+    "country_code": "FR",
+    "feed_url": "https://www.lemonde.fr/international/rss_full.xml",
+    "homepage_url": "https://www.lemonde.fr/international/",
+    "language": "fr",
+    "category": "world",
+    "enabled": true,
+    "trust_tier": 1
+  },
+  {
+    "source_id": "france24_business_tech",
+    "source_name": "France 24 Business / Tech",
+    "country_code": "FR",
+    "feed_url": "https://www.france24.com/en/business-tech/rss",
+    "homepage_url": "https://www.france24.com/en/business-tech/",
+    "language": "en",
+    "category": "business",
+    "enabled": true,
+    "trust_tier": 1
+  },
+  {
+    "source_id": "france24_europe",
+    "source_name": "France 24 Europe",
+    "country_code": "FR",
+    "feed_url": "https://www.france24.com/en/europe/rss",
+    "homepage_url": "https://www.france24.com/en/europe/",
+    "language": "en",
+    "category": "world",
+    "enabled": true,
+    "trust_tier": 1
+  },
+  {
+    "source_id": "euronews_business",
+    "source_name": "Euronews Business",
+    "country_code": "EU",
+    "feed_url": "https://www.euronews.com/rss?level=theme&name=business",
+    "homepage_url": "https://www.euronews.com/business",
+    "language": "en",
+    "category": "business",
+    "enabled": true,
+    "trust_tier": 1
+  },
+  {
+    "source_id": "politico_europe",
+    "source_name": "POLITICO Europe",
+    "country_code": "EU",
+    "feed_url": "https://www.politico.eu/feed/",
+    "homepage_url": "https://www.politico.eu/",
+    "language": "en",
+    "category": "world",
+    "enabled": true,
+    "trust_tier": 1
   }
 ]

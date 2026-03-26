@@ -28,6 +28,8 @@
 | P1 | 베트남 | 운영 시작 포함 | 사용자 요청 고정 |
 | P2 | 독일 | 운영 시작 포함 | EU 대표국 성격 |
 | P2 | 영국 | 운영 시작 포함 | 금융/비즈니스 기사 비중 고려 |
+| P2 | 프랑스 | 운영 확장 포함 | 르몽드, France 24로 유럽 기업/정책 기사 보강 |
+| P2 | 유럽권 공통 | 운영 확장 포함 | Euronews, POLITICO Europe로 범유럽 정책/산업 기사 보강 |
 
 ## 향후 추가 후보 국가
 
@@ -112,6 +114,26 @@
 
 - 영국은 글로벌 기업 기사량이 많아 우선순위가 높다.
 
+### 프랑스
+
+- 1차 후보: Le Monde Economie RSS, France 24 Business / Tech RSS
+- 2차 후보: Le Monde International RSS, France 24 Europe RSS
+
+메모:
+
+- 프랑스는 유럽 산업정책, 배터리, 자동차, 규제 기사에서 한국 기업 노출이 상대적으로 잦다.
+- 르몽드는 프랑스어지만 구조가 안정적이고, France 24는 영문 유럽 기사 보강에 유리하다.
+
+### 유럽권 공통
+
+- 1차 후보: Euronews Business RSS, POLITICO Europe RSS
+
+메모:
+
+- 범유럽 매체는 국가 코드와 별도로 `EU` 묶음으로 관리한다.
+- 개별 교역국과 달리 규제, 배터리, 자동차, 통상 정책 기사를 빨리 포착하는 데 강하다.
+- Reuters, Telex처럼 영향력은 크지만 공식 피드 안정성이 떨어지는 매체는 후순위로 둔다.
+
 ## Google News를 보조 수단으로만 쓰는 이유
 
 - 장점: 국가별 기사 발굴 범위가 넓다.
@@ -176,3 +198,7 @@
 - tagesschau RSS 안내: https://www.tagesschau.de/infoservices/rssfeeds
 - The Guardian RSS 안내: https://www.theguardian.com/help/feeds
 - BBC News RSS 안내: https://feeds.bbci.co.uk/news/10628494
+- Le Monde RSS: https://www.lemonde.fr/rss/
+- France 24 RSS 예시: https://www.france24.com/en/business-tech/rss
+- Euronews RSS: https://www.euronews.com/rss
+- POLITICO Europe RSS: https://www.politico.eu/feed/

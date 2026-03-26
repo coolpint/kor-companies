@@ -26,6 +26,7 @@ TRANSLATED_BOILERPLATE_MARKERS = (
     "관련 기사",
     "관련 뉴스",
     "다음 기사 보기",
+    "다음 기사 읽기",
     "북마크",
     "링크 복사",
     "최신 뉴스",
@@ -43,6 +44,11 @@ TRANSLATED_BOILERPLATE_MARKERS = (
     "latest news",
     "sign up",
     "subscribe",
+    "스폰서 콘텐츠",
+    "후원 콘텐츠",
+    "본 콘텐츠는",
+    "의뢰로 제작되었습니다",
+    "닛케이 글로벌 비즈니스 뷰로",
 )
 TRANSLATED_SOCIAL_MARKERS = (
     "facebook",
@@ -223,7 +229,9 @@ class ArticleEnricher:
     def _build_company_summary_source(self, summary: str, context: ArticleContext) -> str:
         if context.low_confidence:
             return normalize_whitespace(
-                " ".join(context.relevant_sentences[:3]) or context.meta_description or summary
+                context.meta_description
+                or summary
+                or " ".join(context.relevant_sentences[:2])
             )
         return normalize_whitespace(
             " ".join(context.summary_sentences[:5])

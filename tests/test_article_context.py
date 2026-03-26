@@ -1,4 +1,5 @@
 import unittest
+from datetime import timezone
 from unittest.mock import patch
 
 from src.kor_companies.article_context import build_article_context
@@ -129,6 +130,99 @@ class ArticleContextTests(unittest.TestCase):
             context.meta_description,
             "As BTS returns to the stage, HYBE faces pressure to improve governance and overseas expansion discipline.",
         )
+
+    @patch("src.kor_companies.article_context.fetch_url")
+    def test_build_article_context_trims_nikkei_related_and_sponsored_blocks(self, mock_fetch_url):
+        html = """
+        <html>
+          <head>
+            <meta
+              property="og:description"
+              content="Samsung SDI faces scrutiny in Hungary as environmental and safety concerns intensify."
+            />
+          </head>
+          <body>
+            <article>
+              <p>
+                Samsung SDI is facing four criminal investigations in Hungary over environmental
+                and safety violations ahead of the election campaign.
+                Read next Tech Korean battery makers target robots as EV demand cools.
+                Sponsored Content This content was commissioned by Nikkei Global Business Bureau.
+              </p>
+              <p>
+                The controversy has become a political burden for Prime Minister Viktor Orban as
+                his opponents promise tighter oversight of battery plants. © Reuters Jens Kastner
+              </p>
+            </article>
+          </body>
+        </html>
+        """
+        mock_fetch_url.return_value = FetchResponse(
+            url="https://asia.nikkei.com/business/automobiles/electric-vehicles/samsung-sdi-s-hungary-woes-cloud-pm-orban-s-reelection-bid",
+            body=html.encode("utf-8"),
+            content_type="text/html",
+        )
+
+        context = build_article_context(
+            "https://asia.nikkei.com/business/automobiles/electric-vehicles/samsung-sdi-s-hungary-woes-cloud-pm-orban-s-reelection-bid",
+            aliases=["Samsung SDI"],
+        )
+
+        summary_text = " ".join(context.summary_sentences)
+        self.assertIn("Samsung SDI is facing four criminal investigations in Hungary", summary_text)
+        self.assertIn("The controversy has become a political burden", summary_text)
+        self.assertNotIn("Read next", summary_text)
+        self.assertNotIn("Sponsored Content", summary_text)
+        self.assertNotIn("© Reuters", summary_text)
+
+    @patch("src.kor_companies.article_context.fetch_url")
+    def test_build_article_context_falls_back_to_meta_for_nikkei_headline_blob(self, mock_fetch_url):
+        html = """
+        <html>
+          <head>
+            <meta
+              name="description"
+              content="HAMBURG, Germany -- The four criminal investigations into South Korean EV battery maker Samsung SDI in Hungary for alleged environmental and safety vi"
+            />
+            <meta
+              property="og:description"
+              content="Sector's key proponent faces challenger Magyar who promises tighter scrutiny."
+            />
+            <meta name="date" content="2026-03-26T09:41:18.000+09:00" />
+            <script type="application/ld+json">
+              {"@context":"https://schema.org","@type":"NewsArticle","alternativeHeadline":"Sector's key proponent faces challenger Magyar who promises tighter scrutiny.","datePublished":"2026-03-26T00:41:18.000Z"}
+            </script>
+          </head>
+          <body>
+            <article>
+              <p>
+                Electric vehicles Samsung SDI's Hungary woes cloud PM Orban's reelection bid
+                Sector's key proponent faces challenger Magyar who promises tighter scrutiny
+                Hungarian Prime Minister Viktor Orban, left, who has formed close ties with U
+              </p>
+            </article>
+          </body>
+        </html>
+        """
+        mock_fetch_url.return_value = FetchResponse(
+            url="https://asia.nikkei.com/business/automobiles/electric-vehicles/samsung-sdi-s-hungary-woes-cloud-pm-orban-s-reelection-bid",
+            body=html.encode("utf-8"),
+            content_type="text/html",
+        )
+
+        context = build_article_context(
+            "https://asia.nikkei.com/business/automobiles/electric-vehicles/samsung-sdi-s-hungary-woes-cloud-pm-orban-s-reelection-bid",
+            aliases=["Samsung SDI"],
+        )
+
+        self.assertTrue(context.low_confidence)
+        self.assertEqual(context.summary_sentences, [])
+        self.assertIn("Sector's key proponent faces challenger Magyar", context.meta_description)
+        self.assertIn("Samsung SDI in Hungary", context.meta_description)
+        self.assertIsNotNone(context.published_at_hint)
+        self.assertEqual(context.published_at_hint.year, 2026)
+        self.assertEqual(context.published_at_hint.month, 3)
+        self.assertEqual(context.published_at_hint.tzinfo, timezone.utc)
 
 
 if __name__ == "__main__":

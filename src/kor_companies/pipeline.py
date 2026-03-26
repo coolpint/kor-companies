@@ -85,6 +85,7 @@ def run_monitor(
             article = matched_by_key.get(article_key)
             matched_aliases = [alias for result in match_results for alias in result.aliases]
             article_context = build_article_context(entry.link, validation_aliases)
+            resolved_published_at = entry.published_at or article_context.published_at_hint
             enrichment = enricher.enrich(
                 source_language=source.language,
                 title=normalize_whitespace(entry.title),
@@ -104,7 +105,7 @@ def run_monitor(
                     link=entry.link,
                     title=enrichment.translated_title or normalize_whitespace(entry.title),
                     summary=enrichment.translated_summary or normalize_whitespace(entry.summary),
-                    published_at=entry.published_at,
+                    published_at=resolved_published_at,
                     source_id=source.source_id,
                     source_name=source.source_name,
                     country_code=source.country_code,
@@ -127,8 +128,8 @@ def run_monitor(
                     article.summary = enrichment.translated_summary
                 if not article.company_summary and enrichment.company_summary:
                     article.company_summary = enrichment.company_summary
-                if article.published_at is None and entry.published_at is not None:
-                    article.published_at = entry.published_at
+                if article.published_at is None and resolved_published_at is not None:
+                    article.published_at = resolved_published_at
 
         source_runs.append(
             SourceRunResult(
