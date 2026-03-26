@@ -66,6 +66,18 @@
     "trust_tier": 2
   },
   {
+    "source_id": "us_doj_press_releases",
+    "source_name": "U.S. DOJ Press Releases",
+    "country_code": "US",
+    "feed_url": "https://www.justice.gov/news/rss?m=1&type=press_release",
+    "homepage_url": "https://www.justice.gov/news/press-releases",
+    "language": "en",
+    "category": "legal",
+    "enabled": true,
+    "trust_tier": 1,
+    "notes": "미국 법무부 공식 보도자료 RSS. 제재, 수사, 반독점, 수출통제 이슈 보강용"
+  },
+  {
     "source_id": "chinadaily_bizchina",
     "source_name": "China Daily BizChina",
     "country_code": "CN",

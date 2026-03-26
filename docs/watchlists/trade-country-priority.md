@@ -59,13 +59,14 @@
 ### 미국
 
 - 1차 후보: NYT Business, NPR Business, MarketWatch
-- 2차 후보: NYT Technology, Fox Business Markets, Fox Business Technology
+- 2차 후보: NYT Technology, Fox Business Markets, Fox Business Technology, U.S. DOJ Press Releases
 - 보조 수단: Google News US 검색 결과에서 허용 도메인만 통과
 
 메모:
 
 - 미국은 소스는 많지만 사이트 구조가 자주 바뀌는 곳도 많다.
 - 초기에는 직접 피드가 확인되는 소스 위주로 제한하는 편이 안전하다.
+- DOJ 보도자료는 일반 기업 뉴스보다 빈도는 낮지만, 제재, 반독점, 수출통제, 형사수사 이슈를 빠르게 포착하는 데 유용하다.
 
 ### 중국
 
@@ -198,6 +199,8 @@
 - tagesschau RSS 안내: https://www.tagesschau.de/infoservices/rssfeeds
 - The Guardian RSS 안내: https://www.theguardian.com/help/feeds
 - BBC News RSS 안내: https://feeds.bbci.co.uk/news/10628494
+- U.S. DOJ Press Releases: https://www.justice.gov/news/press-releases
+- U.S. DOJ RSS: https://www.justice.gov/news/rss?m=1&type=press_release
 - Le Monde RSS: https://www.lemonde.fr/rss/
 - France 24 RSS 예시: https://www.france24.com/en/business-tech/rss
 - Euronews RSS: https://www.euronews.com/rss
