@@ -18,6 +18,7 @@
 - `data/state/state.json`: 중복 제거용 상태 저장
 - `reports/`: 최신 리포트와 아카이브
 - `.github/workflows/monitor.yml`: GitHub Actions 스케줄 실행
+- `.github/workflows/healthcheck.yml`: 매주 점검 실행 및 Teams 알림
 
 ## 실행
 
@@ -53,8 +54,24 @@ GitHub Actions가 UTC 기준 `09:00`, `23:00`에 실행된다.
 - `TELEGRAM_CHAT_ID`
 - `TELEGRAM_MESSAGE_THREAD_ID` (선택)
 - `GOOGLE_TRANSLATE_API_KEY` (비영문 기사 제목/회사 관련 요약을 한국어로 번역하기 위해 필수)
+- `TEAMS_WEBHOOK_URL` (주간 점검 결과를 Teams로 받기 위해 필요)
 
 번역은 Google Cloud Translation Basic(v2) API를 사용한다. 앱은 기사 전체를 번역하지 않고, 제목과 회사 관련 문장만 번역해 비용을 줄인다.
+
+## 주간 점검
+
+GitHub Actions가 매주 금요일 `15:51 KST`에 지난 7일 로그를 점검한다.
+
+- 예정된 `08:00 / 18:00 KST` 실행 슬롯이 모두 채워졌는지 확인
+- 최근 24시간 내 실행 기록이 있는지 확인
+- 대규모 소스 실패가 있었는지 확인
+- 결과는 `정상 작동중`이어도 Teams로 전송
+
+주간 점검 결과는 아래 파일에도 저장된다.
+
+- `reports/health/latest-weekly.md`
+- `reports/health/latest-weekly.json`
+- `reports/health/archive/...`
 
 ## 검증
 
