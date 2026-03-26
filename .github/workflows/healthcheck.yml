@@ -26,15 +26,19 @@ jobs:
       - name: Prepare directories
         run: mkdir -p reports/health/archive
 
-      - name: Validate Teams secret
+      - name: Validate Telegram secrets
         env:
-          TEAMS_WEBHOOK_URL: ${{ secrets.TEAMS_WEBHOOK_URL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
-          test -n "${TEAMS_WEBHOOK_URL}" || (echo "Missing TEAMS_WEBHOOK_URL secret" && exit 1)
+          test -n "${TELEGRAM_BOT_TOKEN}" || (echo "Missing TELEGRAM_BOT_TOKEN secret" && exit 1)
+          test -n "${TELEGRAM_CHAT_ID}" || (echo "Missing TELEGRAM_CHAT_ID secret" && exit 1)
 
       - name: Run weekly health check
         env:
-          TEAMS_WEBHOOK_URL: ${{ secrets.TEAMS_WEBHOOK_URL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_MESSAGE_THREAD_ID: ${{ secrets.TELEGRAM_MESSAGE_THREAD_ID }}
         run: python -m src.weekly_healthcheck
 
       - name: Commit updated health reports

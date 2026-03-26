@@ -1,13 +1,11 @@
 from __future__ import annotations
 
 import json
-from dataclasses import asdict, dataclass
+from dataclasses import dataclass
 from datetime import datetime, time, timedelta
 from pathlib import Path
 from typing import Dict, List
 from zoneinfo import ZoneInfo
-
-from .utils import normalize_whitespace
 
 KST = ZoneInfo("Asia/Seoul")
 UTC = ZoneInfo("UTC")
@@ -199,44 +197,33 @@ def build_weekly_health_markdown(summary: WeeklyHealthSummary) -> str:
     return "\n".join(lines).strip() + "\n"
 
 
-def build_weekly_health_teams_payload(summary: WeeklyHealthSummary) -> Dict:
-    theme_color = "2EB886" if summary.status == "ok" else "D83B01"
-    facts = [
-        {"name": "상태", "value": summary.status_label_ko},
-        {"name": "점검 기간", "value": _period_label(summary.period_start, summary.period_end)},
-        {"name": "실행 로그", "value": f"{summary.total_runs}건"},
-        {"name": "예정 슬롯 커버", "value": f"{summary.covered_slots}/{summary.expected_slots}"},
-        {
-            "name": "최근 실행",
-            "value": (
-                summary.latest_run_at.astimezone(KST).strftime("%Y-%m-%d %H:%M:%S KST")
-                if summary.latest_run_at
-                else "없음"
-            ),
-        },
-        {"name": "소스 실패 포함 실행", "value": f"{summary.runs_with_failures}건"},
-        {"name": "최대 실패 소스 수", "value": f"{summary.max_failed_sources}개"},
-        {"name": "기간 중 신규 기사", "value": f"{summary.new_articles}건"},
+def build_weekly_health_telegram_messages(summary: WeeklyHealthSummary) -> List[str]:
+    latest_run_label = (
+        summary.latest_run_at.astimezone(KST).strftime("%Y-%m-%d %H:%M:%S KST")
+        if summary.latest_run_at
+        else "없음"
+    )
+    lines = [
+        "kor-companies 주간 점검",
+        f"상태: {summary.status_label_ko}",
+        f"점검 시각: {summary.checked_at.astimezone(KST).strftime('%Y-%m-%d %H:%M:%S KST')}",
+        f"점검 기간: {_period_label(summary.period_start, summary.period_end)}",
+        f"실행 로그: {summary.total_runs}건",
+        f"예정 슬롯 커버: {summary.covered_slots}/{summary.expected_slots}",
+        f"최근 실행: {latest_run_label}",
+        f"소스 실패 포함 실행: {summary.runs_with_failures}건",
+        f"최대 실패 소스 수: {summary.max_failed_sources}개",
+        f"기간 중 매칭 기사: {summary.matched_articles}건",
+        f"기간 중 신규 기사: {summary.new_articles}건",
+        "점검 메모:",
     ]
-    note_lines = [f"- {normalize_whitespace(note)}" for note in summary.notes]
+    lines.extend(f"- {note}" for note in summary.notes)
     if summary.missed_slots:
-        note_lines.append("")
-        note_lines.append("누락된 예정 슬롯:")
-        note_lines.extend(f"- {item}" for item in summary.missed_slots[:6])
-
-    return {
-        "@type": "MessageCard",
-        "@context": "https://schema.org/extensions",
-        "summary": f"{summary.status_label_ko}: kor-companies 주간 점검",
-        "themeColor": theme_color,
-        "title": f"{summary.status_label_ko}: kor-companies 주간 점검",
-        "sections": [
-            {
-                "facts": facts,
-                "text": "<br>".join(note_lines),
-            }
-        ],
-    }
+        lines.append("누락된 예정 슬롯:")
+        lines.extend(f"- {item}" for item in summary.missed_slots[:6])
+        if len(summary.missed_slots) > 6:
+            lines.append(f"- 추가 누락 슬롯 {len(summary.missed_slots) - 6}건")
+    return ["\n".join(lines)]
 
 
 def _period_label(period_start: datetime, period_end: datetime) -> str:

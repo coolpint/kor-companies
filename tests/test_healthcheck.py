@@ -5,7 +5,7 @@ from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
-from src.kor_companies.healthcheck import build_weekly_health_teams_payload, evaluate_weekly_health
+from src.kor_companies.healthcheck import build_weekly_health_telegram_messages, evaluate_weekly_health
 
 UTC = ZoneInfo("UTC")
 KST = ZoneInfo("Asia/Seoul")
@@ -106,14 +106,14 @@ class HealthcheckTests(unittest.TestCase):
             self.assertEqual(summary.covered_slots, 13)
             self.assertEqual(len(summary.missed_slots), 1)
 
-    def test_build_weekly_health_teams_payload_contains_status(self):
+    def test_build_weekly_health_telegram_messages_contains_status(self):
         checked_at = datetime(2026, 3, 27, 6, 51, tzinfo=UTC)
         summary = evaluate_weekly_health(Path("/tmp/not-used"), checked_at=checked_at)
-        payload = build_weekly_health_teams_payload(summary)
+        messages = build_weekly_health_telegram_messages(summary)
 
-        self.assertIn("@type", payload)
-        self.assertIn("title", payload)
-        self.assertIn("sections", payload)
+        self.assertEqual(len(messages), 1)
+        self.assertIn("kor-companies 주간 점검", messages[0])
+        self.assertIn("상태:", messages[0])
 
 
 if __name__ == "__main__":

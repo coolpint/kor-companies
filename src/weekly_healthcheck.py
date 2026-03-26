@@ -4,11 +4,16 @@ import argparse
 from pathlib import Path
 
 from .kor_companies.healthcheck import (
-    build_weekly_health_teams_payload,
+    build_weekly_health_telegram_messages,
     evaluate_weekly_health,
     write_weekly_health_reports,
 )
-from .kor_companies.teams import TeamsConfigError, TeamsSendError, TeamsWebhookConfig, send_teams_payload
+from .kor_companies.notifications import (
+    TelegramConfig,
+    TelegramConfigError,
+    TelegramSendError,
+    send_telegram_messages,
+)
 
 
 def parse_args() -> argparse.Namespace:
@@ -27,15 +32,15 @@ def main() -> int:
     print(f"report={report_paths['latest_md']}")
 
     try:
-        teams_config = TeamsWebhookConfig.from_env()
-        if teams_config is None:
-            print("teams=skipped")
+        telegram_config = TelegramConfig.from_env()
+        if telegram_config is None:
+            print("telegram=skipped")
         else:
-            payload = build_weekly_health_teams_payload(summary)
-            send_teams_payload(teams_config, payload)
-            print("teams=sent")
-    except (TeamsConfigError, TeamsSendError) as exc:
-        print(f"teams=failed error={exc}")
+            messages = build_weekly_health_telegram_messages(summary)
+            sent_count = send_telegram_messages(telegram_config, messages)
+            print(f"telegram=sent messages={sent_count}")
+    except (TelegramConfigError, TelegramSendError) as exc:
+        print(f"telegram=failed error={exc}")
         return 1
 
     return 0
