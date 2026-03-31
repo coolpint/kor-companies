@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-03-30T23:40:55.461760+00:00",
+  "last_run_at": "2026-03-31T10:08:56.067622+00:00",
   "seen_articles": {
     "https://www.ft.com/content/3752d058-d3ee-41a4-b702-d49ae7f61b5c": {
       "title": "삼성은 애플의 스마트폰 시장 선두 자리를 위협하기 위해 AI 관련 인수합병을 추진하고 있다.",
@@ -100,6 +100,28 @@
       ],
       "first_seen_at": "2026-03-26T23:37:34.824855+00:00",
       "last_seen_at": "2026-03-26T23:37:34.824855+00:00"
+    },
+    "https://www.theguardian.com/australia-news/2026/mar/31/melbourne-teen-girl-alleged-antisemitism-ntwnfb": {
+      "title": "멜버른에 사는 13세 소녀가 유대인 가족들을 향해 반유대주의적 발언을 외치고 계란을 던지고 차를 몰고 돌진한 혐의를 받고 있다.",
+      "link": "https://www.theguardian.com/australia-news/2026/mar/31/melbourne-teen-girl-alleged-antisemitism-ntwnfb",
+      "source_name": "The Guardian World",
+      "country_code": "GB",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-03-31T10:08:56.067622+00:00",
+      "last_seen_at": "2026-03-31T10:08:56.067622+00:00"
+    },
+    "https://www.bbc.com/news/articles/c5yvg42kr21o": {
+      "title": "유가 급등에 대한항공, 비상 조치 취해",
+      "link": "https://www.bbc.com/news/articles/c5yvg42kr21o",
+      "source_name": "BBC Business",
+      "country_code": "GB",
+      "companies": [
+        "Korean Air"
+      ],
+      "first_seen_at": "2026-03-31T10:08:56.067622+00:00",
+      "last_seen_at": "2026-03-31T10:08:56.067622+00:00"
     }
   }
 }
