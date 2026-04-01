@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-04-01T10:09:41.251357+00:00",
+  "last_run_at": "2026-04-01T23:40:39.137204+00:00",
   "seen_articles": {
     "https://www.ft.com/content/3752d058-d3ee-41a4-b702-d49ae7f61b5c": {
       "title": "삼성은 애플의 스마트폰 시장 선두 자리를 위협하기 위해 AI 관련 인수합병을 추진하고 있다.",
@@ -122,6 +122,17 @@
       ],
       "first_seen_at": "2026-03-31T10:08:56.067622+00:00",
       "last_seen_at": "2026-04-01T10:09:41.251357+00:00"
+    },
+    "https://www.nytimes.com/2026/04/01/business/gm-toyota-hyundai-honda-sales.html": {
+      "title": "GM, 전쟁과 높은 가격 속에 자동차 판매량 급감 발표",
+      "link": "https://www.nytimes.com/2026/04/01/business/gm-toyota-hyundai-honda-sales.html",
+      "source_name": "The New York Times Business",
+      "country_code": "US",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-04-01T23:40:39.137204+00:00",
+      "last_seen_at": "2026-04-01T23:40:39.137204+00:00"
     }
   }
 }
