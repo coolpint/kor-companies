@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-04-02T23:40:10.988722+00:00",
+  "last_run_at": "2026-04-03T09:03:55.744169+00:00",
   "seen_articles": {
     "https://www.ft.com/content/3752d058-d3ee-41a4-b702-d49ae7f61b5c": {
       "title": "삼성은 애플의 스마트폰 시장 선두 자리를 위협하기 위해 AI 관련 인수합병을 추진하고 있다.",
@@ -133,6 +133,17 @@
       ],
       "first_seen_at": "2026-04-01T23:40:39.137204+00:00",
       "last_seen_at": "2026-04-02T23:40:10.988722+00:00"
+    },
+    "https://www.theguardian.com/games/2026/apr/03/lush-super-mario-galaxy-range-reviewed": {
+      "title": "'나는 비디오 게임 브랜드 화장품의 달콤한 향기에 푹 빠져버렸어': 러쉬의 마리오 갤럭시 라인 리뷰",
+      "link": "https://www.theguardian.com/games/2026/apr/03/lush-super-mario-galaxy-range-reviewed",
+      "source_name": "The Guardian Technology",
+      "country_code": "GB",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-04-03T09:03:55.744169+00:00",
+      "last_seen_at": "2026-04-03T09:03:55.744169+00:00"
     }
   }
 }
