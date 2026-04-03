@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>"Samsung Electronics OR SK hynix" - Google News</title>
+    <link>https://news.google.com/</link>
+    <item>
+      <title>Helium stocks of South Korea's chipmakers to last until June, sources say - Reuters</title>
+      <link>https://news.google.com/rss/articles/test-reuters?oc=5</link>
+      <guid isPermaLink="false">test-reuters</guid>
+      <pubDate>Tue, 31 Mar 2026 07:16:17 GMT</pubDate>
+      <description><![CDATA[
+        <a href="https://news.google.com/rss/articles/test-reuters?oc=5" target="_blank">
+          Helium stocks of South Korea's chipmakers to last until June, sources say
+        </a>
+        <font color="#6f6f6f">Reuters</font>
+      ]]></description>
+      <source url="https://www.reuters.com">Reuters</source>
+    </item>
+    <item>
+      <title>Samsung, SK Hynix shares drop as high chip prices stoke end-demand doubts - KED Global</title>
+      <link>https://news.google.com/rss/articles/test-ked?oc=5</link>
+      <guid isPermaLink="false">test-ked</guid>
+      <pubDate>Tue, 31 Mar 2026 02:42:52 GMT</pubDate>
+      <description><![CDATA[
+        <a href="https://news.google.com/rss/articles/test-ked?oc=5" target="_blank">
+          Samsung, SK Hynix shares drop as high chip prices stoke end-demand doubts
+        </a>
+        <font color="#6f6f6f">KED Global</font>
+      ]]></description>
+      <source url="https://www.kedglobal.com">KED Global</source>
+    </item>
+  </channel>
+</rss>

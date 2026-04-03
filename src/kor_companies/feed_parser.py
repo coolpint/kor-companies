@@ -3,6 +3,7 @@ from __future__ import annotations
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from typing import List, Optional
+from urllib.parse import urlsplit
 from xml.etree import ElementTree as ET
 
 from .models import FeedEntry, SourceConfig
@@ -78,10 +79,14 @@ def _parse_rss(source: SourceConfig, root: ET.Element) -> List[FeedEntry]:
         title = strip_html(_text(item, "title"))
         link = strip_html(_text(item, "link"))
         summary = strip_html(_text(item, "description") or _text(item, "content:encoded"))
+        origin_source_name, origin_source_url = _parse_origin_source(item)
         published_at = parse_datetime(
             _text(item, "pubDate") or _text(item, "dc:date") or _text(item, "published")
         )
         guid = strip_html(_text(item, "guid"))
+        if _is_google_news_source(source):
+            title = _trim_google_news_title(title, origin_source_name)
+            summary = ""
         if not title or not link:
             continue
         entries.append(
@@ -94,6 +99,8 @@ def _parse_rss(source: SourceConfig, root: ET.Element) -> List[FeedEntry]:
                 summary=summary,
                 published_at=published_at,
                 guid=guid,
+                origin_source_name=origin_source_name,
+                origin_source_url=origin_source_url,
             )
         )
     return entries
@@ -139,6 +146,7 @@ def _parse_rdf(source: SourceConfig, root: ET.Element) -> List[FeedEntry]:
         title = strip_html(_text(item, "rss:title"))
         link = strip_html(_text(item, "rss:link"))
         summary = strip_html(_text(item, "rss:description") or _text(item, "content:encoded"))
+        origin_source_name, origin_source_url = _parse_origin_source(item)
         published_at = parse_datetime(_text(item, "dc:date"))
         guid = strip_html(_text(item, "dc:identifier"))
         if not title or not link:
@@ -153,6 +161,8 @@ def _parse_rdf(source: SourceConfig, root: ET.Element) -> List[FeedEntry]:
                 summary=summary,
                 published_at=published_at,
                 guid=guid,
+                origin_source_name=origin_source_name,
+                origin_source_url=origin_source_url,
             )
         )
     return entries
@@ -163,3 +173,30 @@ def _local_name(tag: str) -> str:
         return tag
     return tag.rsplit("}", 1)[-1]
 
+
+def _parse_origin_source(item: ET.Element) -> tuple[str, str]:
+    source_element = item.find("source")
+    if source_element is None:
+        return "", ""
+    return (
+        strip_html(source_element.text or ""),
+        source_element.attrib.get("url", "").strip(),
+    )
+
+
+def _is_google_news_source(source: SourceConfig) -> bool:
+    if source.category == "google_news":
+        return True
+    return urlsplit(source.feed_url).netloc.casefold().endswith("news.google.com")
+
+
+def _trim_google_news_title(title: str, origin_source_name: str) -> str:
+    cleaned_title = strip_html(title)
+    cleaned_source = strip_html(origin_source_name)
+    if not cleaned_title or not cleaned_source:
+        return cleaned_title
+    for separator in (" - ", " | ", " — ", " – "):
+        suffix = separator + cleaned_source
+        if cleaned_title.casefold().endswith(suffix.casefold()):
+            return cleaned_title[: -len(suffix)].rstrip()
+    return cleaned_title

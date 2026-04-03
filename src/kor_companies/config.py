@@ -2,9 +2,15 @@ from __future__ import annotations
 
 import json
 from pathlib import Path
-from typing import Dict, List, Sequence
+from typing import Dict, List, Optional, Sequence
 
-from .models import CompanyConfig, CountryConfig, SourceConfig
+from .models import (
+    CompanyConfig,
+    CountryConfig,
+    GoogleNewsConfig,
+    GoogleNewsCountryConfig,
+    SourceConfig,
+)
 
 
 def _load_json(path: Path):
@@ -34,3 +40,35 @@ def load_sources(path: Path, allowed_countries: Sequence[str] | None = None) -> 
         sources.append(SourceConfig(**item))
     return sources
 
+
+def load_google_news_config(
+    path: Path, allowed_countries: Sequence[str] | None = None
+) -> Optional[GoogleNewsConfig]:
+    if not path.exists():
+        return None
+
+    data = _load_json(path)
+    if not data.get("enabled", True):
+        return None
+
+    country_filter = set(allowed_countries or [])
+    countries = []
+    for item in data.get("countries", []):
+        if not item.get("enabled", True):
+            continue
+        if country_filter and item["country_code"] not in country_filter:
+            continue
+        countries.append(GoogleNewsCountryConfig(**item))
+
+    if not countries:
+        return None
+
+    return GoogleNewsConfig(
+        enabled=True,
+        batch_size=data.get("batch_size", 6),
+        max_items_per_feed=data.get("max_items_per_feed", 20),
+        countries=countries,
+        excluded_domains=data.get("excluded_domains", []),
+        excluded_source_names=data.get("excluded_source_names", []),
+        excluded_title_patterns=data.get("excluded_title_patterns", []),
+    )

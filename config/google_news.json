@@ -1,0 +1,112 @@
+{
+  "enabled": true,
+  "batch_size": 6,
+  "max_items_per_feed": 10,
+  "countries": [
+    {
+      "country_code": "US",
+      "hl": "en-US",
+      "gl": "US",
+      "ceid": "US:en",
+      "language": "en",
+      "enabled": true
+    },
+    {
+      "country_code": "JP",
+      "hl": "ja",
+      "gl": "JP",
+      "ceid": "JP:ja",
+      "language": "ja",
+      "enabled": true
+    },
+    {
+      "country_code": "GB",
+      "hl": "en-GB",
+      "gl": "GB",
+      "ceid": "GB:en",
+      "language": "en",
+      "enabled": true
+    },
+    {
+      "country_code": "DE",
+      "hl": "de",
+      "gl": "DE",
+      "ceid": "DE:de",
+      "language": "de",
+      "enabled": true
+    },
+    {
+      "country_code": "FR",
+      "hl": "fr",
+      "gl": "FR",
+      "ceid": "FR:fr",
+      "language": "fr",
+      "enabled": true
+    },
+    {
+      "country_code": "VN",
+      "hl": "vi",
+      "gl": "VN",
+      "ceid": "VN:vi",
+      "language": "vi",
+      "enabled": true
+    }
+  ],
+  "excluded_domains": [
+    "prtimes.jp",
+    "businesswire.com",
+    "globenewswire.com",
+    "prnewswire.com",
+    "newsfilecorp.com",
+    "einnews.com",
+    "mk.co.kr",
+    "pulse.mk.co.kr",
+    "chosun.com",
+    "biz.chosun.com",
+    "kedglobal.com",
+    "thelec.net",
+    "koreaherald.com",
+    "koreajoongangdaily.joins.com",
+    "businesskorea.co.kr",
+    "sedaily.com",
+    "en.sedaily.com",
+    "koreabizwire.com",
+    "koreatimes.co.kr",
+    "yna.co.kr",
+    "arirang.com",
+    "hankyung.com",
+    "donga.com",
+    "khan.co.kr",
+    "jtbc.co.kr"
+  ],
+  "excluded_source_names": [
+    "PR TIMES",
+    "Business Wire",
+    "GlobeNewswire",
+    "PR Newswire",
+    "Newsfile",
+    "The Korea Herald",
+    "Korea JoongAng Daily",
+    "KED Global",
+    "Businesskorea",
+    "Chosunbiz",
+    "Seoul Economic Daily",
+    "The Elec",
+    "The Korea Times",
+    "매일경제",
+    "조선일보",
+    "한국경제",
+    "서울경제",
+    "중앙일보",
+    "동아일보",
+    "한겨레",
+    "연합뉴스"
+  ],
+  "excluded_title_patterns": [
+    "^이미지\\s*갤러리",
+    "^画像ギャラリー",
+    "^photo gallery",
+    "^watch[:：]",
+    "^video[:：]"
+  ]
+}

@@ -33,6 +33,21 @@ class EnrichmentTests(unittest.TestCase):
         )
         self.assertFalse(result.is_related)
 
+    def test_short_alias_can_pass_for_google_news_title_only_match(self):
+        enricher = ArticleEnricher(config=None)
+        result = enricher.enrich(
+            source_language="en",
+            title="Kia expands EV lineup in Europe",
+            summary="This article was picked up by Google News from Reuters.",
+            matched_companies=["Kia"],
+            matched_aliases=["Kia"],
+            context=ArticleContext(relevant_sentences=[]),
+            allow_title_only_matches=True,
+        )
+        self.assertTrue(result.is_related)
+        self.assertIn("Kia 관련 기사다.", result.company_summary)
+        self.assertIn("기사 제목은 'Kia expands EV lineup in Europe'이다.", result.company_summary)
+
     def test_context_sentence_is_used_for_company_summary(self):
         enricher = ArticleEnricher(config=None)
         result = enricher.enrich(

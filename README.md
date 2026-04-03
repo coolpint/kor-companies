@@ -14,6 +14,7 @@
 - `config/companies.json`: 감시 대상 기업과 별칭
 - `config/countries.json`: 국가 우선순위와 언어 정보
 - `config/sources.json`: RSS 소스 목록
+- `config/google_news.json`: Google News 보조 수집 설정과 제외 규칙
 - `src/`: 모니터링 앱
 - `data/state/state.json`: 중복 제거용 상태 저장
 - `reports/`: 최신 리포트와 아카이브
@@ -57,6 +58,14 @@ GitHub Actions가 UTC 기준 `09:00`, `23:00`에 실행된다.
 
 번역은 Google Cloud Translation Basic(v2) API를 사용한다. 앱은 기사 전체를 번역하지 않고, 제목과 회사 관련 문장만 번역해 비용을 줄인다.
 
+## Google News 보조 수집
+
+- 기본 RSS만으로 놓치기 쉬운 영역을 보강하기 위해 국가별 Google News RSS 검색을 함께 사용한다.
+- 현재는 `US / JP / GB / DE / FR / VN` 6개 리전에서 회사명을 배치 쿼리로 묶어 검색한다.
+- Google News 항목은 한국 매체, PR 배포망, 회사 자체 보도자료, 기존 정식 RSS와 중복되는 원 매체를 최대한 제외한다.
+- Google News 링크는 직접 기사 URL이 아니어서 본문 추출은 건너뛰고 제목 중심 보조 요약으로 처리한다.
+- 제외 규칙과 국가별 설정은 `config/google_news.json`에서 수정할 수 있다.
+
 ## 주간 점검
 
 GitHub Actions가 매주 금요일 `15:51 KST`에 지난 7일 로그를 점검한다.
@@ -83,5 +92,6 @@ python3 -m unittest discover -s tests -v
 ## 한계
 
 - 현재는 RSS/Atom/RDF 피드만 사용한다.
+- Google News 보조 수집은 발견 범위를 넓히는 용도이며, 직접 RSS를 제공하는 정식 매체보다 요약 정보가 제한적일 수 있다.
 - 기사 본문 HTML에서 회사 관련 문장을 보조적으로 추출하지만, 사이트 구조가 크게 다르면 문맥 추출 품질이 떨어질 수 있다.
 - 중국 소스는 공개 RSS 안정성이 낮아 일부 후보를 비활성 상태로 두었다.

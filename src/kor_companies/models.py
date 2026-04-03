@@ -60,6 +60,7 @@ class SourceConfig:
     category: str
     enabled: bool = True
     trust_tier: int = 1
+    max_items: Optional[int] = None
     notes: str = ""
 
 
@@ -73,6 +74,8 @@ class FeedEntry:
     summary: str
     published_at: Optional[datetime]
     guid: str = ""
+    origin_source_name: str = ""
+    origin_source_url: str = ""
 
 
 @dataclass
@@ -105,3 +108,24 @@ class SourceRunResult:
     item_count: int = 0
     matched_count: int = 0
     error: str = ""
+
+
+@dataclass
+class GoogleNewsCountryConfig:
+    country_code: str
+    hl: str
+    gl: str
+    ceid: str
+    language: str
+    enabled: bool = True
+
+
+@dataclass
+class GoogleNewsConfig:
+    enabled: bool = True
+    batch_size: int = 6
+    max_items_per_feed: int = 20
+    countries: List[GoogleNewsCountryConfig] = field(default_factory=list)
+    excluded_domains: List[str] = field(default_factory=list)
+    excluded_source_names: List[str] = field(default_factory=list)
+    excluded_title_patterns: List[str] = field(default_factory=list)

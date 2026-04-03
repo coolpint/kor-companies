@@ -160,8 +160,11 @@ class ArticleEnricher:
         matched_companies: List[str],
         matched_aliases: List[str],
         context: ArticleContext,
+        allow_title_only_matches: bool = False,
     ) -> EnrichmentResult:
-        if self._looks_like_short_alias_false_positive(matched_aliases, context):
+        if not allow_title_only_matches and self._looks_like_short_alias_false_positive(
+            matched_aliases, context
+        ):
             return EnrichmentResult(
                 is_related=False,
                 translated_title=title,
