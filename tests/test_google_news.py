@@ -204,6 +204,28 @@ class GoogleNewsTests(unittest.TestCase):
             origin_source_name="Investing.com",
             origin_source_url="https://www.investing.com/news/test",
         )
+        blocked_korean_named_source = FeedEntry(
+            source_id="google_news_jp_01",
+            source_name="Google News JP #1",
+            country_code="JP",
+            title="Samsung Electronics stock jumps on AI optimism",
+            link="https://news.google.com/rss/articles/test7",
+            summary="",
+            published_at=None,
+            origin_source_name="Korea IT Times",
+            origin_source_url="https://www.koreaittimes.com/news/test",
+        )
+        blocked_hangul_title = FeedEntry(
+            source_id="google_news_jp_01",
+            source_name="Google News JP #1",
+            country_code="JP",
+            title="삼성전자와 SK하이닉스 주가 급등",
+            link="https://news.google.com/rss/articles/test8",
+            summary="",
+            published_at=None,
+            origin_source_name="Example Wire",
+            origin_source_url="https://example.com/news/test",
+        )
 
         self.assertTrue(entry_filter.allow(allowed))
         self.assertFalse(entry_filter.allow(blocked_pr))
@@ -211,6 +233,8 @@ class GoogleNewsTests(unittest.TestCase):
         self.assertFalse(entry_filter.allow(blocked_existing))
         self.assertFalse(entry_filter.allow(blocked_title))
         self.assertFalse(entry_filter.allow(blocked_reuters_rehost))
+        self.assertFalse(entry_filter.allow(blocked_korean_named_source))
+        self.assertFalse(entry_filter.allow(blocked_hangul_title))
 
 
 if __name__ == "__main__":

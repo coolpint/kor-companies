@@ -9,6 +9,46 @@ from .utils import normalize_whitespace
 
 GOOGLE_NEWS_BASE_URL = "https://news.google.com/rss/search"
 HANGUL_RE = re.compile(r"[\uac00-\ud7a3]")
+KOREAN_NEWS_MARKERS = (
+    "korea",
+    "korean",
+    "chosun",
+    "joongang",
+    "hankyung",
+    "maeil",
+    "mk.co",
+    "sedaily",
+    "yna",
+    "yonhap",
+    "donga",
+    "khan",
+    "munhwa",
+    "newsis",
+    "edaily",
+    "etnews",
+    "bizwatch",
+    "dealsite",
+    "seoulwire",
+    "heraldcorp",
+    "koreatimes",
+    "koreaherald",
+    "koreajoongangdaily",
+    "kedglobal",
+    "thelec",
+    "businesskorea",
+    "ajunews",
+    "아주경제",
+    "매일경제",
+    "조선일보",
+    "중앙일보",
+    "동아일보",
+    "한국경제",
+    "서울경제",
+    "연합뉴스",
+    "뉴스1",
+    "뉴시스",
+    "전자신문",
+)
 
 
 def build_google_news_sources(
@@ -104,6 +144,8 @@ class GoogleNewsEntryFilter:
             return False
         if "reuters" in title_lower and "reuters" not in source_name_lower:
             return False
+        if HANGUL_RE.search(title):
+            return False
         if source_host and (
             self._host_matches(source_host, self._blocked_domains)
             or self._host_matches(source_host, self._existing_hosts)
@@ -111,6 +153,8 @@ class GoogleNewsEntryFilter:
         ):
             return False
         if HANGUL_RE.search(source_name):
+            return False
+        if self._looks_like_korean_news_source(source_name_lower, source_host):
             return False
         if any(blocked in source_name_lower for blocked in self._blocked_source_names):
             return False
@@ -134,6 +178,15 @@ class GoogleNewsEntryFilter:
 
     def _host_matches(self, host: str, candidates: Iterable[str]) -> bool:
         return any(host == candidate or host.endswith("." + candidate) for candidate in candidates)
+
+    def _looks_like_korean_news_source(self, source_name_lower: str, source_host: str) -> bool:
+        haystacks = [source_name_lower, source_host]
+        for haystack in haystacks:
+            if not haystack:
+                continue
+            if any(marker in haystack for marker in KOREAN_NEWS_MARKERS):
+                return True
+        return False
 
 
 def _quote_term(value: str) -> str:
