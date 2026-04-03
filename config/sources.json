@@ -78,6 +78,30 @@
     "notes": "미국 법무부 공식 보도자료 RSS. 제재, 수사, 반독점, 수출통제 이슈 보강용"
   },
   {
+    "source_id": "sec_press_releases",
+    "source_name": "U.S. SEC Press Releases",
+    "country_code": "US",
+    "feed_url": "https://www.sec.gov/news/pressreleases.rss",
+    "homepage_url": "https://www.sec.gov/newsroom/press-releases",
+    "language": "en",
+    "category": "legal",
+    "enabled": true,
+    "trust_tier": 1,
+    "notes": "미국 증권거래위원회 공식 보도자료 RSS. 상장사 공시, 제재, 회계 이슈 보강용"
+  },
+  {
+    "source_id": "theverge",
+    "source_name": "The Verge",
+    "country_code": "US",
+    "feed_url": "https://www.theverge.com/rss/index.xml",
+    "homepage_url": "https://www.theverge.com/",
+    "language": "en",
+    "category": "technology",
+    "enabled": true,
+    "trust_tier": 1,
+    "notes": "미국 기술 매체. 삼성전자, LG, 네이버, 카카오 등 플랫폼/디바이스 기사 보강용"
+  },
+  {
     "source_id": "chinadaily_bizchina",
     "source_name": "China Daily BizChina",
     "country_code": "CN",
@@ -156,6 +180,18 @@
     "category": "world",
     "enabled": true,
     "trust_tier": 1
+  },
+  {
+    "source_id": "japan_today",
+    "source_name": "Japan Today",
+    "country_code": "JP",
+    "feed_url": "https://japantoday.com/feed",
+    "homepage_url": "https://japantoday.com/",
+    "language": "en",
+    "category": "general",
+    "enabled": true,
+    "trust_tier": 2,
+    "notes": "일본 영문 매체. 일본발 기업·기술·규제 기사 보강용"
   },
   {
     "source_id": "vnexpress_business",
@@ -268,6 +304,18 @@
     "trust_tier": 1
   },
   {
+    "source_id": "spiegel_international",
+    "source_name": "DER SPIEGEL International",
+    "country_code": "DE",
+    "feed_url": "https://www.spiegel.de/international/index.rss",
+    "homepage_url": "https://www.spiegel.de/international/",
+    "language": "en",
+    "category": "world",
+    "enabled": true,
+    "trust_tier": 1,
+    "notes": "독일 유력지 영문판. 유럽 산업정책, 자동차, 배터리 기사 보강용"
+  },
+  {
     "source_id": "bbc_business",
     "source_name": "BBC Business",
     "country_code": "GB",
@@ -354,6 +402,18 @@
     "category": "technology",
     "enabled": true,
     "trust_tier": 1
+  },
+  {
+    "source_id": "independent_business",
+    "source_name": "The Independent Business",
+    "country_code": "GB",
+    "feed_url": "https://www.independent.co.uk/topic/business/rss",
+    "homepage_url": "https://www.independent.co.uk/topic/business",
+    "language": "en",
+    "category": "business",
+    "enabled": true,
+    "trust_tier": 2,
+    "notes": "영국 일반지 비즈니스 RSS. 기업·시장 기사 보강용"
   },
   {
     "source_id": "lemonde_economie",

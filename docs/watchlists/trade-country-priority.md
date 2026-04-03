@@ -59,7 +59,7 @@
 ### 미국
 
 - 1차 후보: NYT Business, NPR Business, MarketWatch
-- 2차 후보: NYT Technology, Fox Business Markets, Fox Business Technology, U.S. DOJ Press Releases
+- 2차 후보: NYT Technology, Fox Business Markets, Fox Business Technology, U.S. DOJ Press Releases, U.S. SEC Press Releases, The Verge
 - 보조 수단: Google News US 검색 결과에서 허용 도메인만 통과
 
 메모:
@@ -67,6 +67,8 @@
 - 미국은 소스는 많지만 사이트 구조가 자주 바뀌는 곳도 많다.
 - 초기에는 직접 피드가 확인되는 소스 위주로 제한하는 편이 안전하다.
 - DOJ 보도자료는 일반 기업 뉴스보다 빈도는 낮지만, 제재, 반독점, 수출통제, 형사수사 이슈를 빠르게 포착하는 데 유용하다.
+- SEC 보도자료는 삼성전자, 하이닉스, 쿠팡 같은 미국 자본시장 연계 기업 이슈를 보강하는 데 도움이 된다.
+- The Verge는 일반 경제지보다 전자, 플랫폼, 게임, AI 관련 한국 기업 노출이 잦다.
 
 ### 중국
 
@@ -81,11 +83,12 @@
 ### 일본
 
 - 1차 후보: Nikkei Asia RSS
-- 2차 후보: NHK 계열 뉴스 피드 또는 비즈니스 섹션
+- 2차 후보: NHK 계열 뉴스 피드 또는 비즈니스 섹션, Japan Today RSS
 
 메모:
 
 - 일본은 영문 기사와 일본어 기사 간 표현 차이가 있어 별칭 사전이 중요하다.
+- Japan Today는 영문 일반 뉴스 피드지만 일본 내 기업·정책 이슈 보강에 유용하다.
 
 ### 베트남
 
@@ -99,21 +102,23 @@
 ### 독일
 
 - 1차 후보: Deutsche Welle RSS
-- 2차 후보: tagesschau Wirtschaft RSS
+- 2차 후보: tagesschau Wirtschaft RSS, DER SPIEGEL International RSS
 
 메모:
 
 - 독일은 영문과 독문 소스를 병행할 수 있다.
 - 기업 기사 비중은 DW보다 tagesschau Wirtschaft가 높을 수 있다.
+- SPIEGEL 영문판은 유럽 내 산업정책과 지정학 맥락을 빠르게 잡는 데 유리하다.
 
 ### 영국
 
 - 1차 후보: BBC News Business RSS, FT Companies RSS
-- 2차 후보: The Guardian Business, World, Technology RSS
+- 2차 후보: The Guardian Business, World, Technology RSS, The Independent Business RSS
 
 메모:
 
 - 영국은 글로벌 기업 기사량이 많아 우선순위가 높다.
+- The Independent는 신뢰도는 BBC/FT보다 낮지만 기사량 보강용 보조 소스로는 쓸 만하다.
 
 ### 프랑스
 
@@ -201,6 +206,11 @@
 - BBC News RSS 안내: https://feeds.bbci.co.uk/news/10628494
 - U.S. DOJ Press Releases: https://www.justice.gov/news/press-releases
 - U.S. DOJ RSS: https://www.justice.gov/news/rss?m=1&type=press_release
+- U.S. SEC Press Releases RSS: https://www.sec.gov/news/pressreleases.rss
+- The Verge RSS: https://www.theverge.com/rss/index.xml
+- Japan Today RSS: https://japantoday.com/feed
+- DER SPIEGEL International RSS: https://www.spiegel.de/international/index.rss
+- The Independent Business RSS: https://www.independent.co.uk/topic/business/rss
 - Le Monde RSS: https://www.lemonde.fr/rss/
 - France 24 RSS 예시: https://www.france24.com/en/business-tech/rss
 - Euronews RSS: https://www.euronews.com/rss
