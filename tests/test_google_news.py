@@ -226,6 +226,17 @@ class GoogleNewsTests(unittest.TestCase):
             origin_source_name="Example Wire",
             origin_source_url="https://example.com/news/test",
         )
+        blocked_yonhap_citation = FeedEntry(
+            source_id="google_news_jp_01",
+            source_name="Google News JP #1",
+            country_code="JP",
+            title="Samsung braces for supply impact, according to Yonhap News Agency",
+            link="https://news.google.com/rss/articles/test9",
+            summary="",
+            published_at=None,
+            origin_source_name="Global Times",
+            origin_source_url="https://www.globaltimes.cn/news/test",
+        )
 
         self.assertTrue(entry_filter.allow(allowed))
         self.assertFalse(entry_filter.allow(blocked_pr))
@@ -235,6 +246,7 @@ class GoogleNewsTests(unittest.TestCase):
         self.assertFalse(entry_filter.allow(blocked_reuters_rehost))
         self.assertFalse(entry_filter.allow(blocked_korean_named_source))
         self.assertFalse(entry_filter.allow(blocked_hangul_title))
+        self.assertFalse(entry_filter.allow(blocked_yonhap_citation))
 
 
 if __name__ == "__main__":

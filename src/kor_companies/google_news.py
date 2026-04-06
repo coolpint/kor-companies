@@ -49,6 +49,26 @@ KOREAN_NEWS_MARKERS = (
     "뉴시스",
     "전자신문",
 )
+KOREAN_CITATION_MARKERS = (
+    "yonhap",
+    "yonhap news",
+    "yonhap news agency",
+    "연합뉴스",
+    "聯合ニュース",
+    "韩联社",
+    "joongang",
+    "중앙일보",
+    "chosun",
+    "조선일보",
+    "maeil business",
+    "매일경제",
+    "hankyung",
+    "한국경제",
+    "seoul economic daily",
+    "서울경제",
+    "newsis",
+    "뉴시스",
+)
 
 
 def build_google_news_sources(
@@ -143,6 +163,8 @@ class GoogleNewsEntryFilter:
         if any(pattern.search(title) for pattern in self._blocked_title_patterns):
             return False
         if "reuters" in title_lower and "reuters" not in source_name_lower:
+            return False
+        if any(marker in title_lower for marker in KOREAN_CITATION_MARKERS):
             return False
         if HANGUL_RE.search(title):
             return False
