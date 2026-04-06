@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-04-06T07:50:34.687697+00:00",
+  "last_run_at": "2026-04-06T10:13:51.563882+00:00",
   "seen_articles": {
     "https://www.ft.com/content/3752d058-d3ee-41a4-b702-d49ae7f61b5c": {
       "title": "삼성은 애플의 스마트폰 시장 선두 자리를 위협하기 위해 AI 관련 인수합병을 추진하고 있다.",
@@ -507,7 +507,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-04-03T09:22:03.495835+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://www.digitimes.com\nlg energy solution reportedly adopts new battery method for tesla\ngoogle_news": {
       "title": "LG에너지솔루션이 테슬라에 새로운 배터리 방식을 적용한 것으로 알려졌다.",
@@ -856,7 +856,7 @@
     "https://www.nba.com\nkbl: hyundai mobis phoebus @ kt sonicboom\ngoogle_news": {
       "title": "KBL: 현대모비스 피버스 @ KT 소닉붐",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBUNkRjdHl5anhBblJlV3R0MV8wazRDeFJXOU0yZUpUSXVpY1A0cmVrbVhDNWtlS0Q5S0x6OENLckNDdjlZRTBicDJBR1RFN1NsS0hLblkwVU90NmU4bU92SzM0Y0ZhRkRnR3dqR0QxX0Z0VWVCSEVuLURR?oc=5",
-      "source_name": "nba.com",
+      "source_name": "NBA",
       "country_code": "US",
       "companies": [
         "Hyundai Motor",
@@ -864,7 +864,7 @@
         "KT Corp"
       ],
       "first_seen_at": "2026-04-03T09:22:03.495835+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://www.ad-hoc-news.de\nbarry callebaut ag aktie: trotz volatilität starke position im kakao-markt\ngoogle_news": {
       "title": "배리 칼레바우트 AG 주식: 변동성에도 불구하고 코코아 시장에서 견고한 입지를 유지하고 있다",
@@ -2805,7 +2805,7 @@
         "Korean Air"
       ],
       "first_seen_at": "2026-04-05T09:44:35.093844+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://uk.finance.yahoo.com\ncoupang, inc. (cpng) stock price, news, quote and history\ngoogle_news": {
       "title": "쿠팡(Coupang, Inc., CPNG) 주가, 뉴스, 시세 및 주가 변동 내역",
@@ -2827,7 +2827,7 @@
         "Kakao"
       ],
       "first_seen_at": "2026-04-05T09:44:35.093844+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://gamehub.vn\nthe first descendant thất thế, nexon thừa nhận “không thành công” và quyết tâm làm lại từ đầu\ngoogle_news": {
       "title": "첫 번째 디센던트는 실패했고, 넥슨은 \"실패했다\"고 인정하며 처음부터 다시 시작하기로 결심했다.",
@@ -2838,7 +2838,7 @@
         "Nexon"
       ],
       "first_seen_at": "2026-04-05T09:44:35.093844+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://nguoiquansat.vn\nsubaru getaway lộ diện: suv điện 3 hàng ghế, tầm hoạt động 483 km, cổng sạc tiêu chuẩn nacs của tesla, phả hơi nóng lên kia ev9, hyundai ioniq 9\ngoogle_news": {
       "title": "스바루 게터웨이 공개: 3열 전기 SUV, 483km 주행거리, 테슬라의 NACS 표준 충전 포트 탑재로 기아 EV9와 현대 아이오닉 9에 압박을 가할 전망.",
@@ -2883,7 +2883,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-04-05T09:44:35.093844+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://simplywall.st\na look at coupang (cpng) valuation after new nvidia ai factory partnership announcement\ngoogle_news": {
       "title": "엔비디아의 새로운 AI 팩토리 파트너십 발표 후 쿠팡(CPNG)의 기업 가치 분석",
@@ -2963,7 +2963,7 @@
       "last_seen_at": "2026-04-05T23:38:54.660279+00:00"
     },
     "https://innovatopia.jp\nnaver carecall｜aiが高齢者に電話をかける時代—日本の介護現場が変わる\ngoogle_news": {
-      "title": "NAVER CareCall | AI가 노인에게 전화를 걸 때 - 일본의 개호 현장이 바뀐다",
+      "title": "NAVER CareCall | AI가 고령자에게 전화를 걸 때 - 일본의 개호 현장이 바뀐다",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81NnpvdTNtbGVBYVhmaGNfR1k4U3VZLTVfR2tVU1dKMDB1N09hYWU4ZllNT1ppMlV3c2ZRQzJpTFBIb3MwVlRLUWlJN3BMQk9iRmRXMHREbEF6QjVJT1ZUOGJfcHQ4dnlWNlE?oc=5",
       "source_name": "innovaTopia",
       "country_code": "JP",
@@ -2971,7 +2971,7 @@
         "NAVER"
       ],
       "first_seen_at": "2026-04-05T09:44:35.093844+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://sg.finance.yahoo.com\nhd hyundai heavy industries co., ltd. (329180.ks) stock price, news, quote and history\ngoogle_news": {
       "title": "HD 현대중공업(주)(329180.KS) 주가, 뉴스, 시세 및 주가 변동 내역",
@@ -2994,7 +2994,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://doanhnghiepcuocsong.vn\nhyundai, kia và bmw triệu hồi gần 180.000 xe do lỗi phần mềm\ngoogle_news": {
       "title": "현대, 기아, BMW는 소프트웨어 버그로 인해 약 18만 대의 차량을 리콜하고 있습니다.",
@@ -3017,7 +3017,7 @@
         "POSCO Holdings"
       ],
       "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://news.yahoo.co.jp\nhybeオーディション『world scout』特別番組放送決定 村重杏奈ら出演（オリコン）\ngoogle_news": {
       "title": "HYBE 오디션 「WORLD SCOUT」특별 프로그램 방송 결정 무라시게 안나 등 출연(오리콘)",
@@ -3039,7 +3039,7 @@
         "HYBE"
       ],
       "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://news.livedoor.com\nhybeオーディション『world scout』特別番組放送決定 村重杏奈ら出演 (2026年4月6日掲載)\ngoogle_news": {
       "title": "HYBE 오디션 「WORLD SCOUT」특별 프로그램 방송 결정 무라시게 안나 등 출연 (2026년 4월 6일 게재)",
@@ -3050,7 +3050,7 @@
         "HYBE"
       ],
       "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://www.boerse-express.com\nsk hynix aktie: milliarden für ki-offensive\ngoogle_news": {
       "title": "SK하이닉스 주식: AI 공세에 수십억 달러 투자",
@@ -3072,7 +3072,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://www.businessinsider.com\ni spent 11 hours in korean air's business-class suites. my seat felt more private than i expected and had cool perks.\ngoogle_news": {
       "title": "대한항공 비즈니스 클래스 스위트에서 11시간을 보냈습니다. 좌석은 예상보다 훨씬 프라이빗했고 멋진 편의 시설도 갖춰져 있었습니다.",
@@ -3083,7 +3083,7 @@
         "Korean Air"
       ],
       "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://www.ad-hoc-news.de\nlotte chemical corp aktie: was du als anleger jetzt wissen musst\ngoogle_news": {
       "title": "롯데케미칼 주식: 투자자라면 지금 바로 알아야 할 사항",
@@ -3094,7 +3094,7 @@
         "Lotte Chemical"
       ],
       "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://de.tradingview.com\nbruttogewinn von mirae asset vision special purpose acquisition 5 company – krx:477470\ngoogle_news": {
       "title": "미래에셋 비전 특수목적합병회사(SPAC5)의 총수익 – KRX:477470",
@@ -3138,7 +3138,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://games.gg\nly corp acquires kakao games stake for $198m\ngoogle_news": {
       "title": "LY Corp, 카카오게임즈 지분 1억 9800만 달러에 인수",
@@ -3149,7 +3149,7 @@
         "Kakao"
       ],
       "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://www.autocar.co.uk\ni've driven astons, ferraris and porsches this year – but i'd still choose a kia picanto for my dream drive\ngoogle_news": {
       "title": "올해 애스턴 마틴, 페라리, 포르쉐를 몰아봤지만, 꿈의 드라이브 상대로는 여전히 기아 피칸토를 고르겠습니다.",
@@ -3160,7 +3160,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://www.investing.com\nsouth korea ai memory boom to drive samsung, sk hynix strategy shift\ngoogle_news": {
       "title": "한국의 AI 메모리 붐이 삼성과 SK하이닉스의 전략 변화를 견인할 전망",
@@ -3182,7 +3182,7 @@
         "Korea Aerospace Industries"
       ],
       "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://fr.motor1.com\ndu monospace au fourgon en quelques secondes. voici le kia pv5 crew van\ngoogle_news": {
       "title": "미니밴에서 밴으로 순식간에 변신하는 기아 PV5 크루밴입니다.",
@@ -3204,7 +3204,7 @@
         "Nexon"
       ],
       "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://www.saostar.vn\nsm và hybe 'đổi sân': cuộc chơi quyền lực mới của các 'ông lớn' kpop đang bắt đầu?\ngoogle_news": {
       "title": "SM과 HYBE, '편을 바꾼다': K팝 거대 기획사 간 새로운 권력 다툼이 시작되는 것일까?",
@@ -3215,18 +3215,18 @@
         "HYBE"
       ],
       "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://onefootball.com\nsubnautica-2-studiochef muss zurückkehren – krafton kassiert niederlage vor gericht\ngoogle_news": {
       "title": "Subnautica 2 개발사 대표, 법정에서 패소하며 복귀 명령 받아 – Krafton",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVFlmSWI2WjB0cEp3Z3JBTmRIVHNzUUxZenRUS2F3QXZpbXl1RUtBX19BLV8yM3RSUmtrNzlyZWNPODl1b0tZeE5ydmVCWkZZMzdhRDFXNjZsSC1QVEVSQlZpbUVRWnFCZENpNTNCV2ZJRnl2OEhsWTc1U0lfOXBnMzNaSUk0aWUta0N2RU1lQl9hXzMxWkliTmtIMVl2amFBTWRjVmJGR1JUSG1WQXBTcnpiUW94RUtZYWRVWVpoNFI?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONks2OWRnT2ZPdGN4aEFLM1lkME9qUDF0aldYb0pEdnhtUnk0NEJQUjN6QWpMSndFV1YwT3RNQkFoYnYtMXN3ZW42RUlKUDhPT2ZBTTNzSmhJWEpHSmtHRVVQREgyLVluWTlUc1AtVUNMVVh5cE1hbE83RmVJM2lJODhXRUt1cDZtR2JTNGgwMWRHM2VKOVNRTG5wam0xZU16enBoa0QtV29tNHRVbGthUEVPNFdUbWd6MXRLUmRHVGVrRE0?oc=5",
       "source_name": "OneFootball",
       "country_code": "DE",
       "companies": [
         "Krafton"
       ],
       "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://www.kapitalmarktexperten.de\nsk hynix aktie: grosskapital kehrt zurück\ngoogle_news": {
       "title": "SK하이닉스 주식: 큰 자본 수익률",
@@ -3259,7 +3259,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://kstyle.com\nbtsとお揃いの“swimジャンパー”を着用！hybeファミリーのダンス動画が話題…「それスノ」出演者も続々参加\ngoogle_news": {
       "title": "BTS와 갖추어진 \"SWIM 점퍼\"를 착용! HYBE 패밀리의 댄스 동영상이 화제… 「그것 스노」출연자도 속속 참가",
@@ -3325,7 +3325,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://www.sanyonews.jp\n“たった1人”発掘するhybeオーディション、豪華審査員発表 『タイプロ』話題のnosukeも【審査員／トレーナー一覧】\ngoogle_news": {
       "title": "“단 1명” 발굴하는 HYBE 오디션, 호화 심사원 발표 “타입로” 화제의 NOSUKE도【심사원/트레이너 일람】",
@@ -3358,7 +3358,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://de.marketscreener.com\nnetmarble corp erwirbt coway-anteile im wert von 150 milliarden won\ngoogle_news": {
       "title": "넷마블, 코웨이 주식 1,500억 원어치 인수",
@@ -3369,7 +3369,7 @@
         "Netmarble"
       ],
       "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://www.tradingview.com\nnetmarble corp to acquire 150 billion won worth of shares in coway\ngoogle_news": {
       "title": "넷마블, 코웨이 주식 1,500억 원어치 인수 예정",
@@ -3380,7 +3380,7 @@
         "Netmarble"
       ],
       "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://www.marketsmojo.com\nlg electronics india ltd rallies 3.56% amidst sector weakness — a recovery or relief rally?\ngoogle_news": {
       "title": "LG전자 인도법인, 업종 약세 속 3.56% 상승 - 회복세일까, 안도감일까?",
@@ -3391,7 +3391,7 @@
         "LG Electronics"
       ],
       "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://www.ad-hoc-news.de\nhybe co ltd aktie: was du jetzt über den k-pop-riesen wissen solltest\ngoogle_news": {
       "title": "HYBE 주식회사 주식: K팝 거물 기업에 대해 지금 알아야 할 모든 것",
@@ -3402,7 +3402,7 @@
         "HYBE"
       ],
       "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://www.vietnam.vn\nkia soluto 2026: der preis wurde im april um 11 millionen vnd gesenkt und liegt nun bei nur noch 345 millionen vnd.\ngoogle_news": {
       "title": "기아 솔루토 2026: 4월에 가격이 1,100만 VND 인하되어 현재 3억 4,500만 VND에 판매됩니다.",
@@ -3413,7 +3413,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://www.vietnam.vn\nkia soluto 2026: price reduced by 11 million vnd in april, starting from only 345 million vnd.\ngoogle_news": {
       "title": "기아 솔루토 2026: 4월에 가격이 1,100만 VND 인하되어 3억 4,500만 VND부터 시작합니다.",
@@ -3435,7 +3435,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://newsroom.spotify.com\nk-pop artist enhypen host ‘the blood diary,’ a new video podcast series from hybe\ngoogle_news": {
       "title": "K팝 아티스트 엔하이픈이 HYBE에서 제작하는 새로운 비디오 팟캐스트 시리즈 '더 블러드 다이어리'의 진행을 맡았습니다.",
@@ -3446,7 +3446,7 @@
         "HYBE"
       ],
       "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://baodanang.vn\nbảng giá kia soluto tháng 4/2026: ưu đãi 11 triệu đồng cho bản số sàn\ngoogle_news": {
       "title": "2026년 4월 기아 솔루토 가격표: 수동 변속기 모델 1,100만 VND 할인.",
@@ -3457,7 +3457,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://baonghean.vn\nkia soluto 2026: giá xe tháng 4 giảm 11 triệu đồng, chỉ từ 345 triệu\ngoogle_news": {
       "title": "기아 솔루토 2026: 4월에 가격이 1,100만 VND 인하되어 3억 4,500만 VND부터 시작합니다.",
@@ -3468,7 +3468,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://www.24h.com.vn\ngiá xe kia soluto tháng 4/2026, bản mt ưu đãi 11 triệu đồng\ngoogle_news": {
       "title": "2026년 4월 기준 기아 솔루토 수동변속기 모델의 가격이 1,100만 VND 할인되었습니다.",
@@ -3479,7 +3479,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://baolamdong.vn\nkia soluto 2026: giá bán từ 345 triệu đồng và ưu đãi mới nhất tháng 4\ngoogle_news": {
       "title": "기아 솔루토 2026: 시작 가격 3억 4,500만 VND 및 최신 4월 프로모션.",
@@ -3490,10 +3490,10 @@
         "Kia"
       ],
       "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://meilenoptimieren.com\nalle korean air a380 strecken & ziele\ngoogle_news": {
-      "title": "대한항공 A380 모든 노선 및 목적지",
+      "title": "대한항공 A380의 모든 노선 및 목적지",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4aWg5X1pIR0ItdHpldUZDMUJsZVNhaGVSZUVjTkx4dVNGNEQ3QXJNTWpkTVUtWHpkQ3JVWlo3OEtseGRXTVBZOGlmODkxM0NHZXFkaEZfN3VraVpodXNjTmhhWV8?oc=5",
       "source_name": "meilenoptimieren.com",
       "country_code": "DE",
@@ -3501,7 +3501,7 @@
         "Korean Air"
       ],
       "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://www.letelegramme.fr\nalex lutz, boum géante, foire aux disques, open kia de tennis… ce qui vous attend cette semaine dans le pays de vannes\ngoogle_news": {
       "title": "알렉스 루츠, 성대한 파티, 레코드 박람회, 기아 오픈 테니스 토너먼트… 이번 주 반느 지역에서는 어떤 행사들이 여러분을 기다리고 있을까요?",
@@ -3512,7 +3512,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://www.tinnhanhchungkhoan.vn\ntài chính mirae asset việt nam chấm dứt hoạt động văn phòng đại diện tại bình dương từ 31/3/2026\ngoogle_news": {
       "title": "미래에셋 베트남 파이낸스는 2026년 3월 31일부터 빈즈엉에 있는 대표 사무소의 운영을 중단할 예정입니다.",
@@ -3523,7 +3523,7 @@
         "Mirae Asset"
       ],
       "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://www.avem.fr\nles ambitions de kia pour ev2, son nouveau suv compact\ngoogle_news": {
       "title": "기아의 새로운 소형 SUV인 EV2에 대한 야심",
@@ -3534,18 +3534,18 @@
         "Kia"
       ],
       "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://www.ad-hoc-news.de\nkt corp (adr) aktie: was du jetzt wissen solltest\ngoogle_news": {
       "title": "KT 주식회사(ADR) 주식: 지금 알아야 할 사항",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWDNTN2lnMVV3NDMtbzg4S2hZYjc3VFgyVUJKNUVjbDB5RFBpc0FLZ3FWMzR1WERsWFFUQzBuMHBtSmhTZkZ4NjF2dmEtT3NHNUsweS1tVVRRcFhCSnhLbzcwYm9GbXlRaEMyZW0xc0Rud0d0elJFMWMwSmVjY0g3dFo5dHRIR3VCZXNGZVRsY3l2ZU1CR3Nzb1d0Vld3V1c0SlZEbGVhWnY?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNG0tV1ZZN0V0N2ZIdHhoR0JQQ1Z2dHdrd3B6eXFyZVF1b2JfNUc3ZWxDbF9jZktfRktvZFd0d1pQNFFZcWhMYWkzejZXamFJdzNjei1kN2N2OGdwV0E4NlRjMF9seThjckpXSllUbFJIcmhfckF4T2duSkhVUnJLeGxCQVhqUnFCSW9pTTNzcjJUT2xuUWg0YVNIazNLZkJJQUE?oc=5",
       "source_name": "AD HOC NEWS",
       "country_code": "DE",
       "companies": [
         "KT Corp"
       ],
       "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://www.techz.vn\ngiá kia k3 lăn bánh đầu tháng 4/2026 cực kỳ cạnh tranh, đẩy mazda3 và hyundai elantra vào 'thế khó'\ngoogle_news": {
       "title": "2026년 4월 초 기준 기아 K3의 출고가는 매우 경쟁력이 있어 마쓰다3와 현대 엘란트라를 어려운 상황에 몰아넣고 있습니다.",
@@ -3557,7 +3557,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://www.travelandtourworld.com\nsouth korea accelerates aviation innovation in busan as korean air invests big in uav technology—a new dimension for travelers and industry enthusiasts unfolds\ngoogle_news": {
       "title": "대한항공의 대규모 무인항공기(UAV) 기술 투자로 부산에서 항공 혁신이 가속화되고 있다. 여행객과 항공 산업 애호가들에게 새로운 차원의 항공 여행 기회가 열릴 예정이다.",
@@ -3568,21 +3568,21 @@
         "Korean Air"
       ],
       "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://themachinemaker.com\nlg electronics india crosses 1 million ac sales in q1 2026\ngoogle_news": {
       "title": "LG전자 인도법인, 2026년 1분기 에어컨 판매량 100만 대 돌파 예상",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcFFBZzBidkhnVmZhdHdoRWVKUkVZZzBqYUtMTWltS04zTklwNUZXQlB6RG10dkFwYUZCTUYyOGVpbXRRRkdXUXR4eFZMLUNJVWFWUHN1RnVJQkgxdTllaTI5YVJaaFNHUHV5aWtmdkZEYXBtVHF4cWpBNUUwM2tlZ2taZjhDUEVnYy1wRlYyY3ZBSFA1XzNj?oc=5",
-      "source_name": "Machine Maker",
-      "country_code": "US",
+      "source_name": "themachinemaker.com",
+      "country_code": "GB",
       "companies": [
         "LG Electronics"
       ],
       "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://retailasia.com\namorepacific partners with viol medical to expand beauty device offerings\ngoogle_news": {
-      "title": "아모레퍼시픽은 비올메디컬과 제휴하여 미용기기 제품군을 확대합니다.",
+      "title": "아모레퍼시픽, 비올메디컬과 제휴하여 미용기기 제품군 확대",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeElVQlZwenRaSDRqMi0xMTBiaHhEekI5WGlCOVpza0o1eUMyMlI1RUVjcDgwUXdUbHJNRFJ1N0FqWXdsNjFidnphM0dMbGxGWHJqWlc1LWRIOGtWWFlUX1NTaVFoWU9tMXZ3OWFKQ2ZCU2o0TjhvV0p5TVNVWFNwcUptbU5hNXh1ZG5URzFDVEhyY2hXQU1uag?oc=5",
       "source_name": "retailasia.com",
       "country_code": "US",
@@ -3590,18 +3590,18 @@
         "Amorepacific"
       ],
       "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://plus-web3.com\nai見守りサービス「naver carecall」開始 高齢者安否確認と介護効率化\ngoogle_news": {
       "title": "인공 지능 서비스 \"NAVER CareCall\"개시 노인 안부 확인 및 간호 효율화",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84OHhVbHpOMHZfcTczdU1ZX3pWVjMtVnZOTk91UDdXV0hjSl83ZDlGSWhocmtGQXZTWm5GczZrdnd4NmJ6RzNXaVBEQ3pQb1lEYmlFc2hXcEh6UGFFUHc?oc=5",
-      "source_name": "PlusWeb3",
+      "source_name": "plus-web3.com",
       "country_code": "JP",
       "companies": [
         "NAVER"
       ],
       "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://www.korit.jp\n高齢者向けai音声モニタリング電話サービス「naver carecall」の販売を開始\ngoogle_news": {
       "title": "노인 AI 음성 모니터링 전화 서비스 'NAVER CareCall' 판매 개시",
@@ -3612,7 +3612,7 @@
         "NAVER"
       ],
       "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://www.ad-hoc-news.de\nkia sportage: kompakter suv mit plug-in-hybrid-option\ngoogle_news": {
       "title": "기아 스포티지: 플러그인 하이브리드 옵션을 제공하는 소형 SUV",
@@ -3634,7 +3634,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://www.lepopulaire.fr\nnexon : les 5 stations-service essence et gasoil les moins chères (màj : 06/04/2026)\ngoogle_news": {
       "title": "넥슨: 가장 저렴한 휘발유 및 디젤 주유소 5곳 (업데이트: 2026년 4월 6일)",
@@ -3645,7 +3645,7 @@
         "Nexon"
       ],
       "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://news.yahoo.co.jp\n韓国naverとフランス協力強化…マクロン大統領がai連携を協議（korea wave）\ngoogle_news": {
       "title": "한국 네이버와 프랑스 협력 강화… 마크론 대통령이 AI 연계를 협의 (KOREA WAVE)",
@@ -3656,18 +3656,18 @@
         "NAVER"
       ],
       "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://www.ad-hoc-news.de\nkorea aerospace industries stock: why defense strength draws global eyes now\ngoogle_news": {
       "title": "한국항공우주산업(KAI) 주식: 지금 국방력에 전 세계의 이목이 집중되는 이유는?",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR3p2UGxxenBaVTdxcWl3ajlJQ2lTcFQ4MnU3dGdNQXJULVoycWxvR3ctc3dLVE5wNlJ1emJsZWZvZ2FzVTJPUnM2cl9COExQSmVsbXVRLTZ4cDhXTjRzVXVDNzd2Y2huRTRHYTZVbWJ0NWVVYUk1aU5NQ2hUejRidFlhXzBESUR4MVA2TFNENk1yTlRCWU94cU5ENll5VnJ2WVk1MjlrbW95ejdGdHIyUnJHSXRHczFKckpSWERSQTV4clU1Tlc5U213?oc=5",
-      "source_name": "AD HOC NEWS",
+      "source_name": "ad-hoc-news.de",
       "country_code": "GB",
       "companies": [
         "Korea Aerospace Industries"
       ],
       "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://www.afpbb.com\n韓国naverとフランス協力強化…マクロン大統領がai連携を協議\ngoogle_news": {
       "title": "한국 네이버와 프랑스 협력 강화… 마크론 대통령이 AI 연계를 협의",
@@ -3678,7 +3678,7 @@
         "NAVER"
       ],
       "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://news.yahoo.co.jp\n韓国naverとフランス協力強化…マクロン大統領がai連携を協議 (korea wave)\ngoogle_news": {
       "title": "한국 네이버와 프랑스 협력 강화… 마크론 대통령이 AI 연계를 협의 (KOREA WAVE)",
@@ -3689,7 +3689,7 @@
         "NAVER"
       ],
       "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://news.nicovideo.jp\nhybeオーディション『world scout』特別番組放送決定 村重杏奈ら出演\ngoogle_news": {
       "title": "HYBE 오디션 「WORLD SCOUT」특별 프로그램 방송 결정 무라시게 안나 등 출연",
@@ -3711,7 +3711,7 @@
         "POSCO Holdings"
       ],
       "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://de.tradingview.com\nkurs-cashflow-verhältnis von hybrid energy holdings inc – otc:hybe\ngoogle_news": {
       "title": "HYBRID ENERGY HOLDINGS INC(OTC:HYBE)의 주가현금흐름비율",
@@ -3722,7 +3722,7 @@
         "HYBE"
       ],
       "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://news.yahoo.co.jp\nbtsとお揃いの“swimジャンパー”を着用！hybeファミリーのダンス動画が話題…「それスノ」出演者も続々参加（kstyle）\ngoogle_news": {
       "title": "BTS와 갖추어진 \"SWIM 점퍼\"를 착용! HYBE 패밀리의 댄스 동영상이 화제… 「그것 스노」출연자도 잇달아 참가(Kstyle)",
@@ -3733,7 +3733,151 @@
         "HYBE"
       ],
       "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
+    },
+    "https://www.ad-hoc-news.de\nshinsegae inc aktie: was du als anleger jetzt wissen musst\ngoogle_news": {
+      "title": "신세계 주식: 투자자로서 지금 알아야 할 사항",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY1FpTjVPTlFHc0hNVkZFZUdCRTdTclRfclBlTzlOdlA1ZV9aanBIWEdhY0hlNUFLMU03Mmp0M3NpYVB1cmxoMVdQRlZpVWRVeFp6eklvM0hqcWx4TG5yM3BQMkRVT3dEUVZRWVB6OHJnb3dhR3plYnJ6SEZNU25XeUJ0N2E3NU9oNXAtaDlWUEtPQnUyVFFtSkRNZVNCaUVXb2E2eFdRbmtQOTBuNVByalZRYkNhWVE?oc=5",
+      "source_name": "AD HOC NEWS",
+      "country_code": "DE",
+      "companies": [
+        "Shinsegae"
+      ],
+      "first_seen_at": "2026-04-06T10:13:51.563882+00:00",
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
+    },
+    "https://www.oricon.co.jp\n村重杏奈、hybeオーディション『world scout』は「自分を見つめ直せるすごくいい番組」 「実力だけがすべてじゃない」に共感【コメント全文】\ngoogle_news": {
+      "title": "무라시게 안나, HYBE 오디션 「WORLD SCOUT」는 「자신을 바라볼 수 있는 굉장히 좋은 프로그램」 「실력만이 전부가 아니다」에 공감【댓글 전문】",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BRlh0R25XX3ktVnZmOW9GQmhWQTNobTRFbWxlZ2dlM1JvVWtXMXNtOUtNRTVzZzdnX1ZwejFjZU8tbF9EU3Zta0tyVERVb2M?oc=5",
+      "source_name": "オリコンニュース",
+      "country_code": "JP",
+      "companies": [
+        "HYBE"
+      ],
+      "first_seen_at": "2026-04-06T10:13:51.563882+00:00",
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
+    },
+    "https://news.nicovideo.jp\n村重杏奈、hybeオーディション『world\ngoogle_news": {
+      "title": "무라시게 안나, HYBE 오디션 \"WORLD",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FVnlwTXR4Qm1JdlhaQUxkenpnYkxJVmF2MTEteHpyZEN1VGVoNUNTUjd3czJCQnFaRVhfWHVNYXZQOEpXdVR5aEZyOURVNVhDZlhMTHE3RnB2X1JiVzRrTFJjYlFGV0tJSXZocWRUcUZKVVU?oc=5",
+      "source_name": "ニコニコニュース",
+      "country_code": "JP",
+      "companies": [
+        "HYBE"
+      ],
+      "first_seen_at": "2026-04-06T10:13:51.563882+00:00",
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
+    },
+    "https://rpmweb.ca\nentre un volkswagen taos et un kia seltos, que me recommandez-vous?\ngoogle_news": {
+      "title": "폭스바겐 타오스와 기아 셀토스 중에서 어떤 차를 추천하시나요?",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMVZ6MkNwOGhRdGlnS3RuNS1vZ1Q3TFNmclYtcW5PLVdxemt3Q25LMjNqeGkzQlNsX2NjN0x4X2toMGZIZkVzU0ZKeWh0emM1ZEJudmxuWm12aDR1WF9jVjNOQmxsSnQzNzdveUF0c3d3Q0szLS1DWkw0N0RyZ2NhWktYTVl1cm5VeXRPSjJCNmE5Z25IQmxqZEVlQU91UUptdUgxTW1CODFQUTNLdEw4el9aY3BPV2I5Wll5MWplNXpyaUpDWWk5YWpWaVJTVjZtTUE?oc=5",
+      "source_name": "RPM",
+      "country_code": "FR",
+      "companies": [
+        "Kia"
+      ],
+      "first_seen_at": "2026-04-06T10:13:51.563882+00:00",
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
+    },
+    "https://www.oricon.co.jp\nhybeオーディション最終候補・sakura、未経験ながらも“スター性”見出されて選抜「しっかり背負って頑張りたい」【world scout】\ngoogle_news": {
+      "title": "HYBE 오디션 최종 후보·SAKURA, 미경험이면서도 “스타성” 발견되어 선발 “확실히 짊어지고 노력하고 싶다”[WORLD SCOUT]",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Wblo0SXZKempYZUI5YkZYR1I5Q0lNZjRONjFZZUQ5TzFocU9pZXVLaTNCVk9DblJCNzR4MzlQNDlEZjcwbms2OVpaM3UycU84aTZMSk1R?oc=5",
+      "source_name": "オリコンニュース",
+      "country_code": "JP",
+      "companies": [
+        "HYBE"
+      ],
+      "first_seen_at": "2026-04-06T10:13:51.563882+00:00",
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
+    },
+    "https://www.autoevolution.com\n2027 kia ev3 [us] specs, performance & photos\ngoogle_news": {
+      "title": "2027년형 기아 EV3 [미국] 제원, 성능 및 사진",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15R2thdkdqNXFPUnFGZlJQUm5IMkdCNWIwVEpfMTRpa0taaUc2dkNZaFpyRzNsTmV1a2xqUERqNzVWNW9ockkyenBoZkxEeUV6ZE1lLWR1RFJPWm9pcm84M0ZB?oc=5",
+      "source_name": "autoevolution",
+      "country_code": "US",
+      "companies": [
+        "Kia"
+      ],
+      "first_seen_at": "2026-04-06T10:13:51.563882+00:00",
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
+    },
+    "https://auto5.vn\nxe hybrid trở thành động lực chính giúp hyundai và kia duy trì đà tăng trưởng\ngoogle_news": {
+      "title": "하이브리드 차량은 현대와 기아가 성장세를 유지하는 데 핵심적인 역할을 하고 있습니다.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSkJLY2NjOFZtYWlWUnlOaFlfYmVqNUNsTFVTNDZqTUZINXJONVdxUU5uSHZPU0FfNFpJVXRZa2lSR2xmZHFUeVRYbERuZkhQSnF1TlFCandwY0xIcmc3Y2RGa0oxWF9SRTQyTWZvM19NRkh0b3hQcGlibmpiUmUyYVNUUDlQRUxmb1ppUGhqTlZYZUE1ZE9TVXVwbUFUNjFIdmlaU1lmUEpjWWJfX1JnNw?oc=5",
+      "source_name": "auto5.vn",
+      "country_code": "VN",
+      "companies": [
+        "Hyundai Motor",
+        "Kia"
+      ],
+      "first_seen_at": "2026-04-06T10:13:51.563882+00:00",
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
+    },
+    "https://www.boerse-express.com\nsk hynix aktie: run auf hebel-etfs\ngoogle_news": {
+      "title": "SK하이닉스 주식: 레버리지 ETF 매도세",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUEpXM2xEMmdZNjNZRHFVbWpHeFRFdXlIS3M5allQbDFQWTB0Zjg5VG8wNmFscTNTNi1UeVdZenpRZkxXdEpScGNVMGdrZTZjU0lHYTBnRDJKQXRJSHJBS0dUMVRIcmFWVzBZV3M5dGdGUzBfX2dLam9KaXNEQmx5dEtaLVdUOHFkWEJIWEx3?oc=5",
+      "source_name": "Börse Express",
+      "country_code": "DE",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-04-06T10:13:51.563882+00:00",
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
+    },
+    "https://www.techinasia.com\nshinsegae, openai partner for ai commerce\ngoogle_news": {
+      "title": "신세계, AI 커머스 OpenAI 파트너",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Ha210V3hMNnhFY2xJNkhvMDA1bzEteS1jQ3NuaDY5aVpMb2NCTnFHUzlrb0tPcGdnUGJiMEs3d0lKcEtqZFZ6aXJUdTVGUi1uYVhfOGo0ejgxUlBydlZjTmRYS3p0Unlpb2xzaTNWYkZXV1ZGT2stak5ORG4?oc=5",
+      "source_name": "Tech in Asia",
+      "country_code": "US",
+      "companies": [
+        "Shinsegae"
+      ],
+      "first_seen_at": "2026-04-06T10:13:51.563882+00:00",
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
+    },
+    "https://www.newsarticleinsiders.com\nmirae asset chairman park hyeon-joo donates entire dividend\ngoogle_news": {
+      "title": "미래에셋 박현주 회장, 배당금 전액 기부",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XQ0dBQ3NOT3BTajF4dG5YbG9PTUZLazVyRndMM2N4Ml9ZN2ZxY1ZxbFJmWjNObjNOaU5NSkVFdENTT2wtYzA2LTFnZjVySmQyTFlpOERUb282dXRjRC1uam9TQXVSMFRPbkgwcW5BczVHS0NnZHVv?oc=5",
+      "source_name": "newsarticleinsiders.com",
+      "country_code": "GB",
+      "companies": [
+        "Mirae Asset"
+      ],
+      "first_seen_at": "2026-04-06T10:13:51.563882+00:00",
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
+    },
+    "https://baohatinh.vn\ngiá xe kia soluto tháng 4/2026: ưu đãi 11 triệu đồng cho bản số sàn\ngoogle_news": {
+      "title": "2026년 4월 기준 기아 솔루토 가격: 수동 변속기 모델에 1,100만 VND 할인 적용.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ3hFQ2IwZjU5enVSc1hzVlFmd2d1UzlZRkVzZ3czLS1KWlhqNkdJWVp2OUltXzhiX2x4NUdtUFlOd09Hd1gxQUlHNjcybzZtUUtLdjBGS3g1VV8waldDZ3BxeWZTcjVzRjNFNkhnWndfQ0FpNEFxNEY5OGtoV0hreVJnYjdkZjBDSG8wRGN5MGN0QWhURkw4eWNTMzRaZDRSekE?oc=5",
+      "source_name": "Báo Hà Tĩnh",
+      "country_code": "VN",
+      "companies": [
+        "Kia"
+      ],
+      "first_seen_at": "2026-04-06T10:13:51.563882+00:00",
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
+    },
+    "https://my-best.com\namorepacific hera リフレクション スキン グロウ クッション ファンデーションを検証レビュー！50代向けファンデーションの選び方も紹介\ngoogle_news": {
+      "title": "AMOREPACIFIC HERA 리플렉션 스킨 글로우 쿠션 파운데이션을 검증 리뷰! 50대용 파운데이션 선택 방법도 소개",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCOG81TWJaaGh4SXA2UGNXbVlqYkoyc0puNWxSVFdaY3l5VFdpLVgyalNRdk5Jd1BYaFJwZGh6UzY0S053NXNNZGp0MXY?oc=5",
+      "source_name": "my-best.com",
+      "country_code": "JP",
+      "companies": [
+        "Amorepacific"
+      ],
+      "first_seen_at": "2026-04-06T10:13:51.563882+00:00",
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
+    },
+    "https://de.tradingview.com\ngesamtumsatz von mirae asset vision special purpose acquisition 5 company – krx:477470\ngoogle_news": {
+      "title": "미래에셋비전 특수목적합병회사(SPAC5)의 총 매출액 – KRX:477470",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMVJyQTNhWERWd2p5bzBIdHFucjQ3QVU4QlBMMm9aS2lBQkxJd2czV2N3VUJFTTJfUmNadlVYMlZ1VGlFZGFDUHNqcDZVc2VMVTM1c094VU5nazBraDF0eTBtOEs0bnVZOVdCSlNxNXpVS0lNNmt2VjlqNEVsemQ0TDVnYjJMN0c3d0pCSlp4ODJ0dw?oc=5",
+      "source_name": "TradingView",
+      "country_code": "DE",
+      "companies": [
+        "Mirae Asset"
+      ],
+      "first_seen_at": "2026-04-06T10:13:51.563882+00:00",
+      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     }
   }
 }
