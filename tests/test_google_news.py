@@ -4,7 +4,14 @@ from pathlib import Path
 from tempfile import TemporaryDirectory
 
 from src.kor_companies.config import load_google_news_config
-from src.kor_companies.google_news import GoogleNewsEntryFilter, build_google_news_sources
+from src.kor_companies.google_news import (
+    GoogleNewsEntryFilter,
+    are_google_news_titles_similar,
+    build_google_news_sources,
+    build_google_news_title_signature,
+    is_google_news_match_plausible,
+    should_prefer_google_news_source,
+)
 from src.kor_companies.models import CompanyConfig, FeedEntry, SourceConfig
 
 
@@ -122,9 +129,13 @@ class GoogleNewsTests(unittest.TestCase):
                     "enabled": True,
                 }
             ],
-            "excluded_domains": ["prtimes.jp", "mk.co.kr"],
-            "excluded_source_names": ["PR TIMES", "매일경제"],
-            "excluded_title_patterns": ["^画像ギャラリー"],
+            "excluded_domains": ["prtimes.jp", "mk.co.kr", "marketscreener.com"],
+            "excluded_source_names": ["PR TIMES", "매일경제", "MarketScreener"],
+            "excluded_title_patterns": [
+                "^画像ギャラリー",
+                "\\baktie\\b",
+                "investor\\s+ndr\\s+presentation",
+            ],
         }
 
         with TemporaryDirectory() as tmpdir:
@@ -237,6 +248,28 @@ class GoogleNewsTests(unittest.TestCase):
             origin_source_name="Global Times",
             origin_source_url="https://www.globaltimes.cn/news/test",
         )
+        blocked_low_signal_source = FeedEntry(
+            source_id="google_news_jp_01",
+            source_name="Google News JP #1",
+            country_code="JP",
+            title="Doosan Enerbility : Investor NDR Presentation ('26.04.03)",
+            link="https://news.google.com/rss/articles/test10",
+            summary="",
+            published_at=None,
+            origin_source_name="MarketScreener",
+            origin_source_url="https://www.marketscreener.com/news/test",
+        )
+        blocked_low_signal_title = FeedEntry(
+            source_id="google_news_jp_01",
+            source_name="Google News JP #1",
+            country_code="JP",
+            title="Nexon Co Ltd Aktie: Was Du jetzt über den Gaming-Giganten wissen solltest",
+            link="https://news.google.com/rss/articles/test11",
+            summary="",
+            published_at=None,
+            origin_source_name="Example Finance",
+            origin_source_url="https://example-finance.com/news/test",
+        )
 
         self.assertTrue(entry_filter.allow(allowed))
         self.assertFalse(entry_filter.allow(blocked_pr))
@@ -247,6 +280,82 @@ class GoogleNewsTests(unittest.TestCase):
         self.assertFalse(entry_filter.allow(blocked_korean_named_source))
         self.assertFalse(entry_filter.allow(blocked_hangul_title))
         self.assertFalse(entry_filter.allow(blocked_yonhap_citation))
+        self.assertFalse(entry_filter.allow(blocked_low_signal_source))
+        self.assertFalse(entry_filter.allow(blocked_low_signal_title))
+
+    def test_title_signature_merges_syndicated_variants(self):
+        one = build_google_news_title_signature(
+            title="HYBEオーディション『WORLD SCOUT』特別番組放送決定 村重杏奈ら出演（オリコン）",
+            matched_companies=["HYBE"],
+            country_code="JP",
+        )
+        two = build_google_news_title_signature(
+            title="HYBEオーディション『WORLD SCOUT』特別番組放送決定 村重杏奈ら出演 (2026年4月6日掲載)",
+            matched_companies=["HYBE"],
+            country_code="JP",
+        )
+        three = build_google_news_title_signature(
+            title="HYBEオーディション『WORLD SCOUT』特別番組放送決定 村重杏奈ら出演",
+            matched_companies=["HYBE"],
+            country_code="JP",
+        )
+
+        self.assertEqual(one, two)
+        self.assertEqual(two, three)
+
+    def test_prefer_original_source_over_syndicator(self):
+        self.assertTrue(
+            should_prefer_google_news_source("news.yahoo.co.jp", "オリコンニュース")
+        )
+        self.assertFalse(
+            should_prefer_google_news_source("オリコンニュース", "news.yahoo.co.jp")
+        )
+
+    def test_titles_similar_for_syndicated_story_variants(self):
+        self.assertTrue(
+            are_google_news_titles_similar(
+                "HYBEオーディション候補者、最終審査前に辞退の衝撃展開 “最有力候補”だったことも明らかに【WORLD SCOUT】",
+                "「辞退したい」デビュー最有力候補生がまさかの決断…HYBEオーディションに激震！辞退の理由明かす（ABEMA TIMES）",
+                matched_companies=["HYBE"],
+            )
+        )
+        self.assertFalse(
+            are_google_news_titles_similar(
+                "Samsung Electronics posts record operating profit",
+                "Samsung Electronics unveils new Bespoke AI appliances",
+                matched_companies=["Samsung Electronics"],
+            )
+        )
+
+    def test_match_plausibility_blocks_ambiguous_kia_and_kakao_titles(self):
+        self.assertFalse(
+            is_google_news_match_plausible(
+                title="Jackson Wang turns Kia Forum into a party, but sincerity anchors the night",
+                summary="",
+                matched_companies=["Kia"],
+            )
+        )
+        self.assertFalse(
+            is_google_news_match_plausible(
+                title="Preisalarm: Kaffee, Tee und Kakao massiv teurer",
+                summary="",
+                matched_companies=["Kakao"],
+            )
+        )
+        self.assertTrue(
+            is_google_news_match_plausible(
+                title="2027 Kia EV3 confirmed for US as entry-level electric SUV",
+                summary="",
+                matched_companies=["Kia"],
+            )
+        )
+        self.assertFalse(
+            is_google_news_match_plausible(
+                title="Nexon - Prix du carburant : les stations essence les moins chères",
+                summary="",
+                matched_companies=["Nexon"],
+            )
+        )
 
 
 if __name__ == "__main__":

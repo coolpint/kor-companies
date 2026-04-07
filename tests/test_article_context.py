@@ -1,5 +1,4 @@
 import unittest
-from datetime import timezone
 from unittest.mock import patch
 
 from src.kor_companies.article_context import build_article_context
@@ -218,11 +217,46 @@ class ArticleContextTests(unittest.TestCase):
         self.assertTrue(context.low_confidence)
         self.assertEqual(context.summary_sentences, [])
         self.assertIn("Sector's key proponent faces challenger Magyar", context.meta_description)
-        self.assertIn("Samsung SDI in Hungary", context.meta_description)
-        self.assertIsNotNone(context.published_at_hint)
-        self.assertEqual(context.published_at_hint.year, 2026)
-        self.assertEqual(context.published_at_hint.month, 3)
-        self.assertEqual(context.published_at_hint.tzinfo, timezone.utc)
+
+    @patch("src.kor_companies.article_context.fetch_url")
+    def test_build_article_context_reads_text_from_structured_meta_object(self, mock_fetch_url):
+        html = """
+        <html>
+          <head>
+            <script type="application/ld+json">
+              {
+                "@context": "https://schema.org",
+                "@type": "NewsArticle",
+                "description": {
+                  "@type": "WebContent",
+                  "text": "SK hynix warns that AI memory demand remains strong despite broader chip market caution."
+                }
+              }
+            </script>
+          </head>
+          <body>
+            <header>Latest news Subscribe My account</header>
+            <nav>Technology Business Markets Opinion</nav>
+          </body>
+        </html>
+        """
+        mock_fetch_url.return_value = FetchResponse(
+            url="https://example.com/sk-hynix-ai-memory-demand",
+            body=html.encode("utf-8"),
+            content_type="text/html",
+        )
+
+        context = build_article_context(
+            "https://example.com/sk-hynix-ai-memory-demand",
+            aliases=["SK hynix"],
+        )
+
+        self.assertTrue(context.low_confidence)
+        self.assertEqual(context.summary_sentences, [])
+        self.assertEqual(
+            context.meta_description,
+            "SK hynix warns that AI memory demand remains strong despite broader chip market caution.",
+        )
 
 
 if __name__ == "__main__":

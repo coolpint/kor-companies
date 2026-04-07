@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>"HYBE" - Google News</title>
+    <link>https://news.google.com/</link>
+    <item>
+      <title>HYBEオーディション『WORLD SCOUT』特別番組放送決定 村重杏奈ら出演（オリコン）</title>
+      <link>https://news.google.com/rss/articles/test-yahoo?oc=5</link>
+      <guid isPermaLink="false">test-yahoo</guid>
+      <pubDate>Sun, 05 Apr 2026 22:06:00 GMT</pubDate>
+      <description><![CDATA[
+        <a href="https://news.google.com/rss/articles/test-yahoo?oc=5" target="_blank">
+          HYBEオーディション『WORLD SCOUT』特別番組放送決定 村重杏奈ら出演（オリコン）
+        </a>
+        <font color="#6f6f6f">news.yahoo.co.jp</font>
+      ]]></description>
+      <source url="https://news.yahoo.co.jp/articles/test">news.yahoo.co.jp</source>
+    </item>
+    <item>
+      <title>HYBEオーディション『WORLD SCOUT』特別番組放送決定 村重杏奈ら出演</title>
+      <link>https://news.google.com/rss/articles/test-oricon?oc=5</link>
+      <guid isPermaLink="false">test-oricon</guid>
+      <pubDate>Sun, 05 Apr 2026 22:00:00 GMT</pubDate>
+      <description><![CDATA[
+        <a href="https://news.google.com/rss/articles/test-oricon?oc=5" target="_blank">
+          HYBEオーディション『WORLD SCOUT』特別番組放送決定 村重杏奈ら出演
+        </a>
+        <font color="#6f6f6f">オリコンニュース</font>
+      ]]></description>
+      <source url="https://www.oricon.co.jp/news/test">オリコンニュース</source>
+    </item>
+    <item>
+      <title>HYBEオーディション『WORLD SCOUT』特別番組放送決定 村重杏奈ら出演 (2026年4月6日掲載)</title>
+      <link>https://news.google.com/rss/articles/test-livedoor?oc=5</link>
+      <guid isPermaLink="false">test-livedoor</guid>
+      <pubDate>Sun, 05 Apr 2026 22:00:00 GMT</pubDate>
+      <description><![CDATA[
+        <a href="https://news.google.com/rss/articles/test-livedoor?oc=5" target="_blank">
+          HYBEオーディション『WORLD SCOUT』特別番組放送決定 村重杏奈ら出演 (2026年4月6日掲載)
+        </a>
+        <font color="#6f6f6f">ライブドアニュース</font>
+      ]]></description>
+      <source url="https://news.livedoor.com/article/detail/test">ライブドアニュース</source>
+    </item>
+  </channel>
+</rss>

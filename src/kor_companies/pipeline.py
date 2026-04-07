@@ -10,7 +10,15 @@ from .config import load_companies, load_countries, load_google_news_config, loa
 from .enrichment import ArticleEnricher
 from .feed_parser import FeedParseError, parse_feed
 from .fetcher import FetchError, fetch_feed
-from .google_news import GoogleNewsEntryFilter, build_google_news_sources, is_google_news_source
+from .google_news import (
+    GoogleNewsEntryFilter,
+    are_google_news_titles_similar,
+    build_google_news_sources,
+    build_google_news_title_signature,
+    is_google_news_source,
+    is_google_news_match_plausible,
+    should_prefer_google_news_source,
+)
 from .matcher import CompanyMatcher
 from .models import CompanyConfig, MatchedArticle, SourceRunResult
 from .reporting import write_reports
@@ -63,6 +71,7 @@ def run_monitor(
 
     matched_by_key: Dict[str, MatchedArticle] = {}
     matched_by_fingerprint: Dict[str, str] = {}
+    matched_by_google_news_title: Dict[str, str] = {}
     source_runs: List[SourceRunResult] = []
 
     for source in sources:
@@ -115,12 +124,37 @@ def run_monitor(
             matched_companies = [result.company.canonical_name_en for result in match_results]
             article = matched_by_key.get(article_key)
             article_fingerprint = _build_article_fingerprint(display_source_name, entry.title)
+            google_news_title_signature = ""
+            if is_google_news_source(source):
+                google_news_title_signature = build_google_news_title_signature(
+                    title=entry.title,
+                    matched_companies=matched_companies,
+                    country_code=source.country_code,
+                )
             if article is None:
                 existing_key = matched_by_fingerprint.get(article_fingerprint)
                 if existing_key:
                     article = matched_by_key.get(existing_key)
+            if article is None and google_news_title_signature:
+                existing_key = matched_by_google_news_title.get(google_news_title_signature)
+                if existing_key:
+                    article = matched_by_key.get(existing_key)
+            if article is None and is_google_news_source(source):
+                article = _find_similar_google_news_article(
+                    matched_articles=matched_by_key,
+                    title=entry.title,
+                    matched_companies=matched_companies,
+                    country_code=source.country_code,
+                )
             matched_aliases = [alias for result in match_results for alias in result.aliases]
             feed_summary = normalize_whitespace(entry.summary)
+            if is_google_news_source(source) and not is_google_news_match_plausible(
+                title=entry.title,
+                summary=feed_summary,
+                matched_companies=matched_companies,
+            ):
+                matched_count -= 1
+                continue
             if is_google_news_source(source):
                 article_context = ArticleContext(relevant_sentences=[], low_confidence=True)
                 if not feed_summary:
@@ -163,6 +197,8 @@ def run_monitor(
                     matched_aliases=_dedupe_preserve_order(matched_aliases),
                 )
                 matched_by_fingerprint[article_fingerprint] = article_key
+                if google_news_title_signature:
+                    matched_by_google_news_title[google_news_title_signature] = article_key
             else:
                 article.matched_companies = _dedupe_preserve_order(
                     article.matched_companies + matched_companies
@@ -176,8 +212,25 @@ def run_monitor(
                     article.company_summary = enrichment.company_summary
                 if article.published_at is None and resolved_published_at is not None:
                     article.published_at = resolved_published_at
+                if google_news_title_signature and google_news_title_signature not in matched_by_google_news_title:
+                    matched_by_google_news_title[google_news_title_signature] = article.article_key
                 if article.source_name == source.source_name and display_source_name:
                     article.source_name = display_source_name
+                if is_google_news_source(source) and should_prefer_google_news_source(
+                    article.source_name,
+                    display_source_name,
+                ):
+                    article.source_name = display_source_name
+                    article.original_title = normalize_whitespace(entry.title)
+                    article.original_summary = feed_summary
+                    if enrichment.translated_title:
+                        article.title = enrichment.translated_title
+                    if enrichment.translated_summary:
+                        article.summary = enrichment.translated_summary
+                    else:
+                        article.summary = feed_summary
+                    if enrichment.company_summary:
+                        article.company_summary = enrichment.company_summary
 
         source_runs.append(
             SourceRunResult(
@@ -242,6 +295,36 @@ def _build_google_news_article_key(source_name: str, source_url: str, title: str
             "google_news",
         ]
     )
+
+
+def _find_similar_google_news_article(
+    matched_articles: Dict[str, MatchedArticle],
+    title: str,
+    matched_companies: Sequence[str],
+    country_code: str,
+) -> Optional[MatchedArticle]:
+    target_companies = {
+        normalize_whitespace(company).casefold() for company in matched_companies if company
+    }
+    for article in matched_articles.values():
+        if not article.source_id.startswith("google_news_"):
+            continue
+        if article.country_code != country_code:
+            continue
+        article_companies = {
+            normalize_whitespace(company).casefold()
+            for company in article.matched_companies
+            if company
+        }
+        if article_companies != target_companies:
+            continue
+        if are_google_news_titles_similar(
+            article.original_title,
+            title,
+            matched_companies=matched_companies,
+        ):
+            return article
+    return None
 
 
 def _companies_without_primary_brands(companies: Sequence[CompanyConfig]) -> List[CompanyConfig]:

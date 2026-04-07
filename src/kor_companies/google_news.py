@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import re
+from difflib import SequenceMatcher
 from typing import Iterable, List, Sequence
 from urllib.parse import urlencode, urlsplit
 
@@ -9,6 +10,10 @@ from .utils import normalize_whitespace
 
 GOOGLE_NEWS_BASE_URL = "https://news.google.com/rss/search"
 HANGUL_RE = re.compile(r"[\uac00-\ud7a3]")
+GOOGLE_NEWS_TITLE_TOKEN_RE = re.compile(r"[^\w\u00c0-\u024f\u3040-\u30ff\u3400-\u9fff\uac00-\ud7a3]+")
+TRAILING_BRACKET_BLOCK_RE = re.compile(
+    r"^(?P<prefix>.*?)(?:\s*[\(\（\[](?P<content>[^()\[\]（）]{1,40})[\)\）\]])\s*$"
+)
 KOREAN_NEWS_MARKERS = (
     "korea",
     "korean",
@@ -37,6 +42,8 @@ KOREAN_NEWS_MARKERS = (
     "thelec",
     "businesskorea",
     "ajunews",
+    "ajupress",
+    "aju press",
     "아주경제",
     "매일경제",
     "조선일보",
@@ -69,6 +76,50 @@ KOREAN_CITATION_MARKERS = (
     "newsis",
     "뉴시스",
 )
+GOOGLE_NEWS_SYNDICATOR_MARKERS = (
+    "yahoo",
+    "news.yahoo.co.jp",
+    "livedoor",
+    "ライブドア",
+    "msn",
+    "smartnews",
+    "newsbreak",
+    "line news",
+    "googlenews",
+    "gooニュース",
+    "infoseek",
+)
+TITLE_METADATA_MARKERS = (
+    "掲載",
+    "게재",
+    "posted",
+    "updated",
+    "edition",
+    "yahoo",
+    "oricon",
+    "オリコン",
+    "livedoor",
+    "ライブドア",
+    "reuters",
+)
+GOOGLE_NEWS_FUZZY_DUPLICATE_MIN_RATIO = 0.58
+GOOGLE_NEWS_NEAR_DUPLICATE_RATIO = 0.72
+AMBIGUOUS_GOOGLE_NEWS_PATTERNS = {
+    "kia": (
+        re.compile(r"\bkia forum\b", re.IGNORECASE),
+        re.compile(r"\bopen kia\b", re.IGNORECASE),
+    ),
+    "kakao": (
+        re.compile(r"\bpreisalarm\b", re.IGNORECASE),
+        re.compile(r"\bkaffee\b", re.IGNORECASE),
+        re.compile(r"\btee\b", re.IGNORECASE),
+        re.compile(r"\bmassiv teurer\b", re.IGNORECASE),
+    ),
+    "nexon": (
+        re.compile(r"prix du carburant", re.IGNORECASE),
+        re.compile(r"stations essence", re.IGNORECASE),
+    ),
+}
 
 
 def build_google_news_sources(
@@ -227,3 +278,131 @@ def _normalize_host(value: str) -> str:
     if host.startswith("www."):
         host = host[4:]
     return host
+
+
+def build_google_news_title_signature(
+    title: str,
+    matched_companies: Sequence[str],
+    country_code: str,
+) -> str:
+    normalized_title = _normalize_google_news_title_for_dedupe(title)
+    companies_key = "|".join(
+        sorted(normalize_whitespace(item).casefold() for item in matched_companies)
+    )
+    return "\n".join([country_code.casefold(), companies_key, normalized_title])
+
+
+def should_prefer_google_news_source(current_source_name: str, candidate_source_name: str) -> bool:
+    current = normalize_whitespace(current_source_name).casefold()
+    candidate = normalize_whitespace(candidate_source_name).casefold()
+    if not candidate:
+        return False
+    if not current:
+        return True
+
+    current_is_syndicator = _looks_like_google_news_syndicator(current)
+    candidate_is_syndicator = _looks_like_google_news_syndicator(candidate)
+    if current_is_syndicator and not candidate_is_syndicator:
+        return True
+    if candidate_is_syndicator and not current_is_syndicator:
+        return False
+    return len(candidate) < len(current)
+
+
+def are_google_news_titles_similar(
+    left: str,
+    right: str,
+    matched_companies: Sequence[str] = (),
+) -> bool:
+    normalized_left = _normalize_google_news_title_for_dedupe(left)
+    normalized_right = _normalize_google_news_title_for_dedupe(right)
+    if not normalized_left or not normalized_right:
+        return False
+    if normalized_left == normalized_right:
+        return True
+    comparable_left = _strip_company_tokens(normalized_left, matched_companies)
+    comparable_right = _strip_company_tokens(normalized_right, matched_companies)
+
+    ratio = SequenceMatcher(None, comparable_left, comparable_right).ratio()
+    if ratio >= GOOGLE_NEWS_NEAR_DUPLICATE_RATIO:
+        return True
+
+    tokens_left = {token for token in comparable_left.split() if len(token) >= 2}
+    tokens_right = {token for token in comparable_right.split() if len(token) >= 2}
+    shared_tokens = tokens_left & tokens_right
+    if len(shared_tokens) >= 3 and ratio >= GOOGLE_NEWS_FUZZY_DUPLICATE_MIN_RATIO:
+        return True
+    if _shared_char_ngrams(comparable_left, comparable_right, 4) >= 6 and ratio >= 0.25:
+        return True
+    return False
+
+
+def is_google_news_match_plausible(
+    title: str,
+    summary: str,
+    matched_companies: Sequence[str],
+) -> bool:
+    text = normalize_whitespace(" ".join(part for part in (title, summary) if part))
+    if not text:
+        return True
+    for company in matched_companies:
+        patterns = AMBIGUOUS_GOOGLE_NEWS_PATTERNS.get(
+            normalize_whitespace(company).casefold(),
+            (),
+        )
+        if any(pattern.search(text) for pattern in patterns):
+            return False
+    return True
+
+
+def _normalize_google_news_title_for_dedupe(title: str) -> str:
+    value = normalize_whitespace(title)
+    while True:
+        match = TRAILING_BRACKET_BLOCK_RE.match(value)
+        if not match:
+            break
+        content = normalize_whitespace(match.group("content"))
+        if not _looks_like_title_metadata(content):
+            break
+        value = match.group("prefix").rstrip(" -|:")
+
+    value = re.sub(r"\bby\s+reuters\b", "", value, flags=re.IGNORECASE)
+    value = normalize_whitespace(value)
+    tokenized = GOOGLE_NEWS_TITLE_TOKEN_RE.sub(" ", value)
+    return normalize_whitespace(tokenized).casefold()
+
+
+def _strip_company_tokens(title: str, matched_companies: Sequence[str]) -> str:
+    cleaned = title
+    for company in matched_companies:
+        company_key = normalize_whitespace(company).casefold()
+        if not company_key:
+            continue
+        cleaned = cleaned.replace(company_key, " ")
+    return normalize_whitespace(cleaned)
+
+
+def _shared_char_ngrams(left: str, right: str, size: int) -> int:
+    compact_left = left.replace(" ", "")
+    compact_right = right.replace(" ", "")
+    if len(compact_left) < size or len(compact_right) < size:
+        return 0
+    left_ngrams = {compact_left[index : index + size] for index in range(len(compact_left) - size + 1)}
+    right_ngrams = {
+        compact_right[index : index + size] for index in range(len(compact_right) - size + 1)
+    }
+    return len(left_ngrams & right_ngrams)
+
+
+def _looks_like_title_metadata(content: str) -> bool:
+    lowered = content.casefold()
+    if any(char.isdigit() for char in content):
+        return True
+    if any(marker in lowered for marker in TITLE_METADATA_MARKERS):
+        return True
+    return len(content) <= 12 and " " not in content
+
+
+def _looks_like_google_news_syndicator(value: str) -> bool:
+    lowered = normalize_whitespace(value).casefold()
+    return any(marker in lowered for marker in GOOGLE_NEWS_SYNDICATOR_MARKERS)

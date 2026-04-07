@@ -400,8 +400,11 @@ def _append_unique_candidate(candidates: List[str], candidate: str) -> None:
     candidates.append(candidate)
 
 
-def _clean_meta_candidate(value: str) -> str:
-    cleaned = normalize_whitespace(unescape(value))
+def _clean_meta_candidate(value: Any) -> str:
+    raw_value = _coerce_meta_candidate_text(value)
+    if not raw_value:
+        return ""
+    cleaned = normalize_whitespace(unescape(raw_value))
     if not cleaned:
         return ""
     if cleaned[-1] not in ".!?。！？":
@@ -409,6 +412,26 @@ def _clean_meta_candidate(value: str) -> str:
         if tokens and len(tokens[-1]) <= 3:
             cleaned = " ".join(tokens[:-1]).rstrip(" ,;:-")
     return normalize_whitespace(cleaned)
+
+
+def _coerce_meta_candidate_text(value: Any, depth: int = 0) -> str:
+    if depth > 3 or value is None:
+        return ""
+    if isinstance(value, str):
+        return value
+    if isinstance(value, list):
+        parts: List[str] = []
+        for child in value:
+            child_text = _coerce_meta_candidate_text(child, depth + 1)
+            if child_text and child_text not in parts:
+                parts.append(child_text)
+        return " ".join(parts)
+    if isinstance(value, dict):
+        for key in ("text", "name", "headline", "value", "@value", "description"):
+            child_text = _coerce_meta_candidate_text(value.get(key), depth + 1)
+            if child_text:
+                return child_text
+    return ""
 
 
 def _meta_description_score(candidate: str) -> int:
