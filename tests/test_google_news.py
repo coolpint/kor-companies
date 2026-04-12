@@ -285,17 +285,17 @@ class GoogleNewsTests(unittest.TestCase):
 
     def test_title_signature_merges_syndicated_variants(self):
         one = build_google_news_title_signature(
-            title="HYBEオーディション『WORLD SCOUT』特別番組放送決定 村重杏奈ら出演（オリコン）",
+            title="HYBE、横浜に日本初の常設店 BTSのCDなど販売（日本経済新聞）",
             matched_companies=["HYBE"],
             country_code="JP",
         )
         two = build_google_news_title_signature(
-            title="HYBEオーディション『WORLD SCOUT』特別番組放送決定 村重杏奈ら出演 (2026年4月6日掲載)",
+            title="HYBE、横浜に日本初の常設店 BTSのCDなど販売 (2026年4月11日掲載)",
             matched_companies=["HYBE"],
             country_code="JP",
         )
         three = build_google_news_title_signature(
-            title="HYBEオーディション『WORLD SCOUT』特別番組放送決定 村重杏奈ら出演",
+            title="HYBE、横浜に日本初の常設店 BTSのCDなど販売",
             matched_companies=["HYBE"],
             country_code="JP",
         )
@@ -314,8 +314,8 @@ class GoogleNewsTests(unittest.TestCase):
     def test_titles_similar_for_syndicated_story_variants(self):
         self.assertTrue(
             are_google_news_titles_similar(
-                "HYBEオーディション候補者、最終審査前に辞退の衝撃展開 “最有力候補”だったことも明らかに【WORLD SCOUT】",
-                "「辞退したい」デビュー最有力候補生がまさかの決断…HYBEオーディションに激震！辞退の理由明かす（ABEMA TIMES）",
+                "HYBE横浜に日本初の常設店、BTSグッズ販売開始（日経）",
+                "HYBE、横浜に日本初の常設店 BTSのCDなど販売",
                 matched_companies=["HYBE"],
             )
         )
@@ -342,9 +342,16 @@ class GoogleNewsTests(unittest.TestCase):
                 matched_companies=["Kakao"],
             )
         )
-        self.assertTrue(
+        self.assertFalse(
             is_google_news_match_plausible(
                 title="2027 Kia EV3 confirmed for US as entry-level electric SUV",
+                summary="",
+                matched_companies=["Kia"],
+            )
+        )
+        self.assertTrue(
+            is_google_news_match_plausible(
+                title="Hyundai, Kia and BMW recall nearly 180,000 vehicles over software defects",
                 summary="",
                 matched_companies=["Kia"],
             )
@@ -354,6 +361,34 @@ class GoogleNewsTests(unittest.TestCase):
                 title="Nexon - Prix du carburant : les stations essence les moins chères",
                 summary="",
                 matched_companies=["Nexon"],
+            )
+        )
+        self.assertFalse(
+            is_google_news_match_plausible(
+                title='"Proof of Great Collaboration": KRAFTON and People Can Fly Complete Xeno Point',
+                summary="",
+                matched_companies=["Krafton"],
+            )
+        )
+        self.assertFalse(
+            is_google_news_match_plausible(
+                title="The First Berserker Khazan: Nexon denies layoffs after team rumors",
+                summary="",
+                matched_companies=["Nexon"],
+            )
+        )
+        self.assertFalse(
+            is_google_news_match_plausible(
+                title="HYBE audition sends four trainees to America as SNS erupts",
+                summary="",
+                matched_companies=["HYBE"],
+            )
+        )
+        self.assertTrue(
+            is_google_news_match_plausible(
+                title="HYBE opens first permanent store in Yokohama",
+                summary="",
+                matched_companies=["HYBE"],
             )
         )
 
