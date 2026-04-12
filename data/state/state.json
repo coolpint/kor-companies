@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-04-12T09:51:38.614919+00:00",
+  "last_run_at": "2026-04-12T23:40:50.355184+00:00",
   "seen_articles": {
     "https://www.ft.com/content/3752d058-d3ee-41a4-b702-d49ae7f61b5c": {
       "title": "삼성은 애플의 스마트폰 시장 선두 자리를 위협하기 위해 AI 관련 인수합병을 추진하고 있다.",
@@ -8256,12 +8256,12 @@
       "title": "지루한 SUV에 질리셨나요? 기아의 새로운 V4 패스트백을 확인해 보세요.",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oUTNmblRQd2s0S09ILV9JYS1WcnZFSUFwUnNBNWdwY21Da2ctSURVRTNNYVBrRGM1NHlwVzE1YlBnY0l6NVVXZVQyWDlsNzFFMWpWcmJuOEpRY2dOaFp2OW1BLW1PS016cG9BcnU4Ny1SZw?oc=5",
       "source_name": "wallpaper.com",
-      "country_code": "US",
+      "country_code": "GB",
       "companies": [
         "Kia"
       ],
       "first_seen_at": "2026-04-12T09:51:38.614919+00:00",
-      "last_seen_at": "2026-04-12T09:51:38.614919+00:00"
+      "last_seen_at": "2026-04-12T23:40:50.355184+00:00"
     },
     "https://www.saostar.vn\n'mục sở thị' nhóm nhạc latin đầu tiên của hybe\ngoogle_news": {
       "title": "'직접 확인해 보세요' HYBE의 첫 번째 라틴 음악 그룹.",
@@ -8272,7 +8272,7 @@
         "HYBE"
       ],
       "first_seen_at": "2026-04-12T09:51:38.614919+00:00",
-      "last_seen_at": "2026-04-12T09:51:38.614919+00:00"
+      "last_seen_at": "2026-04-12T23:40:50.355184+00:00"
     },
     "https://www.team-bhp.com\nnext-gen kia sonet to be launched in 2027\ngoogle_news": {
       "title": "차세대 기아 쏘넷, 2027년 출시 예정",
@@ -8305,7 +8305,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-04-12T09:51:38.614919+00:00",
-      "last_seen_at": "2026-04-12T09:51:38.614919+00:00"
+      "last_seen_at": "2026-04-12T23:40:50.355184+00:00"
     },
     "https://www.imarinenews.com\nhd hyundai heavy industries pioneers new half-ship outsourcing model to boost delivery efficiency\ngoogle_news": {
       "title": "현대중공업, 납품 효율성 향상을 위한 새로운 반제품 아웃소싱 모델 도입",
@@ -8317,7 +8317,7 @@
         "HD Hyundai"
       ],
       "first_seen_at": "2026-04-12T09:51:38.614919+00:00",
-      "last_seen_at": "2026-04-12T09:51:38.614919+00:00"
+      "last_seen_at": "2026-04-12T23:40:50.355184+00:00"
     },
     "https://cleantechnica.com\nkia beats tesla to the compact ev sales punch — in europe\ngoogle_news": {
       "title": "기아, 유럽에서 소형 전기차 판매량 1위 자리를 테슬라에 빼앗아갔다",
@@ -8329,6 +8329,83 @@
       ],
       "first_seen_at": "2026-04-12T09:51:38.614919+00:00",
       "last_seen_at": "2026-04-12T09:51:38.614919+00:00"
+    },
+    "https://www.guideautoweb.com\nbalado: une camionnette kia en approche, antoine se laisse conduire par le tesla model y\ngoogle_news": {
+      "title": "팟캐스트: 기아 픽업트럭이 다가오자, 앙투안은 테슬라 모델 Y에 몸을 맡긴다.",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVGtoWnRGU3JqY3pwZ3hVVGU4Tkw4SmVNUVF5OHY1QVRUUkxmTjRJcHZPRWF1eVh4ZzYwZEFrcE1XbmhuNE1DM3JLRmpTczBTVlFJTDNHR1BBWk5HTUdoWF9VMkpDSmF6Z0FncFhRTGJMWjBaN0taczhPRXVhdzgyT3pEYXNVTEZleTByRmJIdl8zMlljTUZzNk5OdFlGYjNGZWc0dDl4LTlUaWVTREh0NzcycGtmbjhBcmF0MTBVb2x5UzB3Smt2dG9zTQ?oc=5",
+      "source_name": "Le Guide de l'auto",
+      "country_code": "FR",
+      "companies": [
+        "Kia"
+      ],
+      "first_seen_at": "2026-04-12T23:40:50.355184+00:00",
+      "last_seen_at": "2026-04-12T23:40:50.355184+00:00"
+    },
+    "https://www.aerocontact.com\nkf-21, ? (feat. kf-21 ) - korea aerospace industries\ngoogle_news": {
+      "title": "KF-21, ? (feat. KF-21) - 한국항공우주산업",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2b0Y1dTVIUElwT0tSUTQxUUd3YTdFYlNKVHVJSV8wLWtQVE1kLXVneE5VNjdtMmNCZFVPU2I2RHB2Wk9rWnlaREZ3UjdRZUkwODd2VlBheW4zbW9HQUI4WTZ0ZURwODktZW9mZw?oc=5",
+      "source_name": "Aerocontact.com",
+      "country_code": "FR",
+      "companies": [
+        "Korea Aerospace Industries"
+      ],
+      "first_seen_at": "2026-04-12T23:40:50.355184+00:00",
+      "last_seen_at": "2026-04-12T23:40:50.355184+00:00"
+    },
+    "https://respawn.outlookindia.com\nkrafton and neptune partnership debuts flick game dev challenge | outlook respawn\ngoogle_news": {
+      "title": "KRAFTON과 Neptune의 파트너십으로 Flick 게임 개발 챌린지 첫 개최 | Outlook Respawn",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN0VfODh3RjUwNG9hWVZabVhoUDdmM1RLNEUwNGpSZXZOLVM3WEs0WkwwMy0zNXEzR3hITUpjR3NaZGJUNW44MUxaLUtlMlF3aF9SZENUd2ZfSVZvcG1yb0VpUHNtTnB1SWJOVmJsSEZFRXoxWnZVSk9NdmdEUWh4aEJiSVhxZktrWXdCR3g0YjJWeDRGUFl5V1psVHhWYmtTa1hkUnRJLVVUOTFRTWdSRVEyN016d9IBwwFBVV95cUxQYzc3REtrZHVPZEdRN3ZZLUlXdHd4dTBDekt0V2RDVjQzZmc2NEJjLVhMbE9jUl9VTmEwNWdSd0pFc24zbnFBN1JaUW14bENXcGpUc0ZaenZKN0h5LUh5Z09XQWtQbjBTWHlsc3hDOG1DRTNmMnU5alNoeWo4RklxaktjY2ZPRGxfSGlnSE13clYxdVBKSHpiOTVCWnJIX3NvV09hSldGRXdWVjNnTWFuVzdqdW9taEZfQVYxR1p4QzFKNXM?oc=5",
+      "source_name": "Outlook Respawn",
+      "country_code": "GB",
+      "companies": [
+        "Krafton"
+      ],
+      "first_seen_at": "2026-04-12T23:40:50.355184+00:00",
+      "last_seen_at": "2026-04-12T23:40:50.355184+00:00"
+    },
+    "https://www.autoexpress.co.uk\ncomfortable and stylish! a used kia soul ev makes a compelling case for switching to electric power\ngoogle_news": {
+      "title": "편안하고 스타일리시하기까지! 중고 기아 쏘울 EV는 전기차로 전환해야 할 강력한 이유를 제시합니다.",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWWRuM2J1ZnowWUVrUFhPOUVsbkR2ZkFrQ3FMejd5ZGo1aVJaZ0NVQXk0VnU2OE85djcwMWFjRDJ5V1N3MGhkTWtFNjU5cmluZ3dqNUlhOXV2Uzhqd0JFZ0lyVGpHTjhVZjd3VkhlT2VSMEU2d3U5amQzRnhwOHJBRTRLUHNib0s4MW9NWE1yVWdteDZDb0RvbVZXNGcxbG4xVndHWGtwTXhuMEhvb2didzhlY3FTekVISEppejR6S3A?oc=5",
+      "source_name": "Auto Express",
+      "country_code": "GB",
+      "companies": [
+        "Kia"
+      ],
+      "first_seen_at": "2026-04-12T23:40:50.355184+00:00",
+      "last_seen_at": "2026-04-12T23:40:50.355184+00:00"
+    },
+    "https://gmauthority.com\nlg energy solution joins gm-founded sdverse software marketplace\ngoogle_news": {
+      "title": "LG에너지 솔루션, GM이 설립한 SDVerse 소프트웨어 마켓플레이스에 합류",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNXzVTdi02RE1kQzFkVDBXWUs3enZ3eEhITkpyMjRHaDA2Z21GaXFMaXFYdVVDanFIUVZqeFVJQy12Y1k1SEhqODQyUWFWWjhHand1WFA1bXM5VDNFVWZWLTR5b2lKTXJ4N0tZMXEySzg2LUNVZ1hhdGF5T25DNC1mTmtGVnA2Q3A3NmRZVWpvVzFSYlJCczJaQV93X0MtZTBKZ2twc9IBqgFBVV95cUxPN3g0dmVRdlg5NWJrOTUzNUF6SXFGZnI0RGRtV0RJSW9oNGl6Uzhoc0FLRmtWZUppSGpWVUdXRXBIRTVGMlA1bm5hV2hZYlI3WUxuZ0EwcnNYVmVBVm0xdnRGdkIxUEhWak5JZFdWdmtKNTFtbnZjN1JsUVM4cGpLbGVUUjVDc0dDV2x5TEZzV0lTX3BTa1R1VzkyV2wzWEdBM0ZfZ1liUUNuUQ?oc=5",
+      "source_name": "GM Authority",
+      "country_code": "US",
+      "companies": [
+        "LG Energy Solution"
+      ],
+      "first_seen_at": "2026-04-12T23:40:50.355184+00:00",
+      "last_seen_at": "2026-04-12T23:40:50.355184+00:00"
+    },
+    "https://news.yahoo.co.jp\nbtsの韓国公演にスター大集結！パク・ソジュン、hybe後輩からバン・シヒョク議長まで…記念ショットも (kstyle)\ngoogle_news": {
+      "title": "BTS의 한국 공연에 스타 대집결! 박서준, HYBE 후배부터 반시혁 의장까지… 기념 샷도",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRmFla2JLVjVZTnYybUJPVEhTY25ZWUl6UXA0Zi1OTUdrdHRJVjBpT1RmbXFlQlZSVmlFbW1jRG1feW1IWkNXS2pmeUNtZzB1OG5kMG5Cc1ZCS0MzcGJsMzFJNlhia2lGZE9NWWg1Z3I4Z1ZCUVI1MWxvaWJKSk5nNlRIdkhmbXNEeEg5S0NR?oc=5",
+      "source_name": "Kstyle",
+      "country_code": "JP",
+      "companies": [
+        "HYBE"
+      ],
+      "first_seen_at": "2026-04-12T23:40:50.355184+00:00",
+      "last_seen_at": "2026-04-12T23:40:50.355184+00:00"
+    },
+    "http://www.moomoo.com\n🔥🎯ubsがsk hynixの目標株価を170万ウォンに引き上げたが、真の分岐点は目標株価ではなく、「この会社が依然としてサイクル株かどうか」にある 市場が見ているのは一つの数字：目標株価が155万ウォンから170万ウォンに引き上げられ、86%の上昇余地がある。 しかし、こ\ngoogle_news": {
+      "title": "🔥🎯 UBS가 SK하이닉스의 목표주가를 170만원으로 끌어올렸지만 진정한 분기점은 목표주가가 아니라 '이 회사가 여전히 사이클주인지 아닌지'에 있는 시장이 보고 있는 것은 하나의 숫자: 목표주가가 155만원에서 170만원으로 올랐다. 그러나,",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWUROczE3eDF4M3FNY1JRRnR2RXYyRWU5Zk12Mi1waEZmWGJ0XzFDbGJIeGR3ZDRyWUdYaVhUX3ZSVnVobWFRX1VidjBROFBraWR0ZzZ6NVA1d1ZhYUpfUG8zM0psQXJKeGFVNXh3TTJGbG53SHJXRDdQYzBIYTU2OWtxV2doTHE5dExYbmExcFpEQVc4Q1FjMmpjNVpCQ2s3?oc=5",
+      "source_name": "Moomoo",
+      "country_code": "JP",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-04-12T23:40:50.355184+00:00",
+      "last_seen_at": "2026-04-12T23:40:50.355184+00:00"
     }
   }
 }
