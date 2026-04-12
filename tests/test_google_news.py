@@ -342,7 +342,7 @@ class GoogleNewsTests(unittest.TestCase):
                 matched_companies=["Kakao"],
             )
         )
-        self.assertFalse(
+        self.assertTrue(
             is_google_news_match_plausible(
                 title="2027 Kia EV3 confirmed for US as entry-level electric SUV",
                 summary="",
@@ -361,27 +361,6 @@ class GoogleNewsTests(unittest.TestCase):
                 title="Nexon - Prix du carburant : les stations essence les moins chères",
                 summary="",
                 matched_companies=["Nexon"],
-            )
-        )
-        self.assertFalse(
-            is_google_news_match_plausible(
-                title='"Proof of Great Collaboration": KRAFTON and People Can Fly Complete Xeno Point',
-                summary="",
-                matched_companies=["Krafton"],
-            )
-        )
-        self.assertFalse(
-            is_google_news_match_plausible(
-                title="The First Berserker Khazan: Nexon denies layoffs after team rumors",
-                summary="",
-                matched_companies=["Nexon"],
-            )
-        )
-        self.assertFalse(
-            is_google_news_match_plausible(
-                title="HYBE audition sends four trainees to America as SNS erupts",
-                summary="",
-                matched_companies=["HYBE"],
             )
         )
         self.assertTrue(

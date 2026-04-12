@@ -120,64 +120,6 @@ AMBIGUOUS_GOOGLE_NEWS_PATTERNS = {
         re.compile(r"stations essence", re.IGNORECASE),
     ),
 }
-HIGH_VALUE_BUSINESS_PATTERNS = (
-    re.compile(r"\brecall\b", re.IGNORECASE),
-    re.compile(r"\binvest(?:s|ment|ing)?\b", re.IGNORECASE),
-    re.compile(r"\bfactory\b|\bplant\b", re.IGNORECASE),
-    re.compile(r"\blawsuit\b|\bcourt\b|\bjudge\b", re.IGNORECASE),
-    re.compile(r"\bregulator\b|\bantitrust\b|\bprobe\b|\binvestigation\b", re.IGNORECASE),
-    re.compile(r"\bfine\b|\bpenalty\b|\bsanction\b", re.IGNORECASE),
-    re.compile(r"\bearnings\b|\bprofit\b|\brevenue\b|\bguidance\b", re.IGNORECASE),
-    re.compile(r"\bmerger\b|\bacquisition\b|\bipo\b", re.IGNORECASE),
-    re.compile(r"\bstrike\b|\bunion\b|\bworkers\b", re.IGNORECASE),
-    re.compile(r"\btariff\b|\bexport\b|\bimport\b", re.IGNORECASE),
-    re.compile(r"\bcontract\b|\border\b|\bsupply agreement\b|\bpartnership\b", re.IGNORECASE),
-    re.compile(r"\bpatent\b|\bdata breach\b|\bcriminal\b", re.IGNORECASE),
-)
-CONSUMER_GOOGLE_NEWS_PATTERNS = {
-    "kia": (
-        re.compile(r"\bmvp ladder\b", re.IGNORECASE),
-        re.compile(r"\bkia open\b|\bopen de tennis kia\b", re.IGNORECASE),
-        re.compile(r"\bstolen kia\b", re.IGNORECASE),
-        re.compile(r"\bcar window shades\b|\bsunshades\b", re.IGNORECASE),
-        re.compile(r"\bsalesman\b|\bend of an era\b", re.IGNORECASE),
-        re.compile(r"\bdealership\b|\bdealer\b", re.IGNORECASE),
-        re.compile(r"\brendered\b|\bdigital alternative\b", re.IGNORECASE),
-        re.compile(r"\bcamper\b|\bmodule Ausbau\b", re.IGNORECASE),
-        re.compile(r"\b(review|reviews|tested|test drive|compared|vs\.?|versus)\b", re.IGNORECASE),
-        re.compile(r"\b(ev2|ev3|ev5|ev9|pv5|sportage|stonic|telluride|sorento|seltos|carnival|tasman|k5)\b", re.IGNORECASE),
-        re.compile(r"\b(mẫu xe|voiture|citadine|suv|minivan|range|miles|pricing|grant|line-up)\b", re.IGNORECASE),
-    ),
-    "hyundai motor": (
-        re.compile(r"\brendered\b|\bdigital alternative\b", re.IGNORECASE),
-        re.compile(r"\b(review|reviews|tested|test drive|compared|vs\.?|versus)\b", re.IGNORECASE),
-        re.compile(r"\b(palisade|boulder pickup|suv|pickup)\b", re.IGNORECASE),
-    ),
-    "hybe": (
-        re.compile(r"\baudition\b|オーディション", re.IGNORECASE),
-        re.compile(r"\bkatseye\b|\bcoachella\b|\bmanon\b|\bhiatus\b", re.IGNORECASE),
-        re.compile(r"\bsns\b", re.IGNORECASE),
-    ),
-    "krafton": (
-        re.compile(r"\bxeno point\b", re.IGNORECASE),
-        re.compile(r"\bludo robotics\b", re.IGNORECASE),
-        re.compile(r"\bgame challenge\b|\bcasual game\b", re.IGNORECASE),
-        re.compile(r"\bindie and mobile\b", re.IGNORECASE),
-        re.compile(r"cuộc thi game", re.IGNORECASE),
-        re.compile(r"nhà phát triển indie", re.IGNORECASE),
-    ),
-    "nexon": (
-        re.compile(r"\bfirst berserker\b|\bkhazan\b", re.IGNORECASE),
-        re.compile(r"\bproject el\b|\bfantasy open-world\b", re.IGNORECASE),
-        re.compile(r"\b(gameplay|trailer|patch|review)\b", re.IGNORECASE),
-    ),
-    "netmarble": (
-        re.compile(r"\b(gameplay|trailer|patch|review|event|character|quest)\b", re.IGNORECASE),
-    ),
-    "ncsoft": (
-        re.compile(r"\b(gameplay|trailer|patch|review|event|character|quest)\b", re.IGNORECASE),
-    ),
-}
 
 
 def build_google_news_sources(
@@ -409,14 +351,6 @@ def is_google_news_match_plausible(
             (),
         )
         if any(pattern.search(text) for pattern in patterns):
-            return False
-        if any(pattern.search(text) for pattern in HIGH_VALUE_BUSINESS_PATTERNS):
-            continue
-        consumer_patterns = CONSUMER_GOOGLE_NEWS_PATTERNS.get(
-            normalize_whitespace(company).casefold(),
-            (),
-        )
-        if any(pattern.search(text) for pattern in consumer_patterns):
             return False
     return True
 
