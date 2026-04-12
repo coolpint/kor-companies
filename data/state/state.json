@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-04-12T00:37:38.598143+00:00",
+  "last_run_at": "2026-04-12T09:51:38.614919+00:00",
   "seen_articles": {
     "https://www.ft.com/content/3752d058-d3ee-41a4-b702-d49ae7f61b5c": {
       "title": "삼성은 애플의 스마트폰 시장 선두 자리를 위협하기 위해 AI 관련 인수합병을 추진하고 있다.",
@@ -7906,7 +7906,7 @@
         "HYBE"
       ],
       "first_seen_at": "2026-04-11T09:47:52.945170+00:00",
-      "last_seen_at": "2026-04-12T00:37:38.598143+00:00"
+      "last_seen_at": "2026-04-12T09:51:38.614919+00:00"
     },
     "https://forum.autodaily.vn\nkia nâng cấp k5 với công nghệ hybrid thế hệ mới, hướng tới hiệu suất ngang xe điện\ngoogle_news": {
       "title": "기아는 차세대 하이브리드 기술을 적용하여 K5를 업그레이드하고, 전기차에 필적하는 성능을 목표로 하고 있습니다.",
@@ -7939,7 +7939,7 @@
         "POSCO Holdings"
       ],
       "first_seen_at": "2026-04-11T09:47:52.945170+00:00",
-      "last_seen_at": "2026-04-12T00:37:38.598143+00:00"
+      "last_seen_at": "2026-04-12T09:51:38.614919+00:00"
     },
     "https://www.elektroauto-news.net\nkia ev1 kommt nächstes jahr – und 2029 ein neues e-suv\ngoogle_news": {
       "title": "기아 EV1은 내년에 출시될 예정이며, 새로운 전기 SUV는 2029년에 선보일 예정입니다.",
@@ -8006,7 +8006,7 @@
         "Hyundai Mobis"
       ],
       "first_seen_at": "2026-04-11T09:47:52.945170+00:00",
-      "last_seen_at": "2026-04-12T00:37:38.598143+00:00"
+      "last_seen_at": "2026-04-12T09:51:38.614919+00:00"
     },
     "https://www.motor1.com\nkia promises new mid-size truck for us and global 'flagship' suv\ngoogle_news": {
       "title": "기아, 미국 및 글로벌 '플래그십' SUV로 내세울 새로운 중형 트럭 출시 약속",
@@ -8251,6 +8251,84 @@
       ],
       "first_seen_at": "2026-04-11T23:40:10.647210+00:00",
       "last_seen_at": "2026-04-11T23:40:10.647210+00:00"
+    },
+    "https://www.wallpaper.com\ntired of boring suvs? check out kia's new v4 fastback\ngoogle_news": {
+      "title": "지루한 SUV에 질리셨나요? 기아의 새로운 V4 패스트백을 확인해 보세요.",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oUTNmblRQd2s0S09ILV9JYS1WcnZFSUFwUnNBNWdwY21Da2ctSURVRTNNYVBrRGM1NHlwVzE1YlBnY0l6NVVXZVQyWDlsNzFFMWpWcmJuOEpRY2dOaFp2OW1BLW1PS016cG9BcnU4Ny1SZw?oc=5",
+      "source_name": "wallpaper.com",
+      "country_code": "US",
+      "companies": [
+        "Kia"
+      ],
+      "first_seen_at": "2026-04-12T09:51:38.614919+00:00",
+      "last_seen_at": "2026-04-12T09:51:38.614919+00:00"
+    },
+    "https://www.saostar.vn\n'mục sở thị' nhóm nhạc latin đầu tiên của hybe\ngoogle_news": {
+      "title": "'직접 확인해 보세요' HYBE의 첫 번째 라틴 음악 그룹.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOWcyTnpRVGZ6SWR0VlgtMy04b29ReDB4blFSY2hhTjNJZ0l0ZTFabGdlY21HOXVWWXFrM0s1UEYzbENRLW51WmRMR2VpT1pNMlBRMjFUUWlxSnBsbkJ6bDAxX0FYb3RDYXI5Si1YdkJKdUNOS0hJaFRFdlBneXFOZ3JxX2dBS1g1c09MRmhfOV9fSk82Z1o2elM3d0dRZHdD?oc=5",
+      "source_name": "Tạp chí Saostar",
+      "country_code": "VN",
+      "companies": [
+        "HYBE"
+      ],
+      "first_seen_at": "2026-04-12T09:51:38.614919+00:00",
+      "last_seen_at": "2026-04-12T09:51:38.614919+00:00"
+    },
+    "https://www.team-bhp.com\nnext-gen kia sonet to be launched in 2027\ngoogle_news": {
+      "title": "차세대 기아 쏘넷, 2027년 출시 예정",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zbWgxQ1AzX3ROSjhOcVdwbG9DbWlCQjRJR1FsaEZoVU9RaHJ3TGM4bFg4N0RqY3FERU9PQVFsWExHRzBDU19pNU1mSHhHeFZDMDhsVzdUUnZTT3YxZkJkVzFuMkFPaUhsZ1A2TVlicWE0ZEXSAXhBVV95cUxQdVB1bE1xaEc4SnFEZ2I3eGctUUJCblY1U2xzdlBxV3B0OFM4WkQtTWZIM1BmbUhIZHhCY3h3V1BkWW9EU2Z6a1h4SFJMcld5M0UzMW9iTEE3SFpRcE9DU0JyY05RN3VLUHhudkE5XzBmR0dNVk1Sb0E?oc=5",
+      "source_name": "Team-BHP",
+      "country_code": "GB",
+      "companies": [
+        "Kia"
+      ],
+      "first_seen_at": "2026-04-12T09:51:38.614919+00:00",
+      "last_seen_at": "2026-04-12T09:51:38.614919+00:00"
+    },
+    "https://news.yahoo.co.jp\nbtsの韓国公演にスター大集結！パク・ソジュン、hybe後輩からバン・シヒョク議長まで…記念ショットも（kstyle）\ngoogle_news": {
+      "title": "BTS의 한국 공연에 스타 대집결! 박서준, HYBE 후배부터 반시혁 의장까지… 기념 샷도 (Kstyle)",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQR0lWUTZzRU40MXN4NzNBRlUxZFZxcGNjN1NzZmtodjczbE52YzNmMGQtaVJvUEV3Q0c2UHVMM2k1dnkyZ0UxUmI4NkdTNnhobVdrZFExdzcwZjNPZi1PWmZvcEg2R0x2Wmpqc2NFQVVDVndhQll5TThUVGlfdFE?oc=5",
+      "source_name": "Yahoo!ニュース",
+      "country_code": "JP",
+      "companies": [
+        "HYBE"
+      ],
+      "first_seen_at": "2026-04-12T09:51:38.614919+00:00",
+      "last_seen_at": "2026-04-12T09:51:38.614919+00:00"
+    },
+    "https://baoquocte.vn\ncập nhật bảng giá xe hãng kia mới nhất tháng 4/2026\ngoogle_news": {
+      "title": "2026년 4월 기준 기아 자동차 가격표 업데이트.",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV0s4N05rTDNPeXIxY1BIdjAweFJoam1FcTZmdmR1bU5CRkQ5c21UWFY3M2FfNV9sYkJNMUNKWEwtRnVhWVh2SjdVSkxVTmpEdVl2QkMxVFdlaTdLOWxCU1kzUGVURldLX1FnVlA3WC15YnBDeWRFeGNDRFRzN2NuaGVUdEYyZjJQcmRZ?oc=5",
+      "source_name": "Báo Thế giới và Việt Nam",
+      "country_code": "VN",
+      "companies": [
+        "Kia"
+      ],
+      "first_seen_at": "2026-04-12T09:51:38.614919+00:00",
+      "last_seen_at": "2026-04-12T09:51:38.614919+00:00"
+    },
+    "https://www.imarinenews.com\nhd hyundai heavy industries pioneers new half-ship outsourcing model to boost delivery efficiency\ngoogle_news": {
+      "title": "현대중공업, 납품 효율성 향상을 위한 새로운 반제품 아웃소싱 모델 도입",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42UzZXcUxEbWNZZ3h6SEJubm1yaUE5VnVUOGNTelV1YXVpa01sT3FFVXdDX215MVpxbTZKcENsMnJSR2FKcV9xcmp1R1JvLTA?oc=5",
+      "source_name": "imarinenews.com",
+      "country_code": "US",
+      "companies": [
+        "Hyundai Motor",
+        "HD Hyundai"
+      ],
+      "first_seen_at": "2026-04-12T09:51:38.614919+00:00",
+      "last_seen_at": "2026-04-12T09:51:38.614919+00:00"
+    },
+    "https://cleantechnica.com\nkia beats tesla to the compact ev sales punch — in europe\ngoogle_news": {
+      "title": "기아, 유럽에서 소형 전기차 판매량 1위 자리를 테슬라에 빼앗아갔다",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNk1MZ3I2aWZ3bnp1MTZnNUQ1WWdfaFZpbE40dVlGYXBDQUtnbk1mU3VxX0RGdmdodm9UM3IxV0lWZ0hCRlI2YXFHdE8tWHBfNmc5V3AwVTJVaUJTNUhHcFQxWTJfNWZ0UnpHdVJfdUpvQWM5dldxVjZkSGNGVUZtdEtmWVRtNG9MNTA5YWpJWUpMWmxMRDBLctIBoAFBVV95cUxPRlFEUlgtcm11SElWRGhHa3h5MzZuQTRZcVNubS16U3J2UTNnVEs0SjVPVnRwNHRaaHl5bnl0RnBMVG1vS19OcXgzeUtDa1lzZlFMLWdhWEtHUXVYQzZJUVR5LVJSZG93U1pzS2g1aHNaekRPWU9YYXJGWE8yTGt0YjZTQW5UU3VCTkF3SWhoMWt4VklMZ2FTX2NIUFUtbmVa?oc=5",
+      "source_name": "CleanTechnica",
+      "country_code": "GB",
+      "companies": [
+        "Kia"
+      ],
+      "first_seen_at": "2026-04-12T09:51:38.614919+00:00",
+      "last_seen_at": "2026-04-12T09:51:38.614919+00:00"
     }
   }
 }
