@@ -58,6 +58,12 @@ GitHub Actions가 UTC 기준 `09:00`, `23:00`에 실행된다.
 
 번역은 Google Cloud Translation Basic(v2) API를 사용한다. 앱은 기사 전체를 번역하지 않고, 제목과 회사 관련 문장만 번역해 비용을 줄인다.
 
+## 직접 RSS 수집 범위
+
+- 기본값은 Google News 없이 직접 RSS/Atom/RDF 피드만 사용한다.
+- 현재 활성 직접 RSS는 73개이며, 미국·중국·일본·베트남·독일·영국·프랑스·유럽권 공통 외에 캐나다·호주·인도·싱가포르·홍콩·대만·네덜란드·태국·멕시코·카타르권 소스를 포함한다.
+- 소스는 `config/sources.json`에서 켜고 끌 수 있다. 안정성이 떨어지는 후보는 `enabled: false`로 남겨둔다.
+
 ## Google News 보조 수집
 
 - Google News RSS는 저품질/소비자성 소스가 많이 섞여 기본값으로는 비활성화한다.

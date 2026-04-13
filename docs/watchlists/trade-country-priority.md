@@ -30,15 +30,23 @@
 | P2 | 영국 | 운영 시작 포함 | 금융/비즈니스 기사 비중 고려 |
 | P2 | 프랑스 | 운영 확장 포함 | 르몽드, France 24로 유럽 기업/정책 기사 보강 |
 | P2 | 유럽권 공통 | 운영 확장 포함 | Euronews, POLITICO Europe로 범유럽 정책/산업 기사 보강 |
+| P2 | 캐나다 | 운영 확장 포함 | 북미 규제/시장 기사 보강 |
+| P2 | 호주 | 운영 확장 포함 | 자원, 배터리, 공급망 기사 보강 |
+| P2 | 인도 | 운영 확장 포함 | IT, 전자, 자동차, 투자 기사 보강 |
+| P2 | 싱가포르 | 운영 확장 포함 | 동남아 허브 매체 보강 |
+| P2 | 홍콩 | 운영 확장 포함 | SCMP로 중국/아시아 기업 기사 보강 |
+| P2 | 대만 | 운영 확장 포함 | 반도체/공급망 기사 보강 |
+| P3 | 네덜란드 | 운영 확장 포함 | EU 산업/반도체 공급망 보강 |
+| P3 | 태국 | 운영 확장 포함 | 동남아 제조/자동차 기사 보강 |
+| P3 | 멕시코 | 운영 확장 포함 | 북미 제조/투자 기사 보강 |
+| P3 | 카타르 | 운영 확장 포함 | Al Jazeera로 중동/글로벌 기사 보강 |
 
 ## 향후 추가 후보 국가
 
-- 대만
-- 홍콩
-- 인도
-- 싱가포르
 - 인도네시아
-- 멕시코
+- 말레이시아
+- 사우디아라비아
+- UAE
 
 ## 국가 유지/제외 규칙
 
@@ -59,7 +67,7 @@
 ### 미국
 
 - 1차 후보: NYT Business, NPR Business, MarketWatch
-- 2차 후보: NYT Technology, Fox Business Markets, Fox Business Technology, U.S. DOJ Press Releases, U.S. SEC Press Releases, The Verge
+- 2차 후보: NYT Technology, Fox Business Markets, Fox Business Technology, CNBC Top/World/Technology, ABC News Business/International, U.S. DOJ Press Releases, U.S. SEC Press Releases, The Verge
 - 보조 수단: Google News US 검색 결과에서 허용 도메인만 통과
 
 메모:
@@ -140,6 +148,90 @@
 - 개별 교역국과 달리 규제, 배터리, 자동차, 통상 정책 기사를 빨리 포착하는 데 강하다.
 - Reuters, Telex처럼 영향력은 크지만 공식 피드 안정성이 떨어지는 매체는 후순위로 둔다.
 
+### 캐나다
+
+- 1차 후보: The Globe and Mail Business, The Globe and Mail World
+- 2차 후보: Global News Money, Global News World
+- 비활성 후보: CBC Business, CBC World
+
+메모:
+
+- CBC RSS는 후보 검증에서는 열렸지만 실제 수집에서 타임아웃이 발생해 기본 비활성화한다.
+
+### 호주
+
+- 1차 후보: ABC Australia Top Stories, ABC Australia Business
+
+메모:
+
+- 호주는 자원, 배터리 원료, 공급망 기사에서 한국 기업과 연결될 가능성이 있다.
+
+### 인도
+
+- 1차 후보: BusinessLine Companies, BusinessLine Economy
+- 2차 후보: The Economic Times Industry, The Economic Times Tech
+
+메모:
+
+- 인도는 전자, 자동차, IT 서비스, 스타트업/플랫폼 투자 기사에서 한국 기업 노출 가능성이 높다.
+
+### 싱가포르
+
+- 1차 후보: CNA Business, CNA Asia, CNA World
+- 2차 후보: The Straits Times Business, The Straits Times World
+
+메모:
+
+- 싱가포르는 동남아권 허브 성격이 강해 지역 비즈니스/정책 기사 보강에 유리하다.
+
+### 홍콩
+
+- 1차 후보: South China Morning Post Business, Tech, World
+
+메모:
+
+- SCMP는 중국·홍콩·아시아 공급망과 기술 기사 보강용으로 사용한다.
+
+### 대만
+
+- 1차 후보: Taipei Times RSS
+
+메모:
+
+- 반도체/공급망 관련 기사 보강용이다. 세부 비즈니스 RSS는 안정 URL 확인 후 추가한다.
+
+### 네덜란드
+
+- 1차 후보: DutchNews.nl, NL Times
+
+메모:
+
+- ASML 등 반도체 공급망과 EU 산업정책 이슈를 보강한다.
+
+### 태국
+
+- 1차 후보: Bangkok Post Business, Bangkok Post World
+
+메모:
+
+- 자동차/전자 제조 및 동남아 투자 기사 보강용이다.
+
+### 멕시코
+
+- 1차 후보: Mexico News Daily
+
+메모:
+
+- 북미 제조, 자동차, 공급망 투자 이슈 보강용이다.
+
+### 카타르/중동
+
+- 1차 후보: Al Jazeera RSS
+
+메모:
+
+- 국가 단위보다는 중동/글로벌 주요 이슈 보강용으로 사용한다.
+
 ## Google News를 기본 비활성 보조 수단으로 두는 이유
 
 - 장점: 국가별 기사 발굴 범위가 넓다.
@@ -216,3 +308,19 @@
 - France 24 RSS 예시: https://www.france24.com/en/business-tech/rss
 - Euronews RSS: https://www.euronews.com/rss
 - POLITICO Europe RSS: https://www.politico.eu/feed/
+- CNBC RSS 예시: https://www.cnbc.com/id/100003114/device/rss/rss.html
+- ABC News RSS 예시: https://abcnews.go.com/abcnews/businessheadlines
+- The Globe and Mail RSS 예시: https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/business/
+- Global News RSS 예시: https://globalnews.ca/money/feed/
+- ABC Australia RSS 예시: https://www.abc.net.au/news/feed/51120/rss.xml
+- Economic Times RSS 예시: https://economictimes.indiatimes.com/industry/rssfeeds/13352306.cms
+- BusinessLine RSS 예시: https://www.thehindubusinessline.com/companies/?service=rss
+- CNA RSS 예시: https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6936
+- Straits Times RSS 예시: https://www.straitstimes.com/news/business/rss.xml
+- SCMP RSS 예시: https://www.scmp.com/rss/2/feed
+- Taipei Times RSS: https://www.taipeitimes.com/xml/index.rss
+- DutchNews RSS: https://www.dutchnews.nl/feed/
+- NL Times RSS: https://nltimes.nl/rss
+- Bangkok Post RSS 예시: https://www.bangkokpost.com/rss/data/business.xml
+- Mexico News Daily RSS: https://mexiconewsdaily.com/feed/
+- Al Jazeera RSS: https://www.aljazeera.com/xml/rss/all.xml

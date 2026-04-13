@@ -62,5 +62,85 @@
     "priority": "P2",
     "languages": ["en"],
     "active": true
+  },
+  {
+    "country_code": "CA",
+    "country_name_ko": "캐나다",
+    "country_name_en": "Canada",
+    "priority": "P2",
+    "languages": ["en"],
+    "active": true
+  },
+  {
+    "country_code": "AU",
+    "country_name_ko": "호주",
+    "country_name_en": "Australia",
+    "priority": "P2",
+    "languages": ["en"],
+    "active": true
+  },
+  {
+    "country_code": "IN",
+    "country_name_ko": "인도",
+    "country_name_en": "India",
+    "priority": "P2",
+    "languages": ["en"],
+    "active": true
+  },
+  {
+    "country_code": "SG",
+    "country_name_ko": "싱가포르",
+    "country_name_en": "Singapore",
+    "priority": "P2",
+    "languages": ["en"],
+    "active": true
+  },
+  {
+    "country_code": "HK",
+    "country_name_ko": "홍콩",
+    "country_name_en": "Hong Kong",
+    "priority": "P2",
+    "languages": ["en"],
+    "active": true
+  },
+  {
+    "country_code": "TW",
+    "country_name_ko": "대만",
+    "country_name_en": "Taiwan",
+    "priority": "P2",
+    "languages": ["en"],
+    "active": true
+  },
+  {
+    "country_code": "NL",
+    "country_name_ko": "네덜란드",
+    "country_name_en": "Netherlands",
+    "priority": "P3",
+    "languages": ["en"],
+    "active": true
+  },
+  {
+    "country_code": "TH",
+    "country_name_ko": "태국",
+    "country_name_en": "Thailand",
+    "priority": "P3",
+    "languages": ["en"],
+    "active": true
+  },
+  {
+    "country_code": "MX",
+    "country_name_ko": "멕시코",
+    "country_name_en": "Mexico",
+    "priority": "P3",
+    "languages": ["en"],
+    "active": true
+  },
+  {
+    "country_code": "QA",
+    "country_name_ko": "카타르",
+    "country_name_en": "Qatar",
+    "priority": "P3",
+    "languages": ["en"],
+    "active": true
   }
 ]
