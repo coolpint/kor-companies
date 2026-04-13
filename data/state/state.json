@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-04-13T00:00:11.416355+00:00",
+  "last_run_at": "2026-04-13T00:18:50.002356+00:00",
   "seen_articles": {
     "https://www.ft.com/content/3752d058-d3ee-41a4-b702-d49ae7f61b5c": {
       "title": "삼성은 애플의 스마트폰 시장 선두 자리를 위협하기 위해 AI 관련 인수합병을 추진하고 있다.",
@@ -8406,6 +8406,17 @@
       ],
       "first_seen_at": "2026-04-12T23:40:50.355184+00:00",
       "last_seen_at": "2026-04-12T23:40:50.355184+00:00"
+    },
+    "https://www.scmp.com/business/china-business/article/3349776/hyundai-spearheads-foreign-ev-comeback-push-china-ioniq-brand": {
+      "title": "현대자동차, 아이오닉 브랜드로 중국 시장에서 외국산 전기차의 재도약을 주도하다",
+      "link": "https://www.scmp.com/business/china-business/article/3349776/hyundai-spearheads-foreign-ev-comeback-push-china-ioniq-brand",
+      "source_name": "South China Morning Post World",
+      "country_code": "HK",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-04-13T00:18:50.002356+00:00",
+      "last_seen_at": "2026-04-13T00:18:50.002356+00:00"
     }
   }
 }
