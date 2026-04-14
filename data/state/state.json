@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-04-13T23:50:03.445649+00:00",
+  "last_run_at": "2026-04-14T10:18:46.472514+00:00",
   "seen_articles": {
     "https://www.ft.com/content/3752d058-d3ee-41a4-b702-d49ae7f61b5c": {
       "title": "삼성은 애플의 스마트폰 시장 선두 자리를 위협하기 위해 AI 관련 인수합병을 추진하고 있다.",
@@ -8417,6 +8417,17 @@
       ],
       "first_seen_at": "2026-04-13T00:18:50.002356+00:00",
       "last_seen_at": "2026-04-13T00:18:50.002356+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/startups/korean-ai-chip-startup-deepx-prepares-public-share-offering/articleshow/130251369.cms": {
+      "title": "한국의 AI 칩 스타트업 딥엑스가 기업공개(IPO)를 준비하고 있습니다.",
+      "link": "https://economictimes.indiatimes.com/tech/startups/korean-ai-chip-startup-deepx-prepares-public-share-offering/articleshow/130251369.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-04-14T10:18:46.472514+00:00",
+      "last_seen_at": "2026-04-14T10:18:46.472514+00:00"
     }
   }
 }
