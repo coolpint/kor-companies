@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-04-15T10:19:44.753765+00:00",
+  "last_run_at": "2026-04-15T23:49:49.379197+00:00",
   "seen_articles": {
     "https://www.ft.com/content/3752d058-d3ee-41a4-b702-d49ae7f61b5c": {
       "title": "삼성은 애플의 스마트폰 시장 선두 자리를 위협하기 위해 AI 관련 인수합병을 추진하고 있다.",
@@ -8450,6 +8450,28 @@
       ],
       "first_seen_at": "2026-04-15T10:19:44.753765+00:00",
       "last_seen_at": "2026-04-15T10:19:44.753765+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/samsung-rejects-tv-crisis-speculation-addresses-competitive-pressures-in-china/articleshow/130283719.cms": {
+      "title": "삼성은 TV 사업 부진설을 일축하고 중국 시장의 경쟁 심화에 대해 언급했습니다.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-rejects-tv-crisis-speculation-addresses-competitive-pressures-in-china/articleshow/130283719.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-04-15T23:49:49.379197+00:00",
+      "last_seen_at": "2026-04-15T23:49:49.379197+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/korean-ai-chip-startup-deepx-hyundai-work-on-robots-powered-by-generative-ai/articleshow/130280959.cms": {
+      "title": "한국의 AI 칩 스타트업 딥스와 현대자동차가 생성형 AI 기반 로봇 개발에 나선다",
+      "link": "https://economictimes.indiatimes.com/tech/technology/korean-ai-chip-startup-deepx-hyundai-work-on-robots-powered-by-generative-ai/articleshow/130280959.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-04-15T23:49:49.379197+00:00",
+      "last_seen_at": "2026-04-15T23:49:49.379197+00:00"
     }
   }
 }
