@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-04-16T10:18:55.382140+00:00",
+  "last_run_at": "2026-04-16T23:48:20.348865+00:00",
   "seen_articles": {
     "https://www.ft.com/content/3752d058-d3ee-41a4-b702-d49ae7f61b5c": {
       "title": "삼성은 애플의 스마트폰 시장 선두 자리를 위협하기 위해 AI 관련 인수합병을 추진하고 있다.",
@@ -8493,7 +8493,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-04-16T10:18:55.382140+00:00",
-      "last_seen_at": "2026-04-16T10:18:55.382140+00:00"
+      "last_seen_at": "2026-04-16T23:48:20.348865+00:00"
     },
     "https://www.straitstimes.com/business/companies-markets/memory-crunch-and-iran-war-lead-to-phone-market-decline": {
       "title": "메모리 부족 현상과 이란 전쟁으로 휴대전화 시장이 침체됐다.",
@@ -8505,6 +8505,17 @@
       ],
       "first_seen_at": "2026-04-16T10:18:55.382140+00:00",
       "last_seen_at": "2026-04-16T10:18:55.382140+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/renewables/7-seater-ev-race-heats-up-as-vinfast-mahindra-mahindra-byd-jsw-mg-kia-target-big-families-in-india/articleshow/130316976.cms": {
+      "title": "인도에서 7인승 전기차 경쟁이 치열해지고 있다. VinFast, Mahindra & Mahindra, BYD, JSW MG, Kia 등이 대가족 시장을 겨냥하고 있다.",
+      "link": "https://economictimes.indiatimes.com/industry/renewables/7-seater-ev-race-heats-up-as-vinfast-mahindra-mahindra-byd-jsw-mg-kia-target-big-families-in-india/articleshow/130316976.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Kia"
+      ],
+      "first_seen_at": "2026-04-16T23:48:20.348865+00:00",
+      "last_seen_at": "2026-04-16T23:48:20.348865+00:00"
     }
   }
 }
