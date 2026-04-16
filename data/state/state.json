@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-04-15T23:49:49.379197+00:00",
+  "last_run_at": "2026-04-16T10:18:55.382140+00:00",
   "seen_articles": {
     "https://www.ft.com/content/3752d058-d3ee-41a4-b702-d49ae7f61b5c": {
       "title": "삼성은 애플의 스마트폰 시장 선두 자리를 위협하기 위해 AI 관련 인수합병을 추진하고 있다.",
@@ -8472,6 +8472,39 @@
       ],
       "first_seen_at": "2026-04-15T23:49:49.379197+00:00",
       "last_seen_at": "2026-04-15T23:49:49.379197+00:00"
+    },
+    "https://www.channelnewsasia.com/business/hyundai-motors-us-sales-chief-has-left-company-automotive-news-reports-6060211": {
+      "title": "현대자동차의 미국 판매 책임자가 회사를 떠났다고 오토모티브 뉴스가 보도했습니다.",
+      "link": "https://www.channelnewsasia.com/business/hyundai-motors-us-sales-chief-has-left-company-automotive-news-reports-6060211",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-04-16T10:18:55.382140+00:00",
+      "last_seen_at": "2026-04-16T10:18:55.382140+00:00"
+    },
+    "https://www.theglobeandmail.com/business/article-ai-chip-maker-tsmc-profit-earnings-tech": {
+      "title": "인공지능 칩 제조업체 TSMC, 분기 순이익 50% 급증 예상",
+      "link": "https://www.theglobeandmail.com/business/article-ai-chip-maker-tsmc-profit-earnings-tech",
+      "source_name": "The Globe and Mail Business",
+      "country_code": "CA",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-04-16T10:18:55.382140+00:00",
+      "last_seen_at": "2026-04-16T10:18:55.382140+00:00"
+    },
+    "https://www.straitstimes.com/business/companies-markets/memory-crunch-and-iran-war-lead-to-phone-market-decline": {
+      "title": "메모리 부족 현상과 이란 전쟁으로 휴대전화 시장이 침체됐다.",
+      "link": "https://www.straitstimes.com/business/companies-markets/memory-crunch-and-iran-war-lead-to-phone-market-decline",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-04-16T10:18:55.382140+00:00",
+      "last_seen_at": "2026-04-16T10:18:55.382140+00:00"
     }
   }
 }
