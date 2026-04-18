@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-04-18T09:52:57.294966+00:00",
+  "last_run_at": "2026-04-18T23:40:06.933265+00:00",
   "seen_articles": {
     "https://www.ft.com/content/3752d058-d3ee-41a4-b702-d49ae7f61b5c": {
       "title": "삼성은 애플의 스마트폰 시장 선두 자리를 위협하기 위해 AI 관련 인수합병을 추진하고 있다.",
@@ -8537,7 +8537,18 @@
         "Krafton"
       ],
       "first_seen_at": "2026-04-18T09:52:57.294966+00:00",
-      "last_seen_at": "2026-04-18T09:52:57.294966+00:00"
+      "last_seen_at": "2026-04-18T23:40:06.933265+00:00"
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years": {
+      "title": "RAM 부족 현상은 수년간 지속될 수 있습니다.",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+      "source_name": "The Verge",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-04-18T23:40:06.933265+00:00",
+      "last_seen_at": "2026-04-18T23:40:06.933265+00:00"
     }
   }
 }
