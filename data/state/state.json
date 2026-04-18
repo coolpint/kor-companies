@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-04-17T23:44:29.225756+00:00",
+  "last_run_at": "2026-04-18T09:52:57.294966+00:00",
   "seen_articles": {
     "https://www.ft.com/content/3752d058-d3ee-41a4-b702-d49ae7f61b5c": {
       "title": "삼성은 애플의 스마트폰 시장 선두 자리를 위협하기 위해 AI 관련 인수합병을 추진하고 있다.",
@@ -8527,6 +8527,17 @@
       ],
       "first_seen_at": "2026-04-17T10:16:34.910074+00:00",
       "last_seen_at": "2026-04-17T10:16:34.910074+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/krafton-launches-third-cohort-of-its-kigi-incubator-program/article70873908.ece": {
+      "title": "크라프톤, KIGI 인큐베이터 프로그램의 세 번째 기수 시작",
+      "link": "https://www.thehindubusinessline.com/companies/krafton-launches-third-cohort-of-its-kigi-incubator-program/article70873908.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Krafton"
+      ],
+      "first_seen_at": "2026-04-18T09:52:57.294966+00:00",
+      "last_seen_at": "2026-04-18T09:52:57.294966+00:00"
     }
   }
 }
