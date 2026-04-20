@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-04-19T23:41:55.717847+00:00",
+  "last_run_at": "2026-04-20T10:52:58.150707+00:00",
   "seen_articles": {
     "https://www.ft.com/content/3752d058-d3ee-41a4-b702-d49ae7f61b5c": {
       "title": "삼성은 애플의 스마트폰 시장 선두 자리를 위협하기 위해 AI 관련 인수합병을 추진하고 있다.",
@@ -8559,7 +8559,96 @@
         "KT Corp"
       ],
       "first_seen_at": "2026-04-19T23:41:55.717847+00:00",
-      "last_seen_at": "2026-04-19T23:41:55.717847+00:00"
+      "last_seen_at": "2026-04-20T10:52:58.150707+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/sk-hynix-to-start-production-of-socamm2-server-module-for-nvidias-vera-rubin-chips/articleshow/130387623.cms": {
+      "title": "SK하이닉스, 엔비디아 베라 루빈 칩용 SOCAMM2 서버 모듈 생산 착수",
+      "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-to-start-production-of-socamm2-server-module-for-nvidias-vera-rubin-chips/articleshow/130387623.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-04-20T10:52:58.150707+00:00",
+      "last_seen_at": "2026-04-20T10:52:58.150707+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/labour-union-of-hyundai-motor-demands-30-companys-net-profit-as-performance-bonuses/article70883631.ece": {
+      "title": "현대자동차 노동조합, 순이익의 30%를 성과급으로 지급할 것을 요구",
+      "link": "https://www.thehindubusinessline.com/companies/labour-union-of-hyundai-motor-demands-30-companys-net-profit-as-performance-bonuses/article70883631.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-04-20T10:52:58.150707+00:00",
+      "last_seen_at": "2026-04-20T10:52:58.150707+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/samsung-sdi-signs-first-ev-battery-supply-deal-with-mercedes-benz/articleshow/130384155.cms": {
+      "title": "삼성 SDI, 메르세데스-벤츠와 첫 전기차 배터리 공급 계약 체결",
+      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-sdi-signs-first-ev-battery-supply-deal-with-mercedes-benz/articleshow/130384155.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Samsung SDI"
+      ],
+      "first_seen_at": "2026-04-20T10:52:58.150707+00:00",
+      "last_seen_at": "2026-04-20T10:52:58.150707+00:00"
+    },
+    "https://www.channelnewsasia.com/business/samsung-sdi-signs-first-ev-battery-supply-deal-mercedes-benz-6067526": {
+      "title": "삼성 SDI, 메르세데스-벤츠와 첫 전기차 배터리 공급 계약 체결",
+      "link": "https://www.channelnewsasia.com/business/samsung-sdi-signs-first-ev-battery-supply-deal-mercedes-benz-6067526",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Samsung SDI"
+      ],
+      "first_seen_at": "2026-04-20T10:52:58.150707+00:00",
+      "last_seen_at": "2026-04-20T10:52:58.150707+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/indl-goods/svs/steel/jsw-steel-and-posco-form-joint-venture-for-steel-plant-in-odisha-amid-south-korean-presidents-india-visit/articleshow/130381869.cms": {
+      "title": "JSW 철강과 포스코는 한국 대통령의 인도 방문에 맞춰 오디샤 주에 제철소 건설을 위한 합작 투자 회사를 설립했습니다.",
+      "link": "https://economictimes.indiatimes.com/industry/indl-goods/svs/steel/jsw-steel-and-posco-form-joint-venture-for-steel-plant-in-odisha-amid-south-korean-presidents-india-visit/articleshow/130381869.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "POSCO Holdings"
+      ],
+      "first_seen_at": "2026-04-20T10:52:58.150707+00:00",
+      "last_seen_at": "2026-04-20T10:52:58.150707+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/jsw-steel-posco-tie-up-for-odisha-steel-plant-amid-south-korea-presidents-india-visit/article70883068.ece": {
+      "title": "JSW 철강과 포스코, 한국 대통령의 인도 방문에 맞춰 오디샤주 제철소 건설을 위한 협력 체결",
+      "link": "https://www.thehindubusinessline.com/companies/jsw-steel-posco-tie-up-for-odisha-steel-plant-amid-south-korea-presidents-india-visit/article70883068.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "POSCO Holdings"
+      ],
+      "first_seen_at": "2026-04-20T10:52:58.150707+00:00",
+      "last_seen_at": "2026-04-20T10:52:58.150707+00:00"
+    },
+    "https://www.channelnewsasia.com/business/oil-tanker-exits-hormuz-heading-south-koreas-hd-hyundai-oilbank-data-shows-6067221": {
+      "title": "유조선 한 척이 호르무즈 해협을 빠져나와 한국의 HD 현대 오일뱅크로 향하고 있다는 데이터가 나왔습니다.",
+      "link": "https://www.channelnewsasia.com/business/oil-tanker-exits-hormuz-heading-south-koreas-hd-hyundai-oilbank-data-shows-6067221",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Hyundai Motor",
+        "HD Hyundai"
+      ],
+      "first_seen_at": "2026-04-20T10:52:58.150707+00:00",
+      "last_seen_at": "2026-04-20T10:52:58.150707+00:00"
+    },
+    "https://www.scmp.com/week-asia/economics/article/3350481/asias-ev-revolution-shifts-overdrive-iran-war-oil-shock": {
+      "title": "이란 전쟁으로 인한 유가 급락으로 아시아의 전기차 혁명이 가속화되고 있다.",
+      "link": "https://www.scmp.com/week-asia/economics/article/3350481/asias-ev-revolution-shifts-overdrive-iran-war-oil-shock",
+      "source_name": "South China Morning Post World",
+      "country_code": "HK",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-04-20T10:52:58.150707+00:00",
+      "last_seen_at": "2026-04-20T10:52:58.150707+00:00"
     }
   }
 }
