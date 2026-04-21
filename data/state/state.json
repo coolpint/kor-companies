@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-04-20T23:50:29.602037+00:00",
+  "last_run_at": "2026-04-21T10:20:56.776844+00:00",
   "seen_articles": {
     "https://www.ft.com/content/3752d058-d3ee-41a4-b702-d49ae7f61b5c": {
       "title": "삼성은 애플의 스마트폰 시장 선두 자리를 위협하기 위해 AI 관련 인수합병을 추진하고 있다.",
@@ -8570,7 +8570,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-04-20T10:52:58.150707+00:00",
-      "last_seen_at": "2026-04-20T23:50:29.602037+00:00"
+      "last_seen_at": "2026-04-21T10:20:56.776844+00:00"
     },
     "https://www.thehindubusinessline.com/companies/labour-union-of-hyundai-motor-demands-30-companys-net-profit-as-performance-bonuses/article70883631.ece": {
       "title": "현대자동차 노동조합, 순이익의 30%를 성과급으로 지급할 것을 요구",
@@ -8581,7 +8581,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-04-20T10:52:58.150707+00:00",
-      "last_seen_at": "2026-04-20T23:50:29.602037+00:00"
+      "last_seen_at": "2026-04-21T10:20:56.776844+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/samsung-sdi-signs-first-ev-battery-supply-deal-with-mercedes-benz/articleshow/130384155.cms": {
       "title": "삼성 SDI, 메르세데스-벤츠와 첫 전기차 배터리 공급 계약 체결",
@@ -8625,7 +8625,7 @@
         "POSCO Holdings"
       ],
       "first_seen_at": "2026-04-20T10:52:58.150707+00:00",
-      "last_seen_at": "2026-04-20T23:50:29.602037+00:00"
+      "last_seen_at": "2026-04-21T10:20:56.776844+00:00"
     },
     "https://www.channelnewsasia.com/business/oil-tanker-exits-hormuz-heading-south-koreas-hd-hyundai-oilbank-data-shows-6067221": {
       "title": "유조선 한 척이 호르무즈 해협을 빠져나와 한국의 HD 현대 오일뱅크로 향하고 있다는 데이터가 나왔습니다.",
@@ -8670,7 +8670,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-04-20T23:50:29.602037+00:00",
-      "last_seen_at": "2026-04-20T23:50:29.602037+00:00"
+      "last_seen_at": "2026-04-21T10:20:56.776844+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/lcv-hcv/hyundai-tvs-sign-joint-development-pact-for-commercialisation-of-electric-3-wheeler-in-india/articleshow/130395594.cms": {
       "title": "현대자동차와 TVS, 인도 내 전기 삼륜차 상용화를 위한 공동 개발 협약 체결",
@@ -8681,7 +8681,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-04-20T23:50:29.602037+00:00",
-      "last_seen_at": "2026-04-20T23:50:29.602037+00:00"
+      "last_seen_at": "2026-04-21T10:20:56.776844+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-venue-knight-edition-launched-in-india-price-features-variants-and-engine-details/articleshow/130391914.cms": {
       "title": "현대 베뉴 나이트 에디션, 인도 출시: 가격, 특징, 변형 모델 및 엔진 정보",
@@ -8703,7 +8703,109 @@
         "Samsung SDI"
       ],
       "first_seen_at": "2026-04-20T23:50:29.602037+00:00",
-      "last_seen_at": "2026-04-20T23:50:29.602037+00:00"
+      "last_seen_at": "2026-04-21T10:20:56.776844+00:00"
+    },
+    "https://www.theguardian.com/world/2026/apr/21/south-korea-music-executive-bang-si-hyuk-k-pop-bts-police": {
+      "title": "K팝 그룹 방탄소년단(BTS)의 음반 제작자가 한국에서 체포될 위기에 처했다.",
+      "link": "https://www.theguardian.com/world/2026/apr/21/south-korea-music-executive-bang-si-hyuk-k-pop-bts-police",
+      "source_name": "The Guardian World",
+      "country_code": "GB",
+      "companies": [
+        "HYBE"
+      ],
+      "first_seen_at": "2026-04-21T10:20:56.776844+00:00",
+      "last_seen_at": "2026-04-21T10:20:56.776844+00:00"
+    },
+    "https://e.vnexpress.net/news/business/billionaires/south-korea-police-seek-detention-warrant-for-bts-agency-s-billionaire-founder-bang-si-hyuk-5065157.html": {
+      "title": "한국 경찰, 방탄소년단 소속사 대표 방시혁 회장 구속영장 신청",
+      "link": "https://e.vnexpress.net/news/business/billionaires/south-korea-police-seek-detention-warrant-for-bts-agency-s-billionaire-founder-bang-si-hyuk-5065157.html",
+      "source_name": "VnExpress Business",
+      "country_code": "VN",
+      "companies": [
+        "HYBE"
+      ],
+      "first_seen_at": "2026-04-21T10:20:56.776844+00:00",
+      "last_seen_at": "2026-04-21T10:20:56.776844+00:00"
+    },
+    "https://www.dw.com/en/south-korea-police-seek-to-arrest-bts-agency-chief-over-fraud-allegations/a-76874782?maca=en-rss-en-top-1022-rdf": {
+      "title": "대한민국: 경찰, 방탄소년단 소속사 대표 사기 혐의로 체포 추진",
+      "link": "https://www.dw.com/en/south-korea-police-seek-to-arrest-bts-agency-chief-over-fraud-allegations/a-76874782?maca=en-rss-en-top-1022-rdf",
+      "source_name": "Deutsche Welle Top Stories",
+      "country_code": "DE",
+      "companies": [
+        "HYBE"
+      ],
+      "first_seen_at": "2026-04-21T10:20:56.776844+00:00",
+      "last_seen_at": "2026-04-21T10:20:56.776844+00:00"
+    },
+    "https://www.scmp.com/news/asia/south-asia/article/3350837/after-xi-south-koreas-lee-brings-modi-selfie-diplomacy-frame": {
+      "title": "시에 이어 한국의 이 총리가 모디 총리를 '셀카 외교'의 틀에 넣었다.",
+      "link": "https://www.scmp.com/news/asia/south-asia/article/3350837/after-xi-south-koreas-lee-brings-modi-selfie-diplomacy-frame",
+      "source_name": "South China Morning Post World",
+      "country_code": "HK",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-04-21T10:20:56.776844+00:00",
+      "last_seen_at": "2026-04-21T10:20:56.776844+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/south-koreas-krafton-naver-mirae-asset-launch-rs-6000-crore-india-dedicated-fund/articleshow/130409332.cms": {
+      "title": "한국의 크래프톤, 네이버, 미래에셋이 6,000억 루피 규모의 인도 전용 펀드를 출시했습니다.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/south-koreas-krafton-naver-mirae-asset-launch-rs-6000-crore-india-dedicated-fund/articleshow/130409332.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "NAVER",
+        "Krafton",
+        "Mirae Asset"
+      ],
+      "first_seen_at": "2026-04-21T10:20:56.776844+00:00",
+      "last_seen_at": "2026-04-21T10:20:56.776844+00:00"
+    },
+    "https://www.aljazeera.com/sports/2026/4/21/cj-mccollum-hawks-rally-late-to-shock-knicks-in-game-2-of-nba-playoffs?traffic_source=rss": {
+      "title": "CJ 맥컬럼과 애틀랜타 호크스가 NBA 플레이오프 2차전에서 뉴욕 닉스를 상대로 막판 역전승을 거두며 이변을 연출했습니다.",
+      "link": "https://www.aljazeera.com/sports/2026/4/21/cj-mccollum-hawks-rally-late-to-shock-knicks-in-game-2-of-nba-playoffs?traffic_source=rss",
+      "source_name": "Al Jazeera",
+      "country_code": "QA",
+      "companies": [
+        "CJ CheilJedang"
+      ],
+      "first_seen_at": "2026-04-21T10:20:56.776844+00:00",
+      "last_seen_at": "2026-04-21T10:20:56.776844+00:00"
+    },
+    "https://japantoday.com/category/world/south-korea-police-seek-detention-warrant-for-bts-agency-founder-bang": {
+      "title": "한국 경찰, 방탄소년단 소속사 대표 방시혁에 대한 구속영장 신청",
+      "link": "https://japantoday.com/category/world/south-korea-police-seek-detention-warrant-for-bts-agency-founder-bang",
+      "source_name": "Japan Today",
+      "country_code": "JP",
+      "companies": [
+        "HYBE"
+      ],
+      "first_seen_at": "2026-04-21T10:20:56.776844+00:00",
+      "last_seen_at": "2026-04-21T10:20:56.776844+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/cons-products/electronics/south-korea-inc-meets-modi-cos-including-samsung-lg-looking-to-expand-in-key-market-export-more/articleshow/130401866.cms": {
+      "title": "삼성과 LG를 비롯한 한국 기업들이 모디 총리와 회담을 갖고 주요 시장에서의 확장과 수출 증대를 모색하고 있다.",
+      "link": "https://economictimes.indiatimes.com/industry/cons-products/electronics/south-korea-inc-meets-modi-cos-including-samsung-lg-looking-to-expand-in-key-market-export-more/articleshow/130401866.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "SK hynix",
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-04-21T10:20:56.776844+00:00",
+      "last_seen_at": "2026-04-21T10:20:56.776844+00:00"
+    },
+    "https://www.thehindubusinessline.com/news/jsw-steel-posco-sign-pact-for-6-mtpa-steel-plant-in-odisha/article70885301.ece": {
+      "title": "JSW 철강과 포스코, 오디샤에 연간 6백만 톤 규모의 제철소 건설 계약 체결",
+      "link": "https://www.thehindubusinessline.com/news/jsw-steel-posco-sign-pact-for-6-mtpa-steel-plant-in-odisha/article70885301.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "POSCO Holdings"
+      ],
+      "first_seen_at": "2026-04-21T10:20:56.776844+00:00",
+      "last_seen_at": "2026-04-21T10:20:56.776844+00:00"
     }
   }
 }
