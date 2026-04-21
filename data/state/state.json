@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-04-21T10:20:56.776844+00:00",
+  "last_run_at": "2026-04-21T23:42:32.066682+00:00",
   "seen_articles": {
     "https://www.ft.com/content/3752d058-d3ee-41a4-b702-d49ae7f61b5c": {
       "title": "삼성은 애플의 스마트폰 시장 선두 자리를 위협하기 위해 AI 관련 인수합병을 추진하고 있다.",
@@ -8670,7 +8670,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-04-20T23:50:29.602037+00:00",
-      "last_seen_at": "2026-04-21T10:20:56.776844+00:00"
+      "last_seen_at": "2026-04-21T23:42:32.066682+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/lcv-hcv/hyundai-tvs-sign-joint-development-pact-for-commercialisation-of-electric-3-wheeler-in-india/articleshow/130395594.cms": {
       "title": "현대자동차와 TVS, 인도 내 전기 삼륜차 상용화를 위한 공동 개발 협약 체결",
@@ -8725,7 +8725,7 @@
         "HYBE"
       ],
       "first_seen_at": "2026-04-21T10:20:56.776844+00:00",
-      "last_seen_at": "2026-04-21T10:20:56.776844+00:00"
+      "last_seen_at": "2026-04-21T23:42:32.066682+00:00"
     },
     "https://www.dw.com/en/south-korea-police-seek-to-arrest-bts-agency-chief-over-fraud-allegations/a-76874782?maca=en-rss-en-top-1022-rdf": {
       "title": "대한민국: 경찰, 방탄소년단 소속사 대표 사기 혐의로 체포 추진",
@@ -8736,7 +8736,7 @@
         "HYBE"
       ],
       "first_seen_at": "2026-04-21T10:20:56.776844+00:00",
-      "last_seen_at": "2026-04-21T10:20:56.776844+00:00"
+      "last_seen_at": "2026-04-21T23:42:32.066682+00:00"
     },
     "https://www.scmp.com/news/asia/south-asia/article/3350837/after-xi-south-koreas-lee-brings-modi-selfie-diplomacy-frame": {
       "title": "시에 이어 한국의 이 총리가 모디 총리를 '셀카 외교'의 틀에 넣었다.",
@@ -8747,7 +8747,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-04-21T10:20:56.776844+00:00",
-      "last_seen_at": "2026-04-21T10:20:56.776844+00:00"
+      "last_seen_at": "2026-04-21T23:42:32.066682+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/south-koreas-krafton-naver-mirae-asset-launch-rs-6000-crore-india-dedicated-fund/articleshow/130409332.cms": {
       "title": "한국의 크래프톤, 네이버, 미래에셋이 6,000억 루피 규모의 인도 전용 펀드를 출시했습니다.",
@@ -8760,7 +8760,7 @@
         "Mirae Asset"
       ],
       "first_seen_at": "2026-04-21T10:20:56.776844+00:00",
-      "last_seen_at": "2026-04-21T10:20:56.776844+00:00"
+      "last_seen_at": "2026-04-21T23:42:32.066682+00:00"
     },
     "https://www.aljazeera.com/sports/2026/4/21/cj-mccollum-hawks-rally-late-to-shock-knicks-in-game-2-of-nba-playoffs?traffic_source=rss": {
       "title": "CJ 맥컬럼과 애틀랜타 호크스가 NBA 플레이오프 2차전에서 뉴욕 닉스를 상대로 막판 역전승을 거두며 이변을 연출했습니다.",
@@ -8805,7 +8805,29 @@
         "POSCO Holdings"
       ],
       "first_seen_at": "2026-04-21T10:20:56.776844+00:00",
-      "last_seen_at": "2026-04-21T10:20:56.776844+00:00"
+      "last_seen_at": "2026-04-21T23:42:32.066682+00:00"
+    },
+    "https://globalnews.ca/news/11810197/bts-k-pop-arrest-bang-si-hyuk-fraud-south-korea": {
+      "title": "방탄소년단(BTS)의 배후 인물인 K팝 거물이 한국 경찰의 수배를 받고 있다.",
+      "link": "https://globalnews.ca/news/11810197/bts-k-pop-arrest-bang-si-hyuk-fraud-south-korea",
+      "source_name": "Global News World",
+      "country_code": "CA",
+      "companies": [
+        "HYBE"
+      ],
+      "first_seen_at": "2026-04-21T23:42:32.066682+00:00",
+      "last_seen_at": "2026-04-21T23:42:32.066682+00:00"
+    },
+    "https://www.scmp.com/week-asia/people/article/3350898/south-korean-police-seek-arrest-warrant-hybe-founder-bang-after-travel-request": {
+      "title": "한국 경찰, 방시혁 하이브 창업자 출국 요청 후 체포영장 신청",
+      "link": "https://www.scmp.com/week-asia/people/article/3350898/south-korean-police-seek-arrest-warrant-hybe-founder-bang-after-travel-request",
+      "source_name": "South China Morning Post World",
+      "country_code": "HK",
+      "companies": [
+        "HYBE"
+      ],
+      "first_seen_at": "2026-04-21T23:42:32.066682+00:00",
+      "last_seen_at": "2026-04-21T23:42:32.066682+00:00"
     }
   }
 }
