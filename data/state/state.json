@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-04-21T23:42:32.066682+00:00",
+  "last_run_at": "2026-04-22T10:21:42.257266+00:00",
   "seen_articles": {
     "https://www.ft.com/content/3752d058-d3ee-41a4-b702-d49ae7f61b5c": {
       "title": "삼성은 애플의 스마트폰 시장 선두 자리를 위협하기 위해 AI 관련 인수합병을 추진하고 있다.",
@@ -8725,7 +8725,7 @@
         "HYBE"
       ],
       "first_seen_at": "2026-04-21T10:20:56.776844+00:00",
-      "last_seen_at": "2026-04-21T23:42:32.066682+00:00"
+      "last_seen_at": "2026-04-22T10:21:42.257266+00:00"
     },
     "https://www.dw.com/en/south-korea-police-seek-to-arrest-bts-agency-chief-over-fraud-allegations/a-76874782?maca=en-rss-en-top-1022-rdf": {
       "title": "대한민국: 경찰, 방탄소년단 소속사 대표 사기 혐의로 체포 추진",
@@ -8816,7 +8816,7 @@
         "HYBE"
       ],
       "first_seen_at": "2026-04-21T23:42:32.066682+00:00",
-      "last_seen_at": "2026-04-21T23:42:32.066682+00:00"
+      "last_seen_at": "2026-04-22T10:21:42.257266+00:00"
     },
     "https://www.scmp.com/week-asia/people/article/3350898/south-korean-police-seek-arrest-warrant-hybe-founder-bang-after-travel-request": {
       "title": "한국 경찰, 방시혁 하이브 창업자 출국 요청 후 체포영장 신청",
@@ -8828,6 +8828,50 @@
       ],
       "first_seen_at": "2026-04-21T23:42:32.066682+00:00",
       "last_seen_at": "2026-04-21T23:42:32.066682+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/tesla-model-y-l-at-6199-lakh-price-tag-lands-in-no-mans-land-amid-pricing-and-localisation-challenges/article70892061.ece": {
+      "title": "테슬라 모델 Y L은 619만 9천 루피라는 가격으로 인도 시장에서 가격 및 현지화 문제로 인해 '어느 쪽에도 속하지 못하는' 위치에 놓였습니다.",
+      "link": "https://www.thehindubusinessline.com/companies/tesla-model-y-l-at-6199-lakh-price-tag-lands-in-no-mans-land-amid-pricing-and-localisation-challenges/article70892061.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-04-22T10:21:42.257266+00:00",
+      "last_seen_at": "2026-04-22T10:21:42.257266+00:00"
+    },
+    "https://www.channelnewsasia.com/business/lg-display-invest-745-million-in-oled-display-infrastructure-6073191": {
+      "title": "LG디스플레이, OLED 디스플레이 인프라에 7억 4,500만 달러 투자 예정",
+      "link": "https://www.channelnewsasia.com/business/lg-display-invest-745-million-in-oled-display-infrastructure-6073191",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "LG Display"
+      ],
+      "first_seen_at": "2026-04-22T10:21:42.257266+00:00",
+      "last_seen_at": "2026-04-22T10:21:42.257266+00:00"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/samsung-electronics-set-for-labor-union-showdown-over-performance-pay": {
+      "title": "삼성전자, 성과급 지급 관련 노조와 충돌 임박",
+      "link": "https://asia.nikkei.com/business/tech/semiconductors/samsung-electronics-set-for-labor-union-showdown-over-performance-pay",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-04-22T10:21:42.257266+00:00",
+      "last_seen_at": "2026-04-22T10:21:42.257266+00:00"
+    },
+    "https://www.channelnewsasia.com/business/sk-hynix-invest-about-13-billion-in-new-south-korea-plant-meet-ai-memory-demand-6072751": {
+      "title": "SK하이닉스는 AI 메모리 수요 충족을 위해 한국에 약 130억 달러를 투자해 신규 공장을 건설할 예정이다.",
+      "link": "https://www.channelnewsasia.com/business/sk-hynix-invest-about-13-billion-in-new-south-korea-plant-meet-ai-memory-demand-6072751",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-04-22T10:21:42.257266+00:00",
+      "last_seen_at": "2026-04-22T10:21:42.257266+00:00"
     }
   }
 }
