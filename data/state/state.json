@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-04-22T10:21:42.257266+00:00",
+  "last_run_at": "2026-04-22T23:50:42.415895+00:00",
   "seen_articles": {
     "https://www.ft.com/content/3752d058-d3ee-41a4-b702-d49ae7f61b5c": {
       "title": "삼성은 애플의 스마트폰 시장 선두 자리를 위협하기 위해 AI 관련 인수합병을 추진하고 있다.",
@@ -8816,7 +8816,7 @@
         "HYBE"
       ],
       "first_seen_at": "2026-04-21T23:42:32.066682+00:00",
-      "last_seen_at": "2026-04-22T10:21:42.257266+00:00"
+      "last_seen_at": "2026-04-22T23:50:42.415895+00:00"
     },
     "https://www.scmp.com/week-asia/people/article/3350898/south-korean-police-seek-arrest-warrant-hybe-founder-bang-after-travel-request": {
       "title": "한국 경찰, 방시혁 하이브 창업자 출국 요청 후 체포영장 신청",
@@ -8838,7 +8838,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-04-22T10:21:42.257266+00:00",
-      "last_seen_at": "2026-04-22T10:21:42.257266+00:00"
+      "last_seen_at": "2026-04-22T23:50:42.415895+00:00"
     },
     "https://www.channelnewsasia.com/business/lg-display-invest-745-million-in-oled-display-infrastructure-6073191": {
       "title": "LG디스플레이, OLED 디스플레이 인프라에 7억 4,500만 달러 투자 예정",
@@ -8860,7 +8860,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-04-22T10:21:42.257266+00:00",
-      "last_seen_at": "2026-04-22T10:21:42.257266+00:00"
+      "last_seen_at": "2026-04-22T23:50:42.415895+00:00"
     },
     "https://www.channelnewsasia.com/business/sk-hynix-invest-about-13-billion-in-new-south-korea-plant-meet-ai-memory-demand-6072751": {
       "title": "SK하이닉스는 AI 메모리 수요 충족을 위해 한국에 약 130억 달러를 투자해 신규 공장을 건설할 예정이다.",
@@ -8872,6 +8872,39 @@
       ],
       "first_seen_at": "2026-04-22T10:21:42.257266+00:00",
       "last_seen_at": "2026-04-22T10:21:42.257266+00:00"
+    },
+    "https://www.cnbc.com/2026/04/23/sk-hynix-earnings-ai-memory-shortage-hbm-demand.html": {
+      "title": "SK하이닉스, 메모리 가격 상승에 힘입어 1분기 사상 최고 실적 기록하며 시장 예상치에 부합",
+      "link": "https://www.cnbc.com/2026/04/23/sk-hynix-earnings-ai-memory-shortage-hbm-demand.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-04-22T23:50:42.415895+00:00",
+      "last_seen_at": "2026-04-22T23:50:42.415895+00:00"
+    },
+    "https://www.straitstimes.com/business/companies-markets/nvidia-supplier-sk-hynix-q1-profit-soars-406-on-ai-boom": {
+      "title": "엔비디아 공급업체인 SK하이닉스, AI 붐에 힘입어 1분기 이익 406% 급증",
+      "link": "https://www.straitstimes.com/business/companies-markets/nvidia-supplier-sk-hynix-q1-profit-soars-406-on-ai-boom",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-04-22T23:50:42.415895+00:00",
+      "last_seen_at": "2026-04-22T23:50:42.415895+00:00"
+    },
+    "https://www.channelnewsasia.com/business/nvidia-supplier-sk-hynixs-q1-profit-rises-five-fold-meets-forecasts-6074941": {
+      "title": "엔비디아 공급업체인 SK하이닉스의 1분기 순이익이 5배 증가하며 시장 예상치에 부합했다.",
+      "link": "https://www.channelnewsasia.com/business/nvidia-supplier-sk-hynixs-q1-profit-rises-five-fold-meets-forecasts-6074941",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-04-22T23:50:42.415895+00:00",
+      "last_seen_at": "2026-04-22T23:50:42.415895+00:00"
     }
   }
 }
