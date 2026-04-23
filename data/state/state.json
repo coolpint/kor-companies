@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-04-23T10:23:59.583347+00:00",
+  "last_run_at": "2026-04-23T23:52:48.387204+00:00",
   "seen_articles": {
-    "https://www.ft.com/content/04e5603e-e87c-4035-90a5-03c3d1da3a2e": {
-      "title": "한국의 주요 온라인 소매업체는 미국 회사인가요?",
-      "link": "https://www.ft.com/content/04e5603e-e87c-4035-90a5-03c3d1da3a2e",
-      "source_name": "Financial Times Companies",
-      "country_code": "GB",
-      "companies": [
-        "Coupang"
-      ],
-      "first_seen_at": "2026-03-09T09:58:14.193992+00:00",
-      "last_seen_at": "2026-03-09T13:57:53.851693+00:00"
-    },
     "https://asia.nikkei.com/business/tech/semiconductors/global-memory-chip-crunch-set-to-last-till-2030-sk-hynix": {
       "title": "SK하이닉스, \"글로벌 메모리 칩 공급 부족 현상, 2030년까지 지속될 전망\"",
       "link": "https://asia.nikkei.com/business/tech/semiconductors/global-memory-chip-crunch-set-to-last-till-2030-sk-hynix",
@@ -8865,13 +8854,13 @@
     "https://www.cnbc.com/2026/04/23/sk-hynix-earnings-ai-memory-shortage-hbm-demand.html": {
       "title": "SK하이닉스, 메모리 가격 상승에 힘입어 1분기 사상 최고 실적 기록하며 시장 예상치에 부합",
       "link": "https://www.cnbc.com/2026/04/23/sk-hynix-earnings-ai-memory-shortage-hbm-demand.html",
-      "source_name": "CNBC Top News",
+      "source_name": "CNBC Technology",
       "country_code": "US",
       "companies": [
         "SK hynix"
       ],
       "first_seen_at": "2026-04-22T23:50:42.415895+00:00",
-      "last_seen_at": "2026-04-23T10:23:59.583347+00:00"
+      "last_seen_at": "2026-04-23T23:52:48.387204+00:00"
     },
     "https://www.straitstimes.com/business/companies-markets/nvidia-supplier-sk-hynix-q1-profit-soars-406-on-ai-boom": {
       "title": "메모리 칩 제조업체 SK하이닉스, AI 붐에 힘입어 1분기 이익 406% 급증하며 사상 최고치 기록",
@@ -8882,7 +8871,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-04-22T23:50:42.415895+00:00",
-      "last_seen_at": "2026-04-23T10:23:59.583347+00:00"
+      "last_seen_at": "2026-04-23T23:52:48.387204+00:00"
     },
     "https://www.channelnewsasia.com/business/nvidia-supplier-sk-hynixs-q1-profit-rises-five-fold-meets-forecasts-6074941": {
       "title": "엔비디아 공급업체인 SK하이닉스의 1분기 순이익이 5배 증가하며 시장 예상치에 부합했다.",
@@ -8904,7 +8893,7 @@
         "Coupang"
       ],
       "first_seen_at": "2026-04-23T10:23:59.583347+00:00",
-      "last_seen_at": "2026-04-23T10:23:59.583347+00:00"
+      "last_seen_at": "2026-04-23T23:52:48.387204+00:00"
     },
     "https://www.marketwatch.com/story/the-good-times-roll-for-sk-hynix-with-record-breaking-quarter-but-living-up-to-expectations-isnt-easy-1f2ae731?mod=mw_rss_topstories": {
       "title": "SK하이닉스가 사상 최고 실적을 기록하며 승승장구하고 있지만, 기대에 부응하는 것은 결코 쉬운 일이 아닙니다.",
@@ -8926,7 +8915,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-04-23T10:23:59.583347+00:00",
-      "last_seen_at": "2026-04-23T10:23:59.583347+00:00"
+      "last_seen_at": "2026-04-23T23:52:48.387204+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/south-korea-ecommerce-probe-opens-rift-in-us-ties/articleshow/130461587.cms": {
       "title": "한국의 전자상거래 조사로 미국과의 관계에 균열 발생",
@@ -8937,7 +8926,7 @@
         "Coupang"
       ],
       "first_seen_at": "2026-04-23T10:23:59.583347+00:00",
-      "last_seen_at": "2026-04-23T10:23:59.583347+00:00"
+      "last_seen_at": "2026-04-23T23:52:48.387204+00:00"
     },
     "https://www.ft.com/content/7cd1ed04-6121-4263-b936-d5d020e5111c": {
       "title": "베이징의 자동차 업계 탄압과 쿠팡에 대한 집중적인 조사",
@@ -8971,7 +8960,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-04-23T10:23:59.583347+00:00",
-      "last_seen_at": "2026-04-23T10:23:59.583347+00:00"
+      "last_seen_at": "2026-04-23T23:52:48.387204+00:00"
     },
     "https://www.channelnewsasia.com/business/hyundai-motor-reports-31-drop-in-q1-operating-profit-meets-forecasts-6075546": {
       "title": "현대자동차, 1분기 영업이익 31% 감소 기록해 시장 예상치와 일치",
@@ -8993,7 +8982,7 @@
         "Coupang"
       ],
       "first_seen_at": "2026-04-23T10:23:59.583347+00:00",
-      "last_seen_at": "2026-04-23T10:23:59.583347+00:00"
+      "last_seen_at": "2026-04-23T23:52:48.387204+00:00"
     },
     "https://www.scmp.com/week-asia/economics/article/3351081/how-southeast-asias-aviation-hubs-are-capturing-traffic-amid-iran-war": {
       "title": "이란 전쟁 속 동남아시아 주요 항공 허브들은 어떻게 항공 교통량을 유치하고 있을까?",
@@ -9015,7 +9004,40 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-04-23T10:23:59.583347+00:00",
-      "last_seen_at": "2026-04-23T10:23:59.583347+00:00"
+      "last_seen_at": "2026-04-23T23:52:48.387204+00:00"
+    },
+    "https://www.taipeitimes.com/News/biz/archives/2026/04/24/2003856125": {
+      "title": "SK하이닉스, AI 반도체 매출 예상치 상회",
+      "link": "https://www.taipeitimes.com/News/biz/archives/2026/04/24/2003856125",
+      "source_name": "Taipei Times",
+      "country_code": "TW",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-04-23T23:52:48.387204+00:00",
+      "last_seen_at": "2026-04-23T23:52:48.387204+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/media/entertainment/we-want-to-develop-made-in-india-games-for-local-global-markets-says-krafton-ceo/articleshow/130477610.cms": {
+      "title": "크래프턴 CEO 킴은 \"우리의 현재 목표는 국내 소비와 세계 수출을 위한 인도 게임을 개발하는 것\"이라고 말했습니다.",
+      "link": "https://economictimes.indiatimes.com/industry/media/entertainment/we-want-to-develop-made-in-india-games-for-local-global-markets-says-krafton-ceo/articleshow/130477610.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Krafton"
+      ],
+      "first_seen_at": "2026-04-23T23:52:48.387204+00:00",
+      "last_seen_at": "2026-04-23T23:52:48.387204+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/samsung-workers-rally-in-south-korea-demanding-higher-pay-and-threatening-to-strike/articleshow/130465568.cms": {
+      "title": "한국 삼성 노동자들이 임금 인상을 요구하며 파업을 예고하는 시위를 벌였습니다.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-workers-rally-in-south-korea-demanding-higher-pay-and-threatening-to-strike/articleshow/130465568.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-04-23T23:52:48.387204+00:00",
+      "last_seen_at": "2026-04-23T23:52:48.387204+00:00"
     }
   }
 }
