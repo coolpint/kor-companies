@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-04-22T23:50:42.415895+00:00",
+  "last_run_at": "2026-04-23T10:23:59.583347+00:00",
   "seen_articles": {
-    "https://www.ft.com/content/3752d058-d3ee-41a4-b702-d49ae7f61b5c": {
-      "title": "삼성은 애플의 스마트폰 시장 선두 자리를 위협하기 위해 AI 관련 인수합병을 추진하고 있다.",
-      "link": "https://www.ft.com/content/3752d058-d3ee-41a4-b702-d49ae7f61b5c",
-      "source_name": "Financial Times Companies",
-      "country_code": "GB",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-03-08T09:35:06.409707+00:00",
-      "last_seen_at": "2026-03-09T00:17:14.414932+00:00"
-    },
     "https://www.ft.com/content/04e5603e-e87c-4035-90a5-03c3d1da3a2e": {
       "title": "한국의 주요 온라인 소매업체는 미국 회사인가요?",
       "link": "https://www.ft.com/content/04e5603e-e87c-4035-90a5-03c3d1da3a2e",
@@ -8838,7 +8827,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-04-22T10:21:42.257266+00:00",
-      "last_seen_at": "2026-04-22T23:50:42.415895+00:00"
+      "last_seen_at": "2026-04-23T10:23:59.583347+00:00"
     },
     "https://www.channelnewsasia.com/business/lg-display-invest-745-million-in-oled-display-infrastructure-6073191": {
       "title": "LG디스플레이, OLED 디스플레이 인프라에 7억 4,500만 달러 투자 예정",
@@ -8860,7 +8849,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-04-22T10:21:42.257266+00:00",
-      "last_seen_at": "2026-04-22T23:50:42.415895+00:00"
+      "last_seen_at": "2026-04-23T10:23:59.583347+00:00"
     },
     "https://www.channelnewsasia.com/business/sk-hynix-invest-about-13-billion-in-new-south-korea-plant-meet-ai-memory-demand-6072751": {
       "title": "SK하이닉스는 AI 메모리 수요 충족을 위해 한국에 약 130억 달러를 투자해 신규 공장을 건설할 예정이다.",
@@ -8882,10 +8871,10 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-04-22T23:50:42.415895+00:00",
-      "last_seen_at": "2026-04-22T23:50:42.415895+00:00"
+      "last_seen_at": "2026-04-23T10:23:59.583347+00:00"
     },
     "https://www.straitstimes.com/business/companies-markets/nvidia-supplier-sk-hynix-q1-profit-soars-406-on-ai-boom": {
-      "title": "엔비디아 공급업체인 SK하이닉스, AI 붐에 힘입어 1분기 이익 406% 급증",
+      "title": "메모리 칩 제조업체 SK하이닉스, AI 붐에 힘입어 1분기 이익 406% 급증하며 사상 최고치 기록",
       "link": "https://www.straitstimes.com/business/companies-markets/nvidia-supplier-sk-hynix-q1-profit-soars-406-on-ai-boom",
       "source_name": "The Straits Times",
       "country_code": "SG",
@@ -8893,7 +8882,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-04-22T23:50:42.415895+00:00",
-      "last_seen_at": "2026-04-22T23:50:42.415895+00:00"
+      "last_seen_at": "2026-04-23T10:23:59.583347+00:00"
     },
     "https://www.channelnewsasia.com/business/nvidia-supplier-sk-hynixs-q1-profit-rises-five-fold-meets-forecasts-6074941": {
       "title": "엔비디아 공급업체인 SK하이닉스의 1분기 순이익이 5배 증가하며 시장 예상치에 부합했다.",
@@ -8905,6 +8894,128 @@
       ],
       "first_seen_at": "2026-04-22T23:50:42.415895+00:00",
       "last_seen_at": "2026-04-22T23:50:42.415895+00:00"
+    },
+    "https://asia.nikkei.com/techasia/beijing-s-auto-bash-and-coupang-under-scrutiny": {
+      "title": "베이징의 자동차 업계 탄압과 쿠팡에 대한 집중적인 조사",
+      "link": "https://asia.nikkei.com/techasia/beijing-s-auto-bash-and-coupang-under-scrutiny",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "companies": [
+        "Coupang"
+      ],
+      "first_seen_at": "2026-04-23T10:23:59.583347+00:00",
+      "last_seen_at": "2026-04-23T10:23:59.583347+00:00"
+    },
+    "https://www.marketwatch.com/story/the-good-times-roll-for-sk-hynix-with-record-breaking-quarter-but-living-up-to-expectations-isnt-easy-1f2ae731?mod=mw_rss_topstories": {
+      "title": "SK하이닉스가 사상 최고 실적을 기록하며 승승장구하고 있지만, 기대에 부응하는 것은 결코 쉬운 일이 아닙니다.",
+      "link": "https://www.marketwatch.com/story/the-good-times-roll-for-sk-hynix-with-record-breaking-quarter-but-living-up-to-expectations-isnt-easy-1f2ae731?mod=mw_rss_topstories",
+      "source_name": "MarketWatch Top Stories",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-04-23T10:23:59.583347+00:00",
+      "last_seen_at": "2026-04-23T10:23:59.583347+00:00"
+    },
+    "https://www.japantimes.co.jp/business/2026/04/23/companies/samsung-workers-protest": {
+      "title": "삼성 직원들이 AI 칩 붐 속 SK 하이닉스와의 큰 임금 격차에 항의하며 시위를 벌였다.",
+      "link": "https://www.japantimes.co.jp/business/2026/04/23/companies/samsung-workers-protest",
+      "source_name": "The Japan Times",
+      "country_code": "JP",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-04-23T10:23:59.583347+00:00",
+      "last_seen_at": "2026-04-23T10:23:59.583347+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/south-korea-ecommerce-probe-opens-rift-in-us-ties/articleshow/130461587.cms": {
+      "title": "한국의 전자상거래 조사로 미국과의 관계에 균열 발생",
+      "link": "https://economictimes.indiatimes.com/tech/technology/south-korea-ecommerce-probe-opens-rift-in-us-ties/articleshow/130461587.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Coupang"
+      ],
+      "first_seen_at": "2026-04-23T10:23:59.583347+00:00",
+      "last_seen_at": "2026-04-23T10:23:59.583347+00:00"
+    },
+    "https://www.ft.com/content/7cd1ed04-6121-4263-b936-d5d020e5111c": {
+      "title": "베이징의 자동차 업계 탄압과 쿠팡에 대한 집중적인 조사",
+      "link": "https://www.ft.com/content/7cd1ed04-6121-4263-b936-d5d020e5111c",
+      "source_name": "Financial Times Companies",
+      "country_code": "GB",
+      "companies": [
+        "Coupang"
+      ],
+      "first_seen_at": "2026-04-23T10:23:59.583347+00:00",
+      "last_seen_at": "2026-04-23T10:23:59.583347+00:00"
+    },
+    "https://www.channelnewsasia.com/east-asia/samsung-workers-protest-over-huge-pay-gap-sk-hynix-threaten-long-strike-6075681": {
+      "title": "삼성 직원들이 SK하이닉스와의 큰 임금 격차에 항의하며 장기 파업을 예고했다.",
+      "link": "https://www.channelnewsasia.com/east-asia/samsung-workers-protest-over-huge-pay-gap-sk-hynix-threaten-long-strike-6075681",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-04-23T10:23:59.583347+00:00",
+      "last_seen_at": "2026-04-23T10:23:59.583347+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/hyundai-motor-reports-31-drop-in-q1-operating-profit-meets-forecasts/article70895968.ece": {
+      "title": "현대자동차, 1분기 영업이익 31% 감소 기록해 시장 예상치와 일치",
+      "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-reports-31-drop-in-q1-operating-profit-meets-forecasts/article70895968.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor",
+        "Kia"
+      ],
+      "first_seen_at": "2026-04-23T10:23:59.583347+00:00",
+      "last_seen_at": "2026-04-23T10:23:59.583347+00:00"
+    },
+    "https://www.channelnewsasia.com/business/hyundai-motor-reports-31-drop-in-q1-operating-profit-meets-forecasts-6075546": {
+      "title": "현대자동차, 1분기 영업이익 31% 감소 기록해 시장 예상치와 일치",
+      "link": "https://www.channelnewsasia.com/business/hyundai-motor-reports-31-drop-in-q1-operating-profit-meets-forecasts-6075546",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-04-23T10:23:59.583347+00:00",
+      "last_seen_at": "2026-04-23T10:23:59.583347+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/south-korea-tells-us-lawmakers-it-will-ensure-no-discrimination-against-us-tech-firms/articleshow/130456540.cms": {
+      "title": "한국 정부는 미국 의원들에게 미국 기술 기업에 대한 차별이 없도록 보장하겠다고 밝혔습니다.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/south-korea-tells-us-lawmakers-it-will-ensure-no-discrimination-against-us-tech-firms/articleshow/130456540.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Coupang"
+      ],
+      "first_seen_at": "2026-04-23T10:23:59.583347+00:00",
+      "last_seen_at": "2026-04-23T10:23:59.583347+00:00"
+    },
+    "https://www.scmp.com/week-asia/economics/article/3351081/how-southeast-asias-aviation-hubs-are-capturing-traffic-amid-iran-war": {
+      "title": "이란 전쟁 속 동남아시아 주요 항공 허브들은 어떻게 항공 교통량을 유치하고 있을까?",
+      "link": "https://www.scmp.com/week-asia/economics/article/3351081/how-southeast-asias-aviation-hubs-are-capturing-traffic-amid-iran-war",
+      "source_name": "South China Morning Post World",
+      "country_code": "HK",
+      "companies": [
+        "Korean Air"
+      ],
+      "first_seen_at": "2026-04-23T10:23:59.583347+00:00",
+      "last_seen_at": "2026-04-23T10:23:59.583347+00:00"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-q1-profit-jumps-fivefold-despite-middle-east-energy-crisis": {
+      "title": "SK하이닉스, 중동 에너지 위기에도 불구하고 1분기 순이익 5배 급증",
+      "link": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-q1-profit-jumps-fivefold-despite-middle-east-energy-crisis",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-04-23T10:23:59.583347+00:00",
+      "last_seen_at": "2026-04-23T10:23:59.583347+00:00"
     }
   }
 }
