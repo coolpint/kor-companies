@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-04-24T10:25:47.702356+00:00",
+  "last_run_at": "2026-04-24T23:44:38.488147+00:00",
   "seen_articles": {
     "https://asia.nikkei.com/business/tech/semiconductors/global-memory-chip-crunch-set-to-last-till-2030-sk-hynix": {
       "title": "SK하이닉스, \"글로벌 메모리 칩 공급 부족 현상, 2030년까지 지속될 전망\"",
@@ -8893,7 +8893,7 @@
         "Coupang"
       ],
       "first_seen_at": "2026-04-23T10:23:59.583347+00:00",
-      "last_seen_at": "2026-04-24T10:25:47.702356+00:00"
+      "last_seen_at": "2026-04-24T23:44:38.488147+00:00"
     },
     "https://www.marketwatch.com/story/the-good-times-roll-for-sk-hynix-with-record-breaking-quarter-but-living-up-to-expectations-isnt-easy-1f2ae731?mod=mw_rss_topstories": {
       "title": "SK하이닉스가 사상 최고 실적을 기록하며 승승장구하고 있지만, 기대에 부응하는 것은 결코 쉬운 일이 아닙니다.",
@@ -9059,7 +9059,18 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-04-24T10:25:47.702356+00:00",
-      "last_seen_at": "2026-04-24T10:25:47.702356+00:00"
+      "last_seen_at": "2026-04-24T23:44:38.488147+00:00"
+    },
+    "https://www.theverge.com/tech/918301/samsung-south-korea-union-protests": {
+      "title": "삼성 노동자들의 시위로 생산량이 감소하면 RAM 부족 사태는 더욱 악화될 수 있다.",
+      "link": "https://www.theverge.com/tech/918301/samsung-south-korea-union-protests",
+      "source_name": "The Verge",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-04-24T23:44:38.488147+00:00",
+      "last_seen_at": "2026-04-24T23:44:38.488147+00:00"
     }
   }
 }
