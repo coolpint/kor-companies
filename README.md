@@ -20,6 +20,14 @@
 - `reports/`: 최신 리포트와 아카이브
 - `.github/workflows/monitor.yml`: GitHub Actions 스케줄 실행
 - `.github/workflows/healthcheck.yml`: 매주 점검 실행 및 텔레그램 알림
+- `docs/machine-handover.md`: 로컬 의존성 점검 결과와 다른 머신 이관 가이드
+
+## 로컬 의존성 요약
+
+- 이 프로젝트는 로컬 장비 스케줄러에 의존하지 않고 GitHub Actions 중심으로 운영된다.
+- 코드에는 사용자 절대경로 하드코딩이 없고, 표준 라이브러리만 사용한다.
+- 대신 운영상 필수 의존성은 있다: GitHub Actions, GitHub Secrets, Telegram, Google Translate API, `data/state/state.json`, `reports/`.
+- 다른 머신에서 이어받을 때 필요한 절차는 [docs/machine-handover.md](docs/machine-handover.md)에 정리했다.
 
 ## 실행
 
