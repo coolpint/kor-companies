@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-04-30T10:58:45.930916+00:00",
+  "last_run_at": "2026-04-30T23:55:35.738525+00:00",
   "seen_articles": {
     "https://asia.nikkei.com/business/tech/semiconductors/global-memory-chip-crunch-set-to-last-till-2030-sk-hynix": {
       "title": "SK하이닉스, \"글로벌 메모리 칩 공급 부족 현상, 2030년까지 지속될 전망\"",
@@ -9191,7 +9191,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-04-29T10:59:55.681776+00:00",
-      "last_seen_at": "2026-04-30T10:58:45.930916+00:00"
+      "last_seen_at": "2026-04-30T23:55:35.738525+00:00"
     },
     "https://www.scmp.com/tech/big-tech/article/3352001/samsung-sk-hynix-flag-record-supply-squeeze-memory-market-ai-demand-soars": {
       "title": "삼성과 SK하이닉스는 AI 수요 급증으로 메모리 시장의 사상 최대 공급 부족 사태가 발생할 것이라고 경고했습니다.",
@@ -9203,18 +9203,18 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-04-30T10:58:45.930916+00:00",
-      "last_seen_at": "2026-04-30T10:58:45.930916+00:00"
+      "last_seen_at": "2026-04-30T23:55:35.738525+00:00"
     },
     "https://www.cnbc.com/2026/04/30/samsung-q1-earnings-ai-memory-chip-demand-profit-record.html": {
       "title": "삼성의 이익이 AI 붐으로 인한 메모리 칩 수요 급증에 힘입어 8배 이상 급증하며 예상치를 상회했습니다.",
       "link": "https://www.cnbc.com/2026/04/30/samsung-q1-earnings-ai-memory-chip-demand-profit-record.html",
-      "source_name": "CNBC Top News",
+      "source_name": "CNBC Technology",
       "country_code": "US",
       "companies": [
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-04-30T10:58:45.930916+00:00",
-      "last_seen_at": "2026-04-30T10:58:45.930916+00:00"
+      "last_seen_at": "2026-04-30T23:55:35.738525+00:00"
     },
     "https://www.channelnewsasia.com/business/samsung-electronics-expects-win-more-customers-advanced-logic-chips-6091066": {
       "title": "삼성전자는 첨단 로직 칩 분야에서 더 많은 고객을 확보할 것으로 기대하고 있습니다.",
@@ -9236,7 +9236,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-04-30T10:58:45.930916+00:00",
-      "last_seen_at": "2026-04-30T10:58:45.930916+00:00"
+      "last_seen_at": "2026-04-30T23:55:35.738525+00:00"
     },
     "https://www.channelnewsasia.com/business/lg-energy-solution-swings-loss-amid-weak-north-american-ev-demand-6090826": {
       "title": "LG에너지솔루션, 북미 전기차 수요 부진 속 적자 전환",
@@ -9258,7 +9258,29 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-04-30T10:58:45.930916+00:00",
-      "last_seen_at": "2026-04-30T10:58:45.930916+00:00"
+      "last_seen_at": "2026-04-30T23:55:35.738525+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/information-tech/samsung-focuses-on-hbm-as-ai-demand-drives-record-quarterly-profit/articleshow/130635359.cms": {
+      "title": "삼성은 AI 수요 증가에 힘입어 사상 최고 분기 수익을 기록하며 HBM에 집중하고 있습니다.",
+      "link": "https://economictimes.indiatimes.com/tech/information-tech/samsung-focuses-on-hbm-as-ai-demand-drives-record-quarterly-profit/articleshow/130635359.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-04-30T23:55:35.738525+00:00",
+      "last_seen_at": "2026-04-30T23:55:35.738525+00:00"
+    },
+    "https://www.lemonde.fr/economie/article/2026/04/30/samsung-menace-de-greve-sur-fond-de-benefices-astronomiques_6684584_3234.html": {
+      "title": "삼성, 천문학적인 수익에도 불구하고 파업 위협에 직면",
+      "link": "https://www.lemonde.fr/economie/article/2026/04/30/samsung-menace-de-greve-sur-fond-de-benefices-astronomiques_6684584_3234.html",
+      "source_name": "Le Monde Economie",
+      "country_code": "FR",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-04-30T23:55:35.738525+00:00",
+      "last_seen_at": "2026-04-30T23:55:35.738525+00:00"
     }
   }
 }
