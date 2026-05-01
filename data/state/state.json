@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-04-30T23:55:35.738525+00:00",
+  "last_run_at": "2026-05-01T10:25:30.105980+00:00",
   "seen_articles": {
     "https://asia.nikkei.com/business/tech/semiconductors/global-memory-chip-crunch-set-to-last-till-2030-sk-hynix": {
       "title": "SK하이닉스, \"글로벌 메모리 칩 공급 부족 현상, 2030년까지 지속될 전망\"",
@@ -12,17 +12,6 @@
       ],
       "first_seen_at": "2026-03-17T05:46:46.725641+00:00",
       "last_seen_at": "2026-03-18T10:01:12.076677+00:00"
-    },
-    "https://www.theguardian.com/technology/2026/mar/16/samsung-galaxy-s26-ultra-review": {
-      "title": "삼성 갤럭시 S26 울트라 리뷰: 거대한 화면 덕분에 뒤에서 몰래 엿보는 사람을 막을 수 있다",
-      "link": "https://www.theguardian.com/technology/2026/mar/16/samsung-galaxy-s26-ultra-review",
-      "source_name": "The Guardian Technology",
-      "country_code": "GB",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-03-17T05:46:46.725641+00:00",
-      "last_seen_at": "2026-03-17T09:59:19.969365+00:00"
     },
     "https://www.japantimes.co.jp/business/2026/03/17/tech/us-south-korea-gaming-ai": {
       "title": "미국 법원, AI를 이용한 인수 계획으로 한국 게임 회사에 불리한 판결 내려",
@@ -9196,14 +9185,14 @@
     "https://www.scmp.com/tech/big-tech/article/3352001/samsung-sk-hynix-flag-record-supply-squeeze-memory-market-ai-demand-soars": {
       "title": "삼성과 SK하이닉스는 AI 수요 급증으로 메모리 시장의 사상 최대 공급 부족 사태가 발생할 것이라고 경고했습니다.",
       "link": "https://www.scmp.com/tech/big-tech/article/3352001/samsung-sk-hynix-flag-record-supply-squeeze-memory-market-ai-demand-soars",
-      "source_name": "South China Morning Post World",
+      "source_name": "South China Morning Post Tech",
       "country_code": "HK",
       "companies": [
         "Samsung Electronics",
         "SK hynix"
       ],
       "first_seen_at": "2026-04-30T10:58:45.930916+00:00",
-      "last_seen_at": "2026-04-30T23:55:35.738525+00:00"
+      "last_seen_at": "2026-05-01T10:25:30.105980+00:00"
     },
     "https://www.cnbc.com/2026/04/30/samsung-q1-earnings-ai-memory-chip-demand-profit-record.html": {
       "title": "삼성의 이익이 AI 붐으로 인한 메모리 칩 수요 급증에 힘입어 8배 이상 급증하며 예상치를 상회했습니다.",
@@ -9214,7 +9203,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-04-30T10:58:45.930916+00:00",
-      "last_seen_at": "2026-04-30T23:55:35.738525+00:00"
+      "last_seen_at": "2026-05-01T10:25:30.105980+00:00"
     },
     "https://www.channelnewsasia.com/business/samsung-electronics-expects-win-more-customers-advanced-logic-chips-6091066": {
       "title": "삼성전자는 첨단 로직 칩 분야에서 더 많은 고객을 확보할 것으로 기대하고 있습니다.",
@@ -9269,7 +9258,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-04-30T23:55:35.738525+00:00",
-      "last_seen_at": "2026-04-30T23:55:35.738525+00:00"
+      "last_seen_at": "2026-05-01T10:25:30.105980+00:00"
     },
     "https://www.lemonde.fr/economie/article/2026/04/30/samsung-menace-de-greve-sur-fond-de-benefices-astronomiques_6684584_3234.html": {
       "title": "삼성, 천문학적인 수익에도 불구하고 파업 위협에 직면",
@@ -9281,6 +9270,51 @@
       ],
       "first_seen_at": "2026-04-30T23:55:35.738525+00:00",
       "last_seen_at": "2026-04-30T23:55:35.738525+00:00"
+    },
+    "https://www.thehindubusinessline.com/news/tata-motors-secures-no2-position-in-april-passenger-vehicle-sales/article70927900.ece": {
+      "title": "타타 모터스, 4월 승용차 판매량 2위 차지",
+      "link": "https://www.thehindubusinessline.com/news/tata-motors-secures-no2-position-in-april-passenger-vehicle-sales/article70927900.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor",
+        "Kia"
+      ],
+      "first_seen_at": "2026-05-01T10:25:30.105980+00:00",
+      "last_seen_at": "2026-05-01T10:25:30.105980+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-india-sales-up-16-at-27286-units-in-april/articleshow/130671941.cms": {
+      "title": "기아 인도 법인의 4월 판매량은 27,286대로 전년 동월 대비 16% 증가했습니다.",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-india-sales-up-16-at-27286-units-in-april/articleshow/130671941.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Kia"
+      ],
+      "first_seen_at": "2026-05-01T10:25:30.105980+00:00",
+      "last_seen_at": "2026-05-01T10:25:30.105980+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/hyundai-april-sales-grow-17-y-o-y-to-51902-units/article70927572.ece": {
+      "title": "현대자동차의 4월 판매량은 전년 동기 대비 17% 증가한 51,902대를 기록했습니다.",
+      "link": "https://www.thehindubusinessline.com/companies/hyundai-april-sales-grow-17-y-o-y-to-51902-units/article70927572.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-05-01T10:25:30.105980+00:00",
+      "last_seen_at": "2026-05-01T10:25:30.105980+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-motor-india-domestic-sales-up-17-per-cent-at-51902-units-in-april/articleshow/130670893.cms": {
+      "title": "현대자동차 인도법인의 4월 국내 판매량은 51,902대로 전년 동월 대비 17% 증가했습니다.",
+      "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-motor-india-domestic-sales-up-17-per-cent-at-51902-units-in-april/articleshow/130670893.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-05-01T10:25:30.105980+00:00",
+      "last_seen_at": "2026-05-01T10:25:30.105980+00:00"
     }
   }
 }
