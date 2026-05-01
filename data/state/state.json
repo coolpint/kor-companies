@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-05-01T10:25:30.105980+00:00",
+  "last_run_at": "2026-05-01T23:55:34.448896+00:00",
   "seen_articles": {
     "https://asia.nikkei.com/business/tech/semiconductors/global-memory-chip-crunch-set-to-last-till-2030-sk-hynix": {
       "title": "SK하이닉스, \"글로벌 메모리 칩 공급 부족 현상, 2030년까지 지속될 전망\"",
@@ -12,17 +12,6 @@
       ],
       "first_seen_at": "2026-03-17T05:46:46.725641+00:00",
       "last_seen_at": "2026-03-18T10:01:12.076677+00:00"
-    },
-    "https://www.japantimes.co.jp/business/2026/03/17/tech/us-south-korea-gaming-ai": {
-      "title": "미국 법원, AI를 이용한 인수 계획으로 한국 게임 회사에 불리한 판결 내려",
-      "link": "https://www.japantimes.co.jp/business/2026/03/17/tech/us-south-korea-gaming-ai",
-      "source_name": "The Japan Times",
-      "country_code": "JP",
-      "companies": [
-        "Krafton"
-      ],
-      "first_seen_at": "2026-03-17T06:20:35.379285+00:00",
-      "last_seen_at": "2026-03-17T23:37:25.539292+00:00"
     },
     "https://asia.nikkei.com/opinion/bts-back-to-showbiz-group-s-agency-hybe-demands-closer-scrutiny": {
       "title": "BTS, 연예계 복귀: 소속사 하이브, 더욱 철저한 준비 요구",
@@ -9281,7 +9270,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-05-01T10:25:30.105980+00:00",
-      "last_seen_at": "2026-05-01T10:25:30.105980+00:00"
+      "last_seen_at": "2026-05-01T23:55:34.448896+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-india-sales-up-16-at-27286-units-in-april/articleshow/130671941.cms": {
       "title": "기아 인도 법인의 4월 판매량은 27,286대로 전년 동월 대비 16% 증가했습니다.",
@@ -9303,7 +9292,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-05-01T10:25:30.105980+00:00",
-      "last_seen_at": "2026-05-01T10:25:30.105980+00:00"
+      "last_seen_at": "2026-05-01T23:55:34.448896+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-motor-india-domestic-sales-up-17-per-cent-at-51902-units-in-april/articleshow/130670893.cms": {
       "title": "현대자동차 인도법인의 4월 국내 판매량은 51,902대로 전년 동월 대비 17% 증가했습니다.",
@@ -9315,6 +9304,29 @@
       ],
       "first_seen_at": "2026-05-01T10:25:30.105980+00:00",
       "last_seen_at": "2026-05-01T10:25:30.105980+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/auto-news/indian-car-companies-begin-fy27-on-a-strong-note-despite-geopolitical-uncertainties/articleshow/130684674.cms": {
+      "title": "인도 자동차 회사들이 지정학적 불확실성에도 불구하고 2027 회계연도를 순조롭게 시작했습니다.",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/indian-car-companies-begin-fy27-on-a-strong-note-despite-geopolitical-uncertainties/articleshow/130684674.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-05-01T23:55:34.448896+00:00",
+      "last_seen_at": "2026-05-01T23:55:34.448896+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/auto-news/bright-start-to-fy27-for-carmakers-with-estimated-sales-of-4-5-lakh-units-in-april/articleshow/130678046.cms": {
+      "title": "자동차 제조업체들이 2027 회계연도를 밝게 시작하며 4월에 45만 대의 판매량을 기록할 것으로 예상됩니다.",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/bright-start-to-fy27-for-carmakers-with-estimated-sales-of-4-5-lakh-units-in-april/articleshow/130678046.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor",
+        "Kia"
+      ],
+      "first_seen_at": "2026-05-01T23:55:34.448896+00:00",
+      "last_seen_at": "2026-05-01T23:55:34.448896+00:00"
     }
   }
 }
