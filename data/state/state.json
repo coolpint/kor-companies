@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-05-01T23:55:34.448896+00:00",
+  "last_run_at": "2026-05-02T10:00:57.903312+00:00",
   "seen_articles": {
-    "https://asia.nikkei.com/business/tech/semiconductors/global-memory-chip-crunch-set-to-last-till-2030-sk-hynix": {
-      "title": "SK하이닉스, \"글로벌 메모리 칩 공급 부족 현상, 2030년까지 지속될 전망\"",
-      "link": "https://asia.nikkei.com/business/tech/semiconductors/global-memory-chip-crunch-set-to-last-till-2030-sk-hynix",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-03-17T05:46:46.725641+00:00",
-      "last_seen_at": "2026-03-18T10:01:12.076677+00:00"
-    },
     "https://asia.nikkei.com/opinion/bts-back-to-showbiz-group-s-agency-hybe-demands-closer-scrutiny": {
       "title": "BTS, 연예계 복귀: 소속사 하이브, 더욱 철저한 준비 요구",
       "link": "https://asia.nikkei.com/opinion/bts-back-to-showbiz-group-s-agency-hybe-demands-closer-scrutiny",
@@ -9270,7 +9259,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-05-01T10:25:30.105980+00:00",
-      "last_seen_at": "2026-05-01T23:55:34.448896+00:00"
+      "last_seen_at": "2026-05-02T10:00:57.903312+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-india-sales-up-16-at-27286-units-in-april/articleshow/130671941.cms": {
       "title": "기아 인도 법인의 4월 판매량은 27,286대로 전년 동월 대비 16% 증가했습니다.",
@@ -9292,7 +9281,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-05-01T10:25:30.105980+00:00",
-      "last_seen_at": "2026-05-01T23:55:34.448896+00:00"
+      "last_seen_at": "2026-05-02T10:00:57.903312+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-motor-india-domestic-sales-up-17-per-cent-at-51902-units-in-april/articleshow/130670893.cms": {
       "title": "현대자동차 인도법인의 4월 국내 판매량은 51,902대로 전년 동월 대비 17% 증가했습니다.",
@@ -9314,10 +9303,10 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-05-01T23:55:34.448896+00:00",
-      "last_seen_at": "2026-05-01T23:55:34.448896+00:00"
+      "last_seen_at": "2026-05-02T10:00:57.903312+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/bright-start-to-fy27-for-carmakers-with-estimated-sales-of-4-5-lakh-units-in-april/articleshow/130678046.cms": {
-      "title": "자동차 제조업체들이 2027 회계연도를 밝게 시작하며 4월에 45만 대의 판매량을 기록할 것으로 예상됩니다.",
+      "title": "자동차 제조업체들이 2027 회계연도를 순조롭게 시작했으며, 4월에는 45만 대의 판매량이 예상됩니다.",
       "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/bright-start-to-fy27-for-carmakers-with-estimated-sales-of-4-5-lakh-units-in-april/articleshow/130678046.cms",
       "source_name": "The Economic Times Industry",
       "country_code": "IN",
@@ -9326,7 +9315,29 @@
         "Kia"
       ],
       "first_seen_at": "2026-05-01T23:55:34.448896+00:00",
-      "last_seen_at": "2026-05-01T23:55:34.448896+00:00"
+      "last_seen_at": "2026-05-02T10:00:57.903312+00:00"
+    },
+    "https://www.channelnewsasia.com/east-asia/korean-air-bans-roosters-united-states-philippines-routes-cockfighting-outcry-6095871": {
+      "title": "대한항공, 투계 논란 속에 미국-필리핀 노선에서 수탉 탑승 금지",
+      "link": "https://www.channelnewsasia.com/east-asia/korean-air-bans-roosters-united-states-philippines-routes-cockfighting-outcry-6095871",
+      "source_name": "CNA Asia",
+      "country_code": "SG",
+      "companies": [
+        "Korean Air"
+      ],
+      "first_seen_at": "2026-05-02T10:00:57.903312+00:00",
+      "last_seen_at": "2026-05-02T10:00:57.903312+00:00"
+    },
+    "https://www.scmp.com/business/china-evs/article/3352094/comeback-trail-can-foreign-marques-regain-lost-ground-amid-chinas-ev-revolution": {
+      "title": "재도약의 길: 중국의 전기차 혁명 속에서 외국 자동차 브랜드들은 잃었던 시장 점유율을 되찾을 수 있을까?",
+      "link": "https://www.scmp.com/business/china-evs/article/3352094/comeback-trail-can-foreign-marques-regain-lost-ground-amid-chinas-ev-revolution",
+      "source_name": "South China Morning Post Tech",
+      "country_code": "HK",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-05-02T10:00:57.903312+00:00",
+      "last_seen_at": "2026-05-02T10:00:57.903312+00:00"
     }
   }
 }
