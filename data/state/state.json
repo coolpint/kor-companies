@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-05-02T23:51:28.572969+00:00",
+  "last_run_at": "2026-05-03T10:09:45.699865+00:00",
   "seen_articles": {
     "https://asia.nikkei.com/opinion/bts-back-to-showbiz-group-s-agency-hybe-demands-closer-scrutiny": {
       "title": "BTS, 연예계 복귀: 소속사 하이브, 더욱 철저한 준비 요구",
@@ -9326,10 +9326,10 @@
         "Korean Air"
       ],
       "first_seen_at": "2026-05-02T10:00:57.903312+00:00",
-      "last_seen_at": "2026-05-02T23:51:28.572969+00:00"
+      "last_seen_at": "2026-05-03T10:09:45.699865+00:00"
     },
     "https://www.scmp.com/business/china-evs/article/3352094/comeback-trail-can-foreign-marques-regain-lost-ground-amid-chinas-ev-revolution": {
-      "title": "재도약의 길: 중국의 전기차 혁명 속에서 외국 자동차 브랜드들은 잃었던 시장 점유율을 되찾을 수 있을까?",
+      "title": "재도약의 길: 중국의 전기차 혁명 속에서 해외 자동차 브랜드들은 잃었던 시장 점유율을 되찾을 수 있을까?",
       "link": "https://www.scmp.com/business/china-evs/article/3352094/comeback-trail-can-foreign-marques-regain-lost-ground-amid-chinas-ev-revolution",
       "source_name": "South China Morning Post Tech",
       "country_code": "HK",
@@ -9337,7 +9337,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-05-02T10:00:57.903312+00:00",
-      "last_seen_at": "2026-05-02T23:51:28.572969+00:00"
+      "last_seen_at": "2026-05-03T10:09:45.699865+00:00"
     }
   }
 }
