@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-05-03T23:53:32.620936+00:00",
+  "last_run_at": "2026-05-04T11:08:00.517573+00:00",
   "seen_articles": {
     "https://asia.nikkei.com/opinion/bts-back-to-showbiz-group-s-agency-hybe-demands-closer-scrutiny": {
       "title": "BTS, 연예계 복귀: 소속사 하이브, 더욱 철저한 준비 요구",
@@ -9338,6 +9338,39 @@
       ],
       "first_seen_at": "2026-05-02T10:00:57.903312+00:00",
       "last_seen_at": "2026-05-03T10:09:45.699865+00:00"
+    },
+    "https://www.channelnewsasia.com/business/sk-hynix-shares-rally-13-after-us-tech-firms-signal-strong-ai-spending-plans-6098076": {
+      "title": "SK하이닉스 주가, 미국 기술 기업들의 강력한 AI 투자 계획 발표 후 13% 급등",
+      "link": "https://www.channelnewsasia.com/business/sk-hynix-shares-rally-13-after-us-tech-firms-signal-strong-ai-spending-plans-6098076",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-05-04T11:08:00.517573+00:00",
+      "last_seen_at": "2026-05-04T11:08:00.517573+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-appoints-new-tv-chief-amid-mounting-competition/articleshow/130743988.cms": {
+      "title": "삼성전자, 경쟁 심화 속 신임 TV 사업부 수장 임명",
+      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-appoints-new-tv-chief-amid-mounting-competition/articleshow/130743988.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-05-04T11:08:00.517573+00:00",
+      "last_seen_at": "2026-05-04T11:08:00.517573+00:00"
+    },
+    "https://www.channelnewsasia.com/business/samsung-electronics-appoints-new-tv-chief-amid-mounting-challenges-6097656": {
+      "title": "삼성전자, 도전 과제 심화 속 신임 TV 사업부 수장 임명",
+      "link": "https://www.channelnewsasia.com/business/samsung-electronics-appoints-new-tv-chief-amid-mounting-challenges-6097656",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-05-04T11:08:00.517573+00:00",
+      "last_seen_at": "2026-05-04T11:08:00.517573+00:00"
     }
   }
 }
