@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-05-04T23:58:19.933891+00:00",
+  "last_run_at": "2026-05-05T10:49:06.300683+00:00",
   "seen_articles": {
     "https://asia.nikkei.com/opinion/bts-back-to-showbiz-group-s-agency-hybe-demands-closer-scrutiny": {
       "title": "BTS, 연예계 복귀: 소속사 하이브, 더욱 철저한 준비 요구",
@@ -9371,6 +9371,62 @@
       ],
       "first_seen_at": "2026-05-04T11:08:00.517573+00:00",
       "last_seen_at": "2026-05-04T11:08:00.517573+00:00"
+    },
+    "https://www.scmp.com/tech/article/3352511/samsung-reshuffle-signals-shift-beyond-hardware-china-rivalry-intensifies": {
+      "title": "삼성의 조직 개편은 중국 시장 경쟁 심화 속에서 하드웨어 외 분야로의 전환을 예고합니다.",
+      "link": "https://www.scmp.com/tech/article/3352511/samsung-reshuffle-signals-shift-beyond-hardware-china-rivalry-intensifies",
+      "source_name": "South China Morning Post Tech",
+      "country_code": "HK",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-05-05T10:49:06.300683+00:00",
+      "last_seen_at": "2026-05-05T10:49:06.300683+00:00"
+    },
+    "https://www.scmp.com/news/china/military/article/3352500/can-south-koreas-most-advanced-fighter-kf-21-compete-china-us-and-europe": {
+      "title": "한국의 최첨단 전투기인 KF-21은 중국, 미국, 유럽의 전투기들과 경쟁할 수 있을까?",
+      "link": "https://www.scmp.com/news/china/military/article/3352500/can-south-koreas-most-advanced-fighter-kf-21-compete-china-us-and-europe",
+      "source_name": "South China Morning Post World",
+      "country_code": "HK",
+      "companies": [
+        "Korea Aerospace Industries"
+      ],
+      "first_seen_at": "2026-05-05T10:49:06.300683+00:00",
+      "last_seen_at": "2026-05-05T10:49:06.300683+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-board-chairman-urges-union-to-resolve-pay-disputes/articleshow/130822617.cms": {
+      "title": "삼성전자 이사장, 노조에 임금 분쟁 해결 촉구",
+      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-board-chairman-urges-union-to-resolve-pay-disputes/articleshow/130822617.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-05-05T10:49:06.300683+00:00",
+      "last_seen_at": "2026-05-05T10:49:06.300683+00:00"
+    },
+    "https://www.thehindubusinessline.com/economy/ac-makers-may-raise-prices-intex-plans-hike-as-costs-surge-demand-shifts-lower/article70936271.ece": {
+      "title": "에어컨 제조업체들이 가격을 인상할 수도 있다. 인텍스는 비용 급증과 수요 감소로 가격 인상을 계획하고 있다.",
+      "link": "https://www.thehindubusinessline.com/economy/ac-makers-may-raise-prices-intex-plans-hike-as-costs-surge-demand-shifts-lower/article70936271.ece",
+      "source_name": "BusinessLine Economy",
+      "country_code": "IN",
+      "companies": [
+        "Samsung Electronics",
+        "LG Electronics"
+      ],
+      "first_seen_at": "2026-05-05T10:49:06.300683+00:00",
+      "last_seen_at": "2026-05-05T10:49:06.300683+00:00"
+    },
+    "https://www.channelnewsasia.com/business/samsung-electronics-board-chairman-urges-union-resolve-pay-disputes-6100281": {
+      "title": "삼성전자 이사장, 노조에 임금 분쟁 해결 촉구",
+      "link": "https://www.channelnewsasia.com/business/samsung-electronics-board-chairman-urges-union-resolve-pay-disputes-6100281",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-05-05T10:49:06.300683+00:00",
+      "last_seen_at": "2026-05-05T10:49:06.300683+00:00"
     }
   }
 }
