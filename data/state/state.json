@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-05-07T11:11:30.332092+00:00",
+  "last_run_at": "2026-05-07T23:56:55.385214+00:00",
   "seen_articles": {
     "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-files-for-us-listing-to-fund-ai-chip-driven-expansion": {
       "title": "SK하이닉스, AI 칩 기반 확장을 위한 자금 조달 위해 미국 증시 상장 신청",
@@ -9547,7 +9547,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-05-07T11:11:30.332092+00:00",
-      "last_seen_at": "2026-05-07T11:11:30.332092+00:00"
+      "last_seen_at": "2026-05-07T23:56:55.385214+00:00"
     },
     "https://www.scmp.com/business/companies/article/3352690/samsung-halts-all-home-appliance-sales-china-pivot-ai-accelerates": {
       "title": "삼성은 인공지능(AI)으로의 전환을 가속화하기 위해 중국 내 모든 가전제품 판매를 중단했습니다.",
@@ -9558,7 +9558,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-05-07T11:11:30.332092+00:00",
-      "last_seen_at": "2026-05-07T11:11:30.332092+00:00"
+      "last_seen_at": "2026-05-07T23:56:55.385214+00:00"
     }
   }
 }
