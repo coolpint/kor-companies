@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-05-06T23:54:23.322341+00:00",
+  "last_run_at": "2026-05-07T11:11:30.332092+00:00",
   "seen_articles": {
-    "https://asia.nikkei.com/opinion/bts-back-to-showbiz-group-s-agency-hybe-demands-closer-scrutiny": {
-      "title": "BTS, 연예계 복귀: 소속사 하이브, 더욱 철저한 준비 요구",
-      "link": "https://asia.nikkei.com/opinion/bts-back-to-showbiz-group-s-agency-hybe-demands-closer-scrutiny",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "companies": [
-        "HYBE"
-      ],
-      "first_seen_at": "2026-03-20T23:34:20.292815+00:00",
-      "last_seen_at": "2026-03-23T10:06:54.325558+00:00"
-    },
     "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-files-for-us-listing-to-fund-ai-chip-driven-expansion": {
       "title": "SK하이닉스, AI 칩 기반 확장을 위한 자금 조달 위해 미국 증시 상장 신청",
       "link": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-files-for-us-listing-to-fund-ai-chip-driven-expansion",
@@ -9437,7 +9426,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-05-06T11:09:39.507461+00:00",
-      "last_seen_at": "2026-05-06T23:54:23.322341+00:00"
+      "last_seen_at": "2026-05-07T11:11:30.332092+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/hyundai-celebrates-30-years-in-india-a-commitment-to-future-mobility-and-innovation/articleshow/130849892.cms": {
       "title": "현대자동차는 인도 진출 30주년을 맞아 인도 시장에 대한 지속적인 지원을 재확인했습니다.",
@@ -9481,7 +9470,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-05-06T11:09:39.507461+00:00",
-      "last_seen_at": "2026-05-06T23:54:23.322341+00:00"
+      "last_seen_at": "2026-05-07T11:11:30.332092+00:00"
     },
     "https://www.straitstimes.com/world/hyundai-robot-performs-handstand-complex-gymnastics-moves": {
       "title": "현대 로봇, 물구나무서기 및 고난도 체조 동작 선보여",
@@ -9548,6 +9537,28 @@
       ],
       "first_seen_at": "2026-05-06T11:09:39.507461+00:00",
       "last_seen_at": "2026-05-06T11:09:39.507461+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-creta-revised-variant-launched-check-key-features-and-other-details/articleshow/130884963.cms": {
+      "title": "현대 크레타 개량형 모델 출시: 주요 특징 및 기타 세부 정보 확인하기",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-creta-revised-variant-launched-check-key-features-and-other-details/articleshow/130884963.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-05-07T11:11:30.332092+00:00",
+      "last_seen_at": "2026-05-07T11:11:30.332092+00:00"
+    },
+    "https://www.scmp.com/business/companies/article/3352690/samsung-halts-all-home-appliance-sales-china-pivot-ai-accelerates": {
+      "title": "삼성은 인공지능(AI)으로의 전환을 가속화하기 위해 중국 내 모든 가전제품 판매를 중단했습니다.",
+      "link": "https://www.scmp.com/business/companies/article/3352690/samsung-halts-all-home-appliance-sales-china-pivot-ai-accelerates",
+      "source_name": "South China Morning Post Tech",
+      "country_code": "HK",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-05-07T11:11:30.332092+00:00",
+      "last_seen_at": "2026-05-07T11:11:30.332092+00:00"
     }
   }
 }
