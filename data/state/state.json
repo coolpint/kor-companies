@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-05-07T23:56:55.385214+00:00",
+  "last_run_at": "2026-05-08T10:26:49.872760+00:00",
   "seen_articles": {
     "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-files-for-us-listing-to-fund-ai-chip-driven-expansion": {
       "title": "SK하이닉스, AI 칩 기반 확장을 위한 자금 조달 위해 미국 증시 상장 신청",
@@ -9558,7 +9558,40 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-05-07T11:11:30.332092+00:00",
-      "last_seen_at": "2026-05-07T23:56:55.385214+00:00"
+      "last_seen_at": "2026-05-08T10:26:49.872760+00:00"
+    },
+    "https://www.channelnewsasia.com/business/hyundai-motor-india-beats-quarterly-profit-view-strong-suv-demand-6109406": {
+      "title": "현대자동차 인도법인, SUV 수요 호조에 힘입어 분기 실적 전망치 상회",
+      "link": "https://www.channelnewsasia.com/business/hyundai-motor-india-beats-quarterly-profit-view-strong-suv-demand-6109406",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-05-08T10:26:49.872760+00:00",
+      "last_seen_at": "2026-05-08T10:26:49.872760+00:00"
+    },
+    "https://www.thehindubusinessline.com/markets/q4-results-today-live-updates-sbi-titan-abb-hyundai-bob-tata-consumer-mcx-swiggy-kalyan-jewellers-urban-company-bse-kvb-biocon-dabur-lupin-acme-cartrade-mrf-results-08-may-2026/article70953813.ece": {
+      "title": "오늘 발표될 4분기 실적: SBI 순이익 5.6% 증가, Titan, Kalyan Jewellers, Vedant Fashions 4분기 이익 전년 동기 대비 증가, ABB India, Hyundai, BoB, TCP, MCX, Swiggy, Urban Company, Niva Bupa도 4분기 실적 발표 예정",
+      "link": "https://www.thehindubusinessline.com/markets/q4-results-today-live-updates-sbi-titan-abb-hyundai-bob-tata-consumer-mcx-swiggy-kalyan-jewellers-urban-company-bse-kvb-biocon-dabur-lupin-acme-cartrade-mrf-results-08-may-2026/article70953813.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-05-08T10:26:49.872760+00:00",
+      "last_seen_at": "2026-05-08T10:26:49.872760+00:00"
+    },
+    "https://www.straitstimes.com/business/companies-markets/sk-hynix-flooded-with-unprecedented-offers-from-big-tech-firms-to-secure-chip-supplies": {
+      "title": "SK하이닉스는 반도체 공급 확보를 위해 대형 IT 기업들로부터 전례 없는 제안을 쏟아냈다.",
+      "link": "https://www.straitstimes.com/business/companies-markets/sk-hynix-flooded-with-unprecedented-offers-from-big-tech-firms-to-secure-chip-supplies",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-05-08T10:26:49.872760+00:00",
+      "last_seen_at": "2026-05-08T10:26:49.872760+00:00"
     }
   }
 }
