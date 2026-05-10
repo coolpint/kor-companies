@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-05-10T10:18:24.323148+00:00",
+  "last_run_at": "2026-05-10T23:56:51.343853+00:00",
   "seen_articles": {
-    "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-files-for-us-listing-to-fund-ai-chip-driven-expansion": {
-      "title": "SK하이닉스, AI 칩 기반 확장을 위한 자금 조달 위해 미국 증시 상장 신청",
-      "link": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-files-for-us-listing-to-fund-ai-chip-driven-expansion",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-03-25T23:40:16.070280+00:00",
-      "last_seen_at": "2026-03-26T23:37:34.824855+00:00"
-    },
     "https://asia.nikkei.com/business/automobiles/electric-vehicles/samsung-sdi-s-hungary-woes-cloud-pm-orban-s-reelection-bid": {
       "title": "삼성 SDI의 헝가리 사태가 오르반 총리의 재선 도전에 먹구름을 드리우고 있다.",
       "link": "https://asia.nikkei.com/business/automobiles/electric-vehicles/samsung-sdi-s-hungary-woes-cloud-pm-orban-s-reelection-bid",
@@ -23,17 +12,6 @@
       ],
       "first_seen_at": "2026-03-26T10:02:24.785578+00:00",
       "last_seen_at": "2026-03-27T09:58:02.849963+00:00"
-    },
-    "https://www.lemonde.fr/economie/article/2026/03/26/korean-air-confirme-l-achat-de-103-avions-boeing-le-plus-gros-contrat-de-l-histoire-de-l-aviation-sud-coreenne_6674391_3234.html": {
-      "title": "대한항공은 보잉 항공기 103대 구매 계약을 확정했으며, 이는 한국 항공 역사상 최대 규모의 계약이다.",
-      "link": "https://www.lemonde.fr/economie/article/2026/03/26/korean-air-confirme-l-achat-de-103-avions-boeing-le-plus-gros-contrat-de-l-histoire-de-l-aviation-sud-coreenne_6674391_3234.html",
-      "source_name": "Le Monde Economie",
-      "country_code": "FR",
-      "companies": [
-        "Korean Air"
-      ],
-      "first_seen_at": "2026-03-26T23:37:34.824855+00:00",
-      "last_seen_at": "2026-03-26T23:37:34.824855+00:00"
     },
     "https://www.theguardian.com/australia-news/2026/mar/31/melbourne-teen-girl-alleged-antisemitism-ntwnfb": {
       "title": "멜버른에 사는 13세 소녀가 유대인 가족들을 향해 반유대주의적 발언을 외치고 계란을 던지고 차를 몰고 돌진한 혐의를 받고 있다.",
@@ -9658,6 +9636,17 @@
       ],
       "first_seen_at": "2026-05-08T23:58:19.604671+00:00",
       "last_seen_at": "2026-05-09T10:10:12.058785+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/sk-hynix-flooded-with-unprecedented-offers-from-big-tech-firms-to-secure-chip-supplies/articleshow/130992487.cms": {
+      "title": "SK하이닉스는 반도체 공급 확보를 위해 대형 IT 기업들로부터 전례 없는 제안을 쏟아냈다.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-flooded-with-unprecedented-offers-from-big-tech-firms-to-secure-chip-supplies/articleshow/130992487.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-05-10T23:56:51.343853+00:00",
+      "last_seen_at": "2026-05-10T23:56:51.343853+00:00"
     }
   }
 }
