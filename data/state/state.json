@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-05-12T00:01:58.998025+00:00",
+  "last_run_at": "2026-05-12T11:23:33.464590+00:00",
   "seen_articles": {
     "https://www.theguardian.com/australia-news/2026/mar/31/melbourne-teen-girl-alleged-antisemitism-ntwnfb": {
       "title": "멜버른에 사는 13세 소녀가 유대인 가족들을 향해 반유대주의적 발언을 외치고 계란을 던지고 차를 몰고 돌진한 혐의를 받고 있다.",
@@ -9647,6 +9647,17 @@
       ],
       "first_seen_at": "2026-05-11T12:14:40.227227+00:00",
       "last_seen_at": "2026-05-11T12:14:40.227227+00:00"
+    },
+    "https://www.ft.com/content/fefa0641-7fb0-4d78-81c8-0180f1b618ed": {
+      "title": "대통령 고문은 한국인 전원에게 AI 보너스를 지급해야 한다고 주장했습니다.",
+      "link": "https://www.ft.com/content/fefa0641-7fb0-4d78-81c8-0180f1b618ed",
+      "source_name": "Financial Times Companies",
+      "country_code": "GB",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-05-12T11:23:33.464590+00:00",
+      "last_seen_at": "2026-05-12T11:23:33.464590+00:00"
     }
   }
 }
