@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-05-12T11:23:33.464590+00:00",
+  "last_run_at": "2026-05-13T00:04:23.408401+00:00",
   "seen_articles": {
     "https://www.theguardian.com/australia-news/2026/mar/31/melbourne-teen-girl-alleged-antisemitism-ntwnfb": {
       "title": "멜버른에 사는 13세 소녀가 유대인 가족들을 향해 반유대주의적 발언을 외치고 계란을 던지고 차를 몰고 돌진한 혐의를 받고 있다.",
@@ -9658,6 +9658,51 @@
       ],
       "first_seen_at": "2026-05-12T11:23:33.464590+00:00",
       "last_seen_at": "2026-05-12T11:23:33.464590+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/information-tech/samsung-electronics-labour-union-fail-to-reach-pay-deal-as-strike-looms/articleshow/131048860.cms": {
+      "title": "삼성전자와 노동조합, 임금 협상 결렬…파업 임박",
+      "link": "https://economictimes.indiatimes.com/tech/information-tech/samsung-electronics-labour-union-fail-to-reach-pay-deal-as-strike-looms/articleshow/131048860.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-05-13T00:04:23.408401+00:00",
+      "last_seen_at": "2026-05-13T00:04:23.408401+00:00"
+    },
+    "https://www.channelnewsasia.com/business/samsung-electronics-s-korean-labor-union-fail-reach-pay-deal-strike-looms-6116676": {
+      "title": "삼성전자와 한국 노동조합, 임금 협상 결렬…파업 임박",
+      "link": "https://www.channelnewsasia.com/business/samsung-electronics-s-korean-labor-union-fail-reach-pay-deal-strike-looms-6116676",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-05-13T00:04:23.408401+00:00",
+      "last_seen_at": "2026-05-13T00:04:23.408401+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/media/entertainment/media/hybe-india-launches-snapchat-based-auditions-for-global-girl-group/articleshow/131044170.cms": {
+      "title": "HYBE India, 글로벌 걸그룹 선발을 위한 스냅챗 기반 오디션 시작",
+      "link": "https://economictimes.indiatimes.com/industry/media/entertainment/media/hybe-india-launches-snapchat-based-auditions-for-global-girl-group/articleshow/131044170.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "HYBE"
+      ],
+      "first_seen_at": "2026-05-13T00:04:23.408401+00:00",
+      "last_seen_at": "2026-05-13T00:04:23.408401+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/south-korea-official-floats-ai-profit-social-tax-as-tech-giants-boom/articleshow/131037926.cms": {
+      "title": "한국 정부 관계자, IT 대기업 호황에 힘입어 AI 수익에 대한 사회세 도입 방안 제시",
+      "link": "https://economictimes.indiatimes.com/tech/technology/south-korea-official-floats-ai-profit-social-tax-as-tech-giants-boom/articleshow/131037926.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Samsung Electronics",
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-05-13T00:04:23.408401+00:00",
+      "last_seen_at": "2026-05-13T00:04:23.408401+00:00"
     }
   }
 }
