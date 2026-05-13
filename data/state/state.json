@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-05-13T00:04:23.408401+00:00",
+  "last_run_at": "2026-05-13T11:32:15.226554+00:00",
   "seen_articles": {
     "https://www.theguardian.com/australia-news/2026/mar/31/melbourne-teen-girl-alleged-antisemitism-ntwnfb": {
       "title": "멜버른에 사는 13세 소녀가 유대인 가족들을 향해 반유대주의적 발언을 외치고 계란을 던지고 차를 몰고 돌진한 혐의를 받고 있다.",
@@ -9668,7 +9668,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-05-13T00:04:23.408401+00:00",
-      "last_seen_at": "2026-05-13T00:04:23.408401+00:00"
+      "last_seen_at": "2026-05-13T11:32:15.226554+00:00"
     },
     "https://www.channelnewsasia.com/business/samsung-electronics-s-korean-labor-union-fail-reach-pay-deal-strike-looms-6116676": {
       "title": "삼성전자와 한국 노동조합, 임금 협상 결렬…파업 임박",
@@ -9703,6 +9703,39 @@
       ],
       "first_seen_at": "2026-05-13T00:04:23.408401+00:00",
       "last_seen_at": "2026-05-13T00:04:23.408401+00:00"
+    },
+    "http://www3.nhk.or.jp/news/html/20260513/k10015120501000.html": {
+      "title": "한국 삼성전자 노사협상 결렬로 파업 가능성도 영향 우려의 목소리",
+      "link": "http://www3.nhk.or.jp/news/html/20260513/k10015120501000.html",
+      "source_name": "NHK International",
+      "country_code": "JP",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-05-13T11:32:15.226554+00:00",
+      "last_seen_at": "2026-05-13T11:32:15.226554+00:00"
+    },
+    "https://www.cnbc.com/2026/05/13/samsung-electronics-pares-66-billion-rout-as-seoul-moves-to-calm-strike-fears-involving-41000-workers.html": {
+      "title": "삼성전자, 서울시의 파업 우려 진정 조치에 힘입어 장중 660억 달러 급락세 만회",
+      "link": "https://www.cnbc.com/2026/05/13/samsung-electronics-pares-66-billion-rout-as-seoul-moves-to-calm-strike-fears-involving-41000-workers.html",
+      "source_name": "CNBC World News",
+      "country_code": "US",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-05-13T11:32:15.226554+00:00",
+      "last_seen_at": "2026-05-13T11:32:15.226554+00:00"
+    },
+    "https://www.straitstimes.com/business/companies-markets/samsung-labour-union-fail-to-reach-pay-deal-strike-looms": {
+      "title": "삼성전자, 노조와 합의 실패…총리, 파업 반드시 막아야 한다고 강조",
+      "link": "https://www.straitstimes.com/business/companies-markets/samsung-labour-union-fail-to-reach-pay-deal-strike-looms",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-05-13T11:32:15.226554+00:00",
+      "last_seen_at": "2026-05-13T11:32:15.226554+00:00"
     }
   }
 }
