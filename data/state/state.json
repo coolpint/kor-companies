@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-05-15T11:23:50.376640+00:00",
+  "last_run_at": "2026-05-15T23:57:15.853795+00:00",
   "seen_articles": {
     "https://www.bbc.com/news/articles/c5yvg42kr21o": {
       "title": "유가 급등에 대한항공, 비상 조치 취해",
@@ -9813,7 +9813,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-05-15T00:00:19.942200+00:00",
-      "last_seen_at": "2026-05-15T11:23:50.376640+00:00"
+      "last_seen_at": "2026-05-15T23:57:15.853795+00:00"
     },
     "https://www.straitstimes.com/business/companies-markets/samsung-union-sticks-to-strike-plan-after-talks-offer-shares-slide": {
       "title": "삼성전자 노조, 협상 제안에도 불구하고 파업 고수… 주가 하락",
@@ -9824,7 +9824,18 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-05-15T11:23:50.376640+00:00",
-      "last_seen_at": "2026-05-15T11:23:50.376640+00:00"
+      "last_seen_at": "2026-05-15T23:57:15.853795+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/information-tech/at-samsung-the-global-ai-boom-spurred-a-looming-strike-and-deep-divisions/articleshow/131120351.cms": {
+      "title": "삼성에서는 전 세계적인 AI 붐이 임박한 파업과 심각한 내부 갈등을 촉발시켰습니다.",
+      "link": "https://economictimes.indiatimes.com/tech/information-tech/at-samsung-the-global-ai-boom-spurred-a-looming-strike-and-deep-divisions/articleshow/131120351.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-05-15T23:57:15.853795+00:00",
+      "last_seen_at": "2026-05-15T23:57:15.853795+00:00"
     }
   }
 }
