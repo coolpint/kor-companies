@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-05-15T00:00:19.942200+00:00",
+  "last_run_at": "2026-05-15T11:23:50.376640+00:00",
   "seen_articles": {
-    "https://www.theguardian.com/australia-news/2026/mar/31/melbourne-teen-girl-alleged-antisemitism-ntwnfb": {
-      "title": "멜버른에 사는 13세 소녀가 유대인 가족들을 향해 반유대주의적 발언을 외치고 계란을 던지고 차를 몰고 돌진한 혐의를 받고 있다.",
-      "link": "https://www.theguardian.com/australia-news/2026/mar/31/melbourne-teen-girl-alleged-antisemitism-ntwnfb",
-      "source_name": "The Guardian World",
-      "country_code": "GB",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-03-31T10:08:56.067622+00:00",
-      "last_seen_at": "2026-03-31T10:08:56.067622+00:00"
-    },
     "https://www.bbc.com/news/articles/c5yvg42kr21o": {
       "title": "유가 급등에 대한항공, 비상 조치 취해",
       "link": "https://www.bbc.com/news/articles/c5yvg42kr21o",
@@ -9768,7 +9757,7 @@
         "Krafton"
       ],
       "first_seen_at": "2026-05-14T11:16:59.093578+00:00",
-      "last_seen_at": "2026-05-15T00:00:19.942200+00:00"
+      "last_seen_at": "2026-05-15T11:23:50.376640+00:00"
     },
     "https://www.cnbc.com/2026/05/14/bts-world-cup-halftime-show-headline-shakira-madonna-hybe.html": {
       "title": "BTS, 마돈나, 샤키라와 함께 월드컵 결승전 하프타임 쇼 헤드라이너로 확정; Hybe 주가 7.2% 상승",
@@ -9791,7 +9780,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-05-14T11:16:59.093578+00:00",
-      "last_seen_at": "2026-05-15T00:00:19.942200+00:00"
+      "last_seen_at": "2026-05-15T11:23:50.376640+00:00"
     },
     "http://www3.nhk.or.jp/news/html/20260514/k10015121511000.html": {
       "title": "대한항공 2026년 12월 아시아나항공과 합병 완료",
@@ -9802,7 +9791,7 @@
         "Korean Air"
       ],
       "first_seen_at": "2026-05-14T11:16:59.093578+00:00",
-      "last_seen_at": "2026-05-15T00:00:19.942200+00:00"
+      "last_seen_at": "2026-05-15T11:23:50.376640+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-urges-union-to-resume-talks-as-strike-threat-looms/articleshow/131081979.cms": {
       "title": "삼성전자, 파업 위협 확산에 따라 노조에 협상 재개 촉구",
@@ -9813,7 +9802,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-05-14T11:16:59.093578+00:00",
-      "last_seen_at": "2026-05-15T00:00:19.942200+00:00"
+      "last_seen_at": "2026-05-15T11:23:50.376640+00:00"
     },
     "https://www.thehindubusinessline.com/news/cars-2-3-wheelers-swerve-past-price-hikes-in-april-touch-record-sales/article70979622.ece": {
       "title": "4월 자동차, 이륜차, 삼륜차 가격 인상 없이 사상 최고 판매량 기록",
@@ -9824,7 +9813,18 @@
         "Kia"
       ],
       "first_seen_at": "2026-05-15T00:00:19.942200+00:00",
-      "last_seen_at": "2026-05-15T00:00:19.942200+00:00"
+      "last_seen_at": "2026-05-15T11:23:50.376640+00:00"
+    },
+    "https://www.straitstimes.com/business/companies-markets/samsung-union-sticks-to-strike-plan-after-talks-offer-shares-slide": {
+      "title": "삼성전자 노조, 협상 제안에도 불구하고 파업 고수… 주가 하락",
+      "link": "https://www.straitstimes.com/business/companies-markets/samsung-union-sticks-to-strike-plan-after-talks-offer-shares-slide",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-05-15T11:23:50.376640+00:00",
+      "last_seen_at": "2026-05-15T11:23:50.376640+00:00"
     }
   }
 }
