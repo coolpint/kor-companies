@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-05-15T23:57:15.853795+00:00",
+  "last_run_at": "2026-05-16T10:19:19.711535+00:00",
   "seen_articles": {
-    "https://www.bbc.com/news/articles/c5yvg42kr21o": {
-      "title": "유가 급등에 대한항공, 비상 조치 취해",
-      "link": "https://www.bbc.com/news/articles/c5yvg42kr21o",
-      "source_name": "BBC Business",
-      "country_code": "GB",
-      "companies": [
-        "Korean Air"
-      ],
-      "first_seen_at": "2026-03-31T10:08:56.067622+00:00",
-      "last_seen_at": "2026-04-01T10:09:41.251357+00:00"
-    },
     "https://www.nytimes.com/2026/04/01/business/gm-toyota-hyundai-honda-sales.html": {
       "title": "GM, 전쟁과 높은 가격 속에 자동차 판매량 급감 발표",
       "link": "https://www.nytimes.com/2026/04/01/business/gm-toyota-hyundai-honda-sales.html",
@@ -9824,7 +9813,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-05-15T11:23:50.376640+00:00",
-      "last_seen_at": "2026-05-15T23:57:15.853795+00:00"
+      "last_seen_at": "2026-05-16T10:19:19.711535+00:00"
     },
     "https://economictimes.indiatimes.com/tech/information-tech/at-samsung-the-global-ai-boom-spurred-a-looming-strike-and-deep-divisions/articleshow/131120351.cms": {
       "title": "삼성에서는 전 세계적인 AI 붐이 임박한 파업과 심각한 내부 갈등을 촉발시켰습니다.",
@@ -9835,7 +9824,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-05-15T23:57:15.853795+00:00",
-      "last_seen_at": "2026-05-15T23:57:15.853795+00:00"
+      "last_seen_at": "2026-05-16T10:19:19.711535+00:00"
     }
   }
 }
