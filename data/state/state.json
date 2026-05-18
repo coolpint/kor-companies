@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-05-17T10:24:42.018147+00:00",
+  "last_run_at": "2026-05-18T00:00:54.265282+00:00",
   "seen_articles": {
-    "https://www.nytimes.com/2026/04/01/business/gm-toyota-hyundai-honda-sales.html": {
-      "title": "GM, 전쟁과 높은 가격 속에 자동차 판매량 급감 발표",
-      "link": "https://www.nytimes.com/2026/04/01/business/gm-toyota-hyundai-honda-sales.html",
-      "source_name": "The New York Times Business",
-      "country_code": "US",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-04-01T23:40:39.137204+00:00",
-      "last_seen_at": "2026-04-02T23:40:10.988722+00:00"
-    },
     "https://www.theguardian.com/games/2026/apr/03/lush-super-mario-galaxy-range-reviewed": {
       "title": "'나는 비디오 게임 브랜드 화장품의 달콤한 향기에 푹 빠져버렸어': 러쉬의 마리오 갤럭시 라인 리뷰",
       "link": "https://www.theguardian.com/games/2026/apr/03/lush-super-mario-galaxy-range-reviewed",
@@ -9835,7 +9824,18 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-05-17T10:24:42.018147+00:00",
-      "last_seen_at": "2026-05-17T10:24:42.018147+00:00"
+      "last_seen_at": "2026-05-18T00:00:54.265282+00:00"
+    },
+    "https://www.scmp.com/news/asia/east-asia/article/3353897/south-korea-weighs-arbitration-avoid-samsung-semiconductor-plant-strike": {
+      "title": "한국 정부는 삼성 반도체 공장 파업을 막기 위해 중재 방안을 검토하고 있다.",
+      "link": "https://www.scmp.com/news/asia/east-asia/article/3353897/south-korea-weighs-arbitration-avoid-samsung-semiconductor-plant-strike",
+      "source_name": "South China Morning Post World",
+      "country_code": "HK",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-05-18T00:00:54.265282+00:00",
+      "last_seen_at": "2026-05-18T00:00:54.265282+00:00"
     }
   }
 }
