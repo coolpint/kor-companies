@@ -1,139 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-05-19T00:12:32.167537+00:00",
+  "last_run_at": "2026-05-19T12:13:18.066060+00:00",
   "seen_articles": {
-    "https://www.musicman.co.jp\nhybe、インドでガールズグループのオーディション開催\ngoogle_news": {
-      "title": "HYBE, 인도에서 걸그룹 오디션 개최",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BZml2bm43M0RKNXM0Tjd6RkRJTFUwUmV2SGpMQkhCN2xNUFBtVUhqRHFzY0FIQXZjSEdJYTR0Z0tMQkVaOU5oT0VnU0xOVWxORld1WA?oc=5",
-      "source_name": "音楽業界総合情報サイト",
-      "country_code": "JP",
-      "companies": [
-        "HYBE"
-      ],
-      "first_seen_at": "2026-04-03T09:22:03.495835+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
-    },
-    "https://www.media.stellantis.com\nstellantis and lg energy solution to form joint venture for lithium-ion battery production in north america\ngoogle_news": {
-      "title": "스텔란티스와 LG에너지솔루션, 북미 지역 리튬이온 배터리 생산을 위한 합작회사 설립",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPWk5kU2xrVzBxbElYRS12MV9QZTFIeWJZSzFOODRyY0xvS1NkYkdIWlpFUFU4R3V3MUFONHN6MWZpQk94djd2azNBZXA3WVVXV2VuOElHdk9CX3k0UDFvLUZRYnlWMTFYYTVRVEQ2SUpBOUpYNzVSYnVwOENpaG9pRjBLNjh3OVBtY2ZZaWFRLXItX0VDNm9WVm51Rkg2S1lyRWJPdXl6SENTd0FOcHppeWJlTF9uc2lHdkdtTXl5RVBFUFZqazluajRKbnluWkRRcTN3YVU0bk51c1hMRlJQWExGVFFfNHFsYlNvd0cwQkJ4SmxuamhibXFIZUs2U2RldUhB?oc=5",
-      "source_name": "media.stellantis.com",
-      "country_code": "US",
-      "companies": [
-        "LG Energy Solution"
-      ],
-      "first_seen_at": "2026-04-03T09:22:03.495835+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
-    },
-    "https://www.marketscreener.com\ndoosan enerbility : investor ndr presentation ('26.04.03)\ngoogle_news": {
-      "title": "두산에너지: 투자자 대상 신재생에너지 보고서 발표 (2003년 4월 26일)",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbW5UbzM0R1ZFQTV2SFgyUUdsN1BmazViaEVXaEFXcjV0TG8yeWZiNVB5WlpUNGV3WkVZRzJZMDA1STRRak4xOE1rLTIxbS1XOHhNUXBXYVJtVzZXcGhZamlIQTdHS3pNWWZZYUFvTzVaOGZhbTZ2UjVqOUlGWjk2NGtWeGtIdEltZE11YWRmMHo3b1RwcjF2MGk3WHpKUkIyMnF0ZmhHQ0g?oc=5",
-      "source_name": "MarketScreener",
-      "country_code": "US",
-      "companies": [
-        "Doosan Enerbility"
-      ],
-      "first_seen_at": "2026-04-03T09:22:03.495835+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
-    },
-    "https://letsdatascience.com\nkorean air signs mou for orbital transfer services\ngoogle_news": {
-      "title": "대한항공, 궤도 이동 서비스 관련 양해각서 체결",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcl81WllQZ0x4bmw4LU9UOHFUemRoc01YVVBCUmgwV1FNckRleGIwTnlWR1lFOWRQOTZ5aWlqU21MZzhSYjdlZ1hLWnJNQVV0TG1wdFlHaElUZDBsaU9seEdjVzZ6cmNZbzRVLU1iMTFPN01ORU9LQ291bXlIbG91NUEyYmoxUDl2S1BzckRyQWdpemFQZ2pV?oc=5",
-      "source_name": "Let's Data Science",
-      "country_code": "US",
-      "companies": [
-        "Korean Air"
-      ],
-      "first_seen_at": "2026-04-03T09:22:03.495835+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
-    },
-    "https://www.saostar.vn\nchủ tịch hybe bang si hyuk đối mặt điều tra mở rộng, khả năng nhận án nặng\ngoogle_news": {
-      "title": "HYBE 회장 방시혁이 수사 확대와 중형 선고 가능성에 직면해 있다.",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRjhkWEhDeUVINllnemtZdDZUWjczZjNIeENpVkROZ1JzV180VHd5YThuTkFWZEhYZk5jZXVjeWE2eWFkVm96VGIybjFpNEstdDlGRTRNY2pCMVlVQ24wQWlWY3BxT2p2aTVrVUtCMHVJa0JZamo0SDl5Z1BBeXJqQWk2TjdzRzBNbHQ2azItcWF1elRrVFYxcHlPUDFqbkRNRnNVQ0RKZE5URmpKMlNUY1FSem5vOWhBVXkzTU00MmM?oc=5",
-      "source_name": "Tạp chí Saostar",
-      "country_code": "VN",
-      "companies": [
-        "HYBE"
-      ],
-      "first_seen_at": "2026-04-03T09:22:03.495835+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
-    },
-    "https://www.designboom.com\nblooming graphics and floral installations take over shinsegae department store for spring\ngoogle_news": {
-      "title": "봄을 맞아 신세계 백화점은 화려한 그래픽과 꽃 장식으로 가득 채워졌습니다.",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX045N3RwM2tXa3h0OXZXN0pFclltSHljOUJoc1JvM1FqazNMRkpQNW5vWDlFeS1uMnQ2WEstRjlVTGkyY29JT0tadmtMRUVsWmRqS25YQ0xPM1F0c1JfTFoxQmwzZE9IeGtZMWJXYnlmUTk3SEFZYVRvdkVhcVpiSnZmS2luZ01RVlI4cW1oUmhlckN6cnU3bEExVUw1b0hUcTRMcy1lOHoycjl0SFZHckhUWmtEMjJDUWVWRWRnMnBMWFk?oc=5",
-      "source_name": "Designboom",
-      "country_code": "US",
-      "companies": [
-        "Shinsegae"
-      ],
-      "first_seen_at": "2026-04-03T09:22:03.495835+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
-    },
-    "https://www.tatlerasia.com\nkorean air remporte le prix du “meilleur menu à bord au monde” pour la 3e année consécutive\ngoogle_news": {
-      "title": "대한항공이 3년 연속 '세계 최고의 기내식' 상을 수상했습니다.",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ01rV2RXOVo5V0xUU2NrWHNlSUlGRjNnczV0akYyMU1FSTRyNlMxTU1FeG5faThES294eGZQQVlnOVktRU1qWEE5ajBCS1gyVC12TGl1N1ctSXVLV2tHMDhqdzM3akZuRmFhbHVCOHAyZUNhR3lBQ1JmcG9sVHJ5S3dWN0Q2QU1kejVR?oc=5",
-      "source_name": "Tatler Asia",
-      "country_code": "FR",
-      "companies": [
-        "Korean Air"
-      ],
-      "first_seen_at": "2026-04-03T09:22:03.495835+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
-    },
-    "https://letsdatascience.com\nlg energy solution joins sdverse for automotive software\ngoogle_news": {
-      "title": "LG에너지 솔루션, 자동차 소프트웨어 부문 SDVerse에 합류",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUHJIQW5kUFVOUExVR2J0SUk1cEVJQk00U0g3M1VIZGxReHlQbFdmdjhQdEJRWUc1WlZJdjBBSWIxWFdSa3FEb2JrVlBGUkluX3M2UWZEVDRMaWswTTU3d0tEWVYzVG1HQmJGVkFrZzVYSHpMZTFybk5hdnU1R2V1NTFUUXpiWWZ3N2FVNFh0SUlaYXViUHVKbXdEd3VfWVU?oc=5",
-      "source_name": "Let's Data Science",
-      "country_code": "US",
-      "companies": [
-        "LG Energy Solution"
-      ],
-      "first_seen_at": "2026-04-03T09:22:03.495835+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
-    },
-    "https://www.presse-citron.net\nkia ev2 : 453 km d’autonomie, équipement royal et prix canon pour ridiculiser la renault 4\ngoogle_news": {
-      "title": "기아 EV2: 453km 주행거리, 최고급 사양, 그리고 파격적인 가격으로 르노 4를 우스꽝스럽게 보이게 만든다",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZWxEbTBkX0hSQlpKWjQ1NUluV1RzNlowSE9PdUl2VnJ4RnhVcTF5TXZlV0FEMkhKb2p0Sl9QcW1fLXNPV1NZc1d0aDhhQklNc000OGtSeUExcGlQaUlkeGVqZERsMjB4bjFtYzhXYmw0YXhfbGZSdFdDMUhQZXE0SHM5dnNtWmgwbnNXR3hpYjA2U2QyblFPaEJFMU5qSTB0NWxRXzVtbmk4bjlPTW1tcXcxUkwya3pn?oc=5",
-      "source_name": "Presse-citron",
-      "country_code": "FR",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-03T09:22:03.495835+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
-    },
-    "https://moodiedavittreport.com\nculture, content & commerce converge as shinsegae duty free fuses global sensation kpop demon hunters with k-beauty brand anua\ngoogle_news": {
-      "title": "문화, 콘텐츠, 그리고 상업이 융합되는 신세계 면세점의 K팝 인기 애니메이션 '귀멸의 칼날'과 K뷰티 브랜드 아누아의 콜라보레이션이 화룡점정을 이룬다.",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWmljTTN5V2hYbHhvNzhrV1A3TlBUVWxya084UndDMUxMNWM1UXVNV1c2and5bXNUanpDb2JCMXhMaUhXemcwYnJxWnF1WlcyVU5kNkc4ZXNmUkwybF9fRENUVU9PVzI2Z1JxTGNldmlZT2VjRTliNGdudmpZQXhBXzVkTFhGWXBDWUFra2dNaGZjRktqLTBlVXE2bHlHMU4tZUtzdWZaek11amFPNmdaV2tXaVNIR3NXQTVmNDJHNk5SQ3BRMUNxVWU5XzZyeW8tc01LblBBbEhUUGU4RnowcFZBZE9teEp0OVhV?oc=5",
-      "source_name": "Moodie Davitt Report",
-      "country_code": "US",
-      "companies": [
-        "Shinsegae"
-      ],
-      "first_seen_at": "2026-04-03T09:22:03.495835+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
-    },
-    "https://www.ad-hoc-news.de\nlotte chemical corp aktie: was anleger jetzt wissen sollten\ngoogle_news": {
-      "title": "롯데케미칼 주식: 투자자들이 지금 알아야 할 사항",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOVVTSV9ObFZ4Q3NEX3pFMUFrY1ZkVTNkWGlzMUZ1Ty1aWWhzRW1SRFFXUXp1dGtfM1loMDVUaXEwSnN6VUtmZ0Y3b09xc2ZoRWtNRHlhNEtjbVNQQkhPaFVLSUNrRENQWFBqRUM3VDFXby1vY2hiSjNKSU05ZkFYcm5VY2t1Szczc0xRWDlzNHYyalVRM1BRZm5YMlBxQU5VOGdkVnBiREh5T05ZdFFzWVU3bHZtUWJO?oc=5",
-      "source_name": "AD HOC NEWS",
-      "country_code": "DE",
-      "companies": [
-        "Lotte Chemical"
-      ],
-      "first_seen_at": "2026-04-03T09:22:03.495835+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
-    },
-    "https://www.globalcosmeticsnews.com\namorepacific partners with viol medical to expand beauty-tech innovation\ngoogle_news": {
-      "title": "아모레퍼시픽, 비올메디컬과 파트너십 체결로 뷰티테크 혁신 확대",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTmlaXzg4djJDUS1ucTN0aXE4V1dSY2dERGwwSTlfc25KbUZ4dHFlN2ZCckxoejM5UVh6UlpUTEM3dnhlOVJyM1I4T2dNbENrbC1hc3daaGRYWGRuUmtlcEpqRW80SjAxcUpZSlVQYmJiU3NyYVc0NHl4ZjV3RlhObjNpcUgzejNSQU9WNmUtR2tnZjNzZ3FERGVVMGloR01IN3dDN2FRQVd5SmpTUUE?oc=5",
-      "source_name": "Global Cosmetics News",
-      "country_code": "US",
-      "companies": [
-        "Amorepacific"
-      ],
-      "first_seen_at": "2026-04-03T09:22:03.495835+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
-    },
     "https://www.motor1.com\nkia is already smashing sales records in 2026\ngoogle_news": {
       "title": "기아는 이미 2026년 판매 기록을 경신하고 있습니다.",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA1WjktN0o2TEM1eWNmZW1Vb2s1VG5LdG9ST2NBeWhFRVNzekJMalROd0toQU4zN3J5TDNWWWlTWE80bWNJc2M4M1E1QnJZUklSN3dmMHJjYUJieU1ZTWVhbkxxOWR2cTZ3N3A4VjlsYU5xVDdjQkkzWmh1NVlKdw?oc=5",
@@ -144,84 +12,6 @@
       ],
       "first_seen_at": "2026-04-03T09:22:03.495835+00:00",
       "last_seen_at": "2026-04-06T23:40:47.429334+00:00"
-    },
-    "https://www.digitimes.com\nlg energy solution reportedly adopts new battery method for tesla\ngoogle_news": {
-      "title": "LG에너지솔루션이 테슬라에 새로운 배터리 방식을 적용한 것으로 알려졌다.",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS25iRlJ2VXlJT2hHbFR4bUM1TjdDTmItaWJpZUJmTTFNUWlPbjBIWUk5VWxLMGdqY3lPTmpmdFNBcmlualdsQjJHVFNPb3N4T1hXQmVKSWlNRmtsU1daSklFRkhaUUpvT2FtNU52VmxYUVVienBqLXQ1ZnBsQm51UldyUmJERG9LWTRJaU5qZExCOWMyWEk3QTg3QW4?oc=5",
-      "source_name": "digitimes",
-      "country_code": "US",
-      "companies": [
-        "LG Energy Solution"
-      ],
-      "first_seen_at": "2026-04-03T09:22:03.495835+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
-    },
-    "https://www.suedkurier.de\nfür badener besonders schwer: wie spricht man kakao richtig aus?\ngoogle_news": {
-      "title": "특히 바덴 출신 사람들에게 어려운 점은 \"카카오\"를 어떻게 정확하게 발음하느냐는 것입니다.",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUmVIRVl6MUpkdEY2TU9Md3JTTFZaR29yd3lwczNFNFR2NmhuU2NSUXRHbXk4MW44YkI3RXI1QkxLWl9SWjY5QUFab2xDd0czdXVQQTJwLTN3eFZ4Nm4wczFocmNtOUplY3Q5cmR6aFV2T09ZRVAweTVqb25LRUFSbU9xWlZFb253QVE0SXVXZTVsWGJiZUxBQ2tpVEJmVi05Wm1YM0JpZ1c2UmZXUVdUOFVDUW54RGZwN0lmRHUyQ2x4VWVkVXpiVG9XaGU?oc=5",
-      "source_name": "suedkurier.de",
-      "country_code": "DE",
-      "companies": [
-        "Kakao"
-      ],
-      "first_seen_at": "2026-04-03T09:22:03.495835+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
-    },
-    "https://www.boerse.de\ncoupang a-aktie unter 50-tage-linie\ngoogle_news": {
-      "title": "쿠팡 A주가가 50일 이동평균선 아래에 있습니다.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVTg0Y0dFNEhzaEkzd0VpMzBUWHB4dElMT3hMWnZZd0JXS3MtRTFBQk9zbzlBdmdESzh0NnVrb2JfN3hiSUQ4QWltNFJUY0NKd2pwMmEtaDdaT2g5ZVQyUzdxMmRuNC1qNTFHeFUzZjl1cW1Mc3ZwSWwyNDYwX0NMelhmNG0?oc=5",
-      "source_name": "boerse.de",
-      "country_code": "DE",
-      "companies": [
-        "Coupang"
-      ],
-      "first_seen_at": "2026-04-03T09:22:03.495835+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
-    },
-    "https://de.marketscreener.com\nhd hyundai heavy industries sichert sich auftrag über 239 milliarden won\ngoogle_news": {
-      "title": "현대중공업, 2,390억 원 규모 수주 확보",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZHVkdmYtTkhXdDJGZVJLZ3hsOXU1a2tSR3Vod3RVaWFpTTJrZUdmRG91ODFBdnFSMGpheHlrdmhyQjNmbGtMRUhKTkc3dUk4VTcwck1uZ2Zmd2hrZkVzNEdCUmdxMGR0cnNxQ201VWpXWXhhak9xRjNVSkxxbzN3dGhGVWJWUE04NTNZQ2NkNm5UaHpQZHBDNklpTXBoaWNJX2NYeS1jeFUtSnl2T25US21PYWtSbk1XclZFemZWbF9pTVlrYVdSZ2U1WDBwZEtmcXBpeFdB?oc=5",
-      "source_name": "MarketScreener Deutschland",
-      "country_code": "DE",
-      "companies": [
-        "Hyundai Motor",
-        "HD Hyundai"
-      ],
-      "first_seen_at": "2026-04-03T09:22:03.495835+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
-    },
-    "https://maritime-executive.com\nsamsung heavy industries participates in its first u.s. navy masga project\ngoogle_news": {
-      "title": "삼성중공업, 미국 해군 MASGA 사업에 첫 참여",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONW5vazBseUlBNnBjdFRIY2FEaGVGUHozZEppQ2FKTG5EZTF4akhNa3pRZWFUenBVaXBxeVhhd3puWjBhVEt1ekt0TlVaaEJSVDlfd2hTbnA5NjdDdzhJOEttQjNRZlNDeVVZZURVY19DeDd5blU2OTAxNjZjY3dqSDd5QXg0M1ZveXlnUTlNbGNfdFEtejBSYm00ZjdmVzNTQ3lPYUlLSVN0VktVUHhlUlhR?oc=5",
-      "source_name": "The Maritime Executive",
-      "country_code": "US",
-      "companies": [
-        "Samsung Heavy Industries"
-      ],
-      "first_seen_at": "2026-04-03T09:22:03.495835+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
-    },
-    "https://www.spglobal.com\nkorea zinc launches crucible zinc to build us critical metals smelter\ngoogle_news": {
-      "title": "한국아연, 미국 내 핵심 금속 제련소 건설을 위해 크루시블 아연 프로젝트 착수",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRExfSkFjTGhab1drTzdrTFdqdjBxc1l1aE9FbElsc3d0V3I4RGdaMFVrUEFnU295WV9jdjlhNF81aE5ObUEyTnVXTTZ5bDBNSGVRUmk1SWZaNlM0bzNWcExQM21YSThGQXAwZGE0R09SZGREQzJoNHhXZ29yRDVzWE9DUi10Q1FFS2VJQi1saExiYlFwejBsT24zQTY5azEwdTZOSEoxYnBMVnJsRm1uSnB3XzY0bTlNQWw1N0ZmM2xrYTMwTE94cFRrcDQxMmh0MGstX1c5SmptTndL?oc=5",
-      "source_name": "S&P Global",
-      "country_code": "US",
-      "companies": [
-        "Korea Zinc"
-      ],
-      "first_seen_at": "2026-04-03T09:22:03.495835+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
-    },
-    "https://www.gamedeveloper.com\nnexon agrees to publish overwatch in korea\ngoogle_news": {
-      "title": "넥슨, 오버워치 한국 서비스 출시 합의",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT0pGdHQxc2lDWnl6NVpxVnY0YnItd3RPdTFYQmhVTVI3b2VrLUdLM1JUak1qTjIxeEV6MllraVo5TlFEekw2WWVudk5YY2xUU2N5Q1ljRmpRSDVPaHlKNkRwcGxENDA2SzlCWE9wa0V4VnFBOE4wVkpzbkszQVN5YS1Tcm5tYlNf?oc=5",
-      "source_name": "Game Developer",
-      "country_code": "US",
-      "companies": [
-        "Nexon"
-      ],
-      "first_seen_at": "2026-04-03T09:22:03.495835+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
     },
     "https://www.nba.com\nkbl: hyundai mobis phoebus @ kt sonicboom\ngoogle_news": {
       "title": "KBL: 현대모비스 피버스 @ KT 소닉붐",
@@ -258,17 +48,6 @@
       "first_seen_at": "2026-04-03T09:22:03.495835+00:00",
       "last_seen_at": "2026-04-05T09:44:35.093844+00:00"
     },
-    "https://finance.yahoo.com\nlg energy solution becomes first battery company to join sdverse, global b2b marketplace for automotive software\ngoogle_news": {
-      "title": "LG에너지솔루션, 글로벌 자동차 소프트웨어 B2B 마켓플레이스 SDVerse에 가입한 최초의 배터리 기업",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeHJkTktUdEU2a184WElxY2pxVTVJQUE1aDdnejEtd3NsSV9IWWRsb1BkWExjSnFLaEtwQkZGLTM2RUlNeGowY19FYnpxMl94cjFha0pJNDNvTWZwUzJPenNOVlcwWnNyYjNreEVYbWp4VVlMdTRDMlNFdmU1LU8xc1daeHh3UGR4ZnIxN1IxWVcyeEpVbm9YSDg4YUtsNVpqWG9n?oc=5",
-      "source_name": "Yahoo Finance",
-      "country_code": "US",
-      "companies": [
-        "LG Energy Solution"
-      ],
-      "first_seen_at": "2026-04-03T11:17:58.710078+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
-    },
     "https://travelradar.aero\nkorean air seals the boeing deal\ngoogle_news": {
       "title": "대한항공, 보잉과 계약 체결",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JUFUzQ2p6RzJWTUNsVlAyWk4tMFIzSk52d2JocXdPNDRfZUJsdHQ5OVNGa3o5MWg0Y000ZHA4enpGcWFienhIZlJ6S1pxLWhSZFIydURRWEFOZTNMNms2VWt4TGJpT05mTFE?oc=5",
@@ -302,18 +81,6 @@
       "first_seen_at": "2026-04-03T23:39:27.043407+00:00",
       "last_seen_at": "2026-04-05T09:44:35.093844+00:00"
     },
-    "https://letsdatascience.com\nnaver, kakao accelerate startup investment push\ngoogle_news": {
-      "title": "네이버와 카카오, 스타트업 투자 확대에 박차",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSEdtaWVQdnBuUURZZGhEcTZ4bWRQWGV0cEQ4dFFLSTNHckgxZ0otQ1U4V1JqVXJUOTU3ajRqanZybjhiYlhaU1JmclpTOENpNzRfVksyaGJocWQ1ODBfcUkyN3pOampNM1RTRkxFaEdiTlNTcEhYM1pFaGpFUklQUHp1MlBNZTlBUFlxdnE3Vzlpdw?oc=5",
-      "source_name": "Let's Data Science",
-      "country_code": "US",
-      "companies": [
-        "NAVER",
-        "Kakao"
-      ],
-      "first_seen_at": "2026-04-03T23:39:27.043407+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
-    },
     "https://cryptonews.net\nsouth korea’s fss orders dunamu to correct naver financial merger disclosure over missing details\ngoogle_news": {
       "title": "한국 금융감독청, 두나무에 네이버 파이낸셜 합병 공시 누락 사항 정정 명령… (정보 누락)",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXZklJMUhNU2xELUJzLUxyWWp3RGtiamxCQ1BVeHJSMGVRZTdNa2hkZnF2QkxXR2VvRXoxcDdmZFJpcndJbFVJdDRDclVpUVFRUVNTeXFn?oc=5",
@@ -325,61 +92,6 @@
       "first_seen_at": "2026-04-03T23:39:27.043407+00:00",
       "last_seen_at": "2026-04-04T23:36:52.857903+00:00"
     },
-    "https://www.jconline.com\npermit for temporary power at sk hynix site valued at more than $1.2 mil\ngoogle_news": {
-      "title": "SK하이닉스 부지 임시 전력 공급 허가 비용 120만 달러 이상",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxON1lLZUhoSVdQVU92YkdaOTR3elc4SUM3WXVyLUpNR0NkRTJIM2QwX2dnODIyMU5penZuSGRMaUk1Vzk2MDlvYWg3bTktTXpYZVRVOVdMT3dSclhtVGVZNkZ5SDZYeHRCWDNxdG9BZlliYWlrSF9SY0RLWEFMY3ZMMlhqVUpvdWJmUElrNnZmU0tGNkljeWtibDRWZUM0RXVqLVk2NW9Ja3V4RW0zLTkzTDFJX3dVeDVycEhhT0ZPdnZDN2VkLXFDT21ENXNQbFhsSms3OExqVFlPMEVMTVZxVA?oc=5",
-      "source_name": "Journal & Courier",
-      "country_code": "US",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-04-03T23:39:27.043407+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
-    },
-    "https://www.ad-hoc-news.de\nsk hynix inc aktie: us-listing-pläne wecken neue chancen\ngoogle_news": {
-      "title": "SK하이닉스 주식: 미국 상장 계획으로 새로운 기회 창출",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNekZ0ekJMc3c1TDRQT2I1WlZkSDRZRjhXZFNpZ25xVzJGZ21vR3VHa2FhQUtoamI2ZnJSTkFObzA1WmlLd2FoM2ZOdDlqTmVqc3JYRk9KaVEyS2JRQjR4b3lDT3dtMDJVd255WjNlUUFMVDk0YURmaDlWNHYzLVdmdzhWM0FpQnBQV0M4X19md3REYTlfR1N0Z3d1c0Z0aXVkaFRfSDV1QUVteDdFZzhn?oc=5",
-      "source_name": "AD HOC NEWS",
-      "country_code": "DE",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-04-03T23:39:27.043407+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
-    },
-    "https://massivelyop.com\nnexon is taking on overwatch publishing duties in korea ‘within the year’\ngoogle_news": {
-      "title": "넥슨이 '올해 안에' 한국에서 오버워치 퍼블리싱을 맡을 예정이다.",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOczd1eW90eDQ0QWd1czVpYVJhMnNlcDVoTXRXLVZYZE5OdHdmYVRHQ0p0eUFlWTUzNkJ2NU1USzZpRHJPUy1JUkd2RFk5RTBCM1FUVFVPX2ZhMkN2cnhQc3I5TFB5ZGZXMF9fMEZsWlN0YU1YTC1qTl8yS2d1RUVjYUNmaVprR0h6R1NtVzNMTzhUMEZxbnh3Tm1rQUZZZHRvRFZFU2N3bWQzMVk?oc=5",
-      "source_name": "Massively Overpowered",
-      "country_code": "US",
-      "companies": [
-        "Nexon"
-      ],
-      "first_seen_at": "2026-04-03T23:39:27.043407+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
-    },
-    "https://www.aerocontact.com\n[kai] kf-21 ?? - korea aerospace industries\ngoogle_news": {
-      "title": "[KAI] KF-21 ?? - 한국항공우주산업",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sbDBURTR4aDVqeTJqTzRpMzE1Rm5YUUZsaGtnYkUtZEdHMVBpWTJxTGk2YWlqOGtmZXF3Zkl6MmhuRE5FTG9yUmRzTUVPUjZoX3dfOENMbDA3VWpLSm5zZGd6Rk4?oc=5",
-      "source_name": "Aerocontact.com",
-      "country_code": "FR",
-      "companies": [
-        "Korea Aerospace Industries"
-      ],
-      "first_seen_at": "2026-04-03T23:39:27.043407+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
-    },
-    "https://www.cryptopolitan.com\n規制当局がnaverのupbit買収案件に動き出す中、新たな買収候補が現れる\ngoogle_news": {
-      "title": "규제 당국이 Naver의 Upbit 인수 프로젝트로 움직이는 동안 새로운 인수 후보가 나타난다.",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LYy1QOHVZY1JvMm1YVm9XV0tnY25oRGZ2Sk9IUlNqRUJ2eUZ4WXFhRDJLdjdzX3JWaFlkMndyd3daNDZIWEZ3bUxlYXAtVVFRUU1VMlVCQ0hzbkY2MmtWZ0NRSzZweThOSm1KWExmWFY5V2JYdFVvNg?oc=5",
-      "source_name": "Cryptopolitan",
-      "country_code": "JP",
-      "companies": [
-        "NAVER"
-      ],
-      "first_seen_at": "2026-04-03T23:39:27.043407+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
-    },
     "https://www.cryptopolitan.com\nregulators move on naver’s upbit deal as competition sees fresh suitor\ngoogle_news": {
       "title": "규제 당국이 네이버 업비트 인수 거래에 대한 조치를 취하는 가운데, 새로운 인수 후보가 등장했습니다.",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RNWF3QVk0MURVWUlfYUhZVDJ3WUxibE5MNUVVWGJyQk02VjBKLVhkaU5zM0FhbFNCWVI3MjZKcTJwcnlRcFZJeU9RNENGYlFmSVlrSVZVRVRkeUliRXJyS2VSR2VRMHNkc2R4NkctbEZnVDlZ?oc=5",
@@ -390,28 +102,6 @@
       ],
       "first_seen_at": "2026-04-03T23:39:27.043407+00:00",
       "last_seen_at": "2026-04-04T23:36:52.857903+00:00"
-    },
-    "https://www.cryptopolitan.com\nles autorités de régulation se retirent du dossier upbit de naver face à la concurrence d'un nouvel acquéreur potentiel\ngoogle_news": {
-      "title": "규제 당국은 새로운 잠재적 인수자의 등장으로 경쟁이 심화되자 네이버의 업비트(Upbit) 인수 건에서 철수했습니다.",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vcmdlbFdlaW5TSFg5RUVXRnRaYXFpdUJReHRJOGlBYTk4ZWdkSld3eUZZYUU0WkZydjlvNXd3WHdOZ3N2SE1WMTd2bFVaNE9GOFBhbkFMRGFBUzhGM2Uxb1p2Y01GaDBJZGUwUklRY3o4RlB4QVBURw?oc=5",
-      "source_name": "Cryptopolitan",
-      "country_code": "FR",
-      "companies": [
-        "NAVER"
-      ],
-      "first_seen_at": "2026-04-03T23:39:27.043407+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
-    },
-    "https://bitbank.cc\nupbit運営会社、naver金融と株式交換へ\ngoogle_news": {
-      "title": "Upbit 운영 회사, Naver 금융 및 주식 교환",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3THptRWh6VzVZNlQzVGFNWVl3Tk5TY2xrZWRIM05Ba2RKLXNSdkdzd0lRTDNDeXdMM2xMZC1UcWNkeTcxV0VuLUZsRWhiOExfQVRsWGpTMDhLZUp1YTFPNWJVUk9PclE?oc=5",
-      "source_name": "bitbank",
-      "country_code": "JP",
-      "companies": [
-        "NAVER"
-      ],
-      "first_seen_at": "2026-04-03T23:39:27.043407+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
     },
     "https://www.nba.com\nkia mvp ladder: why this award chase -- and its top 5 -- is like no other\ngoogle_news": {
       "title": "기아 MVP 사다리: 이번 수상 경쟁, 특히 Top 5 선정 과정이 특별한 이유",
@@ -435,17 +125,6 @@
       "first_seen_at": "2026-04-03T23:39:27.043407+00:00",
       "last_seen_at": "2026-04-04T23:36:52.857903+00:00"
     },
-    "https://coincentral.com\ndunamu faces fss action over upbit–naver deal disclosure issues\ngoogle_news": {
-      "title": "두나무, 업비트-네이버 거래 공시 문제로 금융감독청 조치에 직면",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX2x3ZXJvM05EWk82M3JyM0dudU5URFhFa3NQQ3FUZS1lY3BjNXpMLVV0V1pIMHN5cTFFN2JkVlEtbGtBaDk5Q2VzX0Y1RnFrUkVpWFVwTmtCbTZKbGYtS1padnJtVHcwbmxHandxM3RDSE14TklYMG4zRVJ5bElnZTYweDNiX09nUmo3YWpwZTRMZw?oc=5",
-      "source_name": "CoinCentral",
-      "country_code": "US",
-      "companies": [
-        "NAVER"
-      ],
-      "first_seen_at": "2026-04-03T23:39:27.043407+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
-    },
     "https://www.ad-hoc-news.de\nsamsung heavy industries aktie: schlüsselspieler im schiffbau mit potenzial\ngoogle_news": {
       "title": "삼성중공업 주식: 조선업계 핵심 기업으로서 성장 잠재력 보유",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY1V4NjNfU29ZNmlSbVgwZGlRN3RuMU5JaENzaUp5ZXhPMHByTmw3OHFLV2JiVUJLVTEySU1ZSjlTbng0MDVwZHZRejdfTFVqN2s2R2hBM29DbVRiTmNhV0RLVnp1b1QxdEJaTENvY3hIUUpHc2RTbGs5LU1PTnFPVXdjMFBHQjBKYlhKWlJOWmMwRjNjbThlWmt6RmRXRVlEVFVXZ3dOdXk0TWswZkZSQTdxQXlXaFlwSG1z?oc=5",
@@ -456,18 +135,6 @@
       ],
       "first_seen_at": "2026-04-03T23:39:27.043407+00:00",
       "last_seen_at": "2026-04-04T23:36:52.857903+00:00"
-    },
-    "https://www.ad-hoc-news.de\nhyundai mobis co ltd aktie: was anleger jetzt wissen sollten\ngoogle_news": {
-      "title": "현대모비스 주식: 투자자들이 지금 알아야 할 사항",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR2dCbzhqYXh6SVFUTkNxcGhWcHRlUk9TdWk2MHV0dUF0S09WZm1SeHJrNUYzV0N5cXk0R2FvemVRcFJYR1AteUZjNHFWZHA2ZVZfQlBJeDUwb1Z4QjN5elNNWVVJZk52eXJmeWdoc1RSbXRGZVh1VXpnOVdjRm1sWWowa3k5UkUyV2p4UFlITkJnN0hCRDlzLW9zM1J3S3AzV1RwbkFZX2NjWVAyeDU3Z3IwTQ?oc=5",
-      "source_name": "AD HOC NEWS",
-      "country_code": "DE",
-      "companies": [
-        "Hyundai Motor",
-        "Hyundai Mobis"
-      ],
-      "first_seen_at": "2026-04-03T23:39:27.043407+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
     },
     "https://www.motorprofis.at\ntest: kia ev2 - höhere reife\ngoogle_news": {
       "title": "테스트: 기아 EV2 - 더욱 성숙해진 모습",
@@ -491,17 +158,6 @@
       "first_seen_at": "2026-04-03T23:39:27.043407+00:00",
       "last_seen_at": "2026-04-04T23:36:52.857903+00:00"
     },
-    "https://www.kapitalmarktexperten.de\nsk hynix aktie: erfolgreicher volleinsatz!\ngoogle_news": {
-      "title": "SK하이닉스 주식: 전액 투자 성공!",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUjEyUjNiYnN5Rm9BYzRMNFFJM0lwb25PRVhpZzRxdVJDdlFyWnI3VGZxMy1RbW4tSzI4eDVrWlJZdlM4dnlOa3ROR0N6a1dmNlVCLUlLVXpCbGRyRWxqXy0xaFZBY180clR3UG5pa3QyWFVqRF91WmVybGVKNnFVNDl0QQ?oc=5",
-      "source_name": "kapitalmarktexperten.de",
-      "country_code": "DE",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-04-03T23:39:27.043407+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
-    },
     "https://www.ad-hoc-news.de\ndoosan enerbility co ltd aktie: warum der energiewandel chancen birgt\ngoogle_news": {
       "title": "두산에너지 주식: 에너지 전환이 기회를 제공하는 이유",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYmo0bzhPekV1SFRDNTlWd2YySzRIbVYzR2dSWUNmaVlEZi1PaGhKTGFoQnNRR3hVN2JUV2hlNEQwWUJURGRhUVEtTk0wNWxJNUd1bG5ReENxWDYwckRvMnJFNkRNVmVtTFZjaUN6VklSMTF4TnlKLUxnZjZBSEg4R0pjbXpyandrTzVWQzdoQlNzVjdLSzF3Yk5lUkRKMmxPbUZzd2V0ZGNjSF9HRjNnWTk1dGtjWUtmM1d3NllJTQ?oc=5",
@@ -512,17 +168,6 @@
       ],
       "first_seen_at": "2026-04-03T23:39:27.043407+00:00",
       "last_seen_at": "2026-04-04T23:36:52.857903+00:00"
-    },
-    "https://www.ad-hoc-news.de\namorepacific corp stock: beauty giant's global push amid asia slowdown\ngoogle_news": {
-      "title": "아모레퍼시픽 주식: 아시아 경기 둔화 속 뷰티 대기업의 글로벌 진출 확대",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOEFmZXRHMGJiOXcyOWVXWkhBVnkwZEtfSm5zWnZiSnVZR3lYWFlkcmxhWjg0VUVndU8wYlI1OE5MZWt5LVVWQm9RbG9scjNfU05LSlBGVWRCY2ZKQVNNdGMwYWVkVVdHOHdkejlEb1k5cnVmOE9RVW1YbmhnZXRqTzBBTWI4TklXa0VXSGJtdkx1WmtEa2ZkMk01MWh1dXlmTUx0d21tNzlMVzRxWWhpN3JJZ1ZiWm54ZDUwLXVPLS0?oc=5",
-      "source_name": "AD HOC NEWS",
-      "country_code": "US",
-      "companies": [
-        "Amorepacific"
-      ],
-      "first_seen_at": "2026-04-03T23:39:27.043407+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
     },
     "https://crypto.news\nfss orders dunamu to correct disclosure on naver financial deal\ngoogle_news": {
       "title": "금융감독청(FSS)은 두나무(Dunamu)에 네이버 파이낸셜(Naver Financial) 거래 관련 공시 내용 정정을 명령했습니다.",
@@ -535,17 +180,6 @@
       "first_seen_at": "2026-04-03T23:39:27.043407+00:00",
       "last_seen_at": "2026-04-04T23:36:52.857903+00:00"
     },
-    "https://www.ad-hoc-news.de\nkakao aktie: analysten senken kursziel\ngoogle_news": {
-      "title": "코코아 관련 주식: 애널리스트들, 목표 주가 하향 조정",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU2t1bkFobkluUXZvVVNGS2ZPRnZNV2R2dTFfZERXU0RtNjZxXzhkM2R3UFdHWFh6RGYxQWFwYVZDcmRBZm04bkh4QU5OVFpWa290MTFNdVBuSDVsS1AxOHV6cmpuNEo2VlhRaXJKcTdibFU3ZldmckRXNVhEbV9HVE5Wa19xc3BDX05pcFd2d2loVXkyd2c?oc=5",
-      "source_name": "AD HOC NEWS",
-      "country_code": "DE",
-      "companies": [
-        "Kakao"
-      ],
-      "first_seen_at": "2026-04-03T23:39:27.043407+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
-    },
     "https://genk.vn\nceo nexon thừa nhận the first descendent hỏng từ gốc, season 4 là cơ hội cuối\ngoogle_news": {
       "title": "넥슨 CEO는 '더 퍼스트 디센던트'가 처음부터 결함이 있었다고 인정하며, 시즌 4가 마지막 기회라고 밝혔습니다.",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUlpnUmo4emd1dTBkaVpUb3hmUDdYUExocXZVYm1LYmlUWVQyR2VOSmtUb055YXNSbHRwRzdheHpqbnBZVnhVTWEwUG5TczhTSmJzWEQzalNhUS1VRTBVR3JKRkpHcmtJOURCSWtoVjh1bzRDVlRfVWtseEtCWU9lbHBNZ1VnV3drQUpNTzNYdUthTUltRFFOVnVtS1p4bmkwalJuc3RLX1MybmFRR3hnNzVNZkVLUQ?oc=5",
@@ -556,17 +190,6 @@
       ],
       "first_seen_at": "2026-04-03T23:39:27.043407+00:00",
       "last_seen_at": "2026-04-04T23:36:52.857903+00:00"
-    },
-    "https://www.actugaming.net\nnexon voit en arc raiders un « cheval de troie » qui montre l'efficacité de l'ia pour batir des aaa avec de plus petits studios\ngoogle_news": {
-      "title": "넥슨은 아크 레이더스를 소규모 스튜디오에서도 AI를 활용해 AAA급 게임을 제작하는 데 있어 그 효과를 입증하는 \"트로이 목마\"로 보고 있습니다.",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUy1pei1ZWVpYQWlzY2w3ZEtpd0ZXd0l2MzdQZW5QNGVPWXRGWmxXN1lGb0tDQVM4ajBWR2pNanEyOEdkaUlFNGpXY0xaU2RFcDI2VlhZUDdGVWdDRkJPUUo0TF81a2dlZmRSMmZrN1N3aGJPdjNmbnNsb0ZueGFZR1RIRDB5TzFuOHFuVDRPc2p4MmxNRi1Cd1hfVkJqbGJZM1VsUkZ1TXdwTGhTejJfRFhFT01VMG1GcmtMTW5ySExGMlhyS0F3bExUV2VWWW5YeTdaVXg4Z0Y1OWZfLVg5X1M0dGRWLVBscG42ZQ?oc=5",
-      "source_name": "ActuGaming",
-      "country_code": "FR",
-      "companies": [
-        "Nexon"
-      ],
-      "first_seen_at": "2026-04-03T23:39:27.043407+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
     },
     "https://energynews.pro\ngtt reçoit commande de hanwha ocean pour deux méthaniers de 174 000 m³\ngoogle_news": {
       "title": "GTT는 한화해양으로부터 174,000m³급 LNG 운반선 2척을 수주했습니다.",
@@ -612,17 +235,6 @@
       "first_seen_at": "2026-04-03T23:39:27.043407+00:00",
       "last_seen_at": "2026-04-04T23:36:52.857903+00:00"
     },
-    "https://www.automotiveworld.com\nlg energy solution brings battery software to sdverse\ngoogle_news": {
-      "title": "LG에너지 솔루션, SDVerse에 배터리 소프트웨어 제공",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTE9yRjB3S2VhYldaSUFYRHpwSFZBbElWa0RkUFVWbDZiWC16QXZQajVDNWp4MHFVdjNvUzRTS21LRDRxZUY2Ym9UclZ1cngyYTFERkZLNjRuNHRDX0xzNV9xX0F0bGw1VVZld0xGMGlCa3hPdzVwS2FMb1ozOTVsVExjd0w4dW5QdzRwNVlLZ29VcXA3S0E?oc=5",
-      "source_name": "Automotive World",
-      "country_code": "US",
-      "companies": [
-        "LG Energy Solution"
-      ],
-      "first_seen_at": "2026-04-03T23:39:27.043407+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
-    },
     "https://voh.com.vn\nlàng nhạc kpop 'dậy sóng' tháng 4: ba ông lớn jyp, hybe và sm chính thức 'khai chiến'\ngoogle_news": {
       "title": "4월, K팝 음악계는 큰 파장을 일으켰습니다. JYP, HYBE, SM이라는 세 거대 기획사가 공식적으로 전쟁을 선포했기 때문입니다.",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaS1OYzNCTy1QTmdKT19hRmVFUFZYcTVDRU1jaFA4eno4NzhuVW5XeUx0YzRmSVY4TGRYb0VTUXJzSnB1Mkd5bXoxSnhCV0ZBcGliN1VldFR4UzRORG1STk55TDY4TUZkd0FQMzJycG5oZGoyRlRMdFg4TndEVzYzVm9wQUN3Z3ppcklaRUYySnlBQy1XUUhfUGJfSGpUZ3lYWVU5blhaNlhLQ3lMN0JrS2ZzdG9WOUZDNlRFZW9HNVJnbXZjMU8ybmo1b25BQXk1UnF5cWdTZ093SlFuVHJn?oc=5",
@@ -645,28 +257,6 @@
       "first_seen_at": "2026-04-04T09:43:16.682970+00:00",
       "last_seen_at": "2026-04-04T23:36:52.857903+00:00"
     },
-    "https://news.nicovideo.jp\nhybeオーディション最終候補・ayana、『ガルプラ』出身経験者の覚悟「デビューをつかみ取らないといけない」【wor\ngoogle_news": {
-      "title": "HYBE 오디션 최종 후보·AYANA, 『갈프라』 출신 경험자의 각오 「데뷔를 잡아야 한다」【WOR",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNVXBJWnpDWkIwUHo4V2EzNy1VblM5QmlBM3pZajFDYVh2ODNraXNSSklNVjRwQTNLbWk2dzVkOXNMWjlPelZaZFVaS1YwMmNITmFoUGJXNDVxT2p1c19YMEJpZjBKX3ktN2N2X1A2NFQyRVhqdEtfRmpnMA?oc=5",
-      "source_name": "ニコニコニュース",
-      "country_code": "JP",
-      "companies": [
-        "HYBE"
-      ],
-      "first_seen_at": "2026-04-04T09:43:16.682970+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
-    },
-    "https://topics.smt.docomo.ne.jp\nhybeオーディション最終候補・ayana、『ガルプラ』出身経験者の覚悟「デビューをつかみ取らないといけない」【world scout】\ngoogle_news": {
-      "title": "HYBE 오디션 최종 후보·AYANA, 『갈프라』 출신 경험자의 각오 「데뷔를 잡아야 한다」【WORLD SCOUT】",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWFZwU0RQVHEyeTVhUmNZa21Dd0pvMS1jcU9yNmIyam9sQm4yZ2hRYi1JLXRTNm0tUDZXNHV1dWFYb3ZGWlFScTVuLXhwbkFoNHZwOUdjM3l2aTN0Szg4S2xITFJqM0FfSWJsYnBVamE2T3NCazkzeDZkWnBRanNmZV95TnVQTkJVbDh6TFk4YlBOX3F5SFVTcG91TTRfMTcwTGVDek5jVzZtZGxnWXI5TnBpaThNNmNoNkNhaTI2cVJndnVRckc1NFA3dTc3enVNWnpaX0tB0gGGAUFVX3lxTE5aaTAxdGNic2tRNThES1AwSHFsZzBLVkhxdDZsNkZ5bXdMOG9uT20zOTJFeVRjUFV3SDVfdktTZGJmV0FscGtWY1Z4TFU4MVFFQW9BQWx0cEliUUplOEFzTXlkSjFIUHZ2d29maUVTTFU4SjhmaVhwQ0dFU2E0bXRMTl9RbVV3?oc=5",
-      "source_name": "ｄメニューニュース",
-      "country_code": "JP",
-      "companies": [
-        "HYBE"
-      ],
-      "first_seen_at": "2026-04-04T09:43:16.682970+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
-    },
     "https://thanhnien.vn\ncái kết đắng của chủ chiếc kia k5 độ xe nẹt pô ra lửa\ngoogle_news": {
       "title": "시동이 자꾸 꺼지던 개조된 기아 K5의 차주에게는 비참한 최후였다.",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVElCNVlta1g0dXZOeU1lamN5cDRoWEhkT3ZRVFU0VEdkYVZoNk0yNm1rUWl3QllBQm9vTDRGRlpsTi16Qm94VkZyS2NvbGFydHpsNFlDUnM2dHZrUTUzby1lcFlsc1B2STNuTHZmUEo1ajByV2tRajdMb2haU1dmZVlIaWFVX3VmcHBxNVlDSTRiU3FYZzRCa3VnVVo3QQ?oc=5",
@@ -677,17 +267,6 @@
       ],
       "first_seen_at": "2026-04-04T09:43:16.682970+00:00",
       "last_seen_at": "2026-04-04T23:36:52.857903+00:00"
-    },
-    "https://www.indexbox.io\nhyundai motor exports disrupted by middle east conflict in 2026 - news and statistics\ngoogle_news": {
-      "title": "현대자동차, 중동 분쟁으로 2026년 수출 차질 예상 - 뉴스 및 통계",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZUYwbG8zVWV4UEtUZ25lMWVIdlJHY0syalhyWEQ3UVhIRTlMakU3U0E1RGRHbjRCbUdvb1dFdmVJaUFES3dNR2lqZWcxYlJsUHdtazhPQ1RPU3VqMnV0UThTazlFU1FGSUxfOU0tendXSmlRLVloSHhjQ3B0RnlOSWg1OGJLWGczZ3VQT2F6WktRVVk3VEdOYkRQRG1RZw?oc=5",
-      "source_name": "IndexBox",
-      "country_code": "US",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-04-04T09:43:16.682970+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
     },
     "https://www.linternaute.com\non a roulé en ev2 : que vaut le nouveau suv très abordable de kia ?\ngoogle_news": {
       "title": "기아의 새로운 초저가 SUV, EV2를 시승해봤습니다. 과연 이 차는 얼마나 가치가 있을까요?",
@@ -723,17 +302,6 @@
       "first_seen_at": "2026-04-04T09:43:16.682970+00:00",
       "last_seen_at": "2026-04-04T23:36:52.857903+00:00"
     },
-    "https://help.orf.at\n30 jahre fairtrade-kakao: wie fairer handel funktioniert\ngoogle_news": {
-      "title": "공정무역 코코아 30년: 공정무역은 어떻게 작동할까요?",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9UcUlnOG13dXFRY2czVzhib1RLcTlCM28zWGxnOFVOeENKanZDSHdOd0VycWxQZlBKR0dzb3JJY0p4aGY4WEMyeWZFRWQ?oc=5",
-      "source_name": "ORF",
-      "country_code": "DE",
-      "companies": [
-        "Kakao"
-      ],
-      "first_seen_at": "2026-04-04T09:43:16.682970+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
-    },
     "https://1thegioi.vn\ncác hãng chip nhớ trung quốc tụt hậu ra sao so với samsung, sk hynix, micron?\ngoogle_news": {
       "title": "중국 메모리 칩 제조업체들은 삼성, SK하이닉스, 마이크론에 비해 얼마나 뒤처져 있습니까?",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWm1kWmxuX01CMEg0NnExYWZlaG83YU80QU9IY05KSVlEU19ud0lNdldkeU03OEhoWmp1cnNzc01lVXdlVXFuR0U4NnlRSGIwWGJFc2Y0dGE0REpkZ2o1dGtrYm0tdkR6QlRZUWFZOVZ6UXVsbU9YTmtZbDJ0RnVCbFkzY0Fkd095ZFBkcTdER241NEx0dU15TTloRklYM0ZSbG5TeDF0WElRdw?oc=5",
@@ -756,39 +324,6 @@
       "first_seen_at": "2026-04-04T09:43:16.682970+00:00",
       "last_seen_at": "2026-04-04T23:36:52.857903+00:00"
     },
-    "https://tinxe.vn\ntài xế điều khiển chiếc kia k5 \"khạc lửa\" tại đắk lắk bị phạt đến 77 triệu đồng\ngoogle_news": {
-      "title": "닥락에서 \"불길을 내뿜은\" 기아 K5 차량 운전자가 최대 7700만 VND의 벌금을 부과받았습니다.",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOGtPM0dLU05kNmk3bkVidmxabk1MMzhlbDMxdXdocFpwWVN3MmJ6bTZVRHBpU1NoczZ6dm81NGhzT2lUVW80VlR1WW5scGFmRDJILTNhRDJmeV85MnpOSFlMVFQ1ZUNDaFExRHgyNy1WekhQTE16TUNkNmM4WWhJY2tNbldZd3oza2tkdDg4bWtBOS1sUGswYkVibDFTWm9IYjNwQ25VMWNpeE1RVGluVXY4MWlFRGZsclNjNXdJalNzU21NLUtzMmdJOUNXUQ?oc=5",
-      "source_name": "Tinxe.vn",
-      "country_code": "VN",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-04T09:43:16.682970+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
-    },
-    "https://www.docsports.com\nnc dinos vs kia tigers prediction, 4/4/2026 kbo pick, tips and odds\ngoogle_news": {
-      "title": "NC 다이노스 vs 기아 타이거스 경기 예측, 2026년 4월 4일 KBO 경기 예상, 팁 및 배당률",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZHFzb3hvOFFTclVZd1NacExBVEJtdkdfa2tBTzFRT2l3N2dQYUpXMl9MMTMyaWotSUlxdjh6Z1YtbEQ2TGRWY1RwTmg5b0ttLVVYbjNZd0lqTXBwdTlHeEcwOHdKOVdvenRPVDRBSGpYbXZLcVZxdzh5QUF1d3I0R2NxLUhvcG1zTUtNV3ZHU0pHOGR1RWZJSVZqWlhiWWMtRUVxdV9ESXgxekZ6NHFfQzl4X0RhTmc?oc=5",
-      "source_name": "Doc's Sports",
-      "country_code": "US",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-04T09:43:16.682970+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
-    },
-    "https://www.travelandtourworld.com\nthousands of passengers suffer around asia as china, japan, indonesia, south korea, uae and more cancel 283 and delay 3,972 flights, disrupting korean air, ana wings, indigo, qatar airways and others in beijing, tokyo, delhi, dubai and beyond\ngoogle_news": {
-      "title": "중국, 일본, 인도네시아, 한국, 아랍에미리트 등 아시아 여러 국가들이 283편의 항공편을 취소하고 3,972편의 항공편을 지연시키면서 수천 명의 승객들이 불편을 겪었습니다. 이로 인해 대한항공, ANA윙스, 인디고, 카타르항공 등 여러 항공사의 베이징, 도쿄, 델리, 두바이 등의 항공편 운항이 차질을 빚었습니다.",
-      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNTDJ5Z2NQdXY4TWExaUhQTjQtRUJRV25RY3oyVXFrdWNDQVktMTFCSkxYOUQ4X1Q2TThoVFF1ME5sU084dDFZVHVtb1VTd2dXcG1fb0xLaHhsM2JKNkVXbVJKYy0zNVktYURudzMxdTJJR1VzTnh2dG1Kb2JaX3VrMzNVZ3d6VTlvN294eDBvWjhvaTBrU0N6WVZlalVSbmlxaWo2Y1JqV0x2VW5lYVlLVkl5alQ1SHczMHJNUENUamZWZEVMLTBBdVNGc2wyMVlicWROQ3R5aW1fcnptdkhDS1hTbU1rSXhaM2xfZXVtX0p5NDQyUFhBY1B4SXFPZjVrTWZiRDVJUUFBdmZ5UXNMZ1cwVHBVaFVWdlhrRkRoWVRTdFplSHByR2dfMkVXT3NBenlRZUFmSV9NcmdUTkp4Sl9RdUp4ZWRBU213NDhzdWZ1d28zN3Bzbjg5Yw?oc=5",
-      "source_name": "Travel And Tour World",
-      "country_code": "US",
-      "companies": [
-        "Korean Air"
-      ],
-      "first_seen_at": "2026-04-04T09:43:16.682970+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
-    },
     "https://aviationa2z.com\nkorean air sued after passenger dies mid-air due to this serious mistake of attendant\ngoogle_news": {
       "title": "대한항공, 승무원의 중대한 과실로 승객 사망 사고 발생 후 소송 당해",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQVZXZnU1bUlCWVpGSHNDSUVldmcwNjdoNnRhYlRUS2VkcUd4V3Nxb2RVejlKR1ViWG1EWkU1Q0x5V3h0RjdsdDJZeWUzX3lmcTRaT210bTI5aktWUmNHb19RTHZSVFpHaU5HSXBQR3Z2VnFWYlhaOGZFWUlUTnJpUmtkVVEtNWZ0VUtLQmJjYWJIUUFXRXdMd3ZPVk1Rb1h2QTF5ZlROMzhVZm8?oc=5",
@@ -799,17 +334,6 @@
       ],
       "first_seen_at": "2026-04-04T09:43:16.682970+00:00",
       "last_seen_at": "2026-04-05T09:44:35.093844+00:00"
-    },
-    "https://www.boerse-express.com\nsk hynix aktie: hbm-dominanz zahlt sich aus\ngoogle_news": {
-      "title": "SK하이닉스 주식: HBM 시장 지배력의 결실",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObk9QcktodkVjYzdXWXptcE5COW9QSmdPam1lWnZlVC0wLUh2NlBZd1ZqUFNETTY3SC13U0h6dTJnbzlCdFJNdmNoa05UbFhqSkhleVBWY1lQcHVNbWJlQjctaWRhNHpmcmZaNE1BS0J5X29LWWk2bmRKZzlqbHNhM0Rpb2sxODdJT0dwMnZrUExZaVQtVmFBZDFB?oc=5",
-      "source_name": "Börse Express",
-      "country_code": "DE",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-04-04T09:43:16.682970+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
     },
     "https://www.digitalmusicnews.com\nlatest music industry hires: bravo! vail, dynamite songs, iheartmedia, kakao, audacy, touchtunes, ultra, more\ngoogle_news": {
       "title": "최근 음악 업계 채용 소식: Bravo! Vail, Dynamite Songs, iHeartMedia, Kakao, Audacy, TouchTunes, Ultra 등",
@@ -844,39 +368,6 @@
       "first_seen_at": "2026-04-04T09:43:16.682970+00:00",
       "last_seen_at": "2026-04-05T09:44:35.093844+00:00"
     },
-    "https://simplywall.st\nis nexon (tse:3659) turning its ai-powered game overhaul into a durable moat?\ngoogle_news": {
-      "title": "넥슨(TSE:3659)은 AI 기반 게임 개편을 견고한 경쟁 우위 요소로 만들고 있는 것일까?",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb1I2V08xaWdlMlFwV0xvcFRFbGJ4UHl1Rk83bFdrN0NVSkpmb0FEUGZkczl1STA1dXlwQ2Rud1k3cGE4dEhWNU84OVRfX180UTUwQllIbFVkWVdoUDhHNG4ya20zZy1YWm9Hdk1tOGxkX21CSmIwUXZtbWxfeG1HSXZxVHRQaGxLbnVpc2dLVG5Jb18yTXhFa01mQ0VsQXpKdFlIMTNCNzZzcWpkTXBBLWZObDZKTkVFdGpGWVNtZ2hWMEXSAcgBQVVfeXFMTWtfSGJBZE1kZkZBSjI2NTc3MW1LZmlKZlRONEdYR1FnYkNJd0xLZ2tRYVNvSmNzcWhUMEFPMXRGYjZ0bklnYmMyRDFuUkNiZWh0bkc5bENUT29ScHNSV3owR2x2dllwN244ckUydDkyTks4WkM5WXkyR3FpMUFCOThvaHRuWlRBdnpVbHd6bzdiTGZyYjdHaUdKOUg2NGdvQlc5NDBVZzFPeS1YeERZYTZZY2NwRWJxVkdIM2NyTEc1N1M1ZGtmYXQ?oc=5",
-      "source_name": "simplywall.st",
-      "country_code": "US",
-      "companies": [
-        "Nexon"
-      ],
-      "first_seen_at": "2026-04-04T09:43:16.682970+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
-    },
-    "https://vietnambiz.vn\nlịch cúp điện đồng nai ngày 5/4 và 6/4 phường đồng xoài, chơn thành và xã đa kia bị mất điện\ngoogle_news": {
-      "title": "4월 5일과 6일 동나이성 정전 일정: 동쏘아이동, 촌탄동, 다키아면에서 정전이 발생할 예정입니다.",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ2dscTdEc0w5UFd0U05tUEZ6eDU5ZGtoeWdWMzMtWjJGRi1nRm9SLU5VZzY1dVFUWkhtTmVtU3NoQUlxM1pKbXd2SGtTbkVCRHFGRXAzbUN0dzlFaW1Bc0M2N2oxWHFCVXdoVXBIbHZGZW1SZVhXMG0tR3RydXpUck13b2t3UWJ6Qi1naWhuSVFhczNwV3VKbkRjRjNLVzlKekR6UHJaaXFGRzE0aHRJbVZCdUIwbktVc3g4SjNtYVQ0UVdvUlNoMjl3?oc=5",
-      "source_name": "VietnamBiz",
-      "country_code": "VN",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-04T09:43:16.682970+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
-    },
-    "https://www.tubefilter.com\nbts agency hybe appoints disney, tiktok vet kevin mayer to advise westward push\ngoogle_news": {
-      "title": "BTS 소속사 HYBE, 디즈니와 틱톡 출신 전문가 케빈 메이어를 서구권 진출 자문으로 임명",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOGpQaHdiS1p5Y2xBX01ISUdDQ0x6VVo3SHpmdlNlQ19kV1ZpNlI0V1VmejlwWExaTHVfdTUyVmhhZXphTVUwWXZxa29qdnl3dTE4dnNoMTZKZ2ZNZXBnZGcycnVpZWJaSkpQVm41QkI2TV9GMklmTDdvZGllYVJVQjRxa2J1Q25sdEJJWNIBjAFBVV95cUxNOGpQaHdiS1p5Y2xBX01ISUdDQ0x6VVo3SHpmdlNlQ19kV1ZpNlI0V1VmejlwWExaTHVfdTUyVmhhZXphTVUwWXZxa29qdnl3dTE4dnNoMTZKZ2ZNZXBnZGcycnVpZWJaSkpQVm41QkI2TV9GMklmTDdvZGllYVJVQjRxa2J1Q25sdEJJWA?oc=5",
-      "source_name": "Tubefilter",
-      "country_code": "US",
-      "companies": [
-        "HYBE"
-      ],
-      "first_seen_at": "2026-04-04T09:43:16.682970+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
-    },
     "https://www.paddleyourownkanoo.com\nlawsuit alleges woman died on korean air when flight attendants didn't attach oxygen mask to o₂ bottle during medical emergency\ngoogle_news": {
       "title": "대한항공에서 한 여성이 응급 상황 발생 시 승무원이 산소 마스크를 산소통에 연결하지 않아 사망했다는 소송이 제기됐다.",
       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOeC1yTElQTE1sNTAwSE96d3ZPVE5mOGlPM19qLXhZcldQUTZYOWtBeE1EMEt4cDRmVGNvck1waFBEeWlpZ0p0ODZweWNMSXhJUF9lOHNsWTVyTVhyOFVGeFBSYW9RS3htWWk5VUE3TGlaMktoSWFwOXI3TnBrdUFFN3hNWnJJcl9kb05EMnZKQmZHbW1JX2ctZkNEMzl1Wm82ZVJKaERTYzRWSE85T003b2NTd1h6cnA1MlNha0NuSWJ2eDZPSUM5ZkRZU1lfUnZHaXZnaHhjT3FyZjZfNWxpa3ROUHBYRnJDOWU1SmhpSUd4Tm5lbmJhTThXYks4bE1xN1dON1d2WHprbjdhWFJR?oc=5",
@@ -887,28 +378,6 @@
       ],
       "first_seen_at": "2026-04-04T09:43:16.682970+00:00",
       "last_seen_at": "2026-04-04T23:36:52.857903+00:00"
-    },
-    "https://ch.zonebourse.com\nkorean air lines et exotrail s'associent pour développer un véhicule de transfert orbital\ngoogle_news": {
-      "title": "대한항공과 엑소트레일(Exotrail)이 궤도 이동체 개발을 위해 협력합니다.",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRTZLSUg3Q3lIWVFzQ3RNNXV6UmEtRHg5eTdKMFNVaWFKRkwwTWN2bWUyVVZmd0ZwUUZ4TUxsbkp2blpNcEstZE9reXpkWmRIOUczMTc2MWtiMHRudTk1eVdzaVo3Z2VVY3BGdEpOYzlKUVFvX2lIR1JRb0pmYzh2dGFZallQZ0NaNkM2aHRUYjNScFp1ejZoZmhNeWdrUGhJamtEOEh0Sy13VGRFWEE1M1pWUGNvNjEya0hJRklTWmNLc2ljdWsyQklIQjZabnhScjRLcWNGVU92dlBjSXJod0JINA?oc=5",
-      "source_name": "Zonebourse Suisse",
-      "country_code": "FR",
-      "companies": [
-        "Korean Air"
-      ],
-      "first_seen_at": "2026-04-04T09:43:16.682970+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
-    },
-    "https://uk.finance.yahoo.com\nsamsung biologics co.,ltd. (207940.ks) stock price, news, quote and history\ngoogle_news": {
-      "title": "삼성바이오로직스(주)(207940.KS) 주가, 뉴스, 시세 및 거래 내역",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xOHduY0xnWlluVU85MU1xNlRpanJmQlRSTGFJN3JzaUh1LWoxS3NHNHZEVGVzMngwd0NEVlNRVzllajFkY253M0Qtemx2TEl5TlZRUGg1T1U?oc=5",
-      "source_name": "Yahoo Finance UK",
-      "country_code": "GB",
-      "companies": [
-        "Samsung Biologics"
-      ],
-      "first_seen_at": "2026-04-04T09:43:16.682970+00:00",
-      "last_seen_at": "2026-04-04T09:43:16.682970+00:00"
     },
     "https://www.auto-motor-und-sport.de\nwenn allrad nicht alles besser macht: kia sportage 1.6 t-gdi im test\ngoogle_news": {
       "title": "사륜구동이 모든 것을 좋게 만들지는 않을 때: 기아 스포티지 1.6 T-GDI 실전 테스트",
@@ -8455,7 +7924,51 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-05-18T12:36:58.232002+00:00",
-      "last_seen_at": "2026-05-19T00:12:32.167537+00:00"
+      "last_seen_at": "2026-05-19T12:13:18.066060+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/cons-products/electronics/what-are-samsung-union-workers-demanding-and-how-might-a-strike-play-out/articleshow/131197471.cms": {
+      "title": "삼성 노조원들은 무엇을 요구하고 있으며, 파업은 어떤 양상으로 전개될까요?",
+      "link": "https://economictimes.indiatimes.com/industry/cons-products/electronics/what-are-samsung-union-workers-demanding-and-how-might-a-strike-play-out/articleshow/131197471.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-05-19T12:13:18.066060+00:00",
+      "last_seen_at": "2026-05-19T12:13:18.066060+00:00"
+    },
+    "https://www.scmp.com/tech/tech-trends/article/3354099/chinas-rapid-chipmaking-expansion-threatens-ai-memory-chip-boom-samsung-adviser-warns": {
+      "title": "삼성 고문은 중국의 급속한 반도체 제조 확장이 AI 메모리 칩 호황을 위협한다고 경고했습니다.",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3354099/chinas-rapid-chipmaking-expansion-threatens-ai-memory-chip-boom-samsung-adviser-warns",
+      "source_name": "South China Morning Post World",
+      "country_code": "HK",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-05-19T12:13:18.066060+00:00",
+      "last_seen_at": "2026-05-19T12:13:18.066060+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/samsung-labour-union-meet-again-as-seoul-threatens-to-intervene-to-block-strike/articleshow/131189985.cms": {
+      "title": "삼성전자와 노동조합, 파업 저지 개입 가능성 시사해",
+      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-labour-union-meet-again-as-seoul-threatens-to-intervene-to-block-strike/articleshow/131189985.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-05-19T12:13:18.066060+00:00",
+      "last_seen_at": "2026-05-19T12:13:18.066060+00:00"
+    },
+    "https://www.scmp.com/news/asia/east-asia/article/3354038/starbucks-korea-boss-loses-job-after-tank-day-promotion-misfires": {
+      "title": "스타벅스 코리아 사장이 '탱크 데이' 프로모션 실패로 해고당했다",
+      "link": "https://www.scmp.com/news/asia/east-asia/article/3354038/starbucks-korea-boss-loses-job-after-tank-day-promotion-misfires",
+      "source_name": "South China Morning Post World",
+      "country_code": "HK",
+      "companies": [
+        "Shinsegae"
+      ],
+      "first_seen_at": "2026-05-19T12:13:18.066060+00:00",
+      "last_seen_at": "2026-05-19T12:13:18.066060+00:00"
     }
   }
 }
