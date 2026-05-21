@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-05-20T11:50:15.041890+00:00",
+  "last_run_at": "2026-05-21T00:10:43.082093+00:00",
   "seen_articles": {
     "https://www.motor1.com\nkia is already smashing sales records in 2026\ngoogle_news": {
       "title": "기아는 이미 2026년 판매 기록을 경신하고 있습니다.",
@@ -48,28 +48,6 @@
       "first_seen_at": "2026-04-04T23:36:52.857903+00:00",
       "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
     },
-    "https://www.largus.fr\nkia seltos (2026). le nouveau suv compact hybride arrive en france\ngoogle_news": {
-      "title": "기아 셀토스(2026). 새로운 소형 하이브리드 SUV가 프랑스에 출시됩니다.",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYU9SblI2NFB3cDAxWnJ6S0VQMzlJNlFHNDVLQkNQNko3ZkJPNTJpU2didi1kRFhMUFlzbmVtTnBSYUhSV1N5ZFh2aVMzWHBFbUdFX0d6UVRVVzZ6aWVjeGFHaUMxcjNhQ1dEaDNNOF8tcm82czc1S3VmdmdrMXF5SFRKT3BLX0l0eV9UN0JfSE1NMGJsYzdSblZ6MmZpMDVIZmxzamZ2c1BzazN4eEg2T0pPY0pCX29CZkkyMw?oc=5",
-      "source_name": "L'Argus",
-      "country_code": "FR",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-04T23:36:52.857903+00:00",
-      "last_seen_at": "2026-04-05T23:38:54.660279+00:00"
-    },
-    "https://genk.vn\nnexon tin ai không thể thay thế sáng tạo, nhưng vẫn muốn game rẻ hơn\ngoogle_news": {
-      "title": "넥슨은 AI가 창의성을 대체할 수는 없다고 믿지만, 게임 가격을 낮추는 것은 여전히 원한다.",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRlFqcFYyTjRxamE4anE4ODlzZmJkSDctQlhick84QUlCMGkzTDJjZ3dEd3F0UjhUTkZ5ZjB2LUxJUU14SXNmSjFyZF9MOWZYS2NLRk16c2d3cXMzN0RReHZrMlBGU3FBZVlVLVk1Z0JGSXMzTldvQVVlUE11THlFOUFIT09ZZGhzRHJDRHFzZHZoWW9NUVVvRjZwZ2swMmZobmZDOHlSUmItQQ?oc=5",
-      "source_name": "GenK.vn",
-      "country_code": "VN",
-      "companies": [
-        "Nexon"
-      ],
-      "first_seen_at": "2026-04-04T23:36:52.857903+00:00",
-      "last_seen_at": "2026-04-05T23:38:54.660279+00:00"
-    },
     "https://oe1.orf.at\n30 jahre fairtrade-kakao | sa | 04 04 2026 | 11:40\ngoogle_news": {
       "title": "공정무역 코코아 30주년 | 남아공 | 2026년 4월 4일 | 오전 11시 40분",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5qWEJHMjFaVG1IXzJXQ2F6RmEzWkJXUVJpaFRIRUZocFZ5V3ZJcWsyZFI4RGtmeENEZkpZYTM1ak5Yd1BSSFJVdG8yTTYzQXBWSXhfTV9SdlhVMzdFTHNuZllsa0tYMHpCeWoyZFVwM21mSVBLWEk4?oc=5",
@@ -80,39 +58,6 @@
       ],
       "first_seen_at": "2026-04-04T23:36:52.857903+00:00",
       "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
-    },
-    "https://www.oricon.co.jp\nhybeオーディション最終候補・hiori、高校3年生の覚悟「これが最後のオーディションになるかもしれない」【world scout】\ngoogle_news": {
-      "title": "HYBE 오디션 최종 후보·HIORI, 고등학교 3학년의 각오 「이것이 마지막 오디션이 될지도 모른다」【WORLD SCOUT】",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40bmVlUmFIdkpxMFM2VjVyU0pRUnRvNENMNzJ5SHI4akVwMmJ3ck9WWFNmbTlqTGQ0RUpTMUFHSHI4RkFXaF9Da2l2YVBLZUE?oc=5",
-      "source_name": "オリコンニュース",
-      "country_code": "JP",
-      "companies": [
-        "HYBE"
-      ],
-      "first_seen_at": "2026-04-05T09:44:35.093844+00:00",
-      "last_seen_at": "2026-04-05T23:38:54.660279+00:00"
-    },
-    "https://en.bloomingbit.io\ndigital asset act emerges as a variable in naver–dunamu ‘big deal’\ngoogle_news": {
-      "title": "디지털자산법이 네이버-두나무 '대규모 거래'의 변수로 부상",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sSkdTTFBnOXFZeXdDZGlYNWdoWTFqaGhzWGNDbkR1dzBjWmdIUW1JR1E1TERYXzRtRE4wNDRtNGt2ejBqRXhaZzFEazlFMG5Qd2lOYw?oc=5",
-      "source_name": "bloomingbit",
-      "country_code": "US",
-      "companies": [
-        "NAVER"
-      ],
-      "first_seen_at": "2026-04-05T09:44:35.093844+00:00",
-      "last_seen_at": "2026-04-05T23:38:54.660279+00:00"
-    },
-    "https://www.birminghammail.co.uk\nfive cheapest electric cars to insure - full list including fiat and kia\ngoogle_news": {
-      "title": "보험료가 가장 저렴한 전기차 5종 - 피아트와 기아 포함 전체 목록",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSDFmWl9UT2VtdGtIaE9WazBWMkhKUWZYQUFkdFpCZ0hNcmRGS3EtUFB2dnhJcy02UDNHNGc5M3VrM3pEcVBTWmRrTG1lZ3BQY1F4dGgtLW9lUDE1Uk52dU9xd0tKMVF6UDBCcFlMWGVlcklWcmZ2MS0tTGtsRkNzd0IyWVk3b1dYdlg1ekZ6STU1X3EzeFNrS2F1Z2JISjhH0gGmAUFVX3lxTE43bE5wZTBoZ0xSUEtJZ2FYdVJYQ2k0ZHdNZjlxWmdIMXVTS2pKSHNZeVZjTk5ual9WOXg0ZGwwN2I3WkF1enpzemw0b1hzTTZZTFB1bmpicF9yX2VKWXR2Y0sxSHFvTlJtcVRRdTRuNC02SXRiQzlTT3VPU0s0ZG9ES1RWYW9oeWwyamhkeFZ1Xzg4enF0NTRLQnpYVFlFMTF0RFdGVnc?oc=5",
-      "source_name": "Birmingham Live",
-      "country_code": "GB",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-05T09:44:35.093844+00:00",
-      "last_seen_at": "2026-04-05T23:38:54.660279+00:00"
     },
     "https://travelradar.aero\nkorean air to ditch ‘kal’ in favour of ‘ke’ in overhaul rebrand -\ngoogle_news": {
       "title": "대한항공, 대대적인 브랜드 개편의 일환으로 ‘KAL’을 ‘KE’로 변경 예정 -",
@@ -158,39 +103,6 @@
       "first_seen_at": "2026-04-05T09:44:35.093844+00:00",
       "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
-    "https://simplywall.st\na look at coupang (cpng) valuation after new nvidia ai factory partnership announcement\ngoogle_news": {
-      "title": "엔비디아의 새로운 AI 팩토리 파트너십 발표 후 쿠팡(CPNG)의 기업 가치 분석",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSmVpX3hZMG1HWGFoMFU4M0VQc0xUNU5JRHhFMnhVS09aQUlLTENqMTdmbDctVlBJNjAxSmRhdzhwcFBGUzJjUjREOGxpUm5ja1VmMVVnOVFGOE9KcWZnU0tYSE9YbXpHa05aelY0cndabWlXNGMyYU5fYWN6eUZVZ29WWlNJaDNHOElNOGNlaTAtMWVickE0NUxyU3FiSzBXRXdlUVBUUUV6ZWt1TFZQR3JVQldlVk5GbVRPSjE4Y9IBxAFBVV95cUxQc1ZFVzJZQXVTbkljejJUejlnQnpmNUctbngtRzNxMzBDbnNheVpaVXJ5Vlc3QmZnZUMyQTg4ZzhtcU5wVWNKTjJKeHZxWGREcFp2cGxITUh5U0d0cFZWdmplWWVEUUxwSlNoR1dwdVgtMzh6bzQ0ZUVmNEtyaHJSUHcycE12SFJLeFVEeWtBeHZJUFhTTUJWeHpJZUZUUkhYd250a3ZhWEYwcVpoTE4xbDZJckRsUkgyQXF2MEFiNDZ6V3ox?oc=5",
-      "source_name": "simplywall.st",
-      "country_code": "US",
-      "companies": [
-        "Coupang"
-      ],
-      "first_seen_at": "2026-04-05T09:44:35.093844+00:00",
-      "last_seen_at": "2026-04-05T23:38:54.660279+00:00"
-    },
-    "https://www.24h.com.vn\nkia seltos bổ sung 2 phiên bản mới, tham vọng \"áp đảo” trang bị trong phân khúc\ngoogle_news": {
-      "title": "기아 셀토스는 두 가지 새로운 트림을 추가하여 우수한 기능으로 해당 세그먼트를 장악하고자 합니다.",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRkFkUzZhS3hOOFMzekVTb1NNNkxiMS0yWml3Ym5ZOU5mNUt1bzB1dFI5S2xNUjg5SmRuRnRQNlJqN3F4Z0Eta19DNEJwWTBWaFQxYWphaS1SczVuNnk1QlRWWlJnVE1oZDN2S0wwOHVtTmZKb2gwZU5ZOE8tVFJVZEZmSm9mRUM0ZHFoQm10cVEwdVEwaERNczh0ai0tUTNfaEM0bFZTWDhlb0wyUmVNUmtJY29QWDIyNEVqQVRrbw?oc=5",
-      "source_name": "Tin tức 24h",
-      "country_code": "VN",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-05T09:44:35.093844+00:00",
-      "last_seen_at": "2026-04-05T23:38:54.660279+00:00"
-    },
-    "https://www.lepopulaire.fr\nnexon : les 5 stations-service essence et gasoil les moins chères (màj : 05/04/2026)\ngoogle_news": {
-      "title": "넥슨: 가장 저렴한 휘발유 및 디젤 주유소 5곳 (업데이트: 2026년 5월 4일)",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd2doZ1E2NEhUbXFiSXA5SnpDY0ZkUVNBZk1DWHFKTnJOQnIyeklPMjlWYUdNQlU1bGdxVDBqdTl6S29KNk53cU5NR0RxZjE3clVsSVJOTjdIUGJjQ0VsTjMyaS1kcElfQkFOT0ZGUmJ4dHdqancxYjhtSUVnbEpmcm9TazBBR0NHeHNWVERJTmNYbTc1MzZHZHN1MkIwN3BFeUVfSm1fRjdZc2FTbjBKSWhZTG9lRFZpWjctOXBvVUI?oc=5",
-      "source_name": "Le Populaire du Centre",
-      "country_code": "FR",
-      "companies": [
-        "Nexon"
-      ],
-      "first_seen_at": "2026-04-05T09:44:35.093844+00:00",
-      "last_seen_at": "2026-04-05T23:38:54.660279+00:00"
-    },
     "https://innovatopia.jp\nnaver carecall｜aiが高齢者に電話をかける時代—日本の介護現場が変わる\ngoogle_news": {
       "title": "NAVER CareCall | AI가 고령자에게 전화를 걸 때 - 일본의 개호 현장이 바뀐다",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81NnpvdTNtbGVBYVhmaGNfR1k4U3VZLTVfR2tVU1dKMDB1N09hYWU4ZllNT1ppMlV3c2ZRQzJpTFBIb3MwVlRLUWlJN3BMQk9iRmRXMHREbEF6QjVJT1ZUOGJfcHQ4dnlWNlE?oc=5",
@@ -235,17 +147,6 @@
       ],
       "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
       "last_seen_at": "2026-04-06T23:40:47.429334+00:00"
-    },
-    "https://news.yahoo.co.jp\nhybeオーディション『world scout』特別番組放送決定 村重杏奈ら出演（オリコン）\ngoogle_news": {
-      "title": "HYBE 오디션 「WORLD SCOUT」특별 프로그램 방송 결정 무라시게 안나 등 출연(오리콘)",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nYlQ3bk1HaHVpamtyNHVHR2xRdVRRejQyOXhCUHBxWklFRDdIdEY1Z2RuUnp0OFpPeFVuUGxGNEllLWRCVEJITjNZQ0hMNDNJdGlTZ21TX2w5aFpJMEx3ZnpUWGZlZmNyeWlLYzZGN3d6OTJQYXlfMlpaeUtyRkk?oc=5",
-      "source_name": "news.yahoo.co.jp",
-      "country_code": "JP",
-      "companies": [
-        "HYBE"
-      ],
-      "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-05T23:38:54.660279+00:00"
     },
     "https://www.oricon.co.jp\nhybeオーディション『world scout』特別番組放送決定 村重杏奈ら出演\ngoogle_news": {
       "title": "HYBE 오디션 「WORLD SCOUT」특별 프로그램 방송 결정 무라시게 안나 등 출연",
@@ -335,17 +236,6 @@
       "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
       "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
     },
-    "https://www.techz.vn\nkia ‘trình làng’ suv điện mới đẹp lung linh: cùng cỡ với xforce và yaris cross, giá hấp dẫn\ngoogle_news": {
-      "title": "기아가 놀라운 신형 전기 SUV를 공개했습니다. 엑스포스와 야리스 크로스와 비슷한 크기에 매력적인 가격을 자랑합니다.",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVHZ1ZW9SYWlWOVYxYWI2cHpaUjZKSnJxSE1BRUNfODAxbFJ0Qm5YUURfY0xqS29JcUQydVE5dmxId1hmNWF0cDZ0TU9QcWY5TDlqeEplMW9EbWE4QnpyUUpKdFVQd1d2dDlRYUxhOFJPYVctZWNSQ0NoaWVwdS1COWJLa0FqemtpU21COUFaSDRCYzAtNkZzRlNReF9EZ3FSbEFFYjc4Mk9WRVJFVzN2djZjS3lBMW4wTEt0V3ZBYmpQd3FaNWpIQmZpRWNDZw?oc=5",
-      "source_name": "Techz.vn",
-      "country_code": "VN",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-05T23:38:54.660279+00:00"
-    },
     "https://actu.fr\nessai auto : kia ev2, le suv urbain électrique aux équipements spectaculaires !\ngoogle_news": {
       "title": "자동차 리뷰: 기아 EV2, 놀라운 기능을 갖춘 전기 도심형 SUV!",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWnJqZkxOelZfeEFqa1lyZFNVNThoUzlVVDJQLXlMU2o5TWY3TjVXcnJleGV3N2UxRU5uTFlHbHg5cXZqRms0WDItTDVlemRjcFNMdG1HSWVpRUkyRFpDNlFCOTJkUHZrZXhEaGc0bkxiUi1OZ05NWHVERVdfRTNMRmtNcUNkb0lDWUdDVWFMM29zczNPQXpOeDhnblVoelZXNUpqUlMzdnBqeHZxVWMxTkVGbTRwVHZaeFNveW51Ni1FalRpYk45eXdPRlo?oc=5",
@@ -401,17 +291,6 @@
       "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
       "last_seen_at": "2026-04-06T23:40:47.429334+00:00"
     },
-    "https://fr.motor1.com\ndu monospace au fourgon en quelques secondes. voici le kia pv5 crew van\ngoogle_news": {
-      "title": "미니밴에서 밴으로 순식간에 변신하는 기아 PV5 크루밴입니다.",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBucFF1RDItbWxLMkl6MWtXeF9fRGFqc1JuOG1Kak5HemQ3ekV2QXdwYjNROW1VSkFmdXA0NUpVTU1DYVRIU1dpaFRmVUhIX25vamsxNQ?oc=5",
-      "source_name": "Motor1.com France",
-      "country_code": "FR",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-05T23:38:54.660279+00:00"
-    },
     "https://www.ad-hoc-news.de\nnexon co ltd aktie: was du jetzt über den gaming-giganten wissen solltest\ngoogle_news": {
       "title": "넥슨 주식: 게임 업계 거물인 넥슨에 대해 지금 알아야 할 모든 것",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeUtYYjVhUnRWRE42MWZOS01zUHJMc3lva3lOT1dCMDFmOTFmMU1Ud0VjazhSUnlORFBpcGliQk9YM21JMkFRTFZZRkR3UC02LXFDdW5FTDA2YnZoVF9FN1BTbUJkUncwRFMzYk9sQ0ZDYktzZjlQaGNNdU1mVUcyNlNtOUgzSkNPam9vcjdmNHlGRTJNU1o4YVFSd3ZnWV84aXQxM0xBekhIR3gtemIzTmY1ZGo2SXRhUUdQaGxqbVo1eWNSTjZ6cHJQWXI?oc=5",
@@ -445,17 +324,6 @@
       "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
       "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
-    "https://www.kapitalmarktexperten.de\nsk hynix aktie: grosskapital kehrt zurück\ngoogle_news": {
-      "title": "SK하이닉스 주식: 큰 자본 수익률",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWldsRHZwN29GazZRZFpaakczQ284bW1ZZDBLd3Jfb3JJbHlMQWpkZmhOb0t4akhycTFvckJZM2NTMnlRZ1MwQmd6Ny11ejN5eW5OSUstWkVSdHljOHVBOVFDbXc1bEZnVmVjNTlucnI5Z1M1cng4QjZxVXdLZGlMWmhmbW4?oc=5",
-      "source_name": "kapitalmarktexperten.de",
-      "country_code": "DE",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-05T23:38:54.660279+00:00"
-    },
     "https://www.digitimes.com\nsamsung and sk hynix to reportedly bolster helium supply chain as iran conflict risks rise\ngoogle_news": {
       "title": "삼성과 SK하이닉스가 이란과의 분쟁 위험 증가에 따라 헬륨 공급망을 강화할 것으로 알려졌다.",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSV9tTVVjSEtsTS1DenNhNkVCdVRsd3RaNHhKNGNDZVFTbXNVOVBFWnNTMjRXa09FcnhOV0d6b1g2akpaX19KQmJyLUJHNmpIbUtLRWxvRXV5TGV3al9GNjNVeWc0QW85NG1naVlOOXpvTVZDbFBRRnF5QTQ0a2wzTDM1ajktN0dEUm5EbnFmcU5tTmh6eEU0bWd5QmRwNWRQOEJ5Zk44b0E?oc=5",
@@ -478,39 +346,6 @@
       "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
       "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
-    "https://kstyle.com\nbtsとお揃いの“swimジャンパー”を着用！hybeファミリーのダンス動画が話題…「それスノ」出演者も続々参加\ngoogle_news": {
-      "title": "BTS와 갖추어진 \"SWIM 점퍼\"를 착용! HYBE 패밀리의 댄스 동영상이 화제… 「그것 스노」출연자도 속속 참가",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTQWZLMTFlQzFQVEoxT1ZJMFB0bFZJR0Vzd3N6OWhyUDVoSHlwTUo2cXdTd1NxU21SWHVDU1NRSXllbnN5cHczZVNKUWRNek9RZXZfSTlFLXNpNnV6?oc=5",
-      "source_name": "Kstyle",
-      "country_code": "JP",
-      "companies": [
-        "HYBE"
-      ],
-      "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-05T23:38:54.660279+00:00"
-    },
-    "https://de.tradingview.com\nkurzfristiges verhältnis von hybrid energy holdings inc – otc:hybe\ngoogle_news": {
-      "title": "HYBRID ENERGY HOLDINGS INC(OTC:HYBE)의 단기 관계",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMllMTnJEVHkwQUdzSndldlREdXJaa01BdnY3aDZ2MEVpQUVwM09vWnhxc1pZQ0lYOXZ1Y3NmZGlndTJlS0U4S2hTMEtIVlpiWXVESktTOGR0cU9Sd0lqVTBKeUhOMTRKTWdneENxZ0dGblJvVkpLdTM0eFdFWTBuWERLQlhCb0pCOWhwMFhjUFpPXzg?oc=5",
-      "source_name": "de.tradingview.com",
-      "country_code": "DE",
-      "companies": [
-        "HYBE"
-      ],
-      "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-05T23:38:54.660279+00:00"
-    },
-    "https://news.yahoo.co.jp\nhybeオーディション最終候補・hiori、高校3年生の覚悟「これが最後のオーディションになるかもしれない」【world scout】\ngoogle_news": {
-      "title": "HYBE 오디션 최종 후보·HIORI, 고등학교 3학년의 각오 「이것이 마지막 오디션이 될지도 모른다」【WORLD SCOUT】",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKS0ZLM2k3SmtMMGVTX1FQZ2w3QU41V1plRUNJZmRqRTAxVjlsT2xhRTAyMXZQMEJodVFpbXZTVW8xclQ0dW53S1N5SjNHUGRDVlprNVhqcEd4dHkxbWppc253azVmNTNfRnRLYmh0dE11WDNIdUlqem9rVUcxdWs?oc=5",
-      "source_name": "news.yahoo.co.jp",
-      "country_code": "JP",
-      "companies": [
-        "HYBE"
-      ],
-      "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-05T23:38:54.660279+00:00"
-    },
     "https://www.nationalworld.com\nreview: kia’s £33k ‘lego car’ could reinvent family travel – and vans\ngoogle_news": {
       "title": "리뷰: 기아의 3만 3천 파운드짜리 '레고 자동차'는 가족 여행과 밴의 개념을 바꿀 수 있을까?",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQREFFRnVzU09iZnJGd2p5VWNqcWtRbTNnbFZ6WjRadjJCNVcyeDNIUEpLNzlzVV9zaXJ1dmtpUDg4MGJVYzI5amc4a2pGeWI1M3BMeF9SeDVZcGF1TGxVMGVkeGNfUEV5NWlLN3FGLWxlbVRZMDJTRnRYeExucGVvdk9ldXFVY1p3RW1mcFp4cFNwQklyUmRfM3R6M0lvRTVFOUR1NG44X29DSGdiNDJPNG12SW9faVlTdERxZXdTdlFobU1RSkY3YjM0LXF1ZGUwcVE?oc=5",
@@ -522,17 +357,6 @@
       "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
       "last_seen_at": "2026-04-06T23:40:47.429334+00:00"
     },
-    "https://www.jiji.com\nhuawei、lg electronics、および nokia がシズベルの新しい pos プールの創設ライセンサーに\ngoogle_news": {
-      "title": "Huawei, LG Electronics 및 Nokia가 Sizbel의 새로운 POS 풀 설립 라이센서",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02QnhMdlFBWG9rWDZNalc5WjN6UmRhUWtmN1U0Q0xuMVJNOExUcWhQNWpWeC15b0V6M0R1WDNYWEtDaDFYdzhtOVRaazFQSTVTN1BIeUIwbkR0ZlNuVmhFWEdFMA?oc=5",
-      "source_name": "時事ドットコム",
-      "country_code": "JP",
-      "companies": [
-        "LG Electronics"
-      ],
-      "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-05T23:38:54.660279+00:00"
-    },
     "https://www.merkur.de\nkia ev2 im fahrtest: so gut ist der id.polo-konkurrent für 26.600 euro\ngoogle_news": {
       "title": "기아 EV2 시승기: 26,600유로에 판매되는 ID.Polo 경쟁 모델은 얼마나 좋을까요?",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN1RZNlpHXzFwY1REbWhHX1lXSHpkTzBPOTVTNklTcDhmenIzVDU3ZXlZcmIyYjQ3empwaC1Vd0R5UllfR1o1MmlVekNNRlBzU3JoWW1XVTVKMXMtTmtVS28xeGZkRTVNeHpsTkJ5TEVJSXRPbTFhaHRQVlZuYTdLVERSQUotVnkzeER0WWpwNndCOGNubHVEVnQ5cmtlOC1sLUpUTDQzRkVDZ0VJeGc?oc=5",
@@ -543,28 +367,6 @@
       ],
       "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
       "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
-    },
-    "https://www.sanyonews.jp\n“たった1人”発掘するhybeオーディション、豪華審査員発表 『タイプロ』話題のnosukeも【審査員／トレーナー一覧】\ngoogle_news": {
-      "title": "“단 1명” 발굴하는 HYBE 오디션, 호화 심사원 발표 “타입로” 화제의 NOSUKE도【심사원/트레이너 일람】",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OS0t4WUFHWFlray1EX254akVIeXM4TmNTdm41R3JkazNaNWZMRTh0UWNRT2xhYWdnSkVhcVI1RS1rMWN1T1gyRUwzaVRfSkIySnFpYWF0SEhENkVfQml5MjJOX3ROLXlq?oc=5",
-      "source_name": "山陽新聞デジタル｜さんデジ",
-      "country_code": "JP",
-      "companies": [
-        "HYBE"
-      ],
-      "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-05T23:38:54.660279+00:00"
-    },
-    "https://kienthuc.net.vn\nkia seltos 2027 thêm bản hybrid tiết kiệm nhiên liệu, mở bán cuối năm\ngoogle_news": {
-      "title": "2027년형 기아 셀토스에는 연비 효율이 뛰어난 하이브리드 버전이 추가될 예정이며, 올해 하반기에 판매될 예정입니다.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX3BTNjc1aVFGWHpSd0pBcDBJd19FcEVFd281cmRhSzExRnBFMm9Ba3JWNlZJSldFLWlsUnl1eHRyMjU5VUwzMTV3VVZGVUhwVXRGMS1zSW1VZmx4TDVNOTVwTFRrTEpoMWNEd0djQkRSTGR4cGhRV1M4dkxZamE1a08zN01TZzVGeTVrSUpxeDFBUVBIMnd5U1NTXzBEZFpPQ1dLTG5PcGZjaXJiMHc?oc=5",
-      "source_name": "Báo Tri thức và Cuộc sống",
-      "country_code": "VN",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-05T23:38:54.660279+00:00"
     },
     "https://www.msn.com\nkia seltos reaches american market with hybrid powertrain: here's what's new\ngoogle_news": {
       "title": "기아 셀토스, 하이브리드 파워트레인 탑재하고 미국 시장 출시: 새로운 점들을 살펴보자",
@@ -7273,10 +7075,10 @@
         "Kia"
       ],
       "first_seen_at": "2026-05-20T11:50:15.041890+00:00",
-      "last_seen_at": "2026-05-20T11:50:15.041890+00:00"
+      "last_seen_at": "2026-05-21T00:10:43.082093+00:00"
     },
     "https://www.theverge.com/tech/934432/samsung-electronics-strike-memory-chip-supply": {
-      "title": "삼성 직원들이 최악의 시기에 파업을 예고하고 있다.",
+      "title": "삼성은 메모리 칩 파업을 피하기 위해 노동자들과 잠정 합의에 도달했습니다.",
       "link": "https://www.theverge.com/tech/934432/samsung-electronics-strike-memory-chip-supply",
       "source_name": "The Verge",
       "country_code": "US",
@@ -7284,7 +7086,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-05-20T11:50:15.041890+00:00",
-      "last_seen_at": "2026-05-20T11:50:15.041890+00:00"
+      "last_seen_at": "2026-05-21T00:10:43.082093+00:00"
     },
     "https://www.tagesschau.de/wirtschaft/unternehmen/samsung-generalstreik-tarifstreit-100.html": {
       "title": "삼성이 역사적인 총파업에 직면한 이유는 무엇일까요?",
@@ -7295,7 +7097,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-05-20T11:50:15.041890+00:00",
-      "last_seen_at": "2026-05-20T11:50:15.041890+00:00"
+      "last_seen_at": "2026-05-21T00:10:43.082093+00:00"
     },
     "https://www.cnbc.com/2026/05/20/samsung-electronics-strike-workers-union-wage-talks-shares.html": {
       "title": "삼성전자 직원 4만 7천여 명이 임금 협상 결렬로 파업에 돌입할 예정이어서 주가가 하락했다.",
@@ -7317,7 +7119,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-05-20T11:50:15.041890+00:00",
-      "last_seen_at": "2026-05-20T11:50:15.041890+00:00"
+      "last_seen_at": "2026-05-21T00:10:43.082093+00:00"
     },
     "https://www.scmp.com/news/asia/east-asia/article/3354165/samsung-workers-go-ahead-18-day-strike-bonus-talks-collapse": {
       "title": "삼성 직원들이 보너스 협상 결렬 후 18일간의 파업에 돌입했습니다.",
