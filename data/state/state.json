@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-05-21T00:10:43.082093+00:00",
+  "last_run_at": "2026-05-21T12:18:36.835836+00:00",
   "seen_articles": {
     "https://www.motor1.com\nkia is already smashing sales records in 2026\ngoogle_news": {
       "title": "기아는 이미 2026년 판매 기록을 경신하고 있습니다.",
@@ -37,83 +37,6 @@
       "first_seen_at": "2026-04-04T09:43:16.682970+00:00",
       "last_seen_at": "2026-04-11T23:40:10.647210+00:00"
     },
-    "https://www.auto-motor-und-sport.de\nwenn allrad nicht alles besser macht: kia sportage 1.6 t-gdi im test\ngoogle_news": {
-      "title": "사륜구동이 모든 것을 좋게 만들지는 않을 때: 기아 스포티지 1.6 T-GDI 실전 테스트",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcWVjaTdPZU5pVGFETTZpNFJKbjBJc0JlQjdKQTB0ck5PYjltVWgzbnlxdlVTNzY0VVVNU3FpbDFpUWR3bjFXYUFXSWZoUTVUOEdUQzRXNjlEb2R4a2poLUJzRW9yTUllTkRwa0FFakxaT1RiRnZwNnNVX0tMV0drcTZheUd5VXhRaWdUbnJrR1BNbDR6bTF1Sjg4cFhoeFFmSnRkZ2ZMcHhBcDZ5Tnc?oc=5",
-      "source_name": "Auto Motor und Sport",
-      "country_code": "DE",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-04T23:36:52.857903+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
-    },
-    "https://oe1.orf.at\n30 jahre fairtrade-kakao | sa | 04 04 2026 | 11:40\ngoogle_news": {
-      "title": "공정무역 코코아 30주년 | 남아공 | 2026년 4월 4일 | 오전 11시 40분",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5qWEJHMjFaVG1IXzJXQ2F6RmEzWkJXUVJpaFRIRUZocFZ5V3ZJcWsyZFI4RGtmeENEZkpZYTM1ak5Yd1BSSFJVdG8yTTYzQXBWSXhfTV9SdlhVMzdFTHNuZllsa0tYMHpCeWoyZFVwM21mSVBLWEk4?oc=5",
-      "source_name": "oe1.ORF.at",
-      "country_code": "DE",
-      "companies": [
-        "Kakao"
-      ],
-      "first_seen_at": "2026-04-04T23:36:52.857903+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
-    },
-    "https://travelradar.aero\nkorean air to ditch ‘kal’ in favour of ‘ke’ in overhaul rebrand -\ngoogle_news": {
-      "title": "대한항공, 대대적인 브랜드 개편의 일환으로 ‘KAL’을 ‘KE’로 변경 예정 -",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY0ZZdl9DUVVkVmE2UFBoTnB4ZFhnZnNtVTh0RmtNdjVOTm1tV190eVk1UkxtRFlQMzhjU2RqSVEwSVB3R1AtbUdCUjdHeFU1MTVLVXcyQkxZU3lSTVNFWlNjcjhxYjBCb3ViZUdXSHY3MXh0UnpuLTlfdmNlZ3lrNk54SEFKem9NU1FKWlF3?oc=5",
-      "source_name": "Travel Radar",
-      "country_code": "GB",
-      "companies": [
-        "Korean Air"
-      ],
-      "first_seen_at": "2026-04-05T09:44:35.093844+00:00",
-      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
-    },
-    "https://www.fitbook.de\nsupermärkte ersetzen schokolade! ist die schoko-alternative choviva gesünder als kakao?\ngoogle_news": {
-      "title": "슈퍼마켓에서 초콜릿을 대체하는 제품들이 나오고 있습니다! 초콜릿 대체품인 초비바(ChoViva)는 코코아보다 건강에 더 좋을까요?",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83REM0cFEtcFJEeldBX2dQRDd3dGl1Rl94OVNTTTc1OVFESlJVOFZyQnhfZEt5d19mZl9QY0syb25SUHItX0RQSnlFa2ZXYk9JTklsZTV5YjVrdU5h?oc=5",
-      "source_name": "FITBOOK",
-      "country_code": "DE",
-      "companies": [
-        "Kakao"
-      ],
-      "first_seen_at": "2026-04-05T09:44:35.093844+00:00",
-      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
-    },
-    "https://gamehub.vn\nthe first descendant thất thế, nexon thừa nhận “không thành công” và quyết tâm làm lại từ đầu\ngoogle_news": {
-      "title": "첫 번째 디센던트는 실패했고, 넥슨은 \"실패했다\"고 인정하며 처음부터 다시 시작하기로 결심했다.",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZTlqbEg0QkpaRmoxTnVOVUcyYjhTQlR3T3JTV1lhMXFMTFhTVEFRS1hOZUdNTnlLTV9Jd2ZQVWVRSVhVcWFXVXFZRU1sNVFaWGJpTTB4Vk1pclpnVWpVZkN1WGx3NUt4YnkxRUJEc0FVdk5kbDlKNklJVERKazN5WFNVTDByOGpxdVdBNVRqUmYxU1FZVnRDbFM2aWJzSTBEVTBOeWxTVXJjZkIxVVRVZFA0N3JwLVFINDRRMHpR?oc=5",
-      "source_name": "gamehub.vn",
-      "country_code": "VN",
-      "companies": [
-        "Nexon"
-      ],
-      "first_seen_at": "2026-04-05T09:44:35.093844+00:00",
-      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
-    },
-    "https://www.promobil.de\ntop-wertung für den e-zugwagen kia ev6 awd gt-line im test, mit wohnwagen hinten dran\ngoogle_news": {
-      "title": "기아 EV6 AWD GT-Line 전기 견인차가 카라반을 연결한 상태에서 실시한 테스트에서 최고 등급을 받았습니다.",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdEx4MEtxcEJQQ1AzU2RoMVlVY0N1WU9lWWtUSlJSZFVoLWpnZ3h1NW81N2R0blFUSktNSDl1UkY3a3czdGlaX0JaeFU0RlBWcDVDZGN0ZzM0Zl8wMEpvd2YybzdTM1hlX0doQno3TEdDa0ZPNG9kVjlOaTBKSmtreXU5LTlhUmFpZ1ExQzdMRTBBVFF5cXlwSE5PX0JfaFFOREdTVg?oc=5",
-      "source_name": "Promobil",
-      "country_code": "DE",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-05T09:44:35.093844+00:00",
-      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
-    },
-    "https://innovatopia.jp\nnaver carecall｜aiが高齢者に電話をかける時代—日本の介護現場が変わる\ngoogle_news": {
-      "title": "NAVER CareCall | AI가 고령자에게 전화를 걸 때 - 일본의 개호 현장이 바뀐다",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81NnpvdTNtbGVBYVhmaGNfR1k4U3VZLTVfR2tVU1dKMDB1N09hYWU4ZllNT1ppMlV3c2ZRQzJpTFBIb3MwVlRLUWlJN3BMQk9iRmRXMHREbEF6QjVJT1ZUOGJfcHQ4dnlWNlE?oc=5",
-      "source_name": "innovaTopia",
-      "country_code": "JP",
-      "companies": [
-        "NAVER"
-      ],
-      "first_seen_at": "2026-04-05T09:44:35.093844+00:00",
-      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
-    },
     "https://vov.vn\nkia lập kỷ lục doanh số quý i/2026, xe hybrid bùng nổ còn xe điện hụt hơi\ngoogle_news": {
       "title": "기아, 2026년 1분기 사상 최고 판매량 기록… 하이브리드차 호황은 누리는 반면 전기차는 부진.",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX2Y4U3ozS0lhMFFJeXlnTjY3M3F5NHp3eUxPRGFya3RMMENwTmdKQ2xvMzAxV0hxUE5rMDVNaDM4VHhsODZETE1CcGw5M0tKaHk1M3hxSHRHdDE4LUhrUnJSdENLbERGamIwUGRCQnFwRGFDYVZUWFNDeVU3SDBkRWxzT1dyWUd6aE5VZ2M3cjFIbVZ4ZThTRUJwT3Y0Nm1peVRSLURLTzhQdzRNU2VTRkFtSkk?oc=5",
@@ -148,50 +71,6 @@
       "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
       "last_seen_at": "2026-04-06T23:40:47.429334+00:00"
     },
-    "https://www.oricon.co.jp\nhybeオーディション『world scout』特別番組放送決定 村重杏奈ら出演\ngoogle_news": {
-      "title": "HYBE 오디션 「WORLD SCOUT」특별 프로그램 방송 결정 무라시게 안나 등 출연",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81NGk3OU9SWnQ2SlNPdTRfVXhCcmZ6RFIwUDdVSDR6TTRyV29vV3dCS013VlJlTl9NTHhEZW11YzFOelpHTF9yYWpvNk5pYXNjUWdpaVVB?oc=5",
-      "source_name": "オリコンニュース",
-      "country_code": "JP",
-      "companies": [
-        "HYBE"
-      ],
-      "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
-    },
-    "https://news.livedoor.com\nhybeオーディション『world scout』特別番組放送決定 村重杏奈ら出演 (2026年4月6日掲載)\ngoogle_news": {
-      "title": "HYBE 오디션 「WORLD SCOUT」특별 프로그램 방송 결정 무라시게 안나 등 출연 (2026년 4월 6일 게재)",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5LXhZRjNwOEdhdWNtYnhBYnI4Q3NTcTJzcjhhSmh0X0J4NnRGMHhLcVBGUm1feElaalQ5bzlRY05MQkZnUHVLdnN1cHlMdlhJbDkzVmlYbWtNeVB0TFE?oc=5",
-      "source_name": "ライブドアニュース",
-      "country_code": "JP",
-      "companies": [
-        "HYBE"
-      ],
-      "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
-    },
-    "https://www.boerse-express.com\nsk hynix aktie: milliarden für ki-offensive\ngoogle_news": {
-      "title": "SK하이닉스 주식: AI 공세에 수십억 달러 투자",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYkZYWEJxU0tneGxkdDBmU3dvNjI2alZyS1lDUTdYMlZOTXZPam5CSWNYamdhWFFCZTNqWl9JTm9MejhHdTZsdXNjQmJCMkU5Rkx5cGxZNElkdVZlSm9ZX2dUSlNTaGZWa2JJMWFsVnZEckR1cHRCUXRFZVpGY3M0U3pUN2VaUjZCb0R0bDhLTjA1S2t1Vi1YaE1kaw?oc=5",
-      "source_name": "boerse-express.com",
-      "country_code": "DE",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
-    },
-    "https://www.passionandcar.fr\nkia intègre le football dans ses systèmes multimédias avec des designs inspirés du mondial 2026\ngoogle_news": {
-      "title": "기아는 2026년 월드컵에서 영감을 받은 디자인을 통해 자사 멀티미디어 시스템에 축구를 접목시켰습니다.",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYTFrT3kyNFVNb3RMX3h4TTdSckRacEpyQ3hPMVMtZWVycUZZWk9Ha0xPNzFvNTliMjdNNVAxajF6Smkwd21JMTM0cGZIOWpTNEtHc1lKY2NOOTRLSmgyX1hwUWNOTU1Uc0lGVFpwTGVUN0FLU0c4bVRveFpicllpd0REakE5dGRRVV9PV1FOc3RaZWVuNUQ4OXpySTdOcW5YY1g4YjNlaUhyOEdmMUktZ3dkMTV0ZG1FWUltTU10eXgtd0V2bE8taVE2V2h4bVgyR1E?oc=5",
-      "source_name": "PassionAndCar.fr",
-      "country_code": "FR",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
-    },
     "https://www.businessinsider.com\ni spent 11 hours in korean air's business-class suites. my seat felt more private than i expected and had cool perks.\ngoogle_news": {
       "title": "대한항공 비즈니스 클래스 스위트에서 11시간을 보냈습니다. 좌석은 예상보다 훨씬 프라이빗했고 멋진 편의 시설도 갖춰져 있었습니다.",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNDFEcVN0ZjBPSVV5Tkc3SDZrNFFHdVZJNjVzbW14VGFUb1NUZmp3WWdwZlY1ZXdNOEZkb1NJXzZON0FzejFjMl9kdUNmd25ONnpsWVRHYUpDVEoySWd5TVZMeXpKQkFzN21qY2cyQ3N1NVFzcTRrdjl0eTF2VU44NzAwY2JEbTE0bWc1VWo1cHhiNnlzclA4Y0ZvZEF1eVBEcUVoVnR3?oc=5",
@@ -214,72 +93,6 @@
       "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
       "last_seen_at": "2026-04-06T23:40:47.429334+00:00"
     },
-    "https://de.tradingview.com\nbruttogewinn von mirae asset vision special purpose acquisition 5 company – krx:477470\ngoogle_news": {
-      "title": "미래에셋 비전 특수목적합병회사(SPAC5)의 총수익 – KRX:477470",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeW1ockpQdlhkaFhJYTZrNVdiNUZDZGNvazBQbWRvR3J0QVJxdUhRSXVrYTYtUjFkTGhncTRsODJXZTQ0d1RTNU5KNzNUV0wzSnRjcDBUeVRwSjBpWWM2cXlFVjBaQTdRWEFGRjZ3V0pndEptSTVTZFpvNF9pZl9LcmdHWTF5UElRdTJPYU1IaHA?oc=5",
-      "source_name": "TradingView",
-      "country_code": "DE",
-      "companies": [
-        "Mirae Asset"
-      ],
-      "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
-    },
-    "https://www.automobile-propre.com\nune kia électrique de poche équipée comme une grande, une bmw ix3 déjà moins chère, une tesla model y qui reprend la tête des ventes et byd qui voit ses bénéfices s'effondrer... bienvenue dans regen n°58\ngoogle_news": {
-      "title": "주머니에 쏙 들어가는 크기에 대형차 못지않은 사양을 갖춘 기아 전기차, 이미 가격이 더 저렴해진 BMW iX3, 판매량 1위 자리를 되찾은 테슬라 모델 Y, 그리고 수익이 급락하고 있는 BYD까지… 리젠 58호에 오신 것을 환영합니다.",
-      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOSU5FWVdXMVNhMm11VWRTdW1yU1VOVDBualFUUXR0VXBlRTVWbmo4MEhjcVZSNldxTzd5b2FxM185Y08tSDVzYUdCVWxBTXZIUHFWUzdzQ2J2eDg3eno0S3pONlpfLVZaeVZzZ09HU3dHUUFxOUZaMVJuZUZOeGVqVWVWbmNsNnZScmdaV3JOUS1PNjdsZzQ5YzZZM0NlNkR5cTNGSldtT2hSc1lvVjMzdmZIel9hRHhLeUNvOEdsR0d6T1Z5S0VScFpnazBsYmdnTlRueHQwTHBGMTJlU3E2ekdOZGY4cmNnTVd6c0NiSWFDbWVjZ0RqNnpRNjhEMkF3TDVyWUVhMF84QmZNTlhxSUdsNWhpaU5CSzRtc29qc0RmVzd5MDlPRFkyckJWSWtyVUtFd3VjVWVqX2txREllaDY3bDVVdU9mNENFbmpjYjFHekF6RWVR?oc=5",
-      "source_name": "Automobile Propre",
-      "country_code": "FR",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
-    },
-    "https://actu.fr\nessai auto : kia ev2, le suv urbain électrique aux équipements spectaculaires !\ngoogle_news": {
-      "title": "자동차 리뷰: 기아 EV2, 놀라운 기능을 갖춘 전기 도심형 SUV!",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWnJqZkxOelZfeEFqa1lyZFNVNThoUzlVVDJQLXlMU2o5TWY3TjVXcnJleGV3N2UxRU5uTFlHbHg5cXZqRms0WDItTDVlemRjcFNMdG1HSWVpRUkyRFpDNlFCOTJkUHZrZXhEaGc0bkxiUi1OZ05NWHVERVdfRTNMRmtNcUNkb0lDWUdDVWFMM29zczNPQXpOeDhnblVoelZXNUpqUlMzdnBqeHZxVWMxTkVGbTRwVHZaeFNveW51Ni1FalRpYk45eXdPRlo?oc=5",
-      "source_name": "Actu.fr",
-      "country_code": "FR",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
-    },
-    "https://games.gg\nly corp acquires kakao games stake for $198m\ngoogle_news": {
-      "title": "LY Corp, 카카오게임즈 지분 1억 9800만 달러에 인수",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96VkZTUm1iWmp4bTdwQlYzMGJwUVR2bXFXcjBtRXdiZmZMTUY5aXNqM3ZfNXpTdi1lbzFJUW95ZTdJZ0FaaGI1aGh1eTQ0V0Y1SDF0TllCbDlfLTZaYl9oeGUwdHVhX1p4eTFicENVdW9rNDQt?oc=5",
-      "source_name": "games.gg",
-      "country_code": "US",
-      "companies": [
-        "Kakao"
-      ],
-      "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
-    },
-    "https://www.autocar.co.uk\ni've driven astons, ferraris and porsches this year – but i'd still choose a kia picanto for my dream drive\ngoogle_news": {
-      "title": "올해 애스턴 마틴, 페라리, 포르쉐를 몰아봤지만, 꿈의 드라이브 상대로는 여전히 기아 피칸토를 고르겠습니다.",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNDh1cWVRdE9ZSVZEODNwSV8yTWJxaE0zT0NlR05ic2RkdTE5TG9VNjdKR0JLYjRRcnozYklXcWlNd05ISUVPUmZjTmNVRGhjUUthblhHMWxJWlpoTm9ubEpCak1YN0tMNE11OUFRbkRKdm1xbXpNbGM2MVpNWS1jcWFRcnpNTG1JeEZqbW9wVnNYU2pVMlhLMll3?oc=5",
-      "source_name": "Autocar",
-      "country_code": "GB",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
-    },
-    "https://www.investing.com\nsouth korea ai memory boom to drive samsung, sk hynix strategy shift\ngoogle_news": {
-      "title": "한국의 AI 메모리 붐이 삼성과 SK하이닉스의 전략 변화를 견인할 전망",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbFdybjhoY0pacTJDT2lvUG9yVldqY2E1REhyTjEzZEpyZEsyNmx0c3dJYmFVa0QzSUJ6QzhXcWxwLVVjR1ZBcGc5dEN3azRtNjlMd0M4bHFMaUNyZF9zRlQwNzU4c3JFcUxWdzhxeEtCazNWNW9laDgtSGZkNlRVQnZDdnBTOEdGbGNJaWQxdlNaalc2Q2w2MFN0QUVHc0lVNE5tVlNBOFk5NkNOTlJOTVh3MmxqWlRMX0Rr?oc=5",
-      "source_name": "Investing.com",
-      "country_code": "US",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
-    },
     "https://www.ad-hoc-news.de\nkorea aerospace industries aktie: was du jetzt wissen solltest\ngoogle_news": {
       "title": "한국항공우주산업(KAI) 주식: 지금 알아야 할 사항",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVGtTTlM1eDRnV2hUYWhxOHlGUkRVQ1FuRlhwTHo1UXlkLW1rMTk1TnlsWnNDT0V5b3FhWmxVQXR1OVdraGNiT2kwZndXdGF3cnZBVzFCQXBoVXQ0SEx4bmtKQW4wS1h3WV9PY2NTVWxndHE2b2pySnNNVFV5UzdsOGNfeUFucEZkdVBvdnBMMWJCWlMwXzlUU3lkSVpUX0V3aXlWdGtNaEhvTk5KSFlqRWs0emdkQQ?oc=5",
@@ -291,17 +104,6 @@
       "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
       "last_seen_at": "2026-04-06T23:40:47.429334+00:00"
     },
-    "https://www.ad-hoc-news.de\nnexon co ltd aktie: was du jetzt über den gaming-giganten wissen solltest\ngoogle_news": {
-      "title": "넥슨 주식: 게임 업계 거물인 넥슨에 대해 지금 알아야 할 모든 것",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeUtYYjVhUnRWRE42MWZOS01zUHJMc3lva3lOT1dCMDFmOTFmMU1Ud0VjazhSUnlORFBpcGliQk9YM21JMkFRTFZZRkR3UC02LXFDdW5FTDA2YnZoVF9FN1BTbUJkUncwRFMzYk9sQ0ZDYktzZjlQaGNNdU1mVUcyNlNtOUgzSkNPam9vcjdmNHlGRTJNU1o4YVFSd3ZnWV84aXQxM0xBekhIR3gtemIzTmY1ZGo2SXRhUUdQaGxqbVo1eWNSTjZ6cHJQWXI?oc=5",
-      "source_name": "AD HOC NEWS",
-      "country_code": "DE",
-      "companies": [
-        "Nexon"
-      ],
-      "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
-    },
     "https://www.saostar.vn\nsm và hybe 'đổi sân': cuộc chơi quyền lực mới của các 'ông lớn' kpop đang bắt đầu?\ngoogle_news": {
       "title": "SM과 HYBE, '편을 바꾼다': K팝 거대 기획사 간 새로운 권력 다툼이 시작되는 것일까?",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPanYzZm9tQVhJWHZQYUhxOHRLdGFENVZ0M01veWVUd1drdXRQdjNkN1VsQ1BOUTN0SGxIcDVoOWRGOGVvU29fOEhHeGRabTFqRFNLTWhZRmhPN0g5RVpCXzl1NTAzUks2Q2dic1dDNE1VU0FOd2d1SzVPYTgtZl85MmI2NC1QTWszcFZpbVF5REw5U1BrT3QwU2NGYXJpeG5XeXdFcWZCbkY?oc=5",
@@ -312,39 +114,6 @@
       ],
       "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
       "last_seen_at": "2026-04-06T23:40:47.429334+00:00"
-    },
-    "https://onefootball.com\nsubnautica-2-studiochef muss zurückkehren – krafton kassiert niederlage vor gericht\ngoogle_news": {
-      "title": "Subnautica 2 개발사 대표, 법정에서 패소하며 복귀 명령 받아 – Krafton",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONks2OWRnT2ZPdGN4aEFLM1lkME9qUDF0aldYb0pEdnhtUnk0NEJQUjN6QWpMSndFV1YwT3RNQkFoYnYtMXN3ZW42RUlKUDhPT2ZBTTNzSmhJWEpHSmtHRVVQREgyLVluWTlUc1AtVUNMVVh5cE1hbE83RmVJM2lJODhXRUt1cDZtR2JTNGgwMWRHM2VKOVNRTG5wam0xZU16enBoa0QtV29tNHRVbGthUEVPNFdUbWd6MXRLUmRHVGVrRE0?oc=5",
-      "source_name": "OneFootball",
-      "country_code": "DE",
-      "companies": [
-        "Krafton"
-      ],
-      "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
-    },
-    "https://www.digitimes.com\nsamsung and sk hynix to reportedly bolster helium supply chain as iran conflict risks rise\ngoogle_news": {
-      "title": "삼성과 SK하이닉스가 이란과의 분쟁 위험 증가에 따라 헬륨 공급망을 강화할 것으로 알려졌다.",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSV9tTVVjSEtsTS1DenNhNkVCdVRsd3RaNHhKNGNDZVFTbXNVOVBFWnNTMjRXa09FcnhOV0d6b1g2akpaX19KQmJyLUJHNmpIbUtLRWxvRXV5TGV3al9GNjNVeWc0QW85NG1naVlOOXpvTVZDbFBRRnF5QTQ0a2wzTDM1ajktN0dEUm5EbnFmcU5tTmh6eEU0bWd5QmRwNWRQOEJ5Zk44b0E?oc=5",
-      "source_name": "digitimes",
-      "country_code": "GB",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
-    },
-    "https://www.presse-citron.net\non a testé le kia ev2, l’électrique à 19 970 € qui veut humilier la renault 4\ngoogle_news": {
-      "title": "우리는 르노 4를 압도하겠다는 목표로 출시된 19,970유로짜리 전기차, 기아 EV2를 시승해 보았습니다.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSnQyRmJkLS1hMk1zbjl0cUJtV2RDQzZDejA5b3E5R0NqQ295dXlWOE1zc2ducFpTWUQwdVdZc3c0VkF5TlgtNmtldHdnTmdsNE4xMTJIclZKR0dSX0VMc0NsWjJyaGVLZ0dyd2pEcThMU25JSlJzVEdqM3pmOXJWUnVxWUNQWFd1MWx1SER6WktJSnNaMU9YaVBpVl84dWdhVlJBbTlvYnVBSWJaWlYzUlVB?oc=5",
-      "source_name": "Presse-citron",
-      "country_code": "FR",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://www.nationalworld.com\nreview: kia’s £33k ‘lego car’ could reinvent family travel – and vans\ngoogle_news": {
       "title": "리뷰: 기아의 3만 3천 파운드짜리 '레고 자동차'는 가족 여행과 밴의 개념을 바꿀 수 있을까?",
@@ -368,17 +137,6 @@
       "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
       "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
     },
-    "https://www.msn.com\nkia seltos reaches american market with hybrid powertrain: here's what's new\ngoogle_news": {
-      "title": "기아 셀토스, 하이브리드 파워트레인 탑재하고 미국 시장 출시: 새로운 점들을 살펴보자",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQXNaRGJOelhrc3Y2RUlNUW1OUmU3OG10QWMxeUhucjdocFI5NnFUSmZCeXJUX2pLa2Z5djZSTThRLVpLcUtKaUZnOHU4eHFEaXF6dm5oNGlrbFJWYUJoY1c0N29mTGF1SHk2VTV3SktnNzk5VDlIdHdBVHYzUHZVbVhTbEhyMUZWMFFfQmNXYXpKdGkxM1dUcFFMdmJGa01MNE1tQmwyOUJheGlwSXBLQk91RlZtOFlMZ3J2dHh4ZHV5dw?oc=5",
-      "source_name": "MSN",
-      "country_code": "GB",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
-    },
     "https://de.marketscreener.com\nnetmarble corp erwirbt coway-anteile im wert von 150 milliarden won\ngoogle_news": {
       "title": "넷마블, 코웨이 주식 1,500억 원어치 인수",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZUNHWlM5dmVJSmp4Q3hLdU5uMTBveEtRejVqcE81SmRJWklJbTRna1g0bUZHTWcxQks5SEhZdDlMX1cwQWJJMXhBM2xtWm1BRHZCUTZTVzlGZ3pUYXhoTkJxQUVBT3BjWGIzVkNDWmJSVkNDNkx1dEI5UmRLbW1CYXNUTnlOSE9XLVRDcHlORmJucVFZNHBjSFMxU0d4eUU2NVhTTm5tbmEwM1hyVzRkYjBWWG9YRFlrSnphdk41c2xoVnpZaF9JUGhRdWQydw?oc=5",
@@ -401,17 +159,6 @@
       "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
       "last_seen_at": "2026-04-06T23:40:47.429334+00:00"
     },
-    "https://www.marketsmojo.com\nlg electronics india ltd rallies 3.56% amidst sector weakness — a recovery or relief rally?\ngoogle_news": {
-      "title": "LG전자 인도법인, 업종 약세 속 3.56% 상승 - 회복세일까, 안도감일까?",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQa1pzcjNQcng1Sk40SFBEbmU2czhqX1dNOElnRFVqV1VzbmRIOXVONUJOUG9xYnotNmxfV20ySE1VME1Ua3RPVHh3M3lDS3dqS0Q3NC1ZSHBTWjRVc2h0djB0T1ZfZ0xCWGx5T3hrUXVtT3ZSVURZbV9JOGY3aVEtTXlWZEpJbnBTaGZBcjdVNzlpVE1XSmdabUVLQUNMSVVvQW5WZDJjTGFjZVh3Z1lObXluVWZ1eFE0a2RQeG1qSE5vSU16VFAxOTlRckU?oc=5",
-      "source_name": "Markets Mojo",
-      "country_code": "GB",
-      "companies": [
-        "LG Electronics"
-      ],
-      "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
-    },
     "https://www.ad-hoc-news.de\nhybe co ltd aktie: was du jetzt über den k-pop-riesen wissen solltest\ngoogle_news": {
       "title": "HYBE 주식회사 주식: K팝 거물 기업에 대해 지금 알아야 할 모든 것",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdEwxYmRrZXpCaHVmS1JabFNoQmg1dlFBNF9zc0F2LTRyekdKYVhqc2hYOUdLdEpmaFFVblVKUjJSclVOTmptMURtbkVuUGxGRDExRUcyN3pZWWJKQVVEZTZick5EZ3ZxYkhfdkVSUkQ0VTJKek1naUozQjJuaGlWYlpkemNIUjZoTWRsblZBZV9VT2dRcHdzVTYyTnF6cE5MWTdTWFJDZkNsNnNIZG43a29PVGo3MUZFYTlNZGpJQmQ?oc=5",
@@ -422,28 +169,6 @@
       ],
       "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
       "last_seen_at": "2026-04-06T23:40:47.429334+00:00"
-    },
-    "https://www.vietnam.vn\nkia soluto 2026: der preis wurde im april um 11 millionen vnd gesenkt und liegt nun bei nur noch 345 millionen vnd.\ngoogle_news": {
-      "title": "기아 솔루토 2026: 4월에 가격이 1,100만 VND 인하되어 현재 3억 4,500만 VND에 판매됩니다.",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVzk5T0ZTZjFhMlhCTjg4QXltVWVVc2JPUjA5bUpMd3lkSUEzM2JleUtFMm1MYjlkNmF6aGdyaHZDRWJBQzVheFpNVC01eUN2NE4yMi1WRHRLczJtOGtIcmtLY1FaTXZ5N3lpSVJBWXBodHo2ckZfUU5GVFU5X1dyaXdkdVJPVllEVENZSHg2LVJWV0d6cnEw?oc=5",
-      "source_name": "Vietnam.vn",
-      "country_code": "DE",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
-    },
-    "https://www.vietnam.vn\nkia soluto 2026: price reduced by 11 million vnd in april, starting from only 345 million vnd.\ngoogle_news": {
-      "title": "기아 솔루토 2026: 4월에 가격이 1,100만 VND 인하되어 3억 4,500만 VND부터 시작합니다.",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQUlyMWcwcm9leF9nZWNuNjl0eEFGOUVnUkl4T0NqLUltN3BOekV0QzNfNmFOdEo4REl1czJHRExHd1d2UE9pSDVyTmc2MFFTY0ZmbDBBT2Fjc3JPS3QwTS1TLUxJeVlaTEhJbUdsWTgwZExPZW83M0hlXzBjLWRLSnJ2YVVZUlJsZW4ydV9yTXgtU3MtMmpz?oc=5",
-      "source_name": "Vietnam.vn",
-      "country_code": "VN",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
     },
     "https://www.vietnam.vn\nkia soluto 2026：4月に価格が1100万ベトナムドン値下げされ、3億4500万ベトナムドンから販売開始。\ngoogle_news": {
       "title": "KIA Soluto 2026: 4월 가격이 1100만 베트남동 가격 인하되고 3억 4500만 베트남동부터 판매 개시.",
@@ -488,17 +213,6 @@
       ],
       "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
       "last_seen_at": "2026-04-06T23:40:47.429334+00:00"
-    },
-    "https://www.24h.com.vn\ngiá xe kia soluto tháng 4/2026, bản mt ưu đãi 11 triệu đồng\ngoogle_news": {
-      "title": "2026년 4월 기준 기아 솔루토 수동변속기 모델의 가격이 1,100만 VND 할인되었습니다.",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQUMxMzFWdzFfTFlJNXB4Y0x1bE1qMmxCMUpxWEZJZXMyRS1FVUIzdVdZMTZob0xJd1JRMlhRenU1V3NiWHNSbGpZMzlvaXZyeVl0amhsejNTR3U3MDNRWGluVDVNQVUtcW44LWxlSEIteFpkbzNkYkpCaS1uS09aajVHaTIwSkZLWFRDem4tSVY1Q0R3SnAxc2Vrd3FvT3k4Y0tXSmVSMA?oc=5",
-      "source_name": "Tin tức 24h",
-      "country_code": "VN",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://baolamdong.vn\nkia soluto 2026: giá bán từ 345 triệu đồng và ưu đãi mới nhất tháng 4\ngoogle_news": {
       "title": "기아 솔루토 2026: 시작 가격 3억 4,500만 VND 및 최신 4월 프로모션.",
@@ -578,28 +292,6 @@
       "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
       "last_seen_at": "2026-04-06T23:40:47.429334+00:00"
     },
-    "https://www.travelandtourworld.com\nsouth korea accelerates aviation innovation in busan as korean air invests big in uav technology—a new dimension for travelers and industry enthusiasts unfolds\ngoogle_news": {
-      "title": "대한항공의 대규모 무인항공기(UAV) 기술 투자로 부산에서 항공 혁신이 가속화되고 있다. 여행객과 항공 산업 애호가들에게 새로운 차원의 항공 여행 기회가 열릴 예정이다.",
-      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPc3pzcFoxd1pxYlk4ZER1WjBUSkN3WWJhUmpHNm1oaEszYkVnckgza0sxeVpUVE9XMWh1R21zWGJEY1kxS0tjOEJ1dlBPZ0g3Ri1iLVZWaHJyZGZqMXowT3NSbjVVc0tzdHZfNXVNS2FDczVvTURYaGNwU2hJaXFaYkdoNGlqeTlXWHc1YmhYSEhhVjRFOGNvc3RiSGxtd0J2a3JESDVxVWpTQWJVS2tuRDlwZGZ3MTlzdFF2TGhvM0xZTml2ZWFaSlpFaHpScHBfbXpiR2hyNlhJemJ3RzN5TXhoN21hSWZrRmRfc2hNZDN5Wk9aR3dTVHpMMU5ZZzdEMzVibzRaa01OcnA3RjVwbk5ybmkyWldycEFxZ2dmd1Q4ZUpmM2E4Z2lwR0xSZHJIQ2c?oc=5",
-      "source_name": "Travel And Tour World",
-      "country_code": "US",
-      "companies": [
-        "Korean Air"
-      ],
-      "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
-    },
-    "https://themachinemaker.com\nlg electronics india crosses 1 million ac sales in q1 2026\ngoogle_news": {
-      "title": "LG전자 인도법인, 2026년 1분기 에어컨 판매량 100만 대 돌파 예상",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcFFBZzBidkhnVmZhdHdoRWVKUkVZZzBqYUtMTWltS04zTklwNUZXQlB6RG10dkFwYUZCTUYyOGVpbXRRRkdXUXR4eFZMLUNJVWFWUHN1RnVJQkgxdTllaTI5YVJaaFNHUHV5aWtmdkZEYXBtVHF4cWpBNUUwM2tlZ2taZjhDUEVnYy1wRlYyY3ZBSFA1XzNj?oc=5",
-      "source_name": "themachinemaker.com",
-      "country_code": "GB",
-      "companies": [
-        "LG Electronics"
-      ],
-      "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
-    },
     "https://retailasia.com\namorepacific partners with viol medical to expand beauty device offerings\ngoogle_news": {
       "title": "아모레퍼시픽, 비올메디컬과 제휴하여 미용기기 제품군 확대",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeElVQlZwenRaSDRqMi0xMTBiaHhEekI5WGlCOVpza0o1eUMyMlI1RUVjcDgwUXdUbHJNRFJ1N0FqWXdsNjFidnphM0dMbGxGWHJqWlc1LWRIOGtWWFlUX1NTaVFoWU9tMXZ3OWFKQ2ZCU2o0TjhvV0p5TVNVWFNwcUptbU5hNXh1ZG5URzFDVEhyY2hXQU1uag?oc=5",
@@ -633,28 +325,6 @@
       "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
       "last_seen_at": "2026-04-06T23:40:47.429334+00:00"
     },
-    "https://www.ad-hoc-news.de\nkia sportage: kompakter suv mit plug-in-hybrid-option\ngoogle_news": {
-      "title": "기아 스포티지: 플러그인 하이브리드 옵션을 제공하는 소형 SUV",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb0hxejFmb3Awck52QjlUX2d6aFRIQW50Mk42QWRaZ0VTUEEtTEVOZXR0MXB6eDh6eko1RkJFVlh3d1hxUEZOdFE2azZpUDFwNmdaSmFaTXFFZTBCU3YtXzB5VjRFNFpBcHMzYmRveVFTVUxiMDZGWG5ub0lmRThJSTFjU1NVX3Q4V0NpaVRQNlZMTnRscWp5cnowUEllZ1hYbW94akxFa04xd1o0ZUZoTA?oc=5",
-      "source_name": "AD HOC NEWS",
-      "country_code": "DE",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
-    },
-    "https://baogialai.com.vn\nkia seltos 2026 ra mắt tại mỹ: lần đầu có bản hybrid, thiết kế hoàn toàn mới\ngoogle_news": {
-      "title": "2026년형 기아 셀토스가 미국에 첫선을 보입니다. 최초로 하이브리드 버전이 출시되며, 완전히 새로운 디자인으로 선보입니다.",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZHNGbHl3WXJjRnFBeWpGNGtCdUwxUi1OUnVFSHExQnEwRzVjLW8yM0NtOTRnUnpSVUZ6T2F3LVhkUUdSdjVHN1hob3F5aXhkRkk0M2RRU2JjMG5acmxheHlhUWFicGxyUjJFVkZYUXFBMG9MbFJ5UGdmZFRBNWtuYlBBWW9raGlmRXJDdzJodS1XVkZLM2dKUmoxOUpvdk1sUEVlVUhic0pPQzR1SmdSTE5zYU5kZ9IBtAFBVV95cUxOUTViUVpPTFE3ZV8yUWZkZ3BRTWFZX1MxblVPdG5Udjk2YVhxSzJwZkRIeEtUT1NiTkt0b2R4LVNTUk9TU2Y4Njk3d2VSczdBRGZ5RTZtRThCQ25jQzFWcmR6bHRZcHh5ajN2LXRiXzBpNUFLbHZzM1lpUGZXdG95QUVXUkxKZFRhZi1haE1ESTdZM0lBdTZVd0E2UU00M0FObF8yX2RsVnR0RWNGOXZCLTBQSkU?oc=5",
-      "source_name": "Báo Gia Lai điện tử",
-      "country_code": "VN",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
-    },
     "https://www.lepopulaire.fr\nnexon : les 5 stations-service essence et gasoil les moins chères (màj : 06/04/2026)\ngoogle_news": {
       "title": "넥슨: 가장 저렴한 휘발유 및 디젤 주유소 5곳 (업데이트: 2026년 4월 6일)",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd2doZ1E2NEhUbXFiSXA5SnpDY0ZkUVNBZk1DWHFKTnJOQnIyeklPMjlWYUdNQlU1bGdxVDBqdTl6S29KNk53cU5NR0RxZjE3clVsSVJOTjdIUGJjQ0VsTjMyaS1kcElfQkFOT0ZGUmJ4dHdqancxYjhtSUVnbEpmcm9TazBBR0NHeHNWVERJTmNYbTc1MzZHZHN1MkIwN3BFeUVfSm1fRjdZc2FTbjBKSWhZTG9lRFZpWjctOXBvVUI?oc=5",
@@ -676,17 +346,6 @@
       ],
       "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
       "last_seen_at": "2026-04-06T23:40:47.429334+00:00"
-    },
-    "https://www.ad-hoc-news.de\nkorea aerospace industries stock: why defense strength draws global eyes now\ngoogle_news": {
-      "title": "한국항공우주산업(KAI) 주식: 지금 국방력에 전 세계의 이목이 집중되는 이유는?",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR3p2UGxxenBaVTdxcWl3ajlJQ2lTcFQ4MnU3dGdNQXJULVoycWxvR3ctc3dLVE5wNlJ1emJsZWZvZ2FzVTJPUnM2cl9COExQSmVsbXVRLTZ4cDhXTjRzVXVDNzd2Y2huRTRHYTZVbWJ0NWVVYUk1aU5NQ2hUejRidFlhXzBESUR4MVA2TFNENk1yTlRCWU94cU5ENll5VnJ2WVk1MjlrbW95ejdGdHIyUnJHSXRHczFKckpSWERSQTV4clU1Tlc5U213?oc=5",
-      "source_name": "ad-hoc-news.de",
-      "country_code": "GB",
-      "companies": [
-        "Korea Aerospace Industries"
-      ],
-      "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://www.afpbb.com\n韓国naverとフランス協力強化…マクロン大統領がai連携を協議\ngoogle_news": {
       "title": "한국 네이버와 프랑스 협력 강화… 마크론 대통령이 AI 연계를 협의",
@@ -710,17 +369,6 @@
       "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
       "last_seen_at": "2026-04-06T23:40:47.429334+00:00"
     },
-    "https://news.nicovideo.jp\nhybeオーディション『world scout』特別番組放送決定 村重杏奈ら出演\ngoogle_news": {
-      "title": "HYBE 오디션 「WORLD SCOUT」특별 프로그램 방송 결정 무라시게 안나 등 출연",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2d1RCclIzTXMzYmVfaUpSaWt2V091bVdYYTlNb0pWTmVEUnNqUHl5NGJWUlhtQjNiVDhlQVBlcUowaDhNb0x2aTd4eDFoWVhvdUNfMFItcGlwMS1BWUlrUE9zV2kzVGpS?oc=5",
-      "source_name": "ニコニコニュース",
-      "country_code": "JP",
-      "companies": [
-        "HYBE"
-      ],
-      "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T07:50:34.687697+00:00"
-    },
     "https://www.ad-hoc-news.de\nposco holdings inc aktie: was du jetzt wissen solltest\ngoogle_news": {
       "title": "포스코 홀딩스 주식: 지금 알아야 할 사항",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObkxzcHFPVVpJQU9YU2VGdHZ6WU93QlNpOURpNXRZUEhvWDROWkhFMDRUTkI3QmEwbUN4X25rTmxrUDBKQUZCYWRvNjBqNnpKdDFVNk1BdFNwanVIbG5RZUpnSUhjeWpuU3JIdExUV25CTW5JWWEyMjlJN2tLbHBXaFBpMFNGZkZVUzVKV3ItVVN5VWhDR1h5STFXdXE3RXhWd0hQT0hQYjQzeGc?oc=5",
@@ -731,28 +379,6 @@
       ],
       "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
       "last_seen_at": "2026-04-06T23:40:47.429334+00:00"
-    },
-    "https://de.tradingview.com\nkurs-cashflow-verhältnis von hybrid energy holdings inc – otc:hybe\ngoogle_news": {
-      "title": "HYBRID ENERGY HOLDINGS INC(OTC:HYBE)의 주가현금흐름비율",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY21Ud0ZYeHNSdXkxeWlSS3RUcUk2Rkx6ZVY2THh5anN0am45b0tJaXBwTTlXdDZRcUNsQXIwMjRxekRKTGppbUtmb2xvZ0NuRW55TjEyTVFqY1NXcmkyUEoxV3pwOE5QdVhEaUR2Uk5aYU5vZUNNZVIxWHNFUGNDSE1USDFVX3RhT0wzdFJ0SU9PZjhNNGljOQ?oc=5",
-      "source_name": "TradingView",
-      "country_code": "DE",
-      "companies": [
-        "HYBE"
-      ],
-      "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
-    },
-    "https://news.yahoo.co.jp\nbtsとお揃いの“swimジャンパー”を着用！hybeファミリーのダンス動画が話題…「それスノ」出演者も続々参加（kstyle）\ngoogle_news": {
-      "title": "BTS와 갖추어진 \"SWIM 점퍼\"를 착용! HYBE 패밀리의 댄스 동영상이 화제… 「그것 스노」출연자도 잇달아 참가(Kstyle)",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DR0U1d2gzWFBSQXU1TjVsWnIxT0xKbG1vME1vb0xTMlNBWVhOazN4T1NrTDg5NEJidWhjbHkyNUxRRThoUHE1SEVVZl9YNlJsZHM0aHo5bHdkSnY0YkV6RFdvaGJQcDhreDV0LWtVTV9feDgwNGV4bE5qazMtR2s?oc=5",
-      "source_name": "Yahoo!ニュース",
-      "country_code": "JP",
-      "companies": [
-        "HYBE"
-      ],
-      "first_seen_at": "2026-04-06T07:50:34.687697+00:00",
-      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://www.ad-hoc-news.de\nshinsegae inc aktie: was du als anleger jetzt wissen musst\ngoogle_news": {
       "title": "신세계 주식: 투자자로서 지금 알아야 할 사항",
@@ -776,17 +402,6 @@
       "first_seen_at": "2026-04-06T10:13:51.563882+00:00",
       "last_seen_at": "2026-04-06T23:40:47.429334+00:00"
     },
-    "https://news.nicovideo.jp\n村重杏奈、hybeオーディション『world\ngoogle_news": {
-      "title": "무라시게 안나, HYBE 오디션 \"WORLD",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FVnlwTXR4Qm1JdlhaQUxkenpnYkxJVmF2MTEteHpyZEN1VGVoNUNTUjd3czJCQnFaRVhfWHVNYXZQOEpXdVR5aEZyOURVNVhDZlhMTHE3RnB2X1JiVzRrTFJjYlFGV0tJSXZocWRUcUZKVVU?oc=5",
-      "source_name": "ニコニコニュース",
-      "country_code": "JP",
-      "companies": [
-        "HYBE"
-      ],
-      "first_seen_at": "2026-04-06T10:13:51.563882+00:00",
-      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
-    },
     "https://rpmweb.ca\nentre un volkswagen taos et un kia seltos, que me recommandez-vous?\ngoogle_news": {
       "title": "폭스바겐 타오스와 기아 셀토스 중에서 어떤 차를 추천하시나요?",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMVZ6MkNwOGhRdGlnS3RuNS1vZ1Q3TFNmclYtcW5PLVdxemt3Q25LMjNqeGkzQlNsX2NjN0x4X2toMGZIZkVzU0ZKeWh0emM1ZEJudmxuWm12aDR1WF9jVjNOQmxsSnQzNzdveUF0c3d3Q0szLS1DWkw0N0RyZ2NhWktYTVl1cm5VeXRPSjJCNmE5Z25IQmxqZEVlQU91UUptdUgxTW1CODFQUTNLdEw4el9aY3BPV2I5Wll5MWplNXpyaUpDWWk5YWpWaVJTVjZtTUE?oc=5",
@@ -797,28 +412,6 @@
       ],
       "first_seen_at": "2026-04-06T10:13:51.563882+00:00",
       "last_seen_at": "2026-04-06T23:40:47.429334+00:00"
-    },
-    "https://www.oricon.co.jp\nhybeオーディション最終候補・sakura、未経験ながらも“スター性”見出されて選抜「しっかり背負って頑張りたい」【world scout】\ngoogle_news": {
-      "title": "HYBE 오디션 최종 후보·SAKURA, 미경험이면서도 “스타성” 발견되어 선발 “확실히 짊어지고 노력하고 싶다”[WORLD SCOUT]",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Wblo0SXZKempYZUI5YkZYR1I5Q0lNZjRONjFZZUQ5TzFocU9pZXVLaTNCVk9DblJCNzR4MzlQNDlEZjcwbms2OVpaM3UycU84aTZMSk1R?oc=5",
-      "source_name": "オリコンニュース",
-      "country_code": "JP",
-      "companies": [
-        "HYBE"
-      ],
-      "first_seen_at": "2026-04-06T10:13:51.563882+00:00",
-      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
-    },
-    "https://www.autoevolution.com\n2027 kia ev3 [us] specs, performance & photos\ngoogle_news": {
-      "title": "2027년형 기아 EV3 [미국] 제원, 성능 및 사진",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15R2thdkdqNXFPUnFGZlJQUm5IMkdCNWIwVEpfMTRpa0taaUc2dkNZaFpyRzNsTmV1a2xqUERqNzVWNW9ockkyenBoZkxEeUV6ZE1lLWR1RFJPWm9pcm84M0ZB?oc=5",
-      "source_name": "autoevolution",
-      "country_code": "US",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-06T10:13:51.563882+00:00",
-      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://auto5.vn\nxe hybrid trở thành động lực chính giúp hyundai và kia duy trì đà tăng trưởng\ngoogle_news": {
       "title": "하이브리드 차량은 현대와 기아가 성장세를 유지하는 데 핵심적인 역할을 하고 있습니다.",
@@ -832,17 +425,6 @@
       "first_seen_at": "2026-04-06T10:13:51.563882+00:00",
       "last_seen_at": "2026-04-06T23:40:47.429334+00:00"
     },
-    "https://www.boerse-express.com\nsk hynix aktie: run auf hebel-etfs\ngoogle_news": {
-      "title": "SK하이닉스 주식: 레버리지 ETF 매도세",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUEpXM2xEMmdZNjNZRHFVbWpHeFRFdXlIS3M5allQbDFQWTB0Zjg5VG8wNmFscTNTNi1UeVdZenpRZkxXdEpScGNVMGdrZTZjU0lHYTBnRDJKQXRJSHJBS0dUMVRIcmFWVzBZV3M5dGdGUzBfX2dLam9KaXNEQmx5dEtaLVdUOHFkWEJIWEx3?oc=5",
-      "source_name": "Börse Express",
-      "country_code": "DE",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-04-06T10:13:51.563882+00:00",
-      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
-    },
     "https://www.techinasia.com\nshinsegae, openai partner for ai commerce\ngoogle_news": {
       "title": "신세계, AI 커머스 OpenAI 파트너",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Ha210V3hMNnhFY2xJNkhvMDA1bzEteS1jQ3NuaDY5aVpMb2NCTnFHUzlrb0tPcGdnUGJiMEs3d0lKcEtqZFZ6aXJUdTVGUi1uYVhfOGo0ejgxUlBydlZjTmRYS3p0Unlpb2xzaTNWYkZXV1ZGT2stak5ORG4?oc=5",
@@ -853,17 +435,6 @@
       ],
       "first_seen_at": "2026-04-06T10:13:51.563882+00:00",
       "last_seen_at": "2026-04-06T23:40:47.429334+00:00"
-    },
-    "https://www.newsarticleinsiders.com\nmirae asset chairman park hyeon-joo donates entire dividend\ngoogle_news": {
-      "title": "미래에셋 박현주 회장, 배당금 전액 기부",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XQ0dBQ3NOT3BTajF4dG5YbG9PTUZLazVyRndMM2N4Ml9ZN2ZxY1ZxbFJmWjNObjNOaU5NSkVFdENTT2wtYzA2LTFnZjVySmQyTFlpOERUb282dXRjRC1uam9TQXVSMFRPbkgwcW5BczVHS0NnZHVv?oc=5",
-      "source_name": "newsarticleinsiders.com",
-      "country_code": "GB",
-      "companies": [
-        "Mirae Asset"
-      ],
-      "first_seen_at": "2026-04-06T10:13:51.563882+00:00",
-      "last_seen_at": "2026-04-06T10:13:51.563882+00:00"
     },
     "https://baohatinh.vn\ngiá xe kia soluto tháng 4/2026: ưu đãi 11 triệu đồng cho bản số sàn\ngoogle_news": {
       "title": "2026년 4월 기준 기아 솔루토 가격: 수동 변속기 모델에 1,100만 VND 할인 적용.",
@@ -7075,7 +6646,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-05-20T11:50:15.041890+00:00",
-      "last_seen_at": "2026-05-21T00:10:43.082093+00:00"
+      "last_seen_at": "2026-05-21T12:18:36.835836+00:00"
     },
     "https://www.theverge.com/tech/934432/samsung-electronics-strike-memory-chip-supply": {
       "title": "삼성은 메모리 칩 파업을 피하기 위해 노동자들과 잠정 합의에 도달했습니다.",
@@ -7131,6 +6702,50 @@
       ],
       "first_seen_at": "2026-05-20T11:50:15.041890+00:00",
       "last_seen_at": "2026-05-20T11:50:15.041890+00:00"
+    },
+    "https://www.thehindubusinessline.com/markets/q4-results-today-live-updates-lic-itc-max-healthcare-lg-electronics-gail-aurobindo-pharma-suntv-jsw-cement-dr-agarwals-honasa-consumer-reliance-power-grasim-ola-results-21-may-2026/article71001587.ece": {
+      "title": "오늘 4분기 실적 발표 생중계: ITC 4분기 이익 급감, JSW 시멘트와 위워크 이익 증가, 에마미 이익 감소, LIC, 맥스 헬스케어, LG전자, GAIL, 아우로빈도 파마, 웰스펀, 선TV, 닥터 아가르왈스, 호나사 컨슈머, R파워 4분기 실적 발표 예정",
+      "link": "https://www.thehindubusinessline.com/markets/q4-results-today-live-updates-lic-itc-max-healthcare-lg-electronics-gail-aurobindo-pharma-suntv-jsw-cement-dr-agarwals-honasa-consumer-reliance-power-grasim-ola-results-21-may-2026/article71001587.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "LG Electronics"
+      ],
+      "first_seen_at": "2026-05-21T12:18:36.835836+00:00",
+      "last_seen_at": "2026-05-21T12:18:36.835836+00:00"
+    },
+    "https://www.nytimes.com/2026/05/21/business/samsung-strike-ai-chips.html": {
+      "title": "삼성, 대규모 보너스 지급으로 파업 위기 모면했지만, AI 수익 관련 갈등 고조",
+      "link": "https://www.nytimes.com/2026/05/21/business/samsung-strike-ai-chips.html",
+      "source_name": "The New York Times Business",
+      "country_code": "US",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-05-21T12:18:36.835836+00:00",
+      "last_seen_at": "2026-05-21T12:18:36.835836+00:00"
+    },
+    "https://www.lemonde.fr/economie/article/2026/05/21/en-coree-du-sud-l-intervention-du-gouvernement-evite-une-greve-generale-chez-samsung-electronics_6691835_3234.html": {
+      "title": "한국에서 정부의 개입으로 삼성전자 총파업을 막았다.",
+      "link": "https://www.lemonde.fr/economie/article/2026/05/21/en-coree-du-sud-l-intervention-du-gouvernement-evite-une-greve-generale-chez-samsung-electronics_6691835_3234.html",
+      "source_name": "Le Monde Economie",
+      "country_code": "FR",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-05-21T12:18:36.835836+00:00",
+      "last_seen_at": "2026-05-21T12:18:36.835836+00:00"
+    },
+    "https://www.cnbc.com/2026/05/21/samsung-electronics-union-strike-suspended-wage-deal-bonuses.html": {
+      "title": "삼성전자 주가, 노조의 잠정 임금 합의 이후 파업 중단 발표에 6% 급등",
+      "link": "https://www.cnbc.com/2026/05/21/samsung-electronics-union-strike-suspended-wage-deal-bonuses.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-05-21T12:18:36.835836+00:00",
+      "last_seen_at": "2026-05-21T12:18:36.835836+00:00"
     }
   }
 }
