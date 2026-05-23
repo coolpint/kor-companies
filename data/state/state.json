@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-05-23T00:11:05.416187+00:00",
+  "last_run_at": "2026-05-23T10:38:30.180506+00:00",
   "seen_articles": {
     "https://www.nba.com\nkia mvp ladder tracker: week-by-week updates for 2025-26\ngoogle_news": {
       "title": "기아 MVP 순위 추적기: 2025-26 시즌 주차별 업데이트",
@@ -25,17 +25,6 @@
       "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
       "last_seen_at": "2026-04-12T00:37:38.598143+00:00"
     },
-    "https://www.merkur.de\nkia ev2 im fahrtest: so gut ist der id.polo-konkurrent für 26.600 euro\ngoogle_news": {
-      "title": "기아 EV2 시승기: 26,600유로에 판매되는 ID.Polo 경쟁 모델은 얼마나 좋을까요?",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN1RZNlpHXzFwY1REbWhHX1lXSHpkTzBPOTVTNklTcDhmenIzVDU3ZXlZcmIyYjQ3empwaC1Vd0R5UllfR1o1MmlVekNNRlBzU3JoWW1XVTVKMXMtTmtVS28xeGZkRTVNeHpsTkJ5TEVJSXRPbTFhaHRQVlZuYTdLVERSQUotVnkzeER0WWpwNndCOGNubHVEVnQ5cmtlOC1sLUpUTDQzRkVDZ0VJeGc?oc=5",
-      "source_name": "merkur.de",
-      "country_code": "DE",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
-    },
     "https://electrek.co\nkia launches its most affordable ev at lower prices than expected\ngoogle_news": {
       "title": "기아, 예상보다 낮은 가격으로 가장 저렴한 전기차 출시",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU1BRM0lDUFh6M2dkQXR3OUJWd0hIUDJUblItbjBoRkFZd0Y1dnozdUgxdUhoU0pzT0E1b3g5M2xESm5zMW1SbHpRa1g4WUE5c2s0TDNoRUIwU0szcVcwSERCcm52bjlDZVFuc3lXOHplLVdGbnNzMGtkY2p1SXhiMkZnS2RKc2hYQ1UwVEItYU94TVdD?oc=5",
@@ -57,17 +46,6 @@
       ],
       "first_seen_at": "2026-04-07T23:34:30.037476+00:00",
       "last_seen_at": "2026-04-09T10:16:46.720282+00:00"
-    },
-    "https://thedriven.io\nkia unveils initial pricing for its smallest ev, with two-way charging\ngoogle_news": {
-      "title": "기아는 양방향 충전 기능을 갖춘 가장 작은 전기차의 초기 가격을 공개했습니다.",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN2dIc2Q5Qnhrd293TWlJOWdHRGN4bnVFbWJISTR1a0RTNWk1bHRocktpZFpIMGlOR3BlSVQ4Q2Q2YUNoSS1hREgzczVDWUp1VXhyRWVBWlkxNzBpM0tzVDZkWnJZdHRBT25PRFVGZTJJNl9EelRYaXNETGZUa1EyNkdxRWs4dk1vLUt5R3dRS0FPRXBpZjFNelBwaHdCR2E2NENvZQ?oc=5",
-      "source_name": "The Driven",
-      "country_code": "GB",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-07T23:34:30.037476+00:00",
-      "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
     },
     "https://ici.radio-canada.ca\nlg energy solution prévoit une perte d’exploitation au 1er trimestre\ngoogle_news": {
       "title": "LG에너지솔루션은 1분기에 영업손실을 기록할 것으로 예상합니다.",
@@ -123,28 +101,6 @@
       ],
       "first_seen_at": "2026-04-07T23:34:30.037476+00:00",
       "last_seen_at": "2026-04-08T23:42:19.208108+00:00"
-    },
-    "https://canadiandefencereview.com\nhanwha ocean visits spartec composites to discuss cpsp collaboration\ngoogle_news": {
-      "title": "스파텍 컴포지츠(Spartec Composites Inc.)는 한화해양(Hanwha Ocean)과의 협력 가능성을 논의하기 위해 한화해양 관계자가 방문했다고 발표했습니다.",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTENabmg2MXJaUnkzY181cDBkSGxyZHV0cVFrTVFVQzhSakowOHBrUnZjcEFESmlUSmJneEYtZUIxeU9nNFRucjN3a0w4UmFYalJ6N01IaHhjZ3dFblJHV0o3VEV1SUk0b0ExaUVoUDFBeVZIb3BpTTJITWpwajJtQXNUOWNTUHF1Ni1qa0lzMTRqQnBkblQ5c21Pc2ZvVjhOSGdMb0pn?oc=5",
-      "source_name": "Canadian Manufacturing",
-      "country_code": "US",
-      "companies": [
-        "Hanwha Ocean"
-      ],
-      "first_seen_at": "2026-04-07T23:34:30.037476+00:00",
-      "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
-    },
-    "https://www.electrifying.com\nfive-seater or a van? kia's new pv5 can switch in seconds\ngoogle_news": {
-      "title": "5인승일까요, 아니면 밴일까요? 기아의 새로운 PV5는 단 몇 초 만에 전환할 수 있습니다.",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMUs5cmNBS0U4cnRpV0d4RUlNaHNTQ25DOEFaN3c3cVdQNWY5YUpxQUM2UG04b25ZOXpFcmhBZ0pOZGFhQ19sVkI0bHdIQ2Q0bkxkTi1oMkJRclpoRHpMTEhpTmN6LUpJVl9QYkZGalBfaU1RaUQ4V0piQnpPWWNvcGxtb3M1cDRnc2c?oc=5",
-      "source_name": "Electrifying.com",
-      "country_code": "GB",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-07T23:34:30.037476+00:00",
-      "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
     },
     "https://www.automobile-propre.com\nde deux à cinq places en un clin d’œil… kia rend son utilitaire électrique pv5 encore plus polyvalent\ngoogle_news": {
       "title": "순식간에 2인승에서 5인승으로… 기아는 PV5 전기 다목적 차량을 더욱 다재다능하게 만들었습니다.",
@@ -234,194 +190,6 @@
       "first_seen_at": "2026-04-07T23:34:30.037476+00:00",
       "last_seen_at": "2026-04-08T23:42:19.208108+00:00"
     },
-    "https://news.yahoo.co.jp\n「辞退したい」デビュー最有力候補生がまさかの決断…hybeオーディションに激震！辞退の理由明かす（abema times）\ngoogle_news": {
-      "title": "HYBE 오디션 후보자, 최종 심사 전에 사퇴의 충격 전개 “최유력 후보”였던 것도 분명히【WORLD SCOUT】",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwalFGdldGZTU2QUVBc002NjJjcFhsNlpRWGs4R1V5ak1pLUV6RlNiUHBjbTJyRHVGLVlxMl9fQWFHVVV3R3RSMFJaMkVYNnB0bV9jeE9RUk85MHBWUzFsSTZsZnVDLVROMjFFSnpGVV9PUHZqVVBhMS01eXJPWFk?oc=5",
-      "source_name": "モデルプレス",
-      "country_code": "JP",
-      "companies": [
-        "HYBE"
-      ],
-      "first_seen_at": "2026-04-07T23:34:30.037476+00:00",
-      "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
-    },
-    "https://www.biospectrumasia.com\nmochida grants lg chem rights to develop & market dinagest in south korea and thailand\ngoogle_news": {
-      "title": "모치다는 LG화학에 한국과 태국에서 다이네이제스트를 개발 및 판매할 수 있는 권리를 부여했습니다.",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYUtvQy1GUHZWdFBlNFk3MXY4RGpnOVBQaHFrU3hjdS1XT2tsYWJtWkpXQ3VZSWRlaV9lUmU1S3FxUlN5d0hTS2wycnVNTTBmTEt3b2E4R1NCWndJakFtTnVMeWZUUUpLd1lIV2k3Ykg3VmxLdjFxa3FXUEhnUTMtZXpTWlFnR3V2c3FvdE96RVczM3A3U1ZwUjhtRnNkc1JRQ0syQjBaSWdWSncwOEtzRWtlWGRuZlpXTWZrODJPWmZJMk9WTk9HaXNldWZ0R1c2?oc=5",
-      "source_name": "BioSpectrum Asia",
-      "country_code": "GB",
-      "companies": [
-        "LG Chem"
-      ],
-      "first_seen_at": "2026-04-07T23:34:30.037476+00:00",
-      "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
-    },
-    "https://tienphong.vn\nxem trước thiết kế kia sorento đời mới\ngoogle_news": {
-      "title": "신형 기아 쏘렌토 디자인 미리보기.",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ3E5eDlTNG9NaUs1X2FXUHcyNmdTMzhZOWsteFN6Tng4NW1kZUlNMlF2cEFoWkdjUTVrOVVXSXlmLWdSM21IWnpzNlUyVHNfdi1Jd0FSV2RUQTNXY1FEdktIRzlsd25iblg2RW16dUlSMkx2ZXdaNjRRclFOUG5fRtIBgAFBVV95cUxQXzhsLWJ5V3lMV1BKV2FQdl9QTTZkWXBIamMycVhZLTJhWlBveDFpZUlOM2RNRVFYMV8tbDNoQkc4M2RTUUFOTzBLcEhrVkhHT09FWmNVaDZJZDBfbXc4Q01GUk11Z1R3YklMczY0V0VZVVNldWRsci1LcU9aako3Ug?oc=5",
-      "source_name": "Báo điện tử Tiền Phong",
-      "country_code": "VN",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-07T23:34:30.037476+00:00",
-      "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
-    },
-    "https://www.turbo.fr\nnouveau kia seltos : pourquoi il ne remplacera pas le niro qui sera restylé en 2026\ngoogle_news": {
-      "title": "신형 기아 셀토스: 2026년 페이스리프트 예정인 니로를 대체하지 못하는 이유는 무엇일까?",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSUFoY2ZiU1RDUl9rcUx6OEhmYVdsQ2ZvcjRQbGMzTHVWZ05hYzBod1VqWTQweEQxdDdSVV9RRTZVUjktejBkUlV6aU1lQlY5REN0RzZGcDRhNDdHRFF4X2loemZMZ3NHcDdDQXpxZk96NVJ1QTBreWJ4NnpyU0pma0lPNEY2MDd0OE55NHlJZ0tGZkFGV0s3YWFuYVVERU1GV2ZtQTZUZ0had1A4bC1JS0VnRkE1UXUzamVPbS1zTmItNTNhYzlRZw?oc=5",
-      "source_name": "Turbo.fr",
-      "country_code": "FR",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-07T23:34:30.037476+00:00",
-      "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
-    },
-    "https://energynews.pro\nkorea zinc lance crucible zinc pour un fondeur de 7,43 milliards au tennessee\ngoogle_news": {
-      "title": "한국아연(Korea Zinc)이 테네시주에 건설될 74억 3천만 달러 규모의 제련소를 위해 도가니 아연(Crucible Zinc) 공정을 개시했습니다.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMWtGY0hHSWUxdUJLc3VDcjlxM2FabXhJaDh2REI3M05UM1F3V254V2JFNDhVanN1eFpjRXVzQkpGVzJmTU9sN3ZtUXlBVEcwNmRuemtlaEhibFprUUZ5Y0RkeF9hcW9iNGtUS0tfbEFRTHU2bWtINE92TS1kWGZLWTc0c2RGTHZSenpfaXp3V3FIR0YtUWVueDZXOHh6RzFa?oc=5",
-      "source_name": "energynews.pro",
-      "country_code": "FR",
-      "companies": [
-        "Korea Zinc"
-      ],
-      "first_seen_at": "2026-04-07T23:34:30.037476+00:00",
-      "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
-    },
-    "https://www.musicbusinessworldwide.com\nformer hybe execs behind bts launch global k-pop audition, eyeing 2027 debut for first boy group\ngoogle_news": {
-      "title": "방탄소년단 데뷔를 이끌었던 HYBE의 전 임원들이 글로벌 K팝 오디션을 시작하며, 첫 보이그룹의 2027년 데뷔를 목표로 하고 있다.",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcFUtbVdiSnJnWHRncFlGUXFwZFNOLXo3cHdVcTVXa3A5NGR2bnhNeldiQXluTXNrSGxpLWhyb050OXhiNGhWT3pKUU5ZaTlkaDQ5NHhoV3V4SkpVN0xqZ2swbkczbHdtU1BPWU80dXlCRGxIRnI2OEVTUGdnNXIxV3VFWldFTVJuc1NseUVaUHNRWjNwWG5qZkhOeTlwd3NzNWZqUGx5WVBQWXlsQV82dkZDaWZnOFQ3YjlPdE11VTRwai0xS0tLNHRNMnlDeVA4?oc=5",
-      "source_name": "Music Business Worldwide",
-      "country_code": "GB",
-      "companies": [
-        "HYBE"
-      ],
-      "first_seen_at": "2026-04-07T23:34:30.037476+00:00",
-      "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
-    },
-    "https://www.reuters.com\nlg energy solution flags q1 operating loss on weak ev demand\ngoogle_news": {
-      "title": "LG에너지솔루션, 전기차 수요 부진으로 1분기 영업이익 손실 예상",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY19MaUEzamRoTDBfT2I5YjdjSkhxU3NLNUd4Y0FUblFReG9PVHRNdmU2dEFmeGRscG9zR245NTB3U0VfTk1CZUFOQ0xlTGtXM3JodDBKUTVRNUFCb0ZjYnRhUjRkUlFQdXJSU1VUTW5CRW5HNUg0Ny1iWk1MVjFSOUhmbTk4NktqcEUweW5QM2JlVWpsR01fZ2VzUm1UcWxQbUhhRUpFSUdzd1BBRThrWVpQWExVSDRyeUNuUUdwSTA?oc=5",
-      "source_name": "Reuters",
-      "country_code": "GB",
-      "companies": [
-        "LG Energy Solution"
-      ],
-      "first_seen_at": "2026-04-07T23:34:30.037476+00:00",
-      "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
-    },
-    "https://baochinhphu.vn\nbùng nổ ai, lợi nhuận của samsung electronics tăng gần 8 lần\ngoogle_news": {
-      "title": "인공지능(AI) 붐 덕분에 삼성전자의 수익은 거의 8배 가까이 증가했습니다.",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeWswaElOQUJua3djUHVhTGZPY1p4N1l5UlhTN2FlV0pDc0tXdG9qS21tVTJYUWpVQXVlNEZ0VVZTSGFBSmZ0UGNnbHNlanR2dmRoSThPckxfNnJwdjZib3VxOVpSeGFOM2tCaHJQM2ZBd2hsOEN5ZVlrX1hXeS03NmNPRW9ENlNBRDhSMFNBbGFVLXhmQ1V3RjZiOUxQYzV3c3NDOFFDLWw?oc=5",
-      "source_name": "baochinhphu.vn",
-      "country_code": "VN",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-04-07T23:34:30.037476+00:00",
-      "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
-    },
-    "https://plus-web3.com\n韓国naverと仏政府がai連携強化 フルスタック戦略で欧州展開が加速\ngoogle_news": {
-      "title": "한국 NAVER와 프랑스 정부가 AI 연계 강화 풀 스택 전략으로 유럽 전개 가속",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOVU5PSmNTT3ctVUNESGl1c2ZmeHZTeE1WS1Y1WWRuNlJoQ29nQmNNaWJzSWpZb21mbnlQSXBJdmpBWXFGSVRKaVFONXV5QTRGdUU2Q1hkVVZFNnZxWnc?oc=5",
-      "source_name": "PlusWeb3",
-      "country_code": "JP",
-      "companies": [
-        "NAVER"
-      ],
-      "first_seen_at": "2026-04-07T23:34:30.037476+00:00",
-      "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
-    },
-    "https://www.lesechos.fr\nsamsung electronics va-t-il devenir le groupe le plus profitable du monde ?\ngoogle_news": {
-      "title": "삼성전자가 세계에서 가장 수익성이 높은 기업이 될 수 있을까요?",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVk11VDJZVHVoVzRJQ2dMZjZxcVQ4eE1IWmpiRF8xamJhZUZSOXpHU3hwWmtGTXBVZ000NXlnOEtQYnVhWFJKSlFlU1lhOEIwN3VSMkstWXZzemNoM2xmVmhEZ1diMVN5VnhvSWdWMXlEbllId1NITU11WV9vVFpnNzhNMUVCcWlqR3VCcUJTTlA2cjE3TkpVTHMwWTJhMFlYN1VuZlBQSXh3cHgyRTV6R0cwN0x6RlkwamZYYkRGZHdSQ2RMWWI4S09RclpyT1R3aTl4QXkxTnFXZFU?oc=5",
-      "source_name": "Les Echos",
-      "country_code": "FR",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-04-07T23:34:30.037476+00:00",
-      "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
-    },
-    "https://www.wsj.com\nlg electronics expects first-quarter earnings rebound\ngoogle_news": {
-      "title": "LG전자, 1분기 실적 반등 기대",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVGJKY21xd0NKOVhsTElNQ29Pd3U5bHhLMkFPcjNad2pmcG5qNkRoVEI2ak01UXhCaGdwN3NwbjZTZWNxVFNXYkRyb2gySHZrVm11SU5CeVo3d21BRm4tdGFIZWtKX1NlaFRoNXM1WDkydzh3ZjFxRjFSSHBQdjAzd05VZm1jY3p6VHlDMHRCVHVKODdTS0JGdzBaTm9NNG9lUlE?oc=5",
-      "source_name": "WSJ",
-      "country_code": "US",
-      "companies": [
-        "LG Electronics"
-      ],
-      "first_seen_at": "2026-04-07T23:34:30.037476+00:00",
-      "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
-    },
-    "http://www3.nhk.or.jp/news/html/20260407/k10015094001000.html": {
-      "title": "한국 삼성전자 1~3월 영업이익 전년 동시기의 8배 초과",
-      "link": "http://www3.nhk.or.jp/news/html/20260407/k10015094001000.html",
-      "source_name": "NHK Business",
-      "country_code": "JP",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-04-07T23:34:30.037476+00:00",
-      "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
-    },
-    "https://www.imarinenews.com\nhanwha ocean and samsung heavy industries bag u.s. navy t-aol design bid\ngoogle_news": {
-      "title": "한화해양과 삼성중공업, 미 해군 T-AOL 설계 사업 수주",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55QUszNE9ORE1zMU00THdER2FrSU9EVkVxOVlicFRJQTdfOF9ELWFwd3dXREZfcThKcjNhM19PaFBrRG53Wld6LWZKeF91YmM?oc=5",
-      "source_name": "imarinenews.com",
-      "country_code": "US",
-      "companies": [
-        "Hanwha Ocean",
-        "Samsung Heavy Industries"
-      ],
-      "first_seen_at": "2026-04-07T23:34:30.037476+00:00",
-      "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
-    },
-    "https://www.vietnam.vn\nkia sportage 2026：4月分の車両本体価格と3,000万ベトナムドンの割引が発表されました。\ngoogle_news": {
-      "title": "KIA Sportage 2026: 4월 분량의 차량 본체 가격과 3,000만 베트남 동 할인이 발표되었습니다.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZm11dVp3QXVWbUswQTNiUGNJcktWdnJpVWdBMGVwbDJ3VGFLVWxpWmN5dGdxRnVKVVdYYks1WFJEemM3OVlpTUhoUlA3a01lX081dVRvRzFFWFhIYmhvckpZeU5sal9MbklERXY2S1dPRmZ0MjZyRDlSVWtRdjJuS3VNaDZpMDM1Y1hlMEZ3ckN3bXdkWXFNNkdSMmRHQQ?oc=5",
-      "source_name": "Vietnam.vn",
-      "country_code": "JP",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-07T23:34:30.037476+00:00",
-      "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
-    },
-    "https://sohuutritue.net.vn\nlg energy solution mở rộng cuộc chiến bằng sáng chế pin xe điện: sức ép lớn cho đối thủ trung quốc\ngoogle_news": {
-      "title": "LG에너지솔루션이 전기차 배터리 특허권 분쟁을 확대하며 중국 경쟁업체에 상당한 압박을 가하고 있다.",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcnRJY1ZQSU0zc3ZSTU93WnczU1lPMXdlVy1kM3g0N2puaVJ4TW9wWmF4aHV5Mi1WMVV1dGZ6Ql93Rjk1V2trRnVvQV9hamFKZkZVMGN0ZlNsc283djBONE5KQU9BS2VTQzNBRlBtZ1NYRHVHYjd0dHNtdUtJMEVYZzQya1U4Q2o5eFZ2RGVScy1MdE1xdlVQYlJON29LN1lUZkV6MlR3Mm5VSUl4ZTZyUEZQOGExVTNzekF5TTZLSlJMTGM2Vm5RWTI4UE5KSHhXNWJn?oc=5",
-      "source_name": "Sở hữu Trí tuệ và Sáng tạo",
-      "country_code": "VN",
-      "companies": [
-        "LG Energy Solution"
-      ],
-      "first_seen_at": "2026-04-07T23:34:30.037476+00:00",
-      "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
-    },
-    "https://www.imarinenews.com\ncarlova maritime splits new orders between south korea’s hanwha ocean and china’s hengli heavy industry\ngoogle_news": {
-      "title": "카를로바 마리타임, 신규 수주를 한국의 한화해양과 중국의 헝리중공업에 분배",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RWkZrcUNKQXNmb0xLYi1JdFM2Y3lNWHVUcEZ0LWxqZjlyVjVUT2V3MTJzTkg4ZDJLRVY2bURUcmJtbFNVNERBSFpXWjNfSEE?oc=5",
-      "source_name": "imarinenews.com",
-      "country_code": "US",
-      "companies": [
-        "Hanwha Ocean"
-      ],
-      "first_seen_at": "2026-04-07T23:34:30.037476+00:00",
-      "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
-    },
-    "https://www.imarinenews.com\nsamsung heavy industries expands work suspension authority for employees\ngoogle_news": {
-      "title": "삼성중공업, 직원 대상 업무 중단 권한 확대",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rbkYtUkRmTF9kb25pUHRMc2NhV3h0MzZ5QTRxQ0dSN2k1bU4zaXhuR2JrUHFWSE4zdTY1cWhNWVBmdWo0QXdEV0d4V0lVQjg?oc=5",
-      "source_name": "imarinenews.com",
-      "country_code": "GB",
-      "companies": [
-        "Samsung Heavy Industries"
-      ],
-      "first_seen_at": "2026-04-07T23:34:30.037476+00:00",
-      "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
-    },
     "https://www.ans.org\nabs, hd hyundai to study reactor-powered container ships\ngoogle_news": {
       "title": "ABS와 HD 현대, 원자로 추진 컨테이너선 연구 착수",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNckNaODhRempZQXBCVmZqWEhyVHdDc3FOVmt0VTlaNmlhbjBwTEc1QmFmblpINzBIeWh4VzdENUIyNzFid3lyYV9ydEtQT19tWnNPT29wNGFLWkxzbnBQaGh2MjhaaTdaNWtocnBTZGdzZ1hpM2p4ZVNmeUUydHNDRGd5bGh4b2NrOEQ3WG5oVXF3Z1BGbDFBUnltSy1nRlk3MGVQakJONA?oc=5",
@@ -445,28 +213,6 @@
       "first_seen_at": "2026-04-08T10:12:16.312090+00:00",
       "last_seen_at": "2026-04-09T10:16:46.720282+00:00"
     },
-    "https://www.journalgazette.net\nreview: 2026 kia k4 turbo is the hot hatch for sporty driving, everyday utility and fuel efficiency\ngoogle_news": {
-      "title": "리뷰: 2026년형 기아 K4 터보는 스포티한 주행, 일상적인 실용성, 그리고 뛰어난 연료 효율성을 모두 갖춘 핫 해치입니다.",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPWTBEMGc1dFk4Q3V6c3FSUFFfOU1VUENTRGl6WGJBUnUtcDRaemg4TmJOREhlcVNHTHZhRVJ1dmpuTTNPbHNQV3NnN2pOTk9QV1ZobjBZUTFqOWZrYl9kMld2S3FZdDgyOTFRdlc4QnpjNlRPTWpRazFIdEtJRVd3VTVOcDVEanRkd0U1NkZHTDBVS3RuVmNYWGxYSHEtT2JEeHhzM0ZObmR3dU50d081X0t6MUFPaVJpM3pROGpjWlVFeURHVVdieENXZFRiZzlxT3REQWpacmIwNmQ3MG5PUHBsMEtRWGlsT3J5NmNMck1rTzVSb2k5TnVNSS1vSzZI?oc=5",
-      "source_name": "The Journal Gazette",
-      "country_code": "US",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-08T10:12:16.312090+00:00",
-      "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
-    },
-    "https://manufacturingdigital.com\ninside samsung electronics' taylor, texas semiconductor fab\ngoogle_news": {
-      "title": "삼성전자 텍사스주 테일러 반도체 공장 내부",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ040Z0hJdy1zM0htN09YcTlGRnpSWjlHRFFzVUxTRHJIWnNvUzlMT3phSlZHVk0yNEh3aGt0dXNBYllwZnQ3bXdSUjRUMm9pMHRVQUhCN0xQZG5GV1VGYlFVRUJGbW1jN1cwQUZGVTIwd0xGWTZnXy1ZSDJCQmM2eGE3Vm9tY1pDYWszek5BVFgwemZNZlVOaWNnWQ?oc=5",
-      "source_name": "Manufacturing Digital",
-      "country_code": "US",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-04-08T10:12:16.312090+00:00",
-      "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
-    },
     "https://vtv.vn\nbắc ninh: sai lệch tọa độ trên sổ đỏ khiến đất nhà nọ chồng lên đất nhà kia\ngoogle_news": {
       "title": "박닌: 토지 소유권 증명서의 좌표가 일치하지 않아 한 주택의 토지가 다른 주택의 토지와 겹치는 문제가 발생하고 있습니다.",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVU5tcVhTTElUanhVMDV5ZUZ2UFBIbjBQYTJ1WXlZaGpZcUVvU1YteTRoQU1rdUN2X21HQ2E0UkhtV2E3MFpEYXNGdXA0RkNwcTdma1NVakpnR01iQUJzdkxVR2xRZHRFUURfT2htbmtIM2R4clBiR3pDWXF1R0tBZmdCNnNuOERMU1R1WmxpcHg5QW0wd2k0REFONUFZamRKZHVhMUFheXVFZW4xN3pPbkRn?oc=5",
@@ -477,17 +223,6 @@
       ],
       "first_seen_at": "2026-04-08T10:12:16.312090+00:00",
       "last_seen_at": "2026-04-08T23:42:19.208108+00:00"
-    },
-    "https://money.usnews.com\nsamsung electronics' shareholder shinhan bank launches $2.1 billion share sale - term sheet\ngoogle_news": {
-      "title": "삼성전자 주주인 신한은행, 21억 달러 규모 주식 매각 개시 - 거래 조건표 공개",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOVhSQkRnZHZVaXpwUkpoNTZ4Mi1yeHZOR1Raa3BhV3pIa0pPM0ZVbEJfUE9maHNIVkJQRzkxa1BRT1ZJUWdBNDBfZS1OSngzQmdXNGZHMnU4MjRTdWhzREhCQ1ZjbmQ2c3U5OWRNY04yVnVhdHdxLWlnM0Vuenk1VW1EN1pQN0EwcUUwdXF6SkdSbW1EYTY3bWk1NTB3M2J1QXJST2ZEb1l3ODlNcEFwUzFXZHZiZUhGRWFMWE53RXlhd0oySEtWenljckU3VllnSGVROEJ3dW1FNEJmWXktUA?oc=5",
-      "source_name": "U.S. News Money",
-      "country_code": "US",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-04-08T10:12:16.312090+00:00",
-      "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
     },
     "https://laodong.vn\nkhởi công cầu cảng quy mô lớn, hd hyundai việt nam nâng công suất đóng tàu 23 chiếc/năm\ngoogle_news": {
       "title": "대규모 항만 건설이 시작됨에 따라 HD 현대 베트남의 조선 능력은 연간 23척으로 증가할 것입니다.",
@@ -511,17 +246,6 @@
       ],
       "first_seen_at": "2026-04-08T10:12:16.312090+00:00",
       "last_seen_at": "2026-04-09T10:16:46.720282+00:00"
-    },
-    "https://thanhnienviet.vn\nhơn 500 khách hàng đã chọn mua suv cao cấp kia new carnival hybrid đầu năm 2026.\ngoogle_news": {
-      "title": "500명이 넘는 고객들이 2026년 초에 출시될 프리미엄급 기아 뉴 카니발 하이브리드 SUV를 구매하기로 결정했습니다.",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORGRyQklvcjRtelVCZmdjNkFSRmRROGdybXM5czM3cl9zTWkzNmdpSkZhTjVIbEtpQlAxRW53dGdsV1dZaVRnVEZHeDdjSzUyWi1RbW04czJlVTlmanJVcWFQbUo2cHNfb1FadXNSeGlBNGJRSzg1YlFHWnNqX1hqaEI0UmxyaDBrS0JxRExmNzAybGxHYWgwVGFDNkxqaVhGYzM4TDRUSV9HOWNBSGxDc1VJUmdfQzVvOFB6WmYtbGJfYllO?oc=5",
-      "source_name": "thanhnienviet.vn",
-      "country_code": "VN",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-08T10:12:16.312090+00:00",
-      "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
     },
     "https://coincentral.com\ncoupang (cpng) stock; dips marginally as user growth returns after data breach hit\ngoogle_news": {
       "title": "쿠팡(CPNG) 주가, 데이터 유출 사태 이후 사용자 증가세 회복세에 소폭 하락",
@@ -555,17 +279,6 @@
       ],
       "first_seen_at": "2026-04-08T10:12:16.312090+00:00",
       "last_seen_at": "2026-04-08T23:42:19.208108+00:00"
-    },
-    "https://www.indulgexpress.com\nhybe india launches nationwide auditions for desi k-pop star: here is how you can avail it\ngoogle_news": {
-      "title": "HYBE India가 인도 출신 K팝 스타를 찾기 위한 전국 오디션을 시작합니다. 참여 방법은 다음과 같습니다.",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRTViLTg1bVN5SkhLSlRTdkZVM2tyQ1hLcWJQOE0yTFpQOTRuXzExWV8xRXdhUk1fdDYyX2tMZ1Q1elhWMUpGNFgyODZqZnNYYUlQbXhueGNteTZ6aTh5Z1lfVFRBVUZEd2ZfbVNWUS1jX2Q2ZEFaWjZpTEdVcm5weEc3M19uMUplVnBMSGFQZ0hlTnk2SXgtTnFDczBDSUxycDNCWnNHcXRkdjc3MnIxTEtnNUE1c0hITzd3MjB3WHp2aVBXX3F3Smx1dmtuRU5EZWhhWGJYb2JXWGxFSzRaUkEwaUVoOHPSAfQBQVVfeXFMTkRPaW1vNUEtTzV3dmk4cm5sNV82czJmQ3k0S0hDNVJ5SDg3R3NGdjRzeFhLOU1MVlpBZklldE1RTnpOWjdtVjgtaWJkTEpLcUhNNnlrOGp2M3UzRlRHT2NUdWk4dWo0SXpFZnREVHFEMkFzbDJEWXBMbDZLQTI4aTEyUWlETHROVFRiQ211N2RSZjJmcmRwTlNzTURUVmZsMUdEUmtfWVEzdHVwaWlRYXlQcFdjT0ZLeFZ0c3BHYlJ3NEtPZ2FXM09CblpmbWdlMXNYQXo0VkJta3FtTmRtdVVxbVdBNXJhOHM1aWE4TXgyUGFFWQ?oc=5",
-      "source_name": "Indulgexpress",
-      "country_code": "US",
-      "companies": [
-        "HYBE"
-      ],
-      "first_seen_at": "2026-04-08T10:12:16.312090+00:00",
-      "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
     },
     "https://www.vietnam.vn\nhd hyundai vietnam shipbuilding co., ltd. commences construction of a 280m-long pier.\ngoogle_news": {
       "title": "HD 현대 베트남 조선소가 길이 280m의 부두 건설을 시작했습니다.",
@@ -602,28 +315,6 @@
       ],
       "first_seen_at": "2026-04-08T10:12:16.312090+00:00",
       "last_seen_at": "2026-04-09T10:16:46.720282+00:00"
-    },
-    "https://cafef.vn\nchủ tịch các chaebol lớn nhất hàn quốc samsung, sk, hyundai, lg cùng 200 'đại bàng' sắp đến việt nam tìm cơ hội\ngoogle_news": {
-      "title": "삼성, SK, 현대, LG 등 한국 최대 재벌 기업 회장들을 비롯해 200여 개 주요 기업 대표들이 사업 기회 모색을 위해 베트남을 방문할 예정이다.",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWk84UF8xdEdvQlh0QWlNaEIzRm1MUzJpTDlRSnNWSzYwQWlTOXJibXdCYTlxYUd2YkM3UnF4cU1PbUxYa2VfRnlpMGxhVkJlT0RDMVZBaDRHVHYtSFNZNmt2TUlKZk5ONER3LVJjRXZiWXIzdXRsME9KSW1NT0taYmEyRjRONHM3Rml1UnpyWElPN3N4MWFhal8tc3NlVnBLTnBtZkNZVHlRUUIxLUtWMVByY3Z5ZnJoam1XUWdJdjBnT0RNc3l4aEVkWU5uOVRMYXlLRTdPZUZteVBDS09SanVRYTZGcXc?oc=5",
-      "source_name": "CafeF",
-      "country_code": "VN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-04-08T10:12:16.312090+00:00",
-      "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
-    },
-    "https://www.travelwires.com\nkorean air, exotrail team up on space transport\ngoogle_news": {
-      "title": "대한항공과 엑소트레일, 우주 수송 분야에서 협력",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TWVA1b21BaVBDZ1RkMWFqbGFVcGZ1cy1maTJwaXEzYzI5aXM2RlpoY1VOVEZqRFA0bHZicWVfTUdsUHhVbHdyUjRDa25mZWhSLWVQSk56VDhmVkNHUnNQbENBYV9pWlQxaGRQeTZQdE9MQjNvR0FoaVVlYThiM1U?oc=5",
-      "source_name": "Travel Wires",
-      "country_code": "US",
-      "companies": [
-        "Korean Air"
-      ],
-      "first_seen_at": "2026-04-08T10:12:16.312090+00:00",
-      "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
     },
     "https://insideevs.de\nkia ev2 (2026): übersicht mit allen daten und preisen\ngoogle_news": {
       "title": "기아 EV2(2026): 모든 데이터와 가격을 포함한 개요",
@@ -680,17 +371,6 @@
       "first_seen_at": "2026-04-08T10:12:16.312090+00:00",
       "last_seen_at": "2026-04-08T23:42:19.208108+00:00"
     },
-    "https://www.32cars.ru\nkia ev5 rückruf in china: software-defekt im armaturenbrett\ngoogle_news": {
-      "title": "중국에서 기아 EV5 리콜: 대시보드 소프트웨어 결함",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTmc5QnpTNXZVTzBKLVVSWngweU1SalBLbFNONVQ2djhQS241S05PMmdrZHpYOFlZQ3M1VElPWVJtdVF5X0ZCM3ZlZ0xEVGlDZzg5Z1c1Z1ZKUGU2SE5ub1BrWV9ST2dsdmNYZWxuQlZOM28ycEppemxHME9LZU5IbVZTMnFwZ3V5Skk2Qlp3YTE1azU3bV9HWjNCTUZGbTV1c0HSAaIBQVVfeXFMT05nOUJ6UzV2VU8wSi1VUlp4MHlNUmpQS2xTTjVUNnY4UEtuNUtOTzJna2R6WDhZWUNzNVRJT1lSbXVReV9GQjN2ZWdMRFRpQ2c4OWdXNWdWSlBlNkhObm9Qa1lfUk9nbHZjWGVsbkJWTjNvMnBKaXpsRzBPS2VOSG1WUzJxcGd1eUpJNkJad2ExNWs1N21fR1ozQk1GRm01dXNB?oc=5",
-      "source_name": "Автомобильный портал 32CARS.RU",
-      "country_code": "DE",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-08T10:12:16.312090+00:00",
-      "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
-    },
     "https://aeromorning.com\nkorean air et la société spatiale française exotrail ont signé un protocole d’accord\ngoogle_news": {
       "title": "대한항공과 프랑스 우주기업 엑소트레일(Exotrail)이 양해각서를 체결했습니다.",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc1RqS1BYN1ZGNTFuSmR6QjRISDNZTDB0cTh1Yzl6S2hFdWk3dnk5OU1vbWY2VGFIOVA3b2daRVpvel9pdk5qYlY4aUhySGJUQkNPXzBXVnhTRGtlYlQtUS1sOEdBRmhIWUY4WEY5LXNNSjVhcEc0Wkg5LWNSQmItbmZhTmlZUGNsWDBkTjUtOUx5WjdFcno5eERDVlpUME82bkNja3U5bkZWeFpM?oc=5",
@@ -723,17 +403,6 @@
       ],
       "first_seen_at": "2026-04-08T10:12:16.312090+00:00",
       "last_seen_at": "2026-04-08T23:42:19.208108+00:00"
-    },
-    "https://invezz.com\nsk hynix stock surges 15% as samsung's blowout profit lifts chip sector\ngoogle_news": {
-      "title": "SK하이닉스 주가, 삼성전자의 호실적 발표에 힘입어 반도체 업계 15% 급등",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT2loaDdtUkZzTl9wbVZ2aTJ3MUp5YW10OFBUTmJOTXV5Q3M0R2JmQzdneV9idGYzdFluQzVjQVhURUhqNkZia2daRHVCSlF0N2o4RXFaT0ppTUNyY3R2UkxzWWJsS3VDWHI3aU1iUm1uU3JUdjUtWkQxTFp2MzBpVlRUdlJoMk8yMFcteDBIM3l3UUpfRS1Yc0RMYmRheFZpNG9aaE1aazFqSWdwSjBxUXB2dXNuUQ?oc=5",
-      "source_name": "Invezz",
-      "country_code": "GB",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-04-08T10:12:16.312090+00:00",
-      "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
     },
     "https://www.vietnam.vn\nlg electronics vietnam fait don de 50 purificateurs d'air à une école primaire.\ngoogle_news": {
       "title": "LG전자 베트남이 초등학교에 공기청정기 50대를 기증했습니다.",
@@ -768,28 +437,6 @@
       "first_seen_at": "2026-04-08T10:12:16.312090+00:00",
       "last_seen_at": "2026-04-08T23:42:19.208108+00:00"
     },
-    "https://www.digitimes.com\nsk hynix reportedly in talks with microsoft and google on long-term ai memory deals\ngoogle_news": {
-      "title": "SK하이닉스가 마이크로소프트, 구글과 AI 메모리 장기 계약 관련 협상을 진행 중인 것으로 알려졌다.",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSUpSOGpoajNqUHctdnFZd2ZKUmtZQjR2S25xN1FFZWt4QWhKQWtSdndiQTNMTWhyd19OcXdHcElaU0JwY3NzSFFtNnlWRVBIdGxZdkhjWnptZ2dFZDhwX2F6S3VLejlDdXZNNXlhTllpcnYzOHlUT1pJcDNlUlpFd2ltMC1VMzhhcV9UMDFvZUN3Nk0?oc=5",
-      "source_name": "digitimes",
-      "country_code": "US",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-04-08T10:12:16.312090+00:00",
-      "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
-    },
-    "https://de.motor1.com\ntatsächlicher verbrauch: kia stonic mildhybrid (2026) im test\ngoogle_news": {
-      "title": "실제 연비: 테스트 차량 기아 스토닉 마일드 하이브리드(2026)",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMG9MM1BBb3RmTWJzbF90YWJGbWs5UUtUR01hak05cFIxazJGZEpVRGNibUIzVGxvTkNQdEt3ZFZIRVBaNWw3S3k0dlJMclUxZVJFNFNQYURqMHJ2eURCNTVQQ0s1OVU3VGlQN016QXpQSFZFOEd6SW1tN1E2RUs0M2QxQklOUkhBME9tdHlEY2Q?oc=5",
-      "source_name": "Motor1.com Deutschland",
-      "country_code": "DE",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-08T10:12:16.312090+00:00",
-      "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
-    },
     "https://www.24h.com.vn\ncác điểm nổi bật của dòng suv kia sportage giá từ 819 triệu đồng\ngoogle_news": {
       "title": "기아 스포티지 SUV의 주요 특징 (가격: 8억 1,900만 VND부터).",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYzhFRlFTWDVtY0ZtR08wWVVrV09laUg5TVNjSVg2VWRQUk1EUm9rampiVXhHemh3cTdPWW15V2NLNDZuTnp1cVFKRHd2SmpCSTRyWC1JRnhIUFQ4SnR5VUNhZmYzU0NQRGtIdmNxTHZKQ3lXeXhVcDlieklhWGZlem9QLTZQaF9XbXBNY2JZcEpVY0JlcGdBUlRZMnRsSXhwbXhIcXBmVllINlMyODNr?oc=5",
@@ -800,17 +447,6 @@
       ],
       "first_seen_at": "2026-04-08T10:12:16.312090+00:00",
       "last_seen_at": "2026-04-08T23:42:19.208108+00:00"
-    },
-    "https://www.sggp.org.vn\nlg electronics việt nam trao tặng 50 máy lọc không khí cho trường tiểu học\ngoogle_news": {
-      "title": "LG전자 베트남이 초등학교에 공기청정기 50대를 기증했습니다.",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWG14VWNtUVg4VEY3QXYwbjJudGhmeXRYaVc0SmxCQU9qY3loS3JzX3AtRWlXdTB1alNidUNKU3BDbS15N0h0Sk9BMGdBT0pURTNvUnRsWEV3dzZYd18yUmhscEpvUGpqTFoxeGZoVzRHVnlOT1p3dlRrVk1HX3BYcDVYRzAtV3I5VW1ScFFBZWxmMnpyY19qVjFBeXRMZktab1gwRjVRN0R3bTRRTDRaODBWdlo?oc=5",
-      "source_name": "BÁO SÀI GÒN GIẢI PHÓNG",
-      "country_code": "VN",
-      "companies": [
-        "LG Electronics"
-      ],
-      "first_seen_at": "2026-04-08T10:12:16.312090+00:00",
-      "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
     },
     "https://finance.yahoo.com\nbank of america’s u.s. 1 nod and hybe deal might change the case for investing in spotify technology (spot)\ngoogle_news": {
       "title": "뱅크 오브 아메리카의 U.S. 1 승인과 HYBE와의 거래는 스포티파이 테크놀로지(SPOT) 투자에 대한 전망을 바꿀 수도 있다.",
@@ -845,17 +481,6 @@
       "first_seen_at": "2026-04-08T10:12:16.312090+00:00",
       "last_seen_at": "2026-04-08T23:42:19.208108+00:00"
     },
-    "https://nguoiquansat.vn\nđánh giá kia ev3: mẫu suv điện cỡ b chạy hơn 500 km một lần sạc có gì để lật đổ xe xăng?\ngoogle_news": {
-      "title": "기아 EV3 리뷰: 1회 충전으로 500km 이상 주행 가능한 이 B세그먼트 전기 SUV는 휘발유 차량을 제치기 위해 어떤 매력을 가지고 있을까요?",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQkRNYTY2eW53bG9VYkNJUVZQeHM0bVpEa1NDZmtOYlJWUkNFZWRlakZpUUhldkVzbHZCU3FBamV6MWE2NE9ld3cyNmVoWnpLYXpqUEpmWS1YUVljNFlSOFZqZm5OVkxnSjNiX2lFOGhMZHBUSXo0MkZ1and6VjdaMksxcDN6cGpScng1dzRLQlJuN041OVRSX0RjZ0ZXQ1VFV0tyTG5MMWMtWGhoVFdaZWgwRVZwczUzTTNveUVxQQ?oc=5",
-      "source_name": "nguoiquansat.vn",
-      "country_code": "VN",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-08T10:12:16.312090+00:00",
-      "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
-    },
     "https://www.traveldailymedia.com\nkorean air and exotrail to develop space transport solutions\ngoogle_news": {
       "title": "대한항공과 엑소트레일, 우주 수송 솔루션 개발에 나선다",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVdFanRJM1RxTVdPZWwyV0R3bWNob284TmF6UWhZZ3p0bFU1Qi1iSktDbFJ6SGZqTllXNFFnb2k3NENNamhHUS1sZnhBVmJjRHl3Wlc5OFM3aThlS2hCRl9ZaTdtekdXLXZBeXJMN3BlYUc1Sm16dU5aOHNHYkVwRmt2aXhJT2EyQ1IzN1B2Qm80VkFoUXpJQTdn?oc=5",
@@ -866,28 +491,6 @@
       ],
       "first_seen_at": "2026-04-08T10:12:16.312090+00:00",
       "last_seen_at": "2026-04-09T10:16:46.720282+00:00"
-    },
-    "https://invezz.com\nsk hynix bondit de 15% après le profit record de samsung\ngoogle_news": {
-      "title": "삼성의 사상 최고 실적 발표 후 SK하이닉스 주가가 15% 급등",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMU5GNnV2UVRtMXNyaG1Nc3NnVEpBOG9fNDI0b0VfdVdDUjJtOVJUbGlsaGM4YW0yRVFLUS1mWkVjSWxfWE9KUEdLb2x3MVlxOWVrT216YXZsNHhwMjFmOUU3UlJ6aTZ2c29veFgxLUt0X25jSDlXU1hQNE5kWnZnZlhPVlRaS1FFRXpPRUdQNVVKRFlyb0ZKcXo5M3VVM0xCaTBRazdld3hqdWc?oc=5",
-      "source_name": "Invezz",
-      "country_code": "FR",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-04-08T10:12:16.312090+00:00",
-      "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
-    },
-    "https://www.docsports.com\nsamsung lions vs kia tigers prediction, 4/8/2026 kbo pick, tips and odds\ngoogle_news": {
-      "title": "삼성 라이온즈 vs 기아 타이거즈 경기 예측, 2026년 4월 8일 KBO 경기 예상, 팁 및 배당률",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPczJuV3c4bUkxTmM1elJwcDdFUVJZSWNLdGR5X3FBanFJaHBabExJMHlpVEhSXzVwVFduSUpEQk5qU0sxcW1iQ01LR0dXUF9ndTJ3a0VCMXRYd20ydnoyY1QzbUQxTVRRaUJsYVhoMnZadmdTRW9XTGNpRmVDbWtmTVZUUmYxVGxkdkJJM20xOUcyUHlMNWEwSkVKcUVJaHhmTFJDQXVDeEJtd2ZROWhLb21kTGo3ajhRQy1vSDdn?oc=5",
-      "source_name": "Doc's Sports",
-      "country_code": "US",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-08T10:12:16.312090+00:00",
-      "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
     },
     "https://www.airliners.de\nkorean air und exotrail wollen orbitaltransfer-fahrzeuge entwickeln\ngoogle_news": {
       "title": "대한항공과 엑소트레일은 궤도 이동체 개발을 계획하고 있다.",
@@ -910,50 +513,6 @@
       ],
       "first_seen_at": "2026-04-08T10:12:16.312090+00:00",
       "last_seen_at": "2026-04-09T10:16:46.720282+00:00"
-    },
-    "https://times.abema.tv\n宮脇咲良「完璧、すごい！」普段褒めないhybeコーチが絶賛！元アイドルの練習生がtop独走\ngoogle_news": {
-      "title": "미야와키 사쿠라 「완벽, 대단하다!」 평소 칭찬하지 않는 HYBE 코치도 절찬! 전 아이돌 연습생이 최고 독주 | Chiba Tele + Plus",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oelhaVGVtX3dwWnh2Y2JmVnMwY2lLYWd3enhOUmJMd2JJR2NjWUlEaHgtNGJuMlJtRzZlR3dHSm1KT0dzZVB5SVVLbk0zUW91NGNEQQ?oc=5",
-      "source_name": "千葉テレビ放送",
-      "country_code": "JP",
-      "companies": [
-        "HYBE"
-      ],
-      "first_seen_at": "2026-04-08T10:12:16.312090+00:00",
-      "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
-    },
-    "https://www.ktnv.com\nlg electronics usa | 4/7/2026\ngoogle_news": {
-      "title": "LG전자 미국 법인 | 2026년 4월 7일",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VQnVjeVhUeGs0YWhId3Z4YTkyS0NYRG1rWjlxVmJ0aHR2MFEzMHpMdHFuZkNPdHBsQlp5TVcyVzJ0UTBHdW41MGFOWjR2RFE1eWpWLV9VQWZ2ejRJR2V3QmtBLXg4Xzltay1QRkdR?oc=5",
-      "source_name": "ktnv.com",
-      "country_code": "US",
-      "companies": [
-        "LG Electronics"
-      ],
-      "first_seen_at": "2026-04-08T10:12:16.312090+00:00",
-      "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
-    },
-    "https://www.asiafinancial.com\nsamsung electronics expects profit to jump 755% on ai boom\ngoogle_news": {
-      "title": "삼성전자, AI 붐에 힘입어 이익 755% 급증 예상",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZlBRMDNFb2NLMmFYX3pIR1VRMm8zSVZrdzJBSmN6aHMyNzAxWlFzbEFCNnRNWWNwT1U0dmUtMDcxNlRNd2dkMFUzVEVrQ3hvLURkNnBQUDJfS2JUMmhSbXdMbEZWSWxRZjNfcVhFQU1XM3hSTE8yRmJGZDEtZm0tSmZIc1NtWHFhZTFtaWNLMEs?oc=5",
-      "source_name": "Asia Financial",
-      "country_code": "GB",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-04-08T10:12:16.312090+00:00",
-      "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
-    },
-    "https://www.kiaoval.com\nnominations open for ringing the bell at the kia oval during county championship\ngoogle_news": {
-      "title": "카운티 챔피언십 기간 동안 기아 오벌에서 종을 울릴 후보자 추천이 시작되었습니다.",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNUFFRVhvNXNVbTFETGNQa2Nyako1WFlBcTV0bXo5aWJGSVk5NWVMVlhKOEtXUWFEVmxVRzF3SzA1el95UHhFUzhIbWVpX3lIdmJ5Z09oOERfOXE5SlQyaDBQMTNCSENJZFZ5WUhUS1M4WkVNYXNUY1VLcGxvLUxRVk1xenFoZFgtS2wzNFdPaG5VXzJYSzV6RFNnRHRxNkhjT0x1SGZPZTY?oc=5",
-      "source_name": "kiaoval.com",
-      "country_code": "GB",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-08T10:12:16.312090+00:00",
-      "last_seen_at": "2026-04-08T10:12:16.312090+00:00"
     },
     "https://fox59.com\nlg electronics usa: national alliance on mental illness partnership – 4/7/26\ngoogle_news": {
       "title": "LG전자 미국 법인: 정신질환자 가족연합(NAMI) 파트너십 – 2026년 4월 7일",
@@ -5627,7 +5186,7 @@
         "LG Electronics"
       ],
       "first_seen_at": "2026-05-21T12:18:36.835836+00:00",
-      "last_seen_at": "2026-05-23T00:11:05.416187+00:00"
+      "last_seen_at": "2026-05-23T10:38:30.180506+00:00"
     },
     "https://www.nytimes.com/2026/05/21/business/samsung-strike-ai-chips.html": {
       "title": "삼성, 대규모 보너스 지급으로 파업 위기 모면했지만, AI 수익 관련 갈등 고조",
@@ -5672,6 +5231,28 @@
       ],
       "first_seen_at": "2026-05-22T00:07:31.757764+00:00",
       "last_seen_at": "2026-05-22T11:47:23.864976+00:00"
+    },
+    "https://www.channelnewsasia.com/business/hyundai-recall-over-421000-us-vehicles-over-software-brake-issue-nhtsa-says-6137546": {
+      "title": "현대자동차가 소프트웨어 브레이크 결함으로 미국 내 차량 42만 1천 대 이상을 리콜할 예정이라고 미국 도로교통안전국(NHTSA)이 밝혔습니다.",
+      "link": "https://www.channelnewsasia.com/business/hyundai-recall-over-421000-us-vehicles-over-software-brake-issue-nhtsa-says-6137546",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-05-23T10:38:30.180506+00:00",
+      "last_seen_at": "2026-05-23T10:38:30.180506+00:00"
+    },
+    "https://vietnamnews.vn/economy/1781925/car-industry-backs-e10-fuel-readiness-ahead-of-rollout.html": {
+      "title": "자동차 업계, E10 연료 출시 준비 태세 강화에 박차",
+      "link": "https://vietnamnews.vn/economy/1781925/car-industry-backs-e10-fuel-readiness-ahead-of-rollout.html",
+      "source_name": "Vietnam News Economy",
+      "country_code": "VN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-05-23T10:38:30.180506+00:00",
+      "last_seen_at": "2026-05-23T10:38:30.180506+00:00"
     }
   }
 }
