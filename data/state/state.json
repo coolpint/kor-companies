@@ -1,87 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-05-27T00:11:43.479645+00:00",
+  "last_run_at": "2026-05-27T12:23:34.852562+00:00",
   "seen_articles": {
-    "https://doanhnghiepcuocsong.vn\nhyundai, kia và bmw triệu hồi gần 180.000 xe do lỗi phần mềm\ngoogle_news": {
-      "title": "현대, 기아, BMW는 소프트웨어 버그로 인해 약 18만 대의 차량을 리콜하고 있습니다.",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdTE0NV9haGhILVV1WGlTTl9vZmxkQjFIUlBrNC1rV09xd3Y5N3BqYTRtVVNUR0pwRVFMY2tKX2Z6R3FaU1FOZkxDTTJhTnVxb1JuTkxuNHBkVDhnN3VkdHVXNWFMbnVFSkdySm1DRVNHVzNHYVg3aFhaamN3aGN5WFBMZEI3LWlWMENmYVhUM3RpS0Z6N1MzSWJyYVJLUTJtRDlMaw?oc=5",
-      "source_name": "Doanh nghiệp Cuộc sống",
-      "country_code": "VN",
-      "companies": [
-        "Hyundai Motor",
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-05T23:38:54.660279+00:00",
-      "last_seen_at": "2026-04-12T00:37:38.598143+00:00"
-    },
-    "https://www.upi.com\nhanwha aerospace to export more k9 howitzers to finland\ngoogle_news": {
-      "title": "한화항공우주, 핀란드에 K9 곡사포 추가 수출 예정",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQVF5a2VTQnQ4SDgyS25GU01POFBVems0SUhxbDFZY25FcFhEUWp4X3k4UzVGdm5SUXZfQVpWc1hNYVI0VVBYVXBmdmlJa2dNUVNkSlZNWXJER00zYmo3VHVENEpVWEdFYjYyckRQXzBiUVFEVW9mRjNDTjB1Y2JQeTI5QVFhbnB4cmY0aG9TYlQyd1Z5d3pjZ1k1VWJuSi1iaEJ5cDZGbmZ6RFU30gGyAUFVX3lxTE1sVXNBUEtMUlIwTEZpZUJhWWRLV1YtaE9tWjFIV1ctdmMxR0IxdndBTGdvMWw0ZDBiNGN5VHM4NUJCZW1QRm0xWnRJaUtwZl9PSmZyVE9NRFNYMzNDbzhjVi1teUI5VGxCX09YakJFSUZucDVBeWV4TVpoZFBJMFg2ZXlkMWhscHBwYmwxOUJTUTMwZGNhUUNwcENEcW44akJpU2xEcFk4RnFjRVRoY2ctdWc?oc=5",
-      "source_name": "upi.com",
-      "country_code": "US",
-      "companies": [
-        "Hanwha Aerospace"
-      ],
-      "first_seen_at": "2026-04-10T23:40:30.463250+00:00",
-      "last_seen_at": "2026-04-12T00:37:38.598143+00:00"
-    },
-    "https://www.nikkei.com\nhybe、横浜に日本初の常設店 btsのcdなど販売\ngoogle_news": {
-      "title": "HYBE, 요코하마에 일본 최초의 상설점 BTS의 CD 등 판매",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Xb21aeThoQkRjRTJOSDQwd2VGcVoyVEUwZGdreWRhY2FlXy11VGNXM002UzRFZzJOREkxLU5LX19wSUpNNFVyWFVyMG1TWEZiQW0zMEs5VzdmSDRFLVhkUFlFSTV5T3Zzb3lYRg?oc=5",
-      "source_name": "日本経済新聞",
-      "country_code": "JP",
-      "companies": [
-        "HYBE"
-      ],
-      "first_seen_at": "2026-04-11T09:47:52.945170+00:00",
-      "last_seen_at": "2026-04-12T09:51:38.614919+00:00"
-    },
-    "https://vietnamnews.vn/economy/1779228/posco-to-invest-over-400-million-in-battery-materials-plant-in-thai-nguyen.html": {
-      "title": "포스코, 타이응우옌에 배터리 소재 공장 건설에 4억 달러 이상 투자 예정.",
-      "link": "https://vietnamnews.vn/economy/1779228/posco-to-invest-over-400-million-in-battery-materials-plant-in-thai-nguyen.html",
-      "source_name": "Vietnam News Economy",
-      "country_code": "VN",
-      "companies": [
-        "POSCO Holdings"
-      ],
-      "first_seen_at": "2026-04-11T09:47:52.945170+00:00",
-      "last_seen_at": "2026-04-12T09:51:38.614919+00:00"
-    },
-    "https://mexicobusiness.news\nhyundai mobis to invest mx$1 billion in nuevo leon expansion\ngoogle_news": {
-      "title": "현대모비스, 누에보레온 확장 사업에 10억 멕시코달러 투자 예정",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOG5ZSDZpbkZpVWZTa25JVzYzcjNDTE81Y0NxNmhFbWNsLWtHeldDMVF4S0gwblJFWWxiWVQ5Y0VGeWRtTlBQS2pUWExjY1JIcGhEbGI0RG45eVpJdXRxcEUtUm5PYXBRNVgzaFVIOHJ4a1h1RzNpdngxUm4ycGlhWmNRX2RIYkhFMHBoR1RfQXdUYlVYUF9QUzRXNURzdw?oc=5",
-      "source_name": "Mexico Business News",
-      "country_code": "US",
-      "companies": [
-        "Hyundai Motor",
-        "Hyundai Mobis"
-      ],
-      "first_seen_at": "2026-04-11T09:47:52.945170+00:00",
-      "last_seen_at": "2026-04-12T09:51:38.614919+00:00"
-    },
-    "https://defence-industry.eu\nhanwha aerospace unveils k9mh wheeled self-propelled howitzer\ngoogle_news": {
-      "title": "한화항공우주, K9MH 차륜형 자주포 공개",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcWpLQ1VhVnNBNzhNOG1IVkRGYnFxVGIzeXYxSFJyWTVacmdXLVlGZFgzNDNVNVJQdTZPaWRmMHBzY3JNMHNvUWpzcjRIdk93VVFodlhlbkNnam1JY3NXZEZSWm1qLV9taWYxcXN0VE41dHFmOW5ZTXRuN2N2N1RGYVdha0ZpdFhnR0dlaGFQVWlBd2Yx?oc=5",
-      "source_name": "Defence Industry Europe",
-      "country_code": "US",
-      "companies": [
-        "Hanwha Aerospace"
-      ],
-      "first_seen_at": "2026-04-11T23:40:10.647210+00:00",
-      "last_seen_at": "2026-04-12T00:37:38.598143+00:00"
-    },
-    "https://www.energynews.pro\nsonangol commande deux méthaniers pour 511 millions de dollars auprès de hd hyundai\ngoogle_news": {
-      "title": "손앙골, HD 현대에 LNG 운반선 2척 발주 (5억 1100만 달러)",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeU9ZSFo1czdDTkNRV1dfWldLTUFPb3Fxc2ZtaTliSk9OaGdsa0wzcUo5YzBrXy1QMUY4cVhSNG1zNVhaRjNMaEtnQXhtYUNaeGFzN0g3cXotYkp3SnBMMWVHa01WUlF3Tk8zWlNuTTJMSlkzVUFueWRrTTNnamEyejRpZDQweHJLX1EtZUhyZ0M4TXQtdFI1WXI3TU9EeGJId1V0RVloTk8xbDZTcjI4?oc=5",
-      "source_name": "energynews.pro",
-      "country_code": "FR",
-      "companies": [
-        "Hyundai Motor",
-        "HD Hyundai"
-      ],
-      "first_seen_at": "2026-04-11T23:40:10.647210+00:00",
-      "last_seen_at": "2026-04-12T00:37:38.598143+00:00"
-    },
     "https://www.wallpaper.com\ntired of boring suvs? check out kia's new v4 fastback\ngoogle_news": {
       "title": "지루한 SUV에 질리셨나요? 기아의 새로운 V4 패스트백을 확인해 보세요.",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oUTNmblRQd2s0S09ILV9JYS1WcnZFSUFwUnNBNWdwY21Da2ctSURVRTNNYVBrRGM1NHlwVzE1YlBnY0l6NVVXZVQyWDlsNzFFMWpWcmJuOEpRY2dOaFp2OW1BLW1PS016cG9BcnU4Ny1SZw?oc=5",
@@ -103,28 +23,6 @@
       ],
       "first_seen_at": "2026-04-12T09:51:38.614919+00:00",
       "last_seen_at": "2026-04-12T23:40:50.355184+00:00"
-    },
-    "https://www.team-bhp.com\nnext-gen kia sonet to be launched in 2027\ngoogle_news": {
-      "title": "차세대 기아 쏘넷, 2027년 출시 예정",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zbWgxQ1AzX3ROSjhOcVdwbG9DbWlCQjRJR1FsaEZoVU9RaHJ3TGM4bFg4N0RqY3FERU9PQVFsWExHRzBDU19pNU1mSHhHeFZDMDhsVzdUUnZTT3YxZkJkVzFuMkFPaUhsZ1A2TVlicWE0ZEXSAXhBVV95cUxQdVB1bE1xaEc4SnFEZ2I3eGctUUJCblY1U2xzdlBxV3B0OFM4WkQtTWZIM1BmbUhIZHhCY3h3V1BkWW9EU2Z6a1h4SFJMcld5M0UzMW9iTEE3SFpRcE9DU0JyY05RN3VLUHhudkE5XzBmR0dNVk1Sb0E?oc=5",
-      "source_name": "Team-BHP",
-      "country_code": "GB",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-12T09:51:38.614919+00:00",
-      "last_seen_at": "2026-04-12T09:51:38.614919+00:00"
-    },
-    "https://news.yahoo.co.jp\nbtsの韓国公演にスター大集結！パク・ソジュン、hybe後輩からバン・シヒョク議長まで…記念ショットも（kstyle）\ngoogle_news": {
-      "title": "BTS의 한국 공연에 스타 대집결! 박서준, HYBE 후배부터 반시혁 의장까지… 기념 샷도 (Kstyle)",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQR0lWUTZzRU40MXN4NzNBRlUxZFZxcGNjN1NzZmtodjczbE52YzNmMGQtaVJvUEV3Q0c2UHVMM2k1dnkyZ0UxUmI4NkdTNnhobVdrZFExdzcwZjNPZi1PWmZvcEg2R0x2Wmpqc2NFQVVDVndhQll5TThUVGlfdFE?oc=5",
-      "source_name": "Yahoo!ニュース",
-      "country_code": "JP",
-      "companies": [
-        "HYBE"
-      ],
-      "first_seen_at": "2026-04-12T09:51:38.614919+00:00",
-      "last_seen_at": "2026-04-12T09:51:38.614919+00:00"
     },
     "https://baoquocte.vn\ncập nhật bảng giá xe hãng kia mới nhất tháng 4/2026\ngoogle_news": {
       "title": "2026년 4월 기준 기아 자동차 가격표 업데이트.",
@@ -148,17 +46,6 @@
       ],
       "first_seen_at": "2026-04-12T09:51:38.614919+00:00",
       "last_seen_at": "2026-04-12T23:40:50.355184+00:00"
-    },
-    "https://cleantechnica.com\nkia beats tesla to the compact ev sales punch — in europe\ngoogle_news": {
-      "title": "기아, 유럽에서 소형 전기차 판매량 1위 자리를 테슬라에 빼앗아갔다",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNk1MZ3I2aWZ3bnp1MTZnNUQ1WWdfaFZpbE40dVlGYXBDQUtnbk1mU3VxX0RGdmdodm9UM3IxV0lWZ0hCRlI2YXFHdE8tWHBfNmc5V3AwVTJVaUJTNUhHcFQxWTJfNWZ0UnpHdVJfdUpvQWM5dldxVjZkSGNGVUZtdEtmWVRtNG9MNTA5YWpJWUpMWmxMRDBLctIBoAFBVV95cUxPRlFEUlgtcm11SElWRGhHa3h5MzZuQTRZcVNubS16U3J2UTNnVEs0SjVPVnRwNHRaaHl5bnl0RnBMVG1vS19OcXgzeUtDa1lzZlFMLWdhWEtHUXVYQzZJUVR5LVJSZG93U1pzS2g1aHNaekRPWU9YYXJGWE8yTGt0YjZTQW5UU3VCTkF3SWhoMWt4VklMZ2FTX2NIUFUtbmVa?oc=5",
-      "source_name": "CleanTechnica",
-      "country_code": "GB",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-12T09:51:38.614919+00:00",
-      "last_seen_at": "2026-04-12T09:51:38.614919+00:00"
     },
     "https://www.guideautoweb.com\nbalado: une camionnette kia en approche, antoine se laisse conduire par le tesla model y\ngoogle_news": {
       "title": "팟캐스트: 기아 픽업트럭이 다가오자, 앙투안은 테슬라 모델 Y에 몸을 맡긴다.",
@@ -2040,7 +1927,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-05-27T00:11:43.479645+00:00",
-      "last_seen_at": "2026-05-27T00:11:43.479645+00:00"
+      "last_seen_at": "2026-05-27T12:23:34.852562+00:00"
     },
     "https://www.france24.com/en/tv-shows/business/20260526-starbucks-in-south-korea-sees-very-significant-drop-in-sales-amid-controversy": {
       "title": "한국 스타벅스, 논란 속에 '매출 급감'",
@@ -2051,7 +1938,7 @@
         "Shinsegae"
       ],
       "first_seen_at": "2026-05-27T00:11:43.479645+00:00",
-      "last_seen_at": "2026-05-27T00:11:43.479645+00:00"
+      "last_seen_at": "2026-05-27T12:23:34.852562+00:00"
     },
     "https://www.channelnewsasia.com/east-asia/south-korea-starbucks-tank-day-marketing-backlash-6141736": {
       "title": "스타벅스, '탱크 데이' 마케팅 논란 이후 한국 매출 급감",
@@ -2062,7 +1949,173 @@
         "Shinsegae"
       ],
       "first_seen_at": "2026-05-27T00:11:43.479645+00:00",
-      "last_seen_at": "2026-05-27T00:11:43.479645+00:00"
+      "last_seen_at": "2026-05-27T12:23:34.852562+00:00"
+    },
+    "https://www.nytimes.com/2026/05/27/business/dealbook/ai-chips-war-samsung-micron.html": {
+      "title": "메모리 칩이 인공지능 시장을 주도하는 이유는 무엇일까요?",
+      "link": "https://www.nytimes.com/2026/05/27/business/dealbook/ai-chips-war-samsung-micron.html",
+      "source_name": "The New York Times Business",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-05-27T12:23:34.852562+00:00",
+      "last_seen_at": "2026-05-27T12:23:34.852562+00:00"
+    },
+    "https://www.theguardian.com/technology/2026/may/27/samsung-memory-chip-staff-bonuses-ai-profit-sharing-deal": {
+      "title": "삼성 메모리 칩 직원들, AI 수익 분배 계약 체결 후 31만 파운드 보너스 지급 예정",
+      "link": "https://www.theguardian.com/technology/2026/may/27/samsung-memory-chip-staff-bonuses-ai-profit-sharing-deal",
+      "source_name": "The Guardian World",
+      "country_code": "GB",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-05-27T12:23:34.852562+00:00",
+      "last_seen_at": "2026-05-27T12:23:34.852562+00:00"
+    },
+    "https://www.ft.com/content/463052d8-b452-4640-88e4-844e8e435736": {
+      "title": "메모리 칩 제조업체들이 AI 붐을 타고 시가총액 1조 달러 클럽에 합류했습니다.",
+      "link": "https://www.ft.com/content/463052d8-b452-4640-88e4-844e8e435736",
+      "source_name": "Financial Times Companies",
+      "country_code": "GB",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-05-27T12:23:34.852562+00:00",
+      "last_seen_at": "2026-05-27T12:23:34.852562+00:00"
+    },
+    "https://www.bangkokpost.com/business/general/3261670/samsung-union-approves-deal-for-massive-bonuses": {
+      "title": "삼성 노조, 대규모 보너스 지급 합의안 승인",
+      "link": "https://www.bangkokpost.com/business/general/3261670/samsung-union-approves-deal-for-massive-bonuses",
+      "source_name": "Bangkok Post Business",
+      "country_code": "TH",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-05-27T12:23:34.852562+00:00",
+      "last_seen_at": "2026-05-27T12:23:34.852562+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/hyundai-motor-india-hikes-vehicle-prices-by-up-to-12800/article71028794.ece": {
+      "title": "현대자동차 인도법인, 차량 가격 최대 12,800루피 인상",
+      "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-hikes-vehicle-prices-by-up-to-12800/article71028794.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-05-27T12:23:34.852562+00:00",
+      "last_seen_at": "2026-05-27T12:23:34.852562+00:00"
+    },
+    "http://www.euronews.com/business/2026/05/27/memory-chip-giants-sk-hynix-and-micron-cross-1tn-valuation-amid-ai-mania": {
+      "title": "메모리 칩 업계의 거물인 SK하이닉스와 마이크론이 AI 열풍 속에 시가총액 1조 달러를 돌파했습니다.",
+      "link": "http://www.euronews.com/business/2026/05/27/memory-chip-giants-sk-hynix-and-micron-cross-1tn-valuation-amid-ai-mania",
+      "source_name": "Euronews Business",
+      "country_code": "EU",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-05-27T12:23:34.852562+00:00",
+      "last_seen_at": "2026-05-27T12:23:34.852562+00:00"
+    },
+    "https://www.marketwatch.com/story/hynix-quickly-joins-micron-in-the-1-trillion-club-as-one-bank-argues-ai-is-actually-underhyped-403602db?mod=mw_rss_topstories": {
+      "title": "경쟁사 한 곳이 마이크론에 이어 시가총액 1조 달러 클럽에 합류한 가운데, 한 은행은 AI가 실제로는 과소평가되었다고 주장한다.",
+      "link": "https://www.marketwatch.com/story/hynix-quickly-joins-micron-in-the-1-trillion-club-as-one-bank-argues-ai-is-actually-underhyped-403602db?mod=mw_rss_topstories",
+      "source_name": "MarketWatch Top Stories",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-05-27T12:23:34.852562+00:00",
+      "last_seen_at": "2026-05-27T12:23:34.852562+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/ai-rally-sk-hynix-micron-technology-join-trillion-dollar-club-taiwan-bourse-overtakes-india-in-market-value/articleshow/131346155.cms": {
+      "title": "AI 강세장: SK하이닉스, 마이크론 테크놀로지, 시가총액 1조 달러 클럽 가입; 대만 증시, 시가총액 기준 인도 증시 추월",
+      "link": "https://economictimes.indiatimes.com/tech/technology/ai-rally-sk-hynix-micron-technology-join-trillion-dollar-club-taiwan-bourse-overtakes-india-in-market-value/articleshow/131346155.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-05-27T12:23:34.852562+00:00",
+      "last_seen_at": "2026-05-27T12:23:34.852562+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-motor-india-to-raise-car-prices-by-rs-12800-effective-june-1-citing-input-cost-surge/articleshow/131345507.cms": {
+      "title": "현대자동차 인도법인, 6월 1일부터 차량 가격 최대 12,800루피 인상 예정",
+      "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-motor-india-to-raise-car-prices-by-rs-12800-effective-june-1-citing-input-cost-surge/articleshow/131345507.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-05-27T12:23:34.852562+00:00",
+      "last_seen_at": "2026-05-27T12:23:34.852562+00:00"
+    },
+    "https://www.scmp.com/news/china/military/article/3355017/south-korea-aims-join-china-us-top-tier-loyal-wingman-combat-drone-race": {
+      "title": "한국은 '충실한 조력자' 전투 드론 경쟁에서 중국, 미국과 함께 최상위권에 진입하는 것을 목표로 하고 있다.",
+      "link": "https://www.scmp.com/news/china/military/article/3355017/south-korea-aims-join-china-us-top-tier-loyal-wingman-combat-drone-race",
+      "source_name": "South China Morning Post World",
+      "country_code": "HK",
+      "companies": [
+        "Hanwha Aerospace"
+      ],
+      "first_seen_at": "2026-05-27T12:23:34.852562+00:00",
+      "last_seen_at": "2026-05-27T12:23:34.852562+00:00"
+    },
+    "https://www.cnbc.com/2026/05/27/sk-hynix-shares-ai-chip-rally-1-trillion.html": {
+      "title": "SK하이닉스, AI 붐에 힘입어 한국 반도체 주식 1조 달러 상승하며 시가총액 1조 달러 돌파",
+      "link": "https://www.cnbc.com/2026/05/27/sk-hynix-shares-ai-chip-rally-1-trillion.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-05-27T12:23:34.852562+00:00",
+      "last_seen_at": "2026-05-27T12:23:34.852562+00:00"
+    },
+    "https://asia.nikkei.com/business/markets/sk-hynix-joins-trillion-dollar-club-as-ai-fires-up-east-asian-stocks": {
+      "title": "SK하이닉스가 인공지능(AI) 열풍에 힘입어 동아시아 증시를 강타하며 시가총액 1조 달러 클럽에 합류했습니다.",
+      "link": "https://asia.nikkei.com/business/markets/sk-hynix-joins-trillion-dollar-club-as-ai-fires-up-east-asian-stocks",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-05-27T12:23:34.852562+00:00",
+      "last_seen_at": "2026-05-27T12:23:34.852562+00:00"
+    },
+    "https://www.cnbc.com/2026/05/27/sk-hynix-micron-join-1-trillion-club-cnbc-daily-open.html": {
+      "title": "CNBC 데일리 오픈: 1조 달러 클럽에 새로운 멤버가 합류했습니다.",
+      "link": "https://www.cnbc.com/2026/05/27/sk-hynix-micron-join-1-trillion-club-cnbc-daily-open.html",
+      "source_name": "CNBC World News",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-05-27T12:23:34.852562+00:00",
+      "last_seen_at": "2026-05-27T12:23:34.852562+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/artificial-intelligence/sk-hynix-joins-1-trillion-club-after-samsung-micron-on-ai-chip-boom/articleshow/131341126.cms": {
+      "title": "삼성과 마이크론의 AI 칩 붐에 힘입어 SK하이닉스가 시가총액 1조 달러 클럽에 합류했습니다.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/sk-hynix-joins-1-trillion-club-after-samsung-micron-on-ai-chip-boom/articleshow/131341126.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Samsung Electronics",
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-05-27T12:23:34.852562+00:00",
+      "last_seen_at": "2026-05-27T12:23:34.852562+00:00"
+    },
+    "https://www.bbc.com/news/articles/cnvp9dq0p3go": {
+      "title": "AI 칩 수요 급증으로 1조 달러 클럽에 두 개의 새로운 기업이 탄생했습니다.",
+      "link": "https://www.bbc.com/news/articles/cnvp9dq0p3go",
+      "source_name": "BBC Business",
+      "country_code": "GB",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-05-27T12:23:34.852562+00:00",
+      "last_seen_at": "2026-05-27T12:23:34.852562+00:00"
     }
   }
 }
