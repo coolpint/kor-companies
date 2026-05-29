@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-05-29T00:14:20.988740+00:00",
+  "last_run_at": "2026-05-29T12:18:43.167242+00:00",
   "seen_articles": {
     "https://economictimes.indiatimes.com/tech/startups/korean-ai-chip-startup-deepx-prepares-public-share-offering/articleshow/130251369.cms": {
       "title": "한국의 AI 칩 스타트업 딥엑스가 기업공개(IPO)를 준비하고 있습니다.",
@@ -2009,13 +2009,13 @@
     "https://www.cnbc.com/2026/05/28/lg-energy-solution-dte-energy-michigan-battery-storage-deal.html": {
       "title": "LG에너지솔루션의 주가가 미국 대형 배터리 저장 장치 계약 체결 소식에 최대 16%까지 급등했습니다.",
       "link": "https://www.cnbc.com/2026/05/28/lg-energy-solution-dte-energy-michigan-battery-storage-deal.html",
-      "source_name": "CNBC World News",
+      "source_name": "CNBC Technology",
       "country_code": "US",
       "companies": [
         "LG Energy Solution"
       ],
       "first_seen_at": "2026-05-28T12:31:45.717697+00:00",
-      "last_seen_at": "2026-05-29T00:14:20.988740+00:00"
+      "last_seen_at": "2026-05-29T12:18:43.167242+00:00"
     },
     "https://www.lemonde.fr/economie/article/2026/05/28/avec-des-bonus-de-400-000-euros-chacun-les-salaries-des-fabricants-de-semi-conducteurs-en-coree-du-sud-sont-devenus-les-rois-du-petrole-moderne_6694446_3234.html": {
       "title": "각각 40만 유로의 보너스를 받는 \"한국의 반도체 제조업 종사자들은 현대 석유 산업의 왕이 되었다.\"",
@@ -2051,6 +2051,61 @@
       ],
       "first_seen_at": "2026-05-29T00:14:20.988740+00:00",
       "last_seen_at": "2026-05-29T00:14:20.988740+00:00"
+    },
+    "https://www.aljazeera.com/economy/2026/5/29/south-koreas-sk-hynix-enters-exclusive-1-trillion-club?traffic_source=rss": {
+      "title": "한국의 SK하이닉스가 시가총액 1조 달러 클럽에 진입했습니다.",
+      "link": "https://www.aljazeera.com/economy/2026/5/29/south-koreas-sk-hynix-enters-exclusive-1-trillion-club?traffic_source=rss",
+      "source_name": "Al Jazeera",
+      "country_code": "QA",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-05-29T12:18:43.167242+00:00",
+      "last_seen_at": "2026-05-29T12:18:43.167242+00:00"
+    },
+    "https://asia.nikkei.com/business/technology/kakao-strike-threat-shows-south-korea-s-workers-growing-bolder-on-pay": {
+      "title": "카카오 파업 위협은 한국 노동자들이 임금 인상을 요구하며 더욱 대담해지고 있음을 보여준다.",
+      "link": "https://asia.nikkei.com/business/technology/kakao-strike-threat-shows-south-korea-s-workers-growing-bolder-on-pay",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "companies": [
+        "Kakao"
+      ],
+      "first_seen_at": "2026-05-29T12:18:43.167242+00:00",
+      "last_seen_at": "2026-05-29T12:18:43.167242+00:00"
+    },
+    "https://www.cnbc.com/2026/05/29/lg-electronics-shares-jump-after-debut-of-google-based-car-products.html": {
+      "title": "LG전자 주가가 구글 기술을 활용한 자동차 혁신 기술을 공개한 후 24% 급등했습니다.",
+      "link": "https://www.cnbc.com/2026/05/29/lg-electronics-shares-jump-after-debut-of-google-based-car-products.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "LG Electronics"
+      ],
+      "first_seen_at": "2026-05-29T12:18:43.167242+00:00",
+      "last_seen_at": "2026-05-29T12:18:43.167242+00:00"
+    },
+    "https://www.cnbc.com/2026/05/29/samsung-hbm4e-chip-samples-ai-memory.html": {
+      "title": "삼성전자가 차세대 AI 메모리 칩 샘플을 출하했다는 소식에 주가가 최대 6%까지 급등했습니다.",
+      "link": "https://www.cnbc.com/2026/05/29/samsung-hbm4e-chip-samples-ai-memory.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-05-29T12:18:43.167242+00:00",
+      "last_seen_at": "2026-05-29T12:18:43.167242+00:00"
+    },
+    "https://www.channelnewsasia.com/business/south-koreas-kakao-says-union-demand-bonus-major-burden-6148701": {
+      "title": "한국의 카카오는 노조의 보너스 지급 요구가 큰 부담이라고 밝혔습니다.",
+      "link": "https://www.channelnewsasia.com/business/south-koreas-kakao-says-union-demand-bonus-major-burden-6148701",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Kakao"
+      ],
+      "first_seen_at": "2026-05-29T12:18:43.167242+00:00",
+      "last_seen_at": "2026-05-29T12:18:43.167242+00:00"
     }
   }
 }
