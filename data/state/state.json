@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-05-28T12:31:45.717697+00:00",
+  "last_run_at": "2026-05-29T00:14:20.988740+00:00",
   "seen_articles": {
     "https://economictimes.indiatimes.com/tech/startups/korean-ai-chip-startup-deepx-prepares-public-share-offering/articleshow/130251369.cms": {
       "title": "한국의 AI 칩 스타트업 딥엑스가 기업공개(IPO)를 준비하고 있습니다.",
@@ -1827,7 +1827,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-05-27T12:23:34.852562+00:00",
-      "last_seen_at": "2026-05-28T12:31:45.717697+00:00"
+      "last_seen_at": "2026-05-29T00:14:20.988740+00:00"
     },
     "https://www.theguardian.com/technology/2026/may/27/samsung-memory-chip-staff-bonuses-ai-profit-sharing-deal": {
       "title": "삼성 메모리 칩 직원들, AI 수익 분배 계약 체결 후 31만 파운드 보너스 지급 예정",
@@ -1948,7 +1948,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-05-27T12:23:34.852562+00:00",
-      "last_seen_at": "2026-05-28T12:31:45.717697+00:00"
+      "last_seen_at": "2026-05-29T00:14:20.988740+00:00"
     },
     "https://www.cnbc.com/2026/05/27/sk-hynix-micron-join-1-trillion-club-cnbc-daily-open.html": {
       "title": "CNBC 데일리 오픈: 1조 달러 클럽에 새로운 멤버가 합류했습니다.",
@@ -2009,13 +2009,13 @@
     "https://www.cnbc.com/2026/05/28/lg-energy-solution-dte-energy-michigan-battery-storage-deal.html": {
       "title": "LG에너지솔루션의 주가가 미국 대형 배터리 저장 장치 계약 체결 소식에 최대 16%까지 급등했습니다.",
       "link": "https://www.cnbc.com/2026/05/28/lg-energy-solution-dte-energy-michigan-battery-storage-deal.html",
-      "source_name": "CNBC Top News",
+      "source_name": "CNBC World News",
       "country_code": "US",
       "companies": [
         "LG Energy Solution"
       ],
       "first_seen_at": "2026-05-28T12:31:45.717697+00:00",
-      "last_seen_at": "2026-05-28T12:31:45.717697+00:00"
+      "last_seen_at": "2026-05-29T00:14:20.988740+00:00"
     },
     "https://www.lemonde.fr/economie/article/2026/05/28/avec-des-bonus-de-400-000-euros-chacun-les-salaries-des-fabricants-de-semi-conducteurs-en-coree-du-sud-sont-devenus-les-rois-du-petrole-moderne_6694446_3234.html": {
       "title": "각각 40만 유로의 보너스를 받는 \"한국의 반도체 제조업 종사자들은 현대 석유 산업의 왕이 되었다.\"",
@@ -2027,7 +2027,30 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-05-28T12:31:45.717697+00:00",
-      "last_seen_at": "2026-05-28T12:31:45.717697+00:00"
+      "last_seen_at": "2026-05-29T00:14:20.988740+00:00"
+    },
+    "https://www.channelnewsasia.com/business/samsung-electronics-ships-hbm4e-chip-samples-global-customers-6148606": {
+      "title": "삼성전자는 HBM4E 칩 샘플을 전 세계 고객에게 배송합니다.",
+      "link": "https://www.channelnewsasia.com/business/samsung-electronics-ships-hbm4e-chip-samples-global-customers-6148606",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-05-29T00:14:20.988740+00:00",
+      "last_seen_at": "2026-05-29T00:14:20.988740+00:00"
+    },
+    "https://nltimes.nl/2026/05/28/electric-cars-used-mobile-home-batteries-dutch-world-first-energy-trial": {
+      "title": "네덜란드에서 세계 최초로 전기 자동차를 이동식 가정용 배터리로 활용하는 에너지 시범 사업이 진행 중입니다.",
+      "link": "https://nltimes.nl/2026/05/28/electric-cars-used-mobile-home-batteries-dutch-world-first-energy-trial",
+      "source_name": "NL Times",
+      "country_code": "NL",
+      "companies": [
+        "Hyundai Motor",
+        "Kia"
+      ],
+      "first_seen_at": "2026-05-29T00:14:20.988740+00:00",
+      "last_seen_at": "2026-05-29T00:14:20.988740+00:00"
     }
   }
 }
