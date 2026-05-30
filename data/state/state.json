@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-05-29T12:18:43.167242+00:00",
+  "last_run_at": "2026-05-30T00:12:08.603336+00:00",
   "seen_articles": {
     "https://economictimes.indiatimes.com/tech/startups/korean-ai-chip-startup-deepx-prepares-public-share-offering/articleshow/130251369.cms": {
       "title": "한국의 AI 칩 스타트업 딥엑스가 기업공개(IPO)를 준비하고 있습니다.",
@@ -2072,29 +2072,29 @@
         "Kakao"
       ],
       "first_seen_at": "2026-05-29T12:18:43.167242+00:00",
-      "last_seen_at": "2026-05-29T12:18:43.167242+00:00"
+      "last_seen_at": "2026-05-30T00:12:08.603336+00:00"
     },
     "https://www.cnbc.com/2026/05/29/lg-electronics-shares-jump-after-debut-of-google-based-car-products.html": {
       "title": "LG전자 주가가 구글 기술을 활용한 자동차 혁신 기술을 공개한 후 24% 급등했습니다.",
       "link": "https://www.cnbc.com/2026/05/29/lg-electronics-shares-jump-after-debut-of-google-based-car-products.html",
-      "source_name": "CNBC Top News",
+      "source_name": "CNBC Technology",
       "country_code": "US",
       "companies": [
         "LG Electronics"
       ],
       "first_seen_at": "2026-05-29T12:18:43.167242+00:00",
-      "last_seen_at": "2026-05-29T12:18:43.167242+00:00"
+      "last_seen_at": "2026-05-30T00:12:08.603336+00:00"
     },
     "https://www.cnbc.com/2026/05/29/samsung-hbm4e-chip-samples-ai-memory.html": {
       "title": "삼성전자가 차세대 AI 메모리 칩 샘플을 출하했다는 소식에 주가가 최대 6%까지 급등했습니다.",
       "link": "https://www.cnbc.com/2026/05/29/samsung-hbm4e-chip-samples-ai-memory.html",
-      "source_name": "CNBC Top News",
+      "source_name": "CNBC World News",
       "country_code": "US",
       "companies": [
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-05-29T12:18:43.167242+00:00",
-      "last_seen_at": "2026-05-29T12:18:43.167242+00:00"
+      "last_seen_at": "2026-05-30T00:12:08.603336+00:00"
     },
     "https://www.channelnewsasia.com/business/south-koreas-kakao-says-union-demand-bonus-major-burden-6148701": {
       "title": "한국의 카카오는 노조의 보너스 지급 요구가 큰 부담이라고 밝혔습니다.",
