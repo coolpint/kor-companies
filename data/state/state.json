@@ -1,29 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-05-30T10:48:51.983142+00:00",
+  "last_run_at": "2026-05-31T00:04:21.946792+00:00",
   "seen_articles": {
-    "https://economictimes.indiatimes.com/tech/technology/samsung-rejects-tv-crisis-speculation-addresses-competitive-pressures-in-china/articleshow/130283719.cms": {
-      "title": "삼성은 TV 사업 부진설을 일축하고 중국 시장의 경쟁 심화에 대해 언급했습니다.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-rejects-tv-crisis-speculation-addresses-competitive-pressures-in-china/articleshow/130283719.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-04-15T23:49:49.379197+00:00",
-      "last_seen_at": "2026-04-15T23:49:49.379197+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/korean-ai-chip-startup-deepx-hyundai-work-on-robots-powered-by-generative-ai/articleshow/130280959.cms": {
-      "title": "한국의 AI 칩 스타트업 딥스와 현대자동차가 생성형 AI 기반 로봇 개발에 나선다",
-      "link": "https://economictimes.indiatimes.com/tech/technology/korean-ai-chip-startup-deepx-hyundai-work-on-robots-powered-by-generative-ai/articleshow/130280959.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-04-15T23:49:49.379197+00:00",
-      "last_seen_at": "2026-04-15T23:49:49.379197+00:00"
-    },
     "https://www.channelnewsasia.com/business/hyundai-motors-us-sales-chief-has-left-company-automotive-news-reports-6060211": {
       "title": "현대자동차의 미국 판매 책임자가 회사를 떠났다고 오토모티브 뉴스가 보도했습니다.",
       "link": "https://www.channelnewsasia.com/business/hyundai-motors-us-sales-chief-has-left-company-automotive-news-reports-6060211",
@@ -2039,7 +2017,7 @@
         "Kakao"
       ],
       "first_seen_at": "2026-05-29T12:18:43.167242+00:00",
-      "last_seen_at": "2026-05-30T10:48:51.983142+00:00"
+      "last_seen_at": "2026-05-31T00:04:21.946792+00:00"
     },
     "https://www.cnbc.com/2026/05/29/lg-electronics-shares-jump-after-debut-of-google-based-car-products.html": {
       "title": "LG전자 주가가 구글 기술을 활용한 자동차 혁신 기술을 공개한 후 24% 급등했습니다.",
@@ -2053,7 +2031,7 @@
       "last_seen_at": "2026-05-30T10:48:51.983142+00:00"
     },
     "https://www.cnbc.com/2026/05/29/samsung-hbm4e-chip-samples-ai-memory.html": {
-      "title": "삼성전자가 차세대 AI 메모리 칩 샘플을 출하했다는 소식에 주가가 최대 6%까지 급등했습니다.",
+      "title": "삼성전자가 차세대 AI 메모리 칩 샘플을 출하한 후 주가가 최대 6%까지 급등했습니다.",
       "link": "https://www.cnbc.com/2026/05/29/samsung-hbm4e-chip-samples-ai-memory.html",
       "source_name": "CNBC Technology",
       "country_code": "US",
@@ -2061,7 +2039,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-05-29T12:18:43.167242+00:00",
-      "last_seen_at": "2026-05-30T10:48:51.983142+00:00"
+      "last_seen_at": "2026-05-31T00:04:21.946792+00:00"
     },
     "https://www.channelnewsasia.com/business/south-koreas-kakao-says-union-demand-bonus-major-burden-6148701": {
       "title": "한국의 카카오는 노조의 보너스 지급 요구가 큰 부담이라고 밝혔습니다.",
@@ -2084,7 +2062,7 @@
         "NAVER"
       ],
       "first_seen_at": "2026-05-30T10:48:51.983142+00:00",
-      "last_seen_at": "2026-05-30T10:48:51.983142+00:00"
+      "last_seen_at": "2026-05-31T00:04:21.946792+00:00"
     },
     "https://www.channelnewsasia.com/east-asia/nvidia-chief-executive-jensen-huang-expected-visit-south-korea-6151131": {
       "title": "엔비디아 최고경영자 젠슨 황이 한국을 방문할 것으로 예상된다",
@@ -2096,7 +2074,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-05-30T10:48:51.983142+00:00",
-      "last_seen_at": "2026-05-30T10:48:51.983142+00:00"
+      "last_seen_at": "2026-05-31T00:04:21.946792+00:00"
     }
   }
 }
