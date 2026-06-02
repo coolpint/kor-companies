@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-02T00:16:58.811232+00:00",
+  "last_run_at": "2026-06-02T12:45:38.741336+00:00",
   "seen_articles": {
     "https://www.thehindubusinessline.com/companies/krafton-launches-third-cohort-of-its-kigi-incubator-program/article70873908.ece": {
       "title": "크라프톤, KIGI 인큐베이터 프로그램의 세 번째 기수 시작",
@@ -2074,7 +2074,7 @@
         "Hanwha Aerospace"
       ],
       "first_seen_at": "2026-06-01T15:26:10.373168+00:00",
-      "last_seen_at": "2026-06-02T00:16:58.811232+00:00"
+      "last_seen_at": "2026-06-02T12:45:38.741336+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-india-records-highest-monthly-sales-in-may/articleshow/131437765.cms": {
       "title": "기아 인도, 5월 월간 판매량 최고 기록",
@@ -2096,7 +2096,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-06-01T15:26:10.373168+00:00",
-      "last_seen_at": "2026-06-02T00:16:58.811232+00:00"
+      "last_seen_at": "2026-06-02T12:45:38.741336+00:00"
     },
     "https://www.thehindubusinessline.com/companies/hyundai-motor-india-faces-temporary-production-disruption-due-to-fire-at-supplier-facility-in-tn/article71047267.ece": {
       "title": "현대자동차는 협력업체인 모비스 인도 공장 화재로 인해 일시적인 생산 차질을 겪고 있습니다.",
@@ -2107,7 +2107,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-06-01T15:26:10.373168+00:00",
-      "last_seen_at": "2026-06-02T00:16:58.811232+00:00"
+      "last_seen_at": "2026-06-02T12:45:38.741336+00:00"
     },
     "https://www.japantimes.co.jp/news/2026/06/01/asia-pacific/hanwha-aerospace-plant-south-korea": {
       "title": "한국 한화항공우주공장 폭발 사고로 5명 사망, 2명 부상",
@@ -2140,7 +2140,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-06-01T15:26:10.373168+00:00",
-      "last_seen_at": "2026-06-02T00:16:58.811232+00:00"
+      "last_seen_at": "2026-06-02T12:45:38.741336+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/gas-leak-at-sk-hynix-chip-factory-injures-six-people-yonhap-reports/articleshow/131433585.cms": {
       "title": "SK하이닉스 반도체 공장 가스 누출 사고로 6명 부상: 보도",
@@ -2162,7 +2162,98 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-06-02T00:16:58.811232+00:00",
-      "last_seen_at": "2026-06-02T00:16:58.811232+00:00"
+      "last_seen_at": "2026-06-02T12:45:38.741336+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/cons-products/electronics/south-korea-taiwan-beat-india-stock-market-on-ai-semiconductor-boom-but-the-race-was-lost-decades-ago/articleshow/131459296.cms": {
+      "title": "한국과 대만이 인도를 제치고 앞서 나갔지만, 이미 수십 년 전에 승부는 결정된 상태였다.",
+      "link": "https://economictimes.indiatimes.com/industry/cons-products/electronics/south-korea-taiwan-beat-india-stock-market-on-ai-semiconductor-boom-but-the-race-was-lost-decades-ago/articleshow/131459296.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-02T12:45:38.741336+00:00",
+      "last_seen_at": "2026-06-02T12:45:38.741336+00:00"
+    },
+    "https://www.straitstimes.com/business/companies-markets/sk-hynix-to-double-wafer-capacity-to-ease-memory-chip-crunch": {
+      "title": "SK하이닉스, 메모리 칩 공급 부족 완화 위해 웨이퍼 생산 능력 두 배로 늘릴 계획",
+      "link": "https://www.straitstimes.com/business/companies-markets/sk-hynix-to-double-wafer-capacity-to-ease-memory-chip-crunch",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-02T12:45:38.741336+00:00",
+      "last_seen_at": "2026-06-02T12:45:38.741336+00:00"
+    },
+    "https://asia.nikkei.com/business/technology/artificial-intelligence/chipmaker-sk-hynix-to-double-wafer-capacity-in-5-years-to-meet-ai-demand": {
+      "title": "반도체 제조업체 SK하이닉스는 인공지능(AI) 수요 충족을 위해 5년 안에 웨이퍼 생산 능력을 두 배로 늘릴 계획입니다.",
+      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/chipmaker-sk-hynix-to-double-wafer-capacity-in-5-years-to-meet-ai-demand",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-02T12:45:38.741336+00:00",
+      "last_seen_at": "2026-06-02T12:45:38.741336+00:00"
+    },
+    "https://www.bangkokpost.com/business/general/3264814/pay-workers-as-much-as-possible-nvidia-chief-says": {
+      "title": "엔비디아 CEO는 직원들에게 '가능한 한 최대한 많은' 임금을 지급해야 한다고 말했습니다.",
+      "link": "https://www.bangkokpost.com/business/general/3264814/pay-workers-as-much-as-possible-nvidia-chief-says",
+      "source_name": "Bangkok Post Business",
+      "country_code": "TH",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-06-02T12:45:38.741336+00:00",
+      "last_seen_at": "2026-06-02T12:45:38.741336+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/global-markets-south-korean-shares-post-record-high-close-as-nvidia-hopes-lift-tech-stocks/articleshow/131459302.cms": {
+      "title": "글로벌 시장: 엔비디아 관련 기대감에 힘입어 한국 증시가 사상 최고치로 마감하며 기술주 상승세 주도",
+      "link": "https://economictimes.indiatimes.com/tech/technology/global-markets-south-korean-shares-post-record-high-close-as-nvidia-hopes-lift-tech-stocks/articleshow/131459302.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Samsung Electronics",
+        "NAVER"
+      ],
+      "first_seen_at": "2026-06-02T12:45:38.741336+00:00",
+      "last_seen_at": "2026-06-02T12:45:38.741336+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/sk-hynix-pans-to-double-wafer-capacity-in-next-five-years-group-chairman-says/articleshow/131457686.cms": {
+      "title": "SK하이닉스, 향후 5년 내 웨이퍼 생산 능력 두 배 확대 계획 (그룹 회장 발표)",
+      "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-pans-to-double-wafer-capacity-in-next-five-years-group-chairman-says/articleshow/131457686.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-02T12:45:38.741336+00:00",
+      "last_seen_at": "2026-06-02T12:45:38.741336+00:00"
+    },
+    "https://www.japantimes.co.jp/business/2026/06/02/markets/south-korea-india-stock-market": {
+      "title": "한국이 인도를 제치고 세계 6위 증시로 부상",
+      "link": "https://www.japantimes.co.jp/business/2026/06/02/markets/south-korea-india-stock-market",
+      "source_name": "The Japan Times",
+      "country_code": "JP",
+      "companies": [
+        "Samsung Electronics",
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-02T12:45:38.741336+00:00",
+      "last_seen_at": "2026-06-02T12:45:38.741336+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/south-korea-overtakes-india-as-worlds-sixth-largest-stock-market/articleshow/131454303.cms": {
+      "title": "한국이 인도를 제치고 세계 6위 증시로 부상",
+      "link": "https://economictimes.indiatimes.com/tech/technology/south-korea-overtakes-india-as-worlds-sixth-largest-stock-market/articleshow/131454303.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Samsung Electronics",
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-02T12:45:38.741336+00:00",
+      "last_seen_at": "2026-06-02T12:45:38.741336+00:00"
     }
   }
 }
