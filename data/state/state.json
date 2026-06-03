@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-02T12:45:38.741336+00:00",
+  "last_run_at": "2026-06-03T01:41:55.117409+00:00",
   "seen_articles": {
-    "https://www.thehindubusinessline.com/companies/krafton-launches-third-cohort-of-its-kigi-incubator-program/article70873908.ece": {
-      "title": "크라프톤, KIGI 인큐베이터 프로그램의 세 번째 기수 시작",
-      "link": "https://www.thehindubusinessline.com/companies/krafton-launches-third-cohort-of-its-kigi-incubator-program/article70873908.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Krafton"
-      ],
-      "first_seen_at": "2026-04-18T09:52:57.294966+00:00",
-      "last_seen_at": "2026-04-18T23:40:06.933265+00:00"
-    },
     "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years": {
       "title": "RAM 부족 현상은 수년간 지속될 수 있습니다.",
       "link": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
@@ -2074,7 +2063,7 @@
         "Hanwha Aerospace"
       ],
       "first_seen_at": "2026-06-01T15:26:10.373168+00:00",
-      "last_seen_at": "2026-06-02T12:45:38.741336+00:00"
+      "last_seen_at": "2026-06-03T01:41:55.117409+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-india-records-highest-monthly-sales-in-may/articleshow/131437765.cms": {
       "title": "기아 인도, 5월 월간 판매량 최고 기록",
@@ -2173,7 +2162,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-02T12:45:38.741336+00:00",
-      "last_seen_at": "2026-06-02T12:45:38.741336+00:00"
+      "last_seen_at": "2026-06-03T01:41:55.117409+00:00"
     },
     "https://www.straitstimes.com/business/companies-markets/sk-hynix-to-double-wafer-capacity-to-ease-memory-chip-crunch": {
       "title": "SK하이닉스, 메모리 칩 공급 부족 완화 위해 웨이퍼 생산 능력 두 배로 늘릴 계획",
@@ -2184,7 +2173,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-02T12:45:38.741336+00:00",
-      "last_seen_at": "2026-06-02T12:45:38.741336+00:00"
+      "last_seen_at": "2026-06-03T01:41:55.117409+00:00"
     },
     "https://asia.nikkei.com/business/technology/artificial-intelligence/chipmaker-sk-hynix-to-double-wafer-capacity-in-5-years-to-meet-ai-demand": {
       "title": "반도체 제조업체 SK하이닉스는 인공지능(AI) 수요 충족을 위해 5년 안에 웨이퍼 생산 능력을 두 배로 늘릴 계획입니다.",
@@ -2195,7 +2184,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-02T12:45:38.741336+00:00",
-      "last_seen_at": "2026-06-02T12:45:38.741336+00:00"
+      "last_seen_at": "2026-06-03T01:41:55.117409+00:00"
     },
     "https://www.bangkokpost.com/business/general/3264814/pay-workers-as-much-as-possible-nvidia-chief-says": {
       "title": "엔비디아 CEO는 직원들에게 '가능한 한 최대한 많은' 임금을 지급해야 한다고 말했습니다.",
@@ -2218,7 +2207,7 @@
         "NAVER"
       ],
       "first_seen_at": "2026-06-02T12:45:38.741336+00:00",
-      "last_seen_at": "2026-06-02T12:45:38.741336+00:00"
+      "last_seen_at": "2026-06-03T01:41:55.117409+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/sk-hynix-pans-to-double-wafer-capacity-in-next-five-years-group-chairman-says/articleshow/131457686.cms": {
       "title": "SK하이닉스, 향후 5년 내 웨이퍼 생산 능력 두 배 확대 계획 (그룹 회장 발표)",
@@ -2229,7 +2218,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-02T12:45:38.741336+00:00",
-      "last_seen_at": "2026-06-02T12:45:38.741336+00:00"
+      "last_seen_at": "2026-06-03T01:41:55.117409+00:00"
     },
     "https://www.japantimes.co.jp/business/2026/06/02/markets/south-korea-india-stock-market": {
       "title": "한국이 인도를 제치고 세계 6위 증시로 부상",
@@ -2241,7 +2230,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-02T12:45:38.741336+00:00",
-      "last_seen_at": "2026-06-02T12:45:38.741336+00:00"
+      "last_seen_at": "2026-06-03T01:41:55.117409+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/south-korea-overtakes-india-as-worlds-sixth-largest-stock-market/articleshow/131454303.cms": {
       "title": "한국이 인도를 제치고 세계 6위 증시로 부상",
@@ -2253,7 +2242,40 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-02T12:45:38.741336+00:00",
-      "last_seen_at": "2026-06-02T12:45:38.741336+00:00"
+      "last_seen_at": "2026-06-03T01:41:55.117409+00:00"
+    },
+    "https://www.taipeitimes.com/News/biz/archives/2026/06/03/2003858424": {
+      "title": "SK하이닉스는 메모리 부족 현상 완화를 위해 생산 능력을 두 배로 늘릴 계획입니다.",
+      "link": "https://www.taipeitimes.com/News/biz/archives/2026/06/03/2003858424",
+      "source_name": "Taipei Times",
+      "country_code": "TW",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-03T01:41:55.117409+00:00",
+      "last_seen_at": "2026-06-03T01:41:55.117409+00:00"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-ascends-as-new-memory-king-with-high-bandwidth-ai-chips": {
+      "title": "SK하이닉스, 고대역폭 AI 칩으로 새로운 메모리 강자로 부상",
+      "link": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-ascends-as-new-memory-king-with-high-bandwidth-ai-chips",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-03T01:41:55.117409+00:00",
+      "last_seen_at": "2026-06-03T01:41:55.117409+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/samsung-minority-union-challenges-bonus-deal-in-court/articleshow/131464598.cms": {
+      "title": "삼성 소수 노조, 보너스 지급 결정에 대해 법원에 소송 제기",
+      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-minority-union-challenges-bonus-deal-in-court/articleshow/131464598.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-06-03T01:41:55.117409+00:00",
+      "last_seen_at": "2026-06-03T01:41:55.117409+00:00"
     }
   }
 }
