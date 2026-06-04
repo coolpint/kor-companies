@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-03T13:19:55.141288+00:00",
+  "last_run_at": "2026-06-04T01:43:57.186319+00:00",
   "seen_articles": {
-    "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years": {
-      "title": "RAM 부족 현상은 수년간 지속될 수 있습니다.",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
-      "source_name": "The Verge",
-      "country_code": "US",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-04-18T23:40:06.933265+00:00",
-      "last_seen_at": "2026-04-19T23:41:55.717847+00:00"
-    },
     "https://www.scmp.com/property/hong-kong-china/article/3350638/hong-kong-homebuyers-extend-sell-out-streak-amid-renewed-confidence-market": {
       "title": "홍콩 주택 구매자들이 시장에 대한 새로운 신뢰감 속에 완판 행진을 이어가고 있습니다.",
       "link": "https://www.scmp.com/property/hong-kong-china/article/3350638/hong-kong-homebuyers-extend-sell-out-streak-amid-renewed-confidence-market",
@@ -2264,7 +2253,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-03T01:41:55.117409+00:00",
-      "last_seen_at": "2026-06-03T13:19:55.141288+00:00"
+      "last_seen_at": "2026-06-04T01:43:57.186319+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/samsung-minority-union-challenges-bonus-deal-in-court/articleshow/131464598.cms": {
       "title": "삼성 소수 노조, 보너스 지급 결정에 대해 법원에 소송 제기",
@@ -2286,7 +2275,7 @@
         "Coupang"
       ],
       "first_seen_at": "2026-06-03T13:19:55.141288+00:00",
-      "last_seen_at": "2026-06-03T13:19:55.141288+00:00"
+      "last_seen_at": "2026-06-04T01:43:57.186319+00:00"
     },
     "https://www.theguardian.com/world/2026/jun/03/south-korea-ai-boom-tech-companies-trillion-dollar-club-kospi-": {
       "title": "칩, 칩… 붐? 한국 기술 기업들이 1조 달러 클럽에 합류했지만, 일각에서는 부진이 우려된다.",
@@ -2298,7 +2287,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-03T13:19:55.141288+00:00",
-      "last_seen_at": "2026-06-03T13:19:55.141288+00:00"
+      "last_seen_at": "2026-06-04T01:43:57.186319+00:00"
     }
   }
 }
