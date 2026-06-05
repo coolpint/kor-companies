@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-04T12:01:52.654245+00:00",
+  "last_run_at": "2026-06-05T00:13:57.695150+00:00",
   "seen_articles": {
-    "https://www.scmp.com/property/hong-kong-china/article/3350638/hong-kong-homebuyers-extend-sell-out-streak-amid-renewed-confidence-market": {
-      "title": "홍콩 주택 구매자들이 시장에 대한 새로운 신뢰감 속에 완판 행진을 이어가고 있습니다.",
-      "link": "https://www.scmp.com/property/hong-kong-china/article/3350638/hong-kong-homebuyers-extend-sell-out-streak-amid-renewed-confidence-market",
-      "source_name": "South China Morning Post Business",
-      "country_code": "HK",
-      "companies": [
-        "KT Corp"
-      ],
-      "first_seen_at": "2026-04-19T23:41:55.717847+00:00",
-      "last_seen_at": "2026-04-20T23:50:29.602037+00:00"
-    },
     "https://economictimes.indiatimes.com/tech/technology/sk-hynix-to-start-production-of-socamm2-server-module-for-nvidias-vera-rubin-chips/articleshow/130387623.cms": {
       "title": "SK하이닉스, 엔비디아 베라 루빈 칩용 SOCAMM2 서버 모듈 생산 착수",
       "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-to-start-production-of-socamm2-server-module-for-nvidias-vera-rubin-chips/articleshow/130387623.cms",
@@ -35,17 +24,6 @@
       "first_seen_at": "2026-04-20T10:52:58.150707+00:00",
       "last_seen_at": "2026-04-21T10:20:56.776844+00:00"
     },
-    "https://economictimes.indiatimes.com/tech/technology/samsung-sdi-signs-first-ev-battery-supply-deal-with-mercedes-benz/articleshow/130384155.cms": {
-      "title": "삼성 SDI, 메르세데스-벤츠와 첫 전기차 배터리 공급 계약 체결",
-      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-sdi-signs-first-ev-battery-supply-deal-with-mercedes-benz/articleshow/130384155.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Samsung SDI"
-      ],
-      "first_seen_at": "2026-04-20T10:52:58.150707+00:00",
-      "last_seen_at": "2026-04-20T23:50:29.602037+00:00"
-    },
     "https://www.thehindubusinessline.com/companies/jsw-steel-posco-tie-up-for-odisha-steel-plant-amid-south-korea-presidents-india-visit/article70883068.ece": {
       "title": "JSW 철강과 포스코, 한국 대통령의 인도 방문에 맞춰 오디샤주 제철소 건설을 위한 협력 체결",
       "link": "https://www.thehindubusinessline.com/companies/jsw-steel-posco-tie-up-for-odisha-steel-plant-amid-south-korea-presidents-india-visit/article70883068.ece",
@@ -56,17 +34,6 @@
       ],
       "first_seen_at": "2026-04-20T10:52:58.150707+00:00",
       "last_seen_at": "2026-04-21T10:20:56.776844+00:00"
-    },
-    "https://www.channelnewsasia.com/business/hyundai-faces-challenge-replacing-lost-middle-east-sales-ceo-says-6068641": {
-      "title": "현대자동차 CEO는 중동 지역 판매 부진을 만회하는 데 어려움을 겪고 있다고 밝혔습니다.",
-      "link": "https://www.channelnewsasia.com/business/hyundai-faces-challenge-replacing-lost-middle-east-sales-ceo-says-6068641",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-04-20T23:50:29.602037+00:00",
-      "last_seen_at": "2026-04-20T23:50:29.602037+00:00"
     },
     "https://www.thehindubusinessline.com/news/hyundai-motor-and-tvs-motor-formalise-partnership-to-drive-e3w-commercialisation-in-india/article70884963.ece": {
       "title": "현대자동차와 TVS모터는 인도에서 E3W 상용화를 추진하기 위한 파트너십을 공식화했습니다.",
@@ -89,17 +56,6 @@
       ],
       "first_seen_at": "2026-04-20T23:50:29.602037+00:00",
       "last_seen_at": "2026-04-21T10:20:56.776844+00:00"
-    },
-    "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-venue-knight-edition-launched-in-india-price-features-variants-and-engine-details/articleshow/130391914.cms": {
-      "title": "현대 베뉴 나이트 에디션, 인도 출시: 가격, 특징, 변형 모델 및 엔진 정보",
-      "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-venue-knight-edition-launched-in-india-price-features-variants-and-engine-details/articleshow/130391914.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-04-20T23:50:29.602037+00:00",
-      "last_seen_at": "2026-04-20T23:50:29.602037+00:00"
     },
     "http://www.euronews.com/business/2026/04/20/mercedes-and-samsung-sdi-sign-first-ev-battery-supply-deal": {
       "title": "메르세데스와 삼성 SDI, 최초 전기차 배터리 공급 계약 체결",
@@ -2264,7 +2220,7 @@
         "LG Electronics"
       ],
       "first_seen_at": "2026-06-04T12:01:52.654245+00:00",
-      "last_seen_at": "2026-06-04T12:01:52.654245+00:00"
+      "last_seen_at": "2026-06-05T00:13:57.695150+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/nvidia-ceo-mounts-charm-push-in-south-korea-with-tv-talk-show-baseball-appearances/articleshow/131500036.cms": {
       "title": "엔비디아 CEO, TV 토크쇼 출연 및 야구 경기 관람으로 한국 시장 공략에 나서",
@@ -2276,7 +2232,51 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-04T12:01:52.654245+00:00",
-      "last_seen_at": "2026-06-04T12:01:52.654245+00:00"
+      "last_seen_at": "2026-06-05T00:13:57.695150+00:00"
+    },
+    "https://www.marketwatch.com/story/south-korea-is-the-ultimate-backdoor-tech-play-but-stock-investors-now-face-a-looming-threat-25065699?mod=mw_rss_topstories": {
+      "title": "한국은 최고의 우회 기술 투자처이지만, 주식 투자자들은 이제 심각한 위협에 직면해 있습니다.",
+      "link": "https://www.marketwatch.com/story/south-korea-is-the-ultimate-backdoor-tech-play-but-stock-investors-now-face-a-looming-threat-25065699?mod=mw_rss_topstories",
+      "source_name": "MarketWatch Top Stories",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-05T00:13:57.695150+00:00",
+      "last_seen_at": "2026-06-05T00:13:57.695150+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/renewables/hyundai-motors-tamil-nadu-govt-join-hands-to-build-ev-manufacturing-skill-hub/articleshow/131511012.cms": {
+      "title": "현대자동차와 타밀나두 주 정부가 전기차 제조 및 기술 허브 구축을 위해 협력합니다.",
+      "link": "https://economictimes.indiatimes.com/industry/renewables/hyundai-motors-tamil-nadu-govt-join-hands-to-build-ev-manufacturing-skill-hub/articleshow/131511012.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-06-05T00:13:57.695150+00:00",
+      "last_seen_at": "2026-06-05T00:13:57.695150+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/renewables/hyundai-motor-india-to-roll-out-its-first-mass-market-ev-from-chennai-facility-this-year/articleshow/131508944.cms": {
+      "title": "현대자동차 인도법인은 올해 첸나이 공장에서 첫 번째 양산형 전기차를 출시할 예정이다.",
+      "link": "https://economictimes.indiatimes.com/industry/renewables/hyundai-motor-india-to-roll-out-its-first-mass-market-ev-from-chennai-facility-this-year/articleshow/131508944.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-06-05T00:13:57.695150+00:00",
+      "last_seen_at": "2026-06-05T00:13:57.695150+00:00"
+    },
+    "https://www.thehindubusinessline.com/news/hyundai-reaffirms-tamil-nadu-commitment-plans-to-make-state-its-flagship-ev-hub/article71060826.ece": {
+      "title": "현대자동차는 타밀나두 주에 대한 투자를 재확인하고, 해당 주를 전기차 허브로 만들 계획이라고 밝혔습니다.",
+      "link": "https://www.thehindubusinessline.com/news/hyundai-reaffirms-tamil-nadu-commitment-plans-to-make-state-its-flagship-ev-hub/article71060826.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-06-05T00:13:57.695150+00:00",
+      "last_seen_at": "2026-06-05T00:13:57.695150+00:00"
     }
   }
 }
