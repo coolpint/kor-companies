@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-06T00:11:30.632425+00:00",
+  "last_run_at": "2026-06-06T10:55:39.957475+00:00",
   "seen_articles": {
-    "https://e.vnexpress.net/news/business/billionaires/south-korea-police-seek-detention-warrant-for-bts-agency-s-billionaire-founder-bang-si-hyuk-5065157.html": {
-      "title": "한국 경찰, 방탄소년단 소속사 대표 방시혁 회장 구속영장 신청",
-      "link": "https://e.vnexpress.net/news/business/billionaires/south-korea-police-seek-detention-warrant-for-bts-agency-s-billionaire-founder-bang-si-hyuk-5065157.html",
-      "source_name": "VnExpress Business",
-      "country_code": "VN",
-      "companies": [
-        "HYBE"
-      ],
-      "first_seen_at": "2026-04-21T10:20:56.776844+00:00",
-      "last_seen_at": "2026-04-22T10:21:42.257266+00:00"
-    },
     "https://globalnews.ca/news/11810197/bts-k-pop-arrest-bang-si-hyuk-fraud-south-korea": {
       "title": "방탄소년단(BTS)의 배후 인물인 K팝 거물이 한국 경찰의 수배를 받고 있다.",
       "link": "https://globalnews.ca/news/11810197/bts-k-pop-arrest-bang-si-hyuk-fraud-south-korea",
@@ -35,17 +24,6 @@
       "first_seen_at": "2026-04-22T10:21:42.257266+00:00",
       "last_seen_at": "2026-04-23T10:23:59.583347+00:00"
     },
-    "https://www.channelnewsasia.com/business/lg-display-invest-745-million-in-oled-display-infrastructure-6073191": {
-      "title": "LG디스플레이, OLED 디스플레이 인프라에 7억 4,500만 달러 투자 예정",
-      "link": "https://www.channelnewsasia.com/business/lg-display-invest-745-million-in-oled-display-infrastructure-6073191",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "LG Display"
-      ],
-      "first_seen_at": "2026-04-22T10:21:42.257266+00:00",
-      "last_seen_at": "2026-04-22T10:21:42.257266+00:00"
-    },
     "https://asia.nikkei.com/business/tech/semiconductors/samsung-electronics-set-for-labor-union-showdown-over-performance-pay": {
       "title": "삼성전자, 성과급 지급 관련 노조와 충돌 임박",
       "link": "https://asia.nikkei.com/business/tech/semiconductors/samsung-electronics-set-for-labor-union-showdown-over-performance-pay",
@@ -56,17 +34,6 @@
       ],
       "first_seen_at": "2026-04-22T10:21:42.257266+00:00",
       "last_seen_at": "2026-04-23T10:23:59.583347+00:00"
-    },
-    "https://www.channelnewsasia.com/business/sk-hynix-invest-about-13-billion-in-new-south-korea-plant-meet-ai-memory-demand-6072751": {
-      "title": "SK하이닉스는 AI 메모리 수요 충족을 위해 한국에 약 130억 달러를 투자해 신규 공장을 건설할 예정이다.",
-      "link": "https://www.channelnewsasia.com/business/sk-hynix-invest-about-13-billion-in-new-south-korea-plant-meet-ai-memory-demand-6072751",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-04-22T10:21:42.257266+00:00",
-      "last_seen_at": "2026-04-22T10:21:42.257266+00:00"
     },
     "https://www.cnbc.com/2026/04/23/sk-hynix-earnings-ai-memory-shortage-hbm-demand.html": {
       "title": "SK하이닉스, 메모리 가격 상승에 힘입어 1분기 사상 최고 실적 기록하며 시장 예상치에 부합",
@@ -2119,7 +2086,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-06-05T12:10:57.480549+00:00",
-      "last_seen_at": "2026-06-06T00:11:30.632425+00:00"
+      "last_seen_at": "2026-06-06T10:55:39.957475+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-invites-startup-applications-for-innovation-challenge-2026/articleshow/131531715.cms": {
       "title": "현대자동차가 2026년 혁신 챌린지 참가 스타트업의 신청을 받습니다.",
@@ -2130,7 +2097,19 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-06-06T00:11:30.632425+00:00",
-      "last_seen_at": "2026-06-06T00:11:30.632425+00:00"
+      "last_seen_at": "2026-06-06T10:55:39.957475+00:00"
+    },
+    "https://www.scmp.com/tech/article/3356130/chinese-memory-makers-step-challenge-koreas-chip-champions": {
+      "title": "중국 메모리 제조업체들이 한국 반도체 강국에 도전장을 내밀고 있다.",
+      "link": "https://www.scmp.com/tech/article/3356130/chinese-memory-makers-step-challenge-koreas-chip-champions",
+      "source_name": "South China Morning Post World",
+      "country_code": "HK",
+      "companies": [
+        "Samsung Electronics",
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-06T10:55:39.957475+00:00",
+      "last_seen_at": "2026-06-06T10:55:39.957475+00:00"
     }
   }
 }
