@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-05T12:10:57.480549+00:00",
+  "last_run_at": "2026-06-06T00:11:30.632425+00:00",
   "seen_articles": {
-    "https://www.thehindubusinessline.com/news/hyundai-motor-and-tvs-motor-formalise-partnership-to-drive-e3w-commercialisation-in-india/article70884963.ece": {
-      "title": "현대자동차와 TVS모터는 인도에서 E3W 상용화를 추진하기 위한 파트너십을 공식화했습니다.",
-      "link": "https://www.thehindubusinessline.com/news/hyundai-motor-and-tvs-motor-formalise-partnership-to-drive-e3w-commercialisation-in-india/article70884963.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-04-20T23:50:29.602037+00:00",
-      "last_seen_at": "2026-04-21T23:42:32.066682+00:00"
-    },
     "https://e.vnexpress.net/news/business/billionaires/south-korea-police-seek-detention-warrant-for-bts-agency-s-billionaire-founder-bang-si-hyuk-5065157.html": {
       "title": "한국 경찰, 방탄소년단 소속사 대표 방시혁 회장 구속영장 신청",
       "link": "https://e.vnexpress.net/news/business/billionaires/south-korea-police-seek-detention-warrant-for-bts-agency-s-billionaire-founder-bang-si-hyuk-5065157.html",
@@ -24,52 +13,6 @@
       "first_seen_at": "2026-04-21T10:20:56.776844+00:00",
       "last_seen_at": "2026-04-22T10:21:42.257266+00:00"
     },
-    "https://www.dw.com/en/south-korea-police-seek-to-arrest-bts-agency-chief-over-fraud-allegations/a-76874782?maca=en-rss-en-top-1022-rdf": {
-      "title": "대한민국: 경찰, 방탄소년단 소속사 대표 사기 혐의로 체포 추진",
-      "link": "https://www.dw.com/en/south-korea-police-seek-to-arrest-bts-agency-chief-over-fraud-allegations/a-76874782?maca=en-rss-en-top-1022-rdf",
-      "source_name": "Deutsche Welle Top Stories",
-      "country_code": "DE",
-      "companies": [
-        "HYBE"
-      ],
-      "first_seen_at": "2026-04-21T10:20:56.776844+00:00",
-      "last_seen_at": "2026-04-21T23:42:32.066682+00:00"
-    },
-    "https://www.scmp.com/news/asia/south-asia/article/3350837/after-xi-south-koreas-lee-brings-modi-selfie-diplomacy-frame": {
-      "title": "시에 이어 한국의 이 총리가 모디 총리를 '셀카 외교'의 틀에 넣었다.",
-      "link": "https://www.scmp.com/news/asia/south-asia/article/3350837/after-xi-south-koreas-lee-brings-modi-selfie-diplomacy-frame",
-      "source_name": "South China Morning Post World",
-      "country_code": "HK",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-04-21T10:20:56.776844+00:00",
-      "last_seen_at": "2026-04-21T23:42:32.066682+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/south-koreas-krafton-naver-mirae-asset-launch-rs-6000-crore-india-dedicated-fund/articleshow/130409332.cms": {
-      "title": "한국의 크래프톤, 네이버, 미래에셋이 6,000억 루피 규모의 인도 전용 펀드를 출시했습니다.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/south-koreas-krafton-naver-mirae-asset-launch-rs-6000-crore-india-dedicated-fund/articleshow/130409332.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "NAVER",
-        "Krafton",
-        "Mirae Asset"
-      ],
-      "first_seen_at": "2026-04-21T10:20:56.776844+00:00",
-      "last_seen_at": "2026-04-21T23:42:32.066682+00:00"
-    },
-    "https://www.thehindubusinessline.com/news/jsw-steel-posco-sign-pact-for-6-mtpa-steel-plant-in-odisha/article70885301.ece": {
-      "title": "JSW 철강과 포스코, 오디샤에 연간 6백만 톤 규모의 제철소 건설 계약 체결",
-      "link": "https://www.thehindubusinessline.com/news/jsw-steel-posco-sign-pact-for-6-mtpa-steel-plant-in-odisha/article70885301.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "POSCO Holdings"
-      ],
-      "first_seen_at": "2026-04-21T10:20:56.776844+00:00",
-      "last_seen_at": "2026-04-21T23:42:32.066682+00:00"
-    },
     "https://globalnews.ca/news/11810197/bts-k-pop-arrest-bang-si-hyuk-fraud-south-korea": {
       "title": "방탄소년단(BTS)의 배후 인물인 K팝 거물이 한국 경찰의 수배를 받고 있다.",
       "link": "https://globalnews.ca/news/11810197/bts-k-pop-arrest-bang-si-hyuk-fraud-south-korea",
@@ -80,17 +23,6 @@
       ],
       "first_seen_at": "2026-04-21T23:42:32.066682+00:00",
       "last_seen_at": "2026-04-22T23:50:42.415895+00:00"
-    },
-    "https://www.scmp.com/week-asia/people/article/3350898/south-korean-police-seek-arrest-warrant-hybe-founder-bang-after-travel-request": {
-      "title": "한국 경찰, 방시혁 하이브 창업자 출국 요청 후 체포영장 신청",
-      "link": "https://www.scmp.com/week-asia/people/article/3350898/south-korean-police-seek-arrest-warrant-hybe-founder-bang-after-travel-request",
-      "source_name": "South China Morning Post World",
-      "country_code": "HK",
-      "companies": [
-        "HYBE"
-      ],
-      "first_seen_at": "2026-04-21T23:42:32.066682+00:00",
-      "last_seen_at": "2026-04-21T23:42:32.066682+00:00"
     },
     "https://www.thehindubusinessline.com/companies/tesla-model-y-l-at-6199-lakh-price-tag-lands-in-no-mans-land-amid-pricing-and-localisation-challenges/article70892061.ece": {
       "title": "테슬라 모델 Y L은 619만 9천 루피라는 가격으로 인도 시장에서 가격 및 현지화 문제로 인해 '어느 쪽에도 속하지 못하는' 위치에 놓였습니다.",
@@ -2176,7 +2108,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-06-05T00:13:57.695150+00:00",
-      "last_seen_at": "2026-06-05T12:10:57.480549+00:00"
+      "last_seen_at": "2026-06-06T00:11:30.632425+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/south-korea-labour-minister-calls-on-tech-firms-to-share-excess-ai-profits-with-suppliers-staff/articleshow/131519857.cms": {
       "title": "한국 노동부 장관, IT 기업에 AI 관련 초과 이익 공유 촉구",
@@ -2187,7 +2119,18 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-06-05T12:10:57.480549+00:00",
-      "last_seen_at": "2026-06-05T12:10:57.480549+00:00"
+      "last_seen_at": "2026-06-06T00:11:30.632425+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-invites-startup-applications-for-innovation-challenge-2026/articleshow/131531715.cms": {
+      "title": "현대자동차가 2026년 혁신 챌린지 참가 스타트업의 신청을 받습니다.",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-invites-startup-applications-for-innovation-challenge-2026/articleshow/131531715.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-06-06T00:11:30.632425+00:00",
+      "last_seen_at": "2026-06-06T00:11:30.632425+00:00"
     }
   }
 }
