@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-06T10:55:39.957475+00:00",
+  "last_run_at": "2026-06-07T00:08:32.216989+00:00",
   "seen_articles": {
-    "https://globalnews.ca/news/11810197/bts-k-pop-arrest-bang-si-hyuk-fraud-south-korea": {
-      "title": "방탄소년단(BTS)의 배후 인물인 K팝 거물이 한국 경찰의 수배를 받고 있다.",
-      "link": "https://globalnews.ca/news/11810197/bts-k-pop-arrest-bang-si-hyuk-fraud-south-korea",
-      "source_name": "Global News World",
-      "country_code": "CA",
-      "companies": [
-        "HYBE"
-      ],
-      "first_seen_at": "2026-04-21T23:42:32.066682+00:00",
-      "last_seen_at": "2026-04-22T23:50:42.415895+00:00"
-    },
     "https://www.thehindubusinessline.com/companies/tesla-model-y-l-at-6199-lakh-price-tag-lands-in-no-mans-land-amid-pricing-and-localisation-challenges/article70892061.ece": {
       "title": "테슬라 모델 Y L은 619만 9천 루피라는 가격으로 인도 시장에서 가격 및 현지화 문제로 인해 '어느 쪽에도 속하지 못하는' 위치에 놓였습니다.",
       "link": "https://www.thehindubusinessline.com/companies/tesla-model-y-l-at-6199-lakh-price-tag-lands-in-no-mans-land-amid-pricing-and-localisation-challenges/article70892061.ece",
@@ -56,17 +45,6 @@
       ],
       "first_seen_at": "2026-04-22T23:50:42.415895+00:00",
       "last_seen_at": "2026-04-24T10:25:47.702356+00:00"
-    },
-    "https://www.channelnewsasia.com/business/nvidia-supplier-sk-hynixs-q1-profit-rises-five-fold-meets-forecasts-6074941": {
-      "title": "엔비디아 공급업체인 SK하이닉스의 1분기 순이익이 5배 증가하며 시장 예상치에 부합했다.",
-      "link": "https://www.channelnewsasia.com/business/nvidia-supplier-sk-hynixs-q1-profit-rises-five-fold-meets-forecasts-6074941",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-04-22T23:50:42.415895+00:00",
-      "last_seen_at": "2026-04-22T23:50:42.415895+00:00"
     },
     "https://asia.nikkei.com/techasia/beijing-s-auto-bash-and-coupang-under-scrutiny": {
       "title": "베이징의 자동차 업계 탄압과 쿠팡에 대한 집중적인 조사",
@@ -2042,7 +2020,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-05T00:13:57.695150+00:00",
-      "last_seen_at": "2026-06-05T00:13:57.695150+00:00"
+      "last_seen_at": "2026-06-07T00:08:32.216989+00:00"
     },
     "https://economictimes.indiatimes.com/industry/renewables/hyundai-motors-tamil-nadu-govt-join-hands-to-build-ev-manufacturing-skill-hub/articleshow/131511012.cms": {
       "title": "현대자동차와 타밀나두 주 정부가 전기차 제조 및 기술 허브 구축을 위해 협력합니다.",
@@ -2097,10 +2075,10 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-06-06T00:11:30.632425+00:00",
-      "last_seen_at": "2026-06-06T10:55:39.957475+00:00"
+      "last_seen_at": "2026-06-07T00:08:32.216989+00:00"
     },
     "https://www.scmp.com/tech/article/3356130/chinese-memory-makers-step-challenge-koreas-chip-champions": {
-      "title": "중국 메모리 제조업체들이 한국 반도체 강국에 도전장을 내밀고 있다.",
+      "title": "중국 메모리 제조업체들이 한국의 반도체 강국에 도전장을 내밀고 있다.",
       "link": "https://www.scmp.com/tech/article/3356130/chinese-memory-makers-step-challenge-koreas-chip-champions",
       "source_name": "South China Morning Post World",
       "country_code": "HK",
@@ -2109,7 +2087,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-06T10:55:39.957475+00:00",
-      "last_seen_at": "2026-06-06T10:55:39.957475+00:00"
+      "last_seen_at": "2026-06-07T00:08:32.216989+00:00"
     }
   }
 }
