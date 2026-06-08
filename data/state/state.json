@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-07T11:10:58.876811+00:00",
+  "last_run_at": "2026-06-08T00:13:32.178893+00:00",
   "seen_articles": {
     "https://www.cnbc.com/2026/04/23/sk-hynix-earnings-ai-memory-shortage-hbm-demand.html": {
       "title": "SK하이닉스, 메모리 가격 상승에 힘입어 1분기 사상 최고 실적 기록하며 시장 예상치에 부합",
@@ -35,28 +35,6 @@
       "first_seen_at": "2026-04-23T10:23:59.583347+00:00",
       "last_seen_at": "2026-04-25T09:56:15.899507+00:00"
     },
-    "https://www.japantimes.co.jp/business/2026/04/23/companies/samsung-workers-protest": {
-      "title": "삼성 직원들이 AI 칩 붐 속 SK 하이닉스와의 큰 임금 격차에 항의하며 시위를 벌였다.",
-      "link": "https://www.japantimes.co.jp/business/2026/04/23/companies/samsung-workers-protest",
-      "source_name": "The Japan Times",
-      "country_code": "JP",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-04-23T10:23:59.583347+00:00",
-      "last_seen_at": "2026-04-23T23:52:48.387204+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/south-korea-ecommerce-probe-opens-rift-in-us-ties/articleshow/130461587.cms": {
-      "title": "한국의 전자상거래 조사로 미국과의 관계에 균열 발생",
-      "link": "https://economictimes.indiatimes.com/tech/technology/south-korea-ecommerce-probe-opens-rift-in-us-ties/articleshow/130461587.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Coupang"
-      ],
-      "first_seen_at": "2026-04-23T10:23:59.583347+00:00",
-      "last_seen_at": "2026-04-23T23:52:48.387204+00:00"
-    },
     "https://www.thehindubusinessline.com/companies/hyundai-motor-reports-31-drop-in-q1-operating-profit-meets-forecasts/article70895968.ece": {
       "title": "현대자동차, 1분기 영업이익 31% 감소 기록해 시장 예상치와 일치",
       "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-reports-31-drop-in-q1-operating-profit-meets-forecasts/article70895968.ece",
@@ -68,17 +46,6 @@
       ],
       "first_seen_at": "2026-04-23T10:23:59.583347+00:00",
       "last_seen_at": "2026-04-24T10:25:47.702356+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/south-korea-tells-us-lawmakers-it-will-ensure-no-discrimination-against-us-tech-firms/articleshow/130456540.cms": {
-      "title": "한국 정부는 미국 의원들에게 미국 기술 기업에 대한 차별이 없도록 보장하겠다고 밝혔습니다.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/south-korea-tells-us-lawmakers-it-will-ensure-no-discrimination-against-us-tech-firms/articleshow/130456540.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Coupang"
-      ],
-      "first_seen_at": "2026-04-23T10:23:59.583347+00:00",
-      "last_seen_at": "2026-04-23T23:52:48.387204+00:00"
     },
     "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-q1-profit-jumps-fivefold-despite-middle-east-energy-crisis": {
       "title": "SK하이닉스, 중동 에너지 위기에도 불구하고 1분기 순이익 5배 급증",
@@ -112,17 +79,6 @@
       ],
       "first_seen_at": "2026-04-23T23:52:48.387204+00:00",
       "last_seen_at": "2026-04-24T10:25:47.702356+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/samsung-workers-rally-in-south-korea-demanding-higher-pay-and-threatening-to-strike/articleshow/130465568.cms": {
-      "title": "한국 삼성 노동자들이 임금 인상을 요구하며 파업을 예고하는 시위를 벌였습니다.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-workers-rally-in-south-korea-demanding-higher-pay-and-threatening-to-strike/articleshow/130465568.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-04-23T23:52:48.387204+00:00",
-      "last_seen_at": "2026-04-23T23:52:48.387204+00:00"
     },
     "https://www.scmp.com/news/asia/east-asia/article/3351272/south-korea-and-us-showdown-over-coupang-meddling-testing-ties": {
       "title": "한국과 미국, 쿠팡 개입 문제로 갈등 심화…관계 시험대 돌입",
@@ -2011,6 +1967,28 @@
       ],
       "first_seen_at": "2026-06-06T10:55:39.957475+00:00",
       "last_seen_at": "2026-06-07T11:10:58.876811+00:00"
+    },
+    "https://www.channelnewsasia.com/business/sk-hynix-announces-multi-year-tech-deal-nvidia-ai-factories-6167936": {
+      "title": "SK Hynix announces multi-year tech deal with Nvidia for AI factories",
+      "link": "https://www.channelnewsasia.com/business/sk-hynix-announces-multi-year-tech-deal-nvidia-ai-factories-6167936",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-08T00:13:32.178893+00:00",
+      "last_seen_at": "2026-06-08T00:13:32.178893+00:00"
+    },
+    "https://www.channelnewsasia.com/business/south-koreas-naver-build-gigawatt-scale-ai-factories-using-nvidia-technology-6167926": {
+      "title": "South Korea's Naver to build gigawatt-scale AI factories using Nvidia technology",
+      "link": "https://www.channelnewsasia.com/business/south-koreas-naver-build-gigawatt-scale-ai-factories-using-nvidia-technology-6167926",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "NAVER"
+      ],
+      "first_seen_at": "2026-06-08T00:13:32.178893+00:00",
+      "last_seen_at": "2026-06-08T00:13:32.178893+00:00"
     }
   }
 }
