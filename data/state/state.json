@@ -1,29 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-08T00:13:32.178893+00:00",
+  "last_run_at": "2026-06-08T13:10:23.388081+00:00",
   "seen_articles": {
-    "https://www.cnbc.com/2026/04/23/sk-hynix-earnings-ai-memory-shortage-hbm-demand.html": {
-      "title": "SK하이닉스, 메모리 가격 상승에 힘입어 1분기 사상 최고 실적 기록하며 시장 예상치에 부합",
-      "link": "https://www.cnbc.com/2026/04/23/sk-hynix-earnings-ai-memory-shortage-hbm-demand.html",
-      "source_name": "CNBC Technology",
-      "country_code": "US",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-04-22T23:50:42.415895+00:00",
-      "last_seen_at": "2026-04-24T10:25:47.702356+00:00"
-    },
-    "https://www.straitstimes.com/business/companies-markets/nvidia-supplier-sk-hynix-q1-profit-soars-406-on-ai-boom": {
-      "title": "메모리 칩 제조업체 SK하이닉스, AI 붐에 힘입어 1분기 이익 406% 급증하며 사상 최고치 기록",
-      "link": "https://www.straitstimes.com/business/companies-markets/nvidia-supplier-sk-hynix-q1-profit-soars-406-on-ai-boom",
-      "source_name": "The Straits Times",
-      "country_code": "SG",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-04-22T23:50:42.415895+00:00",
-      "last_seen_at": "2026-04-24T10:25:47.702356+00:00"
-    },
     "https://asia.nikkei.com/techasia/beijing-s-auto-bash-and-coupang-under-scrutiny": {
       "title": "베이징의 자동차 업계 탄압과 쿠팡에 대한 집중적인 조사",
       "link": "https://asia.nikkei.com/techasia/beijing-s-auto-bash-and-coupang-under-scrutiny",
@@ -34,62 +12,6 @@
       ],
       "first_seen_at": "2026-04-23T10:23:59.583347+00:00",
       "last_seen_at": "2026-04-25T09:56:15.899507+00:00"
-    },
-    "https://www.thehindubusinessline.com/companies/hyundai-motor-reports-31-drop-in-q1-operating-profit-meets-forecasts/article70895968.ece": {
-      "title": "현대자동차, 1분기 영업이익 31% 감소 기록해 시장 예상치와 일치",
-      "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-reports-31-drop-in-q1-operating-profit-meets-forecasts/article70895968.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor",
-        "Kia"
-      ],
-      "first_seen_at": "2026-04-23T10:23:59.583347+00:00",
-      "last_seen_at": "2026-04-24T10:25:47.702356+00:00"
-    },
-    "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-q1-profit-jumps-fivefold-despite-middle-east-energy-crisis": {
-      "title": "SK하이닉스, 중동 에너지 위기에도 불구하고 1분기 순이익 5배 급증",
-      "link": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-q1-profit-jumps-fivefold-despite-middle-east-energy-crisis",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-04-23T10:23:59.583347+00:00",
-      "last_seen_at": "2026-04-24T10:25:47.702356+00:00"
-    },
-    "https://www.taipeitimes.com/News/biz/archives/2026/04/24/2003856125": {
-      "title": "SK하이닉스, AI 반도체 매출 예상치 상회",
-      "link": "https://www.taipeitimes.com/News/biz/archives/2026/04/24/2003856125",
-      "source_name": "Taipei Times",
-      "country_code": "TW",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-04-23T23:52:48.387204+00:00",
-      "last_seen_at": "2026-04-24T10:25:47.702356+00:00"
-    },
-    "https://economictimes.indiatimes.com/industry/media/entertainment/we-want-to-develop-made-in-india-games-for-local-global-markets-says-krafton-ceo/articleshow/130477610.cms": {
-      "title": "크래프턴 CEO 킴은 \"우리의 현재 목표는 국내 소비와 세계 수출을 위한 인도 게임을 개발하는 것\"이라고 말했습니다.",
-      "link": "https://economictimes.indiatimes.com/industry/media/entertainment/we-want-to-develop-made-in-india-games-for-local-global-markets-says-krafton-ceo/articleshow/130477610.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Krafton"
-      ],
-      "first_seen_at": "2026-04-23T23:52:48.387204+00:00",
-      "last_seen_at": "2026-04-24T10:25:47.702356+00:00"
-    },
-    "https://www.scmp.com/news/asia/east-asia/article/3351272/south-korea-and-us-showdown-over-coupang-meddling-testing-ties": {
-      "title": "한국과 미국, 쿠팡 개입 문제로 갈등 심화…관계 시험대 돌입",
-      "link": "https://www.scmp.com/news/asia/east-asia/article/3351272/south-korea-and-us-showdown-over-coupang-meddling-testing-ties",
-      "source_name": "South China Morning Post World",
-      "country_code": "HK",
-      "companies": [
-        "Coupang"
-      ],
-      "first_seen_at": "2026-04-24T10:25:47.702356+00:00",
-      "last_seen_at": "2026-04-24T10:25:47.702356+00:00"
     },
     "https://www.straitstimes.com/business/economy/south-koreas-k-shaped-economy-where-chip-giants-give-out-1-million-bonuses-to-staff": {
       "title": "100만 달러 보너스: 반도체 대기업들의 직원들에게 지급되는 거액의 보너스가 불평등 심화에 대한 우려를 증폭시키고 있다",
@@ -1989,6 +1911,98 @@
       ],
       "first_seen_at": "2026-06-08T00:13:32.178893+00:00",
       "last_seen_at": "2026-06-08T00:13:32.178893+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-chip-chief-says-discussed-next-generation-foundry-hbm-cooperation-with-nvidia-ceo/articleshow/131586506.cms": {
+      "title": "Samsung Electronics' chip chief says discussed next-generation foundry, HBM cooperation with Nvidia CEO",
+      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-chip-chief-says-discussed-next-generation-foundry-hbm-cooperation-with-nvidia-ceo/articleshow/131586506.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-06-08T13:10:23.388081+00:00",
+      "last_seen_at": "2026-06-08T13:10:23.388081+00:00"
+    },
+    "https://www.channelnewsasia.com/business/samsung-elecs-chip-chief-says-he-discussed-next-generation-foundry-nvidia-ceo-6169061": {
+      "title": "Samsung Elec's chip chief says he discussed next-generation foundry with Nvidia CEO",
+      "link": "https://www.channelnewsasia.com/business/samsung-elecs-chip-chief-says-he-discussed-next-generation-foundry-nvidia-ceo-6169061",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-06-08T13:10:23.388081+00:00",
+      "last_seen_at": "2026-06-08T13:10:23.388081+00:00"
+    },
+    "https://www.japantimes.co.jp/news/2026/06/08/asia-pacific/south-korea-female-pm-ai": {
+      "title": "South Korea names first female prime minister in decades to lead AI push",
+      "link": "https://www.japantimes.co.jp/news/2026/06/08/asia-pacific/south-korea-female-pm-ai",
+      "source_name": "The Japan Times",
+      "country_code": "JP",
+      "companies": [
+        "NAVER"
+      ],
+      "first_seen_at": "2026-06-08T13:10:23.388081+00:00",
+      "last_seen_at": "2026-06-08T13:10:23.388081+00:00"
+    },
+    "https://e.vnexpress.net/news/world/nvidia-clinches-deals-with-south-korean-giants-include-sk-group-to-advance-ai-boom-5083094.html": {
+      "title": "Nvidia clinches deals with South Korean giants include SK Group to advance AI boom",
+      "link": "https://e.vnexpress.net/news/world/nvidia-clinches-deals-with-south-korean-giants-include-sk-group-to-advance-ai-boom-5083094.html",
+      "source_name": "VnExpress World",
+      "country_code": "VN",
+      "companies": [
+        "SK hynix",
+        "NAVER"
+      ],
+      "first_seen_at": "2026-06-08T13:10:23.388081+00:00",
+      "last_seen_at": "2026-06-08T13:10:23.388081+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-koreas-naver-to-build-gigawatt-scale-ai-factories-using-nvidia-technology/articleshow/131576643.cms": {
+      "title": "South Korea's Naver to build gigawatt-scale AI factories using Nvidia technology",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-koreas-naver-to-build-gigawatt-scale-ai-factories-using-nvidia-technology/articleshow/131576643.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "NAVER"
+      ],
+      "first_seen_at": "2026-06-08T13:10:23.388081+00:00",
+      "last_seen_at": "2026-06-08T13:10:23.388081+00:00"
+    },
+    "https://www.straitstimes.com/business/companies-markets/nvidia-says-sk-hynix-will-continue-to-be-its-largest-partner-seal-multi-year-pact-to-develop-ai": {
+      "title": "Nvidia says SK Hynix will continue to be its largest partner; pact to develop AI chips sealed",
+      "link": "https://www.straitstimes.com/business/companies-markets/nvidia-says-sk-hynix-will-continue-to-be-its-largest-partner-seal-multi-year-pact-to-develop-ai",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "companies": [
+        "Samsung Electronics",
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-08T13:10:23.388081+00:00",
+      "last_seen_at": "2026-06-08T13:10:23.388081+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-ceo-says-sk-hynix-will-continue-to-be-its-largest-partner/articleshow/131576247.cms": {
+      "title": "Nvidia clinches deals with South Korean giants include SK Group to advance AI boom",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-ceo-says-sk-hynix-will-continue-to-be-its-largest-partner/articleshow/131576247.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-08T13:10:23.388081+00:00",
+      "last_seen_at": "2026-06-08T13:10:23.388081+00:00"
+    },
+    "https://www.theglobeandmail.com/business/article-nvidia-ai-data-centre-sk-hynix-naver-doosan": {
+      "title": "Nvidia announces AI data centre deals with SK Hynix, Naver and Doosan",
+      "link": "https://www.theglobeandmail.com/business/article-nvidia-ai-data-centre-sk-hynix-naver-doosan",
+      "source_name": "The Globe and Mail Business",
+      "country_code": "CA",
+      "companies": [
+        "SK hynix",
+        "NAVER",
+        "Doosan Enerbility"
+      ],
+      "first_seen_at": "2026-06-08T13:10:23.388081+00:00",
+      "last_seen_at": "2026-06-08T13:10:23.388081+00:00"
     }
   }
 }
