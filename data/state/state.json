@@ -1,40 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-09T00:09:41.500850+00:00",
+  "last_run_at": "2026-06-09T12:07:20.388897+00:00",
   "seen_articles": {
-    "https://asia.nikkei.com/techasia/beijing-s-auto-bash-and-coupang-under-scrutiny": {
-      "title": "베이징의 자동차 업계 탄압과 쿠팡에 대한 집중적인 조사",
-      "link": "https://asia.nikkei.com/techasia/beijing-s-auto-bash-and-coupang-under-scrutiny",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "companies": [
-        "Coupang"
-      ],
-      "first_seen_at": "2026-04-23T10:23:59.583347+00:00",
-      "last_seen_at": "2026-04-25T09:56:15.899507+00:00"
-    },
-    "https://www.straitstimes.com/business/economy/south-koreas-k-shaped-economy-where-chip-giants-give-out-1-million-bonuses-to-staff": {
-      "title": "100만 달러 보너스: 반도체 대기업들의 직원들에게 지급되는 거액의 보너스가 불평등 심화에 대한 우려를 증폭시키고 있다",
-      "link": "https://www.straitstimes.com/business/economy/south-koreas-k-shaped-economy-where-chip-giants-give-out-1-million-bonuses-to-staff",
-      "source_name": "The Straits Times",
-      "country_code": "SG",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-04-24T10:25:47.702356+00:00",
-      "last_seen_at": "2026-04-25T09:56:15.899507+00:00"
-    },
-    "https://www.theverge.com/tech/918301/samsung-south-korea-union-protests": {
-      "title": "삼성 노동자들의 시위로 생산량이 감소하면 RAM 부족 사태는 더욱 악화될 수 있다.",
-      "link": "https://www.theverge.com/tech/918301/samsung-south-korea-union-protests",
-      "source_name": "The Verge",
-      "country_code": "US",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-04-24T23:44:38.488147+00:00",
-      "last_seen_at": "2026-04-25T09:56:15.899507+00:00"
-    },
     "https://www.channelnewsasia.com/business/sk-hynix-shares-rally-7-record-high-beating-samsungs-25-gain-6083016": {
       "title": "SK하이닉스 주가가 7% 급등하며 사상 최고치를 경신해 삼성전자의 2.5% 상승률을 넘어섰습니다.",
       "link": "https://www.channelnewsasia.com/business/sk-hynix-shares-rally-7-record-high-beating-samsungs-25-gain-6083016",
@@ -1955,7 +1922,7 @@
         "NAVER"
       ],
       "first_seen_at": "2026-06-08T13:10:23.388081+00:00",
-      "last_seen_at": "2026-06-09T00:09:41.500850+00:00"
+      "last_seen_at": "2026-06-09T12:07:20.388897+00:00"
     },
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-koreas-naver-to-build-gigawatt-scale-ai-factories-using-nvidia-technology/articleshow/131576643.cms": {
       "title": "South Korea's Naver to build gigawatt-scale AI factories using Nvidia technology",
@@ -1978,7 +1945,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-08T13:10:23.388081+00:00",
-      "last_seen_at": "2026-06-09T00:09:41.500850+00:00"
+      "last_seen_at": "2026-06-09T12:07:20.388897+00:00"
     },
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-ceo-says-sk-hynix-will-continue-to-be-its-largest-partner/articleshow/131576247.cms": {
       "title": "Nvidia clinches deals with South Korean giants include SK Group to advance AI boom",
@@ -2002,7 +1969,52 @@
         "Doosan Enerbility"
       ],
       "first_seen_at": "2026-06-08T13:10:23.388081+00:00",
-      "last_seen_at": "2026-06-09T00:09:41.500850+00:00"
+      "last_seen_at": "2026-06-09T12:07:20.388897+00:00"
+    },
+    "https://www.thehindubusinessline.com/news/national/tamil-nadu-assures-support-for-hd-hyundais-proposed-shipyard-project/article71079808.ece": {
+      "title": "Tamil Nadu assures support for HD Hyundai's proposed shipyard project",
+      "link": "https://www.thehindubusinessline.com/news/national/tamil-nadu-assures-support-for-hd-hyundais-proposed-shipyard-project/article71079808.ece",
+      "source_name": "BusinessLine Economy",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor",
+        "HD Hyundai"
+      ],
+      "first_seen_at": "2026-06-09T12:07:20.388897+00:00",
+      "last_seen_at": "2026-06-09T12:07:20.388897+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/startups/former-mirae-asset-head-ashish-dave-bets-big-on-indias-vc-reset/articleshow/131592279.cms": {
+      "title": "Former Mirae Asset head Ashish Dave bets big on India's VC reset",
+      "link": "https://economictimes.indiatimes.com/tech/startups/former-mirae-asset-head-ashish-dave-bets-big-on-indias-vc-reset/articleshow/131592279.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Mirae Asset"
+      ],
+      "first_seen_at": "2026-06-09T12:07:20.388897+00:00",
+      "last_seen_at": "2026-06-09T12:07:20.388897+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/funding/former-mirae-asset-head-ashish-dave-bets-big-on-indias-vc-reset/articleshow/131592129.cms": {
+      "title": "Ex-Mirae Asset India head Ashish Dave launches Rs 700-1,000-crore fund",
+      "link": "https://economictimes.indiatimes.com/tech/funding/former-mirae-asset-head-ashish-dave-bets-big-on-indias-vc-reset/articleshow/131592129.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Mirae Asset"
+      ],
+      "first_seen_at": "2026-06-09T12:07:20.388897+00:00",
+      "last_seen_at": "2026-06-09T12:07:20.388897+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/funding/wealth-firm-nexedge-capital-looking-to-close-a-25-million-funding-round-to-be-led-by-mirae/articleshow/131591391.cms": {
+      "title": "Wealth firm Nexedge Capital looking to close a $25 million funding round to be led by Mirae",
+      "link": "https://economictimes.indiatimes.com/tech/funding/wealth-firm-nexedge-capital-looking-to-close-a-25-million-funding-round-to-be-led-by-mirae/articleshow/131591391.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Mirae Asset"
+      ],
+      "first_seen_at": "2026-06-09T12:07:20.388897+00:00",
+      "last_seen_at": "2026-06-09T12:07:20.388897+00:00"
     }
   }
 }
