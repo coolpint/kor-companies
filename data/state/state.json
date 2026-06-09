@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-08T13:10:23.388081+00:00",
+  "last_run_at": "2026-06-09T00:09:41.500850+00:00",
   "seen_articles": {
     "https://asia.nikkei.com/techasia/beijing-s-auto-bash-and-coupang-under-scrutiny": {
       "title": "베이징의 자동차 업계 탄압과 쿠팡에 대한 집중적인 조사",
@@ -1921,7 +1921,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-06-08T13:10:23.388081+00:00",
-      "last_seen_at": "2026-06-08T13:10:23.388081+00:00"
+      "last_seen_at": "2026-06-09T00:09:41.500850+00:00"
     },
     "https://www.channelnewsasia.com/business/samsung-elecs-chip-chief-says-he-discussed-next-generation-foundry-nvidia-ceo-6169061": {
       "title": "Samsung Elec's chip chief says he discussed next-generation foundry with Nvidia CEO",
@@ -1943,7 +1943,7 @@
         "NAVER"
       ],
       "first_seen_at": "2026-06-08T13:10:23.388081+00:00",
-      "last_seen_at": "2026-06-08T13:10:23.388081+00:00"
+      "last_seen_at": "2026-06-09T00:09:41.500850+00:00"
     },
     "https://e.vnexpress.net/news/world/nvidia-clinches-deals-with-south-korean-giants-include-sk-group-to-advance-ai-boom-5083094.html": {
       "title": "Nvidia clinches deals with South Korean giants include SK Group to advance AI boom",
@@ -1955,7 +1955,7 @@
         "NAVER"
       ],
       "first_seen_at": "2026-06-08T13:10:23.388081+00:00",
-      "last_seen_at": "2026-06-08T13:10:23.388081+00:00"
+      "last_seen_at": "2026-06-09T00:09:41.500850+00:00"
     },
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-koreas-naver-to-build-gigawatt-scale-ai-factories-using-nvidia-technology/articleshow/131576643.cms": {
       "title": "South Korea's Naver to build gigawatt-scale AI factories using Nvidia technology",
@@ -1966,7 +1966,7 @@
         "NAVER"
       ],
       "first_seen_at": "2026-06-08T13:10:23.388081+00:00",
-      "last_seen_at": "2026-06-08T13:10:23.388081+00:00"
+      "last_seen_at": "2026-06-09T00:09:41.500850+00:00"
     },
     "https://www.straitstimes.com/business/companies-markets/nvidia-says-sk-hynix-will-continue-to-be-its-largest-partner-seal-multi-year-pact-to-develop-ai": {
       "title": "Nvidia says SK Hynix will continue to be its largest partner; pact to develop AI chips sealed",
@@ -1978,7 +1978,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-08T13:10:23.388081+00:00",
-      "last_seen_at": "2026-06-08T13:10:23.388081+00:00"
+      "last_seen_at": "2026-06-09T00:09:41.500850+00:00"
     },
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-ceo-says-sk-hynix-will-continue-to-be-its-largest-partner/articleshow/131576247.cms": {
       "title": "Nvidia clinches deals with South Korean giants include SK Group to advance AI boom",
@@ -1989,7 +1989,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-08T13:10:23.388081+00:00",
-      "last_seen_at": "2026-06-08T13:10:23.388081+00:00"
+      "last_seen_at": "2026-06-09T00:09:41.500850+00:00"
     },
     "https://www.theglobeandmail.com/business/article-nvidia-ai-data-centre-sk-hynix-naver-doosan": {
       "title": "Nvidia announces AI data centre deals with SK Hynix, Naver and Doosan",
@@ -2002,7 +2002,7 @@
         "Doosan Enerbility"
       ],
       "first_seen_at": "2026-06-08T13:10:23.388081+00:00",
-      "last_seen_at": "2026-06-08T13:10:23.388081+00:00"
+      "last_seen_at": "2026-06-09T00:09:41.500850+00:00"
     }
   }
 }
