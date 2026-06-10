@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-10T00:18:31.471079+00:00",
+  "last_run_at": "2026-06-10T12:25:51.312009+00:00",
   "seen_articles": {
     "https://www.channelnewsasia.com/business/sk-hynix-shares-rally-7-record-high-beating-samsungs-25-gain-6083016": {
       "title": "SK하이닉스 주가가 7% 급등하며 사상 최고치를 경신해 삼성전자의 2.5% 상승률을 넘어섰습니다.",
@@ -1981,7 +1981,7 @@
         "HD Hyundai"
       ],
       "first_seen_at": "2026-06-09T12:07:20.388897+00:00",
-      "last_seen_at": "2026-06-10T00:18:31.471079+00:00"
+      "last_seen_at": "2026-06-10T12:25:51.312009+00:00"
     },
     "https://economictimes.indiatimes.com/tech/startups/former-mirae-asset-head-ashish-dave-bets-big-on-indias-vc-reset/articleshow/131592279.cms": {
       "title": "Former Mirae Asset head Ashish Dave bets big on India's VC reset",
@@ -2037,7 +2037,7 @@
         "HD Hyundai"
       ],
       "first_seen_at": "2026-06-10T00:18:31.471079+00:00",
-      "last_seen_at": "2026-06-10T00:18:31.471079+00:00"
+      "last_seen_at": "2026-06-10T12:25:51.312009+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-considers-building-chip-packaging-plant/articleshow/131610766.cms": {
       "title": "Samsung Electronics considers building chip packaging plant",
@@ -2049,6 +2049,50 @@
       ],
       "first_seen_at": "2026-06-10T00:18:31.471079+00:00",
       "last_seen_at": "2026-06-10T00:18:31.471079+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/south-koreas-sk-hynix-eyes-us-listing-as-soon-as-august-sources-say/articleshow/131628683.cms": {
+      "title": "South Korea's SK Hynix eyes US listing as soon as August, sources say",
+      "link": "https://economictimes.indiatimes.com/tech/technology/south-koreas-sk-hynix-eyes-us-listing-as-soon-as-august-sources-say/articleshow/131628683.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-10T12:25:51.312009+00:00",
+      "last_seen_at": "2026-06-10T12:25:51.312009+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/hyundai-expects-chennai-plant-1-production-to-normalise-by-june-15-after-mobis-fire/article71083471.ece": {
+      "title": "Hyundai expects Chennai Plant 1 production to normalise by June 15 after Mobis fire",
+      "link": "https://www.thehindubusinessline.com/companies/hyundai-expects-chennai-plant-1-production-to-normalise-by-june-15-after-mobis-fire/article71083471.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-06-10T12:25:51.312009+00:00",
+      "last_seen_at": "2026-06-10T12:25:51.312009+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-considers-building-chip-packaging-plant-report/articleshow/131625554.cms": {
+      "title": "Samsung Electronics considers building chip packaging plant: Report",
+      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-considers-building-chip-packaging-plant-report/articleshow/131625554.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-06-10T12:25:51.312009+00:00",
+      "last_seen_at": "2026-06-10T12:25:51.312009+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundais-chennai-plant-resumes-operations-after-fire-targets-full-recovery-by-june-22/articleshow/131624866.cms": {
+      "title": "Hyundai's Chennai plant resumes operations after fire, targets full recovery by June 22",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundais-chennai-plant-resumes-operations-after-fire-targets-full-recovery-by-june-22/articleshow/131624866.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-06-10T12:25:51.312009+00:00",
+      "last_seen_at": "2026-06-10T12:25:51.312009+00:00"
     }
   }
 }
