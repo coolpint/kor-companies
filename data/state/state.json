@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-09T12:07:20.388897+00:00",
+  "last_run_at": "2026-06-10T00:18:31.471079+00:00",
   "seen_articles": {
     "https://www.channelnewsasia.com/business/sk-hynix-shares-rally-7-record-high-beating-samsungs-25-gain-6083016": {
       "title": "SK하이닉스 주가가 7% 급등하며 사상 최고치를 경신해 삼성전자의 2.5% 상승률을 넘어섰습니다.",
@@ -1981,7 +1981,7 @@
         "HD Hyundai"
       ],
       "first_seen_at": "2026-06-09T12:07:20.388897+00:00",
-      "last_seen_at": "2026-06-09T12:07:20.388897+00:00"
+      "last_seen_at": "2026-06-10T00:18:31.471079+00:00"
     },
     "https://economictimes.indiatimes.com/tech/startups/former-mirae-asset-head-ashish-dave-bets-big-on-indias-vc-reset/articleshow/131592279.cms": {
       "title": "Former Mirae Asset head Ashish Dave bets big on India's VC reset",
@@ -2015,6 +2015,40 @@
       ],
       "first_seen_at": "2026-06-09T12:07:20.388897+00:00",
       "last_seen_at": "2026-06-09T12:07:20.388897+00:00"
+    },
+    "https://www.channelnewsasia.com/business/samsung-electronics-invests-175-million-in-element-biosciences-series-e-funding-round-6171871": {
+      "title": "Samsung Electronics invests $175 million in Element Biosciences' Series E funding round",
+      "link": "https://www.channelnewsasia.com/business/samsung-electronics-invests-175-million-in-element-biosciences-series-e-funding-round-6171871",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-06-10T00:18:31.471079+00:00",
+      "last_seen_at": "2026-06-10T00:18:31.471079+00:00"
+    },
+    "https://www.thehindubusinessline.com/economy/logistics/tamil-nadu-signals-strong-push-for-hd-hyundai-shipyard-as-industries-minister-visits-korea/article71080352.ece": {
+      "title": "Tamil Nadu signals strong push for HD Hyundai Shipyard as Industries Minister visits Korea",
+      "link": "https://www.thehindubusinessline.com/economy/logistics/tamil-nadu-signals-strong-push-for-hd-hyundai-shipyard-as-industries-minister-visits-korea/article71080352.ece",
+      "source_name": "BusinessLine Economy",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor",
+        "HD Hyundai"
+      ],
+      "first_seen_at": "2026-06-10T00:18:31.471079+00:00",
+      "last_seen_at": "2026-06-10T00:18:31.471079+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-considers-building-chip-packaging-plant/articleshow/131610766.cms": {
+      "title": "Samsung Electronics considers building chip packaging plant",
+      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-considers-building-chip-packaging-plant/articleshow/131610766.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-06-10T00:18:31.471079+00:00",
+      "last_seen_at": "2026-06-10T00:18:31.471079+00:00"
     }
   }
 }
