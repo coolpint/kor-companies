@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-10T12:25:51.312009+00:00",
+  "last_run_at": "2026-06-11T00:19:50.844455+00:00",
   "seen_articles": {
     "https://www.channelnewsasia.com/business/sk-hynix-shares-rally-7-record-high-beating-samsungs-25-gain-6083016": {
       "title": "SK하이닉스 주가가 7% 급등하며 사상 최고치를 경신해 삼성전자의 2.5% 상승률을 넘어섰습니다.",
@@ -2037,7 +2037,7 @@
         "HD Hyundai"
       ],
       "first_seen_at": "2026-06-10T00:18:31.471079+00:00",
-      "last_seen_at": "2026-06-10T12:25:51.312009+00:00"
+      "last_seen_at": "2026-06-11T00:19:50.844455+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-considers-building-chip-packaging-plant/articleshow/131610766.cms": {
       "title": "Samsung Electronics considers building chip packaging plant",
@@ -2059,7 +2059,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-10T12:25:51.312009+00:00",
-      "last_seen_at": "2026-06-10T12:25:51.312009+00:00"
+      "last_seen_at": "2026-06-11T00:19:50.844455+00:00"
     },
     "https://www.thehindubusinessline.com/companies/hyundai-expects-chennai-plant-1-production-to-normalise-by-june-15-after-mobis-fire/article71083471.ece": {
       "title": "Hyundai expects Chennai Plant 1 production to normalise by June 15 after Mobis fire",
@@ -2070,7 +2070,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-06-10T12:25:51.312009+00:00",
-      "last_seen_at": "2026-06-10T12:25:51.312009+00:00"
+      "last_seen_at": "2026-06-11T00:19:50.844455+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-considers-building-chip-packaging-plant-report/articleshow/131625554.cms": {
       "title": "Samsung Electronics considers building chip packaging plant: Report",
@@ -2081,7 +2081,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-06-10T12:25:51.312009+00:00",
-      "last_seen_at": "2026-06-10T12:25:51.312009+00:00"
+      "last_seen_at": "2026-06-11T00:19:50.844455+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundais-chennai-plant-resumes-operations-after-fire-targets-full-recovery-by-june-22/articleshow/131624866.cms": {
       "title": "Hyundai's Chennai plant resumes operations after fire, targets full recovery by June 22",
@@ -2093,6 +2093,17 @@
       ],
       "first_seen_at": "2026-06-10T12:25:51.312009+00:00",
       "last_seen_at": "2026-06-10T12:25:51.312009+00:00"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-to-triple-wafer-capacity-by-2034-chairman-chey": {
+      "title": "SK Hynix to triple wafer capacity by 2034: Chairman Chey",
+      "link": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-to-triple-wafer-capacity-by-2034-chairman-chey",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-11T00:19:50.844455+00:00",
+      "last_seen_at": "2026-06-11T00:19:50.844455+00:00"
     }
   }
 }
