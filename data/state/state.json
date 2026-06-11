@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-11T00:19:50.844455+00:00",
+  "last_run_at": "2026-06-11T12:49:43.869752+00:00",
   "seen_articles": {
-    "https://www.channelnewsasia.com/business/sk-hynix-shares-rally-7-record-high-beating-samsungs-25-gain-6083016": {
-      "title": "SK하이닉스 주가가 7% 급등하며 사상 최고치를 경신해 삼성전자의 2.5% 상승률을 넘어섰습니다.",
-      "link": "https://www.channelnewsasia.com/business/sk-hynix-shares-rally-7-record-high-beating-samsungs-25-gain-6083016",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-04-27T11:08:16.026458+00:00",
-      "last_seen_at": "2026-04-27T11:08:16.026458+00:00"
-    },
     "https://economictimes.indiatimes.com/industry/renewables/hyundai-ioniq-5-launched-in-india-check-price-range-interiors-and-exterior-features/articleshow/130577199.cms": {
       "title": "현대 아이오닉 5 EV, 인도 출시: 가격, 주행거리, 내외장 특징 확인",
       "link": "https://economictimes.indiatimes.com/industry/renewables/hyundai-ioniq-5-launched-in-india-check-price-range-interiors-and-exterior-features/articleshow/130577199.cms",
@@ -2070,7 +2059,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-06-10T12:25:51.312009+00:00",
-      "last_seen_at": "2026-06-11T00:19:50.844455+00:00"
+      "last_seen_at": "2026-06-11T12:49:43.869752+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-considers-building-chip-packaging-plant-report/articleshow/131625554.cms": {
       "title": "Samsung Electronics considers building chip packaging plant: Report",
@@ -2104,6 +2093,105 @@
       ],
       "first_seen_at": "2026-06-11T00:19:50.844455+00:00",
       "last_seen_at": "2026-06-11T00:19:50.844455+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/cons-products/durables/a-home-that-washes-cools-and-thinks-for-you-inside-lgs-zero-labor-home-vision-for-india/articleshow/131649682.cms": {
+      "title": "A home that washes, cools and thinks for you: Inside LG's 'Zero Labor Home' vision for India",
+      "link": "https://economictimes.indiatimes.com/industry/cons-products/durables/a-home-that-washes-cools-and-thinks-for-you-inside-lgs-zero-labor-home-vision-for-india/articleshow/131649682.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "LG Electronics"
+      ],
+      "first_seen_at": "2026-06-11T12:49:43.869752+00:00",
+      "last_seen_at": "2026-06-11T12:49:43.869752+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/lg-electronics-aims-to-double-combined-revenue-in-india-brazil-saudi-arabia-by-2030/article71087569.ece": {
+      "title": "LG Electronics aims to double combined revenue in India, Brazil, Saudi Arabia by 2030",
+      "link": "https://www.thehindubusinessline.com/companies/lg-electronics-aims-to-double-combined-revenue-in-india-brazil-saudi-arabia-by-2030/article71087569.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "LG Electronics"
+      ],
+      "first_seen_at": "2026-06-11T12:49:43.869752+00:00",
+      "last_seen_at": "2026-06-11T12:49:43.869752+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/cons-products/durables/lg-india-growth-strategy-global-south-markets-investment-consumer-electronics-manufacturing-expansion-india/articleshow/131648498.cms": {
+      "title": "Why India is the centerpiece of LG's multi billion-dollar vision for the Global South",
+      "link": "https://economictimes.indiatimes.com/industry/cons-products/durables/lg-india-growth-strategy-global-south-markets-investment-consumer-electronics-manufacturing-expansion-india/articleshow/131648498.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "LG Electronics"
+      ],
+      "first_seen_at": "2026-06-11T12:49:43.869752+00:00",
+      "last_seen_at": "2026-06-11T12:49:43.869752+00:00"
+    },
+    "https://www.ft.com/content/e7c503cd-4cc8-48c8-be91-99abf0bd2f9a": {
+      "title": "‘South Korea’s Amazon’ hit with record fine over data breach",
+      "link": "https://www.ft.com/content/e7c503cd-4cc8-48c8-be91-99abf0bd2f9a",
+      "source_name": "Financial Times Companies",
+      "country_code": "GB",
+      "companies": [
+        "Coupang"
+      ],
+      "first_seen_at": "2026-06-11T12:49:43.869752+00:00",
+      "last_seen_at": "2026-06-11T12:49:43.869752+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/south-korea-fines-coupang-409-million-in-countrys-largest-data-breach-penalty/articleshow/131648401.cms": {
+      "title": "South Korea fines Coupang $409 million in country's largest data breach penalty",
+      "link": "https://economictimes.indiatimes.com/tech/technology/south-korea-fines-coupang-409-million-in-countrys-largest-data-breach-penalty/articleshow/131648401.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Coupang"
+      ],
+      "first_seen_at": "2026-06-11T12:49:43.869752+00:00",
+      "last_seen_at": "2026-06-11T12:49:43.869752+00:00"
+    },
+    "https://www.scmp.com/news/asia/east-asia/article/3356690/south-korea-hits-e-commerce-giant-coupang-record-us409-million-fine-data-breach": {
+      "title": "South Korea hits e-commerce giant Coupang with record US$409 million fine for data breach",
+      "link": "https://www.scmp.com/news/asia/east-asia/article/3356690/south-korea-hits-e-commerce-giant-coupang-record-us409-million-fine-data-breach",
+      "source_name": "South China Morning Post World",
+      "country_code": "HK",
+      "companies": [
+        "Coupang"
+      ],
+      "first_seen_at": "2026-06-11T12:49:43.869752+00:00",
+      "last_seen_at": "2026-06-11T12:49:43.869752+00:00"
+    },
+    "https://www.channelnewsasia.com/business/south-korea-fines-coupang-409-million-in-countrys-largest-data-breach-penalty-6175756": {
+      "title": "South Korea fines Coupang $409 million in country's largest data breach penalty",
+      "link": "https://www.channelnewsasia.com/business/south-korea-fines-coupang-409-million-in-countrys-largest-data-breach-penalty-6175756",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Coupang"
+      ],
+      "first_seen_at": "2026-06-11T12:49:43.869752+00:00",
+      "last_seen_at": "2026-06-11T12:49:43.869752+00:00"
+    },
+    "https://www.straitstimes.com/business/s-korea-fines-e-commerce-giant-coupang-record-525-million-over-data-leak": {
+      "title": "S. Korea fines e-commerce giant Coupang record $525 million over data leak",
+      "link": "https://www.straitstimes.com/business/s-korea-fines-e-commerce-giant-coupang-record-525-million-over-data-leak",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "companies": [
+        "Coupang"
+      ],
+      "first_seen_at": "2026-06-11T12:49:43.869752+00:00",
+      "last_seen_at": "2026-06-11T12:49:43.869752+00:00"
+    },
+    "https://asia.nikkei.com/editor-s-picks/interview/sk-hynix-to-triple-wafer-capacity-by-2034-chairman-chey2": {
+      "title": "SK Hynix to triple wafer capacity by 2034: Chairman Chey",
+      "link": "https://asia.nikkei.com/editor-s-picks/interview/sk-hynix-to-triple-wafer-capacity-by-2034-chairman-chey2",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-11T12:49:43.869752+00:00",
+      "last_seen_at": "2026-06-11T12:49:43.869752+00:00"
     }
   }
 }
