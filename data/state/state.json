@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-11T12:49:43.869752+00:00",
+  "last_run_at": "2026-06-12T00:20:59.543469+00:00",
   "seen_articles": {
     "https://economictimes.indiatimes.com/industry/renewables/hyundai-ioniq-5-launched-in-india-check-price-range-interiors-and-exterior-features/articleshow/130577199.cms": {
       "title": "현대 아이오닉 5 EV, 인도 출시: 가격, 주행거리, 내외장 특징 확인",
@@ -2114,7 +2114,7 @@
         "LG Electronics"
       ],
       "first_seen_at": "2026-06-11T12:49:43.869752+00:00",
-      "last_seen_at": "2026-06-11T12:49:43.869752+00:00"
+      "last_seen_at": "2026-06-12T00:20:59.543469+00:00"
     },
     "https://economictimes.indiatimes.com/industry/cons-products/durables/lg-india-growth-strategy-global-south-markets-investment-consumer-electronics-manufacturing-expansion-india/articleshow/131648498.cms": {
       "title": "Why India is the centerpiece of LG's multi billion-dollar vision for the Global South",
@@ -2147,7 +2147,7 @@
         "Coupang"
       ],
       "first_seen_at": "2026-06-11T12:49:43.869752+00:00",
-      "last_seen_at": "2026-06-11T12:49:43.869752+00:00"
+      "last_seen_at": "2026-06-12T00:20:59.543469+00:00"
     },
     "https://www.scmp.com/news/asia/east-asia/article/3356690/south-korea-hits-e-commerce-giant-coupang-record-us409-million-fine-data-breach": {
       "title": "South Korea hits e-commerce giant Coupang with record US$409 million fine for data breach",
@@ -2180,7 +2180,7 @@
         "Coupang"
       ],
       "first_seen_at": "2026-06-11T12:49:43.869752+00:00",
-      "last_seen_at": "2026-06-11T12:49:43.869752+00:00"
+      "last_seen_at": "2026-06-12T00:20:59.543469+00:00"
     },
     "https://asia.nikkei.com/editor-s-picks/interview/sk-hynix-to-triple-wafer-capacity-by-2034-chairman-chey2": {
       "title": "SK Hynix to triple wafer capacity by 2034: Chairman Chey",
@@ -2191,7 +2191,18 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-11T12:49:43.869752+00:00",
-      "last_seen_at": "2026-06-11T12:49:43.869752+00:00"
+      "last_seen_at": "2026-06-12T00:20:59.543469+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-in-talks-with-samsung-to-make-part-of-next-gen-chip-report/articleshow/131663136.cms": {
+      "title": "Google in talks with Samsung to make part of next-gen chip: Report",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-in-talks-with-samsung-to-make-part-of-next-gen-chip-report/articleshow/131663136.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-06-12T00:20:59.543469+00:00",
+      "last_seen_at": "2026-06-12T00:20:59.543469+00:00"
     }
   }
 }
