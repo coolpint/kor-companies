@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-12T00:20:59.543469+00:00",
+  "last_run_at": "2026-06-12T12:22:27.714154+00:00",
   "seen_articles": {
     "https://economictimes.indiatimes.com/industry/renewables/hyundai-ioniq-5-launched-in-india-check-price-range-interiors-and-exterior-features/articleshow/130577199.cms": {
       "title": "현대 아이오닉 5 EV, 인도 출시: 가격, 주행거리, 내외장 특징 확인",
@@ -23,17 +23,6 @@
       ],
       "first_seen_at": "2026-04-28T11:07:57.699566+00:00",
       "last_seen_at": "2026-04-29T23:58:47.758620+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/funding/snabbit-raises-56-million-in-funding-from-susquehanna-others-home-cooks-next-on-plans/articleshow/130560519.cms": {
-      "title": "스내빗, 서스퀘하나 벤처캐피탈, 미래에셋투자진 등으로부터 5,600만 달러 투자 유치…기업가치 3억 5,000만 달러로 두 배 상승",
-      "link": "https://economictimes.indiatimes.com/tech/funding/snabbit-raises-56-million-in-funding-from-susquehanna-others-home-cooks-next-on-plans/articleshow/130560519.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Mirae Asset"
-      ],
-      "first_seen_at": "2026-04-28T11:07:57.699566+00:00",
-      "last_seen_at": "2026-04-28T11:07:57.699566+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/lg-electronics-nvidia-in-talks-over-robots-ai-data-centres-and-mobility/articleshow/130601461.cms": {
       "title": "LG전자와 엔비디아가 로봇, AI 데이터센터 및 모빌리티 분야에 대해 논의 중입니다.",
@@ -2114,7 +2103,7 @@
         "LG Electronics"
       ],
       "first_seen_at": "2026-06-11T12:49:43.869752+00:00",
-      "last_seen_at": "2026-06-12T00:20:59.543469+00:00"
+      "last_seen_at": "2026-06-12T12:22:27.714154+00:00"
     },
     "https://economictimes.indiatimes.com/industry/cons-products/durables/lg-india-growth-strategy-global-south-markets-investment-consumer-electronics-manufacturing-expansion-india/articleshow/131648498.cms": {
       "title": "Why India is the centerpiece of LG's multi billion-dollar vision for the Global South",
@@ -2180,7 +2169,7 @@
         "Coupang"
       ],
       "first_seen_at": "2026-06-11T12:49:43.869752+00:00",
-      "last_seen_at": "2026-06-12T00:20:59.543469+00:00"
+      "last_seen_at": "2026-06-12T12:22:27.714154+00:00"
     },
     "https://asia.nikkei.com/editor-s-picks/interview/sk-hynix-to-triple-wafer-capacity-by-2034-chairman-chey2": {
       "title": "SK Hynix to triple wafer capacity by 2034: Chairman Chey",
@@ -2191,7 +2180,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-11T12:49:43.869752+00:00",
-      "last_seen_at": "2026-06-12T00:20:59.543469+00:00"
+      "last_seen_at": "2026-06-12T12:22:27.714154+00:00"
     },
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-in-talks-with-samsung-to-make-part-of-next-gen-chip-report/articleshow/131663136.cms": {
       "title": "Google in talks with Samsung to make part of next-gen chip: Report",
@@ -2202,7 +2191,40 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-06-12T00:20:59.543469+00:00",
-      "last_seen_at": "2026-06-12T00:20:59.543469+00:00"
+      "last_seen_at": "2026-06-12T12:22:27.714154+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/south-koreas-sk-hynix-to-opt-for-nasdaq-for-planned-us-listing-sources-say/articleshow/131683409.cms": {
+      "title": "South Korea's SK Hynix to opt for Nasdaq for planned US listing, sources say",
+      "link": "https://economictimes.indiatimes.com/tech/technology/south-koreas-sk-hynix-to-opt-for-nasdaq-for-planned-us-listing-sources-say/articleshow/131683409.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-12T12:22:27.714154+00:00",
+      "last_seen_at": "2026-06-12T12:22:27.714154+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/south-korea-concrete-delivery-halt-threatens-samsung-sk-hynix-chip-plant-work-report/articleshow/131673681.cms": {
+      "title": "South Korea concrete delivery halt threatens Samsung, SK Hynix chip plant work: Report",
+      "link": "https://economictimes.indiatimes.com/tech/technology/south-korea-concrete-delivery-halt-threatens-samsung-sk-hynix-chip-plant-work-report/articleshow/131673681.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-12T12:22:27.714154+00:00",
+      "last_seen_at": "2026-06-12T12:22:27.714154+00:00"
+    },
+    "https://e.vnexpress.net/news/world/south-korea-hits-coupang-with-record-fine-over-e-commerce-data-leak-5084820.html": {
+      "title": "South Korea hits Coupang with record fine over e-commerce data leak",
+      "link": "https://e.vnexpress.net/news/world/south-korea-hits-coupang-with-record-fine-over-e-commerce-data-leak-5084820.html",
+      "source_name": "VnExpress World",
+      "country_code": "VN",
+      "companies": [
+        "Coupang"
+      ],
+      "first_seen_at": "2026-06-12T12:22:27.714154+00:00",
+      "last_seen_at": "2026-06-12T12:22:27.714154+00:00"
     }
   }
 }
