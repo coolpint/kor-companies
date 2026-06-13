@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-13T00:21:46.838095+00:00",
+  "last_run_at": "2026-06-13T11:18:45.544195+00:00",
   "seen_articles": {
     "https://asia.nikkei.com/business/technology/south-korean-lawmakers-push-back-on-us-coupang-claims": {
       "title": "한국 국회의원들, 미국 쿠팡 주장 반발",
@@ -23,61 +23,6 @@
       ],
       "first_seen_at": "2026-04-29T10:59:55.681776+00:00",
       "last_seen_at": "2026-04-29T23:58:47.758620+00:00"
-    },
-    "https://www.channelnewsasia.com/business/lg-electronics-nvidia-in-talks-over-robots-ai-data-centres-and-mobility-6088591": {
-      "title": "LG전자와 엔비디아가 로봇, AI 데이터센터 및 모빌리티 분야에 대해 논의 중입니다.",
-      "link": "https://www.channelnewsasia.com/business/lg-electronics-nvidia-in-talks-over-robots-ai-data-centres-and-mobility-6088591",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "LG Electronics"
-      ],
-      "first_seen_at": "2026-04-29T10:59:55.681776+00:00",
-      "last_seen_at": "2026-04-29T10:59:55.681776+00:00"
-    },
-    "https://www.ft.com/content/5a003a35-a48b-4e46-a2d3-b99ae41d0e46": {
-      "title": "아시아 반도체 업체들의 주가 급등에 힘입어 신흥 시장 주식이 사상 최고치를 경신했습니다.",
-      "link": "https://www.ft.com/content/5a003a35-a48b-4e46-a2d3-b99ae41d0e46",
-      "source_name": "Financial Times World",
-      "country_code": "GB",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-04-29T10:59:55.681776+00:00",
-      "last_seen_at": "2026-04-29T10:59:55.681776+00:00"
-    },
-    "https://www.ft.com/content/620c3442-ee5a-41c6-b6db-9457e1adcd7e": {
-      "title": "메모리 칩 제조업체들은 AI 열풍이 호황과 불황의 종식을 알리는 신호로 기대하고 있다.",
-      "link": "https://www.ft.com/content/620c3442-ee5a-41c6-b6db-9457e1adcd7e",
-      "source_name": "Financial Times Companies",
-      "country_code": "GB",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-04-29T10:59:55.681776+00:00",
-      "last_seen_at": "2026-04-29T10:59:55.681776+00:00"
-    },
-    "https://www.channelnewsasia.com/business/south-koreas-watchdog-names-coupang-founder-controlling-entity-6088056": {
-      "title": "한국 금융감독당국, 쿠팡 창업자를 지배인으로 지목",
-      "link": "https://www.channelnewsasia.com/business/south-koreas-watchdog-names-coupang-founder-controlling-entity-6088056",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "Coupang"
-      ],
-      "first_seen_at": "2026-04-29T10:59:55.681776+00:00",
-      "last_seen_at": "2026-04-29T10:59:55.681776+00:00"
-    },
-    "https://www.scmp.com/news/asia/east-asia/article/3351771/how-south-koreas-samsung-clan-made-us45-billion-financial-comeback-1-year": {
-      "title": "한국의 삼성 그룹이 어떻게 1년 만에 450억 달러 규모의 재정적 재기에 성공했을까?",
-      "link": "https://www.scmp.com/news/asia/east-asia/article/3351771/how-south-koreas-samsung-clan-made-us45-billion-financial-comeback-1-year",
-      "source_name": "South China Morning Post World",
-      "country_code": "HK",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-04-29T10:59:55.681776+00:00",
-      "last_seen_at": "2026-04-29T10:59:55.681776+00:00"
     },
     "https://asia.nikkei.com/business/markets/hyundai-motor-leaves-peers-in-the-dust-as-ai-bets-fuel-stock-price-surge": {
       "title": "현대자동차, AI 관련 투자로 주가 급등하며 경쟁사들을 제치고 선두 질주",
@@ -2191,7 +2136,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-12T12:22:27.714154+00:00",
-      "last_seen_at": "2026-06-13T00:21:46.838095+00:00"
+      "last_seen_at": "2026-06-13T11:18:45.544195+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/south-korea-concrete-delivery-halt-threatens-samsung-sk-hynix-chip-plant-work-report/articleshow/131673681.cms": {
       "title": "South Korea concrete delivery halt threatens Samsung, SK Hynix chip plant work: Report",
@@ -2202,7 +2147,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-12T12:22:27.714154+00:00",
-      "last_seen_at": "2026-06-13T00:21:46.838095+00:00"
+      "last_seen_at": "2026-06-13T11:18:45.544195+00:00"
     },
     "https://e.vnexpress.net/news/world/south-korea-hits-coupang-with-record-fine-over-e-commerce-data-leak-5084820.html": {
       "title": "South Korea hits Coupang with record fine over e-commerce data leak",
@@ -2213,7 +2158,7 @@
         "Coupang"
       ],
       "first_seen_at": "2026-06-12T12:22:27.714154+00:00",
-      "last_seen_at": "2026-06-13T00:21:46.838095+00:00"
+      "last_seen_at": "2026-06-13T11:18:45.544195+00:00"
     },
     "https://www.thehindubusinessline.com/companies/tata-motors-raises-car-prices-by-up-to-15-for-harrier-safari-nexon-and-evs/article71093860.ece": {
       "title": "Tata Motors raises car prices by up to 1.5% for Harrier, Safari, Nexon and EVs",
@@ -2224,7 +2169,7 @@
         "Nexon"
       ],
       "first_seen_at": "2026-06-13T00:21:46.838095+00:00",
-      "last_seen_at": "2026-06-13T00:21:46.838095+00:00"
+      "last_seen_at": "2026-06-13T11:18:45.544195+00:00"
     }
   }
 }
