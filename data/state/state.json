@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-12T12:22:27.714154+00:00",
+  "last_run_at": "2026-06-13T00:21:46.838095+00:00",
   "seen_articles": {
-    "https://economictimes.indiatimes.com/industry/renewables/hyundai-ioniq-5-launched-in-india-check-price-range-interiors-and-exterior-features/articleshow/130577199.cms": {
-      "title": "현대 아이오닉 5 EV, 인도 출시: 가격, 주행거리, 내외장 특징 확인",
-      "link": "https://economictimes.indiatimes.com/industry/renewables/hyundai-ioniq-5-launched-in-india-check-price-range-interiors-and-exterior-features/articleshow/130577199.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-04-28T11:07:57.699566+00:00",
-      "last_seen_at": "2026-04-28T23:58:08.476259+00:00"
-    },
     "https://asia.nikkei.com/business/technology/south-korean-lawmakers-push-back-on-us-coupang-claims": {
       "title": "한국 국회의원들, 미국 쿠팡 주장 반발",
       "link": "https://asia.nikkei.com/business/technology/south-korean-lawmakers-push-back-on-us-coupang-claims",
@@ -2202,7 +2191,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-12T12:22:27.714154+00:00",
-      "last_seen_at": "2026-06-12T12:22:27.714154+00:00"
+      "last_seen_at": "2026-06-13T00:21:46.838095+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/south-korea-concrete-delivery-halt-threatens-samsung-sk-hynix-chip-plant-work-report/articleshow/131673681.cms": {
       "title": "South Korea concrete delivery halt threatens Samsung, SK Hynix chip plant work: Report",
@@ -2213,7 +2202,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-12T12:22:27.714154+00:00",
-      "last_seen_at": "2026-06-12T12:22:27.714154+00:00"
+      "last_seen_at": "2026-06-13T00:21:46.838095+00:00"
     },
     "https://e.vnexpress.net/news/world/south-korea-hits-coupang-with-record-fine-over-e-commerce-data-leak-5084820.html": {
       "title": "South Korea hits Coupang with record fine over e-commerce data leak",
@@ -2224,7 +2213,18 @@
         "Coupang"
       ],
       "first_seen_at": "2026-06-12T12:22:27.714154+00:00",
-      "last_seen_at": "2026-06-12T12:22:27.714154+00:00"
+      "last_seen_at": "2026-06-13T00:21:46.838095+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/tata-motors-raises-car-prices-by-up-to-15-for-harrier-safari-nexon-and-evs/article71093860.ece": {
+      "title": "Tata Motors raises car prices by up to 1.5% for Harrier, Safari, Nexon and EVs",
+      "link": "https://www.thehindubusinessline.com/companies/tata-motors-raises-car-prices-by-up-to-15-for-harrier-safari-nexon-and-evs/article71093860.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Nexon"
+      ],
+      "first_seen_at": "2026-06-13T00:21:46.838095+00:00",
+      "last_seen_at": "2026-06-13T00:21:46.838095+00:00"
     }
   }
 }
