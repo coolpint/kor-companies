@@ -1,29 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-13T11:18:45.544195+00:00",
+  "last_run_at": "2026-06-14T00:12:17.850407+00:00",
   "seen_articles": {
-    "https://asia.nikkei.com/business/technology/south-korean-lawmakers-push-back-on-us-coupang-claims": {
-      "title": "한국 국회의원들, 미국 쿠팡 주장 반발",
-      "link": "https://asia.nikkei.com/business/technology/south-korean-lawmakers-push-back-on-us-coupang-claims",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "companies": [
-        "Coupang"
-      ],
-      "first_seen_at": "2026-04-28T11:07:57.699566+00:00",
-      "last_seen_at": "2026-04-29T23:58:47.758620+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/lg-electronics-nvidia-in-talks-over-robots-ai-data-centres-and-mobility/articleshow/130601461.cms": {
-      "title": "LG전자와 엔비디아가 로봇, AI 데이터센터 및 모빌리티 분야에 대해 논의 중입니다.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/lg-electronics-nvidia-in-talks-over-robots-ai-data-centres-and-mobility/articleshow/130601461.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "LG Electronics"
-      ],
-      "first_seen_at": "2026-04-29T10:59:55.681776+00:00",
-      "last_seen_at": "2026-04-29T23:58:47.758620+00:00"
-    },
     "https://asia.nikkei.com/business/markets/hyundai-motor-leaves-peers-in-the-dust-as-ai-bets-fuel-stock-price-surge": {
       "title": "현대자동차, AI 관련 투자로 주가 급등하며 경쟁사들을 제치고 선두 질주",
       "link": "https://asia.nikkei.com/business/markets/hyundai-motor-leaves-peers-in-the-dust-as-ai-bets-fuel-stock-price-surge",
@@ -2169,7 +2147,29 @@
         "Nexon"
       ],
       "first_seen_at": "2026-06-13T00:21:46.838095+00:00",
-      "last_seen_at": "2026-06-13T11:18:45.544195+00:00"
+      "last_seen_at": "2026-06-14T00:12:17.850407+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/energy/oil-gas/signed-file-on-100-per-cent-ethanol-fuel-rules-nitin-gadkari-says-multiple-companies-to-adopt-alternative-blend/articleshow/131711066.cms": {
+      "title": "Signed file on 100 per cent ethanol fuel rules: Nitin Gadkari says multiple companies to adopt alternative blend",
+      "link": "https://economictimes.indiatimes.com/industry/energy/oil-gas/signed-file-on-100-per-cent-ethanol-fuel-rules-nitin-gadkari-says-multiple-companies-to-adopt-alternative-blend/articleshow/131711066.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-06-14T00:12:17.850407+00:00",
+      "last_seen_at": "2026-06-14T00:12:17.850407+00:00"
+    },
+    "https://www.politico.eu/article/canada-expects-submarine-decision-in-30-days-procurement-chief-says": {
+      "title": "Canada expects submarine decision ‘in 30 days,’ procurement chief says",
+      "link": "https://www.politico.eu/article/canada-expects-submarine-decision-in-30-days-procurement-chief-says",
+      "source_name": "POLITICO Europe",
+      "country_code": "EU",
+      "companies": [
+        "Hanwha Ocean"
+      ],
+      "first_seen_at": "2026-06-14T00:12:17.850407+00:00",
+      "last_seen_at": "2026-06-14T00:12:17.850407+00:00"
     }
   }
 }
