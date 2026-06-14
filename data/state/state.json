@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-14T00:12:17.850407+00:00",
+  "last_run_at": "2026-06-14T11:32:58.869450+00:00",
   "seen_articles": {
     "https://asia.nikkei.com/business/markets/hyundai-motor-leaves-peers-in-the-dust-as-ai-bets-fuel-stock-price-surge": {
       "title": "현대자동차, AI 관련 투자로 주가 급등하며 경쟁사들을 제치고 선두 질주",
@@ -36,17 +36,6 @@
       "first_seen_at": "2026-04-30T10:58:45.930916+00:00",
       "last_seen_at": "2026-05-01T10:25:30.105980+00:00"
     },
-    "https://www.channelnewsasia.com/business/samsung-electronics-expects-win-more-customers-advanced-logic-chips-6091066": {
-      "title": "삼성전자는 첨단 로직 칩 분야에서 더 많은 고객을 확보할 것으로 기대하고 있습니다.",
-      "link": "https://www.channelnewsasia.com/business/samsung-electronics-expects-win-more-customers-advanced-logic-chips-6091066",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-04-30T10:58:45.930916+00:00",
-      "last_seen_at": "2026-04-30T10:58:45.930916+00:00"
-    },
     "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-posts-record-quarterly-profit-on-ai-boom/articleshow/130620652.cms": {
       "title": "삼성 반도체 기업 이익이 거의 50배 급증했지만, 2027년에는 공급 부족 현상이 심화될 전망입니다.",
       "link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-posts-record-quarterly-profit-on-ai-boom/articleshow/130620652.cms",
@@ -57,17 +46,6 @@
       ],
       "first_seen_at": "2026-04-30T10:58:45.930916+00:00",
       "last_seen_at": "2026-04-30T23:55:35.738525+00:00"
-    },
-    "https://www.channelnewsasia.com/business/lg-energy-solution-swings-loss-amid-weak-north-american-ev-demand-6090826": {
-      "title": "LG에너지솔루션, 북미 전기차 수요 부진 속 적자 전환",
-      "link": "https://www.channelnewsasia.com/business/lg-energy-solution-swings-loss-amid-weak-north-american-ev-demand-6090826",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "LG Energy Solution"
-      ],
-      "first_seen_at": "2026-04-30T10:58:45.930916+00:00",
-      "last_seen_at": "2026-04-30T10:58:45.930916+00:00"
     },
     "https://www.thehindubusinessline.com/companies/hyundai-unveils-ai-powered-infotainment-system-with-gleo-ai-voice-assistant/article70923042.ece": {
       "title": "현대자동차가 글레오 AI 음성 비서가 탑재된 AI 기반 인포테인먼트 시스템을 공개했습니다.",
@@ -2158,7 +2136,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-06-14T00:12:17.850407+00:00",
-      "last_seen_at": "2026-06-14T00:12:17.850407+00:00"
+      "last_seen_at": "2026-06-14T11:32:58.869450+00:00"
     },
     "https://www.politico.eu/article/canada-expects-submarine-decision-in-30-days-procurement-chief-says": {
       "title": "Canada expects submarine decision ‘in 30 days,’ procurement chief says",
