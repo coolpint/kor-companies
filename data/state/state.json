@@ -1,41 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-15T00:16:25.573695+00:00",
+  "last_run_at": "2026-06-15T15:18:46.412705+00:00",
   "seen_articles": {
-    "https://www.scmp.com/tech/big-tech/article/3352001/samsung-sk-hynix-flag-record-supply-squeeze-memory-market-ai-demand-soars": {
-      "title": "삼성과 SK하이닉스는 AI 수요 급증으로 메모리 시장의 사상 최대 공급 부족 사태가 발생할 것이라고 경고했습니다.",
-      "link": "https://www.scmp.com/tech/big-tech/article/3352001/samsung-sk-hynix-flag-record-supply-squeeze-memory-market-ai-demand-soars",
-      "source_name": "South China Morning Post Tech",
-      "country_code": "HK",
-      "companies": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-04-30T10:58:45.930916+00:00",
-      "last_seen_at": "2026-05-01T10:25:30.105980+00:00"
-    },
-    "https://www.cnbc.com/2026/04/30/samsung-q1-earnings-ai-memory-chip-demand-profit-record.html": {
-      "title": "삼성의 이익이 AI 붐으로 인한 메모리 칩 수요 급증에 힘입어 8배 이상 급증하며 예상치를 상회했습니다.",
-      "link": "https://www.cnbc.com/2026/04/30/samsung-q1-earnings-ai-memory-chip-demand-profit-record.html",
-      "source_name": "CNBC Technology",
-      "country_code": "US",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-04-30T10:58:45.930916+00:00",
-      "last_seen_at": "2026-05-01T10:25:30.105980+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/information-tech/samsung-focuses-on-hbm-as-ai-demand-drives-record-quarterly-profit/articleshow/130635359.cms": {
-      "title": "삼성은 AI 수요 증가에 힘입어 사상 최고 분기 수익을 기록하며 HBM에 집중하고 있습니다.",
-      "link": "https://economictimes.indiatimes.com/tech/information-tech/samsung-focuses-on-hbm-as-ai-demand-drives-record-quarterly-profit/articleshow/130635359.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-04-30T23:55:35.738525+00:00",
-      "last_seen_at": "2026-05-01T10:25:30.105980+00:00"
-    },
     "https://www.thehindubusinessline.com/news/tata-motors-secures-no2-position-in-april-passenger-vehicle-sales/article70927900.ece": {
       "title": "타타 모터스, 4월 승용차 판매량 2위 차지",
       "link": "https://www.thehindubusinessline.com/news/tata-motors-secures-no2-position-in-april-passenger-vehicle-sales/article70927900.ece",
@@ -48,17 +14,6 @@
       "first_seen_at": "2026-05-01T10:25:30.105980+00:00",
       "last_seen_at": "2026-05-02T10:00:57.903312+00:00"
     },
-    "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-india-sales-up-16-at-27286-units-in-april/articleshow/130671941.cms": {
-      "title": "기아 인도 법인의 4월 판매량은 27,286대로 전년 동월 대비 16% 증가했습니다.",
-      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-india-sales-up-16-at-27286-units-in-april/articleshow/130671941.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-05-01T10:25:30.105980+00:00",
-      "last_seen_at": "2026-05-01T10:25:30.105980+00:00"
-    },
     "https://www.thehindubusinessline.com/companies/hyundai-april-sales-grow-17-y-o-y-to-51902-units/article70927572.ece": {
       "title": "현대자동차의 4월 판매량은 전년 동기 대비 17% 증가한 51,902대를 기록했습니다.",
       "link": "https://www.thehindubusinessline.com/companies/hyundai-april-sales-grow-17-y-o-y-to-51902-units/article70927572.ece",
@@ -69,17 +24,6 @@
       ],
       "first_seen_at": "2026-05-01T10:25:30.105980+00:00",
       "last_seen_at": "2026-05-02T10:00:57.903312+00:00"
-    },
-    "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-motor-india-domestic-sales-up-17-per-cent-at-51902-units-in-april/articleshow/130670893.cms": {
-      "title": "현대자동차 인도법인의 4월 국내 판매량은 51,902대로 전년 동월 대비 17% 증가했습니다.",
-      "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-motor-india-domestic-sales-up-17-per-cent-at-51902-units-in-april/articleshow/130670893.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-05-01T10:25:30.105980+00:00",
-      "last_seen_at": "2026-05-01T10:25:30.105980+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/indian-car-companies-begin-fy27-on-a-strong-note-despite-geopolitical-uncertainties/articleshow/130684674.cms": {
       "title": "인도 자동차 회사들이 지정학적 불확실성에도 불구하고 2027 회계연도를 순조롭게 시작했습니다.",
@@ -2104,6 +2048,28 @@
       ],
       "first_seen_at": "2026-06-14T00:12:17.850407+00:00",
       "last_seen_at": "2026-06-14T00:12:17.850407+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/india-key-growth-engine-for-hvac-business-top-market-for-residential-air-conditioners-lg-electronics/article71104618.ece": {
+      "title": "India key growth engine for HVAC business, top market for residential air-conditioners: LG Electronics",
+      "link": "https://www.thehindubusinessline.com/companies/india-key-growth-engine-for-hvac-business-top-market-for-residential-air-conditioners-lg-electronics/article71104618.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "LG Electronics"
+      ],
+      "first_seen_at": "2026-06-15T15:18:46.412705+00:00",
+      "last_seen_at": "2026-06-15T15:18:46.412705+00:00"
+    },
+    "https://www.channelnewsasia.com/east-asia/starbucks-korea-history-lessons-tank-day-6183336": {
+      "title": "Starbucks Korea to shutter outlets for history lessons after 'Tank Day' fiasco",
+      "link": "https://www.channelnewsasia.com/east-asia/starbucks-korea-history-lessons-tank-day-6183336",
+      "source_name": "CNA Asia",
+      "country_code": "SG",
+      "companies": [
+        "Shinsegae"
+      ],
+      "first_seen_at": "2026-06-15T15:18:46.412705+00:00",
+      "last_seen_at": "2026-06-15T15:18:46.412705+00:00"
     }
   }
 }
