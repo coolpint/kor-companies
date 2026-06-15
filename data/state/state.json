@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-14T11:32:58.869450+00:00",
+  "last_run_at": "2026-06-15T00:16:25.573695+00:00",
   "seen_articles": {
-    "https://asia.nikkei.com/business/markets/hyundai-motor-leaves-peers-in-the-dust-as-ai-bets-fuel-stock-price-surge": {
-      "title": "현대자동차, AI 관련 투자로 주가 급등하며 경쟁사들을 제치고 선두 질주",
-      "link": "https://asia.nikkei.com/business/markets/hyundai-motor-leaves-peers-in-the-dust-as-ai-bets-fuel-stock-price-surge",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-04-29T10:59:55.681776+00:00",
-      "last_seen_at": "2026-04-30T23:55:35.738525+00:00"
-    },
     "https://www.scmp.com/tech/big-tech/article/3352001/samsung-sk-hynix-flag-record-supply-squeeze-memory-market-ai-demand-soars": {
       "title": "삼성과 SK하이닉스는 AI 수요 급증으로 메모리 시장의 사상 최대 공급 부족 사태가 발생할 것이라고 경고했습니다.",
       "link": "https://www.scmp.com/tech/big-tech/article/3352001/samsung-sk-hynix-flag-record-supply-squeeze-memory-market-ai-demand-soars",
@@ -36,28 +25,6 @@
       "first_seen_at": "2026-04-30T10:58:45.930916+00:00",
       "last_seen_at": "2026-05-01T10:25:30.105980+00:00"
     },
-    "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-posts-record-quarterly-profit-on-ai-boom/articleshow/130620652.cms": {
-      "title": "삼성 반도체 기업 이익이 거의 50배 급증했지만, 2027년에는 공급 부족 현상이 심화될 전망입니다.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-posts-record-quarterly-profit-on-ai-boom/articleshow/130620652.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-04-30T10:58:45.930916+00:00",
-      "last_seen_at": "2026-04-30T23:55:35.738525+00:00"
-    },
-    "https://www.thehindubusinessline.com/companies/hyundai-unveils-ai-powered-infotainment-system-with-gleo-ai-voice-assistant/article70923042.ece": {
-      "title": "현대자동차가 글레오 AI 음성 비서가 탑재된 AI 기반 인포테인먼트 시스템을 공개했습니다.",
-      "link": "https://www.thehindubusinessline.com/companies/hyundai-unveils-ai-powered-infotainment-system-with-gleo-ai-voice-assistant/article70923042.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-04-30T10:58:45.930916+00:00",
-      "last_seen_at": "2026-04-30T23:55:35.738525+00:00"
-    },
     "https://economictimes.indiatimes.com/tech/information-tech/samsung-focuses-on-hbm-as-ai-demand-drives-record-quarterly-profit/articleshow/130635359.cms": {
       "title": "삼성은 AI 수요 증가에 힘입어 사상 최고 분기 수익을 기록하며 HBM에 집중하고 있습니다.",
       "link": "https://economictimes.indiatimes.com/tech/information-tech/samsung-focuses-on-hbm-as-ai-demand-drives-record-quarterly-profit/articleshow/130635359.cms",
@@ -68,17 +35,6 @@
       ],
       "first_seen_at": "2026-04-30T23:55:35.738525+00:00",
       "last_seen_at": "2026-05-01T10:25:30.105980+00:00"
-    },
-    "https://www.lemonde.fr/economie/article/2026/04/30/samsung-menace-de-greve-sur-fond-de-benefices-astronomiques_6684584_3234.html": {
-      "title": "삼성, 천문학적인 수익에도 불구하고 파업 위협에 직면",
-      "link": "https://www.lemonde.fr/economie/article/2026/04/30/samsung-menace-de-greve-sur-fond-de-benefices-astronomiques_6684584_3234.html",
-      "source_name": "Le Monde Economie",
-      "country_code": "FR",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-04-30T23:55:35.738525+00:00",
-      "last_seen_at": "2026-04-30T23:55:35.738525+00:00"
     },
     "https://www.thehindubusinessline.com/news/tata-motors-secures-no2-position-in-april-passenger-vehicle-sales/article70927900.ece": {
       "title": "타타 모터스, 4월 승용차 판매량 2위 차지",
@@ -2136,7 +2092,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-06-14T00:12:17.850407+00:00",
-      "last_seen_at": "2026-06-14T11:32:58.869450+00:00"
+      "last_seen_at": "2026-06-15T00:16:25.573695+00:00"
     },
     "https://www.politico.eu/article/canada-expects-submarine-decision-in-30-days-procurement-chief-says": {
       "title": "Canada expects submarine decision ‘in 30 days,’ procurement chief says",
