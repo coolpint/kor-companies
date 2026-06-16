@@ -1,30 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-16T01:42:37.583085+00:00",
+  "last_run_at": "2026-06-16T14:13:04.140643+00:00",
   "seen_articles": {
-    "https://www.thehindubusinessline.com/news/tata-motors-secures-no2-position-in-april-passenger-vehicle-sales/article70927900.ece": {
-      "title": "타타 모터스, 4월 승용차 판매량 2위 차지",
-      "link": "https://www.thehindubusinessline.com/news/tata-motors-secures-no2-position-in-april-passenger-vehicle-sales/article70927900.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor",
-        "Kia"
-      ],
-      "first_seen_at": "2026-05-01T10:25:30.105980+00:00",
-      "last_seen_at": "2026-05-02T10:00:57.903312+00:00"
-    },
-    "https://www.thehindubusinessline.com/companies/hyundai-april-sales-grow-17-y-o-y-to-51902-units/article70927572.ece": {
-      "title": "현대자동차의 4월 판매량은 전년 동기 대비 17% 증가한 51,902대를 기록했습니다.",
-      "link": "https://www.thehindubusinessline.com/companies/hyundai-april-sales-grow-17-y-o-y-to-51902-units/article70927572.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-05-01T10:25:30.105980+00:00",
-      "last_seen_at": "2026-05-02T10:00:57.903312+00:00"
-    },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/indian-car-companies-begin-fy27-on-a-strong-note-despite-geopolitical-uncertainties/articleshow/130684674.cms": {
       "title": "인도 자동차 회사들이 지정학적 불확실성에도 불구하고 2027 회계연도를 순조롭게 시작했습니다.",
       "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/indian-car-companies-begin-fy27-on-a-strong-note-despite-geopolitical-uncertainties/articleshow/130684674.cms",
@@ -2058,7 +2035,7 @@
         "LG Electronics"
       ],
       "first_seen_at": "2026-06-15T15:18:46.412705+00:00",
-      "last_seen_at": "2026-06-16T01:42:37.583085+00:00"
+      "last_seen_at": "2026-06-16T14:13:04.140643+00:00"
     },
     "https://www.channelnewsasia.com/east-asia/starbucks-korea-history-lessons-tank-day-6183336": {
       "title": "Starbucks Korea to shutter outlets for history lessons after 'Tank Day' fiasco",
@@ -2070,6 +2047,17 @@
       ],
       "first_seen_at": "2026-06-15T15:18:46.412705+00:00",
       "last_seen_at": "2026-06-16T01:42:37.583085+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/cons-products/electronics/lg-electronics-recurring-revenue-strategy-lg-robotics-business-ai-infrastructure-subscription-model-b2b-growth-humanoid-robots-nvidia-partnership/articleshow/131736548.cms": {
+      "title": "The Next Frontier: LG's future is not just the TV and fridge in your home",
+      "link": "https://economictimes.indiatimes.com/industry/cons-products/electronics/lg-electronics-recurring-revenue-strategy-lg-robotics-business-ai-infrastructure-subscription-model-b2b-growth-humanoid-robots-nvidia-partnership/articleshow/131736548.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "LG Electronics"
+      ],
+      "first_seen_at": "2026-06-16T14:13:04.140643+00:00",
+      "last_seen_at": "2026-06-16T14:13:04.140643+00:00"
     }
   }
 }
