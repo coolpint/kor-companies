@@ -1,30 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-16T14:13:04.140643+00:00",
+  "last_run_at": "2026-06-17T00:21:11.679679+00:00",
   "seen_articles": {
-    "https://economictimes.indiatimes.com/industry/auto/auto-news/indian-car-companies-begin-fy27-on-a-strong-note-despite-geopolitical-uncertainties/articleshow/130684674.cms": {
-      "title": "인도 자동차 회사들이 지정학적 불확실성에도 불구하고 2027 회계연도를 순조롭게 시작했습니다.",
-      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/indian-car-companies-begin-fy27-on-a-strong-note-despite-geopolitical-uncertainties/articleshow/130684674.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-05-01T23:55:34.448896+00:00",
-      "last_seen_at": "2026-05-02T23:51:28.572969+00:00"
-    },
-    "https://economictimes.indiatimes.com/industry/auto/auto-news/bright-start-to-fy27-for-carmakers-with-estimated-sales-of-4-5-lakh-units-in-april/articleshow/130678046.cms": {
-      "title": "자동차 제조업체들이 2027 회계연도를 순조롭게 시작했으며, 4월에는 45만 대의 판매량이 예상됩니다.",
-      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/bright-start-to-fy27-for-carmakers-with-estimated-sales-of-4-5-lakh-units-in-april/articleshow/130678046.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor",
-        "Kia"
-      ],
-      "first_seen_at": "2026-05-01T23:55:34.448896+00:00",
-      "last_seen_at": "2026-05-02T23:51:28.572969+00:00"
-    },
     "https://www.channelnewsasia.com/east-asia/korean-air-bans-roosters-united-states-philippines-routes-cockfighting-outcry-6095871": {
       "title": "대한항공, 투계 논란 속에 미국-필리핀 노선에서 수탉 탑승 금지",
       "link": "https://www.channelnewsasia.com/east-asia/korean-air-bans-roosters-united-states-philippines-routes-cockfighting-outcry-6095871",
@@ -2035,7 +2012,7 @@
         "LG Electronics"
       ],
       "first_seen_at": "2026-06-15T15:18:46.412705+00:00",
-      "last_seen_at": "2026-06-16T14:13:04.140643+00:00"
+      "last_seen_at": "2026-06-17T00:21:11.679679+00:00"
     },
     "https://www.channelnewsasia.com/east-asia/starbucks-korea-history-lessons-tank-day-6183336": {
       "title": "Starbucks Korea to shutter outlets for history lessons after 'Tank Day' fiasco",
@@ -2057,7 +2034,7 @@
         "LG Electronics"
       ],
       "first_seen_at": "2026-06-16T14:13:04.140643+00:00",
-      "last_seen_at": "2026-06-16T14:13:04.140643+00:00"
+      "last_seen_at": "2026-06-17T00:21:11.679679+00:00"
     }
   }
 }
