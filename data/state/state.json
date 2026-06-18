@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-18T00:18:31.903914+00:00",
+  "last_run_at": "2026-06-18T12:28:41.991791+00:00",
   "seen_articles": {
-    "https://www.channelnewsasia.com/business/sk-hynix-shares-rally-13-after-us-tech-firms-signal-strong-ai-spending-plans-6098076": {
-      "title": "SK하이닉스 주가, 미국 기술 기업들의 강력한 AI 투자 계획 발표 후 13% 급등",
-      "link": "https://www.channelnewsasia.com/business/sk-hynix-shares-rally-13-after-us-tech-firms-signal-strong-ai-spending-plans-6098076",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-05-04T11:08:00.517573+00:00",
-      "last_seen_at": "2026-05-04T11:08:00.517573+00:00"
-    },
     "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-appoints-new-tv-chief-amid-mounting-competition/articleshow/130743988.cms": {
       "title": "삼성전자, 경쟁 심화 속 신임 TV 사업부 수장 임명",
       "link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-appoints-new-tv-chief-amid-mounting-competition/articleshow/130743988.cms",
@@ -23,17 +12,6 @@
       ],
       "first_seen_at": "2026-05-04T11:08:00.517573+00:00",
       "last_seen_at": "2026-05-04T23:58:19.933891+00:00"
-    },
-    "https://www.channelnewsasia.com/business/samsung-electronics-appoints-new-tv-chief-amid-mounting-challenges-6097656": {
-      "title": "삼성전자, 도전 과제 심화 속 신임 TV 사업부 수장 임명",
-      "link": "https://www.channelnewsasia.com/business/samsung-electronics-appoints-new-tv-chief-amid-mounting-challenges-6097656",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-05-04T11:08:00.517573+00:00",
-      "last_seen_at": "2026-05-04T11:08:00.517573+00:00"
     },
     "https://www.scmp.com/tech/article/3352511/samsung-reshuffle-signals-shift-beyond-hardware-china-rivalry-intensifies": {
       "title": "삼성의 조직 개편은 중국 시장 경쟁 심화 속에서 하드웨어 외 분야로의 전환을 예고합니다.",
@@ -2034,7 +2012,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-06-18T00:18:31.903914+00:00",
-      "last_seen_at": "2026-06-18T00:18:31.903914+00:00"
+      "last_seen_at": "2026-06-18T12:28:41.991791+00:00"
     },
     "https://www.theguardian.com/world/2026/jun/17/construction-equipment-multinationals-may-aiding-israeli-war-crimes-experts": {
       "title": "Construction equipment multinationals may be aiding Israeli war crimes, experts say",
@@ -2047,6 +2025,39 @@
       ],
       "first_seen_at": "2026-06-18T00:18:31.903914+00:00",
       "last_seen_at": "2026-06-18T00:18:31.903914+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/cars-uvs/kia-india-to-raise-vehicle-prices-by-up-to-2-from-july-1/articleshow/131828184.cms": {
+      "title": "Kia India to raise vehicle prices by up to 2% from July 1",
+      "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/kia-india-to-raise-vehicle-prices-by-up-to-2-from-july-1/articleshow/131828184.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Kia"
+      ],
+      "first_seen_at": "2026-06-18T12:28:41.991791+00:00",
+      "last_seen_at": "2026-06-18T12:28:41.991791+00:00"
+    },
+    "https://www.channelnewsasia.com/east-asia/starbucks-south-korea-tank-day-police-shinsegae-6192171": {
+      "title": "South Korean police quiz executive in Starbucks 'Tank Day' fiasco",
+      "link": "https://www.channelnewsasia.com/east-asia/starbucks-south-korea-tank-day-police-shinsegae-6192171",
+      "source_name": "CNA Asia",
+      "country_code": "SG",
+      "companies": [
+        "Shinsegae"
+      ],
+      "first_seen_at": "2026-06-18T12:28:41.991791+00:00",
+      "last_seen_at": "2026-06-18T12:28:41.991791+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/nvidia-supplier-sk-hynix-ships-samples-of-next-generation-chips-to-major-customers/articleshow/131815871.cms": {
+      "title": "Nvidia supplier SK Hynix ships samples of next-generation chips to major customers",
+      "link": "https://economictimes.indiatimes.com/tech/technology/nvidia-supplier-sk-hynix-ships-samples-of-next-generation-chips-to-major-customers/articleshow/131815871.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-18T12:28:41.991791+00:00",
+      "last_seen_at": "2026-06-18T12:28:41.991791+00:00"
     }
   }
 }
