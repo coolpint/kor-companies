@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-17T12:53:22.583303+00:00",
+  "last_run_at": "2026-06-18T00:18:31.903914+00:00",
   "seen_articles": {
     "https://www.channelnewsasia.com/business/sk-hynix-shares-rally-13-after-us-tech-firms-signal-strong-ai-spending-plans-6098076": {
       "title": "SK하이닉스 주가, 미국 기술 기업들의 강력한 AI 투자 계획 발표 후 13% 급등",
@@ -2013,6 +2013,40 @@
       ],
       "first_seen_at": "2026-06-16T14:13:04.140643+00:00",
       "last_seen_at": "2026-06-17T00:21:11.679679+00:00"
+    },
+    "https://www.channelnewsasia.com/business/nvidia-supplier-sk-hynix-ships-samples-next-generation-chips-major-customers-6191686": {
+      "title": "Nvidia supplier SK Hynix ships samples of next-generation chips to major customers",
+      "link": "https://www.channelnewsasia.com/business/nvidia-supplier-sk-hynix-ships-samples-next-generation-chips-major-customers-6191686",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-18T00:18:31.903914+00:00",
+      "last_seen_at": "2026-06-18T00:18:31.903914+00:00"
+    },
+    "https://www.theguardian.com/football/2026/jun/17/protesters-to-rally-against-world-cup-sponsor-hyundai-before-mexico-game": {
+      "title": "Protesters to rally against World Cup sponsor Hyundai before Mexico game",
+      "link": "https://www.theguardian.com/football/2026/jun/17/protesters-to-rally-against-world-cup-sponsor-hyundai-before-mexico-game",
+      "source_name": "The Guardian World",
+      "country_code": "GB",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-06-18T00:18:31.903914+00:00",
+      "last_seen_at": "2026-06-18T00:18:31.903914+00:00"
+    },
+    "https://www.theguardian.com/world/2026/jun/17/construction-equipment-multinationals-may-aiding-israeli-war-crimes-experts": {
+      "title": "Construction equipment multinationals may be aiding Israeli war crimes, experts say",
+      "link": "https://www.theguardian.com/world/2026/jun/17/construction-equipment-multinationals-may-aiding-israeli-war-crimes-experts",
+      "source_name": "The Guardian World",
+      "country_code": "GB",
+      "companies": [
+        "Hyundai Motor",
+        "Doosan Enerbility"
+      ],
+      "first_seen_at": "2026-06-18T00:18:31.903914+00:00",
+      "last_seen_at": "2026-06-18T00:18:31.903914+00:00"
     }
   }
 }
