@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-18T12:28:41.991791+00:00",
+  "last_run_at": "2026-06-19T01:45:42.117351+00:00",
   "seen_articles": {
-    "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-appoints-new-tv-chief-amid-mounting-competition/articleshow/130743988.cms": {
-      "title": "삼성전자, 경쟁 심화 속 신임 TV 사업부 수장 임명",
-      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-appoints-new-tv-chief-amid-mounting-competition/articleshow/130743988.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-05-04T11:08:00.517573+00:00",
-      "last_seen_at": "2026-05-04T23:58:19.933891+00:00"
-    },
     "https://www.scmp.com/tech/article/3352511/samsung-reshuffle-signals-shift-beyond-hardware-china-rivalry-intensifies": {
       "title": "삼성의 조직 개편은 중국 시장 경쟁 심화 속에서 하드웨어 외 분야로의 전환을 예고합니다.",
       "link": "https://www.scmp.com/tech/article/3352511/samsung-reshuffle-signals-shift-beyond-hardware-china-rivalry-intensifies",
@@ -2035,7 +2024,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-06-18T12:28:41.991791+00:00",
-      "last_seen_at": "2026-06-18T12:28:41.991791+00:00"
+      "last_seen_at": "2026-06-19T01:45:42.117351+00:00"
     },
     "https://www.channelnewsasia.com/east-asia/starbucks-south-korea-tank-day-police-shinsegae-6192171": {
       "title": "South Korean police quiz executive in Starbucks 'Tank Day' fiasco",
@@ -2046,7 +2035,7 @@
         "Shinsegae"
       ],
       "first_seen_at": "2026-06-18T12:28:41.991791+00:00",
-      "last_seen_at": "2026-06-18T12:28:41.991791+00:00"
+      "last_seen_at": "2026-06-19T01:45:42.117351+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/nvidia-supplier-sk-hynix-ships-samples-of-next-generation-chips-to-major-customers/articleshow/131815871.cms": {
       "title": "Nvidia supplier SK Hynix ships samples of next-generation chips to major customers",
@@ -2057,7 +2046,18 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-18T12:28:41.991791+00:00",
-      "last_seen_at": "2026-06-18T12:28:41.991791+00:00"
+      "last_seen_at": "2026-06-19T01:45:42.117351+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/kia-india-to-raise-vehicle-prices-by-up-to-2-from-july-1/article71117529.ece": {
+      "title": "Kia India to raise vehicle prices by up to 2% from July 1",
+      "link": "https://www.thehindubusinessline.com/companies/kia-india-to-raise-vehicle-prices-by-up-to-2-from-july-1/article71117529.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Kia"
+      ],
+      "first_seen_at": "2026-06-19T01:45:42.117351+00:00",
+      "last_seen_at": "2026-06-19T01:45:42.117351+00:00"
     }
   }
 }
