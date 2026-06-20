@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-19T12:50:04.115686+00:00",
+  "last_run_at": "2026-06-20T00:13:24.051099+00:00",
   "seen_articles": {
     "https://www.scmp.com/tech/article/3352511/samsung-reshuffle-signals-shift-beyond-hardware-china-rivalry-intensifies": {
       "title": "삼성의 조직 개편은 중국 시장 경쟁 심화 속에서 하드웨어 외 분야로의 전환을 예고합니다.",
@@ -12,28 +12,6 @@
       ],
       "first_seen_at": "2026-05-05T10:49:06.300683+00:00",
       "last_seen_at": "2026-05-06T11:09:39.507461+00:00"
-    },
-    "https://www.scmp.com/news/china/military/article/3352500/can-south-koreas-most-advanced-fighter-kf-21-compete-china-us-and-europe": {
-      "title": "한국의 최첨단 전투기인 KF-21은 중국, 미국, 유럽의 전투기들과 경쟁할 수 있을까?",
-      "link": "https://www.scmp.com/news/china/military/article/3352500/can-south-koreas-most-advanced-fighter-kf-21-compete-china-us-and-europe",
-      "source_name": "South China Morning Post World",
-      "country_code": "HK",
-      "companies": [
-        "Korea Aerospace Industries"
-      ],
-      "first_seen_at": "2026-05-05T10:49:06.300683+00:00",
-      "last_seen_at": "2026-05-05T23:53:37.800605+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-board-chairman-urges-union-to-resolve-pay-disputes/articleshow/130822617.cms": {
-      "title": "삼성전자 이사장, 노조에 임금 분쟁 해결 촉구",
-      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-board-chairman-urges-union-to-resolve-pay-disputes/articleshow/130822617.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-05-05T10:49:06.300683+00:00",
-      "last_seen_at": "2026-05-05T23:53:37.800605+00:00"
     },
     "https://www.thehindubusinessline.com/economy/ac-makers-may-raise-prices-intex-plans-hike-as-costs-surge-demand-shifts-lower/article70936271.ece": {
       "title": "에어컨 제조업체들이 가격을 인상할 수도 있다. 인텍스는 비용 급증과 수요 감소로 가격 인상을 계획하고 있다.",
@@ -2046,7 +2024,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-06-19T01:45:42.117351+00:00",
-      "last_seen_at": "2026-06-19T12:50:04.115686+00:00"
+      "last_seen_at": "2026-06-20T00:13:24.051099+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/hyundai-to-buy-softbanks-remaining-stake-in-boston-dynamics-for-325-million-media-report/articleshow/131853630.cms": {
       "title": "Hyundai to buy SoftBank's remaining stake in Boston Dynamics for $325 million: Media report",
@@ -2057,7 +2035,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-06-19T12:50:04.115686+00:00",
-      "last_seen_at": "2026-06-19T12:50:04.115686+00:00"
+      "last_seen_at": "2026-06-20T00:13:24.051099+00:00"
     },
     "https://www.channelnewsasia.com/business/hyundai-buy-softbanks-remaining-stake-in-boston-dynamics-325-million-newspaper-says-6194676": {
       "title": "Hyundai to buy SoftBank's remaining stake in Boston Dynamics for $325 million, newspaper says",
@@ -2068,7 +2046,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-06-19T12:50:04.115686+00:00",
-      "last_seen_at": "2026-06-19T12:50:04.115686+00:00"
+      "last_seen_at": "2026-06-20T00:13:24.051099+00:00"
     }
   }
 }
