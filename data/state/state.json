@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-20T11:20:59.498115+00:00",
+  "last_run_at": "2026-06-21T00:12:34.879135+00:00",
   "seen_articles": {
     "https://www.thehindubusinessline.com/companies/hyundai-reiterates-commitment-to-india-as-it-marks-30-years-of-operations-in-country/article70946484.ece": {
       "title": "현대자동차는 인도 진출 30주년을 맞아 인도 시장에 대한 지속적인 지원을 재확인했습니다.",
@@ -13,17 +13,6 @@
       "first_seen_at": "2026-05-06T11:09:39.507461+00:00",
       "last_seen_at": "2026-05-07T11:11:30.332092+00:00"
     },
-    "https://economictimes.indiatimes.com/industry/auto/hyundai-celebrates-30-years-in-india-a-commitment-to-future-mobility-and-innovation/articleshow/130849892.cms": {
-      "title": "현대자동차는 인도 진출 30주년을 맞아 인도 시장에 대한 지속적인 지원을 재확인했습니다.",
-      "link": "https://economictimes.indiatimes.com/industry/auto/hyundai-celebrates-30-years-in-india-a-commitment-to-future-mobility-and-innovation/articleshow/130849892.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-05-06T11:09:39.507461+00:00",
-      "last_seen_at": "2026-05-06T23:54:23.322341+00:00"
-    },
     "https://www.france24.com/en/tv-shows/business/20260506-samsung-electronics-reaches-1-trillion-market-cap-thanks-to-surging-demand-for-ai-chips": {
       "title": "삼성전자, AI 칩 수요 급증에 힘입어 시가총액 1조 달러 돌파",
       "link": "https://www.france24.com/en/tv-shows/business/20260506-samsung-electronics-reaches-1-trillion-market-cap-thanks-to-surging-demand-for-ai-chips",
@@ -34,50 +23,6 @@
       ],
       "first_seen_at": "2026-05-06T11:09:39.507461+00:00",
       "last_seen_at": "2026-05-07T11:11:30.332092+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/samsung-reaches-1-trillion-valuation-whats-fuelling-the-ai-chip-surge/articleshow/130845227.cms": {
-      "title": "삼성, 시가총액 1조 달러 돌파: AI 칩 수요 급증의 원동력은 무엇일까?",
-      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-reaches-1-trillion-valuation-whats-fuelling-the-ai-chip-surge/articleshow/130845227.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-05-06T11:09:39.507461+00:00",
-      "last_seen_at": "2026-05-06T23:54:23.322341+00:00"
-    },
-    "https://abcnews.com/International/wireStory/south-koreas-kospi-soars-7-fresh-records-samsung-132696319": {
-      "title": "한국의 코스피 지수가 삼성전자 주가가 거의 13% 급등하면서 7% 가까이 상승해 사상 최고치를 경신했습니다.",
-      "link": "https://abcnews.com/International/wireStory/south-koreas-kospi-soars-7-fresh-records-samsung-132696319",
-      "source_name": "ABC News International",
-      "country_code": "US",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-05-06T11:09:39.507461+00:00",
-      "last_seen_at": "2026-05-06T23:54:23.322341+00:00"
-    },
-    "https://www.channelnewsasia.com/business/samsung-electronics-market-value-ai-chip-boom-6102711": {
-      "title": "삼성전자 시가총액, AI 칩 붐에 힘입어 1조 달러 돌파",
-      "link": "https://www.channelnewsasia.com/business/samsung-electronics-market-value-ai-chip-boom-6102711",
-      "source_name": "CNA Asia",
-      "country_code": "SG",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-05-06T11:09:39.507461+00:00",
-      "last_seen_at": "2026-05-06T23:54:23.322341+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/samsung-hits-1-trillion-valuation-joins-tsmcs-elite-club-as-ai-chip-boom-powers-record-rally/articleshow/130842107.cms": {
-      "title": "삼성, AI 칩 호황에 힘입어 시가총액 1조 달러 돌파하며 TSMC의 엘리트 클럽에 합류…",
-      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-hits-1-trillion-valuation-joins-tsmcs-elite-club-as-ai-chip-boom-powers-record-rally/articleshow/130842107.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-05-06T11:09:39.507461+00:00",
-      "last_seen_at": "2026-05-06T23:54:23.322341+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-creta-revised-variant-launched-check-key-features-and-other-details/articleshow/130884963.cms": {
       "title": "현대 크레타 개량형 모델 출시: 주요 특징 및 기타 세부 정보 확인하기",
@@ -1980,6 +1925,17 @@
       ],
       "first_seen_at": "2026-06-19T12:50:04.115686+00:00",
       "last_seen_at": "2026-06-20T11:20:59.498115+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/intel-hires-former-sk-hynix-chief-lee-seok-hee-to-lead-advanced-packaging/articleshow/131875549.cms": {
+      "title": "Intel hires former SK hynix chief Lee Seok-hee to lead advanced packaging",
+      "link": "https://economictimes.indiatimes.com/tech/technology/intel-hires-former-sk-hynix-chief-lee-seok-hee-to-lead-advanced-packaging/articleshow/131875549.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-21T00:12:34.879135+00:00",
+      "last_seen_at": "2026-06-21T00:12:34.879135+00:00"
     }
   }
 }
