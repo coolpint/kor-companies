@@ -1,29 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-21T00:12:34.879135+00:00",
+  "last_run_at": "2026-06-21T11:47:44.048299+00:00",
   "seen_articles": {
-    "https://www.thehindubusinessline.com/companies/hyundai-reiterates-commitment-to-india-as-it-marks-30-years-of-operations-in-country/article70946484.ece": {
-      "title": "현대자동차는 인도 진출 30주년을 맞아 인도 시장에 대한 지속적인 지원을 재확인했습니다.",
-      "link": "https://www.thehindubusinessline.com/companies/hyundai-reiterates-commitment-to-india-as-it-marks-30-years-of-operations-in-country/article70946484.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-05-06T11:09:39.507461+00:00",
-      "last_seen_at": "2026-05-07T11:11:30.332092+00:00"
-    },
-    "https://www.france24.com/en/tv-shows/business/20260506-samsung-electronics-reaches-1-trillion-market-cap-thanks-to-surging-demand-for-ai-chips": {
-      "title": "삼성전자, AI 칩 수요 급증에 힘입어 시가총액 1조 달러 돌파",
-      "link": "https://www.france24.com/en/tv-shows/business/20260506-samsung-electronics-reaches-1-trillion-market-cap-thanks-to-surging-demand-for-ai-chips",
-      "source_name": "France 24 Business / Tech",
-      "country_code": "FR",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-05-06T11:09:39.507461+00:00",
-      "last_seen_at": "2026-05-07T11:11:30.332092+00:00"
-    },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-creta-revised-variant-launched-check-key-features-and-other-details/articleshow/130884963.cms": {
       "title": "현대 크레타 개량형 모델 출시: 주요 특징 및 기타 세부 정보 확인하기",
       "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-creta-revised-variant-launched-check-key-features-and-other-details/articleshow/130884963.cms",
@@ -1935,7 +1913,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-21T00:12:34.879135+00:00",
-      "last_seen_at": "2026-06-21T00:12:34.879135+00:00"
+      "last_seen_at": "2026-06-21T11:47:44.048299+00:00"
     }
   }
 }
