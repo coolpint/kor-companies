@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-21T11:47:44.048299+00:00",
+  "last_run_at": "2026-06-22T00:15:48.311100+00:00",
   "seen_articles": {
-    "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-creta-revised-variant-launched-check-key-features-and-other-details/articleshow/130884963.cms": {
-      "title": "현대 크레타 개량형 모델 출시: 주요 특징 및 기타 세부 정보 확인하기",
-      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-creta-revised-variant-launched-check-key-features-and-other-details/articleshow/130884963.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-05-07T11:11:30.332092+00:00",
-      "last_seen_at": "2026-05-07T23:56:55.385214+00:00"
-    },
     "https://www.scmp.com/business/companies/article/3352690/samsung-halts-all-home-appliance-sales-china-pivot-ai-accelerates": {
       "title": "삼성은 인공지능(AI)으로의 전환을 가속화하기 위해 중국 내 모든 가전제품 판매를 중단했습니다.",
       "link": "https://www.scmp.com/business/companies/article/3352690/samsung-halts-all-home-appliance-sales-china-pivot-ai-accelerates",
