@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-23T00:11:58.103502+00:00",
+  "last_run_at": "2026-06-23T12:09:54.834706+00:00",
   "seen_articles": {
-    "https://www.straitstimes.com/business/companies-markets/sk-hynix-flooded-with-unprecedented-offers-from-big-tech-firms-to-secure-chip-supplies": {
-      "title": "SK하이닉스는 반도체 공급 확보를 위해 대형 IT 기업들로부터 전례 없는 제안을 쏟아냈다.",
-      "link": "https://www.straitstimes.com/business/companies-markets/sk-hynix-flooded-with-unprecedented-offers-from-big-tech-firms-to-secure-chip-supplies",
-      "source_name": "The Straits Times",
-      "country_code": "SG",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-05-08T10:26:49.872760+00:00",
-      "last_seen_at": "2026-05-09T10:10:12.058785+00:00"
-    },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-india-plans-7500-cr-capex-for-fy27-as-q4-net-falls/articleshow/130966412.cms": {
       "title": "현대 인도 법인, 4분기 순이익 감소에 따라 2027 회계연도에 7,500억 루피 규모의 자본 지출 계획",
       "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-india-plans-7500-cr-capex-for-fy27-as-q4-net-falls/articleshow/130966412.cms",
@@ -67,17 +56,6 @@
       ],
       "first_seen_at": "2026-05-08T23:58:19.604671+00:00",
       "last_seen_at": "2026-05-09T23:54:22.536659+00:00"
-    },
-    "https://www.channelnewsasia.com/business/hyundai-motor-india-targets-8-10-domestic-sales-growth-tax-cuts-boost-demand-6109406": {
-      "title": "현대자동차 인도법인은 세금 감면으로 수요가 증가함에 따라 국내 판매 8~10% 성장 목표를 설정했습니다.",
-      "link": "https://www.channelnewsasia.com/business/hyundai-motor-india-targets-8-10-domestic-sales-growth-tax-cuts-boost-demand-6109406",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-05-08T23:58:19.604671+00:00",
-      "last_seen_at": "2026-05-09T10:10:12.058785+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/sk-hynix-flooded-with-unprecedented-offers-from-big-tech-firms-to-secure-chip-supplies/articleshow/130992487.cms": {
       "title": "SK하이닉스는 반도체 공급 확보를 위해 대형 IT 기업들로부터 전례 없는 제안을 쏟아냈다.",
@@ -1880,7 +1858,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-22T14:44:49.580634+00:00",
-      "last_seen_at": "2026-06-23T00:11:58.103502+00:00"
+      "last_seen_at": "2026-06-23T12:09:54.834706+00:00"
     },
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/sk-hynix-dethrones-samsung-electronics-as-south-koreas-most-valuable-company/articleshow/131901768.cms": {
       "title": "SK Hynix dethrones Samsung Electronics as South Korea's most valuable company",
@@ -1903,7 +1881,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-22T14:44:49.580634+00:00",
-      "last_seen_at": "2026-06-23T00:11:58.103502+00:00"
+      "last_seen_at": "2026-06-23T12:09:54.834706+00:00"
     },
     "https://www.channelnewsasia.com/business/sk-hynix-surpasses-samsung-electronics-become-south-koreas-most-valuable-firm-6199426": {
       "title": "SK Hynix surpasses Samsung Electronics to become South Korea's most valuable firm",
@@ -1916,6 +1894,83 @@
       ],
       "first_seen_at": "2026-06-22T14:44:49.580634+00:00",
       "last_seen_at": "2026-06-22T14:44:49.580634+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/samsungs-hbm4-sales-cross-1-billion-within-four-months/articleshow/131929863.cms": {
+      "title": "Samsung's HBM4 sales cross $1 billion within four months",
+      "link": "https://economictimes.indiatimes.com/tech/technology/samsungs-hbm4-sales-cross-1-billion-within-four-months/articleshow/131929863.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-06-23T12:09:54.834706+00:00",
+      "last_seen_at": "2026-06-23T12:09:54.834706+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/artificial-intelligence/in-south-korea-a-job-or-partner-at-samsung-sk-hynix-is-the-new-a-catch/articleshow/131929840.cms": {
+      "title": "In South Korea, a job or partner at Samsung, SK Hynix is the new 'A+' catch",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/in-south-korea-a-job-or-partner-at-samsung-sk-hynix-is-the-new-a-catch/articleshow/131929840.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-23T12:09:54.834706+00:00",
+      "last_seen_at": "2026-06-23T12:09:54.834706+00:00"
+    },
+    "https://www.channelnewsasia.com/business/south-korea-kospi-samsung-sk-hynix-6203156": {
+      "title": "South Korea's KOSPI tanks nearly 10% to lead tech-fuelled Asia rout",
+      "link": "https://www.channelnewsasia.com/business/south-korea-kospi-samsung-sk-hynix-6203156",
+      "source_name": "CNA Asia",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-23T12:09:54.834706+00:00",
+      "last_seen_at": "2026-06-23T12:09:54.834706+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-deploys-chatgpt-enterprise-codex-globally-3-years-after-ai-curbs/articleshow/131925669.cms": {
+      "title": "Samsung deploys ChatGPT Enterprise, Codex globally 3 years after AI curbs",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-deploys-chatgpt-enterprise-codex-globally-3-years-after-ai-curbs/articleshow/131925669.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-06-23T12:09:54.834706+00:00",
+      "last_seen_at": "2026-06-23T12:09:54.834706+00:00"
+    },
+    "https://www.straitstimes.com/business/companies-markets/sk-hynix-etfs-assets-soar-to-21-7-billion-making-it-biggest-in-hong-kong": {
+      "title": "SK Hynix ETF’s assets soar to $21.7 billion, making it biggest in Hong Kong",
+      "link": "https://www.straitstimes.com/business/companies-markets/sk-hynix-etfs-assets-soar-to-21-7-billion-making-it-biggest-in-hong-kong",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-23T12:09:54.834706+00:00",
+      "last_seen_at": "2026-06-23T12:09:54.834706+00:00"
+    },
+    "https://www.straitstimes.com/business/companies-markets/in-south-korea-a-job-or-partner-at-samsung-sk-hynix-is-the-new-a-catch": {
+      "title": "In South Korea, a job or partner at Samsung, SK Hynix is the new ‘A+’ catch",
+      "link": "https://www.straitstimes.com/business/companies-markets/in-south-korea-a-job-or-partner-at-samsung-sk-hynix-is-the-new-a-catch",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-23T12:09:54.834706+00:00",
+      "last_seen_at": "2026-06-23T12:09:54.834706+00:00"
+    },
+    "https://www.channelnewsasia.com/business/in-south-korea-job-or-partner-samsung-sk-hynix-new-catch-6202316": {
+      "title": "In South Korea, a job or partner at Samsung, SK Hynix is the new 'A+' catch",
+      "link": "https://www.channelnewsasia.com/business/in-south-korea-job-or-partner-samsung-sk-hynix-new-catch-6202316",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-23T12:09:54.834706+00:00",
+      "last_seen_at": "2026-06-23T12:09:54.834706+00:00"
     }
   }
 }
