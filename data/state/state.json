@@ -1,62 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-23T12:09:54.834706+00:00",
+  "last_run_at": "2026-06-24T00:02:13.914160+00:00",
   "seen_articles": {
-    "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-india-plans-7500-cr-capex-for-fy27-as-q4-net-falls/articleshow/130966412.cms": {
-      "title": "현대 인도 법인, 4분기 순이익 감소에 따라 2027 회계연도에 7,500억 루피 규모의 자본 지출 계획",
-      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-india-plans-7500-cr-capex-for-fy27-as-q4-net-falls/articleshow/130966412.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-05-08T23:58:19.604671+00:00",
-      "last_seen_at": "2026-05-09T23:54:22.536659+00:00"
-    },
-    "https://www.thehindubusinessline.com/companies/high-commodity-prices-uncertainties-in-global-markets-hit-hyundai-motors-q4-net-profit-by-22/article70955005.ece": {
-      "title": "원자재 가격 상승과 글로벌 시장 불확실성으로 인해 현대자동차의 4분기 순이익이 22% 감소했습니다.",
-      "link": "https://www.thehindubusinessline.com/companies/high-commodity-prices-uncertainties-in-global-markets-hit-hyundai-motors-q4-net-profit-by-22/article70955005.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-05-08T23:58:19.604671+00:00",
-      "last_seen_at": "2026-05-09T23:54:22.536659+00:00"
-    },
-    "https://www.thehindubusinessline.com/markets/q4-results-today-highlights-sbi-titan-abb-hyundai-bob-tata-consumer-mcx-swiggy-kalyan-jewellers-urban-company-bse-kvb-biocon-dabur-lupin-acme-cartrade-mrf-results-08-may-2026/article70953813.ece": {
-      "title": "오늘 발표된 4분기 실적 주요 내용: SBI 순이익 5.6% 증가, Swiggy 4분기 손실 축소, 현대자동차 이익 감소, Urban Company 손실 확대, Titan, Kalyan Jewellers 및 Vedant Fashions 4분기 이익 전년 동기 대비 증가, ABB India, BoB, TCP, MCX, Niva Bupa 4분기 실적 발표",
-      "link": "https://www.thehindubusinessline.com/markets/q4-results-today-highlights-sbi-titan-abb-hyundai-bob-tata-consumer-mcx-swiggy-kalyan-jewellers-urban-company-bse-kvb-biocon-dabur-lupin-acme-cartrade-mrf-results-08-may-2026/article70953813.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-05-08T23:58:19.604671+00:00",
-      "last_seen_at": "2026-05-09T23:54:22.536659+00:00"
-    },
-    "https://www.thehindubusinessline.com/companies/hyundai-motor-india-q4-profit-declines-222-to-rs-125563-cr/article70955281.ece": {
-      "title": "현대자동차 인도법인의 4분기 순이익은 22.2% 감소한 1,255억 6,300만 루피를 기록했습니다.",
-      "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-q4-profit-declines-222-to-rs-125563-cr/article70955281.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-05-08T23:58:19.604671+00:00",
-      "last_seen_at": "2026-05-09T23:54:22.536659+00:00"
-    },
-    "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-india-lines-up-rs-7500-cr-capex-for-fy27-eyes-to-reclaim-no-2-spot/articleshow/130960395.cms": {
-      "title": "현대자동차 인도법인, 2027 회계연도에 7,500억 루피 규모 자본 투자 계획…2위 자리 탈환 목표",
-      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-india-lines-up-rs-7500-cr-capex-for-fy27-eyes-to-reclaim-no-2-spot/articleshow/130960395.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-05-08T23:58:19.604671+00:00",
-      "last_seen_at": "2026-05-09T23:54:22.536659+00:00"
-    },
     "https://economictimes.indiatimes.com/tech/technology/sk-hynix-flooded-with-unprecedented-offers-from-big-tech-firms-to-secure-chip-supplies/articleshow/130992487.cms": {
       "title": "SK하이닉스는 반도체 공급 확보를 위해 대형 IT 기업들로부터 전례 없는 제안을 쏟아냈다.",
       "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-flooded-with-unprecedented-offers-from-big-tech-firms-to-secure-chip-supplies/articleshow/130992487.cms",
@@ -1858,7 +1803,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-22T14:44:49.580634+00:00",
-      "last_seen_at": "2026-06-23T12:09:54.834706+00:00"
+      "last_seen_at": "2026-06-24T00:02:13.914160+00:00"
     },
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/sk-hynix-dethrones-samsung-electronics-as-south-koreas-most-valuable-company/articleshow/131901768.cms": {
       "title": "SK Hynix dethrones Samsung Electronics as South Korea's most valuable company",
@@ -1904,7 +1849,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-06-23T12:09:54.834706+00:00",
-      "last_seen_at": "2026-06-23T12:09:54.834706+00:00"
+      "last_seen_at": "2026-06-24T00:02:13.914160+00:00"
     },
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/in-south-korea-a-job-or-partner-at-samsung-sk-hynix-is-the-new-a-catch/articleshow/131929840.cms": {
       "title": "In South Korea, a job or partner at Samsung, SK Hynix is the new 'A+' catch",
@@ -1915,7 +1860,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-23T12:09:54.834706+00:00",
-      "last_seen_at": "2026-06-23T12:09:54.834706+00:00"
+      "last_seen_at": "2026-06-24T00:02:13.914160+00:00"
     },
     "https://www.channelnewsasia.com/business/south-korea-kospi-samsung-sk-hynix-6203156": {
       "title": "South Korea's KOSPI tanks nearly 10% to lead tech-fuelled Asia rout",
@@ -1926,7 +1871,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-23T12:09:54.834706+00:00",
-      "last_seen_at": "2026-06-23T12:09:54.834706+00:00"
+      "last_seen_at": "2026-06-24T00:02:13.914160+00:00"
     },
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-deploys-chatgpt-enterprise-codex-globally-3-years-after-ai-curbs/articleshow/131925669.cms": {
       "title": "Samsung deploys ChatGPT Enterprise, Codex globally 3 years after AI curbs",
@@ -1937,7 +1882,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-06-23T12:09:54.834706+00:00",
-      "last_seen_at": "2026-06-23T12:09:54.834706+00:00"
+      "last_seen_at": "2026-06-24T00:02:13.914160+00:00"
     },
     "https://www.straitstimes.com/business/companies-markets/sk-hynix-etfs-assets-soar-to-21-7-billion-making-it-biggest-in-hong-kong": {
       "title": "SK Hynix ETF’s assets soar to $21.7 billion, making it biggest in Hong Kong",
@@ -1948,7 +1893,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-23T12:09:54.834706+00:00",
-      "last_seen_at": "2026-06-23T12:09:54.834706+00:00"
+      "last_seen_at": "2026-06-24T00:02:13.914160+00:00"
     },
     "https://www.straitstimes.com/business/companies-markets/in-south-korea-a-job-or-partner-at-samsung-sk-hynix-is-the-new-a-catch": {
       "title": "In South Korea, a job or partner at Samsung, SK Hynix is the new ‘A+’ catch",
@@ -1959,7 +1904,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-23T12:09:54.834706+00:00",
-      "last_seen_at": "2026-06-23T12:09:54.834706+00:00"
+      "last_seen_at": "2026-06-24T00:02:13.914160+00:00"
     },
     "https://www.channelnewsasia.com/business/in-south-korea-job-or-partner-samsung-sk-hynix-new-catch-6202316": {
       "title": "In South Korea, a job or partner at Samsung, SK Hynix is the new 'A+' catch",
