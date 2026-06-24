@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-24T00:02:13.914160+00:00",
+  "last_run_at": "2026-06-24T11:47:41.667251+00:00",
   "seen_articles": {
     "https://economictimes.indiatimes.com/tech/technology/sk-hynix-flooded-with-unprecedented-offers-from-big-tech-firms-to-secure-chip-supplies/articleshow/130992487.cms": {
       "title": "SK하이닉스는 반도체 공급 확보를 위해 대형 IT 기업들로부터 전례 없는 제안을 쏟아냈다.",
@@ -1871,7 +1871,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-23T12:09:54.834706+00:00",
-      "last_seen_at": "2026-06-24T00:02:13.914160+00:00"
+      "last_seen_at": "2026-06-24T11:47:41.667251+00:00"
     },
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-deploys-chatgpt-enterprise-codex-globally-3-years-after-ai-curbs/articleshow/131925669.cms": {
       "title": "Samsung deploys ChatGPT Enterprise, Codex globally 3 years after AI curbs",
@@ -1893,7 +1893,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-23T12:09:54.834706+00:00",
-      "last_seen_at": "2026-06-24T00:02:13.914160+00:00"
+      "last_seen_at": "2026-06-24T11:47:41.667251+00:00"
     },
     "https://www.straitstimes.com/business/companies-markets/in-south-korea-a-job-or-partner-at-samsung-sk-hynix-is-the-new-a-catch": {
       "title": "In South Korea, a job or partner at Samsung, SK Hynix is the new ‘A+’ catch",
@@ -1904,7 +1904,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-23T12:09:54.834706+00:00",
-      "last_seen_at": "2026-06-24T00:02:13.914160+00:00"
+      "last_seen_at": "2026-06-24T11:47:41.667251+00:00"
     },
     "https://www.channelnewsasia.com/business/in-south-korea-job-or-partner-samsung-sk-hynix-new-catch-6202316": {
       "title": "In South Korea, a job or partner at Samsung, SK Hynix is the new 'A+' catch",
@@ -1916,6 +1916,128 @@
       ],
       "first_seen_at": "2026-06-23T12:09:54.834706+00:00",
       "last_seen_at": "2026-06-23T12:09:54.834706+00:00"
+    },
+    "https://www.cnbc.com/2026/06/24/sk-hynix-nasdaq-adr-listing-south-korea.html": {
+      "title": "South Korea’s biggest chipmaker SK Hynix plans to raise $29 billion via Nasdaq listing",
+      "link": "https://www.cnbc.com/2026/06/24/sk-hynix-nasdaq-adr-listing-south-korea.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-24T11:47:41.667251+00:00",
+      "last_seen_at": "2026-06-24T11:47:41.667251+00:00"
+    },
+    "https://www.ft.com/content/3f052dba-78a4-43bb-af45-9af2f3441fd5": {
+      "title": "SK Hynix bets on AI demand with bumper $29bn US listing",
+      "link": "https://www.ft.com/content/3f052dba-78a4-43bb-af45-9af2f3441fd5",
+      "source_name": "Financial Times Companies",
+      "country_code": "GB",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-24T11:47:41.667251+00:00",
+      "last_seen_at": "2026-06-24T11:47:41.667251+00:00"
+    },
+    "https://www.ft.com/content/e5f2892a-d3b1-4779-88db-8d3b034b078a": {
+      "title": "Hyundai workers in South Korea vote to strike over fears of robots replacing them",
+      "link": "https://www.ft.com/content/e5f2892a-d3b1-4779-88db-8d3b034b078a",
+      "source_name": "Financial Times Companies",
+      "country_code": "GB",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-06-24T11:47:41.667251+00:00",
+      "last_seen_at": "2026-06-24T11:47:41.667251+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-union-approves-strike-amid-stalled-wage-talks-threatening-production-disruptions/articleshow/131962487.cms": {
+      "title": "Hyundai Motor's South Korean union approves strike action over stalled wage talks",
+      "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-union-approves-strike-amid-stalled-wage-talks-threatening-production-disruptions/articleshow/131962487.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-06-24T11:47:41.667251+00:00",
+      "last_seen_at": "2026-06-24T11:47:41.667251+00:00"
+    },
+    "https://www.marketwatch.com/story/coming-to-america-sk-hynix-plans-depository-receipt-listing-on-the-nasdaq-c3c9695e?mod=mw_rss_topstories": {
+      "title": "Coming to America: SK Hynix plans depository receipt listing on the Nasdaq",
+      "link": "https://www.marketwatch.com/story/coming-to-america-sk-hynix-plans-depository-receipt-listing-on-the-nasdaq-c3c9695e?mod=mw_rss_topstories",
+      "source_name": "MarketWatch Top Stories",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-24T11:47:41.667251+00:00",
+      "last_seen_at": "2026-06-24T11:47:41.667251+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/how-sk-hynixs-bet-on-a-niche-memory-chip-made-it-more-valuable-than-samsung/articleshow/131961600.cms": {
+      "title": "How SK Hynix's bet on a niche memory chip made it more valuable than Samsung",
+      "link": "https://economictimes.indiatimes.com/tech/technology/how-sk-hynixs-bet-on-a-niche-memory-chip-made-it-more-valuable-than-samsung/articleshow/131961600.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Samsung Electronics",
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-24T11:47:41.667251+00:00",
+      "last_seen_at": "2026-06-24T11:47:41.667251+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/south-koreas-sk-hynix-says-to-raise-29-billion-in-adr-listing/articleshow/131960850.cms": {
+      "title": "South Korea's SK Hynix says to raise $29 billion in ADR listing",
+      "link": "https://economictimes.indiatimes.com/tech/technology/south-koreas-sk-hynix-says-to-raise-29-billion-in-adr-listing/articleshow/131960850.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-24T11:47:41.667251+00:00",
+      "last_seen_at": "2026-06-24T11:47:41.667251+00:00"
+    },
+    "https://www.marketwatch.com/story/worlds-hottest-stock-market-rallies-after-10-plunge-156f47fa?mod=mw_rss_topstories": {
+      "title": "World’s hottest stock market rallies after 10% plunge",
+      "link": "https://www.marketwatch.com/story/worlds-hottest-stock-market-rallies-after-10-plunge-156f47fa?mod=mw_rss_topstories",
+      "source_name": "MarketWatch Top Stories",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-24T11:47:41.667251+00:00",
+      "last_seen_at": "2026-06-24T11:47:41.667251+00:00"
+    },
+    "https://www.channelnewsasia.com/business/south-koreas-sk-hynix-says-raise-29-billion-in-us-adr-listing-6206421": {
+      "title": "South Korea's SK Hynix says to raise $29 billion in US ADR listing",
+      "link": "https://www.channelnewsasia.com/business/south-koreas-sk-hynix-says-raise-29-billion-in-us-adr-listing-6206421",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-24T11:47:41.667251+00:00",
+      "last_seen_at": "2026-06-24T11:47:41.667251+00:00"
+    },
+    "https://www.ft.com/content/f17f318c-ec77-433c-be79-fce191bd78d5": {
+      "title": "South Korea stock volatility hits record high amid AI doubts",
+      "link": "https://www.ft.com/content/f17f318c-ec77-433c-be79-fce191bd78d5",
+      "source_name": "Financial Times World",
+      "country_code": "GB",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-24T11:47:41.667251+00:00",
+      "last_seen_at": "2026-06-24T11:47:41.667251+00:00"
+    },
+    "https://www.channelnewsasia.com/east-asia/kospi-bounces-asian-markets-recover-rout-6205361": {
+      "title": "KOSPI bounces back as Asian markets look to recover from rout",
+      "link": "https://www.channelnewsasia.com/east-asia/kospi-bounces-asian-markets-recover-rout-6205361",
+      "source_name": "CNA Asia",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-24T11:47:41.667251+00:00",
+      "last_seen_at": "2026-06-24T11:47:41.667251+00:00"
     }
   }
 }
