@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-24T11:47:41.667251+00:00",
+  "last_run_at": "2026-06-25T00:16:57.917232+00:00",
   "seen_articles": {
     "https://economictimes.indiatimes.com/tech/technology/sk-hynix-flooded-with-unprecedented-offers-from-big-tech-firms-to-secure-chip-supplies/articleshow/130992487.cms": {
       "title": "SK하이닉스는 반도체 공급 확보를 위해 대형 IT 기업들로부터 전례 없는 제안을 쏟아냈다.",
@@ -1918,15 +1918,15 @@
       "last_seen_at": "2026-06-23T12:09:54.834706+00:00"
     },
     "https://www.cnbc.com/2026/06/24/sk-hynix-nasdaq-adr-listing-south-korea.html": {
-      "title": "South Korea’s biggest chipmaker SK Hynix plans to raise $29 billion via Nasdaq listing",
+      "title": "South Korea’s biggest chipmaker SK Hynix plans to raise $29 billion via Nasdaq listing as soon as July 10",
       "link": "https://www.cnbc.com/2026/06/24/sk-hynix-nasdaq-adr-listing-south-korea.html",
-      "source_name": "CNBC Top News",
+      "source_name": "CNBC World News",
       "country_code": "US",
       "companies": [
         "SK hynix"
       ],
       "first_seen_at": "2026-06-24T11:47:41.667251+00:00",
-      "last_seen_at": "2026-06-24T11:47:41.667251+00:00"
+      "last_seen_at": "2026-06-25T00:16:57.917232+00:00"
     },
     "https://www.ft.com/content/3f052dba-78a4-43bb-af45-9af2f3441fd5": {
       "title": "SK Hynix bets on AI demand with bumper $29bn US listing",
@@ -1959,7 +1959,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-06-24T11:47:41.667251+00:00",
-      "last_seen_at": "2026-06-24T11:47:41.667251+00:00"
+      "last_seen_at": "2026-06-25T00:16:57.917232+00:00"
     },
     "https://www.marketwatch.com/story/coming-to-america-sk-hynix-plans-depository-receipt-listing-on-the-nasdaq-c3c9695e?mod=mw_rss_topstories": {
       "title": "Coming to America: SK Hynix plans depository receipt listing on the Nasdaq",
@@ -1982,7 +1982,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-24T11:47:41.667251+00:00",
-      "last_seen_at": "2026-06-24T11:47:41.667251+00:00"
+      "last_seen_at": "2026-06-25T00:16:57.917232+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/south-koreas-sk-hynix-says-to-raise-29-billion-in-adr-listing/articleshow/131960850.cms": {
       "title": "South Korea's SK Hynix says to raise $29 billion in ADR listing",
@@ -1993,7 +1993,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-24T11:47:41.667251+00:00",
-      "last_seen_at": "2026-06-24T11:47:41.667251+00:00"
+      "last_seen_at": "2026-06-25T00:16:57.917232+00:00"
     },
     "https://www.marketwatch.com/story/worlds-hottest-stock-market-rallies-after-10-plunge-156f47fa?mod=mw_rss_topstories": {
       "title": "World’s hottest stock market rallies after 10% plunge",
@@ -2037,7 +2037,51 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-24T11:47:41.667251+00:00",
-      "last_seen_at": "2026-06-24T11:47:41.667251+00:00"
+      "last_seen_at": "2026-06-25T00:16:57.917232+00:00"
+    },
+    "https://www.taipeitimes.com/News/biz/archives/2026/06/25/2003859678": {
+      "title": "SK Hynix seeks US$29bn with new US listing",
+      "link": "https://www.taipeitimes.com/News/biz/archives/2026/06/25/2003859678",
+      "source_name": "Taipei Times",
+      "country_code": "TW",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-25T00:16:57.917232+00:00",
+      "last_seen_at": "2026-06-25T00:16:57.917232+00:00"
+    },
+    "https://www.theglobeandmail.com/investing/article-sk-hynix-targets-29-billion-us-listing": {
+      "title": "South Korea’s SK Hynix targets $29-billion U.S. listing",
+      "link": "https://www.theglobeandmail.com/investing/article-sk-hynix-targets-29-billion-us-listing",
+      "source_name": "The Globe and Mail Business",
+      "country_code": "CA",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-25T00:16:57.917232+00:00",
+      "last_seen_at": "2026-06-25T00:16:57.917232+00:00"
+    },
+    "https://www.bangkokpost.com/world/3275977/hyundai-motor-workers-back-strike-for-big-bonuses": {
+      "title": "Hyundai Motor workers back strike for big bonuses",
+      "link": "https://www.bangkokpost.com/world/3275977/hyundai-motor-workers-back-strike-for-big-bonuses",
+      "source_name": "Bangkok Post World",
+      "country_code": "TH",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-06-25T00:16:57.917232+00:00",
+      "last_seen_at": "2026-06-25T00:16:57.917232+00:00"
+    },
+    "https://www.straitstimes.com/business/sk-hynix-targets-38b-us-listing-as-ai-demand-surges": {
+      "title": "SK Hynix targets $38b US listing as AI demand surges",
+      "link": "https://www.straitstimes.com/business/sk-hynix-targets-38b-us-listing-as-ai-demand-surges",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-25T00:16:57.917232+00:00",
+      "last_seen_at": "2026-06-25T00:16:57.917232+00:00"
     }
   }
 }
