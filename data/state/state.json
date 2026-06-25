@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-25T00:16:57.917232+00:00",
+  "last_run_at": "2026-06-25T11:41:41.942190+00:00",
   "seen_articles": {
     "https://economictimes.indiatimes.com/tech/technology/sk-hynix-flooded-with-unprecedented-offers-from-big-tech-firms-to-secure-chip-supplies/articleshow/130992487.cms": {
       "title": "SK하이닉스는 반도체 공급 확보를 위해 대형 IT 기업들로부터 전례 없는 제안을 쏟아냈다.",
@@ -1920,13 +1920,13 @@
     "https://www.cnbc.com/2026/06/24/sk-hynix-nasdaq-adr-listing-south-korea.html": {
       "title": "South Korea’s biggest chipmaker SK Hynix plans to raise $29 billion via Nasdaq listing as soon as July 10",
       "link": "https://www.cnbc.com/2026/06/24/sk-hynix-nasdaq-adr-listing-south-korea.html",
-      "source_name": "CNBC World News",
+      "source_name": "CNBC Technology",
       "country_code": "US",
       "companies": [
         "SK hynix"
       ],
       "first_seen_at": "2026-06-24T11:47:41.667251+00:00",
-      "last_seen_at": "2026-06-25T00:16:57.917232+00:00"
+      "last_seen_at": "2026-06-25T11:41:41.942190+00:00"
     },
     "https://www.ft.com/content/3f052dba-78a4-43bb-af45-9af2f3441fd5": {
       "title": "SK Hynix bets on AI demand with bumper $29bn US listing",
@@ -1982,7 +1982,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-24T11:47:41.667251+00:00",
-      "last_seen_at": "2026-06-25T00:16:57.917232+00:00"
+      "last_seen_at": "2026-06-25T11:41:41.942190+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/south-koreas-sk-hynix-says-to-raise-29-billion-in-adr-listing/articleshow/131960850.cms": {
       "title": "South Korea's SK Hynix says to raise $29 billion in ADR listing",
@@ -1993,7 +1993,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-24T11:47:41.667251+00:00",
-      "last_seen_at": "2026-06-25T00:16:57.917232+00:00"
+      "last_seen_at": "2026-06-25T11:41:41.942190+00:00"
     },
     "https://www.marketwatch.com/story/worlds-hottest-stock-market-rallies-after-10-plunge-156f47fa?mod=mw_rss_topstories": {
       "title": "World’s hottest stock market rallies after 10% plunge",
@@ -2037,7 +2037,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-24T11:47:41.667251+00:00",
-      "last_seen_at": "2026-06-25T00:16:57.917232+00:00"
+      "last_seen_at": "2026-06-25T11:41:41.942190+00:00"
     },
     "https://www.taipeitimes.com/News/biz/archives/2026/06/25/2003859678": {
       "title": "SK Hynix seeks US$29bn with new US listing",
@@ -2048,7 +2048,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-25T00:16:57.917232+00:00",
-      "last_seen_at": "2026-06-25T00:16:57.917232+00:00"
+      "last_seen_at": "2026-06-25T11:41:41.942190+00:00"
     },
     "https://www.theglobeandmail.com/investing/article-sk-hynix-targets-29-billion-us-listing": {
       "title": "South Korea’s SK Hynix targets $29-billion U.S. listing",
@@ -2059,7 +2059,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-25T00:16:57.917232+00:00",
-      "last_seen_at": "2026-06-25T00:16:57.917232+00:00"
+      "last_seen_at": "2026-06-25T11:41:41.942190+00:00"
     },
     "https://www.bangkokpost.com/world/3275977/hyundai-motor-workers-back-strike-for-big-bonuses": {
       "title": "Hyundai Motor workers back strike for big bonuses",
@@ -2081,7 +2081,51 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-25T00:16:57.917232+00:00",
-      "last_seen_at": "2026-06-25T00:16:57.917232+00:00"
+      "last_seen_at": "2026-06-25T11:41:41.942190+00:00"
+    },
+    "https://www.marketwatch.com/story/why-sk-hynixs-30-billion-u-s-listing-could-be-a-double-edged-sword-for-microns-stock-f4483b0d?mod=mw_rss_topstories": {
+      "title": "SK Hynix’s stock soars, and its planned U.S. listing could prove a double-edged sword for Micron",
+      "link": "https://www.marketwatch.com/story/why-sk-hynixs-30-billion-u-s-listing-could-be-a-double-edged-sword-for-microns-stock-f4483b0d?mod=mw_rss_topstories",
+      "source_name": "MarketWatch Top Stories",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-25T11:41:41.942190+00:00",
+      "last_seen_at": "2026-06-25T11:41:41.942190+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/alpha-wave-sells-entire-1-9-stake-in-delhivery-stock-falls-over-2-pc/articleshow/131987535.cms": {
+      "title": "Alpha Wave sells entire 1.9% stake in Delhivery; stock falls over 2%",
+      "link": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/alpha-wave-sells-entire-1-9-stake-in-delhivery-stock-falls-over-2-pc/articleshow/131987535.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Mirae Asset"
+      ],
+      "first_seen_at": "2026-06-25T11:41:41.942190+00:00",
+      "last_seen_at": "2026-06-25T11:41:41.942190+00:00"
+    },
+    "https://asia.nikkei.com/business/markets/equities/sk-hynix-jumps-15-on-nasdaq-adr-listing-plan": {
+      "title": "SK Hynix jumps 15% on Nasdaq ADR listing plan",
+      "link": "https://asia.nikkei.com/business/markets/equities/sk-hynix-jumps-15-on-nasdaq-adr-listing-plan",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-25T11:41:41.942190+00:00",
+      "last_seen_at": "2026-06-25T11:41:41.942190+00:00"
+    },
+    "https://www.cnbc.com/2026/06/25/chip-tech-stocks-sk-hynix-nasdaq-adr-listing-29-billion-ai-investment.html": {
+      "title": "SK Hynix surges 12% after Micron earnings; blockbuster Nasdaq listing",
+      "link": "https://www.cnbc.com/2026/06/25/chip-tech-stocks-sk-hynix-nasdaq-adr-listing-29-billion-ai-investment.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-25T11:41:41.942190+00:00",
+      "last_seen_at": "2026-06-25T11:41:41.942190+00:00"
     }
   }
 }
