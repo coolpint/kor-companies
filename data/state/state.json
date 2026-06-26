@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-26T00:13:49.439294+00:00",
+  "last_run_at": "2026-06-26T11:46:37.111145+00:00",
   "seen_articles": {
-    "https://www.ft.com/content/fefa0641-7fb0-4d78-81c8-0180f1b618ed": {
-      "title": "대통령 고문은 한국인 전원에게 AI 보너스를 지급해야 한다고 주장했습니다.",
-      "link": "https://www.ft.com/content/fefa0641-7fb0-4d78-81c8-0180f1b618ed",
-      "source_name": "Financial Times Companies",
-      "country_code": "GB",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-05-12T11:23:33.464590+00:00",
-      "last_seen_at": "2026-05-12T11:23:33.464590+00:00"
-    },
     "https://economictimes.indiatimes.com/tech/information-tech/samsung-electronics-labour-union-fail-to-reach-pay-deal-as-strike-looms/articleshow/131048860.cms": {
       "title": "삼성전자와 노동조합, 임금 협상 결렬…파업 임박",
       "link": "https://economictimes.indiatimes.com/tech/information-tech/samsung-electronics-labour-union-fail-to-reach-pay-deal-as-strike-looms/articleshow/131048860.cms",
@@ -2092,18 +2081,18 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-25T11:41:41.942190+00:00",
-      "last_seen_at": "2026-06-26T00:13:49.439294+00:00"
+      "last_seen_at": "2026-06-26T11:46:37.111145+00:00"
     },
     "https://www.cnbc.com/2026/06/25/chip-tech-stocks-sk-hynix-nasdaq-adr-listing-29-billion-ai-investment.html": {
       "title": "SK Hynix surges 12% after Micron earnings; blockbuster Nasdaq listing",
       "link": "https://www.cnbc.com/2026/06/25/chip-tech-stocks-sk-hynix-nasdaq-adr-listing-29-billion-ai-investment.html",
-      "source_name": "CNBC World News",
+      "source_name": "CNBC Technology",
       "country_code": "US",
       "companies": [
         "SK hynix"
       ],
       "first_seen_at": "2026-06-25T11:41:41.942190+00:00",
-      "last_seen_at": "2026-06-26T00:13:49.439294+00:00"
+      "last_seen_at": "2026-06-26T11:46:37.111145+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/cars-uvs/premium-family-suvs-that-offer-comfort-without-luxury-pricing/articleshow/131991684.cms": {
       "title": "Premium family SUVs that offer comfort without luxury pricing",
@@ -2115,6 +2104,52 @@
       ],
       "first_seen_at": "2026-06-26T00:13:49.439294+00:00",
       "last_seen_at": "2026-06-26T00:13:49.439294+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-koreas-favourite-ai-stocks-slide-again-drag-kospi-index-down-8/articleshow/132012720.cms": {
+      "title": "South Korea’s favourite AI stocks slide again, drag Kospi index down 8%",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-koreas-favourite-ai-stocks-slide-again-drag-kospi-index-down-8/articleshow/132012720.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Samsung Electronics",
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-26T11:46:37.111145+00:00",
+      "last_seen_at": "2026-06-26T11:46:37.111145+00:00"
+    },
+    "https://www.channelnewsasia.com/business/hyundai-recall-over-96000-us-vehicles-over-faulty-instrument-panel-display-nhtsa-says-6212611": {
+      "title": "Hyundai to recall over 96,000 US vehicles over faulty instrument panel display, NHTSA says",
+      "link": "https://www.channelnewsasia.com/business/hyundai-recall-over-96000-us-vehicles-over-faulty-instrument-panel-display-nhtsa-says-6212611",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-06-26T11:46:37.111145+00:00",
+      "last_seen_at": "2026-06-26T11:46:37.111145+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/south-koreas-kospi-plunges-more-than-8-as-chipmakers-slide-trading-halted/articleshow/132010191.cms": {
+      "title": "South Korean stocks in tailspin as Kospi crashes 8%, head for worst week since March",
+      "link": "https://economictimes.indiatimes.com/tech/technology/south-koreas-kospi-plunges-more-than-8-as-chipmakers-slide-trading-halted/articleshow/132010191.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Samsung Electronics",
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-26T11:46:37.111145+00:00",
+      "last_seen_at": "2026-06-26T11:46:37.111145+00:00"
+    },
+    "https://www.straitstimes.com/business/companies-markets/samsung-to-announce-839-billion-investments-in-south-korea-media-report-says": {
+      "title": "Samsung readies $839 billion investment plan, report says, as AI boom reshapes South Korea",
+      "link": "https://www.straitstimes.com/business/companies-markets/samsung-to-announce-839-billion-investments-in-south-korea-media-report-says",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-06-26T11:46:37.111145+00:00",
+      "last_seen_at": "2026-06-26T11:46:37.111145+00:00"
     }
   }
 }
