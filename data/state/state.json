@@ -1,29 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-25T11:41:41.942190+00:00",
+  "last_run_at": "2026-06-26T00:13:49.439294+00:00",
   "seen_articles": {
-    "https://economictimes.indiatimes.com/tech/technology/sk-hynix-flooded-with-unprecedented-offers-from-big-tech-firms-to-secure-chip-supplies/articleshow/130992487.cms": {
-      "title": "SK하이닉스는 반도체 공급 확보를 위해 대형 IT 기업들로부터 전례 없는 제안을 쏟아냈다.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-flooded-with-unprecedented-offers-from-big-tech-firms-to-secure-chip-supplies/articleshow/130992487.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-05-10T23:56:51.343853+00:00",
-      "last_seen_at": "2026-05-12T00:01:58.998025+00:00"
-    },
-    "https://www.scmp.com/news/asia/east-asia/article/3353109/robots-rescue-south-korea-looks-ai-solutions-dwindling-army-numbers": {
-      "title": "로봇이 구원투수가 될까? 한국, 병력 감축 문제 해결을 위해 인공지능 솔루션 모색",
-      "link": "https://www.scmp.com/news/asia/east-asia/article/3353109/robots-rescue-south-korea-looks-ai-solutions-dwindling-army-numbers",
-      "source_name": "South China Morning Post World",
-      "country_code": "HK",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-05-11T12:14:40.227227+00:00",
-      "last_seen_at": "2026-05-11T12:14:40.227227+00:00"
-    },
     "https://www.ft.com/content/fefa0641-7fb0-4d78-81c8-0180f1b618ed": {
       "title": "대통령 고문은 한국인 전원에게 AI 보너스를 지급해야 한다고 주장했습니다.",
       "link": "https://www.ft.com/content/fefa0641-7fb0-4d78-81c8-0180f1b618ed",
@@ -1926,7 +1904,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-24T11:47:41.667251+00:00",
-      "last_seen_at": "2026-06-25T11:41:41.942190+00:00"
+      "last_seen_at": "2026-06-26T00:13:49.439294+00:00"
     },
     "https://www.ft.com/content/3f052dba-78a4-43bb-af45-9af2f3441fd5": {
       "title": "SK Hynix bets on AI demand with bumper $29bn US listing",
@@ -2059,7 +2037,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-25T00:16:57.917232+00:00",
-      "last_seen_at": "2026-06-25T11:41:41.942190+00:00"
+      "last_seen_at": "2026-06-26T00:13:49.439294+00:00"
     },
     "https://www.bangkokpost.com/world/3275977/hyundai-motor-workers-back-strike-for-big-bonuses": {
       "title": "Hyundai Motor workers back strike for big bonuses",
@@ -2081,7 +2059,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-25T00:16:57.917232+00:00",
-      "last_seen_at": "2026-06-25T11:41:41.942190+00:00"
+      "last_seen_at": "2026-06-26T00:13:49.439294+00:00"
     },
     "https://www.marketwatch.com/story/why-sk-hynixs-30-billion-u-s-listing-could-be-a-double-edged-sword-for-microns-stock-f4483b0d?mod=mw_rss_topstories": {
       "title": "SK Hynix’s stock soars, and its planned U.S. listing could prove a double-edged sword for Micron",
@@ -2103,7 +2081,7 @@
         "Mirae Asset"
       ],
       "first_seen_at": "2026-06-25T11:41:41.942190+00:00",
-      "last_seen_at": "2026-06-25T11:41:41.942190+00:00"
+      "last_seen_at": "2026-06-26T00:13:49.439294+00:00"
     },
     "https://asia.nikkei.com/business/markets/equities/sk-hynix-jumps-15-on-nasdaq-adr-listing-plan": {
       "title": "SK Hynix jumps 15% on Nasdaq ADR listing plan",
@@ -2114,18 +2092,29 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-25T11:41:41.942190+00:00",
-      "last_seen_at": "2026-06-25T11:41:41.942190+00:00"
+      "last_seen_at": "2026-06-26T00:13:49.439294+00:00"
     },
     "https://www.cnbc.com/2026/06/25/chip-tech-stocks-sk-hynix-nasdaq-adr-listing-29-billion-ai-investment.html": {
       "title": "SK Hynix surges 12% after Micron earnings; blockbuster Nasdaq listing",
       "link": "https://www.cnbc.com/2026/06/25/chip-tech-stocks-sk-hynix-nasdaq-adr-listing-29-billion-ai-investment.html",
-      "source_name": "CNBC Top News",
+      "source_name": "CNBC World News",
       "country_code": "US",
       "companies": [
         "SK hynix"
       ],
       "first_seen_at": "2026-06-25T11:41:41.942190+00:00",
-      "last_seen_at": "2026-06-25T11:41:41.942190+00:00"
+      "last_seen_at": "2026-06-26T00:13:49.439294+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/cars-uvs/premium-family-suvs-that-offer-comfort-without-luxury-pricing/articleshow/131991684.cms": {
+      "title": "Premium family SUVs that offer comfort without luxury pricing",
+      "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/premium-family-suvs-that-offer-comfort-without-luxury-pricing/articleshow/131991684.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-06-26T00:13:49.439294+00:00",
+      "last_seen_at": "2026-06-26T00:13:49.439294+00:00"
     }
   }
 }
