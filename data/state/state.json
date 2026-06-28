@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-27T10:59:27.919515+00:00",
+  "last_run_at": "2026-06-28T00:06:23.713067+00:00",
   "seen_articles": {
-    "https://economictimes.indiatimes.com/tech/information-tech/samsung-electronics-labour-union-fail-to-reach-pay-deal-as-strike-looms/articleshow/131048860.cms": {
-      "title": "삼성전자와 노동조합, 임금 협상 결렬…파업 임박",
-      "link": "https://economictimes.indiatimes.com/tech/information-tech/samsung-electronics-labour-union-fail-to-reach-pay-deal-as-strike-looms/articleshow/131048860.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-05-13T00:04:23.408401+00:00",
-      "last_seen_at": "2026-05-14T00:05:21.878215+00:00"
-    },
     "http://www3.nhk.or.jp/news/html/20260513/k10015120501000.html": {
       "title": "한국 삼성전자 노사협상 결렬로 파업 가능성도 영향 우려의 목소리",
       "link": "http://www3.nhk.or.jp/news/html/20260513/k10015120501000.html",
@@ -45,17 +34,6 @@
       ],
       "first_seen_at": "2026-05-13T11:32:15.226554+00:00",
       "last_seen_at": "2026-05-14T11:16:59.093578+00:00"
-    },
-    "https://economictimes.indiatimes.com/industry/auto/auto-news/big-auto-bets-big-carmakers-line-up-rs-40000-crore-capex-push-amid-demand-boom/articleshow/131076168.cms": {
-      "title": "자동차 업계, 대규모 투자 단행: 수요 급증 속 자동차 제조업체들, 400억 루피(약 4조 5천억 원) 규모의 자본 투자 계획 발표",
-      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/big-auto-bets-big-carmakers-line-up-rs-40000-crore-capex-push-amid-demand-boom/articleshow/131076168.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-05-14T00:05:21.878215+00:00",
-      "last_seen_at": "2026-05-14T00:05:21.878215+00:00"
     },
     "https://www.scmp.com/week-asia/economics/article/3353543/samsung-unions-strike-threat-fuels-fears-south-koreas-economic-slowdown": {
       "title": "삼성 노조의 파업 예고는 한국 경제 둔화에 대한 우려를 증폭시키고 있다.",
