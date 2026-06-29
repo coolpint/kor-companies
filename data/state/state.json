@@ -1,51 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-28T11:11:07.844919+00:00",
+  "last_run_at": "2026-06-29T00:12:15.572050+00:00",
   "seen_articles": {
-    "http://www3.nhk.or.jp/news/html/20260513/k10015120501000.html": {
-      "title": "한국 삼성전자 노사협상 결렬로 파업 가능성도 영향 우려의 목소리",
-      "link": "http://www3.nhk.or.jp/news/html/20260513/k10015120501000.html",
-      "source_name": "NHK International",
-      "country_code": "JP",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-05-13T11:32:15.226554+00:00",
-      "last_seen_at": "2026-05-14T11:16:59.093578+00:00"
-    },
-    "https://www.cnbc.com/2026/05/13/samsung-electronics-pares-66-billion-rout-as-seoul-moves-to-calm-strike-fears-involving-41000-workers.html": {
-      "title": "삼성전자, 서울시의 파업 우려 진정 조치에 힘입어 장중 660억 달러 급락세 만회",
-      "link": "https://www.cnbc.com/2026/05/13/samsung-electronics-pares-66-billion-rout-as-seoul-moves-to-calm-strike-fears-involving-41000-workers.html",
-      "source_name": "CNBC Technology",
-      "country_code": "US",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-05-13T11:32:15.226554+00:00",
-      "last_seen_at": "2026-05-14T11:16:59.093578+00:00"
-    },
-    "https://www.straitstimes.com/business/companies-markets/samsung-labour-union-fail-to-reach-pay-deal-strike-looms": {
-      "title": "삼성전자, 노조와 합의 실패…총리, 파업 반드시 막아야 한다고 강조",
-      "link": "https://www.straitstimes.com/business/companies-markets/samsung-labour-union-fail-to-reach-pay-deal-strike-looms",
-      "source_name": "The Straits Times",
-      "country_code": "SG",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-05-13T11:32:15.226554+00:00",
-      "last_seen_at": "2026-05-14T11:16:59.093578+00:00"
-    },
-    "https://www.scmp.com/week-asia/economics/article/3353543/samsung-unions-strike-threat-fuels-fears-south-koreas-economic-slowdown": {
-      "title": "삼성 노조의 파업 예고는 한국 경제 둔화에 대한 우려를 증폭시키고 있다.",
-      "link": "https://www.scmp.com/week-asia/economics/article/3353543/samsung-unions-strike-threat-fuels-fears-south-koreas-economic-slowdown",
-      "source_name": "South China Morning Post World",
-      "country_code": "HK",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-05-14T11:16:59.093578+00:00",
-      "last_seen_at": "2026-05-15T00:00:19.942200+00:00"
-    },
     "https://www.lemonde.fr/pixels/article/2026/05/14/le-jeu-subnautica-2-finalement-disponible-a-l-issue-d-un-bras-de-fer-entre-ses-developpeurs-et-leur-editeur_6689049_4408996.html": {
       "title": "개발사와 배급사 간의 갈등 끝에 게임 \"서브나우티카 2\"가 마침내 출시되었습니다.",
       "link": "https://www.lemonde.fr/pixels/article/2026/05/14/le-jeu-subnautica-2-finalement-disponible-a-l-issue-d-un-bras-de-fer-entre-ses-developpeurs-et-leur-editeur_6689049_4408996.html",
@@ -56,17 +12,6 @@
       ],
       "first_seen_at": "2026-05-14T11:16:59.093578+00:00",
       "last_seen_at": "2026-05-15T11:23:50.376640+00:00"
-    },
-    "https://www.cnbc.com/2026/05/14/bts-world-cup-halftime-show-headline-shakira-madonna-hybe.html": {
-      "title": "BTS, 마돈나, 샤키라와 함께 월드컵 결승전 하프타임 쇼 헤드라이너로 확정; Hybe 주가 7.2% 상승",
-      "link": "https://www.cnbc.com/2026/05/14/bts-world-cup-halftime-show-headline-shakira-madonna-hybe.html",
-      "source_name": "CNBC Top News",
-      "country_code": "US",
-      "companies": [
-        "HYBE"
-      ],
-      "first_seen_at": "2026-05-14T11:16:59.093578+00:00",
-      "last_seen_at": "2026-05-14T11:16:59.093578+00:00"
     },
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-boom-puts-sk-hynix-on-the-cusp-of-1-trillion-market-value/articleshow/131085517.cms": {
       "title": "인공지능(AI) 붐으로 SK하이닉스 시가총액 1조 달러 돌파 임박",
