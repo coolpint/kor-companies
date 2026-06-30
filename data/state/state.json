@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-29T13:09:50.803418+00:00",
+  "last_run_at": "2026-06-30T00:09:16.243066+00:00",
   "seen_articles": {
-    "https://www.thehindubusinessline.com/news/cars-2-3-wheelers-swerve-past-price-hikes-in-april-touch-record-sales/article70979622.ece": {
-      "title": "4월 자동차, 이륜차, 삼륜차 가격 인상 없이 사상 최고 판매량 기록",
-      "link": "https://www.thehindubusinessline.com/news/cars-2-3-wheelers-swerve-past-price-hikes-in-april-touch-record-sales/article70979622.ece",
-      "source_name": "BusinessLine Economy",
-      "country_code": "IN",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-05-15T00:00:19.942200+00:00",
-      "last_seen_at": "2026-05-15T23:57:15.853795+00:00"
-    },
     "https://www.straitstimes.com/business/companies-markets/samsung-union-sticks-to-strike-plan-after-talks-offer-shares-slide": {
       "title": "삼성전자 노조, 협상 제안에도 불구하고 파업 고수… 주가 하락",
       "link": "https://www.straitstimes.com/business/companies-markets/samsung-union-sticks-to-strike-plan-after-talks-offer-shares-slide",
@@ -2027,7 +2016,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-29T13:09:50.803418+00:00",
-      "last_seen_at": "2026-06-29T13:09:50.803418+00:00"
+      "last_seen_at": "2026-06-30T00:09:16.243066+00:00"
     },
     "https://asia.nikkei.com/business/tech/semiconductors/south-korea-announces-520bn-chip-plant-project-with-samsung-sk-hynix": {
       "title": "South Korea announces $520bn chip plant project with Samsung, SK Hynix",
@@ -2038,7 +2027,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-29T13:09:50.803418+00:00",
-      "last_seen_at": "2026-06-29T13:09:50.803418+00:00"
+      "last_seen_at": "2026-06-30T00:09:16.243066+00:00"
     },
     "https://www.ft.com/content/86013b7e-41da-445a-981c-075a701dccf6": {
       "title": "Samsung and SK Hynix plan $600bn chipmaking expansion",
@@ -2049,19 +2038,19 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-29T13:09:50.803418+00:00",
-      "last_seen_at": "2026-06-29T13:09:50.803418+00:00"
+      "last_seen_at": "2026-06-30T00:09:16.243066+00:00"
     },
     "https://www.cnbc.com/2026/06/29/samsung-sk-hynix-reported-1point3-reported-trillion-spending-plans.html": {
       "title": "South Korea says Samsung and SK Hynix investing in AI, semiconductor mega-projects",
       "link": "https://www.cnbc.com/2026/06/29/samsung-sk-hynix-reported-1point3-reported-trillion-spending-plans.html",
-      "source_name": "CNBC Top News",
+      "source_name": "CNBC World News",
       "country_code": "US",
       "companies": [
         "Samsung Electronics",
         "SK hynix"
       ],
       "first_seen_at": "2026-06-29T13:09:50.803418+00:00",
-      "last_seen_at": "2026-06-29T13:09:50.803418+00:00"
+      "last_seen_at": "2026-06-30T00:09:16.243066+00:00"
     },
     "https://e.vnexpress.net/news/world/samsung-to-unveil-record-650b-south-korea-investment-amid-ai-boom-5090999.html": {
       "title": "Samsung to unveil record $650B South Korea investment amid AI boom",
@@ -2072,7 +2061,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-06-29T13:09:50.803418+00:00",
-      "last_seen_at": "2026-06-29T13:09:50.803418+00:00"
+      "last_seen_at": "2026-06-30T00:09:16.243066+00:00"
     },
     "https://www.scmp.com/news/asia/east-asia/article/3358719/south-korea-unveils-us650-billion-megaprojects-dominate-global-ai-chip-market": {
       "title": "South Korea unveils US$576 billion megaprojects to dominate global AI, chip market",
@@ -2095,7 +2084,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-29T13:09:50.803418+00:00",
-      "last_seen_at": "2026-06-29T13:09:50.803418+00:00"
+      "last_seen_at": "2026-06-30T00:09:16.243066+00:00"
     }
   }
 }
