@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-01T00:11:06.767590+00:00",
+  "last_run_at": "2026-07-01T12:11:00.187884+00:00",
   "seen_articles": {
     "https://www.channelnewsasia.com/business/south-korea-samsung-strike-avoid-6126406": {
       "title": "한국 정부는 삼성 파업을 막기 위해 모든 가능한 방안을 강구할 것이라고 밝혔습니다.",
@@ -2073,7 +2073,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-30T11:46:47.442285+00:00",
-      "last_seen_at": "2026-07-01T00:11:06.767590+00:00"
+      "last_seen_at": "2026-07-01T12:11:00.187884+00:00"
     },
     "https://www.lemonde.fr/economie/article/2026/06/30/en-coree-du-sud-samsung-electronics-et-sk-hynix-sont-les-mbappe-et-dembele-des-puces-memoire_6717242_3234.html": {
       "title": "En Corée du Sud, « Samsung Electronics et SK Hynix sont les Mbappé et Dembélé des puces mémoire »",
@@ -2096,7 +2096,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-30T11:46:47.442285+00:00",
-      "last_seen_at": "2026-07-01T00:11:06.767590+00:00"
+      "last_seen_at": "2026-07-01T12:11:00.187884+00:00"
     },
     "https://vietnamnews.vn/economy/1784384/long-delayed-thu-thiem-project-revived-with-2-27-billion-investment-plan.html": {
       "title": "Long-delayed Thủ Thiêm project revived with $2.27 billion investment plan",
@@ -2108,6 +2108,84 @@
       ],
       "first_seen_at": "2026-06-30T11:46:47.442285+00:00",
       "last_seen_at": "2026-06-30T11:46:47.442285+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-india-sales-up-19-at-24552-units-in-june/articleshow/132113955.cms": {
+      "title": "Kia India sales up 19% at 24,552 units in June",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-india-sales-up-19-at-24552-units-in-june/articleshow/132113955.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Kia"
+      ],
+      "first_seen_at": "2026-07-01T12:11:00.187884+00:00",
+      "last_seen_at": "2026-07-01T12:11:00.187884+00:00"
+    },
+    "https://www.thehindubusinessline.com/economy/vehicle-makers-maintain-positive-momentum-in-june-dispatches/article71169331.ece": {
+      "title": "Vehicle makers maintain positive momentum in June dispatches",
+      "link": "https://www.thehindubusinessline.com/economy/vehicle-makers-maintain-positive-momentum-in-june-dispatches/article71169331.ece",
+      "source_name": "BusinessLine Economy",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-07-01T12:11:00.187884+00:00",
+      "last_seen_at": "2026-07-01T12:11:00.187884+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/auto-news/major-automakers-record-strong-june-sales-on-steady-domestic-demand-rising-exports/articleshow/132109153.cms": {
+      "title": "Major automakers record strong June sales on steady domestic demand, rising exports",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/major-automakers-record-strong-june-sales-on-steady-domestic-demand-rising-exports/articleshow/132109153.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-07-01T12:11:00.187884+00:00",
+      "last_seen_at": "2026-07-01T12:11:00.187884+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/hyundai-motor-india-posts-total-sales-of-51335-units-in-june/article71169010.ece": {
+      "title": "Hyundai Motor India posts total sales of 51,335 units in June",
+      "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-posts-total-sales-of-51335-units-in-june/article71169010.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-07-01T12:11:00.187884+00:00",
+      "last_seen_at": "2026-07-01T12:11:00.187884+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-india-posts-june-sales-of-51335-units-despite-supplier-fire-disruption/articleshow/132107669.cms": {
+      "title": "Hyundai Motor India posts June sales of 51,335 units despite supplier fire disruption",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-india-posts-june-sales-of-51335-units-despite-supplier-fire-disruption/articleshow/132107669.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-07-01T12:11:00.187884+00:00",
+      "last_seen_at": "2026-07-01T12:11:00.187884+00:00"
+    },
+    "https://e.vnexpress.net/news/business/billionaires/chairwoman-of-south-korea-s-shinsegae-group-becomes-billionaire-amid-ai-boom-5091918.html": {
+      "title": "Chairwoman of South Korea’s Shinsegae Group becomes billionaire amid AI boom",
+      "link": "https://e.vnexpress.net/news/business/billionaires/chairwoman-of-south-korea-s-shinsegae-group-becomes-billionaire-amid-ai-boom-5091918.html",
+      "source_name": "VnExpress Business",
+      "country_code": "VN",
+      "companies": [
+        "Shinsegae"
+      ],
+      "first_seen_at": "2026-07-01T12:11:00.187884+00:00",
+      "last_seen_at": "2026-07-01T12:11:00.187884+00:00"
+    },
+    "https://www.scmp.com/news/asia/east-asia/article/3358967/south-korea-fake-news-law-triggers-free-speech-censorship-fears": {
+      "title": "South Korea ‘fake news’ law triggers free speech, censorship fears",
+      "link": "https://www.scmp.com/news/asia/east-asia/article/3358967/south-korea-fake-news-law-triggers-free-speech-censorship-fears",
+      "source_name": "South China Morning Post World",
+      "country_code": "HK",
+      "companies": [
+        "NAVER",
+        "Kakao"
+      ],
+      "first_seen_at": "2026-07-01T12:11:00.187884+00:00",
+      "last_seen_at": "2026-07-01T12:11:00.187884+00:00"
     }
   }
 }
