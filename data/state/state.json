@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-06-30T11:46:47.442285+00:00",
+  "last_run_at": "2026-07-01T00:11:06.767590+00:00",
   "seen_articles": {
-    "https://economictimes.indiatimes.com/tech/information-tech/at-samsung-the-global-ai-boom-spurred-a-looming-strike-and-deep-divisions/articleshow/131120351.cms": {
-      "title": "삼성에서는 전 세계적인 AI 붐이 임박한 파업과 심각한 내부 갈등을 촉발시켰습니다.",
-      "link": "https://economictimes.indiatimes.com/tech/information-tech/at-samsung-the-global-ai-boom-spurred-a-looming-strike-and-deep-divisions/articleshow/131120351.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-05-15T23:57:15.853795+00:00",
-      "last_seen_at": "2026-05-16T23:57:26.738626+00:00"
-    },
     "https://www.channelnewsasia.com/business/south-korea-samsung-strike-avoid-6126406": {
       "title": "한국 정부는 삼성 파업을 막기 위해 모든 가능한 방안을 강구할 것이라고 밝혔습니다.",
       "link": "https://www.channelnewsasia.com/business/south-korea-samsung-strike-avoid-6126406",
@@ -2016,7 +2005,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-29T13:09:50.803418+00:00",
-      "last_seen_at": "2026-06-30T11:46:47.442285+00:00"
+      "last_seen_at": "2026-07-01T00:11:06.767590+00:00"
     },
     "https://www.ft.com/content/86013b7e-41da-445a-981c-075a701dccf6": {
       "title": "Samsung and SK Hynix plan $600bn chipmaking expansion",
@@ -2084,7 +2073,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-30T11:46:47.442285+00:00",
-      "last_seen_at": "2026-06-30T11:46:47.442285+00:00"
+      "last_seen_at": "2026-07-01T00:11:06.767590+00:00"
     },
     "https://www.lemonde.fr/economie/article/2026/06/30/en-coree-du-sud-samsung-electronics-et-sk-hynix-sont-les-mbappe-et-dembele-des-puces-memoire_6717242_3234.html": {
       "title": "En Corée du Sud, « Samsung Electronics et SK Hynix sont les Mbappé et Dembélé des puces mémoire »",
@@ -2096,7 +2085,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-30T11:46:47.442285+00:00",
-      "last_seen_at": "2026-06-30T11:46:47.442285+00:00"
+      "last_seen_at": "2026-07-01T00:11:06.767590+00:00"
     },
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-sk-hynix-mega-south-korea-chips-gamble-tests-optimism-of-ai-cycle/articleshow/132088795.cms": {
       "title": "Samsung, SK Hynix mega South Korea chips gamble tests optimism of AI cycle",
@@ -2107,7 +2096,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-06-30T11:46:47.442285+00:00",
-      "last_seen_at": "2026-06-30T11:46:47.442285+00:00"
+      "last_seen_at": "2026-07-01T00:11:06.767590+00:00"
     },
     "https://vietnamnews.vn/economy/1784384/long-delayed-thu-thiem-project-revived-with-2-27-billion-investment-plan.html": {
       "title": "Long-delayed Thủ Thiêm project revived with $2.27 billion investment plan",
