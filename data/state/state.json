@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-01T12:11:00.187884+00:00",
+  "last_run_at": "2026-07-02T00:12:36.030709+00:00",
   "seen_articles": {
     "https://www.channelnewsasia.com/business/south-korea-samsung-strike-avoid-6126406": {
       "title": "한국 정부는 삼성 파업을 막기 위해 모든 가능한 방안을 강구할 것이라고 밝혔습니다.",
@@ -12,17 +12,6 @@
       ],
       "first_seen_at": "2026-05-17T10:24:42.018147+00:00",
       "last_seen_at": "2026-05-18T12:36:58.232002+00:00"
-    },
-    "https://www.scmp.com/news/asia/east-asia/article/3353897/south-korea-weighs-arbitration-avoid-samsung-semiconductor-plant-strike": {
-      "title": "한국 정부는 삼성 반도체 공장 파업을 막기 위해 중재 방안을 검토하고 있다.",
-      "link": "https://www.scmp.com/news/asia/east-asia/article/3353897/south-korea-weighs-arbitration-avoid-samsung-semiconductor-plant-strike",
-      "source_name": "South China Morning Post World",
-      "country_code": "HK",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-05-18T00:00:54.265282+00:00",
-      "last_seen_at": "2026-05-18T00:00:54.265282+00:00"
     },
     "https://www.scmp.com/week-asia/economics/article/3353960/south-korea-stifling-samsung-workers-us400000-bonus-strike-risks-wider-crisis": {
       "title": "한국 정부가 삼성 직원들의 40만 달러 보너스 요구 파업을 진압하면서 더 큰 위기가 발생할 위험이 커지고 있다.",
@@ -2118,7 +2107,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-07-01T12:11:00.187884+00:00",
-      "last_seen_at": "2026-07-01T12:11:00.187884+00:00"
+      "last_seen_at": "2026-07-02T00:12:36.030709+00:00"
     },
     "https://www.thehindubusinessline.com/economy/vehicle-makers-maintain-positive-momentum-in-june-dispatches/article71169331.ece": {
       "title": "Vehicle makers maintain positive momentum in June dispatches",
@@ -2129,7 +2118,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-07-01T12:11:00.187884+00:00",
-      "last_seen_at": "2026-07-01T12:11:00.187884+00:00"
+      "last_seen_at": "2026-07-02T00:12:36.030709+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/major-automakers-record-strong-june-sales-on-steady-domestic-demand-rising-exports/articleshow/132109153.cms": {
       "title": "Major automakers record strong June sales on steady domestic demand, rising exports",
@@ -2151,7 +2140,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-07-01T12:11:00.187884+00:00",
-      "last_seen_at": "2026-07-01T12:11:00.187884+00:00"
+      "last_seen_at": "2026-07-02T00:12:36.030709+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-india-posts-june-sales-of-51335-units-despite-supplier-fire-disruption/articleshow/132107669.cms": {
       "title": "Hyundai Motor India posts June sales of 51,335 units despite supplier fire disruption",
@@ -2173,7 +2162,7 @@
         "Shinsegae"
       ],
       "first_seen_at": "2026-07-01T12:11:00.187884+00:00",
-      "last_seen_at": "2026-07-01T12:11:00.187884+00:00"
+      "last_seen_at": "2026-07-02T00:12:36.030709+00:00"
     },
     "https://www.scmp.com/news/asia/east-asia/article/3358967/south-korea-fake-news-law-triggers-free-speech-censorship-fears": {
       "title": "South Korea ‘fake news’ law triggers free speech, censorship fears",
@@ -2186,6 +2175,72 @@
       ],
       "first_seen_at": "2026-07-01T12:11:00.187884+00:00",
       "last_seen_at": "2026-07-01T12:11:00.187884+00:00"
+    },
+    "https://www.cnbc.com/2026/07/01/coupang-south-korea-coupang-house-judiciary.html": {
+      "title": "South Korean government discriminated against Coupang, U.S. companies, House report finds",
+      "link": "https://www.cnbc.com/2026/07/01/coupang-south-korea-coupang-house-judiciary.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "Coupang"
+      ],
+      "first_seen_at": "2026-07-02T00:12:36.030709+00:00",
+      "last_seen_at": "2026-07-02T00:12:36.030709+00:00"
+    },
+    "https://www.bbc.co.uk/news/articles/cp8r1798kp7o": {
+      "title": "Don't expect trackers to save your stolen car, experts say",
+      "link": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o",
+      "source_name": "BBC Business",
+      "country_code": "GB",
+      "companies": [
+        "Kia"
+      ],
+      "first_seen_at": "2026-07-02T00:12:36.030709+00:00",
+      "last_seen_at": "2026-07-02T00:12:36.030709+00:00"
+    },
+    "https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds": {
+      "title": "Krafton settles with Subnautica 2 developer after drawn-out dispute over $250 million",
+      "link": "https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds",
+      "source_name": "The Verge",
+      "country_code": "US",
+      "companies": [
+        "Krafton"
+      ],
+      "first_seen_at": "2026-07-02T00:12:36.030709+00:00",
+      "last_seen_at": "2026-07-02T00:12:36.030709+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/auto-news/domestic-car-sales-surge-in-june-on-tax-cuts-lower-interest-rates-strong-demand/articleshow/132119738.cms": {
+      "title": "Domestic car sales surge in June on tax cuts, lower interest rates & strong demand",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/domestic-car-sales-surge-in-june-on-tax-cuts-lower-interest-rates-strong-demand/articleshow/132119738.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-07-02T00:12:36.030709+00:00",
+      "last_seen_at": "2026-07-02T00:12:36.030709+00:00"
+    },
+    "https://www.theguardian.com/games/2026/jul/01/pushing-buttons-ai-datacentres-memory-console-prices-sony-playstation-xbox": {
+      "title": "No console-flation: how the thirst for AI chips is sending games console prices soaring",
+      "link": "https://www.theguardian.com/games/2026/jul/01/pushing-buttons-ai-datacentres-memory-console-prices-sony-playstation-xbox",
+      "source_name": "The Guardian Technology",
+      "country_code": "GB",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-02T00:12:36.030709+00:00",
+      "last_seen_at": "2026-07-02T00:12:36.030709+00:00"
+    },
+    "https://www.scmp.com/week-asia/economics/article/3359068/reliance-jios-ipo-set-intensify-focus-indias-telco-sector-amid-duopoly-fears": {
+      "title": "Reliance Jio’s IPO set to intensify focus on India’s telco sector amid duopoly fears",
+      "link": "https://www.scmp.com/week-asia/economics/article/3359068/reliance-jios-ipo-set-intensify-focus-indias-telco-sector-amid-duopoly-fears",
+      "source_name": "South China Morning Post World",
+      "country_code": "HK",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-07-02T00:12:36.030709+00:00",
+      "last_seen_at": "2026-07-02T00:12:36.030709+00:00"
     }
   }
 }
