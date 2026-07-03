@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-03T00:10:13.424967+00:00",
+  "last_run_at": "2026-07-03T11:35:43.350818+00:00",
   "seen_articles": {
-    "https://www.scmp.com/week-asia/economics/article/3353960/south-korea-stifling-samsung-workers-us400000-bonus-strike-risks-wider-crisis": {
-      "title": "한국 정부가 삼성 직원들의 40만 달러 보너스 요구 파업을 진압하면서 더 큰 위기가 발생할 위험이 커지고 있다.",
-      "link": "https://www.scmp.com/week-asia/economics/article/3353960/south-korea-stifling-samsung-workers-us400000-bonus-strike-risks-wider-crisis",
-      "source_name": "South China Morning Post World",
-      "country_code": "HK",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-05-18T12:36:58.232002+00:00",
-      "last_seen_at": "2026-05-19T00:12:32.167537+00:00"
-    },
     "https://www.cnbc.com/2026/05/18/samsung-strike-lee-jae-myung-labor-deal.html": {
       "title": "삼성전자 노동자 4만 7천 명이 참여하는 파업이 임박한 가운데, 한국 대통령은 노사 합의를 촉구했다.",
       "link": "https://www.cnbc.com/2026/05/18/samsung-strike-lee-jae-myung-labor-deal.html",
@@ -2240,7 +2229,7 @@
         "Coupang"
       ],
       "first_seen_at": "2026-07-02T11:37:03.168423+00:00",
-      "last_seen_at": "2026-07-03T00:10:13.424967+00:00"
+      "last_seen_at": "2026-07-03T11:35:43.350818+00:00"
     },
     "https://www.marketwatch.com/story/this-fund-manager-bought-nvidia-and-sk-hynix-and-sold-software-before-others-his-simple-message-on-ai-follow-the-money-c3d67bea?mod=mw_rss_topstories": {
       "title": "This fund manager bought Nvidia and SK Hynix and sold software before others. His simple message on AI: ‘Follow the money.’",
@@ -2256,14 +2245,14 @@
     "https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html": {
       "title": "Samsung Electronics, SK Hynix shares tumble over 9% as chip rout spreads from Wall Street",
       "link": "https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html",
-      "source_name": "CNBC World News",
+      "source_name": "CNBC Technology",
       "country_code": "US",
       "companies": [
         "Samsung Electronics",
         "SK hynix"
       ],
       "first_seen_at": "2026-07-02T11:37:03.168423+00:00",
-      "last_seen_at": "2026-07-03T00:10:13.424967+00:00"
+      "last_seen_at": "2026-07-03T11:35:43.350818+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/seoul-stocks-plunge-8-as-samsung-sk-hynix-shares-tumble/articleshow/132131600.cms": {
       "title": "Seoul stocks plunge 8% as Samsung, SK hynix shares tumble",
@@ -2285,7 +2274,7 @@
         "Coupang"
       ],
       "first_seen_at": "2026-07-02T11:37:03.168423+00:00",
-      "last_seen_at": "2026-07-03T00:10:13.424967+00:00"
+      "last_seen_at": "2026-07-03T11:35:43.350818+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/sk-hynix-to-spend-64-billion-on-chip-plants-under-broader-ai-driven-investment-plan/articleshow/132129070.cms": {
       "title": "SK Hynix to spend $64 billion on chip plants under broader AI-driven investment plan",
@@ -2308,6 +2297,29 @@
       ],
       "first_seen_at": "2026-07-02T11:37:03.168423+00:00",
       "last_seen_at": "2026-07-02T11:37:03.168423+00:00"
+    },
+    "https://www.straitstimes.com/business/s-korea-presidential-office-rejects-coupang-us-claims-of-discriminatory-treatment": {
+      "title": "South Korea presidential office rejects Coupang and US claims of discriminatory treatment",
+      "link": "https://www.straitstimes.com/business/s-korea-presidential-office-rejects-coupang-us-claims-of-discriminatory-treatment",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "companies": [
+        "Coupang"
+      ],
+      "first_seen_at": "2026-07-03T11:35:43.350818+00:00",
+      "last_seen_at": "2026-07-03T11:35:43.350818+00:00"
+    },
+    "https://www.theguardian.com/world/ng-interactive/2026/jul/03/south-korea-wealth-divide-ai-chip-boom": {
+      "title": "3,000% bonuses but a growing wealth divide: South Korea grapples with its AI chip boom",
+      "link": "https://www.theguardian.com/world/ng-interactive/2026/jul/03/south-korea-wealth-divide-ai-chip-boom",
+      "source_name": "The Guardian Technology",
+      "country_code": "GB",
+      "companies": [
+        "Samsung Electronics",
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-03T11:35:43.350818+00:00",
+      "last_seen_at": "2026-07-03T11:35:43.350818+00:00"
     }
   }
 }
