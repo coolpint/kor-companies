@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-02T11:37:03.168423+00:00",
+  "last_run_at": "2026-07-03T00:10:13.424967+00:00",
   "seen_articles": {
-    "https://www.channelnewsasia.com/business/south-korea-samsung-strike-avoid-6126406": {
-      "title": "한국 정부는 삼성 파업을 막기 위해 모든 가능한 방안을 강구할 것이라고 밝혔습니다.",
-      "link": "https://www.channelnewsasia.com/business/south-korea-samsung-strike-avoid-6126406",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-05-17T10:24:42.018147+00:00",
-      "last_seen_at": "2026-05-18T12:36:58.232002+00:00"
-    },
     "https://www.scmp.com/week-asia/economics/article/3353960/south-korea-stifling-samsung-workers-us400000-bonus-strike-risks-wider-crisis": {
       "title": "한국 정부가 삼성 직원들의 40만 달러 보너스 요구 파업을 진압하면서 더 큰 위기가 발생할 위험이 커지고 있다.",
       "link": "https://www.scmp.com/week-asia/economics/article/3353960/south-korea-stifling-samsung-workers-us400000-bonus-strike-risks-wider-crisis",
@@ -2118,7 +2107,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-07-01T12:11:00.187884+00:00",
-      "last_seen_at": "2026-07-02T11:37:03.168423+00:00"
+      "last_seen_at": "2026-07-03T00:10:13.424967+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/major-automakers-record-strong-june-sales-on-steady-domestic-demand-rising-exports/articleshow/132109153.cms": {
       "title": "Major automakers record strong June sales on steady domestic demand, rising exports",
@@ -2196,7 +2185,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-07-02T00:12:36.030709+00:00",
-      "last_seen_at": "2026-07-02T11:37:03.168423+00:00"
+      "last_seen_at": "2026-07-03T00:10:13.424967+00:00"
     },
     "https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds": {
       "title": "Krafton settles with Subnautica 2 developer after drawn-out dispute over $250 million",
@@ -2229,7 +2218,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-02T00:12:36.030709+00:00",
-      "last_seen_at": "2026-07-02T11:37:03.168423+00:00"
+      "last_seen_at": "2026-07-03T00:10:13.424967+00:00"
     },
     "https://www.scmp.com/week-asia/economics/article/3359068/reliance-jios-ipo-set-intensify-focus-indias-telco-sector-amid-duopoly-fears": {
       "title": "Reliance Jio’s IPO set to intensify focus on India’s telco sector amid duopoly fears",
@@ -2251,7 +2240,7 @@
         "Coupang"
       ],
       "first_seen_at": "2026-07-02T11:37:03.168423+00:00",
-      "last_seen_at": "2026-07-02T11:37:03.168423+00:00"
+      "last_seen_at": "2026-07-03T00:10:13.424967+00:00"
     },
     "https://www.marketwatch.com/story/this-fund-manager-bought-nvidia-and-sk-hynix-and-sold-software-before-others-his-simple-message-on-ai-follow-the-money-c3d67bea?mod=mw_rss_topstories": {
       "title": "This fund manager bought Nvidia and SK Hynix and sold software before others. His simple message on AI: ‘Follow the money.’",
@@ -2267,14 +2256,14 @@
     "https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html": {
       "title": "Samsung Electronics, SK Hynix shares tumble over 9% as chip rout spreads from Wall Street",
       "link": "https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html",
-      "source_name": "CNBC Top News",
+      "source_name": "CNBC World News",
       "country_code": "US",
       "companies": [
         "Samsung Electronics",
         "SK hynix"
       ],
       "first_seen_at": "2026-07-02T11:37:03.168423+00:00",
-      "last_seen_at": "2026-07-02T11:37:03.168423+00:00"
+      "last_seen_at": "2026-07-03T00:10:13.424967+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/seoul-stocks-plunge-8-as-samsung-sk-hynix-shares-tumble/articleshow/132131600.cms": {
       "title": "Seoul stocks plunge 8% as Samsung, SK hynix shares tumble",
@@ -2285,7 +2274,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-02T11:37:03.168423+00:00",
-      "last_seen_at": "2026-07-02T11:37:03.168423+00:00"
+      "last_seen_at": "2026-07-03T00:10:13.424967+00:00"
     },
     "https://www.straitstimes.com/business/us-house-committee-says-south-korea-discriminated-against-coupang": {
       "title": "US House committee says South Korea discriminated against Coupang",
@@ -2296,7 +2285,7 @@
         "Coupang"
       ],
       "first_seen_at": "2026-07-02T11:37:03.168423+00:00",
-      "last_seen_at": "2026-07-02T11:37:03.168423+00:00"
+      "last_seen_at": "2026-07-03T00:10:13.424967+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/sk-hynix-to-spend-64-billion-on-chip-plants-under-broader-ai-driven-investment-plan/articleshow/132129070.cms": {
       "title": "SK Hynix to spend $64 billion on chip plants under broader AI-driven investment plan",
@@ -2307,7 +2296,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-02T11:37:03.168423+00:00",
-      "last_seen_at": "2026-07-02T11:37:03.168423+00:00"
+      "last_seen_at": "2026-07-03T00:10:13.424967+00:00"
     },
     "https://www.channelnewsasia.com/business/sk-hynix-spend-64-billion-memory-chip-plants-under-broader-ai-investment-plan-6226421": {
       "title": "SK Hynix to spend $64 billion on memory chip plants under broader AI investment plan",
