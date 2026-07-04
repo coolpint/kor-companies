@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-04T00:09:00.651578+00:00",
+  "last_run_at": "2026-07-04T10:56:14.229200+00:00",
   "seen_articles": {
     "https://www.scmp.com/tech/tech-trends/article/3354099/chinas-rapid-chipmaking-expansion-threatens-ai-memory-chip-boom-samsung-adviser-warns": {
       "title": "삼성 고문은 중국의 급속한 반도체 제조 확장이 AI 메모리 칩 호황을 위협한다고 경고했습니다.",
@@ -12,28 +12,6 @@
       ],
       "first_seen_at": "2026-05-19T12:13:18.066060+00:00",
       "last_seen_at": "2026-05-20T11:50:15.041890+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/samsung-labour-union-meet-again-as-seoul-threatens-to-intervene-to-block-strike/articleshow/131189985.cms": {
-      "title": "삼성전자와 노동조합, 파업 저지 개입 가능성 시사해",
-      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-labour-union-meet-again-as-seoul-threatens-to-intervene-to-block-strike/articleshow/131189985.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-05-19T12:13:18.066060+00:00",
-      "last_seen_at": "2026-05-20T00:10:58.580117+00:00"
-    },
-    "https://www.ft.com/content/a900f970-b919-46f2-98c2-ea3d0df40fce": {
-      "title": "나스닥의 닷컴 버블 시기 상승률을 능가한 주식 시장",
-      "link": "https://www.ft.com/content/a900f970-b919-46f2-98c2-ea3d0df40fce",
-      "source_name": "Financial Times World",
-      "country_code": "GB",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-05-20T00:10:58.580117+00:00",
-      "last_seen_at": "2026-05-20T00:10:58.580117+00:00"
     },
     "https://abcnews.com/Business/wireStory/battle-family-suvs-hyundai-palisade-kia-telluride-133142926": {
       "title": "패밀리 SUV 대결: 현대 팰리세이드 vs 기아 텔루라이드",
@@ -2274,7 +2252,7 @@
         "Coupang"
       ],
       "first_seen_at": "2026-07-03T11:35:43.350818+00:00",
-      "last_seen_at": "2026-07-04T00:09:00.651578+00:00"
+      "last_seen_at": "2026-07-04T10:56:14.229200+00:00"
     },
     "https://www.theguardian.com/world/ng-interactive/2026/jul/03/south-korea-wealth-divide-ai-chip-boom": {
       "title": "3,000% bonuses but a growing wealth divide: South Korea grapples with its AI chip boom",
@@ -2286,7 +2264,18 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-03T11:35:43.350818+00:00",
-      "last_seen_at": "2026-07-04T00:09:00.651578+00:00"
+      "last_seen_at": "2026-07-04T10:56:14.229200+00:00"
+    },
+    "https://www.channelnewsasia.com/business/sk-hynix-considering-05-fee-payout-in-adr-offering-bloomberg-news-reports-6231816": {
+      "title": "SK Hynix considering 0.5% fee payout in ADR offering, Bloomberg News reports",
+      "link": "https://www.channelnewsasia.com/business/sk-hynix-considering-05-fee-payout-in-adr-offering-bloomberg-news-reports-6231816",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-04T10:56:14.229200+00:00",
+      "last_seen_at": "2026-07-04T10:56:14.229200+00:00"
     }
   }
 }
