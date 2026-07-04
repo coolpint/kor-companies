@@ -1,29 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-03T11:35:43.350818+00:00",
+  "last_run_at": "2026-07-04T00:09:00.651578+00:00",
   "seen_articles": {
-    "https://www.cnbc.com/2026/05/18/samsung-strike-lee-jae-myung-labor-deal.html": {
-      "title": "삼성전자 노동자 4만 7천 명이 참여하는 파업이 임박한 가운데, 한국 대통령은 노사 합의를 촉구했다.",
-      "link": "https://www.cnbc.com/2026/05/18/samsung-strike-lee-jae-myung-labor-deal.html",
-      "source_name": "CNBC World News",
-      "country_code": "US",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-05-18T12:36:58.232002+00:00",
-      "last_seen_at": "2026-05-19T12:13:18.066060+00:00"
-    },
-    "https://economictimes.indiatimes.com/industry/cons-products/electronics/what-are-samsung-union-workers-demanding-and-how-might-a-strike-play-out/articleshow/131197471.cms": {
-      "title": "삼성 노조원들은 무엇을 요구하고 있으며, 파업은 어떤 양상으로 전개될까요?",
-      "link": "https://economictimes.indiatimes.com/industry/cons-products/electronics/what-are-samsung-union-workers-demanding-and-how-might-a-strike-play-out/articleshow/131197471.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-05-19T12:13:18.066060+00:00",
-      "last_seen_at": "2026-05-19T12:13:18.066060+00:00"
-    },
     "https://www.scmp.com/tech/tech-trends/article/3354099/chinas-rapid-chipmaking-expansion-threatens-ai-memory-chip-boom-samsung-adviser-warns": {
       "title": "삼성 고문은 중국의 급속한 반도체 제조 확장이 AI 메모리 칩 호황을 위협한다고 경고했습니다.",
       "link": "https://www.scmp.com/tech/tech-trends/article/3354099/chinas-rapid-chipmaking-expansion-threatens-ai-memory-chip-boom-samsung-adviser-warns",
@@ -45,17 +23,6 @@
       ],
       "first_seen_at": "2026-05-19T12:13:18.066060+00:00",
       "last_seen_at": "2026-05-20T00:10:58.580117+00:00"
-    },
-    "https://www.scmp.com/news/asia/east-asia/article/3354038/starbucks-korea-boss-loses-job-after-tank-day-promotion-misfires": {
-      "title": "스타벅스 코리아 사장이 '탱크 데이' 프로모션 실패로 해고당했다",
-      "link": "https://www.scmp.com/news/asia/east-asia/article/3354038/starbucks-korea-boss-loses-job-after-tank-day-promotion-misfires",
-      "source_name": "South China Morning Post World",
-      "country_code": "HK",
-      "companies": [
-        "Shinsegae"
-      ],
-      "first_seen_at": "2026-05-19T12:13:18.066060+00:00",
-      "last_seen_at": "2026-05-19T12:13:18.066060+00:00"
     },
     "https://www.ft.com/content/a900f970-b919-46f2-98c2-ea3d0df40fce": {
       "title": "나스닥의 닷컴 버블 시기 상승률을 능가한 주식 시장",
@@ -2307,7 +2274,7 @@
         "Coupang"
       ],
       "first_seen_at": "2026-07-03T11:35:43.350818+00:00",
-      "last_seen_at": "2026-07-03T11:35:43.350818+00:00"
+      "last_seen_at": "2026-07-04T00:09:00.651578+00:00"
     },
     "https://www.theguardian.com/world/ng-interactive/2026/jul/03/south-korea-wealth-divide-ai-chip-boom": {
       "title": "3,000% bonuses but a growing wealth divide: South Korea grapples with its AI chip boom",
@@ -2319,7 +2286,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-03T11:35:43.350818+00:00",
-      "last_seen_at": "2026-07-03T11:35:43.350818+00:00"
+      "last_seen_at": "2026-07-04T00:09:00.651578+00:00"
     }
   }
 }
