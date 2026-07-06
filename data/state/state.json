@@ -1,19 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-05T11:06:32.809614+00:00",
+  "last_run_at": "2026-07-06T00:10:37.511811+00:00",
   "seen_articles": {
-    "https://abcnews.com/Business/wireStory/battle-family-suvs-hyundai-palisade-kia-telluride-133142926": {
-      "title": "패밀리 SUV 대결: 현대 팰리세이드 vs 기아 텔루라이드",
-      "link": "https://abcnews.com/Business/wireStory/battle-family-suvs-hyundai-palisade-kia-telluride-133142926",
-      "source_name": "ABC News Business",
-      "country_code": "US",
-      "companies": [
-        "Hyundai Motor",
-        "Kia"
-      ],
-      "first_seen_at": "2026-05-20T11:50:15.041890+00:00",
-      "last_seen_at": "2026-05-21T12:18:36.835836+00:00"
-    },
     "https://www.thehindubusinessline.com/markets/q4-results-today-live-updates-lic-itc-max-healthcare-lg-electronics-gail-aurobindo-pharma-suntv-jsw-cement-dr-agarwals-honasa-consumer-reliance-power-grasim-ola-results-21-may-2026/article71001587.ece": {
       "title": "오늘 발표되는 4분기 실적 생중계: ITC 4분기 이익 증가, JSW 시멘트 및 위워크 이익 증가, 에마미 이익 감소, LIC 이익 증가, LG전자 이익 감소, 맥스헬스케어 이익 증가",
       "link": "https://www.thehindubusinessline.com/markets/q4-results-today-live-updates-lic-itc-max-healthcare-lg-electronics-gail-aurobindo-pharma-suntv-jsw-cement-dr-agarwals-honasa-consumer-reliance-power-grasim-ola-results-21-may-2026/article71001587.ece",
@@ -35,17 +23,6 @@
       ],
       "first_seen_at": "2026-05-21T12:18:36.835836+00:00",
       "last_seen_at": "2026-05-23T00:11:05.416187+00:00"
-    },
-    "https://www.lemonde.fr/economie/article/2026/05/21/en-coree-du-sud-l-intervention-du-gouvernement-evite-une-greve-generale-chez-samsung-electronics_6691835_3234.html": {
-      "title": "한국에서 정부의 개입으로 삼성전자 총파업을 막았다.",
-      "link": "https://www.lemonde.fr/economie/article/2026/05/21/en-coree-du-sud-l-intervention-du-gouvernement-evite-une-greve-generale-chez-samsung-electronics_6691835_3234.html",
-      "source_name": "Le Monde Economie",
-      "country_code": "FR",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-05-21T12:18:36.835836+00:00",
-      "last_seen_at": "2026-05-21T12:18:36.835836+00:00"
     },
     "https://www.cnbc.com/2026/05/21/samsung-electronics-union-strike-suspended-wage-deal-bonuses.html": {
       "title": "삼성전자 주가, 노조의 잠정 임금 합의 이후 파업 중단 발표에 6% 급등",
@@ -2220,7 +2197,18 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-07-05T11:06:32.809614+00:00",
-      "last_seen_at": "2026-07-05T11:06:32.809614+00:00"
+      "last_seen_at": "2026-07-06T00:10:37.511811+00:00"
+    },
+    "https://www.taipeitimes.com/News/biz/archives/2026/07/06/2003860279": {
+      "title": "SK Hynix mulls 0.5 percent fee payout in mega-offering",
+      "link": "https://www.taipeitimes.com/News/biz/archives/2026/07/06/2003860279",
+      "source_name": "Taipei Times",
+      "country_code": "TW",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-06T00:10:37.511811+00:00",
+      "last_seen_at": "2026-07-06T00:10:37.511811+00:00"
     }
   }
 }
