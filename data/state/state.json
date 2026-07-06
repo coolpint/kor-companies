@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-06T00:10:37.511811+00:00",
+  "last_run_at": "2026-07-06T12:52:33.379964+00:00",
   "seen_articles": {
     "https://www.thehindubusinessline.com/markets/q4-results-today-live-updates-lic-itc-max-healthcare-lg-electronics-gail-aurobindo-pharma-suntv-jsw-cement-dr-agarwals-honasa-consumer-reliance-power-grasim-ola-results-21-may-2026/article71001587.ece": {
       "title": "오늘 발표되는 4분기 실적 생중계: ITC 4분기 이익 증가, JSW 시멘트 및 위워크 이익 증가, 에마미 이익 감소, LIC 이익 증가, LG전자 이익 감소, 맥스헬스케어 이익 증가",
@@ -23,28 +23,6 @@
       ],
       "first_seen_at": "2026-05-21T12:18:36.835836+00:00",
       "last_seen_at": "2026-05-23T00:11:05.416187+00:00"
-    },
-    "https://www.cnbc.com/2026/05/21/samsung-electronics-union-strike-suspended-wage-deal-bonuses.html": {
-      "title": "삼성전자 주가, 노조의 잠정 임금 합의 이후 파업 중단 발표에 6% 급등",
-      "link": "https://www.cnbc.com/2026/05/21/samsung-electronics-union-strike-suspended-wage-deal-bonuses.html",
-      "source_name": "CNBC Technology",
-      "country_code": "US",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-05-21T12:18:36.835836+00:00",
-      "last_seen_at": "2026-05-22T11:47:23.864976+00:00"
-    },
-    "https://www.thehindubusinessline.com/companies/lg-electronics-india-net-profit-dips-81-registers-highest-quarterly-revenue/article71007380.ece": {
-      "title": "LG전자 인도법인 순이익 8.1% 감소, 분기 매출은 사상 최고치 기록",
-      "link": "https://www.thehindubusinessline.com/companies/lg-electronics-india-net-profit-dips-81-registers-highest-quarterly-revenue/article71007380.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "LG Electronics"
-      ],
-      "first_seen_at": "2026-05-22T00:07:31.757764+00:00",
-      "last_seen_at": "2026-05-22T11:47:23.864976+00:00"
     },
     "https://www.channelnewsasia.com/business/hyundai-recall-over-421000-us-vehicles-over-software-brake-issue-nhtsa-says-6137546": {
       "title": "현대자동차가 소프트웨어 브레이크 결함으로 미국 내 차량 42만 1천 대 이상을 리콜할 예정이라고 미국 도로교통안전국(NHTSA)이 밝혔습니다.",
@@ -2208,7 +2186,62 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-06T00:10:37.511811+00:00",
-      "last_seen_at": "2026-07-06T00:10:37.511811+00:00"
+      "last_seen_at": "2026-07-06T12:52:33.379964+00:00"
+    },
+    "https://www.marketwatch.com/story/highflying-hedge-fund-run-by-former-openai-researcher-will-be-cornerstone-investor-in-sk-hynix-u-s-listing-01299e0c?mod=mw_rss_topstories": {
+      "title": "Highflying hedge fund run by former OpenAI researcher will be cornerstone investor in SK Hynix U.S. listing",
+      "link": "https://www.marketwatch.com/story/highflying-hedge-fund-run-by-former-openai-researcher-will-be-cornerstone-investor-in-sk-hynix-u-s-listing-01299e0c?mod=mw_rss_topstories",
+      "source_name": "MarketWatch Top Stories",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-06T12:52:33.379964+00:00",
+      "last_seen_at": "2026-07-06T12:52:33.379964+00:00"
+    },
+    "https://www.marketwatch.com/story/two-things-samsung-might-be-considering-price-hikes-and-a-u-s-listing-f03684f4?mod=mw_rss_topstories": {
+      "title": "Two things Samsung might be considering: price hikes and a U.S. listing",
+      "link": "https://www.marketwatch.com/story/two-things-samsung-might-be-considering-price-hikes-and-a-u-s-listing-f03684f4?mod=mw_rss_topstories",
+      "source_name": "MarketWatch Top Stories",
+      "country_code": "US",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-07-06T12:52:33.379964+00:00",
+      "last_seen_at": "2026-07-06T12:52:33.379964+00:00"
+    },
+    "https://www.straitstimes.com/business/companies-markets/chip-giant-sk-hynix-to-launch-36-billion-us-listing-to-ride-global-ai-wave": {
+      "title": "Chip giant SK Hynix to launch $36 billion US listing to ride global AI wave",
+      "link": "https://www.straitstimes.com/business/companies-markets/chip-giant-sk-hynix-to-launch-36-billion-us-listing-to-ride-global-ai-wave",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-06T12:52:33.379964+00:00",
+      "last_seen_at": "2026-07-06T12:52:33.379964+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/south-koreas-sk-hynix-to-launch-28-billion-us-listing-to-ride-global-ai-wave/articleshow/132205646.cms": {
+      "title": "South Korea's SK Hynix to launch $28 billion US listing to ride global AI wave",
+      "link": "https://economictimes.indiatimes.com/tech/technology/south-koreas-sk-hynix-to-launch-28-billion-us-listing-to-ride-global-ai-wave/articleshow/132205646.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-06T12:52:33.379964+00:00",
+      "last_seen_at": "2026-07-06T12:52:33.379964+00:00"
+    },
+    "https://www.channelnewsasia.com/business/south-koreas-sk-hynix-launching-28-billion-us-listing-ride-global-ai-wave-6233881": {
+      "title": "South Korea's SK Hynix launching $28 billion US listing to ride global AI wave",
+      "link": "https://www.channelnewsasia.com/business/south-koreas-sk-hynix-launching-28-billion-us-listing-ride-global-ai-wave-6233881",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-06T12:52:33.379964+00:00",
+      "last_seen_at": "2026-07-06T12:52:33.379964+00:00"
     }
   }
 }
