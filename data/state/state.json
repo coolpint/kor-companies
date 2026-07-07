@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-06T12:52:33.379964+00:00",
+  "last_run_at": "2026-07-07T00:12:26.551429+00:00",
   "seen_articles": {
     "https://www.thehindubusinessline.com/markets/q4-results-today-live-updates-lic-itc-max-healthcare-lg-electronics-gail-aurobindo-pharma-suntv-jsw-cement-dr-agarwals-honasa-consumer-reliance-power-grasim-ola-results-21-may-2026/article71001587.ece": {
       "title": "오늘 발표되는 4분기 실적 생중계: ITC 4분기 이익 증가, JSW 시멘트 및 위워크 이익 증가, 에마미 이익 감소, LIC 이익 증가, LG전자 이익 감소, 맥스헬스케어 이익 증가",
@@ -12,17 +12,6 @@
       ],
       "first_seen_at": "2026-05-21T12:18:36.835836+00:00",
       "last_seen_at": "2026-05-23T10:38:30.180506+00:00"
-    },
-    "https://www.nytimes.com/2026/05/21/business/samsung-strike-ai-chips.html": {
-      "title": "삼성, 대규모 보너스 지급으로 파업 위기 모면했지만, AI 수익 관련 갈등 고조",
-      "link": "https://www.nytimes.com/2026/05/21/business/samsung-strike-ai-chips.html",
-      "source_name": "The New York Times Business",
-      "country_code": "US",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-05-21T12:18:36.835836+00:00",
-      "last_seen_at": "2026-05-23T00:11:05.416187+00:00"
     },
     "https://www.channelnewsasia.com/business/hyundai-recall-over-421000-us-vehicles-over-software-brake-issue-nhtsa-says-6137546": {
       "title": "현대자동차가 소프트웨어 브레이크 결함으로 미국 내 차량 42만 1천 대 이상을 리콜할 예정이라고 미국 도로교통안전국(NHTSA)이 밝혔습니다.",
@@ -2211,7 +2200,7 @@
       "last_seen_at": "2026-07-06T12:52:33.379964+00:00"
     },
     "https://www.straitstimes.com/business/companies-markets/chip-giant-sk-hynix-to-launch-36-billion-us-listing-to-ride-global-ai-wave": {
-      "title": "Chip giant SK Hynix to launch $36 billion US listing to ride global AI wave",
+      "title": "Chip giant SK Hynix launches $36 billion US listing to ride global AI wave",
       "link": "https://www.straitstimes.com/business/companies-markets/chip-giant-sk-hynix-to-launch-36-billion-us-listing-to-ride-global-ai-wave",
       "source_name": "The Straits Times",
       "country_code": "SG",
@@ -2219,7 +2208,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-06T12:52:33.379964+00:00",
-      "last_seen_at": "2026-07-06T12:52:33.379964+00:00"
+      "last_seen_at": "2026-07-07T00:12:26.551429+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/south-koreas-sk-hynix-to-launch-28-billion-us-listing-to-ride-global-ai-wave/articleshow/132205646.cms": {
       "title": "South Korea's SK Hynix to launch $28 billion US listing to ride global AI wave",
@@ -2230,7 +2219,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-06T12:52:33.379964+00:00",
-      "last_seen_at": "2026-07-06T12:52:33.379964+00:00"
+      "last_seen_at": "2026-07-07T00:12:26.551429+00:00"
     },
     "https://www.channelnewsasia.com/business/south-koreas-sk-hynix-launching-28-billion-us-listing-ride-global-ai-wave-6233881": {
       "title": "South Korea's SK Hynix launching $28 billion US listing to ride global AI wave",
@@ -2242,6 +2231,61 @@
       ],
       "first_seen_at": "2026-07-06T12:52:33.379964+00:00",
       "last_seen_at": "2026-07-06T12:52:33.379964+00:00"
+    },
+    "https://www.channelnewsasia.com/business/lg-energy-solution-flags-77-fall-in-q2-operating-profit-continued-weak-ev-demand-6236646": {
+      "title": "LG Energy Solution flags 77% fall in Q2 operating profit on continued weak EV demand",
+      "link": "https://www.channelnewsasia.com/business/lg-energy-solution-flags-77-fall-in-q2-operating-profit-continued-weak-ev-demand-6236646",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "LG Energy Solution"
+      ],
+      "first_seen_at": "2026-07-07T00:12:26.551429+00:00",
+      "last_seen_at": "2026-07-07T00:12:26.551429+00:00"
+    },
+    "https://www.aljazeera.com/economy/2026/7/6/canada-picks-germanys-tkms-for-new-submarines?traffic_source=rss": {
+      "title": "Canada picks Germany’s TKMS for new submarines",
+      "link": "https://www.aljazeera.com/economy/2026/7/6/canada-picks-germanys-tkms-for-new-submarines?traffic_source=rss",
+      "source_name": "Al Jazeera",
+      "country_code": "QA",
+      "companies": [
+        "Hanwha Ocean"
+      ],
+      "first_seen_at": "2026-07-07T00:12:26.551429+00:00",
+      "last_seen_at": "2026-07-07T00:12:26.551429+00:00"
+    },
+    "https://www.scmp.com/news/world/united-states-canada/article/3359647/canada-picks-german-company-build-new-submarine-fleet-deal-worth-billions": {
+      "title": "Canada picks German firm for new submarine fleet, South Korean competitor loses out",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3359647/canada-picks-german-company-build-new-submarine-fleet-deal-worth-billions",
+      "source_name": "South China Morning Post World",
+      "country_code": "HK",
+      "companies": [
+        "Hanwha Ocean"
+      ],
+      "first_seen_at": "2026-07-07T00:12:26.551429+00:00",
+      "last_seen_at": "2026-07-07T00:12:26.551429+00:00"
+    },
+    "https://www.marketwatch.com/story/microns-stock-gains-signaling-a-return-to-optimism-about-the-chip-sector-0b7f6a8c?mod=mw_rss_topstories": {
+      "title": "Micron’s stock gains, signaling a ‘return to optimism’ about the chip sector",
+      "link": "https://www.marketwatch.com/story/microns-stock-gains-signaling-a-return-to-optimism-about-the-chip-sector-0b7f6a8c?mod=mw_rss_topstories",
+      "source_name": "MarketWatch Top Stories",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-07T00:12:26.551429+00:00",
+      "last_seen_at": "2026-07-07T00:12:26.551429+00:00"
+    },
+    "https://www.ft.com/content/a6f1e92d-0232-4343-9930-6d965a67f187": {
+      "title": "Hedge fund run by ex-OpenAI researcher bets on SK Hynix’s US IPO",
+      "link": "https://www.ft.com/content/a6f1e92d-0232-4343-9930-6d965a67f187",
+      "source_name": "Financial Times Companies",
+      "country_code": "GB",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-07T00:12:26.551429+00:00",
+      "last_seen_at": "2026-07-07T00:12:26.551429+00:00"
     }
   }
 }
