@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-07T00:12:26.551429+00:00",
+  "last_run_at": "2026-07-07T11:54:57.363119+00:00",
   "seen_articles": {
-    "https://www.thehindubusinessline.com/markets/q4-results-today-live-updates-lic-itc-max-healthcare-lg-electronics-gail-aurobindo-pharma-suntv-jsw-cement-dr-agarwals-honasa-consumer-reliance-power-grasim-ola-results-21-may-2026/article71001587.ece": {
-      "title": "오늘 발표되는 4분기 실적 생중계: ITC 4분기 이익 증가, JSW 시멘트 및 위워크 이익 증가, 에마미 이익 감소, LIC 이익 증가, LG전자 이익 감소, 맥스헬스케어 이익 증가",
-      "link": "https://www.thehindubusinessline.com/markets/q4-results-today-live-updates-lic-itc-max-healthcare-lg-electronics-gail-aurobindo-pharma-suntv-jsw-cement-dr-agarwals-honasa-consumer-reliance-power-grasim-ola-results-21-may-2026/article71001587.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "LG Electronics"
-      ],
-      "first_seen_at": "2026-05-21T12:18:36.835836+00:00",
-      "last_seen_at": "2026-05-23T10:38:30.180506+00:00"
-    },
     "https://www.channelnewsasia.com/business/hyundai-recall-over-421000-us-vehicles-over-software-brake-issue-nhtsa-says-6137546": {
       "title": "현대자동차가 소프트웨어 브레이크 결함으로 미국 내 차량 42만 1천 대 이상을 리콜할 예정이라고 미국 도로교통안전국(NHTSA)이 밝혔습니다.",
       "link": "https://www.channelnewsasia.com/business/hyundai-recall-over-421000-us-vehicles-over-software-brake-issue-nhtsa-says-6137546",
@@ -23,17 +12,6 @@
       ],
       "first_seen_at": "2026-05-23T10:38:30.180506+00:00",
       "last_seen_at": "2026-05-24T00:00:48.099926+00:00"
-    },
-    "https://vietnamnews.vn/economy/1781925/car-industry-backs-e10-fuel-readiness-ahead-of-rollout.html": {
-      "title": "자동차 업계, E10 연료 출시 준비 태세 강화에 박차",
-      "link": "https://vietnamnews.vn/economy/1781925/car-industry-backs-e10-fuel-readiness-ahead-of-rollout.html",
-      "source_name": "Vietnam News Economy",
-      "country_code": "VN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-05-23T10:38:30.180506+00:00",
-      "last_seen_at": "2026-05-23T10:38:30.180506+00:00"
     },
     "https://globalnews.ca/news/11862371/hanwha-submarines-canada-sub-bid": {
       "title": "한국은 브리티시컬럼비아주에서 함정을 선보이며 캐나다의 잠수함 입찰에서 승리하는 것을 목표로 하고 있다.",
@@ -2208,7 +2186,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-06T12:52:33.379964+00:00",
-      "last_seen_at": "2026-07-07T00:12:26.551429+00:00"
+      "last_seen_at": "2026-07-07T11:54:57.363119+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/south-koreas-sk-hynix-to-launch-28-billion-us-listing-to-ride-global-ai-wave/articleshow/132205646.cms": {
       "title": "South Korea's SK Hynix to launch $28 billion US listing to ride global AI wave",
@@ -2286,6 +2264,117 @@
       ],
       "first_seen_at": "2026-07-07T00:12:26.551429+00:00",
       "last_seen_at": "2026-07-07T00:12:26.551429+00:00"
+    },
+    "https://www.cnbc.com/2026/07/07/samsung-electronics-preliminary-second-quarter-profit-hits-fresh-high.html": {
+      "title": "Samsung posts 1,800% jump in profit, but AI spending concerns spook investors",
+      "link": "https://www.cnbc.com/2026/07/07/samsung-electronics-preliminary-second-quarter-profit-hits-fresh-high.html",
+      "source_name": "CNBC World News",
+      "country_code": "US",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-07-07T11:54:57.363119+00:00",
+      "last_seen_at": "2026-07-07T11:54:57.363119+00:00"
+    },
+    "http://www.euronews.com/business/2026/07/07/samsung-loses-over-100bn-in-market-value-despite-record-ai-driven-profit": {
+      "title": "Samsung loses over $100bn in market value despite record AI-driven profit",
+      "link": "http://www.euronews.com/business/2026/07/07/samsung-loses-over-100bn-in-market-value-despite-record-ai-driven-profit",
+      "source_name": "Euronews Business",
+      "country_code": "EU",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-07-07T11:54:57.363119+00:00",
+      "last_seen_at": "2026-07-07T11:54:57.363119+00:00"
+    },
+    "https://www.marketwatch.com/story/tough-crowd-for-samsung-as-record-quarterly-earnings-brings-out-the-sellers-5e9979f2?mod=mw_rss_topstories": {
+      "title": "Tough crowd for Samsung as record quarterly earnings brings out the sellers",
+      "link": "https://www.marketwatch.com/story/tough-crowd-for-samsung-as-record-quarterly-earnings-brings-out-the-sellers-5e9979f2?mod=mw_rss_topstories",
+      "source_name": "MarketWatch Top Stories",
+      "country_code": "US",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-07-07T11:54:57.363119+00:00",
+      "last_seen_at": "2026-07-07T11:54:57.363119+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/artificial-intelligence/synopsys-to-cut-chip-fab-manufacturing-control-software-in-shift-to-ai-design-sources-say/articleshow/132232334.cms": {
+      "title": "Synopsys to cut chip fab manufacturing control software in shift to AI design",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/synopsys-to-cut-chip-fab-manufacturing-control-software-in-shift-to-ai-design-sources-say/articleshow/132232334.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Samsung Electronics",
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-07T11:54:57.363119+00:00",
+      "last_seen_at": "2026-07-07T11:54:57.363119+00:00"
+    },
+    "http://www3.nhk.or.jp/news/html/20260707/k10015170841000.html": {
+      "title": "韓国 サムスン電子 4月～6月営業利益は前年同期比 約19倍",
+      "link": "http://www3.nhk.or.jp/news/html/20260707/k10015170841000.html",
+      "source_name": "NHK Business",
+      "country_code": "JP",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-07-07T11:54:57.363119+00:00",
+      "last_seen_at": "2026-07-07T11:54:57.363119+00:00"
+    },
+    "https://www.cnbc.com/2026/07/07/hanwha-ocean-shares-sink-canada-submarines-tkms.html": {
+      "title": "Hanwha Ocean shares sink 23% as it loses bid to build Canada's next fleet of submarines",
+      "link": "https://www.cnbc.com/2026/07/07/hanwha-ocean-shares-sink-canada-submarines-tkms.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "Hanwha Ocean"
+      ],
+      "first_seen_at": "2026-07-07T11:54:57.363119+00:00",
+      "last_seen_at": "2026-07-07T11:54:57.363119+00:00"
+    },
+    "https://www.bangkokpost.com/business/general/3282305/samsung-expects-1800-operating-profit-leap-on-ai-boom": {
+      "title": "Samsung expects 1,800% operating profit leap on AI boom",
+      "link": "https://www.bangkokpost.com/business/general/3282305/samsung-expects-1800-operating-profit-leap-on-ai-boom",
+      "source_name": "Bangkok Post Business",
+      "country_code": "TH",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-07-07T11:54:57.363119+00:00",
+      "last_seen_at": "2026-07-07T11:54:57.363119+00:00"
+    },
+    "https://www.channelnewsasia.com/business/sk-hynix-bring-adr-funds-south-korea-around-july-15-source-says-6236921": {
+      "title": "SK Hynix to bring ADR funds to South Korea by around July 15, source says",
+      "link": "https://www.channelnewsasia.com/business/sk-hynix-bring-adr-funds-south-korea-around-july-15-source-says-6236921",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-07T11:54:57.363119+00:00",
+      "last_seen_at": "2026-07-07T11:54:57.363119+00:00"
+    },
+    "https://www.channelnewsasia.com/business/lg-energy-solution-forecasts-77-operating-profit-fall-in-q2-weak-ev-demand-6236646": {
+      "title": "LG Energy Solution forecasts 77% operating profit fall in Q2 on weak EV demand",
+      "link": "https://www.channelnewsasia.com/business/lg-energy-solution-forecasts-77-operating-profit-fall-in-q2-weak-ev-demand-6236646",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "LG Energy Solution"
+      ],
+      "first_seen_at": "2026-07-07T11:54:57.363119+00:00",
+      "last_seen_at": "2026-07-07T11:54:57.363119+00:00"
+    },
+    "https://www.channelnewsasia.com/business/samsung-record-quater-operating-porfit-ai-memory-chips-6236501": {
+      "title": "Samsung forecasts 19-fold jump in quarterly profit as AI demand fuels chip crunch",
+      "link": "https://www.channelnewsasia.com/business/samsung-record-quater-operating-porfit-ai-memory-chips-6236501",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-07-07T11:54:57.363119+00:00",
+      "last_seen_at": "2026-07-07T11:54:57.363119+00:00"
     }
   }
 }
