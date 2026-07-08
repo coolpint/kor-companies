@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-07T11:54:57.363119+00:00",
+  "last_run_at": "2026-07-08T00:01:06.056153+00:00",
   "seen_articles": {
-    "https://www.channelnewsasia.com/business/hyundai-recall-over-421000-us-vehicles-over-software-brake-issue-nhtsa-says-6137546": {
-      "title": "현대자동차가 소프트웨어 브레이크 결함으로 미국 내 차량 42만 1천 대 이상을 리콜할 예정이라고 미국 도로교통안전국(NHTSA)이 밝혔습니다.",
-      "link": "https://www.channelnewsasia.com/business/hyundai-recall-over-421000-us-vehicles-over-software-brake-issue-nhtsa-says-6137546",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-05-23T10:38:30.180506+00:00",
-      "last_seen_at": "2026-05-24T00:00:48.099926+00:00"
-    },
     "https://globalnews.ca/news/11862371/hanwha-submarines-canada-sub-bid": {
       "title": "한국은 브리티시컬럼비아주에서 함정을 선보이며 캐나다의 잠수함 입찰에서 승리하는 것을 목표로 하고 있다.",
       "link": "https://globalnews.ca/news/11862371/hanwha-submarines-canada-sub-bid",
@@ -2274,7 +2263,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-07-07T11:54:57.363119+00:00",
-      "last_seen_at": "2026-07-07T11:54:57.363119+00:00"
+      "last_seen_at": "2026-07-08T00:01:06.056153+00:00"
     },
     "http://www.euronews.com/business/2026/07/07/samsung-loses-over-100bn-in-market-value-despite-record-ai-driven-profit": {
       "title": "Samsung loses over $100bn in market value despite record AI-driven profit",
@@ -2285,7 +2274,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-07-07T11:54:57.363119+00:00",
-      "last_seen_at": "2026-07-07T11:54:57.363119+00:00"
+      "last_seen_at": "2026-07-08T00:01:06.056153+00:00"
     },
     "https://www.marketwatch.com/story/tough-crowd-for-samsung-as-record-quarterly-earnings-brings-out-the-sellers-5e9979f2?mod=mw_rss_topstories": {
       "title": "Tough crowd for Samsung as record quarterly earnings brings out the sellers",
@@ -2308,7 +2297,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-07T11:54:57.363119+00:00",
-      "last_seen_at": "2026-07-07T11:54:57.363119+00:00"
+      "last_seen_at": "2026-07-08T00:01:06.056153+00:00"
     },
     "http://www3.nhk.or.jp/news/html/20260707/k10015170841000.html": {
       "title": "韓国 サムスン電子 4月～6月営業利益は前年同期比 約19倍",
@@ -2319,18 +2308,18 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-07-07T11:54:57.363119+00:00",
-      "last_seen_at": "2026-07-07T11:54:57.363119+00:00"
+      "last_seen_at": "2026-07-08T00:01:06.056153+00:00"
     },
     "https://www.cnbc.com/2026/07/07/hanwha-ocean-shares-sink-canada-submarines-tkms.html": {
       "title": "Hanwha Ocean shares sink 23% as it loses bid to build Canada's next fleet of submarines",
       "link": "https://www.cnbc.com/2026/07/07/hanwha-ocean-shares-sink-canada-submarines-tkms.html",
-      "source_name": "CNBC Top News",
+      "source_name": "CNBC World News",
       "country_code": "US",
       "companies": [
         "Hanwha Ocean"
       ],
       "first_seen_at": "2026-07-07T11:54:57.363119+00:00",
-      "last_seen_at": "2026-07-07T11:54:57.363119+00:00"
+      "last_seen_at": "2026-07-08T00:01:06.056153+00:00"
     },
     "https://www.bangkokpost.com/business/general/3282305/samsung-expects-1800-operating-profit-leap-on-ai-boom": {
       "title": "Samsung expects 1,800% operating profit leap on AI boom",
@@ -2375,6 +2364,39 @@
       ],
       "first_seen_at": "2026-07-07T11:54:57.363119+00:00",
       "last_seen_at": "2026-07-07T11:54:57.363119+00:00"
+    },
+    "https://www.straitstimes.com/business/companies-markets/samsung-to-get-jump-on-apples-first-foldable-with-new-phones-in-july": {
+      "title": "Samsung to get jump on Apple’s first foldable with new phones in July",
+      "link": "https://www.straitstimes.com/business/companies-markets/samsung-to-get-jump-on-apples-first-foldable-with-new-phones-in-july",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-07-08T00:01:06.056153+00:00",
+      "last_seen_at": "2026-07-08T00:01:06.056153+00:00"
+    },
+    "https://www.cnbc.com/2026/07/07/chip-stocks-ai-selloff-samsung.html": {
+      "title": "Chip stocks sell off after Samsung earnings fall short of high AI bar",
+      "link": "https://www.cnbc.com/2026/07/07/chip-stocks-ai-selloff-samsung.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-07-08T00:01:06.056153+00:00",
+      "last_seen_at": "2026-07-08T00:01:06.056153+00:00"
+    },
+    "https://www.france24.com/en/tv-shows/business/20260707-samsung-electronics-profits-surge-1-800-annually-amid-artificial-intelligence-spending-boom": {
+      "title": "Samsung Electronics profits surge 1,800% annually amid artificial intelligence spending boom",
+      "link": "https://www.france24.com/en/tv-shows/business/20260707-samsung-electronics-profits-surge-1-800-annually-amid-artificial-intelligence-spending-boom",
+      "source_name": "France 24 Business / Tech",
+      "country_code": "FR",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-07-08T00:01:06.056153+00:00",
+      "last_seen_at": "2026-07-08T00:01:06.056153+00:00"
     }
   }
 }
