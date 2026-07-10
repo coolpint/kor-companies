@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-10T00:08:41.726199+00:00",
+  "last_run_at": "2026-07-10T11:55:28.151380+00:00",
   "seen_articles": {
-    "https://globalnews.ca/news/11862371/hanwha-submarines-canada-sub-bid": {
-      "title": "한국은 브리티시컬럼비아주에서 함정을 선보이며 캐나다의 잠수함 입찰에서 승리하는 것을 목표로 하고 있다.",
-      "link": "https://globalnews.ca/news/11862371/hanwha-submarines-canada-sub-bid",
-      "source_name": "Global News World",
-      "country_code": "CA",
-      "companies": [
-        "Hanwha Ocean"
-      ],
-      "first_seen_at": "2026-05-25T00:04:31.895393+00:00",
-      "last_seen_at": "2026-05-26T00:09:52.935111+00:00"
-    },
     "https://economictimes.indiatimes.com/tech/technology/samsung-consumer-electronics-union-asks-court-to-block-vote-on-pay-deal/articleshow/131331579.cms": {
       "title": "삼성전자 소비자 가전 노조, 임금 협상안 표결 중단 요청해",
       "link": "https://economictimes.indiatimes.com/tech/technology/samsung-consumer-electronics-union-asks-court-to-block-vote-on-pay-deal/articleshow/131331579.cms",
@@ -2435,13 +2424,13 @@
     "https://www.cnbc.com/2026/07/09/meet-sk-hynix-the-trillion-dollar-chipmaker-debuting-on-us-markets-.html": {
       "title": "Meet SK Hynix, the trillion-dollar South Korean chipmaker debuting on U.S. markets",
       "link": "https://www.cnbc.com/2026/07/09/meet-sk-hynix-the-trillion-dollar-chipmaker-debuting-on-us-markets-.html",
-      "source_name": "CNBC World News",
+      "source_name": "CNBC Top News",
       "country_code": "US",
       "companies": [
         "SK hynix"
       ],
       "first_seen_at": "2026-07-09T12:09:04.139319+00:00",
-      "last_seen_at": "2026-07-10T00:08:41.726199+00:00"
+      "last_seen_at": "2026-07-10T11:55:28.151380+00:00"
     },
     "https://www.channelnewsasia.com/business/sk-hynixs-us-listing-more-seven-times-oversubscribed-source-says-6242711": {
       "title": "SK Hynix's US listing more than seven times oversubscribed, source says",
@@ -2455,7 +2444,7 @@
       "last_seen_at": "2026-07-09T12:09:04.139319+00:00"
     },
     "https://www.straitstimes.com/business/companies-markets/chip-giant-sk-hynix-raises-34-billion-in-worlds-second-largest-stock-listing": {
-      "title": "Chip giant SK Hynix raises $34 billion in world’s second largest stock listing",
+      "title": "Chip giant SK Hynix raises $34 billion in world’s second-largest stock listing",
       "link": "https://www.straitstimes.com/business/companies-markets/chip-giant-sk-hynix-raises-34-billion-in-worlds-second-largest-stock-listing",
       "source_name": "The Straits Times",
       "country_code": "SG",
@@ -2463,7 +2452,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-10T00:08:41.726199+00:00",
-      "last_seen_at": "2026-07-10T00:08:41.726199+00:00"
+      "last_seen_at": "2026-07-10T11:55:28.151380+00:00"
     },
     "https://www.ft.com/content/33133a86-925e-4395-9f60-35e2a4052500": {
       "title": "SK Hynix raises $26.5bn in US market debut",
@@ -2474,21 +2463,21 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-10T00:08:41.726199+00:00",
-      "last_seen_at": "2026-07-10T00:08:41.726199+00:00"
+      "last_seen_at": "2026-07-10T11:55:28.151380+00:00"
     },
     "https://www.cnbc.com/2026/07/09/jim-cramer-sk-hynix.html": {
       "title": "Where Jim Cramer stands on SK Hynix's massive offering",
       "link": "https://www.cnbc.com/2026/07/09/jim-cramer-sk-hynix.html",
-      "source_name": "CNBC Top News",
+      "source_name": "CNBC World News",
       "country_code": "US",
       "companies": [
         "SK hynix"
       ],
       "first_seen_at": "2026-07-10T00:08:41.726199+00:00",
-      "last_seen_at": "2026-07-10T00:08:41.726199+00:00"
+      "last_seen_at": "2026-07-10T11:55:28.151380+00:00"
     },
     "https://www.marketwatch.com/story/sk-hynix-is-about-to-hit-the-u-s-market-heres-what-to-know-about-the-deal-1c873fa4?mod=mw_rss_topstories": {
-      "title": "SK Hynix is about to hit the U.S. market. Here’s what to know about the deal.",
+      "title": "SK Hynix raises $26.5 billion in U.S. offering. What to know about the stock.",
       "link": "https://www.marketwatch.com/story/sk-hynix-is-about-to-hit-the-u-s-market-heres-what-to-know-about-the-deal-1c873fa4?mod=mw_rss_topstories",
       "source_name": "MarketWatch Top Stories",
       "country_code": "US",
@@ -2496,10 +2485,10 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-10T00:08:41.726199+00:00",
-      "last_seen_at": "2026-07-10T00:08:41.726199+00:00"
+      "last_seen_at": "2026-07-10T11:55:28.151380+00:00"
     },
     "https://www.ft.com/content/01bcadf5-53d6-4fca-9273-95ce96996c5f": {
-      "title": "FirstFT: SK Hynix raises $26.5bn in Nasdaq debut",
+      "title": "FirstFT: SK Hynix completes biggest US IPO by a foreign company",
       "link": "https://www.ft.com/content/01bcadf5-53d6-4fca-9273-95ce96996c5f",
       "source_name": "Financial Times Companies",
       "country_code": "GB",
@@ -2507,7 +2496,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-10T00:08:41.726199+00:00",
-      "last_seen_at": "2026-07-10T00:08:41.726199+00:00"
+      "last_seen_at": "2026-07-10T11:55:28.151380+00:00"
     },
     "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/air-india-fourth-most-punctual-airline-in-the-world/articleshow/132297344.cms": {
       "title": "Air India fourth most punctual airline in the world",
@@ -2529,7 +2518,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-10T00:08:41.726199+00:00",
-      "last_seen_at": "2026-07-10T00:08:41.726199+00:00"
+      "last_seen_at": "2026-07-10T11:55:28.151380+00:00"
     },
     "https://www.ft.com/content/592f39a2-2f15-4b6a-8506-8c28530b213b": {
       "title": "Wall Street set for bumper $140mn payday from SK Hynix listing",
@@ -2541,6 +2530,215 @@
       ],
       "first_seen_at": "2026-07-10T00:08:41.726199+00:00",
       "last_seen_at": "2026-07-10T00:08:41.726199+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-korean-billionaires-risky-bet-pays-off-as-sk-hynix-debuts-in-new-york/articleshow/132310486.cms": {
+      "title": "South Korean billionaire's risky bet pays off, as SK Hynix debuts in New York",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-korean-billionaires-risky-bet-pays-off-as-sk-hynix-debuts-in-new-york/articleshow/132310486.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-10T11:55:28.151380+00:00",
+      "last_seen_at": "2026-07-10T11:55:28.151380+00:00"
+    },
+    "https://www.marketwatch.com/story/as-sk-hynix-lands-in-the-u-s-heres-why-investors-should-be-wary-of-the-chip-sectors-bubble-like-volatility-3db579c6?mod=mw_rss_topstories": {
+      "title": "As SK Hynix lands in the U.S., here’s why investors should be wary of the chip sector’s ‘bubblelike’ volatility",
+      "link": "https://www.marketwatch.com/story/as-sk-hynix-lands-in-the-u-s-heres-why-investors-should-be-wary-of-the-chip-sectors-bubble-like-volatility-3db579c6?mod=mw_rss_topstories",
+      "source_name": "MarketWatch Top Stories",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-10T11:55:28.151380+00:00",
+      "last_seen_at": "2026-07-10T11:55:28.151380+00:00"
+    },
+    "https://www.channelnewsasia.com/business/south-korean-billionaires-risky-bet-pays-sk-hynix-debuts-in-new-york-6246316": {
+      "title": "South Korean billionaire's risky bet pays off, as SK Hynix debuts in New York",
+      "link": "https://www.channelnewsasia.com/business/south-korean-billionaires-risky-bet-pays-sk-hynix-debuts-in-new-york-6246316",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-10T11:55:28.151380+00:00",
+      "last_seen_at": "2026-07-10T11:55:28.151380+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/artificial-intelligence/sk-hynix-set-for-marquee-us-debut-in-test-for-ai-appetite/articleshow/132307825.cms": {
+      "title": "SK Hynix set for marquee US debut in test for AI appetite",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/sk-hynix-set-for-marquee-us-debut-in-test-for-ai-appetite/articleshow/132307825.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-10T11:55:28.151380+00:00",
+      "last_seen_at": "2026-07-10T11:55:28.151380+00:00"
+    },
+    "https://www.channelnewsasia.com/business/sk-hynixs-marquee-us-debut-test-ai-appetite-6245846": {
+      "title": "SK Hynix's marquee US debut to test AI appetite",
+      "link": "https://www.channelnewsasia.com/business/sk-hynixs-marquee-us-debut-test-ai-appetite-6245846",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-10T11:55:28.151380+00:00",
+      "last_seen_at": "2026-07-10T11:55:28.151380+00:00"
+    },
+    "https://www.aljazeera.com/economy/2026/7/10/south-koreas-sk-hynix-raises-26-5bn-in-record-breaking-us-ipo?traffic_source=rss": {
+      "title": "South Korea’s SK Hynix raises $26.5bn in record-breaking US IPO",
+      "link": "https://www.aljazeera.com/economy/2026/7/10/south-koreas-sk-hynix-raises-26-5bn-in-record-breaking-us-ipo?traffic_source=rss",
+      "source_name": "Al Jazeera",
+      "country_code": "QA",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-10T11:55:28.151380+00:00",
+      "last_seen_at": "2026-07-10T11:55:28.151380+00:00"
+    },
+    "https://www.cnbc.com/2026/07/10/iran-technical-talks-sk-hynix-fed-taskforce-vw-model-cut.html": {
+      "title": "CNBC Daily Open: A week of narrative whiplash and vibe shifts",
+      "link": "https://www.cnbc.com/2026/07/10/iran-technical-talks-sk-hynix-fed-taskforce-vw-model-cut.html",
+      "source_name": "CNBC World News",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-10T11:55:28.151380+00:00",
+      "last_seen_at": "2026-07-10T11:55:28.151380+00:00"
+    },
+    "https://www.channelnewsasia.com/business/hanwha-ocean-sold-around-2-billion-in-dollar-won-forward-market-source-says-6245796": {
+      "title": "Hanwha Ocean sold around $2 billion in dollar-won forward market, source says",
+      "link": "https://www.channelnewsasia.com/business/hanwha-ocean-sold-around-2-billion-in-dollar-won-forward-market-source-says-6245796",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Hanwha Ocean"
+      ],
+      "first_seen_at": "2026-07-10T11:55:28.151380+00:00",
+      "last_seen_at": "2026-07-10T11:55:28.151380+00:00"
+    },
+    "https://www.cnbc.com/2026/07/10/sk-hynix-debuts-on-nasdaq-will-that-bridge-its-korea-discount-.html": {
+      "title": "Will SK Hynix’s Wall Street debut narrow its 'Korea discount'?",
+      "link": "https://www.cnbc.com/2026/07/10/sk-hynix-debuts-on-nasdaq-will-that-bridge-its-korea-discount-.html",
+      "source_name": "CNBC World News",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-10T11:55:28.151380+00:00",
+      "last_seen_at": "2026-07-10T11:55:28.151380+00:00"
+    },
+    "https://www.channelnewsasia.com/business/sk-hynix-set-marquee-us-debut-in-test-ai-appetite-6245756": {
+      "title": "SK Hynix set for marquee US debut in test for AI appetite",
+      "link": "https://www.channelnewsasia.com/business/sk-hynix-set-marquee-us-debut-in-test-ai-appetite-6245756",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-10T11:55:28.151380+00:00",
+      "last_seen_at": "2026-07-10T11:55:28.151380+00:00"
+    },
+    "https://www.channelnewsasia.com/east-asia/sk-hynix-us-listing-ai-chips-stocks-6245691": {
+      "title": "South Korean chip titan SK hynix raises US$26.5 billion in blockbuster US listing",
+      "link": "https://www.channelnewsasia.com/east-asia/sk-hynix-us-listing-ai-chips-stocks-6245691",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-10T11:55:28.151380+00:00",
+      "last_seen_at": "2026-07-10T11:55:28.151380+00:00"
+    },
+    "https://www.theguardian.com/world/2026/jul/10/south-korea-chip-maker-sk-hynix-rides-ai-boom-raising-265bn-in-huge-us-listing": {
+      "title": "South Korea chip maker SK hynix rides AI boom raising $26.5bn in huge US listing",
+      "link": "https://www.theguardian.com/world/2026/jul/10/south-korea-chip-maker-sk-hynix-rides-ai-boom-raising-265bn-in-huge-us-listing",
+      "source_name": "The Guardian World",
+      "country_code": "GB",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-10T11:55:28.151380+00:00",
+      "last_seen_at": "2026-07-10T11:55:28.151380+00:00"
+    },
+    "https://www.ft.com/content/eca588b0-2729-4c8e-8319-ee1d9eee4d95": {
+      "title": "Wall Street’s giant memory windfall",
+      "link": "https://www.ft.com/content/eca588b0-2729-4c8e-8319-ee1d9eee4d95",
+      "source_name": "Financial Times Companies",
+      "country_code": "GB",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-10T11:55:28.151380+00:00",
+      "last_seen_at": "2026-07-10T11:55:28.151380+00:00"
+    },
+    "https://www.ft.com/content/3986c7e5-01bc-4d24-a41f-3b8030ac2bd8": {
+      "title": "SK Hynix’s jumbo share sale a sign of overheated times",
+      "link": "https://www.ft.com/content/3986c7e5-01bc-4d24-a41f-3b8030ac2bd8",
+      "source_name": "Financial Times Companies",
+      "country_code": "GB",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-10T11:55:28.151380+00:00",
+      "last_seen_at": "2026-07-10T11:55:28.151380+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/tech-bytes/sk-hynix-advisors-win-big-fee-windfall-after-modest-spacex-payday/articleshow/132302319.cms": {
+      "title": "SK Hynix advisors win big fee windfall after modest SpaceX payday",
+      "link": "https://economictimes.indiatimes.com/tech/tech-bytes/sk-hynix-advisors-win-big-fee-windfall-after-modest-spacex-payday/articleshow/132302319.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-10T11:55:28.151380+00:00",
+      "last_seen_at": "2026-07-10T11:55:28.151380+00:00"
+    },
+    "https://www.channelnewsasia.com/business/sk-hynix-advisors-win-big-fee-windfall-after-modest-spacex-payday-6245521": {
+      "title": "SK Hynix advisors win big fee windfall after modest SpaceX payday",
+      "link": "https://www.channelnewsasia.com/business/sk-hynix-advisors-win-big-fee-windfall-after-modest-spacex-payday-6245521",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-10T11:55:28.151380+00:00",
+      "last_seen_at": "2026-07-10T11:55:28.151380+00:00"
+    },
+    "https://www.lemonde.fr/economie/article/2026/07/10/bienvenue-a-metaplant-l-usine-ultra-automatisee-hyundai-a-ellabell-en-georgie-ou-les-salaries-cotoient-des-robots_6722348_3234.html": {
+      "title": "Bienvenue à Metaplant, l’usine américaine ultra-automatisée de Hyundai en Géorgie, où les salariés côtoient des robots",
+      "link": "https://www.lemonde.fr/economie/article/2026/07/10/bienvenue-a-metaplant-l-usine-ultra-automatisee-hyundai-a-ellabell-en-georgie-ou-les-salaries-cotoient-des-robots_6722348_3234.html",
+      "source_name": "Le Monde Economie",
+      "country_code": "FR",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-07-10T11:55:28.151380+00:00",
+      "last_seen_at": "2026-07-10T11:55:28.151380+00:00"
+    },
+    "https://www.bbc.co.uk/news/articles/c4gym70r0y4o": {
+      "title": "Chip giant SK Hynix raises $26.5bn in mega US share sale",
+      "link": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o",
+      "source_name": "BBC Business",
+      "country_code": "GB",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-10T11:55:28.151380+00:00",
+      "last_seen_at": "2026-07-10T11:55:28.151380+00:00"
+    },
+    "https://asia.nikkei.com/business/markets/ipo/sk-hynix-south-korean-memory-chip-titan-raises-26.5bn-in-the-us": {
+      "title": "SK Hynix: South Korean memory chip titan raises $26.5bn in the US",
+      "link": "https://asia.nikkei.com/business/markets/ipo/sk-hynix-south-korean-memory-chip-titan-raises-26.5bn-in-the-us",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-10T11:55:28.151380+00:00",
+      "last_seen_at": "2026-07-10T11:55:28.151380+00:00"
     }
   }
 }
