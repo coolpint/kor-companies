@@ -1,40 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-11T10:17:43.140710+00:00",
+  "last_run_at": "2026-07-11T23:59:55.964181+00:00",
   "seen_articles": {
-    "https://economictimes.indiatimes.com/tech/technology/samsung-consumer-electronics-union-asks-court-to-block-vote-on-pay-deal/articleshow/131331579.cms": {
-      "title": "삼성전자 소비자 가전 노조, 임금 협상안 표결 중단 요청해",
-      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-consumer-electronics-union-asks-court-to-block-vote-on-pay-deal/articleshow/131331579.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-05-27T00:11:43.479645+00:00",
-      "last_seen_at": "2026-05-27T12:23:34.852562+00:00"
-    },
-    "https://www.france24.com/en/tv-shows/business/20260526-starbucks-in-south-korea-sees-very-significant-drop-in-sales-amid-controversy": {
-      "title": "한국 스타벅스, 논란 속에 '매출 급감'",
-      "link": "https://www.france24.com/en/tv-shows/business/20260526-starbucks-in-south-korea-sees-very-significant-drop-in-sales-amid-controversy",
-      "source_name": "France 24 Business / Tech",
-      "country_code": "FR",
-      "companies": [
-        "Shinsegae"
-      ],
-      "first_seen_at": "2026-05-27T00:11:43.479645+00:00",
-      "last_seen_at": "2026-05-27T12:23:34.852562+00:00"
-    },
-    "https://www.channelnewsasia.com/east-asia/south-korea-starbucks-tank-day-marketing-backlash-6141736": {
-      "title": "스타벅스, '탱크 데이' 마케팅 논란 이후 한국 매출 급감",
-      "link": "https://www.channelnewsasia.com/east-asia/south-korea-starbucks-tank-day-marketing-backlash-6141736",
-      "source_name": "CNA Asia",
-      "country_code": "SG",
-      "companies": [
-        "Shinsegae"
-      ],
-      "first_seen_at": "2026-05-27T00:11:43.479645+00:00",
-      "last_seen_at": "2026-05-27T12:23:34.852562+00:00"
-    },
     "https://www.nytimes.com/2026/05/27/business/dealbook/ai-chips-war-samsung-micron.html": {
       "title": "메모리 칩이 인공지능 시장을 주도하는 이유는 무엇일까요?",
       "link": "https://www.nytimes.com/2026/05/27/business/dealbook/ai-chips-war-samsung-micron.html",
@@ -56,17 +23,6 @@
       ],
       "first_seen_at": "2026-05-27T12:23:34.852562+00:00",
       "last_seen_at": "2026-05-28T12:31:45.717697+00:00"
-    },
-    "https://www.ft.com/content/463052d8-b452-4640-88e4-844e8e435736": {
-      "title": "메모리 칩 제조업체들이 AI 붐을 타고 시가총액 1조 달러 클럽에 합류했습니다.",
-      "link": "https://www.ft.com/content/463052d8-b452-4640-88e4-844e8e435736",
-      "source_name": "Financial Times Companies",
-      "country_code": "GB",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-05-27T12:23:34.852562+00:00",
-      "last_seen_at": "2026-05-27T12:23:34.852562+00:00"
     },
     "https://www.bangkokpost.com/business/general/3261670/samsung-union-approves-deal-for-massive-bonuses": {
       "title": "삼성 노조, 대규모 보너스 지급 합의안 승인",
@@ -100,17 +56,6 @@
       ],
       "first_seen_at": "2026-05-27T12:23:34.852562+00:00",
       "last_seen_at": "2026-05-28T12:31:45.717697+00:00"
-    },
-    "https://www.marketwatch.com/story/hynix-quickly-joins-micron-in-the-1-trillion-club-as-one-bank-argues-ai-is-actually-underhyped-403602db?mod=mw_rss_topstories": {
-      "title": "경쟁사 한 곳이 마이크론에 이어 시가총액 1조 달러 클럽에 합류한 가운데, 한 은행은 AI가 실제로는 과소평가되었다고 주장한다.",
-      "link": "https://www.marketwatch.com/story/hynix-quickly-joins-micron-in-the-1-trillion-club-as-one-bank-argues-ai-is-actually-underhyped-403602db?mod=mw_rss_topstories",
-      "source_name": "MarketWatch Top Stories",
-      "country_code": "US",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-05-27T12:23:34.852562+00:00",
-      "last_seen_at": "2026-05-27T12:23:34.852562+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/ai-rally-sk-hynix-micron-technology-join-trillion-dollar-club-taiwan-bourse-overtakes-india-in-market-value/articleshow/131346155.cms": {
       "title": "AI 강세장: SK하이닉스, 마이크론 테크놀로지, 시가총액 1조 달러 클럽 가입; 대만 증시, 시가총액 기준 인도 증시 추월",
@@ -2430,7 +2375,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-09T12:09:04.139319+00:00",
-      "last_seen_at": "2026-07-11T10:17:43.140710+00:00"
+      "last_seen_at": "2026-07-11T23:59:55.964181+00:00"
     },
     "https://www.channelnewsasia.com/business/sk-hynixs-us-listing-more-seven-times-oversubscribed-source-says-6242711": {
       "title": "SK Hynix's US listing more than seven times oversubscribed, source says",
@@ -2463,7 +2408,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-10T00:08:41.726199+00:00",
-      "last_seen_at": "2026-07-11T10:17:43.140710+00:00"
+      "last_seen_at": "2026-07-11T23:59:55.964181+00:00"
     },
     "https://www.cnbc.com/2026/07/09/jim-cramer-sk-hynix.html": {
       "title": "Where Jim Cramer stands on SK Hynix's massive offering",
@@ -2727,7 +2672,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-10T11:55:28.151380+00:00",
-      "last_seen_at": "2026-07-11T10:17:43.140710+00:00"
+      "last_seen_at": "2026-07-11T23:59:55.964181+00:00"
     },
     "https://asia.nikkei.com/business/markets/ipo/sk-hynix-south-korean-memory-chip-titan-raises-26.5bn-in-the-us": {
       "title": "SK Hynix: South Korean memory chip titan raises $26.5bn in the US",
@@ -2738,7 +2683,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-10T11:55:28.151380+00:00",
-      "last_seen_at": "2026-07-11T10:17:43.140710+00:00"
+      "last_seen_at": "2026-07-11T23:59:55.964181+00:00"
     },
     "https://www.taipeitimes.com/News/biz/archives/2026/07/11/2003860551": {
       "title": "SK Hynix raises US$26.5bn in record debut in the US",
@@ -2760,7 +2705,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-11T00:01:59.766742+00:00",
-      "last_seen_at": "2026-07-11T10:17:43.140710+00:00"
+      "last_seen_at": "2026-07-11T23:59:55.964181+00:00"
     },
     "https://www.marketwatch.com/story/sk-hynixs-stock-looks-primed-for-a-pop-in-its-nasdaq-debut-38054370?mod=mw_rss_topstories": {
       "title": "SK Hynix’s stock sees double-digit pop in Nasdaq debut",
@@ -2782,7 +2727,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-11T00:01:59.766742+00:00",
-      "last_seen_at": "2026-07-11T10:17:43.140710+00:00"
+      "last_seen_at": "2026-07-11T23:59:55.964181+00:00"
     },
     "https://asia.nikkei.com/business/markets/sk-hynix-rallies-in-biggest-ever-foreign-share-sale-in-us": {
       "title": "SK Hynix rallies in biggest-ever foreign share sale in US",
@@ -2793,7 +2738,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-11T00:01:59.766742+00:00",
-      "last_seen_at": "2026-07-11T10:17:43.140710+00:00"
+      "last_seen_at": "2026-07-11T23:59:55.964181+00:00"
     },
     "https://www.channelnewsasia.com/world/south-korean-chip-giant-sk-hynix-surges-first-day-trading-wall-street-6247311": {
       "title": "South Korean chip giant SK hynix surges on first day of trading on Wall Street",
@@ -2815,7 +2760,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-11T00:01:59.766742+00:00",
-      "last_seen_at": "2026-07-11T10:17:43.140710+00:00"
+      "last_seen_at": "2026-07-11T23:59:55.964181+00:00"
     },
     "https://www.nytimes.com/2026/07/10/business/sk-hynix-stock.html": {
       "title": "SK Hynix Stock Rises on First Day of US Trading",
@@ -2826,7 +2771,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-11T00:01:59.766742+00:00",
-      "last_seen_at": "2026-07-11T10:17:43.140710+00:00"
+      "last_seen_at": "2026-07-11T23:59:55.964181+00:00"
     },
     "https://www.cnbc.com/2026/07/10/etfs-investing-market-risk-leverage.html": {
       "title": "The ETF market is pushing the limits of the leverage it can handle. SK Hynix is the latest example",
@@ -2837,7 +2782,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-11T00:01:59.766742+00:00",
-      "last_seen_at": "2026-07-11T10:17:43.140710+00:00"
+      "last_seen_at": "2026-07-11T23:59:55.964181+00:00"
     },
     "https://www.channelnewsasia.com/business/sk-hynix-ceo-sees-worst-memory-shortage-in-2027-demand-outstrip-supply-beyond-2030-6247161": {
       "title": "SK Hynix CEO sees worst memory shortage in 2027, demand to outstrip supply beyond 2030",
@@ -2848,7 +2793,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-11T00:01:59.766742+00:00",
-      "last_seen_at": "2026-07-11T10:17:43.140710+00:00"
+      "last_seen_at": "2026-07-11T23:59:55.964181+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/sk-hynix-ceo-sees-worst-ever-memory-supply-shortage-in-2027-says-demand-to-outstrip-supply-beyond-2030/articleshow/132318932.cms": {
       "title": "SK Hynix CEO sees worst-ever memory supply shortage in 2027, says demand to outstrip supply beyond 2030",
@@ -2859,7 +2804,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-11T00:01:59.766742+00:00",
-      "last_seen_at": "2026-07-11T10:17:43.140710+00:00"
+      "last_seen_at": "2026-07-11T23:59:55.964181+00:00"
     },
     "https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut": {
       "title": "Nvidia’s biggest RAM supplier just had a trillion-dollar debut on Wall Street",
@@ -2881,7 +2826,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-11T00:01:59.766742+00:00",
-      "last_seen_at": "2026-07-11T10:17:43.140710+00:00"
+      "last_seen_at": "2026-07-11T23:59:55.964181+00:00"
     },
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/kandou-ai-to-open-india-chip-design-headquarters-in-hyderabad/articleshow/132315547.cms": {
       "title": "Kandou AI to open India chip design headquarters in Hyderabad",
@@ -2892,7 +2837,7 @@
         "KT Corp"
       ],
       "first_seen_at": "2026-07-11T00:01:59.766742+00:00",
-      "last_seen_at": "2026-07-11T10:17:43.140710+00:00"
+      "last_seen_at": "2026-07-11T23:59:55.964181+00:00"
     },
     "https://abcnews.com/Business/wireStory/kia-launches-new-recall-463000-telluride-suvs-due-134651530": {
       "title": "Kia launches new recall for 463,000 Telluride SUVs due to fire risk, urges owners to park outside",
@@ -2903,7 +2848,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-07-11T00:01:59.766742+00:00",
-      "last_seen_at": "2026-07-11T10:17:43.140710+00:00"
+      "last_seen_at": "2026-07-11T23:59:55.964181+00:00"
     },
     "https://www.channelnewsasia.com/business/sk-hynix-options-trade-two-business-days-after-nasdaq-debut-sources-say-6246471": {
       "title": "SK Hynix options to trade two business days after Nasdaq debut, sources say",
@@ -2914,7 +2859,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-11T00:01:59.766742+00:00",
-      "last_seen_at": "2026-07-11T10:17:43.140710+00:00"
+      "last_seen_at": "2026-07-11T23:59:55.964181+00:00"
     },
     "https://www.japantimes.co.jp/business/2026/07/11/tech/sk-hynix-debut-ai-boom": {
       "title": "SK Hynix debut is a bet that AI breaks boom-and-bust chip cycle",
@@ -2925,7 +2870,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-11T10:17:43.140710+00:00",
-      "last_seen_at": "2026-07-11T10:17:43.140710+00:00"
+      "last_seen_at": "2026-07-11T23:59:55.964181+00:00"
     },
     "https://www.channelnewsasia.com/world/sk-hynix-wall-street-shares-surge-6247311": {
       "title": "South Korean chip giant SK hynix surges on first day of trading on Wall Street",
@@ -2936,7 +2881,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-11T10:17:43.140710+00:00",
-      "last_seen_at": "2026-07-11T10:17:43.140710+00:00"
+      "last_seen_at": "2026-07-11T23:59:55.964181+00:00"
     },
     "https://www.cnbc.com/2026/07/10/the-clubs-top-10-things-to-watch-in-the-stock-market-friday.html": {
       "title": "The Club's top 10 things to watch in the stock market Friday",
@@ -2948,6 +2893,17 @@
       ],
       "first_seen_at": "2026-07-11T10:17:43.140710+00:00",
       "last_seen_at": "2026-07-11T10:17:43.140710+00:00"
+    },
+    "https://www.channelnewsasia.com/commentary/micron-sk-hynix-samsung-profits-chip-shortage-rising-prices-6245961": {
+      "title": "Commentary: Micron’s massive profits are a guarantee of trouble",
+      "link": "https://www.channelnewsasia.com/commentary/micron-sk-hynix-samsung-profits-chip-shortage-rising-prices-6245961",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-11T23:59:55.964181+00:00",
+      "last_seen_at": "2026-07-11T23:59:55.964181+00:00"
     }
   }
 }
