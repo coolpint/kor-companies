@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-11T23:59:55.964181+00:00",
+  "last_run_at": "2026-07-12T10:36:54.954945+00:00",
   "seen_articles": {
     "https://www.nytimes.com/2026/05/27/business/dealbook/ai-chips-war-samsung-micron.html": {
       "title": "메모리 칩이 인공지능 시장을 주도하는 이유는 무엇일까요?",
@@ -23,17 +23,6 @@
       ],
       "first_seen_at": "2026-05-27T12:23:34.852562+00:00",
       "last_seen_at": "2026-05-28T12:31:45.717697+00:00"
-    },
-    "https://www.bangkokpost.com/business/general/3261670/samsung-union-approves-deal-for-massive-bonuses": {
-      "title": "삼성 노조, 대규모 보너스 지급 합의안 승인",
-      "link": "https://www.bangkokpost.com/business/general/3261670/samsung-union-approves-deal-for-massive-bonuses",
-      "source_name": "Bangkok Post Business",
-      "country_code": "TH",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-05-27T12:23:34.852562+00:00",
-      "last_seen_at": "2026-05-28T00:03:18.793296+00:00"
     },
     "https://www.thehindubusinessline.com/companies/hyundai-motor-india-hikes-vehicle-prices-by-up-to-12800/article71028794.ece": {
       "title": "현대자동차 인도법인, 차량 가격 최대 12,800루피 인상",
@@ -68,28 +57,6 @@
       "first_seen_at": "2026-05-27T12:23:34.852562+00:00",
       "last_seen_at": "2026-05-28T12:31:45.717697+00:00"
     },
-    "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-motor-india-to-raise-car-prices-by-rs-12800-effective-june-1-citing-input-cost-surge/articleshow/131345507.cms": {
-      "title": "현대자동차 인도법인, 6월 1일부터 차량 가격 최대 12,800루피 인상 예정",
-      "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-motor-india-to-raise-car-prices-by-rs-12800-effective-june-1-citing-input-cost-surge/articleshow/131345507.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-05-27T12:23:34.852562+00:00",
-      "last_seen_at": "2026-05-28T00:03:18.793296+00:00"
-    },
-    "https://www.scmp.com/news/china/military/article/3355017/south-korea-aims-join-china-us-top-tier-loyal-wingman-combat-drone-race": {
-      "title": "한국은 '충실한 조력자' 전투 드론 경쟁에서 중국, 미국과 함께 최상위권에 진입하는 것을 목표로 하고 있다.",
-      "link": "https://www.scmp.com/news/china/military/article/3355017/south-korea-aims-join-china-us-top-tier-loyal-wingman-combat-drone-race",
-      "source_name": "South China Morning Post World",
-      "country_code": "HK",
-      "companies": [
-        "Hanwha Aerospace"
-      ],
-      "first_seen_at": "2026-05-27T12:23:34.852562+00:00",
-      "last_seen_at": "2026-05-28T00:03:18.793296+00:00"
-    },
     "https://www.cnbc.com/2026/05/27/sk-hynix-shares-ai-chip-rally-1-trillion.html": {
       "title": "SK하이닉스, AI 붐에 힘입어 한국 반도체 주식 1조 달러 상승하며 시가총액 1조 달러 돌파",
       "link": "https://www.cnbc.com/2026/05/27/sk-hynix-shares-ai-chip-rally-1-trillion.html",
@@ -111,29 +78,6 @@
       ],
       "first_seen_at": "2026-05-27T12:23:34.852562+00:00",
       "last_seen_at": "2026-05-29T00:14:20.988740+00:00"
-    },
-    "https://www.cnbc.com/2026/05/27/sk-hynix-micron-join-1-trillion-club-cnbc-daily-open.html": {
-      "title": "CNBC 데일리 오픈: 1조 달러 클럽에 새로운 멤버가 합류했습니다.",
-      "link": "https://www.cnbc.com/2026/05/27/sk-hynix-micron-join-1-trillion-club-cnbc-daily-open.html",
-      "source_name": "CNBC World News",
-      "country_code": "US",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-05-27T12:23:34.852562+00:00",
-      "last_seen_at": "2026-05-28T00:03:18.793296+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/artificial-intelligence/sk-hynix-joins-1-trillion-club-after-samsung-micron-on-ai-chip-boom/articleshow/131341126.cms": {
-      "title": "삼성과 마이크론의 AI 칩 붐에 힘입어 SK하이닉스가 시가총액 1조 달러 클럽에 합류했습니다.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/sk-hynix-joins-1-trillion-club-after-samsung-micron-on-ai-chip-boom/articleshow/131341126.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-05-27T12:23:34.852562+00:00",
-      "last_seen_at": "2026-05-28T00:03:18.793296+00:00"
     },
     "https://www.bbc.com/news/articles/cnvp9dq0p3go": {
       "title": "AI 칩 수요 급증으로 1조 달러 클럽에 두 개의 새로운 기업이 탄생했습니다.",
@@ -2683,7 +2627,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-10T11:55:28.151380+00:00",
-      "last_seen_at": "2026-07-11T23:59:55.964181+00:00"
+      "last_seen_at": "2026-07-12T10:36:54.954945+00:00"
     },
     "https://www.taipeitimes.com/News/biz/archives/2026/07/11/2003860551": {
       "title": "SK Hynix raises US$26.5bn in record debut in the US",
@@ -2705,7 +2649,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-11T00:01:59.766742+00:00",
-      "last_seen_at": "2026-07-11T23:59:55.964181+00:00"
+      "last_seen_at": "2026-07-12T10:36:54.954945+00:00"
     },
     "https://www.marketwatch.com/story/sk-hynixs-stock-looks-primed-for-a-pop-in-its-nasdaq-debut-38054370?mod=mw_rss_topstories": {
       "title": "SK Hynix’s stock sees double-digit pop in Nasdaq debut",
@@ -2738,7 +2682,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-11T00:01:59.766742+00:00",
-      "last_seen_at": "2026-07-11T23:59:55.964181+00:00"
+      "last_seen_at": "2026-07-12T10:36:54.954945+00:00"
     },
     "https://www.channelnewsasia.com/world/south-korean-chip-giant-sk-hynix-surges-first-day-trading-wall-street-6247311": {
       "title": "South Korean chip giant SK hynix surges on first day of trading on Wall Street",
@@ -2870,7 +2814,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-11T10:17:43.140710+00:00",
-      "last_seen_at": "2026-07-11T23:59:55.964181+00:00"
+      "last_seen_at": "2026-07-12T10:36:54.954945+00:00"
     },
     "https://www.channelnewsasia.com/world/sk-hynix-wall-street-shares-surge-6247311": {
       "title": "South Korean chip giant SK hynix surges on first day of trading on Wall Street",
@@ -2903,7 +2847,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-11T23:59:55.964181+00:00",
-      "last_seen_at": "2026-07-11T23:59:55.964181+00:00"
+      "last_seen_at": "2026-07-12T10:36:54.954945+00:00"
     }
   }
 }
