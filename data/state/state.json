@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-12T10:36:54.954945+00:00",
+  "last_run_at": "2026-07-12T23:59:16.571742+00:00",
   "seen_articles": {
     "https://www.nytimes.com/2026/05/27/business/dealbook/ai-chips-war-samsung-micron.html": {
       "title": "메모리 칩이 인공지능 시장을 주도하는 이유는 무엇일까요?",
@@ -13,61 +13,6 @@
       "first_seen_at": "2026-05-27T12:23:34.852562+00:00",
       "last_seen_at": "2026-05-29T00:14:20.988740+00:00"
     },
-    "https://www.theguardian.com/technology/2026/may/27/samsung-memory-chip-staff-bonuses-ai-profit-sharing-deal": {
-      "title": "삼성 메모리 칩 직원들, AI 수익 분배 계약 체결 후 31만 파운드 보너스 지급 예정",
-      "link": "https://www.theguardian.com/technology/2026/may/27/samsung-memory-chip-staff-bonuses-ai-profit-sharing-deal",
-      "source_name": "The Guardian World",
-      "country_code": "GB",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-05-27T12:23:34.852562+00:00",
-      "last_seen_at": "2026-05-28T12:31:45.717697+00:00"
-    },
-    "https://www.thehindubusinessline.com/companies/hyundai-motor-india-hikes-vehicle-prices-by-up-to-12800/article71028794.ece": {
-      "title": "현대자동차 인도법인, 차량 가격 최대 12,800루피 인상",
-      "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-hikes-vehicle-prices-by-up-to-12800/article71028794.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-05-27T12:23:34.852562+00:00",
-      "last_seen_at": "2026-05-28T12:31:45.717697+00:00"
-    },
-    "http://www.euronews.com/business/2026/05/27/memory-chip-giants-sk-hynix-and-micron-cross-1tn-valuation-amid-ai-mania": {
-      "title": "메모리 칩 업계의 거물인 SK하이닉스와 마이크론이 AI 열풍 속에 시가총액 1조 달러를 돌파했습니다.",
-      "link": "http://www.euronews.com/business/2026/05/27/memory-chip-giants-sk-hynix-and-micron-cross-1tn-valuation-amid-ai-mania",
-      "source_name": "Euronews Business",
-      "country_code": "EU",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-05-27T12:23:34.852562+00:00",
-      "last_seen_at": "2026-05-28T12:31:45.717697+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/ai-rally-sk-hynix-micron-technology-join-trillion-dollar-club-taiwan-bourse-overtakes-india-in-market-value/articleshow/131346155.cms": {
-      "title": "AI 강세장: SK하이닉스, 마이크론 테크놀로지, 시가총액 1조 달러 클럽 가입; 대만 증시, 시가총액 기준 인도 증시 추월",
-      "link": "https://economictimes.indiatimes.com/tech/technology/ai-rally-sk-hynix-micron-technology-join-trillion-dollar-club-taiwan-bourse-overtakes-india-in-market-value/articleshow/131346155.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-05-27T12:23:34.852562+00:00",
-      "last_seen_at": "2026-05-28T12:31:45.717697+00:00"
-    },
-    "https://www.cnbc.com/2026/05/27/sk-hynix-shares-ai-chip-rally-1-trillion.html": {
-      "title": "SK하이닉스, AI 붐에 힘입어 한국 반도체 주식 1조 달러 상승하며 시가총액 1조 달러 돌파",
-      "link": "https://www.cnbc.com/2026/05/27/sk-hynix-shares-ai-chip-rally-1-trillion.html",
-      "source_name": "CNBC Technology",
-      "country_code": "US",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-05-27T12:23:34.852562+00:00",
-      "last_seen_at": "2026-05-28T12:31:45.717697+00:00"
-    },
     "https://asia.nikkei.com/business/markets/sk-hynix-joins-trillion-dollar-club-as-ai-fires-up-east-asian-stocks": {
       "title": "SK하이닉스가 인공지능(AI) 열풍에 힘입어 동아시아 증시를 강타하며 시가총액 1조 달러 클럽에 합류했습니다.",
       "link": "https://asia.nikkei.com/business/markets/sk-hynix-joins-trillion-dollar-club-as-ai-fires-up-east-asian-stocks",
@@ -78,39 +23,6 @@
       ],
       "first_seen_at": "2026-05-27T12:23:34.852562+00:00",
       "last_seen_at": "2026-05-29T00:14:20.988740+00:00"
-    },
-    "https://www.bbc.com/news/articles/cnvp9dq0p3go": {
-      "title": "AI 칩 수요 급증으로 1조 달러 클럽에 두 개의 새로운 기업이 탄생했습니다.",
-      "link": "https://www.bbc.com/news/articles/cnvp9dq0p3go",
-      "source_name": "BBC Business",
-      "country_code": "GB",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-05-27T12:23:34.852562+00:00",
-      "last_seen_at": "2026-05-28T12:31:45.717697+00:00"
-    },
-    "https://www.taipeitimes.com/News/biz/archives/2026/05/28/2003858086": {
-      "title": "SK하이닉스와 마이크론의 시가총액이 1조 달러를 넘어섰습니다.",
-      "link": "https://www.taipeitimes.com/News/biz/archives/2026/05/28/2003858086",
-      "source_name": "Taipei Times",
-      "country_code": "TW",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-05-28T00:03:18.793296+00:00",
-      "last_seen_at": "2026-05-28T12:31:45.717697+00:00"
-    },
-    "https://www.theverge.com/report/938783/kia-ev9-battery-problem-issues": {
-      "title": "기아의 플래그십 전기차에 배터리 문제가 발생했습니다.",
-      "link": "https://www.theverge.com/report/938783/kia-ev9-battery-problem-issues",
-      "source_name": "The Verge",
-      "country_code": "US",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-05-28T12:31:45.717697+00:00",
-      "last_seen_at": "2026-05-28T12:31:45.717697+00:00"
     },
     "https://www.cnbc.com/2026/05/28/lg-energy-solution-dte-energy-michigan-battery-storage-deal.html": {
       "title": "LG에너지솔루션의 주가가 미국 대형 배터리 저장 장치 계약 체결 소식에 최대 16%까지 급등했습니다.",
@@ -2682,7 +2594,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-11T00:01:59.766742+00:00",
-      "last_seen_at": "2026-07-12T10:36:54.954945+00:00"
+      "last_seen_at": "2026-07-12T23:59:16.571742+00:00"
     },
     "https://www.channelnewsasia.com/world/south-korean-chip-giant-sk-hynix-surges-first-day-trading-wall-street-6247311": {
       "title": "South Korean chip giant SK hynix surges on first day of trading on Wall Street",
@@ -2847,7 +2759,18 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-11T23:59:55.964181+00:00",
-      "last_seen_at": "2026-07-12T10:36:54.954945+00:00"
+      "last_seen_at": "2026-07-12T23:59:16.571742+00:00"
+    },
+    "https://www.bangkokpost.com/business/motoring/3285127/hyundai-to-export-thai-bevs-to-australia": {
+      "title": "Hyundai to export Thai BEVs to Australia",
+      "link": "https://www.bangkokpost.com/business/motoring/3285127/hyundai-to-export-thai-bevs-to-australia",
+      "source_name": "Bangkok Post Business",
+      "country_code": "TH",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-07-12T23:59:16.571742+00:00",
+      "last_seen_at": "2026-07-12T23:59:16.571742+00:00"
     }
   }
 }
