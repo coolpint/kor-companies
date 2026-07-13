@@ -1,29 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-12T23:59:16.571742+00:00",
+  "last_run_at": "2026-07-13T12:09:29.144993+00:00",
   "seen_articles": {
-    "https://www.nytimes.com/2026/05/27/business/dealbook/ai-chips-war-samsung-micron.html": {
-      "title": "메모리 칩이 인공지능 시장을 주도하는 이유는 무엇일까요?",
-      "link": "https://www.nytimes.com/2026/05/27/business/dealbook/ai-chips-war-samsung-micron.html",
-      "source_name": "The New York Times Business",
-      "country_code": "US",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-05-27T12:23:34.852562+00:00",
-      "last_seen_at": "2026-05-29T00:14:20.988740+00:00"
-    },
-    "https://asia.nikkei.com/business/markets/sk-hynix-joins-trillion-dollar-club-as-ai-fires-up-east-asian-stocks": {
-      "title": "SK하이닉스가 인공지능(AI) 열풍에 힘입어 동아시아 증시를 강타하며 시가총액 1조 달러 클럽에 합류했습니다.",
-      "link": "https://asia.nikkei.com/business/markets/sk-hynix-joins-trillion-dollar-club-as-ai-fires-up-east-asian-stocks",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-05-27T12:23:34.852562+00:00",
-      "last_seen_at": "2026-05-29T00:14:20.988740+00:00"
-    },
     "https://www.cnbc.com/2026/05/28/lg-energy-solution-dte-energy-michigan-battery-storage-deal.html": {
       "title": "LG에너지솔루션의 주가가 미국 대형 배터리 저장 장치 계약 체결 소식에 최대 16%까지 급등했습니다.",
       "link": "https://www.cnbc.com/2026/05/28/lg-energy-solution-dte-energy-michigan-battery-storage-deal.html",
@@ -34,41 +12,6 @@
       ],
       "first_seen_at": "2026-05-28T12:31:45.717697+00:00",
       "last_seen_at": "2026-05-29T12:18:43.167242+00:00"
-    },
-    "https://www.lemonde.fr/economie/article/2026/05/28/avec-des-bonus-de-400-000-euros-chacun-les-salaries-des-fabricants-de-semi-conducteurs-en-coree-du-sud-sont-devenus-les-rois-du-petrole-moderne_6694446_3234.html": {
-      "title": "각각 40만 유로의 보너스를 받는 \"한국의 반도체 제조업 종사자들은 현대 석유 산업의 왕이 되었다.\"",
-      "link": "https://www.lemonde.fr/economie/article/2026/05/28/avec-des-bonus-de-400-000-euros-chacun-les-salaries-des-fabricants-de-semi-conducteurs-en-coree-du-sud-sont-devenus-les-rois-du-petrole-moderne_6694446_3234.html",
-      "source_name": "Le Monde Economie",
-      "country_code": "FR",
-      "companies": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-05-28T12:31:45.717697+00:00",
-      "last_seen_at": "2026-05-29T00:14:20.988740+00:00"
-    },
-    "https://www.channelnewsasia.com/business/samsung-electronics-ships-hbm4e-chip-samples-global-customers-6148606": {
-      "title": "삼성전자는 HBM4E 칩 샘플을 전 세계 고객에게 배송합니다.",
-      "link": "https://www.channelnewsasia.com/business/samsung-electronics-ships-hbm4e-chip-samples-global-customers-6148606",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-05-29T00:14:20.988740+00:00",
-      "last_seen_at": "2026-05-29T00:14:20.988740+00:00"
-    },
-    "https://nltimes.nl/2026/05/28/electric-cars-used-mobile-home-batteries-dutch-world-first-energy-trial": {
-      "title": "네덜란드에서 세계 최초로 전기 자동차를 이동식 가정용 배터리로 활용하는 에너지 시범 사업이 진행 중입니다.",
-      "link": "https://nltimes.nl/2026/05/28/electric-cars-used-mobile-home-batteries-dutch-world-first-energy-trial",
-      "source_name": "NL Times",
-      "country_code": "NL",
-      "companies": [
-        "Hyundai Motor",
-        "Kia"
-      ],
-      "first_seen_at": "2026-05-29T00:14:20.988740+00:00",
-      "last_seen_at": "2026-05-29T00:14:20.988740+00:00"
     },
     "https://www.aljazeera.com/economy/2026/5/29/south-koreas-sk-hynix-enters-exclusive-1-trillion-club?traffic_source=rss": {
       "title": "한국의 SK하이닉스가 시가총액 1조 달러 클럽에 진입했습니다.",
@@ -2594,7 +2537,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-11T00:01:59.766742+00:00",
-      "last_seen_at": "2026-07-12T23:59:16.571742+00:00"
+      "last_seen_at": "2026-07-13T12:09:29.144993+00:00"
     },
     "https://www.channelnewsasia.com/world/south-korean-chip-giant-sk-hynix-surges-first-day-trading-wall-street-6247311": {
       "title": "South Korean chip giant SK hynix surges on first day of trading on Wall Street",
@@ -2770,7 +2713,207 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-07-12T23:59:16.571742+00:00",
-      "last_seen_at": "2026-07-12T23:59:16.571742+00:00"
+      "last_seen_at": "2026-07-13T12:09:29.144993+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-sk-hynix-micron-ramp-up-capacity-as-demand-for-ai-infrastructure-outpaces-supply/articleshow/132365529.cms": {
+      "title": "Samsung, SK hynix, Micron ramp up capacity as demand for AI infrastructure outpaces supply",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-sk-hynix-micron-ramp-up-capacity-as-demand-for-ai-infrastructure-outpaces-supply/articleshow/132365529.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
+      "last_seen_at": "2026-07-13T12:09:29.144993+00:00"
+    },
+    "https://www.theglobeandmail.com/business/international-business/article-sk-hynix-shares-fall-after-nasdaq-debut": {
+      "title": "SK Hynix shares tumble after strong Nasdaq debut",
+      "link": "https://www.theglobeandmail.com/business/international-business/article-sk-hynix-shares-fall-after-nasdaq-debut",
+      "source_name": "The Globe and Mail Business",
+      "country_code": "CA",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
+      "last_seen_at": "2026-07-13T12:09:29.144993+00:00"
+    },
+    "https://www.marketwatch.com/story/geopolitical-shock-exposes-sk-hynix-leverage-after-hot-adr-debut-340ae8d4?mod=mw_rss_topstories": {
+      "title": "Geopolitical shock exposes SK Hynix leverage after hot ADR debut",
+      "link": "https://www.marketwatch.com/story/geopolitical-shock-exposes-sk-hynix-leverage-after-hot-adr-debut-340ae8d4?mod=mw_rss_topstories",
+      "source_name": "MarketWatch Top Stories",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
+      "last_seen_at": "2026-07-13T12:09:29.144993+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/nexon-geochem-ties-up-with-russias-giredmet-for-rare-earth-processing/articleshow/132361979.cms": {
+      "title": "Nexon Geochem ties up with Russia's Giredmet for rare-earth processing",
+      "link": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/nexon-geochem-ties-up-with-russias-giredmet-for-rare-earth-processing/articleshow/132361979.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Nexon"
+      ],
+      "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
+      "last_seen_at": "2026-07-13T12:09:29.144993+00:00"
+    },
+    "https://www.channelnewsasia.com/business/korean-air-q2-profit-falls-34-higher-fuel-costs-revenue-hits-record-high-6250581": {
+      "title": "Korean Air Q2 profit falls 34% on higher fuel costs, revenue hits record high",
+      "link": "https://www.channelnewsasia.com/business/korean-air-q2-profit-falls-34-higher-fuel-costs-revenue-hits-record-high-6250581",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Korean Air"
+      ],
+      "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
+      "last_seen_at": "2026-07-13T12:09:29.144993+00:00"
+    },
+    "https://www.cnbc.com/2026/07/13/sk-hynix-shares-fall-after-stellar-nasdaq-debut.html": {
+      "title": "SK Hynix South Korean shares clock worst day, sinking over 15%, after stellar Nasdaq debut",
+      "link": "https://www.cnbc.com/2026/07/13/sk-hynix-shares-fall-after-stellar-nasdaq-debut.html",
+      "source_name": "CNBC World News",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
+      "last_seen_at": "2026-07-13T12:09:29.144993+00:00"
+    },
+    "https://asia.nikkei.com/business/markets/sk-hynix-loses-more-than-15-after-successful-nasdaq-debut": {
+      "title": "SK Hynix loses more than 15% after successful Nasdaq debut",
+      "link": "https://asia.nikkei.com/business/markets/sk-hynix-loses-more-than-15-after-successful-nasdaq-debut",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
+      "last_seen_at": "2026-07-13T12:09:29.144993+00:00"
+    },
+    "https://www.cnbc.com/2026/07/13/cnbc-daily-open-chips-ahoy-no-strait-answer-and-earnings-on-deck.html": {
+      "title": "CNBC Daily Open: Chips ahoy, no Strait answer and earnings on deck",
+      "link": "https://www.cnbc.com/2026/07/13/cnbc-daily-open-chips-ahoy-no-strait-answer-and-earnings-on-deck.html",
+      "source_name": "CNBC World News",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
+      "last_seen_at": "2026-07-13T12:09:29.144993+00:00"
+    },
+    "https://www.channelnewsasia.com/east-asia/hyundai-motor-begins-three-day-strike-after-wage-talks-fail-6250331": {
+      "title": "Hyundai Motor begins three-day strike after wage talks fail",
+      "link": "https://www.channelnewsasia.com/east-asia/hyundai-motor-begins-three-day-strike-after-wage-talks-fail-6250331",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
+      "last_seen_at": "2026-07-13T12:09:29.144993+00:00"
+    },
+    "https://www.straitstimes.com/business/hyundai-motor-begins-three-day-strike-after-wage-talks-fail": {
+      "title": "Hyundai Motor begins three-day strike after wage talks fail",
+      "link": "https://www.straitstimes.com/business/hyundai-motor-begins-three-day-strike-after-wage-talks-fail",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
+      "last_seen_at": "2026-07-13T12:09:29.144993+00:00"
+    },
+    "https://www.ft.com/content/734c23c8-73ed-4a4a-8150-49d12d891c30": {
+      "title": "Investors alarmed as Asian chipmakers take stranglehold on indices",
+      "link": "https://www.ft.com/content/734c23c8-73ed-4a4a-8150-49d12d891c30",
+      "source_name": "Financial Times Companies",
+      "country_code": "GB",
+      "companies": [
+        "Samsung Electronics",
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
+      "last_seen_at": "2026-07-13T12:09:29.144993+00:00"
+    },
+    "https://e.vnexpress.net/news/world/samsung-electronics-to-advance-start-of-chip-factory-to-2029-5096703.html": {
+      "title": "Samsung Electronics to advance start of chip factory to 2029",
+      "link": "https://e.vnexpress.net/news/world/samsung-electronics-to-advance-start-of-chip-factory-to-2029-5096703.html",
+      "source_name": "VnExpress World",
+      "country_code": "VN",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
+      "last_seen_at": "2026-07-13T12:09:29.144993+00:00"
+    },
+    "https://www.straitstimes.com/business/companies-markets/sk-hynix-shares-plunge-10-in-seoul-after-much-hyped-us-trading-debut": {
+      "title": "SK Hynix shares plunge 15.4%, most on record, in deepening South Korea sell-off",
+      "link": "https://www.straitstimes.com/business/companies-markets/sk-hynix-shares-plunge-10-in-seoul-after-much-hyped-us-trading-debut",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
+      "last_seen_at": "2026-07-13T12:09:29.144993+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-to-advance-start-of-chip-factory-in-yongin-to-2029/articleshow/132355228.cms": {
+      "title": "Samsung Electronics to advance start of chip factory in Yongin to 2029",
+      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-to-advance-start-of-chip-factory-in-yongin-to-2029/articleshow/132355228.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Samsung Electronics",
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
+      "last_seen_at": "2026-07-13T12:09:29.144993+00:00"
+    },
+    "https://www.channelnewsasia.com/business/oil-stocks-us-iran-war-strikes-6249971": {
+      "title": "Oil prices spike on fresh US-Iran attacks, tech hammers on stocks again",
+      "link": "https://www.channelnewsasia.com/business/oil-stocks-us-iran-war-strikes-6249971",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
+      "last_seen_at": "2026-07-13T12:09:29.144993+00:00"
+    },
+    "https://www.ft.com/content/b433644d-caba-4962-8d60-f46fcd9716f9": {
+      "title": "Traders braced for won volatility after blockbuster SK Hynix listing",
+      "link": "https://www.ft.com/content/b433644d-caba-4962-8d60-f46fcd9716f9",
+      "source_name": "Financial Times Companies",
+      "country_code": "GB",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
+      "last_seen_at": "2026-07-13T12:09:29.144993+00:00"
+    },
+    "https://www.channelnewsasia.com/business/samsung-electronics-advance-start-chip-factory-in-yongin-2029-6249836": {
+      "title": "Samsung Electronics to advance start of chip factory in Yongin to 2029",
+      "link": "https://www.channelnewsasia.com/business/samsung-electronics-advance-start-chip-factory-in-yongin-2029-6249836",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
+      "last_seen_at": "2026-07-13T12:09:29.144993+00:00"
+    },
+    "https://www.channelnewsasia.com/business/sk-hynix-sinks-after-nasdaq-debut-kospi-south-korea-6249841": {
+      "title": "SK hynix plunges after NASDAQ debut amid profit-taking, diminishing earnings optimism",
+      "link": "https://www.channelnewsasia.com/business/sk-hynix-sinks-after-nasdaq-debut-kospi-south-korea-6249841",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
+      "last_seen_at": "2026-07-13T12:09:29.144993+00:00"
     }
   }
 }
