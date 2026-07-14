@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-13T23:56:41.967900+00:00",
+  "last_run_at": "2026-07-14T10:50:39.049859+00:00",
   "seen_articles": {
     "https://asia.nikkei.com/business/technology/kakao-strike-threat-shows-south-korea-s-workers-growing-bolder-on-pay": {
       "title": "카카오 파업 위협은 한국 노동자들이 임금 인상을 요구하며 더욱 대담해지고 있음을 보여준다.",
@@ -12,17 +12,6 @@
       ],
       "first_seen_at": "2026-05-29T12:18:43.167242+00:00",
       "last_seen_at": "2026-05-31T11:01:59.587753+00:00"
-    },
-    "https://www.cnbc.com/2026/05/29/lg-electronics-shares-jump-after-debut-of-google-based-car-products.html": {
-      "title": "LG전자 주가가 구글 기술을 활용한 자동차 혁신 기술을 공개한 후 24% 급등했습니다.",
-      "link": "https://www.cnbc.com/2026/05/29/lg-electronics-shares-jump-after-debut-of-google-based-car-products.html",
-      "source_name": "CNBC Technology",
-      "country_code": "US",
-      "companies": [
-        "LG Electronics"
-      ],
-      "first_seen_at": "2026-05-29T12:18:43.167242+00:00",
-      "last_seen_at": "2026-05-30T10:48:51.983142+00:00"
     },
     "https://www.cnbc.com/2026/05/29/samsung-hbm4e-chip-samples-ai-memory.html": {
       "title": "삼성전자가 차세대 AI 메모리 칩 샘플을 출하한 후 주가가 최대 6%까지 급등했습니다.",
@@ -2691,7 +2680,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
-      "last_seen_at": "2026-07-13T23:56:41.967900+00:00"
+      "last_seen_at": "2026-07-14T10:50:39.049859+00:00"
     },
     "https://www.theglobeandmail.com/business/international-business/article-sk-hynix-shares-fall-after-nasdaq-debut": {
       "title": "SK Hynix shares tumble in Seoul and U.S. after strong Nasdaq debut",
@@ -2702,7 +2691,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
-      "last_seen_at": "2026-07-13T23:56:41.967900+00:00"
+      "last_seen_at": "2026-07-14T10:50:39.049859+00:00"
     },
     "https://www.marketwatch.com/story/geopolitical-shock-exposes-sk-hynix-leverage-after-hot-adr-debut-340ae8d4?mod=mw_rss_topstories": {
       "title": "Geopolitical shock exposes SK Hynix leverage after hot ADR debut",
@@ -2757,7 +2746,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
-      "last_seen_at": "2026-07-13T23:56:41.967900+00:00"
+      "last_seen_at": "2026-07-14T10:50:39.049859+00:00"
     },
     "https://www.cnbc.com/2026/07/13/cnbc-daily-open-chips-ahoy-no-strait-answer-and-earnings-on-deck.html": {
       "title": "CNBC Daily Open: Chips ahoy, no Strait answer and earnings on deck",
@@ -2779,7 +2768,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
-      "last_seen_at": "2026-07-13T23:56:41.967900+00:00"
+      "last_seen_at": "2026-07-14T10:50:39.049859+00:00"
     },
     "https://www.straitstimes.com/business/hyundai-motor-begins-three-day-strike-after-wage-talks-fail": {
       "title": "Hyundai Motor begins three-day strike after wage talks fail",
@@ -2790,7 +2779,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
-      "last_seen_at": "2026-07-13T23:56:41.967900+00:00"
+      "last_seen_at": "2026-07-14T10:50:39.049859+00:00"
     },
     "https://www.ft.com/content/734c23c8-73ed-4a4a-8150-49d12d891c30": {
       "title": "Investors alarmed as Asian chipmakers take stranglehold on indices",
@@ -2813,7 +2802,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
-      "last_seen_at": "2026-07-13T23:56:41.967900+00:00"
+      "last_seen_at": "2026-07-14T10:50:39.049859+00:00"
     },
     "https://www.straitstimes.com/business/companies-markets/sk-hynix-shares-plunge-10-in-seoul-after-much-hyped-us-trading-debut": {
       "title": "SK Hynix shares plunge 15.4%, most on record, in deepening South Korea sell-off",
@@ -2824,7 +2813,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
-      "last_seen_at": "2026-07-13T23:56:41.967900+00:00"
+      "last_seen_at": "2026-07-14T10:50:39.049859+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-to-advance-start-of-chip-factory-in-yongin-to-2029/articleshow/132355228.cms": {
       "title": "Samsung Electronics to advance start of chip factory in Yongin to 2029",
@@ -2836,7 +2825,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
-      "last_seen_at": "2026-07-13T23:56:41.967900+00:00"
+      "last_seen_at": "2026-07-14T10:50:39.049859+00:00"
     },
     "https://www.channelnewsasia.com/business/oil-stocks-us-iran-war-strikes-6249971": {
       "title": "Oil prices surge on US-Iran attacks; tech shares fall",
@@ -2847,7 +2836,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
-      "last_seen_at": "2026-07-13T23:56:41.967900+00:00"
+      "last_seen_at": "2026-07-14T10:50:39.049859+00:00"
     },
     "https://www.ft.com/content/b433644d-caba-4962-8d60-f46fcd9716f9": {
       "title": "Traders braced for won volatility after blockbuster SK Hynix listing",
@@ -2880,7 +2869,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
-      "last_seen_at": "2026-07-13T23:56:41.967900+00:00"
+      "last_seen_at": "2026-07-14T10:50:39.049859+00:00"
     },
     "https://www.channelnewsasia.com/commentary/sk-hynix-shares-stock-market-south-korea-chips-6250521": {
       "title": "Commentary: SK Hynix is a golden goose. It has to lay more eggs",
@@ -2902,7 +2891,51 @@
         "Nexon"
       ],
       "first_seen_at": "2026-07-13T23:56:41.967900+00:00",
-      "last_seen_at": "2026-07-13T23:56:41.967900+00:00"
+      "last_seen_at": "2026-07-14T10:50:39.049859+00:00"
+    },
+    "https://www.cnbc.com/2026/07/14/retail-trader-bottleneck-bros-eyeing-ai-supply-chain-cant-wait-for-sk-hynix-options.html": {
+      "title": "Retail-trader `bottleneck bros' eyeing AI supply chain can't wait for SK Hynix options",
+      "link": "https://www.cnbc.com/2026/07/14/retail-trader-bottleneck-bros-eyeing-ai-supply-chain-cant-wait-for-sk-hynix-options.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-14T10:50:39.049859+00:00",
+      "last_seen_at": "2026-07-14T10:50:39.049859+00:00"
+    },
+    "https://www.channelnewsasia.com/business/samsung-electronics-denies-report-it-exploring-us-listing-6252916": {
+      "title": "Samsung Electronics denies report that it is exploring US listing",
+      "link": "https://www.channelnewsasia.com/business/samsung-electronics-denies-report-it-exploring-us-listing-6252916",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-07-14T10:50:39.049859+00:00",
+      "last_seen_at": "2026-07-14T10:50:39.049859+00:00"
+    },
+    "https://www.channelnewsasia.com/business/south-korean-court-suspends-ftc-designation-coupang-founder-kim-bom-controlling-entity-6252731": {
+      "title": "South Korean court suspends FTC designation Coupang founder Kim Bom as controlling entity",
+      "link": "https://www.channelnewsasia.com/business/south-korean-court-suspends-ftc-designation-coupang-founder-kim-bom-controlling-entity-6252731",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Coupang"
+      ],
+      "first_seen_at": "2026-07-14T10:50:39.049859+00:00",
+      "last_seen_at": "2026-07-14T10:50:39.049859+00:00"
+    },
+    "https://www.channelnewsasia.com/business/sk-hynix-set-benefit-south-koreas-ruling-party-seeks-ease-capital-raising-rules-6252496": {
+      "title": "SK Hynix set to benefit as South Korea's ruling party seeks to ease capital-raising rules",
+      "link": "https://www.channelnewsasia.com/business/sk-hynix-set-benefit-south-koreas-ruling-party-seeks-ease-capital-raising-rules-6252496",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-14T10:50:39.049859+00:00",
+      "last_seen_at": "2026-07-14T10:50:39.049859+00:00"
     }
   }
 }
