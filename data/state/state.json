@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-14T10:50:39.049859+00:00",
+  "last_run_at": "2026-07-14T23:55:29.024834+00:00",
   "seen_articles": {
     "https://asia.nikkei.com/business/technology/kakao-strike-threat-shows-south-korea-s-workers-growing-bolder-on-pay": {
       "title": "카카오 파업 위협은 한국 노동자들이 임금 인상을 요구하며 더욱 대담해지고 있음을 보여준다.",
@@ -2746,7 +2746,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
-      "last_seen_at": "2026-07-14T10:50:39.049859+00:00"
+      "last_seen_at": "2026-07-14T23:55:29.024834+00:00"
     },
     "https://www.cnbc.com/2026/07/13/cnbc-daily-open-chips-ahoy-no-strait-answer-and-earnings-on-deck.html": {
       "title": "CNBC Daily Open: Chips ahoy, no Strait answer and earnings on deck",
@@ -2891,18 +2891,18 @@
         "Nexon"
       ],
       "first_seen_at": "2026-07-13T23:56:41.967900+00:00",
-      "last_seen_at": "2026-07-14T10:50:39.049859+00:00"
+      "last_seen_at": "2026-07-14T23:55:29.024834+00:00"
     },
     "https://www.cnbc.com/2026/07/14/retail-trader-bottleneck-bros-eyeing-ai-supply-chain-cant-wait-for-sk-hynix-options.html": {
-      "title": "Retail-trader `bottleneck bros' eyeing AI supply chain can't wait for SK Hynix options",
+      "title": "Retail-trader 'bottleneck bros' eyeing AI supply chain can't wait for SK Hynix options",
       "link": "https://www.cnbc.com/2026/07/14/retail-trader-bottleneck-bros-eyeing-ai-supply-chain-cant-wait-for-sk-hynix-options.html",
-      "source_name": "CNBC Top News",
+      "source_name": "CNBC World News",
       "country_code": "US",
       "companies": [
         "SK hynix"
       ],
       "first_seen_at": "2026-07-14T10:50:39.049859+00:00",
-      "last_seen_at": "2026-07-14T10:50:39.049859+00:00"
+      "last_seen_at": "2026-07-14T23:55:29.024834+00:00"
     },
     "https://www.channelnewsasia.com/business/samsung-electronics-denies-report-it-exploring-us-listing-6252916": {
       "title": "Samsung Electronics denies report that it is exploring US listing",
@@ -2936,6 +2936,50 @@
       ],
       "first_seen_at": "2026-07-14T10:50:39.049859+00:00",
       "last_seen_at": "2026-07-14T10:50:39.049859+00:00"
+    },
+    "https://www.taipeitimes.com/News/editorials/archives/2026/07/15/2003860756": {
+      "title": "SK Hynix is a golden goose that has to lay more eggs",
+      "link": "https://www.taipeitimes.com/News/editorials/archives/2026/07/15/2003860756",
+      "source_name": "Taipei Times",
+      "country_code": "TW",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-14T23:55:29.024834+00:00",
+      "last_seen_at": "2026-07-14T23:55:29.024834+00:00"
+    },
+    "https://www.cnbc.com/2026/07/14/sk-hynix-options-begin-trading-but-another-group-of-stocks-is-stealing-its-thunder.html": {
+      "title": "SK Hynix options begin trading. But another group of stocks is stealing its thunder",
+      "link": "https://www.cnbc.com/2026/07/14/sk-hynix-options-begin-trading-but-another-group-of-stocks-is-stealing-its-thunder.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-14T23:55:29.024834+00:00",
+      "last_seen_at": "2026-07-14T23:55:29.024834+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/wall-street-banks-see-ai-super-cycle-set-to-boost-deals-financing/articleshow/132398909.cms": {
+      "title": "Wall Street banks see AI 'super cycle' set to boost deals, financing",
+      "link": "https://economictimes.indiatimes.com/tech/technology/wall-street-banks-see-ai-super-cycle-set-to-boost-deals-financing/articleshow/132398909.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-14T23:55:29.024834+00:00",
+      "last_seen_at": "2026-07-14T23:55:29.024834+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/chip-toolmaker-asml-expected-to-shine-light-on-capacity-and-china-challenges/articleshow/132390184.cms": {
+      "title": "Chip toolmaker ASML expected to shine light on capacity and China challenges",
+      "link": "https://economictimes.indiatimes.com/tech/technology/chip-toolmaker-asml-expected-to-shine-light-on-capacity-and-china-challenges/articleshow/132390184.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-14T23:55:29.024834+00:00",
+      "last_seen_at": "2026-07-14T23:55:29.024834+00:00"
     }
   }
 }
