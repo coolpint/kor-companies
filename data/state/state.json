@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-14T23:55:29.024834+00:00",
+  "last_run_at": "2026-07-15T10:54:12.394612+00:00",
   "seen_articles": {
     "https://asia.nikkei.com/business/technology/kakao-strike-threat-shows-south-korea-s-workers-growing-bolder-on-pay": {
       "title": "카카오 파업 위협은 한국 노동자들이 임금 인상을 요구하며 더욱 대담해지고 있음을 보여준다.",
@@ -12,17 +12,6 @@
       ],
       "first_seen_at": "2026-05-29T12:18:43.167242+00:00",
       "last_seen_at": "2026-05-31T11:01:59.587753+00:00"
-    },
-    "https://www.cnbc.com/2026/05/29/samsung-hbm4e-chip-samples-ai-memory.html": {
-      "title": "삼성전자가 차세대 AI 메모리 칩 샘플을 출하한 후 주가가 최대 6%까지 급등했습니다.",
-      "link": "https://www.cnbc.com/2026/05/29/samsung-hbm4e-chip-samples-ai-memory.html",
-      "source_name": "CNBC Technology",
-      "country_code": "US",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-05-29T12:18:43.167242+00:00",
-      "last_seen_at": "2026-05-31T00:04:21.946792+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/nvidia-ceo-jensen-huang-to-visit-south-korea-source/articleshow/131404262.cms": {
       "title": "엔비디아 CEO 젠슨 황, 한국 방문 예정 (소식통)",
@@ -2946,18 +2935,18 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-14T23:55:29.024834+00:00",
-      "last_seen_at": "2026-07-14T23:55:29.024834+00:00"
+      "last_seen_at": "2026-07-15T10:54:12.394612+00:00"
     },
     "https://www.cnbc.com/2026/07/14/sk-hynix-options-begin-trading-but-another-group-of-stocks-is-stealing-its-thunder.html": {
       "title": "SK Hynix options begin trading. But another group of stocks is stealing its thunder",
       "link": "https://www.cnbc.com/2026/07/14/sk-hynix-options-begin-trading-but-another-group-of-stocks-is-stealing-its-thunder.html",
-      "source_name": "CNBC Top News",
+      "source_name": "CNBC World News",
       "country_code": "US",
       "companies": [
         "SK hynix"
       ],
       "first_seen_at": "2026-07-14T23:55:29.024834+00:00",
-      "last_seen_at": "2026-07-14T23:55:29.024834+00:00"
+      "last_seen_at": "2026-07-15T10:54:12.394612+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/wall-street-banks-see-ai-super-cycle-set-to-boost-deals-financing/articleshow/132398909.cms": {
       "title": "Wall Street banks see AI 'super cycle' set to boost deals, financing",
@@ -2968,7 +2957,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-14T23:55:29.024834+00:00",
-      "last_seen_at": "2026-07-14T23:55:29.024834+00:00"
+      "last_seen_at": "2026-07-15T10:54:12.394612+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/chip-toolmaker-asml-expected-to-shine-light-on-capacity-and-china-challenges/articleshow/132390184.cms": {
       "title": "Chip toolmaker ASML expected to shine light on capacity and China challenges",
@@ -2979,7 +2968,73 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-14T23:55:29.024834+00:00",
-      "last_seen_at": "2026-07-14T23:55:29.024834+00:00"
+      "last_seen_at": "2026-07-15T10:54:12.394612+00:00"
+    },
+    "https://www.marketwatch.com/story/why-the-huge-premium-on-sk-hynixs-u-s-listing-may-prove-short-lived-582045f2?mod=mw_rss_topstories": {
+      "title": "Why the huge premium on SK Hynix’s U.S. listing may prove short-lived.",
+      "link": "https://www.marketwatch.com/story/why-the-huge-premium-on-sk-hynixs-u-s-listing-may-prove-short-lived-582045f2?mod=mw_rss_topstories",
+      "source_name": "MarketWatch Top Stories",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-15T10:54:12.394612+00:00",
+      "last_seen_at": "2026-07-15T10:54:12.394612+00:00"
+    },
+    "https://www.cnbc.com/2026/07/15/sk-hynix-asia-tech-stocks-rally-.html": {
+      "title": "SK Hynix South Korean shares jump 8% as Asia tech stocks rally",
+      "link": "https://www.cnbc.com/2026/07/15/sk-hynix-asia-tech-stocks-rally-.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-15T10:54:12.394612+00:00",
+      "last_seen_at": "2026-07-15T10:54:12.394612+00:00"
+    },
+    "https://www.scmp.com/news/asia/east-asia/article/3360636/us402000-bonus-splits-samsung-device-and-chip-workers-anger-feud-mount": {
+      "title": "US$402,000 bonus splits Samsung device and chip workers as anger, feud mount",
+      "link": "https://www.scmp.com/news/asia/east-asia/article/3360636/us402000-bonus-splits-samsung-device-and-chip-workers-anger-feud-mount",
+      "source_name": "South China Morning Post World",
+      "country_code": "HK",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-07-15T10:54:12.394612+00:00",
+      "last_seen_at": "2026-07-15T10:54:12.394612+00:00"
+    },
+    "https://www.cnbc.com/2026/07/15/cnbc-daily-open-chips-asml-earnings.html": {
+      "title": "CNBC Daily Open: A chip off the AI block",
+      "link": "https://www.cnbc.com/2026/07/15/cnbc-daily-open-chips-asml-earnings.html",
+      "source_name": "CNBC World News",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-15T10:54:12.394612+00:00",
+      "last_seen_at": "2026-07-15T10:54:12.394612+00:00"
+    },
+    "https://www.straitstimes.com/business/companies-markets/sk-hynixs-us-listed-shares-soar-to-51-premium-over-korean-stock": {
+      "title": "SK Hynix’s US-listed shares soar to 51% premium over South Korean stock",
+      "link": "https://www.straitstimes.com/business/companies-markets/sk-hynixs-us-listed-shares-soar-to-51-premium-over-korean-stock",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-15T10:54:12.394612+00:00",
+      "last_seen_at": "2026-07-15T10:54:12.394612+00:00"
+    },
+    "https://www.channelnewsasia.com/business/sk-hynix-shares-surge-13-ai-hopes-us-tech-stocks-resume-their-climb-6254871": {
+      "title": "SK Hynix shares surge 13% on AI hopes as US tech stocks resume their climb",
+      "link": "https://www.channelnewsasia.com/business/sk-hynix-shares-surge-13-ai-hopes-us-tech-stocks-resume-their-climb-6254871",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-15T10:54:12.394612+00:00",
+      "last_seen_at": "2026-07-15T10:54:12.394612+00:00"
     }
   }
 }
