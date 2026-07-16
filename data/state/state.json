@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-16T00:01:52.550181+00:00",
+  "last_run_at": "2026-07-16T11:03:11.827242+00:00",
   "seen_articles": {
-    "https://e.vnexpress.net/news/business/quiz/how-many-companies-in-asia-have-reached-1-trillion-in-market-cap-5078882.html": {
-      "title": "아시아에서 시가총액 1조 달러를 달성한 기업은 몇 개나 될까요?",
-      "link": "https://e.vnexpress.net/news/business/quiz/how-many-companies-in-asia-have-reached-1-trillion-in-market-cap-5078882.html",
-      "source_name": "VnExpress Business",
-      "country_code": "VN",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-05-31T11:01:59.587753+00:00",
-      "last_seen_at": "2026-06-01T00:09:34.691599+00:00"
-    },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/passenger-vehicle-sales-race-ahead-in-may-as-maruti-kia-break-records/articleshow/131442198.cms": {
       "title": "5월 승용차 판매량 급증, 마루티와 기아 기록 경신",
       "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/passenger-vehicle-sales-race-ahead-in-may-as-maruti-kia-break-records/articleshow/131442198.cms",
@@ -2949,13 +2938,13 @@
     "https://www.cnbc.com/2026/07/15/sk-hynix-asia-tech-stocks-rally-.html": {
       "title": "SK Hynix South Korean shares jump 8% as Asia tech stocks rally",
       "link": "https://www.cnbc.com/2026/07/15/sk-hynix-asia-tech-stocks-rally-.html",
-      "source_name": "CNBC World News",
+      "source_name": "CNBC Technology",
       "country_code": "US",
       "companies": [
         "SK hynix"
       ],
       "first_seen_at": "2026-07-15T10:54:12.394612+00:00",
-      "last_seen_at": "2026-07-16T00:01:52.550181+00:00"
+      "last_seen_at": "2026-07-16T11:03:11.827242+00:00"
     },
     "https://www.scmp.com/news/asia/east-asia/article/3360636/us402000-bonus-splits-samsung-device-and-chip-workers-anger-feud-mount": {
       "title": "US$402,000 bonus splits Samsung device and chip workers as anger, feud mount",
@@ -2988,7 +2977,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-15T10:54:12.394612+00:00",
-      "last_seen_at": "2026-07-16T00:01:52.550181+00:00"
+      "last_seen_at": "2026-07-16T11:03:11.827242+00:00"
     },
     "https://www.channelnewsasia.com/business/sk-hynix-shares-surge-13-ai-hopes-us-tech-stocks-resume-their-climb-6254871": {
       "title": "SK Hynix shares surge 13% on AI hopes as US tech stocks resume their climb",
@@ -3011,6 +3000,61 @@
       ],
       "first_seen_at": "2026-07-16T00:01:52.550181+00:00",
       "last_seen_at": "2026-07-16T00:01:52.550181+00:00"
+    },
+    "https://www.marketwatch.com/story/turbo-charged-sk-hynix-volatility-shows-no-sign-of-abating-as-ai-euphoria-swings-to-fatigue-f5a5b95b?mod=mw_rss_topstories": {
+      "title": "Turbo-charged SK Hynix volatility shows no sign of abating as AI euphoria swings to fatigue",
+      "link": "https://www.marketwatch.com/story/turbo-charged-sk-hynix-volatility-shows-no-sign-of-abating-as-ai-euphoria-swings-to-fatigue-f5a5b95b?mod=mw_rss_topstories",
+      "source_name": "MarketWatch Top Stories",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-16T11:03:11.827242+00:00",
+      "last_seen_at": "2026-07-16T11:03:11.827242+00:00"
+    },
+    "https://www.marketwatch.com/story/hyundai-motor-deal-with-softbank-for-boston-dynamics-stake-is-as-wild-as-the-robot-videos-222645e5?mod=mw_rss_topstories": {
+      "title": "Hyundai Motor deal with SoftBank for Boston Dynamics stake is as wild as the robot videos",
+      "link": "https://www.marketwatch.com/story/hyundai-motor-deal-with-softbank-for-boston-dynamics-stake-is-as-wild-as-the-robot-videos-222645e5?mod=mw_rss_topstories",
+      "source_name": "MarketWatch Top Stories",
+      "country_code": "US",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-07-16T11:03:11.827242+00:00",
+      "last_seen_at": "2026-07-16T11:03:11.827242+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/hyundai-motor-group-to-buy-softbanks-remaining-stake-in-boston-dynamics/article71228393.ece": {
+      "title": "Hyundai Motor Group to buy SoftBank's remaining stake in Boston Dynamics",
+      "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-group-to-buy-softbanks-remaining-stake-in-boston-dynamics/article71228393.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-07-16T11:03:11.827242+00:00",
+      "last_seen_at": "2026-07-16T11:03:11.827242+00:00"
+    },
+    "https://www.cnbc.com/2026/07/16/sk-hynix-falls-amid-asia-tech-rout-tracking-us-semiconductor-losses.html": {
+      "title": "SK Hynix shares plunge over 11% as Asia sees tech rout, tracking U.S. chip losses",
+      "link": "https://www.cnbc.com/2026/07/16/sk-hynix-falls-amid-asia-tech-rout-tracking-us-semiconductor-losses.html",
+      "source_name": "CNBC World News",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-16T11:03:11.827242+00:00",
+      "last_seen_at": "2026-07-16T11:03:11.827242+00:00"
+    },
+    "https://www.channelnewsasia.com/business/hyundai-motor-group-own-boston-dynamics-in-full-softbank-stake-buy-6257486": {
+      "title": "Hyundai Motor Group to own Boston Dynamics in full with SoftBank stake buy",
+      "link": "https://www.channelnewsasia.com/business/hyundai-motor-group-own-boston-dynamics-in-full-softbank-stake-buy-6257486",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-07-16T11:03:11.827242+00:00",
+      "last_seen_at": "2026-07-16T11:03:11.827242+00:00"
     }
   }
 }
