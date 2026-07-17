@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-17T10:50:46.178970+00:00",
+  "last_run_at": "2026-07-17T23:55:24.916368+00:00",
   "seen_articles": {
     "https://asia.nikkei.com/business/aerospace-defense-industries/hanwha-aerospace-factory-explosion-kills-5-in-central-south-korea": {
       "title": "한국 중부 한화항공우주공장 폭발 사고로 5명 사망",
@@ -12,50 +12,6 @@
       ],
       "first_seen_at": "2026-06-01T15:26:10.373168+00:00",
       "last_seen_at": "2026-06-03T01:41:55.117409+00:00"
-    },
-    "https://www.thehindubusinessline.com/companies/automakers-report-sales-growth-in-may-led-by-sustained-demand/article71047450.ece": {
-      "title": "자동차 제조업체들은 지속적인 수요에 힘입어 5월 판매량이 증가했다고 보고했습니다.",
-      "link": "https://www.thehindubusinessline.com/companies/automakers-report-sales-growth-in-may-led-by-sustained-demand/article71047450.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-06-01T15:26:10.373168+00:00",
-      "last_seen_at": "2026-06-02T12:45:38.741336+00:00"
-    },
-    "https://www.thehindubusinessline.com/companies/hyundai-motor-india-faces-temporary-production-disruption-due-to-fire-at-supplier-facility-in-tn/article71047267.ece": {
-      "title": "현대자동차는 협력업체인 모비스 인도 공장 화재로 인해 일시적인 생산 차질을 겪고 있습니다.",
-      "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-faces-temporary-production-disruption-due-to-fire-at-supplier-facility-in-tn/article71047267.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-06-01T15:26:10.373168+00:00",
-      "last_seen_at": "2026-06-02T12:45:38.741336+00:00"
-    },
-    "https://www.thehindubusinessline.com/companies/hyundai-motor-bajaj-auto-report-sales-growth-in-may/article71046946.ece": {
-      "title": "현대자동차와 바자즈 오토는 5월 판매량 증가세를 기록했다고 발표했습니다.",
-      "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-bajaj-auto-report-sales-growth-in-may/article71046946.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-06-01T15:26:10.373168+00:00",
-      "last_seen_at": "2026-06-02T12:45:38.741336+00:00"
-    },
-    "https://economictimes.indiatimes.com/industry/renewables/tata-motors-mahindra-lead-the-pack-as-ev-sales-surge-79/articleshow/131449146.cms": {
-      "title": "타타 모터스와 마힌드라가 전기차 판매량 79% 급증에 앞장서고 있습니다.",
-      "link": "https://economictimes.indiatimes.com/industry/renewables/tata-motors-mahindra-lead-the-pack-as-ev-sales-surge-79/articleshow/131449146.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-06-02T00:16:58.811232+00:00",
-      "last_seen_at": "2026-06-02T12:45:38.741336+00:00"
     },
     "https://economictimes.indiatimes.com/industry/cons-products/electronics/south-korea-taiwan-beat-india-stock-market-on-ai-semiconductor-boom-but-the-race-was-lost-decades-ago/articleshow/131459296.cms": {
       "title": "한국과 대만이 인도를 제치고 앞서 나갔지만, 이미 수십 년 전에 승부는 결정된 상태였다.",
@@ -89,17 +45,6 @@
       ],
       "first_seen_at": "2026-06-02T12:45:38.741336+00:00",
       "last_seen_at": "2026-06-03T13:19:55.141288+00:00"
-    },
-    "https://www.bangkokpost.com/business/general/3264814/pay-workers-as-much-as-possible-nvidia-chief-says": {
-      "title": "엔비디아 CEO는 직원들에게 '가능한 한 최대한 많은' 임금을 지급해야 한다고 말했습니다.",
-      "link": "https://www.bangkokpost.com/business/general/3264814/pay-workers-as-much-as-possible-nvidia-chief-says",
-      "source_name": "Bangkok Post Business",
-      "country_code": "TH",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-06-02T12:45:38.741336+00:00",
-      "last_seen_at": "2026-06-02T12:45:38.741336+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/global-markets-south-korean-shares-post-record-high-close-as-nvidia-hopes-lift-tech-stocks/articleshow/131459302.cms": {
       "title": "글로벌 시장: 엔비디아 관련 기대감에 힘입어 한국 증시가 사상 최고치로 마감하며 기술주 상승세 주도",
@@ -2988,7 +2933,7 @@
         "Coupang"
       ],
       "first_seen_at": "2026-07-17T10:50:46.178970+00:00",
-      "last_seen_at": "2026-07-17T10:50:46.178970+00:00"
+      "last_seen_at": "2026-07-17T23:55:24.916368+00:00"
     }
   }
 }
