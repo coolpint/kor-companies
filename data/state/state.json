@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-16T11:03:11.827242+00:00",
+  "last_run_at": "2026-07-17T00:01:20.563382+00:00",
   "seen_articles": {
     "https://economictimes.indiatimes.com/industry/auto/auto-news/passenger-vehicle-sales-race-ahead-in-may-as-maruti-kia-break-records/articleshow/131442198.cms": {
       "title": "5월 승용차 판매량 급증, 마루티와 기아 기록 경신",
@@ -89,17 +89,6 @@
       ],
       "first_seen_at": "2026-06-01T15:26:10.373168+00:00",
       "last_seen_at": "2026-06-02T00:16:58.811232+00:00"
-    },
-    "https://www.scmp.com/news/asia/east-asia/article/3355514/explosion-kills-5-hanwha-aerospace-factory-south-korea": {
-      "title": "한국에서 방산업체 한화항공 공장 폭발 사고로 5명 사망",
-      "link": "https://www.scmp.com/news/asia/east-asia/article/3355514/explosion-kills-5-hanwha-aerospace-factory-south-korea",
-      "source_name": "South China Morning Post World",
-      "country_code": "HK",
-      "companies": [
-        "Hanwha Aerospace"
-      ],
-      "first_seen_at": "2026-06-01T15:26:10.373168+00:00",
-      "last_seen_at": "2026-06-01T15:26:10.373168+00:00"
     },
     "https://www.thehindubusinessline.com/companies/hyundai-motor-bajaj-auto-report-sales-growth-in-may/article71046946.ece": {
       "title": "현대자동차와 바자즈 오토는 5월 판매량 증가세를 기록했다고 발표했습니다.",
@@ -2944,7 +2933,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-15T10:54:12.394612+00:00",
-      "last_seen_at": "2026-07-16T11:03:11.827242+00:00"
+      "last_seen_at": "2026-07-17T00:01:20.563382+00:00"
     },
     "https://www.scmp.com/news/asia/east-asia/article/3360636/us402000-bonus-splits-samsung-device-and-chip-workers-anger-feud-mount": {
       "title": "US$402,000 bonus splits Samsung device and chip workers as anger, feud mount",
@@ -3032,7 +3021,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-07-16T11:03:11.827242+00:00",
-      "last_seen_at": "2026-07-16T11:03:11.827242+00:00"
+      "last_seen_at": "2026-07-17T00:01:20.563382+00:00"
     },
     "https://www.cnbc.com/2026/07/16/sk-hynix-falls-amid-asia-tech-rout-tracking-us-semiconductor-losses.html": {
       "title": "SK Hynix shares plunge over 11% as Asia sees tech rout, tracking U.S. chip losses",
@@ -3043,7 +3032,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-16T11:03:11.827242+00:00",
-      "last_seen_at": "2026-07-16T11:03:11.827242+00:00"
+      "last_seen_at": "2026-07-17T00:01:20.563382+00:00"
     },
     "https://www.channelnewsasia.com/business/hyundai-motor-group-own-boston-dynamics-in-full-softbank-stake-buy-6257486": {
       "title": "Hyundai Motor Group to own Boston Dynamics in full with SoftBank stake buy",
