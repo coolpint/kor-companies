@@ -1,40 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-17T00:01:20.563382+00:00",
+  "last_run_at": "2026-07-17T10:50:46.178970+00:00",
   "seen_articles": {
-    "https://economictimes.indiatimes.com/industry/auto/auto-news/passenger-vehicle-sales-race-ahead-in-may-as-maruti-kia-break-records/articleshow/131442198.cms": {
-      "title": "5월 승용차 판매량 급증, 마루티와 기아 기록 경신",
-      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/passenger-vehicle-sales-race-ahead-in-may-as-maruti-kia-break-records/articleshow/131442198.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-06-01T15:26:10.373168+00:00",
-      "last_seen_at": "2026-06-02T00:16:58.811232+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/samsung-overtakes-micron-in-chips-for-cars-to-claim-top-spot-captures-40-market-share/articleshow/131438337.cms": {
-      "title": "삼성전자가 자동차용 칩 시장에서 마이크론을 제치고 1위로 올라서며 40%의 시장 점유율을 확보했다.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-overtakes-micron-in-chips-for-cars-to-claim-top-spot-captures-40-market-share/articleshow/131438337.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-06-01T15:26:10.373168+00:00",
-      "last_seen_at": "2026-06-02T00:16:58.811232+00:00"
-    },
-    "https://economictimes.indiatimes.com/industry/auto/auto-news/auto-sales-surge-in-may-maruti-hits-record-high-hyundai-mahindra-and-toyota-gain-momentum/articleshow/131437841.cms": {
-      "title": "5월 자동차 판매량 급증: 마루티 사상 최고치 경신, 현대, 마힌드라, 도요타 판매량 증가세 지속",
-      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/auto-sales-surge-in-may-maruti-hits-record-high-hyundai-mahindra-and-toyota-gain-momentum/articleshow/131437841.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-06-01T15:26:10.373168+00:00",
-      "last_seen_at": "2026-06-02T00:16:58.811232+00:00"
-    },
     "https://asia.nikkei.com/business/aerospace-defense-industries/hanwha-aerospace-factory-explosion-kills-5-in-central-south-korea": {
       "title": "한국 중부 한화항공우주공장 폭발 사고로 5명 사망",
       "link": "https://asia.nikkei.com/business/aerospace-defense-industries/hanwha-aerospace-factory-explosion-kills-5-in-central-south-korea",
@@ -45,17 +12,6 @@
       ],
       "first_seen_at": "2026-06-01T15:26:10.373168+00:00",
       "last_seen_at": "2026-06-03T01:41:55.117409+00:00"
-    },
-    "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-india-records-highest-monthly-sales-in-may/articleshow/131437765.cms": {
-      "title": "기아 인도, 5월 월간 판매량 최고 기록",
-      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-india-records-highest-monthly-sales-in-may/articleshow/131437765.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-06-01T15:26:10.373168+00:00",
-      "last_seen_at": "2026-06-02T00:16:58.811232+00:00"
     },
     "https://www.thehindubusinessline.com/companies/automakers-report-sales-growth-in-may-led-by-sustained-demand/article71047450.ece": {
       "title": "자동차 제조업체들은 지속적인 수요에 힘입어 5월 판매량이 증가했다고 보고했습니다.",
@@ -79,17 +35,6 @@
       "first_seen_at": "2026-06-01T15:26:10.373168+00:00",
       "last_seen_at": "2026-06-02T12:45:38.741336+00:00"
     },
-    "https://www.japantimes.co.jp/news/2026/06/01/asia-pacific/hanwha-aerospace-plant-south-korea": {
-      "title": "한국 한화항공우주공장 폭발 사고로 5명 사망, 2명 부상",
-      "link": "https://www.japantimes.co.jp/news/2026/06/01/asia-pacific/hanwha-aerospace-plant-south-korea",
-      "source_name": "The Japan Times",
-      "country_code": "JP",
-      "companies": [
-        "Hanwha Aerospace"
-      ],
-      "first_seen_at": "2026-06-01T15:26:10.373168+00:00",
-      "last_seen_at": "2026-06-02T00:16:58.811232+00:00"
-    },
     "https://www.thehindubusinessline.com/companies/hyundai-motor-bajaj-auto-report-sales-growth-in-may/article71046946.ece": {
       "title": "현대자동차와 바자즈 오토는 5월 판매량 증가세를 기록했다고 발표했습니다.",
       "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-bajaj-auto-report-sales-growth-in-may/article71046946.ece",
@@ -100,17 +45,6 @@
       ],
       "first_seen_at": "2026-06-01T15:26:10.373168+00:00",
       "last_seen_at": "2026-06-02T12:45:38.741336+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/gas-leak-at-sk-hynix-chip-factory-injures-six-people-yonhap-reports/articleshow/131433585.cms": {
-      "title": "SK하이닉스 반도체 공장 가스 누출 사고로 6명 부상: 보도",
-      "link": "https://economictimes.indiatimes.com/tech/technology/gas-leak-at-sk-hynix-chip-factory-injures-six-people-yonhap-reports/articleshow/131433585.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-06-01T15:26:10.373168+00:00",
-      "last_seen_at": "2026-06-02T00:16:58.811232+00:00"
     },
     "https://economictimes.indiatimes.com/industry/renewables/tata-motors-mahindra-lead-the-pack-as-ev-sales-surge-79/articleshow/131449146.cms": {
       "title": "타타 모터스와 마힌드라가 전기차 판매량 79% 급증에 앞장서고 있습니다.",
@@ -3021,7 +2955,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-07-16T11:03:11.827242+00:00",
-      "last_seen_at": "2026-07-17T00:01:20.563382+00:00"
+      "last_seen_at": "2026-07-17T10:50:46.178970+00:00"
     },
     "https://www.cnbc.com/2026/07/16/sk-hynix-falls-amid-asia-tech-rout-tracking-us-semiconductor-losses.html": {
       "title": "SK Hynix shares plunge over 11% as Asia sees tech rout, tracking U.S. chip losses",
@@ -3044,6 +2978,17 @@
       ],
       "first_seen_at": "2026-07-16T11:03:11.827242+00:00",
       "last_seen_at": "2026-07-16T11:03:11.827242+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/how-a-dispute-over-ecommerce-firm-coupang-is-testing-us-south-korea-ties/articleshow/132458282.cms": {
+      "title": "How a dispute over ecommerce firm Coupang is testing US-South Korea ties",
+      "link": "https://economictimes.indiatimes.com/tech/technology/how-a-dispute-over-ecommerce-firm-coupang-is-testing-us-south-korea-ties/articleshow/132458282.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Coupang"
+      ],
+      "first_seen_at": "2026-07-17T10:50:46.178970+00:00",
+      "last_seen_at": "2026-07-17T10:50:46.178970+00:00"
     }
   }
 }
