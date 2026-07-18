@@ -1,40 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-18T10:21:01.868258+00:00",
+  "last_run_at": "2026-07-18T23:57:28.937790+00:00",
   "seen_articles": {
-    "https://www.straitstimes.com/business/companies-markets/sk-hynix-to-double-wafer-capacity-to-ease-memory-chip-crunch": {
-      "title": "SK하이닉스, 메모리 칩 공급 부족 완화 위해 웨이퍼 생산 능력 두 배로 늘릴 계획",
-      "link": "https://www.straitstimes.com/business/companies-markets/sk-hynix-to-double-wafer-capacity-to-ease-memory-chip-crunch",
-      "source_name": "The Straits Times",
-      "country_code": "SG",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-06-02T12:45:38.741336+00:00",
-      "last_seen_at": "2026-06-03T13:19:55.141288+00:00"
-    },
-    "https://asia.nikkei.com/business/technology/artificial-intelligence/chipmaker-sk-hynix-to-double-wafer-capacity-in-5-years-to-meet-ai-demand": {
-      "title": "반도체 제조업체 SK하이닉스는 인공지능(AI) 수요 충족을 위해 5년 안에 웨이퍼 생산 능력을 두 배로 늘릴 계획입니다.",
-      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/chipmaker-sk-hynix-to-double-wafer-capacity-in-5-years-to-meet-ai-demand",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-06-02T12:45:38.741336+00:00",
-      "last_seen_at": "2026-06-03T13:19:55.141288+00:00"
-    },
-    "https://www.taipeitimes.com/News/biz/archives/2026/06/03/2003858424": {
-      "title": "SK하이닉스는 메모리 부족 현상 완화를 위해 생산 능력을 두 배로 늘릴 계획입니다.",
-      "link": "https://www.taipeitimes.com/News/biz/archives/2026/06/03/2003858424",
-      "source_name": "Taipei Times",
-      "country_code": "TW",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-06-03T01:41:55.117409+00:00",
-      "last_seen_at": "2026-06-03T13:19:55.141288+00:00"
-    },
     "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-ascends-as-new-memory-king-with-high-bandwidth-ai-chips": {
       "title": "SK하이닉스, 고대역폭 AI 칩으로 새로운 메모리 강자로 부상",
       "link": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-ascends-as-new-memory-king-with-high-bandwidth-ai-chips",
@@ -45,17 +12,6 @@
       ],
       "first_seen_at": "2026-06-03T01:41:55.117409+00:00",
       "last_seen_at": "2026-06-04T12:01:52.654245+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/samsung-minority-union-challenges-bonus-deal-in-court/articleshow/131464598.cms": {
-      "title": "삼성 소수 노조, 보너스 지급 결정에 대해 법원에 소송 제기",
-      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-minority-union-challenges-bonus-deal-in-court/articleshow/131464598.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-06-03T01:41:55.117409+00:00",
-      "last_seen_at": "2026-06-03T13:19:55.141288+00:00"
     },
     "https://asia.nikkei.com/business/food-beverage/coupang-s-cost-cutting-rocket-now-shakes-up-japan-s-food-delivery-sector": {
       "title": "쿠팡의 비용 절감형 배달 서비스 '로켓나우'가 일본 음식 배달 업계에 파장을 일으키고 있다.",
@@ -2865,6 +2821,17 @@
       ],
       "first_seen_at": "2026-07-17T10:50:46.178970+00:00",
       "last_seen_at": "2026-07-18T10:21:01.868258+00:00"
+    },
+    "https://www.channelnewsasia.com/business/samsung-electronics-america-reduce-workforce-739-in-new-jersey-warn-notice-says-6263221": {
+      "title": "Samsung Electronics America to reduce workforce by 739 in New Jersey, WARN notice says",
+      "link": "https://www.channelnewsasia.com/business/samsung-electronics-america-reduce-workforce-739-in-new-jersey-warn-notice-says-6263221",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-07-18T23:57:28.937790+00:00",
+      "last_seen_at": "2026-07-18T23:57:28.937790+00:00"
     }
   }
 }
