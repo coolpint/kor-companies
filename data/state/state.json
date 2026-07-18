@@ -1,29 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-17T23:55:24.916368+00:00",
+  "last_run_at": "2026-07-18T10:21:01.868258+00:00",
   "seen_articles": {
-    "https://asia.nikkei.com/business/aerospace-defense-industries/hanwha-aerospace-factory-explosion-kills-5-in-central-south-korea": {
-      "title": "한국 중부 한화항공우주공장 폭발 사고로 5명 사망",
-      "link": "https://asia.nikkei.com/business/aerospace-defense-industries/hanwha-aerospace-factory-explosion-kills-5-in-central-south-korea",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "companies": [
-        "Hanwha Aerospace"
-      ],
-      "first_seen_at": "2026-06-01T15:26:10.373168+00:00",
-      "last_seen_at": "2026-06-03T01:41:55.117409+00:00"
-    },
-    "https://economictimes.indiatimes.com/industry/cons-products/electronics/south-korea-taiwan-beat-india-stock-market-on-ai-semiconductor-boom-but-the-race-was-lost-decades-ago/articleshow/131459296.cms": {
-      "title": "한국과 대만이 인도를 제치고 앞서 나갔지만, 이미 수십 년 전에 승부는 결정된 상태였다.",
-      "link": "https://economictimes.indiatimes.com/industry/cons-products/electronics/south-korea-taiwan-beat-india-stock-market-on-ai-semiconductor-boom-but-the-race-was-lost-decades-ago/articleshow/131459296.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-06-02T12:45:38.741336+00:00",
-      "last_seen_at": "2026-06-03T01:41:55.117409+00:00"
-    },
     "https://www.straitstimes.com/business/companies-markets/sk-hynix-to-double-wafer-capacity-to-ease-memory-chip-crunch": {
       "title": "SK하이닉스, 메모리 칩 공급 부족 완화 위해 웨이퍼 생산 능력 두 배로 늘릴 계획",
       "link": "https://www.straitstimes.com/business/companies-markets/sk-hynix-to-double-wafer-capacity-to-ease-memory-chip-crunch",
@@ -45,53 +23,6 @@
       ],
       "first_seen_at": "2026-06-02T12:45:38.741336+00:00",
       "last_seen_at": "2026-06-03T13:19:55.141288+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/global-markets-south-korean-shares-post-record-high-close-as-nvidia-hopes-lift-tech-stocks/articleshow/131459302.cms": {
-      "title": "글로벌 시장: 엔비디아 관련 기대감에 힘입어 한국 증시가 사상 최고치로 마감하며 기술주 상승세 주도",
-      "link": "https://economictimes.indiatimes.com/tech/technology/global-markets-south-korean-shares-post-record-high-close-as-nvidia-hopes-lift-tech-stocks/articleshow/131459302.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Samsung Electronics",
-        "NAVER"
-      ],
-      "first_seen_at": "2026-06-02T12:45:38.741336+00:00",
-      "last_seen_at": "2026-06-03T01:41:55.117409+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/sk-hynix-pans-to-double-wafer-capacity-in-next-five-years-group-chairman-says/articleshow/131457686.cms": {
-      "title": "SK하이닉스, 향후 5년 내 웨이퍼 생산 능력 두 배 확대 계획 (그룹 회장 발표)",
-      "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-pans-to-double-wafer-capacity-in-next-five-years-group-chairman-says/articleshow/131457686.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-06-02T12:45:38.741336+00:00",
-      "last_seen_at": "2026-06-03T01:41:55.117409+00:00"
-    },
-    "https://www.japantimes.co.jp/business/2026/06/02/markets/south-korea-india-stock-market": {
-      "title": "한국이 인도를 제치고 세계 6위 증시로 부상",
-      "link": "https://www.japantimes.co.jp/business/2026/06/02/markets/south-korea-india-stock-market",
-      "source_name": "The Japan Times",
-      "country_code": "JP",
-      "companies": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-06-02T12:45:38.741336+00:00",
-      "last_seen_at": "2026-06-03T01:41:55.117409+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/south-korea-overtakes-india-as-worlds-sixth-largest-stock-market/articleshow/131454303.cms": {
-      "title": "한국이 인도를 제치고 세계 6위 증시로 부상",
-      "link": "https://economictimes.indiatimes.com/tech/technology/south-korea-overtakes-india-as-worlds-sixth-largest-stock-market/articleshow/131454303.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-06-02T12:45:38.741336+00:00",
-      "last_seen_at": "2026-06-03T01:41:55.117409+00:00"
     },
     "https://www.taipeitimes.com/News/biz/archives/2026/06/03/2003858424": {
       "title": "SK하이닉스는 메모리 부족 현상 완화를 위해 생산 능력을 두 배로 늘릴 계획입니다.",
@@ -2933,7 +2864,7 @@
         "Coupang"
       ],
       "first_seen_at": "2026-07-17T10:50:46.178970+00:00",
-      "last_seen_at": "2026-07-17T23:55:24.916368+00:00"
+      "last_seen_at": "2026-07-18T10:21:01.868258+00:00"
     }
   }
 }
