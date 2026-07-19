@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-18T23:57:28.937790+00:00",
+  "last_run_at": "2026-07-19T10:37:18.256316+00:00",
   "seen_articles": {
     "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-ascends-as-new-memory-king-with-high-bandwidth-ai-chips": {
       "title": "SK하이닉스, 고대역폭 AI 칩으로 새로운 메모리 강자로 부상",
@@ -2832,6 +2832,18 @@
       ],
       "first_seen_at": "2026-07-18T23:57:28.937790+00:00",
       "last_seen_at": "2026-07-18T23:57:28.937790+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/continental-ag-spun-off-aumovio-eyes-45-revenue-jump-in-fy27-on-safety-and-software-push/article71240909.ece": {
+      "title": "Continental AG-Spun-Off Aumovio eyes 45% revenue jump in FY27 on safety and software push",
+      "link": "https://www.thehindubusinessline.com/companies/continental-ag-spun-off-aumovio-eyes-45-revenue-jump-in-fy27-on-safety-and-software-push/article71240909.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor",
+        "Kia"
+      ],
+      "first_seen_at": "2026-07-19T10:37:18.256316+00:00",
+      "last_seen_at": "2026-07-19T10:37:18.256316+00:00"
     }
   }
 }
