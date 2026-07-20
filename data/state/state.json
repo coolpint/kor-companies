@@ -1,52 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-19T10:37:18.256316+00:00",
+  "last_run_at": "2026-07-20T00:00:40.121694+00:00",
   "seen_articles": {
-    "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-ascends-as-new-memory-king-with-high-bandwidth-ai-chips": {
-      "title": "SK하이닉스, 고대역폭 AI 칩으로 새로운 메모리 강자로 부상",
-      "link": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-ascends-as-new-memory-king-with-high-bandwidth-ai-chips",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-06-03T01:41:55.117409+00:00",
-      "last_seen_at": "2026-06-04T12:01:52.654245+00:00"
-    },
-    "https://asia.nikkei.com/business/food-beverage/coupang-s-cost-cutting-rocket-now-shakes-up-japan-s-food-delivery-sector": {
-      "title": "쿠팡의 비용 절감형 배달 서비스 '로켓나우'가 일본 음식 배달 업계에 파장을 일으키고 있다.",
-      "link": "https://asia.nikkei.com/business/food-beverage/coupang-s-cost-cutting-rocket-now-shakes-up-japan-s-food-delivery-sector",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "companies": [
-        "Coupang"
-      ],
-      "first_seen_at": "2026-06-03T13:19:55.141288+00:00",
-      "last_seen_at": "2026-06-04T12:01:52.654245+00:00"
-    },
-    "https://www.theguardian.com/world/2026/jun/03/south-korea-ai-boom-tech-companies-trillion-dollar-club-kospi-": {
-      "title": "칩, 칩… 붐? 한국 기술 기업들이 1조 달러 클럽에 합류했지만, 일각에서는 부진이 우려된다.",
-      "link": "https://www.theguardian.com/world/2026/jun/03/south-korea-ai-boom-tech-companies-trillion-dollar-club-kospi-",
-      "source_name": "The Guardian Technology",
-      "country_code": "GB",
-      "companies": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-06-03T13:19:55.141288+00:00",
-      "last_seen_at": "2026-06-04T12:01:52.654245+00:00"
-    },
-    "https://www.marketwatch.com/story/maxed-out-on-tsmc-samsung-and-sk-hynix-what-emerging-market-funds-are-buying-now-baf9e828?mod=mw_rss_topstories": {
-      "title": "TSMC, 삼성, SK하이닉스 주식은 이미 매수 한도에 도달한 신흥시장 펀드들이 지금 매수하고 있는 종목은 무엇일까요?",
-      "link": "https://www.marketwatch.com/story/maxed-out-on-tsmc-samsung-and-sk-hynix-what-emerging-market-funds-are-buying-now-baf9e828?mod=mw_rss_topstories",
-      "source_name": "MarketWatch Top Stories",
-      "country_code": "US",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-06-04T12:01:52.654245+00:00",
-      "last_seen_at": "2026-06-04T12:01:52.654245+00:00"
-    },
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-koreas-lg-group-to-adopt-10000-nvidia-gpus-maeil-says/articleshow/131501878.cms": {
       "title": "매일통신에 따르면 한국의 LG그룹이 엔비디아 GPU 1만 대를 도입할 예정입니다.",
       "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-koreas-lg-group-to-adopt-10000-nvidia-gpus-maeil-says/articleshow/131501878.cms",
@@ -2843,7 +2798,18 @@
         "Kia"
       ],
       "first_seen_at": "2026-07-19T10:37:18.256316+00:00",
-      "last_seen_at": "2026-07-19T10:37:18.256316+00:00"
+      "last_seen_at": "2026-07-20T00:00:40.121694+00:00"
+    },
+    "https://www.bangkokpost.com/business/general/3288579/air-conditioners-post-solid-sales-growth": {
+      "title": "Air conditioners post solid sales growth",
+      "link": "https://www.bangkokpost.com/business/general/3288579/air-conditioners-post-solid-sales-growth",
+      "source_name": "Bangkok Post Business",
+      "country_code": "TH",
+      "companies": [
+        "LG Electronics"
+      ],
+      "first_seen_at": "2026-07-20T00:00:40.121694+00:00",
+      "last_seen_at": "2026-07-20T00:00:40.121694+00:00"
     }
   }
 }
