@@ -1,30 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-20T00:00:40.121694+00:00",
+  "last_run_at": "2026-07-20T11:48:54.418695+00:00",
   "seen_articles": {
-    "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-koreas-lg-group-to-adopt-10000-nvidia-gpus-maeil-says/articleshow/131501878.cms": {
-      "title": "매일통신에 따르면 한국의 LG그룹이 엔비디아 GPU 1만 대를 도입할 예정입니다.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-koreas-lg-group-to-adopt-10000-nvidia-gpus-maeil-says/articleshow/131501878.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "LG Electronics"
-      ],
-      "first_seen_at": "2026-06-04T12:01:52.654245+00:00",
-      "last_seen_at": "2026-06-05T00:13:57.695150+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/nvidia-ceo-mounts-charm-push-in-south-korea-with-tv-talk-show-baseball-appearances/articleshow/131500036.cms": {
-      "title": "엔비디아 CEO, TV 토크쇼 출연 및 야구 경기 관람으로 한국 시장 공략에 나서",
-      "link": "https://economictimes.indiatimes.com/tech/technology/nvidia-ceo-mounts-charm-push-in-south-korea-with-tv-talk-show-baseball-appearances/articleshow/131500036.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-06-04T12:01:52.654245+00:00",
-      "last_seen_at": "2026-06-05T00:13:57.695150+00:00"
-    },
     "https://www.marketwatch.com/story/south-korea-is-the-ultimate-backdoor-tech-play-but-stock-investors-now-face-a-looming-threat-25065699?mod=mw_rss_topstories": {
       "title": "South Korea is the ultimate backdoor tech play — but stock investors now face a looming threat",
       "link": "https://www.marketwatch.com/story/south-korea-is-the-ultimate-backdoor-tech-play-but-stock-investors-now-face-a-looming-threat-25065699?mod=mw_rss_topstories",
@@ -35,28 +12,6 @@
       ],
       "first_seen_at": "2026-06-05T00:13:57.695150+00:00",
       "last_seen_at": "2026-06-07T11:10:58.876811+00:00"
-    },
-    "https://economictimes.indiatimes.com/industry/renewables/hyundai-motors-tamil-nadu-govt-join-hands-to-build-ev-manufacturing-skill-hub/articleshow/131511012.cms": {
-      "title": "현대자동차와 타밀나두 주 정부가 전기차 제조 및 기술 허브 구축을 위해 협력합니다.",
-      "link": "https://economictimes.indiatimes.com/industry/renewables/hyundai-motors-tamil-nadu-govt-join-hands-to-build-ev-manufacturing-skill-hub/articleshow/131511012.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-06-05T00:13:57.695150+00:00",
-      "last_seen_at": "2026-06-05T00:13:57.695150+00:00"
-    },
-    "https://economictimes.indiatimes.com/industry/renewables/hyundai-motor-india-to-roll-out-its-first-mass-market-ev-from-chennai-facility-this-year/articleshow/131508944.cms": {
-      "title": "현대자동차 인도법인은 올해 첸나이 공장에서 첫 번째 양산형 전기차를 출시할 예정이다.",
-      "link": "https://economictimes.indiatimes.com/industry/renewables/hyundai-motor-india-to-roll-out-its-first-mass-market-ev-from-chennai-facility-this-year/articleshow/131508944.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-06-05T00:13:57.695150+00:00",
-      "last_seen_at": "2026-06-05T00:13:57.695150+00:00"
     },
     "https://www.thehindubusinessline.com/news/hyundai-reaffirms-tamil-nadu-commitment-plans-to-make-state-its-flagship-ev-hub/article71060826.ece": {
       "title": "현대자동차는 타밀나두 주에 대한 투자를 재확인하고, 해당 주를 전기차 허브로 삼을 계획이라고 밝혔습니다.",
@@ -2789,7 +2744,7 @@
       "last_seen_at": "2026-07-18T23:57:28.937790+00:00"
     },
     "https://www.thehindubusinessline.com/companies/continental-ag-spun-off-aumovio-eyes-45-revenue-jump-in-fy27-on-safety-and-software-push/article71240909.ece": {
-      "title": "Continental AG-Spun-Off Aumovio eyes 45% revenue jump in FY27 on safety and software push",
+      "title": "Continental AG-Spun-Off Aumovio India eyes 45% revenue jump in FY27 on safety and software push",
       "link": "https://www.thehindubusinessline.com/companies/continental-ag-spun-off-aumovio-eyes-45-revenue-jump-in-fy27-on-safety-and-software-push/article71240909.ece",
       "source_name": "BusinessLine Companies",
       "country_code": "IN",
@@ -2798,7 +2753,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-07-19T10:37:18.256316+00:00",
-      "last_seen_at": "2026-07-20T00:00:40.121694+00:00"
+      "last_seen_at": "2026-07-20T11:48:54.418695+00:00"
     },
     "https://www.bangkokpost.com/business/general/3288579/air-conditioners-post-solid-sales-growth": {
       "title": "Air conditioners post solid sales growth",
@@ -2809,7 +2764,108 @@
         "LG Electronics"
       ],
       "first_seen_at": "2026-07-20T00:00:40.121694+00:00",
-      "last_seen_at": "2026-07-20T00:00:40.121694+00:00"
+      "last_seen_at": "2026-07-20T11:48:54.418695+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/hyundai-motor-india-integrates-30000-ev-charging-points-into-myhyundai-app/article71244655.ece": {
+      "title": "Hyundai Motor India integrates 30,000 EV charging points into myHyundai app",
+      "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-integrates-30000-ev-charging-points-into-myhyundai-app/article71244655.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-07-20T11:48:54.418695+00:00",
+      "last_seen_at": "2026-07-20T11:48:54.418695+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/tata-osprey-joins-maruti-across-and-toyota-urban-cruiser-as-india-made-cars-go-global/article71244410.ece": {
+      "title": "Tata Osprey joins Maruti Across and Toyota Urban Cruiser as India-made cars go global",
+      "link": "https://www.thehindubusinessline.com/companies/tata-osprey-joins-maruti-across-and-toyota-urban-cruiser-as-india-made-cars-go-global/article71244410.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Nexon"
+      ],
+      "first_seen_at": "2026-07-20T11:48:54.418695+00:00",
+      "last_seen_at": "2026-07-20T11:48:54.418695+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-sk-hynix-advance-new-memory-layer-to-tackle-ai-scaling-limits/articleshow/132511928.cms": {
+      "title": "Samsung, SK Hynix advance new memory layer to tackle AI scaling limits",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-sk-hynix-advance-new-memory-layer-to-tackle-ai-scaling-limits/articleshow/132511928.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Samsung Electronics",
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-20T11:48:54.418695+00:00",
+      "last_seen_at": "2026-07-20T11:48:54.418695+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/chinas-cxmt-targets-global-dram-giants-with-record-8-5-billion-ipo/articleshow/132511782.cms": {
+      "title": "China's CXMT targets global DRAM giants with record $8.5 billion IPO",
+      "link": "https://economictimes.indiatimes.com/tech/technology/chinas-cxmt-targets-global-dram-giants-with-record-8-5-billion-ipo/articleshow/132511782.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Samsung Electronics",
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-20T11:48:54.418695+00:00",
+      "last_seen_at": "2026-07-20T11:48:54.418695+00:00"
+    },
+    "https://www.cnbc.com/2026/07/20/samsung-biologics-polypeptide-group-deal-switzerland.html": {
+      "title": "Samsung Biologics makes $1.8 billion all-cash offer for Switzerland's PolyPeptide Group",
+      "link": "https://www.cnbc.com/2026/07/20/samsung-biologics-polypeptide-group-deal-switzerland.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "Samsung Biologics"
+      ],
+      "first_seen_at": "2026-07-20T11:48:54.418695+00:00",
+      "last_seen_at": "2026-07-20T11:48:54.418695+00:00"
+    },
+    "https://www.ft.com/content/715da6d5-bd8a-4419-b45c-8cfb02d847be?syn-25a6b1a6=1": {
+      "title": "Samsung Biologics buys Swiss peptide maker for $1.8bn",
+      "link": "https://www.ft.com/content/715da6d5-bd8a-4419-b45c-8cfb02d847be?syn-25a6b1a6=1",
+      "source_name": "Financial Times Companies",
+      "country_code": "GB",
+      "companies": [
+        "Samsung Biologics"
+      ],
+      "first_seen_at": "2026-07-20T11:48:54.418695+00:00",
+      "last_seen_at": "2026-07-20T11:48:54.418695+00:00"
+    },
+    "https://www.cnbc.com/2026/07/20/give-me-my-money-back-south-korean-traders-leveraged-bets-unravel.html": {
+      "title": "'Give me my money back': South Korean traders' leveraged SK Hynix, Samsung bets unravel after selloff",
+      "link": "https://www.cnbc.com/2026/07/20/give-me-my-money-back-south-korean-traders-leveraged-bets-unravel.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-20T11:48:54.418695+00:00",
+      "last_seen_at": "2026-07-20T11:48:54.418695+00:00"
+    },
+    "https://e.vnexpress.net/news/world/samsung-cuts-us-jobs-offers-relocations-ahead-of-headquarters-move-5099340.html": {
+      "title": "Samsung cuts US jobs, offers relocations ahead of headquarters move",
+      "link": "https://e.vnexpress.net/news/world/samsung-cuts-us-jobs-offers-relocations-ahead-of-headquarters-move-5099340.html",
+      "source_name": "VnExpress World",
+      "country_code": "VN",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-07-20T11:48:54.418695+00:00",
+      "last_seen_at": "2026-07-20T11:48:54.418695+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/how-a-dispute-over-ecommerce-firm-coupang-is-testing-us-south-korea-ties/articleshow/132504535.cms": {
+      "title": "How a dispute over ecommerce firm Coupang is testing US-South Korea ties",
+      "link": "https://economictimes.indiatimes.com/tech/technology/how-a-dispute-over-ecommerce-firm-coupang-is-testing-us-south-korea-ties/articleshow/132504535.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Coupang"
+      ],
+      "first_seen_at": "2026-07-20T11:48:54.418695+00:00",
+      "last_seen_at": "2026-07-20T11:48:54.418695+00:00"
     }
   }
 }
