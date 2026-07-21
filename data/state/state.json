@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-20T23:59:42.079521+00:00",
+  "last_run_at": "2026-07-21T11:11:17.234023+00:00",
   "seen_articles": {
     "https://www.marketwatch.com/story/south-korea-is-the-ultimate-backdoor-tech-play-but-stock-investors-now-face-a-looming-threat-25065699?mod=mw_rss_topstories": {
       "title": "South Korea is the ultimate backdoor tech play — but stock investors now face a looming threat",
@@ -12,28 +12,6 @@
       ],
       "first_seen_at": "2026-06-05T00:13:57.695150+00:00",
       "last_seen_at": "2026-06-07T11:10:58.876811+00:00"
-    },
-    "https://www.thehindubusinessline.com/news/hyundai-reaffirms-tamil-nadu-commitment-plans-to-make-state-its-flagship-ev-hub/article71060826.ece": {
-      "title": "현대자동차는 타밀나두 주에 대한 투자를 재확인하고, 해당 주를 전기차 허브로 삼을 계획이라고 밝혔습니다.",
-      "link": "https://www.thehindubusinessline.com/news/hyundai-reaffirms-tamil-nadu-commitment-plans-to-make-state-its-flagship-ev-hub/article71060826.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-06-05T00:13:57.695150+00:00",
-      "last_seen_at": "2026-06-06T00:11:30.632425+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/south-korea-labour-minister-calls-on-tech-firms-to-share-excess-ai-profits-with-suppliers-staff/articleshow/131519857.cms": {
-      "title": "한국 노동부 장관, IT 기업에 AI 관련 초과 이익 공유 촉구",
-      "link": "https://economictimes.indiatimes.com/tech/technology/south-korea-labour-minister-calls-on-tech-firms-to-share-excess-ai-profits-with-suppliers-staff/articleshow/131519857.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-06-05T12:10:57.480549+00:00",
-      "last_seen_at": "2026-06-06T10:55:39.957475+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-invites-startup-applications-for-innovation-challenge-2026/articleshow/131531715.cms": {
       "title": "현대자동차가 2026년 혁신 챌린지 참가 스타트업의 신청을 받습니다.",
@@ -2753,7 +2731,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-07-19T10:37:18.256316+00:00",
-      "last_seen_at": "2026-07-20T23:59:42.079521+00:00"
+      "last_seen_at": "2026-07-21T11:11:17.234023+00:00"
     },
     "https://www.bangkokpost.com/business/general/3288579/air-conditioners-post-solid-sales-growth": {
       "title": "Air conditioners post solid sales growth",
@@ -2775,7 +2753,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-07-20T11:48:54.418695+00:00",
-      "last_seen_at": "2026-07-20T23:59:42.079521+00:00"
+      "last_seen_at": "2026-07-21T11:11:17.234023+00:00"
     },
     "https://www.thehindubusinessline.com/companies/tata-osprey-joins-maruti-across-and-toyota-urban-cruiser-as-india-made-cars-go-global/article71244410.ece": {
       "title": "Tata Osprey joins Maruti Across and Toyota Urban Cruiser as India-made cars go global",
@@ -2786,7 +2764,7 @@
         "Nexon"
       ],
       "first_seen_at": "2026-07-20T11:48:54.418695+00:00",
-      "last_seen_at": "2026-07-20T23:59:42.079521+00:00"
+      "last_seen_at": "2026-07-21T11:11:17.234023+00:00"
     },
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-sk-hynix-advance-new-memory-layer-to-tackle-ai-scaling-limits/articleshow/132511928.cms": {
       "title": "Samsung, SK Hynix advance new memory layer to tackle AI scaling limits",
@@ -2798,7 +2776,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-20T11:48:54.418695+00:00",
-      "last_seen_at": "2026-07-20T23:59:42.079521+00:00"
+      "last_seen_at": "2026-07-21T11:11:17.234023+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/chinas-cxmt-targets-global-dram-giants-with-record-8-5-billion-ipo/articleshow/132511782.cms": {
       "title": "China's CXMT targets global DRAM giants with record $8.5 billion IPO",
@@ -2810,7 +2788,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-20T11:48:54.418695+00:00",
-      "last_seen_at": "2026-07-20T23:59:42.079521+00:00"
+      "last_seen_at": "2026-07-21T11:11:17.234023+00:00"
     },
     "https://www.cnbc.com/2026/07/20/samsung-biologics-polypeptide-group-deal-switzerland.html": {
       "title": "Samsung Biologics makes $1.8 billion all-cash offer for Switzerland's PolyPeptide Group",
@@ -2843,7 +2821,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-20T11:48:54.418695+00:00",
-      "last_seen_at": "2026-07-20T23:59:42.079521+00:00"
+      "last_seen_at": "2026-07-21T11:11:17.234023+00:00"
     },
     "https://e.vnexpress.net/news/world/samsung-cuts-us-jobs-offers-relocations-ahead-of-headquarters-move-5099340.html": {
       "title": "Samsung cuts US jobs, offers relocations ahead of headquarters move",
@@ -2854,7 +2832,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-07-20T11:48:54.418695+00:00",
-      "last_seen_at": "2026-07-20T23:59:42.079521+00:00"
+      "last_seen_at": "2026-07-21T11:11:17.234023+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/how-a-dispute-over-ecommerce-firm-coupang-is-testing-us-south-korea-ties/articleshow/132504535.cms": {
       "title": "How a dispute over ecommerce firm Coupang is testing US-South Korea ties",
@@ -2876,7 +2854,41 @@
         "Nexon"
       ],
       "first_seen_at": "2026-07-20T23:59:42.079521+00:00",
-      "last_seen_at": "2026-07-20T23:59:42.079521+00:00"
+      "last_seen_at": "2026-07-21T11:11:17.234023+00:00"
+    },
+    "https://www.cnbc.com/2026/07/21/samsung-electronics-sets-up-robotics-unit-amid-push-into-physical-ai-.html": {
+      "title": "Samsung Electronics shares rise as robotics move highlights push into physical AI",
+      "link": "https://www.cnbc.com/2026/07/21/samsung-electronics-sets-up-robotics-unit-amid-push-into-physical-ai-.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-07-21T11:11:17.234023+00:00",
+      "last_seen_at": "2026-07-21T11:11:17.234023+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-creates-robotics-division-ex-hyundai-executive-to-head-strategy/articleshow/132526845.cms": {
+      "title": "Samsung Electronics creates robotics division; ex-Hyundai executive to head strategy",
+      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-creates-robotics-division-ex-hyundai-executive-to-head-strategy/articleshow/132526845.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Samsung Electronics",
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-07-21T11:11:17.234023+00:00",
+      "last_seen_at": "2026-07-21T11:11:17.234023+00:00"
+    },
+    "https://www.channelnewsasia.com/business/samsung-electronics-creates-robotics-division-key-part-growth-strategy-6266856": {
+      "title": "Samsung Electronics creates robotics division as key part of growth strategy",
+      "link": "https://www.channelnewsasia.com/business/samsung-electronics-creates-robotics-division-key-part-growth-strategy-6266856",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-07-21T11:11:17.234023+00:00",
+      "last_seen_at": "2026-07-21T11:11:17.234023+00:00"
     }
   }
 }
