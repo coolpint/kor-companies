@@ -1,41 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-21T23:57:48.619139+00:00",
+  "last_run_at": "2026-07-22T11:11:53.636912+00:00",
   "seen_articles": {
-    "https://www.marketwatch.com/story/south-korea-is-the-ultimate-backdoor-tech-play-but-stock-investors-now-face-a-looming-threat-25065699?mod=mw_rss_topstories": {
-      "title": "South Korea is the ultimate backdoor tech play — but stock investors now face a looming threat",
-      "link": "https://www.marketwatch.com/story/south-korea-is-the-ultimate-backdoor-tech-play-but-stock-investors-now-face-a-looming-threat-25065699?mod=mw_rss_topstories",
-      "source_name": "MarketWatch Top Stories",
-      "country_code": "US",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-06-05T00:13:57.695150+00:00",
-      "last_seen_at": "2026-06-07T11:10:58.876811+00:00"
-    },
-    "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-invites-startup-applications-for-innovation-challenge-2026/articleshow/131531715.cms": {
-      "title": "현대자동차가 2026년 혁신 챌린지 참가 스타트업의 신청을 받습니다.",
-      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-invites-startup-applications-for-innovation-challenge-2026/articleshow/131531715.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-06-06T00:11:30.632425+00:00",
-      "last_seen_at": "2026-06-07T00:08:32.216989+00:00"
-    },
-    "https://www.scmp.com/tech/article/3356130/chinese-memory-makers-step-challenge-koreas-chip-champions": {
-      "title": "Chinese memory makers step up challenge to Korea’s chip champions",
-      "link": "https://www.scmp.com/tech/article/3356130/chinese-memory-makers-step-challenge-koreas-chip-champions",
-      "source_name": "South China Morning Post Tech",
-      "country_code": "HK",
-      "companies": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-06-06T10:55:39.957475+00:00",
-      "last_seen_at": "2026-06-07T11:10:58.876811+00:00"
-    },
     "https://www.channelnewsasia.com/business/sk-hynix-announces-multi-year-tech-deal-nvidia-ai-factories-6167936": {
       "title": "SK Hynix announces multi-year tech deal with Nvidia for AI factories",
       "link": "https://www.channelnewsasia.com/business/sk-hynix-announces-multi-year-tech-deal-nvidia-ai-factories-6167936",
@@ -2854,7 +2820,7 @@
         "Nexon"
       ],
       "first_seen_at": "2026-07-20T23:59:42.079521+00:00",
-      "last_seen_at": "2026-07-21T23:57:48.619139+00:00"
+      "last_seen_at": "2026-07-22T11:11:53.636912+00:00"
     },
     "https://www.cnbc.com/2026/07/21/samsung-electronics-sets-up-robotics-unit-amid-push-into-physical-ai-.html": {
       "title": "Samsung Electronics shares rise as robotics move highlights push into physical AI",
