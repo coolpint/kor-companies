@@ -1,29 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-23T00:03:14.759190+00:00",
+  "last_run_at": "2026-07-23T11:13:21.981440+00:00",
   "seen_articles": {
-    "https://www.channelnewsasia.com/business/sk-hynix-announces-multi-year-tech-deal-nvidia-ai-factories-6167936": {
-      "title": "SK Hynix announces multi-year tech deal with Nvidia for AI factories",
-      "link": "https://www.channelnewsasia.com/business/sk-hynix-announces-multi-year-tech-deal-nvidia-ai-factories-6167936",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-06-08T00:13:32.178893+00:00",
-      "last_seen_at": "2026-06-08T00:13:32.178893+00:00"
-    },
-    "https://www.channelnewsasia.com/business/south-koreas-naver-build-gigawatt-scale-ai-factories-using-nvidia-technology-6167926": {
-      "title": "South Korea's Naver to build gigawatt-scale AI factories using Nvidia technology",
-      "link": "https://www.channelnewsasia.com/business/south-koreas-naver-build-gigawatt-scale-ai-factories-using-nvidia-technology-6167926",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "NAVER"
-      ],
-      "first_seen_at": "2026-06-08T00:13:32.178893+00:00",
-      "last_seen_at": "2026-06-08T00:13:32.178893+00:00"
-    },
     "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-chip-chief-says-discussed-next-generation-foundry-hbm-cooperation-with-nvidia-ceo/articleshow/131586506.cms": {
       "title": "Samsung Electronics' chip chief says discussed next-generation foundry, HBM cooperation with Nvidia CEO",
       "link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-chip-chief-says-discussed-next-generation-foundry-hbm-cooperation-with-nvidia-ceo/articleshow/131586506.cms",
@@ -2865,7 +2843,75 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-07-23T00:03:14.759190+00:00",
-      "last_seen_at": "2026-07-23T00:03:14.759190+00:00"
+      "last_seen_at": "2026-07-23T11:13:21.981440+00:00"
+    },
+    "https://www.marketwatch.com/story/the-u-s-premium-for-sk-hynix-is-set-to-stay-after-korean-regulatory-ruling-bde1ddb6?mod=mw_rss_topstories": {
+      "title": "The U.S. premium for SK Hynix is set to stay after Korean regulatory ruling",
+      "link": "https://www.marketwatch.com/story/the-u-s-premium-for-sk-hynix-is-set-to-stay-after-korean-regulatory-ruling-bde1ddb6?mod=mw_rss_topstories",
+      "source_name": "MarketWatch Top Stories",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-23T11:13:21.981440+00:00",
+      "last_seen_at": "2026-07-23T11:13:21.981440+00:00"
+    },
+    "https://asia.nikkei.com/business/automobiles/hyundai-profit-falls-21-on-us-tariffs-supply-chain-disruption": {
+      "title": "Hyundai profit falls 21% on US tariffs, supply chain disruption",
+      "link": "https://asia.nikkei.com/business/automobiles/hyundai-profit-falls-21-on-us-tariffs-supply-chain-disruption",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-07-23T11:13:21.981440+00:00",
+      "last_seen_at": "2026-07-23T11:13:21.981440+00:00"
+    },
+    "https://www.scmp.com/news/china/science/article/3361580/chinas-new-chip-stores-data-single-electron-breaking-ai-memory-bottleneck": {
+      "title": "China’s new chip stores data with a single electron, breaking AI memory bottleneck",
+      "link": "https://www.scmp.com/news/china/science/article/3361580/chinas-new-chip-stores-data-single-electron-breaking-ai-memory-bottleneck",
+      "source_name": "South China Morning Post World",
+      "country_code": "HK",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-23T11:13:21.981440+00:00",
+      "last_seen_at": "2026-07-23T11:13:21.981440+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/hyundai-motor-reports-21-drop-in-q2-operating-profit-misses-forecasts/article71256599.ece": {
+      "title": "Hyundai Motor reports 21% drop in Q2 operating profit, misses forecasts",
+      "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-reports-21-drop-in-q2-operating-profit-misses-forecasts/article71256599.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-07-23T11:13:21.981440+00:00",
+      "last_seen_at": "2026-07-23T11:13:21.981440+00:00"
+    },
+    "https://www.channelnewsasia.com/business/hyundai-motor-reports-21-drop-in-q2-operating-profit-misses-forecasts-6272766": {
+      "title": "Hyundai Motor reports 21% drop in Q2 operating profit, misses forecasts",
+      "link": "https://www.channelnewsasia.com/business/hyundai-motor-reports-21-drop-in-q2-operating-profit-misses-forecasts-6272766",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-07-23T11:13:21.981440+00:00",
+      "last_seen_at": "2026-07-23T11:13:21.981440+00:00"
+    },
+    "https://www.scmp.com/news/asia/east-asia/article/3361526/south-korean-labour-unions-push-higher-payouts-after-samsungs-us400000-bonus": {
+      "title": "South Korean labour unions push for higher payouts after Samsung’s US$400,000 bonus",
+      "link": "https://www.scmp.com/news/asia/east-asia/article/3361526/south-korean-labour-unions-push-higher-payouts-after-samsungs-us400000-bonus",
+      "source_name": "South China Morning Post World",
+      "country_code": "HK",
+      "companies": [
+        "Samsung Electronics",
+        "Hyundai Motor",
+        "HD Hyundai"
+      ],
+      "first_seen_at": "2026-07-23T11:13:21.981440+00:00",
+      "last_seen_at": "2026-07-23T11:13:21.981440+00:00"
     }
   }
 }
