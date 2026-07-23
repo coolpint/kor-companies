@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-22T11:11:53.636912+00:00",
+  "last_run_at": "2026-07-23T00:03:14.759190+00:00",
   "seen_articles": {
     "https://www.channelnewsasia.com/business/sk-hynix-announces-multi-year-tech-deal-nvidia-ai-factories-6167936": {
       "title": "SK Hynix announces multi-year tech deal with Nvidia for AI factories",
@@ -2855,6 +2855,17 @@
       ],
       "first_seen_at": "2026-07-21T11:11:17.234023+00:00",
       "last_seen_at": "2026-07-21T11:11:17.234023+00:00"
+    },
+    "http://www3.nhk.or.jp/news/html/20260723/k10015183071000.html": {
+      "title": "折りたたみ式スマホ薄型の新モデル発表 競争激化か",
+      "link": "http://www3.nhk.or.jp/news/html/20260723/k10015183071000.html",
+      "source_name": "NHK Business",
+      "country_code": "JP",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-07-23T00:03:14.759190+00:00",
+      "last_seen_at": "2026-07-23T00:03:14.759190+00:00"
     }
   }
 }
