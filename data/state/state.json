@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-23T11:13:21.981440+00:00",
+  "last_run_at": "2026-07-24T00:04:16.852151+00:00",
   "seen_articles": {
     "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-chip-chief-says-discussed-next-generation-foundry-hbm-cooperation-with-nvidia-ceo/articleshow/131586506.cms": {
       "title": "Samsung Electronics' chip chief says discussed next-generation foundry, HBM cooperation with Nvidia CEO",
@@ -12,17 +12,6 @@
       ],
       "first_seen_at": "2026-06-08T13:10:23.388081+00:00",
       "last_seen_at": "2026-06-09T00:09:41.500850+00:00"
-    },
-    "https://www.channelnewsasia.com/business/samsung-elecs-chip-chief-says-he-discussed-next-generation-foundry-nvidia-ceo-6169061": {
-      "title": "Samsung Elec's chip chief says he discussed next-generation foundry with Nvidia CEO",
-      "link": "https://www.channelnewsasia.com/business/samsung-elecs-chip-chief-says-he-discussed-next-generation-foundry-nvidia-ceo-6169061",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-06-08T13:10:23.388081+00:00",
-      "last_seen_at": "2026-06-08T13:10:23.388081+00:00"
     },
     "https://www.japantimes.co.jp/news/2026/06/08/asia-pacific/south-korea-female-pm-ai": {
       "title": "South Korea names first female prime minister in decades to lead AI push",
@@ -2843,7 +2832,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-07-23T00:03:14.759190+00:00",
-      "last_seen_at": "2026-07-23T11:13:21.981440+00:00"
+      "last_seen_at": "2026-07-24T00:04:16.852151+00:00"
     },
     "https://www.marketwatch.com/story/the-u-s-premium-for-sk-hynix-is-set-to-stay-after-korean-regulatory-ruling-bde1ddb6?mod=mw_rss_topstories": {
       "title": "The U.S. premium for SK Hynix is set to stay after Korean regulatory ruling",
@@ -2865,7 +2854,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-07-23T11:13:21.981440+00:00",
-      "last_seen_at": "2026-07-23T11:13:21.981440+00:00"
+      "last_seen_at": "2026-07-24T00:04:16.852151+00:00"
     },
     "https://www.scmp.com/news/china/science/article/3361580/chinas-new-chip-stores-data-single-electron-breaking-ai-memory-bottleneck": {
       "title": "China’s new chip stores data with a single electron, breaking AI memory bottleneck",
@@ -2887,7 +2876,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-07-23T11:13:21.981440+00:00",
-      "last_seen_at": "2026-07-23T11:13:21.981440+00:00"
+      "last_seen_at": "2026-07-24T00:04:16.852151+00:00"
     },
     "https://www.channelnewsasia.com/business/hyundai-motor-reports-21-drop-in-q2-operating-profit-misses-forecasts-6272766": {
       "title": "Hyundai Motor reports 21% drop in Q2 operating profit, misses forecasts",
