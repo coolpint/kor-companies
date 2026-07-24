@@ -1,29 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-24T00:04:16.852151+00:00",
+  "last_run_at": "2026-07-24T11:05:14.353811+00:00",
   "seen_articles": {
-    "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-chip-chief-says-discussed-next-generation-foundry-hbm-cooperation-with-nvidia-ceo/articleshow/131586506.cms": {
-      "title": "Samsung Electronics' chip chief says discussed next-generation foundry, HBM cooperation with Nvidia CEO",
-      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-chip-chief-says-discussed-next-generation-foundry-hbm-cooperation-with-nvidia-ceo/articleshow/131586506.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-06-08T13:10:23.388081+00:00",
-      "last_seen_at": "2026-06-09T00:09:41.500850+00:00"
-    },
-    "https://www.japantimes.co.jp/news/2026/06/08/asia-pacific/south-korea-female-pm-ai": {
-      "title": "South Korea names first female prime minister in decades to lead AI push",
-      "link": "https://www.japantimes.co.jp/news/2026/06/08/asia-pacific/south-korea-female-pm-ai",
-      "source_name": "The Japan Times",
-      "country_code": "JP",
-      "companies": [
-        "NAVER"
-      ],
-      "first_seen_at": "2026-06-08T13:10:23.388081+00:00",
-      "last_seen_at": "2026-06-09T00:09:41.500850+00:00"
-    },
     "https://e.vnexpress.net/news/world/nvidia-clinches-deals-with-south-korean-giants-include-sk-group-to-advance-ai-boom-5083094.html": {
       "title": "Nvidia clinches deals with South Korean giants include SK Group to advance AI boom",
       "link": "https://e.vnexpress.net/news/world/nvidia-clinches-deals-with-south-korean-giants-include-sk-group-to-advance-ai-boom-5083094.html",
@@ -36,17 +14,6 @@
       "first_seen_at": "2026-06-08T13:10:23.388081+00:00",
       "last_seen_at": "2026-06-09T12:07:20.388897+00:00"
     },
-    "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-koreas-naver-to-build-gigawatt-scale-ai-factories-using-nvidia-technology/articleshow/131576643.cms": {
-      "title": "South Korea's Naver to build gigawatt-scale AI factories using Nvidia technology",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-koreas-naver-to-build-gigawatt-scale-ai-factories-using-nvidia-technology/articleshow/131576643.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "NAVER"
-      ],
-      "first_seen_at": "2026-06-08T13:10:23.388081+00:00",
-      "last_seen_at": "2026-06-09T00:09:41.500850+00:00"
-    },
     "https://www.straitstimes.com/business/companies-markets/nvidia-says-sk-hynix-will-continue-to-be-its-largest-partner-seal-multi-year-pact-to-develop-ai": {
       "title": "Nvidia says SK Hynix will continue to be its largest partner; pact to develop AI chips sealed",
       "link": "https://www.straitstimes.com/business/companies-markets/nvidia-says-sk-hynix-will-continue-to-be-its-largest-partner-seal-multi-year-pact-to-develop-ai",
@@ -58,17 +25,6 @@
       ],
       "first_seen_at": "2026-06-08T13:10:23.388081+00:00",
       "last_seen_at": "2026-06-09T12:07:20.388897+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-ceo-says-sk-hynix-will-continue-to-be-its-largest-partner/articleshow/131576247.cms": {
-      "title": "Nvidia clinches deals with South Korean giants include SK Group to advance AI boom",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-ceo-says-sk-hynix-will-continue-to-be-its-largest-partner/articleshow/131576247.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-06-08T13:10:23.388081+00:00",
-      "last_seen_at": "2026-06-09T00:09:41.500850+00:00"
     },
     "https://www.theglobeandmail.com/business/article-nvidia-ai-data-centre-sk-hynix-naver-doosan": {
       "title": "Nvidia announces AI data centre deals with SK Hynix, Naver and Doosan",
@@ -2854,7 +2810,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-07-23T11:13:21.981440+00:00",
-      "last_seen_at": "2026-07-24T00:04:16.852151+00:00"
+      "last_seen_at": "2026-07-24T11:05:14.353811+00:00"
     },
     "https://www.scmp.com/news/china/science/article/3361580/chinas-new-chip-stores-data-single-electron-breaking-ai-memory-bottleneck": {
       "title": "China’s new chip stores data with a single electron, breaking AI memory bottleneck",
@@ -2876,7 +2832,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-07-23T11:13:21.981440+00:00",
-      "last_seen_at": "2026-07-24T00:04:16.852151+00:00"
+      "last_seen_at": "2026-07-24T11:05:14.353811+00:00"
     },
     "https://www.channelnewsasia.com/business/hyundai-motor-reports-21-drop-in-q2-operating-profit-misses-forecasts-6272766": {
       "title": "Hyundai Motor reports 21% drop in Q2 operating profit, misses forecasts",
@@ -2901,6 +2857,17 @@
       ],
       "first_seen_at": "2026-07-23T11:13:21.981440+00:00",
       "last_seen_at": "2026-07-23T11:13:21.981440+00:00"
+    },
+    "https://www.ft.com/content/3933afd1-0564-46c8-a9fc-b77f9d9c689c?syn-25a6b1a6=1": {
+      "title": "Tech billionaire ordered to pay $640mn in South Korea’s ‘divorce of the century’",
+      "link": "https://www.ft.com/content/3933afd1-0564-46c8-a9fc-b77f9d9c689c?syn-25a6b1a6=1",
+      "source_name": "Financial Times Companies",
+      "country_code": "GB",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-24T11:05:14.353811+00:00",
+      "last_seen_at": "2026-07-24T11:05:14.353811+00:00"
     }
   }
 }
