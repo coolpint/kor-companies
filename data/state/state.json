@@ -1,44 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-24T11:05:14.353811+00:00",
+  "last_run_at": "2026-07-25T00:08:04.997281+00:00",
   "seen_articles": {
-    "https://e.vnexpress.net/news/world/nvidia-clinches-deals-with-south-korean-giants-include-sk-group-to-advance-ai-boom-5083094.html": {
-      "title": "Nvidia clinches deals with South Korean giants include SK Group to advance AI boom",
-      "link": "https://e.vnexpress.net/news/world/nvidia-clinches-deals-with-south-korean-giants-include-sk-group-to-advance-ai-boom-5083094.html",
-      "source_name": "VnExpress World",
-      "country_code": "VN",
-      "companies": [
-        "SK hynix",
-        "NAVER"
-      ],
-      "first_seen_at": "2026-06-08T13:10:23.388081+00:00",
-      "last_seen_at": "2026-06-09T12:07:20.388897+00:00"
-    },
-    "https://www.straitstimes.com/business/companies-markets/nvidia-says-sk-hynix-will-continue-to-be-its-largest-partner-seal-multi-year-pact-to-develop-ai": {
-      "title": "Nvidia says SK Hynix will continue to be its largest partner; pact to develop AI chips sealed",
-      "link": "https://www.straitstimes.com/business/companies-markets/nvidia-says-sk-hynix-will-continue-to-be-its-largest-partner-seal-multi-year-pact-to-develop-ai",
-      "source_name": "The Straits Times",
-      "country_code": "SG",
-      "companies": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-06-08T13:10:23.388081+00:00",
-      "last_seen_at": "2026-06-09T12:07:20.388897+00:00"
-    },
-    "https://www.theglobeandmail.com/business/article-nvidia-ai-data-centre-sk-hynix-naver-doosan": {
-      "title": "Nvidia announces AI data centre deals with SK Hynix, Naver and Doosan",
-      "link": "https://www.theglobeandmail.com/business/article-nvidia-ai-data-centre-sk-hynix-naver-doosan",
-      "source_name": "The Globe and Mail Business",
-      "country_code": "CA",
-      "companies": [
-        "SK hynix",
-        "NAVER",
-        "Doosan Enerbility"
-      ],
-      "first_seen_at": "2026-06-08T13:10:23.388081+00:00",
-      "last_seen_at": "2026-06-09T12:07:20.388897+00:00"
-    },
     "https://www.thehindubusinessline.com/news/national/tamil-nadu-assures-support-for-hd-hyundais-proposed-shipyard-project/article71079808.ece": {
       "title": "Tamil Nadu assures support for HD Hyundai's proposed shipyard project",
       "link": "https://www.thehindubusinessline.com/news/national/tamil-nadu-assures-support-for-hd-hyundais-proposed-shipyard-project/article71079808.ece",
@@ -50,39 +13,6 @@
       ],
       "first_seen_at": "2026-06-09T12:07:20.388897+00:00",
       "last_seen_at": "2026-06-10T12:25:51.312009+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/startups/former-mirae-asset-head-ashish-dave-bets-big-on-indias-vc-reset/articleshow/131592279.cms": {
-      "title": "Former Mirae Asset head Ashish Dave bets big on India's VC reset",
-      "link": "https://economictimes.indiatimes.com/tech/startups/former-mirae-asset-head-ashish-dave-bets-big-on-indias-vc-reset/articleshow/131592279.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Mirae Asset"
-      ],
-      "first_seen_at": "2026-06-09T12:07:20.388897+00:00",
-      "last_seen_at": "2026-06-09T12:07:20.388897+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/funding/former-mirae-asset-head-ashish-dave-bets-big-on-indias-vc-reset/articleshow/131592129.cms": {
-      "title": "Ex-Mirae Asset India head Ashish Dave launches Rs 700-1,000-crore fund",
-      "link": "https://economictimes.indiatimes.com/tech/funding/former-mirae-asset-head-ashish-dave-bets-big-on-indias-vc-reset/articleshow/131592129.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Mirae Asset"
-      ],
-      "first_seen_at": "2026-06-09T12:07:20.388897+00:00",
-      "last_seen_at": "2026-06-09T12:07:20.388897+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/funding/wealth-firm-nexedge-capital-looking-to-close-a-25-million-funding-round-to-be-led-by-mirae/articleshow/131591391.cms": {
-      "title": "Wealth firm Nexedge Capital looking to close a $25 million funding round to be led by Mirae",
-      "link": "https://economictimes.indiatimes.com/tech/funding/wealth-firm-nexedge-capital-looking-to-close-a-25-million-funding-round-to-be-led-by-mirae/articleshow/131591391.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Mirae Asset"
-      ],
-      "first_seen_at": "2026-06-09T12:07:20.388897+00:00",
-      "last_seen_at": "2026-06-09T12:07:20.388897+00:00"
     },
     "https://www.channelnewsasia.com/business/samsung-electronics-invests-175-million-in-element-biosciences-series-e-funding-round-6171871": {
       "title": "Samsung Electronics invests $175 million in Element Biosciences' Series E funding round",
@@ -2867,7 +2797,19 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-24T11:05:14.353811+00:00",
-      "last_seen_at": "2026-07-24T11:05:14.353811+00:00"
+      "last_seen_at": "2026-07-25T00:08:04.997281+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-sk-hynix-to-announce-major-chip-deals-with-us-tech-companies-seoul-says/articleshow/132606358.cms": {
+      "title": "Samsung, SK Hynix to announce major chip deals with US tech companies, Seoul says",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-sk-hynix-to-announce-major-chip-deals-with-us-tech-companies-seoul-says/articleshow/132606358.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Samsung Electronics",
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-25T00:08:04.997281+00:00",
+      "last_seen_at": "2026-07-25T00:08:04.997281+00:00"
     }
   }
 }
