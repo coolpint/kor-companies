@@ -1,30 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-26T00:03:07.001465+00:00",
+  "last_run_at": "2026-07-26T10:46:17.690228+00:00",
   "seen_articles": {
-    "https://www.thehindubusinessline.com/economy/logistics/tamil-nadu-signals-strong-push-for-hd-hyundai-shipyard-as-industries-minister-visits-korea/article71080352.ece": {
-      "title": "Tamil Nadu signals strong push for HD Hyundai Shipyard as Industries Minister visits Korea",
-      "link": "https://www.thehindubusinessline.com/economy/logistics/tamil-nadu-signals-strong-push-for-hd-hyundai-shipyard-as-industries-minister-visits-korea/article71080352.ece",
-      "source_name": "BusinessLine Economy",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor",
-        "HD Hyundai"
-      ],
-      "first_seen_at": "2026-06-10T00:18:31.471079+00:00",
-      "last_seen_at": "2026-06-11T00:19:50.844455+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/south-koreas-sk-hynix-eyes-us-listing-as-soon-as-august-sources-say/articleshow/131628683.cms": {
-      "title": "South Korea's SK Hynix eyes US listing as soon as August, sources say",
-      "link": "https://economictimes.indiatimes.com/tech/technology/south-koreas-sk-hynix-eyes-us-listing-as-soon-as-august-sources-say/articleshow/131628683.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-06-10T12:25:51.312009+00:00",
-      "last_seen_at": "2026-06-11T00:19:50.844455+00:00"
-    },
     "https://www.thehindubusinessline.com/companies/hyundai-expects-chennai-plant-1-production-to-normalise-by-june-15-after-mobis-fire/article71083471.ece": {
       "title": "Hyundai expects Chennai Plant 1 production to normalise by June 15 after Mobis fire",
       "link": "https://www.thehindubusinessline.com/companies/hyundai-expects-chennai-plant-1-production-to-normalise-by-june-15-after-mobis-fire/article71083471.ece",
@@ -35,28 +12,6 @@
       ],
       "first_seen_at": "2026-06-10T12:25:51.312009+00:00",
       "last_seen_at": "2026-06-11T12:49:43.869752+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-considers-building-chip-packaging-plant-report/articleshow/131625554.cms": {
-      "title": "Samsung Electronics considers building chip packaging plant: Report",
-      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-considers-building-chip-packaging-plant-report/articleshow/131625554.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-06-10T12:25:51.312009+00:00",
-      "last_seen_at": "2026-06-11T00:19:50.844455+00:00"
-    },
-    "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-to-triple-wafer-capacity-by-2034-chairman-chey": {
-      "title": "SK Hynix to triple wafer capacity by 2034: Chairman Chey",
-      "link": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-to-triple-wafer-capacity-by-2034-chairman-chey",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-06-11T00:19:50.844455+00:00",
-      "last_seen_at": "2026-06-11T00:19:50.844455+00:00"
     },
     "https://economictimes.indiatimes.com/industry/cons-products/durables/a-home-that-washes-cools-and-thinks-for-you-inside-lgs-zero-labor-home-vision-for-india/articleshow/131649682.cms": {
       "title": "A home that washes, cools and thinks for you: Inside LG's 'Zero Labor Home' vision for India",
@@ -2775,7 +2730,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-07-25T10:36:27.769635+00:00",
-      "last_seen_at": "2026-07-26T00:03:07.001465+00:00"
+      "last_seen_at": "2026-07-26T10:46:17.690228+00:00"
     },
     "https://www.channelnewsasia.com/business/samsung-elec-wins-200-billion-broadcom-ai-chip-partnership-boosting-foundry-push-6277856": {
       "title": "Samsung Elec wins $200 billion Broadcom AI chip partnership, boosting foundry push",
@@ -2786,7 +2741,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-07-25T10:36:27.769635+00:00",
-      "last_seen_at": "2026-07-26T00:03:07.001465+00:00"
+      "last_seen_at": "2026-07-26T10:46:17.690228+00:00"
     },
     "https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html": {
       "title": "Nvidia locks down memory supply from SK Hynix as part of $500 billion AI deal",
@@ -2797,7 +2752,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-25T10:36:27.769635+00:00",
-      "last_seen_at": "2026-07-26T00:03:07.001465+00:00"
+      "last_seen_at": "2026-07-26T10:46:17.690228+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/south-koreas-sk-hynix-samsung-electronics-sign-950-billion-partnership-with-us-big-tech/articleshow/132619135.cms": {
       "title": "South Korea's SK Hynix, Samsung Electronics sign $950 billion partnership with US big tech",
@@ -2809,7 +2764,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-25T10:36:27.769635+00:00",
-      "last_seen_at": "2026-07-26T00:03:07.001465+00:00"
+      "last_seen_at": "2026-07-26T10:46:17.690228+00:00"
     },
     "https://www.channelnewsasia.com/business/south-koreas-sk-hynix-samsung-elec-sign-950-billion-partnership-us-big-tech-6277651": {
       "title": "South Korea's SK Hynix, Samsung Elec sign $950 billion partnership with US big tech",
@@ -2821,7 +2776,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-25T10:36:27.769635+00:00",
-      "last_seen_at": "2026-07-26T00:03:07.001465+00:00"
+      "last_seen_at": "2026-07-26T10:46:17.690228+00:00"
     },
     "https://www.scmp.com/week-asia/lifestyle-culture/article/3361767/putting-k-back-k-pop-how-rescene-charmed-south-korea": {
       "title": "Putting the ‘K’ back in K-pop: how Rescene charmed South Korea",
@@ -2843,7 +2798,18 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-25T10:36:27.769635+00:00",
-      "last_seen_at": "2026-07-26T00:03:07.001465+00:00"
+      "last_seen_at": "2026-07-26T10:46:17.690228+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/hindustan-zinc-to-invest-up-to-600-million-this-fiscal-80-capex-earmarked-for-ongoing-projects/articleshow/132636632.cms": {
+      "title": "Hindustan Zinc to invest up to $600 million this fiscal, 80% capex earmarked for ongoing projects",
+      "link": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/hindustan-zinc-to-invest-up-to-600-million-this-fiscal-80-capex-earmarked-for-ongoing-projects/articleshow/132636632.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "KT Corp"
+      ],
+      "first_seen_at": "2026-07-26T10:46:17.690228+00:00",
+      "last_seen_at": "2026-07-26T10:46:17.690228+00:00"
     }
   }
 }
