@@ -1,62 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-27T00:03:26.490895+00:00",
+  "last_run_at": "2026-07-27T12:27:53.247063+00:00",
   "seen_articles": {
-    "https://www.thehindubusinessline.com/companies/lg-electronics-aims-to-double-combined-revenue-in-india-brazil-saudi-arabia-by-2030/article71087569.ece": {
-      "title": "LG Electronics aims to double combined revenue in India, Brazil, Saudi Arabia by 2030",
-      "link": "https://www.thehindubusinessline.com/companies/lg-electronics-aims-to-double-combined-revenue-in-india-brazil-saudi-arabia-by-2030/article71087569.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "LG Electronics"
-      ],
-      "first_seen_at": "2026-06-11T12:49:43.869752+00:00",
-      "last_seen_at": "2026-06-12T12:22:27.714154+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/south-korea-fines-coupang-409-million-in-countrys-largest-data-breach-penalty/articleshow/131648401.cms": {
-      "title": "South Korea fines Coupang $409 million in country's largest data breach penalty",
-      "link": "https://economictimes.indiatimes.com/tech/technology/south-korea-fines-coupang-409-million-in-countrys-largest-data-breach-penalty/articleshow/131648401.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Coupang"
-      ],
-      "first_seen_at": "2026-06-11T12:49:43.869752+00:00",
-      "last_seen_at": "2026-06-12T00:20:59.543469+00:00"
-    },
-    "https://www.straitstimes.com/business/s-korea-fines-e-commerce-giant-coupang-record-525-million-over-data-leak": {
-      "title": "S. Korea fines e-commerce giant Coupang record $525 million over data leak",
-      "link": "https://www.straitstimes.com/business/s-korea-fines-e-commerce-giant-coupang-record-525-million-over-data-leak",
-      "source_name": "The Straits Times",
-      "country_code": "SG",
-      "companies": [
-        "Coupang"
-      ],
-      "first_seen_at": "2026-06-11T12:49:43.869752+00:00",
-      "last_seen_at": "2026-06-12T12:22:27.714154+00:00"
-    },
-    "https://asia.nikkei.com/editor-s-picks/interview/sk-hynix-to-triple-wafer-capacity-by-2034-chairman-chey2": {
-      "title": "SK Hynix to triple wafer capacity by 2034: Chairman Chey",
-      "link": "https://asia.nikkei.com/editor-s-picks/interview/sk-hynix-to-triple-wafer-capacity-by-2034-chairman-chey2",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-06-11T12:49:43.869752+00:00",
-      "last_seen_at": "2026-06-12T12:22:27.714154+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-in-talks-with-samsung-to-make-part-of-next-gen-chip-report/articleshow/131663136.cms": {
-      "title": "Google in talks with Samsung to make part of next-gen chip: Report",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-in-talks-with-samsung-to-make-part-of-next-gen-chip-report/articleshow/131663136.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-06-12T00:20:59.543469+00:00",
-      "last_seen_at": "2026-06-12T12:22:27.714154+00:00"
-    },
     "https://economictimes.indiatimes.com/tech/technology/south-koreas-sk-hynix-to-opt-for-nasdaq-for-planned-us-listing-sources-say/articleshow/131683409.cms": {
       "title": "South Korea's SK Hynix to opt for Nasdaq for planned US listing, sources say",
       "link": "https://economictimes.indiatimes.com/tech/technology/south-koreas-sk-hynix-to-opt-for-nasdaq-for-planned-us-listing-sources-say/articleshow/131683409.cms",
@@ -2755,6 +2700,62 @@
       ],
       "first_seen_at": "2026-07-27T00:03:26.490895+00:00",
       "last_seen_at": "2026-07-27T00:03:26.490895+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/cars-uvs/why-compact-suvs-continue-to-dominate-bengalurus-used-car-market/articleshow/132656183.cms": {
+      "title": "Why compact SUVs continue to dominate Bengaluru's used car market",
+      "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/why-compact-suvs-continue-to-dominate-bengalurus-used-car-market/articleshow/132656183.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor",
+        "Nexon"
+      ],
+      "first_seen_at": "2026-07-27T12:27:53.247063+00:00",
+      "last_seen_at": "2026-07-27T12:27:53.247063+00:00"
+    },
+    "https://www.straitstimes.com/business/south-koreas-naver-jumps-10-per-cent-on-nvidias-1-29-billion-investment-plan": {
+      "title": "South Korea’s Naver jumps 10 per cent on Nvidia’s $1.29 billion investment plan",
+      "link": "https://www.straitstimes.com/business/south-koreas-naver-jumps-10-per-cent-on-nvidias-1-29-billion-investment-plan",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "companies": [
+        "NAVER"
+      ],
+      "first_seen_at": "2026-07-27T12:27:53.247063+00:00",
+      "last_seen_at": "2026-07-27T12:27:53.247063+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/global-market-update-south-koreas-naver-jumps-10-on-nvidias-1-billion-investment-plan/articleshow/132657749.cms": {
+      "title": "Global Market Update | South Korea's Naver jumps 10% on Nvidia's $1 billion investment plan",
+      "link": "https://economictimes.indiatimes.com/tech/technology/global-market-update-south-koreas-naver-jumps-10-on-nvidias-1-billion-investment-plan/articleshow/132657749.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "NAVER"
+      ],
+      "first_seen_at": "2026-07-27T12:27:53.247063+00:00",
+      "last_seen_at": "2026-07-27T12:27:53.247063+00:00"
+    },
+    "https://e.vnexpress.net/news/world/nvidia-to-acquire-1b-of-new-shares-of-south-korea-s-naver-5101937.html": {
+      "title": "Nvidia to acquire $1B of new shares of South Korea's Naver",
+      "link": "https://e.vnexpress.net/news/world/nvidia-to-acquire-1b-of-new-shares-of-south-korea-s-naver-5101937.html",
+      "source_name": "VnExpress World",
+      "country_code": "VN",
+      "companies": [
+        "NAVER"
+      ],
+      "first_seen_at": "2026-07-27T12:27:53.247063+00:00",
+      "last_seen_at": "2026-07-27T12:27:53.247063+00:00"
+    },
+    "https://www.channelnewsasia.com/east-asia/naver-south-korea-nvidia-investment-6279546": {
+      "title": "South Korea's Naver jumps 10% on Nvidia's US$1 billion investment plan",
+      "link": "https://www.channelnewsasia.com/east-asia/naver-south-korea-nvidia-investment-6279546",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "NAVER"
+      ],
+      "first_seen_at": "2026-07-27T12:27:53.247063+00:00",
+      "last_seen_at": "2026-07-27T12:27:53.247063+00:00"
     }
   }
 }
