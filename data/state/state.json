@@ -1,40 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-28T00:05:14.060864+00:00",
+  "last_run_at": "2026-07-28T11:21:34.460653+00:00",
   "seen_articles": {
-    "https://economictimes.indiatimes.com/tech/technology/south-koreas-sk-hynix-to-opt-for-nasdaq-for-planned-us-listing-sources-say/articleshow/131683409.cms": {
-      "title": "South Korea's SK Hynix to opt for Nasdaq for planned US listing, sources say",
-      "link": "https://economictimes.indiatimes.com/tech/technology/south-koreas-sk-hynix-to-opt-for-nasdaq-for-planned-us-listing-sources-say/articleshow/131683409.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-06-12T12:22:27.714154+00:00",
-      "last_seen_at": "2026-06-13T11:18:45.544195+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/south-korea-concrete-delivery-halt-threatens-samsung-sk-hynix-chip-plant-work-report/articleshow/131673681.cms": {
-      "title": "South Korea concrete delivery halt threatens Samsung, SK Hynix chip plant work: Report",
-      "link": "https://economictimes.indiatimes.com/tech/technology/south-korea-concrete-delivery-halt-threatens-samsung-sk-hynix-chip-plant-work-report/articleshow/131673681.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-06-12T12:22:27.714154+00:00",
-      "last_seen_at": "2026-06-13T11:18:45.544195+00:00"
-    },
-    "https://e.vnexpress.net/news/world/south-korea-hits-coupang-with-record-fine-over-e-commerce-data-leak-5084820.html": {
-      "title": "South Korea hits Coupang with record fine over e-commerce data leak",
-      "link": "https://e.vnexpress.net/news/world/south-korea-hits-coupang-with-record-fine-over-e-commerce-data-leak-5084820.html",
-      "source_name": "VnExpress World",
-      "country_code": "VN",
-      "companies": [
-        "Coupang"
-      ],
-      "first_seen_at": "2026-06-12T12:22:27.714154+00:00",
-      "last_seen_at": "2026-06-13T11:18:45.544195+00:00"
-    },
     "https://www.thehindubusinessline.com/companies/tata-motors-raises-car-prices-by-up-to-15-for-harrier-safari-nexon-and-evs/article71093860.ece": {
       "title": "Tata Motors raises car prices by up to 1.5% for Harrier, Safari, Nexon and EVs",
       "link": "https://www.thehindubusinessline.com/companies/tata-motors-raises-car-prices-by-up-to-15-for-harrier-safari-nexon-and-evs/article71093860.ece",
@@ -2722,7 +2689,7 @@
         "NAVER"
       ],
       "first_seen_at": "2026-07-27T12:27:53.247063+00:00",
-      "last_seen_at": "2026-07-28T00:05:14.060864+00:00"
+      "last_seen_at": "2026-07-28T11:21:34.460653+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/global-market-update-south-koreas-naver-jumps-10-on-nvidias-1-billion-investment-plan/articleshow/132657749.cms": {
       "title": "Global Market Update | South Korea's Naver jumps 10% on Nvidia's $1 billion investment plan",
@@ -2733,7 +2700,7 @@
         "NAVER"
       ],
       "first_seen_at": "2026-07-27T12:27:53.247063+00:00",
-      "last_seen_at": "2026-07-28T00:05:14.060864+00:00"
+      "last_seen_at": "2026-07-28T11:21:34.460653+00:00"
     },
     "https://e.vnexpress.net/news/world/nvidia-to-acquire-1b-of-new-shares-of-south-korea-s-naver-5101937.html": {
       "title": "Nvidia to acquire $1B of new shares of South Korea's Naver",
@@ -2744,7 +2711,7 @@
         "NAVER"
       ],
       "first_seen_at": "2026-07-27T12:27:53.247063+00:00",
-      "last_seen_at": "2026-07-28T00:05:14.060864+00:00"
+      "last_seen_at": "2026-07-28T11:21:34.460653+00:00"
     },
     "https://www.channelnewsasia.com/east-asia/naver-south-korea-nvidia-investment-6279546": {
       "title": "South Korea's Naver jumps 10% on Nvidia's US$1 billion investment plan",
@@ -2766,7 +2733,40 @@
         "CJ CheilJedang"
       ],
       "first_seen_at": "2026-07-28T00:05:14.060864+00:00",
-      "last_seen_at": "2026-07-28T00:05:14.060864+00:00"
+      "last_seen_at": "2026-07-28T11:21:34.460653+00:00"
+    },
+    "https://www.theguardian.com/business/2026/jul/28/ai-sell-off-chip-stocks-sk-hynix-samsung": {
+      "title": "AI sell-off intensifies as investors ditch chip stocks",
+      "link": "https://www.theguardian.com/business/2026/jul/28/ai-sell-off-chip-stocks-sk-hynix-samsung",
+      "source_name": "The Guardian World",
+      "country_code": "GB",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-28T11:21:34.460653+00:00",
+      "last_seen_at": "2026-07-28T11:21:34.460653+00:00"
+    },
+    "https://www.cnbc.com/2026/07/28/sk-hynix-plunges-semiconductor-selloff-deepens-samsung-softbank.html": {
+      "title": "Micron, Nvidia fall after SK Hynix plunges nearly 15% as chip sell-off deepens",
+      "link": "https://www.cnbc.com/2026/07/28/sk-hynix-plunges-semiconductor-selloff-deepens-samsung-softbank.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-28T11:21:34.460653+00:00",
+      "last_seen_at": "2026-07-28T11:21:34.460653+00:00"
+    },
+    "https://www.channelnewsasia.com/business/csop-adopts-flexible-leverage-samsung-sk-hynix-etfs-amid-volatility-6282526": {
+      "title": "CSOP adopts flexible leverage for Samsung, SK Hynix ETFs amid volatility",
+      "link": "https://www.channelnewsasia.com/business/csop-adopts-flexible-leverage-samsung-sk-hynix-etfs-amid-volatility-6282526",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-28T11:21:34.460653+00:00",
+      "last_seen_at": "2026-07-28T11:21:34.460653+00:00"
     }
   }
 }
