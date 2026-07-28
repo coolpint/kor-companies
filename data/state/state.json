@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-27T12:27:53.247063+00:00",
+  "last_run_at": "2026-07-28T00:05:14.060864+00:00",
   "seen_articles": {
     "https://economictimes.indiatimes.com/tech/technology/south-koreas-sk-hynix-to-opt-for-nasdaq-for-planned-us-listing-sources-say/articleshow/131683409.cms": {
       "title": "South Korea's SK Hynix to opt for Nasdaq for planned US listing, sources say",
@@ -2711,7 +2711,7 @@
         "Nexon"
       ],
       "first_seen_at": "2026-07-27T12:27:53.247063+00:00",
-      "last_seen_at": "2026-07-27T12:27:53.247063+00:00"
+      "last_seen_at": "2026-07-28T00:05:14.060864+00:00"
     },
     "https://www.straitstimes.com/business/south-koreas-naver-jumps-10-per-cent-on-nvidias-1-29-billion-investment-plan": {
       "title": "South Korea’s Naver jumps 10 per cent on Nvidia’s $1.29 billion investment plan",
@@ -2722,7 +2722,7 @@
         "NAVER"
       ],
       "first_seen_at": "2026-07-27T12:27:53.247063+00:00",
-      "last_seen_at": "2026-07-27T12:27:53.247063+00:00"
+      "last_seen_at": "2026-07-28T00:05:14.060864+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/global-market-update-south-koreas-naver-jumps-10-on-nvidias-1-billion-investment-plan/articleshow/132657749.cms": {
       "title": "Global Market Update | South Korea's Naver jumps 10% on Nvidia's $1 billion investment plan",
@@ -2733,7 +2733,7 @@
         "NAVER"
       ],
       "first_seen_at": "2026-07-27T12:27:53.247063+00:00",
-      "last_seen_at": "2026-07-27T12:27:53.247063+00:00"
+      "last_seen_at": "2026-07-28T00:05:14.060864+00:00"
     },
     "https://e.vnexpress.net/news/world/nvidia-to-acquire-1b-of-new-shares-of-south-korea-s-naver-5101937.html": {
       "title": "Nvidia to acquire $1B of new shares of South Korea's Naver",
@@ -2744,18 +2744,29 @@
         "NAVER"
       ],
       "first_seen_at": "2026-07-27T12:27:53.247063+00:00",
-      "last_seen_at": "2026-07-27T12:27:53.247063+00:00"
+      "last_seen_at": "2026-07-28T00:05:14.060864+00:00"
     },
     "https://www.channelnewsasia.com/east-asia/naver-south-korea-nvidia-investment-6279546": {
       "title": "South Korea's Naver jumps 10% on Nvidia's US$1 billion investment plan",
       "link": "https://www.channelnewsasia.com/east-asia/naver-south-korea-nvidia-investment-6279546",
-      "source_name": "CNA Business",
+      "source_name": "CNA Asia",
       "country_code": "SG",
       "companies": [
         "NAVER"
       ],
       "first_seen_at": "2026-07-27T12:27:53.247063+00:00",
-      "last_seen_at": "2026-07-27T12:27:53.247063+00:00"
+      "last_seen_at": "2026-07-28T00:05:14.060864+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/media/entertainment/media/prime-video-india-signs-multi-year-deal-with-cj-enm-to-bring-over-100-korean-shows/articleshow/132667628.cms": {
+      "title": "Prime Video India signs multi-year deal with CJ ENM to bring over 100 Korean shows",
+      "link": "https://economictimes.indiatimes.com/industry/media/entertainment/media/prime-video-india-signs-multi-year-deal-with-cj-enm-to-bring-over-100-korean-shows/articleshow/132667628.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "CJ CheilJedang"
+      ],
+      "first_seen_at": "2026-07-28T00:05:14.060864+00:00",
+      "last_seen_at": "2026-07-28T00:05:14.060864+00:00"
     }
   }
 }
