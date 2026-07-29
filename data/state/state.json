@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-29T00:00:43.682311+00:00",
+  "last_run_at": "2026-07-29T11:28:43.834909+00:00",
   "seen_articles": {
-    "https://www.thehindubusinessline.com/companies/tata-motors-raises-car-prices-by-up-to-15-for-harrier-safari-nexon-and-evs/article71093860.ece": {
-      "title": "Tata Motors raises car prices by up to 1.5% for Harrier, Safari, Nexon and EVs",
-      "link": "https://www.thehindubusinessline.com/companies/tata-motors-raises-car-prices-by-up-to-15-for-harrier-safari-nexon-and-evs/article71093860.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Nexon"
-      ],
-      "first_seen_at": "2026-06-13T00:21:46.838095+00:00",
-      "last_seen_at": "2026-06-14T00:12:17.850407+00:00"
-    },
     "https://economictimes.indiatimes.com/industry/energy/oil-gas/signed-file-on-100-per-cent-ethanol-fuel-rules-nitin-gadkari-says-multiple-companies-to-adopt-alternative-blend/articleshow/131711066.cms": {
       "title": "Signed file on 100 per cent ethanol fuel rules: Nitin Gadkari says multiple companies to adopt alternative blend",
       "link": "https://economictimes.indiatimes.com/industry/energy/oil-gas/signed-file-on-100-per-cent-ethanol-fuel-rules-nitin-gadkari-says-multiple-companies-to-adopt-alternative-blend/articleshow/131711066.cms",
@@ -23,17 +12,6 @@
       ],
       "first_seen_at": "2026-06-14T00:12:17.850407+00:00",
       "last_seen_at": "2026-06-15T00:16:25.573695+00:00"
-    },
-    "https://www.politico.eu/article/canada-expects-submarine-decision-in-30-days-procurement-chief-says": {
-      "title": "Canada expects submarine decision ‘in 30 days,’ procurement chief says",
-      "link": "https://www.politico.eu/article/canada-expects-submarine-decision-in-30-days-procurement-chief-says",
-      "source_name": "POLITICO Europe",
-      "country_code": "EU",
-      "companies": [
-        "Hanwha Ocean"
-      ],
-      "first_seen_at": "2026-06-14T00:12:17.850407+00:00",
-      "last_seen_at": "2026-06-14T00:12:17.850407+00:00"
     },
     "https://www.thehindubusinessline.com/companies/india-key-growth-engine-for-hvac-business-top-market-for-residential-air-conditioners-lg-electronics/article71104618.ece": {
       "title": "India key growth engine for HVAC business, top market for residential air-conditioners: LG Electronics",
@@ -2744,7 +2722,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-28T11:21:34.460653+00:00",
-      "last_seen_at": "2026-07-29T00:00:43.682311+00:00"
+      "last_seen_at": "2026-07-29T11:28:43.834909+00:00"
     },
     "https://www.cnbc.com/2026/07/28/sk-hynix-plunges-semiconductor-selloff-deepens-samsung-softbank.html": {
       "title": "Micron, Nvidia fall after SK Hynix plunges nearly 15% as chip sell-off deepens",
@@ -2769,7 +2747,7 @@
       "last_seen_at": "2026-07-28T11:21:34.460653+00:00"
     },
     "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html": {
-      "title": "SK Hynix second-quarter revenue more than triples — but misses estimates",
+      "title": "SK Hynix shares tank as exponential earnings growth fails to satisfy AI-charged expectations",
       "link": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html",
       "source_name": "CNBC Top News",
       "country_code": "US",
@@ -2777,7 +2755,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-29T00:00:43.682311+00:00",
-      "last_seen_at": "2026-07-29T00:00:43.682311+00:00"
+      "last_seen_at": "2026-07-29T11:28:43.834909+00:00"
     },
     "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-q2-profit-surges-more-than-sixfold-on-continued-memory-demand": {
       "title": "SK Hynix Q2 profit surges more than sixfold on continued memory demand",
@@ -2810,7 +2788,7 @@
         "HYBE"
       ],
       "first_seen_at": "2026-07-29T00:00:43.682311+00:00",
-      "last_seen_at": "2026-07-29T00:00:43.682311+00:00"
+      "last_seen_at": "2026-07-29T11:28:43.834909+00:00"
     },
     "https://www.marketwatch.com/story/leveraged-etfs-tied-to-sk-hynix-are-getting-hammered-as-chip-wreck-deepens-5303c33c?mod=mw_rss_topstories": {
       "title": "Leveraged ETFs tied to SK Hynix are getting hammered as chip wreck deepens",
@@ -2832,7 +2810,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-29T00:00:43.682311+00:00",
-      "last_seen_at": "2026-07-29T00:00:43.682311+00:00"
+      "last_seen_at": "2026-07-29T11:28:43.834909+00:00"
     },
     "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-s-1bn-bet-on-naver-pumps-cash-into-ai-infrastructure-buildout": {
       "title": "Nvidia's $1bn bet on Naver pumps cash into AI infrastructure buildout",
@@ -2843,7 +2821,163 @@
         "NAVER"
       ],
       "first_seen_at": "2026-07-29T00:00:43.682311+00:00",
-      "last_seen_at": "2026-07-29T00:00:43.682311+00:00"
+      "last_seen_at": "2026-07-29T11:28:43.834909+00:00"
+    },
+    "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html": {
+      "title": "Chip stocks shed more than $1 trillion as selloff hits companies powering AI boom",
+      "link": "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "Samsung Electronics",
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
+      "last_seen_at": "2026-07-29T11:28:43.834909+00:00"
+    },
+    "https://www.scmp.com/business/china-business/article/3362256/cxmt-shock-how-chinas-viable-alternatives-punch-nvidia-micron-sk-hynix-shares": {
+      "title": "The CXMT shock: how China’s viable alternatives punch Nvidia, Micron, SK Hynix shares",
+      "link": "https://www.scmp.com/business/china-business/article/3362256/cxmt-shock-how-chinas-viable-alternatives-punch-nvidia-micron-sk-hynix-shares",
+      "source_name": "South China Morning Post World",
+      "country_code": "HK",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
+      "last_seen_at": "2026-07-29T11:28:43.834909+00:00"
+    },
+    "https://www.marketwatch.com/story/sk-hynix-shares-sent-sprawling-once-more-as-earnings-miss-deepens-decline-df526e8d?mod=mw_rss_topstories": {
+      "title": "SK Hynix shares sent sprawling once more as earnings miss steepens decline",
+      "link": "https://www.marketwatch.com/story/sk-hynix-shares-sent-sprawling-once-more-as-earnings-miss-deepens-decline-df526e8d?mod=mw_rss_topstories",
+      "source_name": "MarketWatch Top Stories",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
+      "last_seen_at": "2026-07-29T11:28:43.834909+00:00"
+    },
+    "https://www.ft.com/content/e8e3a60a-059c-45b5-bbe3-49add14fd343?syn-25a6b1a6=1": {
+      "title": "Tech rout roils markets after SK Hynix profits disappoint",
+      "link": "https://www.ft.com/content/e8e3a60a-059c-45b5-bbe3-49add14fd343?syn-25a6b1a6=1",
+      "source_name": "Financial Times Companies",
+      "country_code": "GB",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
+      "last_seen_at": "2026-07-29T11:28:43.834909+00:00"
+    },
+    "https://www.nytimes.com/2026/07/29/business/skhynix-chips-memory.html": {
+      "title": "South Korea’s Memory Chip Giant Defies A.I. Market Jitters",
+      "link": "https://www.nytimes.com/2026/07/29/business/skhynix-chips-memory.html",
+      "source_name": "The New York Times Business",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
+      "last_seen_at": "2026-07-29T11:28:43.834909+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/maruti-suzuki-drives-over-half-of-indias-pv-exports-as-industry-shipments-rise-88-per-cent-in-q1-fy27/article71280577.ece": {
+      "title": "Maruti Suzuki drives over half of India’s PV exports as industry shipments rise 8.8% in Q1 FY27",
+      "link": "https://www.thehindubusinessline.com/companies/maruti-suzuki-drives-over-half-of-indias-pv-exports-as-industry-shipments-rise-88-per-cent-in-q1-fy27/article71280577.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
+      "last_seen_at": "2026-07-29T11:28:43.834909+00:00"
+    },
+    "https://www.theguardian.com/business/2026/jul/29/asian-chip-firms-shares-plunge-ai-sell-off-stock-markets": {
+      "title": "Shares in Asian chip firms plunge further as AI sell-off continues",
+      "link": "https://www.theguardian.com/business/2026/jul/29/asian-chip-firms-shares-plunge-ai-sell-off-stock-markets",
+      "source_name": "The Guardian World",
+      "country_code": "GB",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
+      "last_seen_at": "2026-07-29T11:28:43.834909+00:00"
+    },
+    "http://www.euronews.com/business/2026/07/29/south-korean-chipmaker-sk-hynix-reports-1242-profit-surge-on-booming-ai-demand": {
+      "title": "South Korean chipmaker SK hynix reports 1,242% profit surge on booming AI demand",
+      "link": "http://www.euronews.com/business/2026/07/29/south-korean-chipmaker-sk-hynix-reports-1242-profit-surge-on-booming-ai-demand",
+      "source_name": "Euronews Business",
+      "country_code": "EU",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
+      "last_seen_at": "2026-07-29T11:28:43.834909+00:00"
+    },
+    "https://www.cnbc.com/2026/07/29/bts-concerts-hybe-record-results-shares-crash.html": {
+      "title": "BTS' concerts have been so successful, it’s now bad for its own agency’s shares",
+      "link": "https://www.cnbc.com/2026/07/29/bts-concerts-hybe-record-results-shares-crash.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "HYBE"
+      ],
+      "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
+      "last_seen_at": "2026-07-29T11:28:43.834909+00:00"
+    },
+    "https://www.cnbc.com/2026/07/29/daily-open-bank-earnings-ubs-sk-hynix.html": {
+      "title": "CNBC Daily Open: Banking beats, SK Hynix sinks and surprise attack rattles oil",
+      "link": "https://www.cnbc.com/2026/07/29/daily-open-bank-earnings-ubs-sk-hynix.html",
+      "source_name": "CNBC World News",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
+      "last_seen_at": "2026-07-29T11:28:43.834909+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-race-redraws-asian-air-cargo-replacing-e-commerce-as-growth-engine/articleshow/132701588.cms": {
+      "title": "AI race redraws Asian air cargo, replacing ecommerce as growth engine",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-race-redraws-asian-air-cargo-replacing-e-commerce-as-growth-engine/articleshow/132701588.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Korean Air"
+      ],
+      "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
+      "last_seen_at": "2026-07-29T11:28:43.834909+00:00"
+    },
+    "https://www.straitstimes.com/business/sk-hynix-hikes-spending-to-40-billion-to-ride-ai-boom": {
+      "title": "SK Hynix hikes spending to $40 billion to ride AI boom",
+      "link": "https://www.straitstimes.com/business/sk-hynix-hikes-spending-to-40-billion-to-ride-ai-boom",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "companies": [
+        "Samsung Electronics",
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
+      "last_seen_at": "2026-07-29T11:28:43.834909+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/sk-hynixs-record-profit-misses-forecasts-shares-slump-10-despite-robust-ai-chip-demand/articleshow/132698456.cms": {
+      "title": "SK Hynix's record profit misses forecasts; shares slump 10% despite robust AI chip demand",
+      "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynixs-record-profit-misses-forecasts-shares-slump-10-despite-robust-ai-chip-demand/articleshow/132698456.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
+      "last_seen_at": "2026-07-29T11:28:43.834909+00:00"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-q2-profit-surges-but-misses-market-forecast-shares-slide": {
+      "title": "SK Hynix Q2 profit surges but misses market forecast; shares slide",
+      "link": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-q2-profit-surges-but-misses-market-forecast-shares-slide",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
+      "last_seen_at": "2026-07-29T11:28:43.834909+00:00"
     }
   }
 }
