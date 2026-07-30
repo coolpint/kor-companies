@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-29T11:28:43.834909+00:00",
+  "last_run_at": "2026-07-30T00:03:00.021792+00:00",
   "seen_articles": {
     "https://economictimes.indiatimes.com/industry/energy/oil-gas/signed-file-on-100-per-cent-ethanol-fuel-rules-nitin-gadkari-says-multiple-companies-to-adopt-alternative-blend/articleshow/131711066.cms": {
       "title": "Signed file on 100 per cent ethanol fuel rules: Nitin Gadkari says multiple companies to adopt alternative blend",
@@ -2722,7 +2722,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-28T11:21:34.460653+00:00",
-      "last_seen_at": "2026-07-29T11:28:43.834909+00:00"
+      "last_seen_at": "2026-07-30T00:03:00.021792+00:00"
     },
     "https://www.cnbc.com/2026/07/28/sk-hynix-plunges-semiconductor-selloff-deepens-samsung-softbank.html": {
       "title": "Micron, Nvidia fall after SK Hynix plunges nearly 15% as chip sell-off deepens",
@@ -2749,13 +2749,13 @@
     "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html": {
       "title": "SK Hynix shares tank as exponential earnings growth fails to satisfy AI-charged expectations",
       "link": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html",
-      "source_name": "CNBC Top News",
+      "source_name": "CNBC Technology",
       "country_code": "US",
       "companies": [
         "SK hynix"
       ],
       "first_seen_at": "2026-07-29T00:00:43.682311+00:00",
-      "last_seen_at": "2026-07-29T11:28:43.834909+00:00"
+      "last_seen_at": "2026-07-30T00:03:00.021792+00:00"
     },
     "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-q2-profit-surges-more-than-sixfold-on-continued-memory-demand": {
       "title": "SK Hynix Q2 profit surges more than sixfold on continued memory demand",
@@ -2788,7 +2788,7 @@
         "HYBE"
       ],
       "first_seen_at": "2026-07-29T00:00:43.682311+00:00",
-      "last_seen_at": "2026-07-29T11:28:43.834909+00:00"
+      "last_seen_at": "2026-07-30T00:03:00.021792+00:00"
     },
     "https://www.marketwatch.com/story/leveraged-etfs-tied-to-sk-hynix-are-getting-hammered-as-chip-wreck-deepens-5303c33c?mod=mw_rss_topstories": {
       "title": "Leveraged ETFs tied to SK Hynix are getting hammered as chip wreck deepens",
@@ -2810,7 +2810,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-29T00:00:43.682311+00:00",
-      "last_seen_at": "2026-07-29T11:28:43.834909+00:00"
+      "last_seen_at": "2026-07-30T00:03:00.021792+00:00"
     },
     "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-s-1bn-bet-on-naver-pumps-cash-into-ai-infrastructure-buildout": {
       "title": "Nvidia's $1bn bet on Naver pumps cash into AI infrastructure buildout",
@@ -2821,19 +2821,19 @@
         "NAVER"
       ],
       "first_seen_at": "2026-07-29T00:00:43.682311+00:00",
-      "last_seen_at": "2026-07-29T11:28:43.834909+00:00"
+      "last_seen_at": "2026-07-30T00:03:00.021792+00:00"
     },
     "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html": {
       "title": "Chip stocks shed more than $1 trillion as selloff hits companies powering AI boom",
       "link": "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html",
-      "source_name": "CNBC Top News",
+      "source_name": "CNBC World News",
       "country_code": "US",
       "companies": [
         "Samsung Electronics",
         "SK hynix"
       ],
       "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
-      "last_seen_at": "2026-07-29T11:28:43.834909+00:00"
+      "last_seen_at": "2026-07-30T00:03:00.021792+00:00"
     },
     "https://www.scmp.com/business/china-business/article/3362256/cxmt-shock-how-chinas-viable-alternatives-punch-nvidia-micron-sk-hynix-shares": {
       "title": "The CXMT shock: how China’s viable alternatives punch Nvidia, Micron, SK Hynix shares",
@@ -2844,7 +2844,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
-      "last_seen_at": "2026-07-29T11:28:43.834909+00:00"
+      "last_seen_at": "2026-07-30T00:03:00.021792+00:00"
     },
     "https://www.marketwatch.com/story/sk-hynix-shares-sent-sprawling-once-more-as-earnings-miss-deepens-decline-df526e8d?mod=mw_rss_topstories": {
       "title": "SK Hynix shares sent sprawling once more as earnings miss steepens decline",
@@ -2869,7 +2869,7 @@
       "last_seen_at": "2026-07-29T11:28:43.834909+00:00"
     },
     "https://www.nytimes.com/2026/07/29/business/skhynix-chips-memory.html": {
-      "title": "South Korea’s Memory Chip Giant Defies A.I. Market Jitters",
+      "title": "SK Hynix Reports Strong Earnings, Defying A.I. Market Jitters",
       "link": "https://www.nytimes.com/2026/07/29/business/skhynix-chips-memory.html",
       "source_name": "The New York Times Business",
       "country_code": "US",
@@ -2877,7 +2877,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
-      "last_seen_at": "2026-07-29T11:28:43.834909+00:00"
+      "last_seen_at": "2026-07-30T00:03:00.021792+00:00"
     },
     "https://www.thehindubusinessline.com/companies/maruti-suzuki-drives-over-half-of-indias-pv-exports-as-industry-shipments-rise-88-per-cent-in-q1-fy27/article71280577.ece": {
       "title": "Maruti Suzuki drives over half of India’s PV exports as industry shipments rise 8.8% in Q1 FY27",
@@ -2888,7 +2888,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
-      "last_seen_at": "2026-07-29T11:28:43.834909+00:00"
+      "last_seen_at": "2026-07-30T00:03:00.021792+00:00"
     },
     "https://www.theguardian.com/business/2026/jul/29/asian-chip-firms-shares-plunge-ai-sell-off-stock-markets": {
       "title": "Shares in Asian chip firms plunge further as AI sell-off continues",
@@ -2910,18 +2910,18 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
-      "last_seen_at": "2026-07-29T11:28:43.834909+00:00"
+      "last_seen_at": "2026-07-30T00:03:00.021792+00:00"
     },
     "https://www.cnbc.com/2026/07/29/bts-concerts-hybe-record-results-shares-crash.html": {
       "title": "BTS' concerts have been so successful, it’s now bad for its own agency’s shares",
       "link": "https://www.cnbc.com/2026/07/29/bts-concerts-hybe-record-results-shares-crash.html",
-      "source_name": "CNBC Top News",
+      "source_name": "CNBC World News",
       "country_code": "US",
       "companies": [
         "HYBE"
       ],
       "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
-      "last_seen_at": "2026-07-29T11:28:43.834909+00:00"
+      "last_seen_at": "2026-07-30T00:03:00.021792+00:00"
     },
     "https://www.cnbc.com/2026/07/29/daily-open-bank-earnings-ubs-sk-hynix.html": {
       "title": "CNBC Daily Open: Banking beats, SK Hynix sinks and surprise attack rattles oil",
@@ -2932,7 +2932,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
-      "last_seen_at": "2026-07-29T11:28:43.834909+00:00"
+      "last_seen_at": "2026-07-30T00:03:00.021792+00:00"
     },
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-race-redraws-asian-air-cargo-replacing-e-commerce-as-growth-engine/articleshow/132701588.cms": {
       "title": "AI race redraws Asian air cargo, replacing ecommerce as growth engine",
@@ -2943,7 +2943,7 @@
         "Korean Air"
       ],
       "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
-      "last_seen_at": "2026-07-29T11:28:43.834909+00:00"
+      "last_seen_at": "2026-07-30T00:03:00.021792+00:00"
     },
     "https://www.straitstimes.com/business/sk-hynix-hikes-spending-to-40-billion-to-ride-ai-boom": {
       "title": "SK Hynix hikes spending to $40 billion to ride AI boom",
@@ -2955,7 +2955,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
-      "last_seen_at": "2026-07-29T11:28:43.834909+00:00"
+      "last_seen_at": "2026-07-30T00:03:00.021792+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/sk-hynixs-record-profit-misses-forecasts-shares-slump-10-despite-robust-ai-chip-demand/articleshow/132698456.cms": {
       "title": "SK Hynix's record profit misses forecasts; shares slump 10% despite robust AI chip demand",
@@ -2966,7 +2966,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
-      "last_seen_at": "2026-07-29T11:28:43.834909+00:00"
+      "last_seen_at": "2026-07-30T00:03:00.021792+00:00"
     },
     "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-q2-profit-surges-but-misses-market-forecast-shares-slide": {
       "title": "SK Hynix Q2 profit surges but misses market forecast; shares slide",
@@ -2977,7 +2977,51 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
-      "last_seen_at": "2026-07-29T11:28:43.834909+00:00"
+      "last_seen_at": "2026-07-30T00:03:00.021792+00:00"
+    },
+    "https://www.cnbc.com/2026/07/30/samsung-q2-earnings-ai-chip-.html": {
+      "title": "Samsung Electronics second-quarter operating profit beats estimates on soaring AI chip demand",
+      "link": "https://www.cnbc.com/2026/07/30/samsung-q2-earnings-ai-chip-.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-07-30T00:03:00.021792+00:00",
+      "last_seen_at": "2026-07-30T00:03:00.021792+00:00"
+    },
+    "https://mexiconewsdaily.com/business/kia-will-invest-us-649-million-to-build-evs-in-mexico": {
+      "title": "Kia will invest US $649 million to manufacture electric SUVs in Mexico",
+      "link": "https://mexiconewsdaily.com/business/kia-will-invest-us-649-million-to-build-evs-in-mexico",
+      "source_name": "Mexico News Daily",
+      "country_code": "MX",
+      "companies": [
+        "Kia"
+      ],
+      "first_seen_at": "2026-07-30T00:03:00.021792+00:00",
+      "last_seen_at": "2026-07-30T00:03:00.021792+00:00"
+    },
+    "https://www.ft.com/content/5035f634-7d47-483a-b8e9-722ded88a672?syn-25a6b1a6=1": {
+      "title": "FirstFT: US borrowing costs hit 19-year high after Fed holds rates steady",
+      "link": "https://www.ft.com/content/5035f634-7d47-483a-b8e9-722ded88a672?syn-25a6b1a6=1",
+      "source_name": "Financial Times World",
+      "country_code": "GB",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-30T00:03:00.021792+00:00",
+      "last_seen_at": "2026-07-30T00:03:00.021792+00:00"
+    },
+    "https://www.channelnewsasia.com/business/kia-invest-649-million-bring-electric-car-production-mexico-6286241": {
+      "title": "Kia to invest $649 million to bring electric car production to Mexico",
+      "link": "https://www.channelnewsasia.com/business/kia-invest-649-million-bring-electric-car-production-mexico-6286241",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Kia"
+      ],
+      "first_seen_at": "2026-07-30T00:03:00.021792+00:00",
+      "last_seen_at": "2026-07-30T00:03:00.021792+00:00"
     }
   }
 }
