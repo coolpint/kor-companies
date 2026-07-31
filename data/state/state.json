@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-31T00:05:17.459945+00:00",
+  "last_run_at": "2026-07-31T11:31:11.246477+00:00",
   "seen_articles": {
     "https://www.thehindubusinessline.com/companies/india-key-growth-engine-for-hvac-business-top-market-for-residential-air-conditioners-lg-electronics/article71104618.ece": {
       "title": "India key growth engine for HVAC business, top market for residential air-conditioners: LG Electronics",
@@ -12,17 +12,6 @@
       ],
       "first_seen_at": "2026-06-15T15:18:46.412705+00:00",
       "last_seen_at": "2026-06-17T00:21:11.679679+00:00"
-    },
-    "https://www.channelnewsasia.com/east-asia/starbucks-korea-history-lessons-tank-day-6183336": {
-      "title": "Starbucks Korea to shutter outlets for history lessons after 'Tank Day' fiasco",
-      "link": "https://www.channelnewsasia.com/east-asia/starbucks-korea-history-lessons-tank-day-6183336",
-      "source_name": "CNA Asia",
-      "country_code": "SG",
-      "companies": [
-        "Shinsegae"
-      ],
-      "first_seen_at": "2026-06-15T15:18:46.412705+00:00",
-      "last_seen_at": "2026-06-16T01:42:37.583085+00:00"
     },
     "https://economictimes.indiatimes.com/industry/cons-products/electronics/lg-electronics-recurring-revenue-strategy-lg-robotics-business-ai-infrastructure-subscription-model-b2b-growth-humanoid-robots-nvidia-partnership/articleshow/131736548.cms": {
       "title": "The Next Frontier: LG's future is not just the TV and fridge in your home",
@@ -3021,7 +3010,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-07-30T11:10:21.867484+00:00",
-      "last_seen_at": "2026-07-31T00:05:17.459945+00:00"
+      "last_seen_at": "2026-07-31T11:31:11.246477+00:00"
     },
     "https://www.thehindubusinessline.com/companies/hyundai-motor-india-q1-pat-down-35-at-88862-crore/article71285509.ece": {
       "title": "Hyundai Motor India Q1 PAT down 35% at ₹888.62 crore",
@@ -3032,7 +3021,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-07-30T11:10:21.867484+00:00",
-      "last_seen_at": "2026-07-31T00:05:17.459945+00:00"
+      "last_seen_at": "2026-07-31T11:31:11.246477+00:00"
     },
     "https://www.channelnewsasia.com/business/hyundai-motor-india-posts-quarterly-profit-drop-costs-production-disruption-weigh-6288331": {
       "title": "Hyundai Motor India posts quarterly profit drop as costs, production disruption weigh",
@@ -3065,7 +3054,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-07-30T11:10:21.867484+00:00",
-      "last_seen_at": "2026-07-31T00:05:17.459945+00:00"
+      "last_seen_at": "2026-07-31T11:31:11.246477+00:00"
     },
     "https://japantoday.com/category/tech/samsung-reports-record-profit-as-south-korean-chip-giants-benefit-from-global-ai-boom": {
       "title": "Samsung reports record profit as South Korean chip giants benefit from global AI boom",
@@ -3087,7 +3076,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-07-30T11:10:21.867484+00:00",
-      "last_seen_at": "2026-07-31T00:05:17.459945+00:00"
+      "last_seen_at": "2026-07-31T11:31:11.246477+00:00"
     },
     "https://asia.nikkei.com/business/companies/samsung-electronics-profit-hits-all-time-high-on-device-and-memory-sales": {
       "title": "Samsung Electronics profit hits all-time high on device and memory sales",
@@ -3109,7 +3098,41 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-07-31T00:05:17.459945+00:00",
-      "last_seen_at": "2026-07-31T00:05:17.459945+00:00"
+      "last_seen_at": "2026-07-31T11:31:11.246477+00:00"
+    },
+    "https://www.cnbc.com/2026/07/31/sk-hynix-samsung-ai-rally-chipmakers.html": {
+      "title": "SK Hynix, Samsung shares skyrocket to clock best days as AI rally roars back",
+      "link": "https://www.cnbc.com/2026/07/31/sk-hynix-samsung-ai-rally-chipmakers.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "Samsung Electronics",
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-31T11:31:11.246477+00:00",
+      "last_seen_at": "2026-07-31T11:31:11.246477+00:00"
+    },
+    "https://japantoday.com/category/business/tech-rebound-fuels-record-breaking-rally-in-south-korean-stocks": {
+      "title": "Tech rebound fuels record-breaking rally in South Korean stocks",
+      "link": "https://japantoday.com/category/business/tech-rebound-fuels-record-breaking-rally-in-south-korean-stocks",
+      "source_name": "Japan Today",
+      "country_code": "JP",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-31T11:31:11.246477+00:00",
+      "last_seen_at": "2026-07-31T11:31:11.246477+00:00"
+    },
+    "https://www.japantimes.co.jp/business/2026/07/31/samsung-sky-hynix-ai": {
+      "title": "Samsung and SK Hynix answer AI doubters with big numbers and deals",
+      "link": "https://www.japantimes.co.jp/business/2026/07/31/samsung-sky-hynix-ai",
+      "source_name": "The Japan Times",
+      "country_code": "JP",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-07-31T11:31:11.246477+00:00",
+      "last_seen_at": "2026-07-31T11:31:11.246477+00:00"
     }
   }
 }
