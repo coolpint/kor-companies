@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-07-31T11:31:11.246477+00:00",
+  "last_run_at": "2026-08-01T00:03:54.116290+00:00",
   "seen_articles": {
     "https://www.thehindubusinessline.com/companies/india-key-growth-engine-for-hvac-business-top-market-for-residential-air-conditioners-lg-electronics/article71104618.ece": {
       "title": "India key growth engine for HVAC business, top market for residential air-conditioners: LG Electronics",
@@ -3098,19 +3098,19 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-07-31T00:05:17.459945+00:00",
-      "last_seen_at": "2026-07-31T11:31:11.246477+00:00"
+      "last_seen_at": "2026-08-01T00:03:54.116290+00:00"
     },
     "https://www.cnbc.com/2026/07/31/sk-hynix-samsung-ai-rally-chipmakers.html": {
       "title": "SK Hynix, Samsung shares skyrocket to clock best days as AI rally roars back",
       "link": "https://www.cnbc.com/2026/07/31/sk-hynix-samsung-ai-rally-chipmakers.html",
-      "source_name": "CNBC Top News",
+      "source_name": "CNBC World News",
       "country_code": "US",
       "companies": [
         "Samsung Electronics",
         "SK hynix"
       ],
       "first_seen_at": "2026-07-31T11:31:11.246477+00:00",
-      "last_seen_at": "2026-07-31T11:31:11.246477+00:00"
+      "last_seen_at": "2026-08-01T00:03:54.116290+00:00"
     },
     "https://japantoday.com/category/business/tech-rebound-fuels-record-breaking-rally-in-south-korean-stocks": {
       "title": "Tech rebound fuels record-breaking rally in South Korean stocks",
@@ -3132,7 +3132,18 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-07-31T11:31:11.246477+00:00",
-      "last_seen_at": "2026-07-31T11:31:11.246477+00:00"
+      "last_seen_at": "2026-08-01T00:03:54.116290+00:00"
+    },
+    "https://www.theguardian.com/sport/2026/jul/31/mop-man-stole-the-show-glasgow-commonwealth-games-dances": {
+      "title": "‘It’s OK to mess around’: how ‘mop man’ stole the show at Glasgow’s Commonwealth Games",
+      "link": "https://www.theguardian.com/sport/2026/jul/31/mop-man-stole-the-show-glasgow-commonwealth-games-dances",
+      "source_name": "The Guardian World",
+      "country_code": "GB",
+      "companies": [
+        "CJ CheilJedang"
+      ],
+      "first_seen_at": "2026-08-01T00:03:54.116290+00:00",
+      "last_seen_at": "2026-08-01T00:03:54.116290+00:00"
     }
   }
 }
