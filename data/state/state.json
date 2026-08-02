@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-01T10:43:08.204499+00:00",
+  "last_run_at": "2026-08-01T23:59:54.934779+00:00",
   "seen_articles": {
     "https://www.channelnewsasia.com/business/nvidia-supplier-sk-hynix-ships-samples-next-generation-chips-major-customers-6191686": {
       "title": "Nvidia supplier SK Hynix ships samples of next-generation chips to major customers",
@@ -3132,7 +3132,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-08-01T10:43:08.204499+00:00",
-      "last_seen_at": "2026-08-01T10:43:08.204499+00:00"
+      "last_seen_at": "2026-08-01T23:59:54.934779+00:00"
     },
     "https://www.thehindubusinessline.com/companies/hyundai-motor-india-july-total-sales-hit-all-time-high-at-75360-units-up-254/article71293699.ece": {
       "title": "Hyundai Motor India July total sales hit all-time high at 75,360 units, up 25.4%",
@@ -3143,7 +3143,62 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-08-01T10:43:08.204499+00:00",
-      "last_seen_at": "2026-08-01T10:43:08.204499+00:00"
+      "last_seen_at": "2026-08-01T23:59:54.934779+00:00"
+    },
+    "https://mexiconewsdaily.com/news/mexicos-week-in-review-r1-capture-navy-sargassum-kia-evs": {
+      "title": "Mexico’s week in review: Authorities capture CJNG leader, Navy backs US $115M sargassum strategy and Kia commits $649M to EVs",
+      "link": "https://mexiconewsdaily.com/news/mexicos-week-in-review-r1-capture-navy-sargassum-kia-evs",
+      "source_name": "Mexico News Daily",
+      "country_code": "MX",
+      "companies": [
+        "Kia"
+      ],
+      "first_seen_at": "2026-08-01T23:59:54.934779+00:00",
+      "last_seen_at": "2026-08-01T23:59:54.934779+00:00"
+    },
+    "https://www.thehindubusinessline.com/economy/indias-passenger-vehicle-sales-surge-33-in-july-led-by-maruti-suzuki-and-hyundai/article71294377.ece": {
+      "title": "India’s passenger vehicle sales surge 33% in July, led by Maruti Suzuki and Hyundai",
+      "link": "https://www.thehindubusinessline.com/economy/indias-passenger-vehicle-sales-surge-33-in-july-led-by-maruti-suzuki-and-hyundai/article71294377.ece",
+      "source_name": "BusinessLine Economy",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-08-01T23:59:54.934779+00:00",
+      "last_seen_at": "2026-08-01T23:59:54.934779+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/auto-news/pv-sales-grow-33-in-july-at-4-7-lakh-maruti-hyundai-log-record-sales/articleshow/132788379.cms": {
+      "title": "PV sales grow 33% in July at 4.7 lakh, Maruti, Hyundai log record sales",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/pv-sales-grow-33-in-july-at-4-7-lakh-maruti-hyundai-log-record-sales/articleshow/132788379.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-08-01T23:59:54.934779+00:00",
+      "last_seen_at": "2026-08-01T23:59:54.934779+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/kia-india-july-sales-up-274-at-28200-units/article71294338.ece": {
+      "title": "Kia India July sales up 27.4% at 28,200 units",
+      "link": "https://www.thehindubusinessline.com/companies/kia-india-july-sales-up-274-at-28200-units/article71294338.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Kia"
+      ],
+      "first_seen_at": "2026-08-01T23:59:54.934779+00:00",
+      "last_seen_at": "2026-08-01T23:59:54.934779+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-india-logs-best-ever-july-wholesale-sales-dispatches-up-27-4-to-28200-units/articleshow/132787748.cms": {
+      "title": "Kia India logs best-ever July wholesale sales, dispatches up 27.4% to 28,200 units",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-india-logs-best-ever-july-wholesale-sales-dispatches-up-27-4-to-28200-units/articleshow/132787748.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Kia"
+      ],
+      "first_seen_at": "2026-08-01T23:59:54.934779+00:00",
+      "last_seen_at": "2026-08-01T23:59:54.934779+00:00"
     }
   }
 }
