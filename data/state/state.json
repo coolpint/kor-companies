@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-01T23:59:54.934779+00:00",
+  "last_run_at": "2026-08-02T10:43:09.969434+00:00",
   "seen_articles": {
-    "https://www.channelnewsasia.com/business/nvidia-supplier-sk-hynix-ships-samples-next-generation-chips-major-customers-6191686": {
-      "title": "Nvidia supplier SK Hynix ships samples of next-generation chips to major customers",
-      "link": "https://www.channelnewsasia.com/business/nvidia-supplier-sk-hynix-ships-samples-next-generation-chips-major-customers-6191686",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-06-18T00:18:31.903914+00:00",
-      "last_seen_at": "2026-06-18T00:18:31.903914+00:00"
-    },
     "https://www.theguardian.com/football/2026/jun/17/protesters-to-rally-against-world-cup-sponsor-hyundai-before-mexico-game": {
       "title": "Protesters to rally against World Cup sponsor Hyundai before Mexico game",
       "link": "https://www.theguardian.com/football/2026/jun/17/protesters-to-rally-against-world-cup-sponsor-hyundai-before-mexico-game",
@@ -23,18 +12,6 @@
       ],
       "first_seen_at": "2026-06-18T00:18:31.903914+00:00",
       "last_seen_at": "2026-06-18T12:28:41.991791+00:00"
-    },
-    "https://www.theguardian.com/world/2026/jun/17/construction-equipment-multinationals-may-aiding-israeli-war-crimes-experts": {
-      "title": "Construction equipment multinationals may be aiding Israeli war crimes, experts say",
-      "link": "https://www.theguardian.com/world/2026/jun/17/construction-equipment-multinationals-may-aiding-israeli-war-crimes-experts",
-      "source_name": "The Guardian World",
-      "country_code": "GB",
-      "companies": [
-        "Hyundai Motor",
-        "Doosan Enerbility"
-      ],
-      "first_seen_at": "2026-06-18T00:18:31.903914+00:00",
-      "last_seen_at": "2026-06-18T00:18:31.903914+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/cars-uvs/kia-india-to-raise-vehicle-prices-by-up-to-2-from-july-1/articleshow/131828184.cms": {
       "title": "Kia India to raise vehicle prices by up to 2% from July 1",
@@ -3143,7 +3120,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-08-01T10:43:08.204499+00:00",
-      "last_seen_at": "2026-08-01T23:59:54.934779+00:00"
+      "last_seen_at": "2026-08-02T10:43:09.969434+00:00"
     },
     "https://mexiconewsdaily.com/news/mexicos-week-in-review-r1-capture-navy-sargassum-kia-evs": {
       "title": "Mexico’s week in review: Authorities capture CJNG leader, Navy backs US $115M sargassum strategy and Kia commits $649M to EVs",
@@ -3154,7 +3131,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-08-01T23:59:54.934779+00:00",
-      "last_seen_at": "2026-08-01T23:59:54.934779+00:00"
+      "last_seen_at": "2026-08-02T10:43:09.969434+00:00"
     },
     "https://www.thehindubusinessline.com/economy/indias-passenger-vehicle-sales-surge-33-in-july-led-by-maruti-suzuki-and-hyundai/article71294377.ece": {
       "title": "India’s passenger vehicle sales surge 33% in July, led by Maruti Suzuki and Hyundai",
@@ -3165,7 +3142,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-08-01T23:59:54.934779+00:00",
-      "last_seen_at": "2026-08-01T23:59:54.934779+00:00"
+      "last_seen_at": "2026-08-02T10:43:09.969434+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/pv-sales-grow-33-in-july-at-4-7-lakh-maruti-hyundai-log-record-sales/articleshow/132788379.cms": {
       "title": "PV sales grow 33% in July at 4.7 lakh, Maruti, Hyundai log record sales",
@@ -3176,7 +3153,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-08-01T23:59:54.934779+00:00",
-      "last_seen_at": "2026-08-01T23:59:54.934779+00:00"
+      "last_seen_at": "2026-08-02T10:43:09.969434+00:00"
     },
     "https://www.thehindubusinessline.com/companies/kia-india-july-sales-up-274-at-28200-units/article71294338.ece": {
       "title": "Kia India July sales up 27.4% at 28,200 units",
@@ -3187,7 +3164,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-08-01T23:59:54.934779+00:00",
-      "last_seen_at": "2026-08-01T23:59:54.934779+00:00"
+      "last_seen_at": "2026-08-02T10:43:09.969434+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-india-logs-best-ever-july-wholesale-sales-dispatches-up-27-4-to-28200-units/articleshow/132787748.cms": {
       "title": "Kia India logs best-ever July wholesale sales, dispatches up 27.4% to 28,200 units",
@@ -3198,7 +3175,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-08-01T23:59:54.934779+00:00",
-      "last_seen_at": "2026-08-01T23:59:54.934779+00:00"
+      "last_seen_at": "2026-08-02T10:43:09.969434+00:00"
     }
   }
 }
