@@ -1,40 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-03T00:01:34.231488+00:00",
+  "last_run_at": "2026-08-03T12:29:02.728006+00:00",
   "seen_articles": {
-    "https://economictimes.indiatimes.com/industry/auto/cars-uvs/kia-india-to-raise-vehicle-prices-by-up-to-2-from-july-1/articleshow/131828184.cms": {
-      "title": "Kia India to raise vehicle prices by up to 2% from July 1",
-      "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/kia-india-to-raise-vehicle-prices-by-up-to-2-from-july-1/articleshow/131828184.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-06-18T12:28:41.991791+00:00",
-      "last_seen_at": "2026-06-19T01:45:42.117351+00:00"
-    },
-    "https://www.channelnewsasia.com/east-asia/starbucks-south-korea-tank-day-police-shinsegae-6192171": {
-      "title": "South Korean police quiz executive in Starbucks 'Tank Day' fiasco",
-      "link": "https://www.channelnewsasia.com/east-asia/starbucks-south-korea-tank-day-police-shinsegae-6192171",
-      "source_name": "CNA Asia",
-      "country_code": "SG",
-      "companies": [
-        "Shinsegae"
-      ],
-      "first_seen_at": "2026-06-18T12:28:41.991791+00:00",
-      "last_seen_at": "2026-06-19T01:45:42.117351+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/nvidia-supplier-sk-hynix-ships-samples-of-next-generation-chips-to-major-customers/articleshow/131815871.cms": {
-      "title": "Nvidia supplier SK Hynix ships samples of next-generation chips to major customers",
-      "link": "https://economictimes.indiatimes.com/tech/technology/nvidia-supplier-sk-hynix-ships-samples-of-next-generation-chips-to-major-customers/articleshow/131815871.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-06-18T12:28:41.991791+00:00",
-      "last_seen_at": "2026-06-19T01:45:42.117351+00:00"
-    },
     "https://www.thehindubusinessline.com/companies/kia-india-to-raise-vehicle-prices-by-up-to-2-from-july-1/article71117529.ece": {
       "title": "Kia India to raise vehicle prices by up to 2% from July 1",
       "link": "https://www.thehindubusinessline.com/companies/kia-india-to-raise-vehicle-prices-by-up-to-2-from-july-1/article71117529.ece",
