@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-02T10:43:09.969434+00:00",
+  "last_run_at": "2026-08-03T00:01:34.231488+00:00",
   "seen_articles": {
-    "https://www.theguardian.com/football/2026/jun/17/protesters-to-rally-against-world-cup-sponsor-hyundai-before-mexico-game": {
-      "title": "Protesters to rally against World Cup sponsor Hyundai before Mexico game",
-      "link": "https://www.theguardian.com/football/2026/jun/17/protesters-to-rally-against-world-cup-sponsor-hyundai-before-mexico-game",
-      "source_name": "The Guardian World",
-      "country_code": "GB",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-06-18T00:18:31.903914+00:00",
-      "last_seen_at": "2026-06-18T12:28:41.991791+00:00"
-    },
     "https://economictimes.indiatimes.com/industry/auto/cars-uvs/kia-india-to-raise-vehicle-prices-by-up-to-2-from-july-1/articleshow/131828184.cms": {
       "title": "Kia India to raise vehicle prices by up to 2% from July 1",
       "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/kia-india-to-raise-vehicle-prices-by-up-to-2-from-july-1/articleshow/131828184.cms",
@@ -3131,7 +3120,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-08-01T23:59:54.934779+00:00",
-      "last_seen_at": "2026-08-02T10:43:09.969434+00:00"
+      "last_seen_at": "2026-08-03T00:01:34.231488+00:00"
     },
     "https://www.thehindubusinessline.com/economy/indias-passenger-vehicle-sales-surge-33-in-july-led-by-maruti-suzuki-and-hyundai/article71294377.ece": {
       "title": "India’s passenger vehicle sales surge 33% in July, led by Maruti Suzuki and Hyundai",
@@ -3142,7 +3131,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-08-01T23:59:54.934779+00:00",
-      "last_seen_at": "2026-08-02T10:43:09.969434+00:00"
+      "last_seen_at": "2026-08-03T00:01:34.231488+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/pv-sales-grow-33-in-july-at-4-7-lakh-maruti-hyundai-log-record-sales/articleshow/132788379.cms": {
       "title": "PV sales grow 33% in July at 4.7 lakh, Maruti, Hyundai log record sales",
