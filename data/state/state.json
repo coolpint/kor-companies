@@ -1,40 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-04T00:11:23.020921+00:00",
+  "last_run_at": "2026-08-04T11:27:42.540460+00:00",
   "seen_articles": {
-    "https://www.thehindubusinessline.com/companies/kia-india-to-raise-vehicle-prices-by-up-to-2-from-july-1/article71117529.ece": {
-      "title": "Kia India to raise vehicle prices by up to 2% from July 1",
-      "link": "https://www.thehindubusinessline.com/companies/kia-india-to-raise-vehicle-prices-by-up-to-2-from-july-1/article71117529.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-06-19T01:45:42.117351+00:00",
-      "last_seen_at": "2026-06-20T00:13:24.051099+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/hyundai-to-buy-softbanks-remaining-stake-in-boston-dynamics-for-325-million-media-report/articleshow/131853630.cms": {
-      "title": "Hyundai to buy SoftBank's remaining stake in Boston Dynamics for $325 million: Media report",
-      "link": "https://economictimes.indiatimes.com/tech/technology/hyundai-to-buy-softbanks-remaining-stake-in-boston-dynamics-for-325-million-media-report/articleshow/131853630.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-06-19T12:50:04.115686+00:00",
-      "last_seen_at": "2026-06-20T11:20:59.498115+00:00"
-    },
-    "https://www.channelnewsasia.com/business/hyundai-buy-softbanks-remaining-stake-in-boston-dynamics-325-million-newspaper-says-6194676": {
-      "title": "Hyundai to buy SoftBank's remaining stake in Boston Dynamics for $325 million, newspaper says",
-      "link": "https://www.channelnewsasia.com/business/hyundai-buy-softbanks-remaining-stake-in-boston-dynamics-325-million-newspaper-says-6194676",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-06-19T12:50:04.115686+00:00",
-      "last_seen_at": "2026-06-20T11:20:59.498115+00:00"
-    },
     "https://economictimes.indiatimes.com/tech/technology/intel-hires-former-sk-hynix-chief-lee-seok-hee-to-lead-advanced-packaging/articleshow/131875549.cms": {
       "title": "Intel hires former SK hynix chief Lee Seok-hee to lead advanced packaging",
       "link": "https://economictimes.indiatimes.com/tech/technology/intel-hires-former-sk-hynix-chief-lee-seok-hee-to-lead-advanced-packaging/articleshow/131875549.cms",
@@ -3132,6 +3099,28 @@
       ],
       "first_seen_at": "2026-08-01T23:59:54.934779+00:00",
       "last_seen_at": "2026-08-02T10:43:09.969434+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/hyundai-introduces-assured-buyback-for-creta-electric/article71304810.ece": {
+      "title": "Hyundai introduces assured buyback for CRETA Electric",
+      "link": "https://www.thehindubusinessline.com/companies/hyundai-introduces-assured-buyback-for-creta-electric/article71304810.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-08-04T11:27:42.540460+00:00",
+      "last_seen_at": "2026-08-04T11:27:42.540460+00:00"
+    },
+    "https://www.straitstimes.com/business/chinas-cxmt-narrows-gap-with-sk-hynix-and-samsung-in-smartphone-memory": {
+      "title": "China’s CXMT narrows gap with SK Hynix and Samsung in smartphone memory",
+      "link": "https://www.straitstimes.com/business/chinas-cxmt-narrows-gap-with-sk-hynix-and-samsung-in-smartphone-memory",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-08-04T11:27:42.540460+00:00",
+      "last_seen_at": "2026-08-04T11:27:42.540460+00:00"
     }
   }
 }
