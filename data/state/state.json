@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-06T00:02:15.531325+00:00",
+  "last_run_at": "2026-08-06T11:26:33.141012+00:00",
   "seen_articles": {
     "https://asia.nikkei.com/business/markets/sk-hynix-surpasses-samsung-as-south-korea-s-most-valuable-company": {
       "title": "SK Hynix surpasses Samsung as South Korea's most valuable company",
@@ -3165,6 +3165,50 @@
       ],
       "first_seen_at": "2026-08-05T11:23:21.202779+00:00",
       "last_seen_at": "2026-08-06T00:02:15.531325+00:00"
+    },
+    "https://www.marketwatch.com/story/flash-crash-briefly-fells-sk-hynix-while-socgen-strategist-says-korean-shakeout-is-nearly-done-8872681e?mod=mw_rss_topstories": {
+      "title": "Flash crash briefly fells SK Hynix while SocGen strategist says Korean shakeout is nearly done",
+      "link": "https://www.marketwatch.com/story/flash-crash-briefly-fells-sk-hynix-while-socgen-strategist-says-korean-shakeout-is-nearly-done-8872681e?mod=mw_rss_topstories",
+      "source_name": "MarketWatch Top Stories",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-08-06T11:26:33.141012+00:00",
+      "last_seen_at": "2026-08-06T11:26:33.141012+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/cars-uvs/new-tata-nexon-launched-check-camo-variant-wise-price-powertrains-and-other-details/articleshow/132990106.cms": {
+      "title": "New Tata Nexon SUV launched: Check CAMO variant-wise prices, powertrains and other details",
+      "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/new-tata-nexon-launched-check-camo-variant-wise-price-powertrains-and-other-details/articleshow/132990106.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Nexon"
+      ],
+      "first_seen_at": "2026-08-06T11:26:33.141012+00:00",
+      "last_seen_at": "2026-08-06T11:26:33.141012+00:00"
+    },
+    "https://www.cnbc.com/2026/08/06/asia-tech-selloff-wall-street-samsung-sk-hynix.html": {
+      "title": "Asian tech stocks drop with SK Hynix plunging 10% after Wall Street AI names fall",
+      "link": "https://www.cnbc.com/2026/08/06/asia-tech-selloff-wall-street-samsung-sk-hynix.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-08-06T11:26:33.141012+00:00",
+      "last_seen_at": "2026-08-06T11:26:33.141012+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-sk-hynix-shareholders-call-for-bigger-payouts-from-ai-cash-mountain/articleshow/132981837.cms": {
+      "title": "Samsung, SK Hynix shareholders call for bigger payouts from AI cash mountain",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-sk-hynix-shareholders-call-for-bigger-payouts-from-ai-cash-mountain/articleshow/132981837.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-08-06T11:26:33.141012+00:00",
+      "last_seen_at": "2026-08-06T11:26:33.141012+00:00"
     }
   }
 }
