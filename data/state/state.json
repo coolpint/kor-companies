@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-05T11:23:21.202779+00:00",
+  "last_run_at": "2026-08-06T00:02:15.531325+00:00",
   "seen_articles": {
-    "https://economictimes.indiatimes.com/tech/technology/intel-hires-former-sk-hynix-chief-lee-seok-hee-to-lead-advanced-packaging/articleshow/131875549.cms": {
-      "title": "Intel hires former SK hynix chief Lee Seok-hee to lead advanced packaging",
-      "link": "https://economictimes.indiatimes.com/tech/technology/intel-hires-former-sk-hynix-chief-lee-seok-hee-to-lead-advanced-packaging/articleshow/131875549.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-06-21T00:12:34.879135+00:00",
-      "last_seen_at": "2026-06-21T11:47:44.048299+00:00"
-    },
     "https://asia.nikkei.com/business/markets/sk-hynix-surpasses-samsung-as-south-korea-s-most-valuable-company": {
       "title": "SK Hynix surpasses Samsung as South Korea's most valuable company",
       "link": "https://asia.nikkei.com/business/markets/sk-hynix-surpasses-samsung-as-south-korea-s-most-valuable-company",
@@ -3153,10 +3142,10 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-08-05T00:07:34.266662+00:00",
-      "last_seen_at": "2026-08-05T11:23:21.202779+00:00"
+      "last_seen_at": "2026-08-06T00:02:15.531325+00:00"
     },
     "https://www.japantimes.co.jp/business/2026/08/05/tech/samsung-sk-hynix-chinese-chip-us-risks": {
-      "title": "Samsung, SK Hynix test Chinese chip tools as hedge against U.S. risks",
+      "title": "Samsung and SK Hynix test Chinese chip tools as hedge against U.S. risks",
       "link": "https://www.japantimes.co.jp/business/2026/08/05/tech/samsung-sk-hynix-chinese-chip-us-risks",
       "source_name": "The Japan Times",
       "country_code": "JP",
@@ -3164,7 +3153,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-05T11:23:21.202779+00:00",
-      "last_seen_at": "2026-08-05T11:23:21.202779+00:00"
+      "last_seen_at": "2026-08-06T00:02:15.531325+00:00"
     },
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-sk-hynix-test-chinese-chip-tools-as-hedge-against-us-risks/articleshow/132885322.cms": {
       "title": "Samsung, SK Hynix test Chinese chip tools as hedge against US risks",
@@ -3175,7 +3164,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-05T11:23:21.202779+00:00",
-      "last_seen_at": "2026-08-05T11:23:21.202779+00:00"
+      "last_seen_at": "2026-08-06T00:02:15.531325+00:00"
     }
   }
 }
