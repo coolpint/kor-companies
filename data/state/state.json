@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-06T11:26:33.141012+00:00",
+  "last_run_at": "2026-08-07T01:42:03.515195+00:00",
   "seen_articles": {
     "https://asia.nikkei.com/business/markets/sk-hynix-surpasses-samsung-as-south-korea-s-most-valuable-company": {
       "title": "SK Hynix surpasses Samsung as South Korea's most valuable company",
@@ -13,18 +13,6 @@
       "first_seen_at": "2026-06-22T14:44:49.580634+00:00",
       "last_seen_at": "2026-06-24T00:02:13.914160+00:00"
     },
-    "https://economictimes.indiatimes.com/tech/artificial-intelligence/sk-hynix-dethrones-samsung-electronics-as-south-koreas-most-valuable-company/articleshow/131901768.cms": {
-      "title": "SK Hynix dethrones Samsung Electronics as South Korea's most valuable company",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/sk-hynix-dethrones-samsung-electronics-as-south-koreas-most-valuable-company/articleshow/131901768.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-06-22T14:44:49.580634+00:00",
-      "last_seen_at": "2026-06-23T00:11:58.103502+00:00"
-    },
     "https://www.straitstimes.com/business/companies-markets/sk-hynix-dethrones-samsung-electronics-as-south-koreas-most-valuable-company": {
       "title": "SK Hynix dethrones Samsung as South Korea’s most valuable company",
       "link": "https://www.straitstimes.com/business/companies-markets/sk-hynix-dethrones-samsung-electronics-as-south-koreas-most-valuable-company",
@@ -35,18 +23,6 @@
       ],
       "first_seen_at": "2026-06-22T14:44:49.580634+00:00",
       "last_seen_at": "2026-06-23T12:09:54.834706+00:00"
-    },
-    "https://www.channelnewsasia.com/business/sk-hynix-surpasses-samsung-electronics-become-south-koreas-most-valuable-firm-6199426": {
-      "title": "SK Hynix surpasses Samsung Electronics to become South Korea's most valuable firm",
-      "link": "https://www.channelnewsasia.com/business/sk-hynix-surpasses-samsung-electronics-become-south-koreas-most-valuable-firm-6199426",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-06-22T14:44:49.580634+00:00",
-      "last_seen_at": "2026-06-22T14:44:49.580634+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/samsungs-hbm4-sales-cross-1-billion-within-four-months/articleshow/131929863.cms": {
       "title": "Samsung's HBM4 sales cross $1 billion within four months",
@@ -3191,13 +3167,13 @@
     "https://www.cnbc.com/2026/08/06/asia-tech-selloff-wall-street-samsung-sk-hynix.html": {
       "title": "Asian tech stocks drop with SK Hynix plunging 10% after Wall Street AI names fall",
       "link": "https://www.cnbc.com/2026/08/06/asia-tech-selloff-wall-street-samsung-sk-hynix.html",
-      "source_name": "CNBC Top News",
+      "source_name": "CNBC Technology",
       "country_code": "US",
       "companies": [
         "SK hynix"
       ],
       "first_seen_at": "2026-08-06T11:26:33.141012+00:00",
-      "last_seen_at": "2026-08-06T11:26:33.141012+00:00"
+      "last_seen_at": "2026-08-07T01:42:03.515195+00:00"
     },
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-sk-hynix-shareholders-call-for-bigger-payouts-from-ai-cash-mountain/articleshow/132981837.cms": {
       "title": "Samsung, SK Hynix shareholders call for bigger payouts from AI cash mountain",
@@ -3208,7 +3184,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-06T11:26:33.141012+00:00",
-      "last_seen_at": "2026-08-06T11:26:33.141012+00:00"
+      "last_seen_at": "2026-08-07T01:42:03.515195+00:00"
     }
   }
 }
