@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-07T10:03:29.392156+00:00",
+  "last_run_at": "2026-08-07T23:36:38.034274+00:00",
   "seen_articles": {
     "https://asia.nikkei.com/business/markets/sk-hynix-surpasses-samsung-as-south-korea-s-most-valuable-company": {
       "title": "SK Hynix surpasses Samsung as South Korea's most valuable company",
@@ -12,17 +12,6 @@
       ],
       "first_seen_at": "2026-06-22T14:44:49.580634+00:00",
       "last_seen_at": "2026-06-24T00:02:13.914160+00:00"
-    },
-    "https://www.straitstimes.com/business/companies-markets/sk-hynix-dethrones-samsung-electronics-as-south-koreas-most-valuable-company": {
-      "title": "SK Hynix dethrones Samsung as South Korea’s most valuable company",
-      "link": "https://www.straitstimes.com/business/companies-markets/sk-hynix-dethrones-samsung-electronics-as-south-koreas-most-valuable-company",
-      "source_name": "The Straits Times",
-      "country_code": "SG",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-06-22T14:44:49.580634+00:00",
-      "last_seen_at": "2026-06-23T12:09:54.834706+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/samsungs-hbm4-sales-cross-1-billion-within-four-months/articleshow/131929863.cms": {
       "title": "Samsung's HBM4 sales cross $1 billion within four months",
@@ -89,17 +78,6 @@
       ],
       "first_seen_at": "2026-06-23T12:09:54.834706+00:00",
       "last_seen_at": "2026-06-24T11:47:41.667251+00:00"
-    },
-    "https://www.channelnewsasia.com/business/in-south-korea-job-or-partner-samsung-sk-hynix-new-catch-6202316": {
-      "title": "In South Korea, a job or partner at Samsung, SK Hynix is the new 'A+' catch",
-      "link": "https://www.channelnewsasia.com/business/in-south-korea-job-or-partner-samsung-sk-hynix-new-catch-6202316",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-06-23T12:09:54.834706+00:00",
-      "last_seen_at": "2026-06-23T12:09:54.834706+00:00"
     },
     "https://www.cnbc.com/2026/06/24/sk-hynix-nasdaq-adr-listing-south-korea.html": {
       "title": "South Korea’s biggest chipmaker SK Hynix plans to raise $29 billion via Nasdaq listing as soon as July 10",
@@ -3195,7 +3173,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-07T10:03:29.392156+00:00",
-      "last_seen_at": "2026-08-07T10:03:29.392156+00:00"
+      "last_seen_at": "2026-08-07T23:36:38.034274+00:00"
     },
     "https://www.channelnewsasia.com/business/sk-hynix-board-approves-38-billion-investments-south-koreas-yongin-cheongju-chip-plants-6305746": {
       "title": "SK Hynix board approves $38 billion investments for South Korea's Yongin, Cheongju chip plants",
@@ -3206,7 +3184,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-07T10:03:29.392156+00:00",
-      "last_seen_at": "2026-08-07T10:03:29.392156+00:00"
+      "last_seen_at": "2026-08-07T23:36:38.034274+00:00"
     },
     "https://www.channelnewsasia.com/business/sk-hynix-announce-additional-shareholder-return-measures-in-third-quarter-6305626": {
       "title": "SK Hynix to announce additional shareholder return measures in third quarter",
@@ -3218,6 +3196,17 @@
       ],
       "first_seen_at": "2026-08-07T10:03:29.392156+00:00",
       "last_seen_at": "2026-08-07T10:03:29.392156+00:00"
+    },
+    "https://www.taipeitimes.com/News/biz/archives/2026/08/08/2003862122": {
+      "title": "SK Hynix to expand in South Korea",
+      "link": "https://www.taipeitimes.com/News/biz/archives/2026/08/08/2003862122",
+      "source_name": "Taipei Times",
+      "country_code": "TW",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-08-07T23:36:38.034274+00:00",
+      "last_seen_at": "2026-08-07T23:36:38.034274+00:00"
     }
   }
 }
