@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-07T01:42:03.515195+00:00",
+  "last_run_at": "2026-08-07T10:03:29.392156+00:00",
   "seen_articles": {
     "https://asia.nikkei.com/business/markets/sk-hynix-surpasses-samsung-as-south-korea-s-most-valuable-company": {
       "title": "SK Hynix surpasses Samsung as South Korea's most valuable company",
@@ -3173,7 +3173,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-06T11:26:33.141012+00:00",
-      "last_seen_at": "2026-08-07T01:42:03.515195+00:00"
+      "last_seen_at": "2026-08-07T10:03:29.392156+00:00"
     },
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-sk-hynix-shareholders-call-for-bigger-payouts-from-ai-cash-mountain/articleshow/132981837.cms": {
       "title": "Samsung, SK Hynix shareholders call for bigger payouts from AI cash mountain",
@@ -3184,7 +3184,40 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-06T11:26:33.141012+00:00",
-      "last_seen_at": "2026-08-07T01:42:03.515195+00:00"
+      "last_seen_at": "2026-08-07T10:03:29.392156+00:00"
+    },
+    "https://www.cnbc.com/2026/08/07/sk-hynix-memory-chips-ai-prices.html": {
+      "title": "SK Hynix to invest $38 billion building new memory chip plants as demand soars",
+      "link": "https://www.cnbc.com/2026/08/07/sk-hynix-memory-chips-ai-prices.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-08-07T10:03:29.392156+00:00",
+      "last_seen_at": "2026-08-07T10:03:29.392156+00:00"
+    },
+    "https://www.channelnewsasia.com/business/sk-hynix-board-approves-38-billion-investments-south-koreas-yongin-cheongju-chip-plants-6305746": {
+      "title": "SK Hynix board approves $38 billion investments for South Korea's Yongin, Cheongju chip plants",
+      "link": "https://www.channelnewsasia.com/business/sk-hynix-board-approves-38-billion-investments-south-koreas-yongin-cheongju-chip-plants-6305746",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-08-07T10:03:29.392156+00:00",
+      "last_seen_at": "2026-08-07T10:03:29.392156+00:00"
+    },
+    "https://www.channelnewsasia.com/business/sk-hynix-announce-additional-shareholder-return-measures-in-third-quarter-6305626": {
+      "title": "SK Hynix to announce additional shareholder return measures in third quarter",
+      "link": "https://www.channelnewsasia.com/business/sk-hynix-announce-additional-shareholder-return-measures-in-third-quarter-6305626",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-08-07T10:03:29.392156+00:00",
+      "last_seen_at": "2026-08-07T10:03:29.392156+00:00"
     }
   }
 }
