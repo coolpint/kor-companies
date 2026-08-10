@@ -1,29 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-10T10:20:11.852027+00:00",
+  "last_run_at": "2026-08-10T23:38:32.874912+00:00",
   "seen_articles": {
-    "https://asia.nikkei.com/business/markets/equities/sk-hynix-jumps-15-on-nasdaq-adr-listing-plan": {
-      "title": "SK Hynix jumps 15% on Nasdaq ADR listing plan",
-      "link": "https://asia.nikkei.com/business/markets/equities/sk-hynix-jumps-15-on-nasdaq-adr-listing-plan",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-06-25T11:41:41.942190+00:00",
-      "last_seen_at": "2026-06-26T11:46:37.111145+00:00"
-    },
-    "https://www.cnbc.com/2026/06/25/chip-tech-stocks-sk-hynix-nasdaq-adr-listing-29-billion-ai-investment.html": {
-      "title": "SK Hynix surges 12% after Micron earnings; blockbuster Nasdaq listing",
-      "link": "https://www.cnbc.com/2026/06/25/chip-tech-stocks-sk-hynix-nasdaq-adr-listing-29-billion-ai-investment.html",
-      "source_name": "CNBC Technology",
-      "country_code": "US",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-06-25T11:41:41.942190+00:00",
-      "last_seen_at": "2026-06-26T11:46:37.111145+00:00"
-    },
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-koreas-favourite-ai-stocks-slide-again-drag-kospi-index-down-8/articleshow/132012720.cms": {
       "title": "South Korea’s favourite AI stocks slide again, drag Kospi index down 8%",
       "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-koreas-favourite-ai-stocks-slide-again-drag-kospi-index-down-8/articleshow/132012720.cms",
@@ -3018,7 +2996,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-08-10T10:20:11.852027+00:00",
-      "last_seen_at": "2026-08-10T10:20:11.852027+00:00"
+      "last_seen_at": "2026-08-10T23:38:32.874912+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-targets-1-million-connected-cars-by-2027-as-software-takes-over-indias-roads/articleshow/133087853.cms": {
       "title": "Hyundai targets 1 million connected cars by 2027 as software takes over India’s roads",
