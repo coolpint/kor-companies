@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-10T23:38:32.874912+00:00",
+  "last_run_at": "2026-08-11T10:02:18.571518+00:00",
   "seen_articles": {
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-koreas-favourite-ai-stocks-slide-again-drag-kospi-index-down-8/articleshow/132012720.cms": {
       "title": "South Korea’s favourite AI stocks slide again, drag Kospi index down 8%",
@@ -13,17 +13,6 @@
       ],
       "first_seen_at": "2026-06-26T11:46:37.111145+00:00",
       "last_seen_at": "2026-06-27T10:59:27.919515+00:00"
-    },
-    "https://www.channelnewsasia.com/business/hyundai-recall-over-96000-us-vehicles-over-faulty-instrument-panel-display-nhtsa-says-6212611": {
-      "title": "Hyundai to recall over 96,000 US vehicles over faulty instrument panel display, NHTSA says",
-      "link": "https://www.channelnewsasia.com/business/hyundai-recall-over-96000-us-vehicles-over-faulty-instrument-panel-display-nhtsa-says-6212611",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-06-26T11:46:37.111145+00:00",
-      "last_seen_at": "2026-06-27T00:12:39.063366+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/south-koreas-kospi-plunges-more-than-8-as-chipmakers-slide-trading-halted/articleshow/132010191.cms": {
       "title": "South Korean stocks in tailspin as Kospi crashes 8%, head for worst week since March",
@@ -58,17 +47,6 @@
       ],
       "first_seen_at": "2026-06-27T00:12:39.063366+00:00",
       "last_seen_at": "2026-06-27T10:59:27.919515+00:00"
-    },
-    "https://www.abc.net.au/news/2026-06-27/meet-cj-jones-the-17-year-old-tasmanian-from-the-piano/106831526": {
-      "title": "CJ wowed audiences on The Piano. Now he's sharing a stage with the MSO",
-      "link": "https://www.abc.net.au/news/2026-06-27/meet-cj-jones-the-17-year-old-tasmanian-from-the-piano/106831526",
-      "source_name": "ABC Australia Top Stories",
-      "country_code": "AU",
-      "companies": [
-        "CJ CheilJedang"
-      ],
-      "first_seen_at": "2026-06-27T00:12:39.063366+00:00",
-      "last_seen_at": "2026-06-27T00:12:39.063366+00:00"
     },
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/korea-taps-samsung-sk-hynix-in-576-billion-ai-chip-drive-to-cement-global-leadership/articleshow/132070207.cms": {
       "title": "Korea taps Samsung, SK Hynix in $576 billion AI-chip drive to cement global leadership",
@@ -2996,7 +2974,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-08-10T10:20:11.852027+00:00",
-      "last_seen_at": "2026-08-10T23:38:32.874912+00:00"
+      "last_seen_at": "2026-08-11T10:02:18.571518+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-targets-1-million-connected-cars-by-2027-as-software-takes-over-indias-roads/articleshow/133087853.cms": {
       "title": "Hyundai targets 1 million connected cars by 2027 as software takes over India’s roads",
@@ -3008,6 +2986,61 @@
       ],
       "first_seen_at": "2026-08-10T10:20:11.852027+00:00",
       "last_seen_at": "2026-08-10T10:20:11.852027+00:00"
+    },
+    "https://www.channelnewsasia.com/business/south-koreas-lotte-group-sells-car-rental-unit-private-equity-tpg-925-million-6311771": {
+      "title": "South Korea's Lotte Group sells car rental unit to private equity TPG for $925 million",
+      "link": "https://www.channelnewsasia.com/business/south-koreas-lotte-group-sells-car-rental-unit-private-equity-tpg-925-million-6311771",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Lotte Chemical"
+      ],
+      "first_seen_at": "2026-08-11T10:02:18.571518+00:00",
+      "last_seen_at": "2026-08-11T10:02:18.571518+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-india-targeting-having-on-road-one-million-connected-cars-by-2027/articleshow/133145300.cms": {
+      "title": "Hyundai Motor India targeting having on road one million connected cars by 2027",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-india-targeting-having-on-road-one-million-connected-cars-by-2027/articleshow/133145300.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-08-11T10:02:18.571518+00:00",
+      "last_seen_at": "2026-08-11T10:02:18.571518+00:00"
+    },
+    "https://www.japantimes.co.jp/business/2026/08/11/companies/kioxia-sk-hynix-top-shareholder": {
+      "title": "Kioxia says investment vehicle for SK Hynix is top shareholder",
+      "link": "https://www.japantimes.co.jp/business/2026/08/11/companies/kioxia-sk-hynix-top-shareholder",
+      "source_name": "The Japan Times",
+      "country_code": "JP",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-08-11T10:02:18.571518+00:00",
+      "last_seen_at": "2026-08-11T10:02:18.571518+00:00"
+    },
+    "https://www.channelnewsasia.com/business/south-koreas-samsung-sdi-buy-out-gms-stake-in-battery-joint-venture-6311241": {
+      "title": "South Korea's Samsung SDI to buy out GM's stake in battery joint venture",
+      "link": "https://www.channelnewsasia.com/business/south-koreas-samsung-sdi-buy-out-gms-stake-in-battery-joint-venture-6311241",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Samsung SDI"
+      ],
+      "first_seen_at": "2026-08-11T10:02:18.571518+00:00",
+      "last_seen_at": "2026-08-11T10:02:18.571518+00:00"
+    },
+    "https://www.ft.com/content/f78754df-06ee-41d0-871c-74d93ebab3f9?syn-25a6b1a6=1": {
+      "title": "South Korean group makes US defence push with shipbuilding bid",
+      "link": "https://www.ft.com/content/f78754df-06ee-41d0-871c-74d93ebab3f9?syn-25a6b1a6=1",
+      "source_name": "Financial Times Companies",
+      "country_code": "GB",
+      "companies": [
+        "Hanwha Aerospace"
+      ],
+      "first_seen_at": "2026-08-11T10:02:18.571518+00:00",
+      "last_seen_at": "2026-08-11T10:02:18.571518+00:00"
     }
   }
 }
