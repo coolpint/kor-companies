@@ -1,53 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-11T10:02:18.571518+00:00",
+  "last_run_at": "2026-08-11T23:45:33.359597+00:00",
   "seen_articles": {
-    "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-koreas-favourite-ai-stocks-slide-again-drag-kospi-index-down-8/articleshow/132012720.cms": {
-      "title": "South Korea’s favourite AI stocks slide again, drag Kospi index down 8%",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-koreas-favourite-ai-stocks-slide-again-drag-kospi-index-down-8/articleshow/132012720.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-06-26T11:46:37.111145+00:00",
-      "last_seen_at": "2026-06-27T10:59:27.919515+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/south-koreas-kospi-plunges-more-than-8-as-chipmakers-slide-trading-halted/articleshow/132010191.cms": {
-      "title": "South Korean stocks in tailspin as Kospi crashes 8%, head for worst week since March",
-      "link": "https://economictimes.indiatimes.com/tech/technology/south-koreas-kospi-plunges-more-than-8-as-chipmakers-slide-trading-halted/articleshow/132010191.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-06-26T11:46:37.111145+00:00",
-      "last_seen_at": "2026-06-27T10:59:27.919515+00:00"
-    },
-    "https://www.straitstimes.com/business/companies-markets/samsung-to-announce-839-billion-investments-in-south-korea-media-report-says": {
-      "title": "Samsung readies $839 billion investment plan, report says, as AI boom reshapes South Korea",
-      "link": "https://www.straitstimes.com/business/companies-markets/samsung-to-announce-839-billion-investments-in-south-korea-media-report-says",
-      "source_name": "The Straits Times",
-      "country_code": "SG",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-06-26T11:46:37.111145+00:00",
-      "last_seen_at": "2026-06-27T10:59:27.919515+00:00"
-    },
-    "https://www.taipeitimes.com/News/biz/archives/2026/06/27/2003859803": {
-      "title": "Samsung, SK Hynix plan AI spending push: report",
-      "link": "https://www.taipeitimes.com/News/biz/archives/2026/06/27/2003859803",
-      "source_name": "Taipei Times",
-      "country_code": "TW",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-06-27T00:12:39.063366+00:00",
-      "last_seen_at": "2026-06-27T10:59:27.919515+00:00"
-    },
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/korea-taps-samsung-sk-hynix-in-576-billion-ai-chip-drive-to-cement-global-leadership/articleshow/132070207.cms": {
       "title": "Korea taps Samsung, SK Hynix in $576 billion AI-chip drive to cement global leadership",
       "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/korea-taps-samsung-sk-hynix-in-576-billion-ai-chip-drive-to-cement-global-leadership/articleshow/132070207.cms",
@@ -3018,7 +2972,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-11T10:02:18.571518+00:00",
-      "last_seen_at": "2026-08-11T10:02:18.571518+00:00"
+      "last_seen_at": "2026-08-11T23:45:33.359597+00:00"
     },
     "https://www.channelnewsasia.com/business/south-koreas-samsung-sdi-buy-out-gms-stake-in-battery-joint-venture-6311241": {
       "title": "South Korea's Samsung SDI to buy out GM's stake in battery joint venture",
