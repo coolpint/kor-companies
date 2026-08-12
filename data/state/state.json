@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-11T23:45:33.359597+00:00",
+  "last_run_at": "2026-08-12T10:10:22.201006+00:00",
   "seen_articles": {
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/korea-taps-samsung-sk-hynix-in-576-billion-ai-chip-drive-to-cement-global-leadership/articleshow/132070207.cms": {
       "title": "Korea taps Samsung, SK Hynix in $576 billion AI-chip drive to cement global leadership",
@@ -2995,6 +2995,28 @@
       ],
       "first_seen_at": "2026-08-11T10:02:18.571518+00:00",
       "last_seen_at": "2026-08-11T10:02:18.571518+00:00"
+    },
+    "https://www.straitstimes.com/business/companies-markets/sk-hynix-samsung-shares-rally-after-report-temasek-to-invest": {
+      "title": "SK Hynix, Samsung shares rally as media report says Temasek to invest in chip giants",
+      "link": "https://www.straitstimes.com/business/companies-markets/sk-hynix-samsung-shares-rally-after-report-temasek-to-invest",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-08-12T10:10:22.201006+00:00",
+      "last_seen_at": "2026-08-12T10:10:22.201006+00:00"
+    },
+    "https://www.scmp.com/tech/big-tech/article/3363713/why-does-sk-hynix-want-sell-its-chip-facility-southwest-china": {
+      "title": "Why does SK Hynix want to sell its chip facility in southwest China?",
+      "link": "https://www.scmp.com/tech/big-tech/article/3363713/why-does-sk-hynix-want-sell-its-chip-facility-southwest-china",
+      "source_name": "South China Morning Post World",
+      "country_code": "HK",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-08-12T10:10:22.201006+00:00",
+      "last_seen_at": "2026-08-12T10:10:22.201006+00:00"
     }
   }
 }
