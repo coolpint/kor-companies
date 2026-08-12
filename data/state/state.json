@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-12T10:10:22.201006+00:00",
+  "last_run_at": "2026-08-12T23:46:44.244710+00:00",
   "seen_articles": {
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/korea-taps-samsung-sk-hynix-in-576-billion-ai-chip-drive-to-cement-global-leadership/articleshow/132070207.cms": {
       "title": "Korea taps Samsung, SK Hynix in $576 billion AI-chip drive to cement global leadership",
@@ -3005,18 +3005,29 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-12T10:10:22.201006+00:00",
-      "last_seen_at": "2026-08-12T10:10:22.201006+00:00"
+      "last_seen_at": "2026-08-12T23:46:44.244710+00:00"
     },
     "https://www.scmp.com/tech/big-tech/article/3363713/why-does-sk-hynix-want-sell-its-chip-facility-southwest-china": {
       "title": "Why does SK Hynix want to sell its chip facility in southwest China?",
       "link": "https://www.scmp.com/tech/big-tech/article/3363713/why-does-sk-hynix-want-sell-its-chip-facility-southwest-china",
-      "source_name": "South China Morning Post World",
+      "source_name": "South China Morning Post Tech",
       "country_code": "HK",
       "companies": [
         "SK hynix"
       ],
       "first_seen_at": "2026-08-12T10:10:22.201006+00:00",
-      "last_seen_at": "2026-08-12T10:10:22.201006+00:00"
+      "last_seen_at": "2026-08-12T23:46:44.244710+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-plans-india-plant-expansion-as-sales-surge-aims-410000-units-by-2030/articleshow/133187811.cms": {
+      "title": "Kia plans India plant expansion as sales surge; aims 410,000 units by 2030",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-plans-india-plant-expansion-as-sales-surge-aims-410000-units-by-2030/articleshow/133187811.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Kia"
+      ],
+      "first_seen_at": "2026-08-12T23:46:44.244710+00:00",
+      "last_seen_at": "2026-08-12T23:46:44.244710+00:00"
     }
   }
 }
