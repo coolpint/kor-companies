@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-13T10:11:16.773289+00:00",
+  "last_run_at": "2026-08-13T23:45:55.493511+00:00",
   "seen_articles": {
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/korea-taps-samsung-sk-hynix-in-576-billion-ai-chip-drive-to-cement-global-leadership/articleshow/132070207.cms": {
       "title": "Korea taps Samsung, SK Hynix in $576 billion AI-chip drive to cement global leadership",
@@ -58,18 +58,6 @@
       ],
       "first_seen_at": "2026-06-29T13:09:50.803418+00:00",
       "last_seen_at": "2026-06-30T11:46:47.442285+00:00"
-    },
-    "https://www.scmp.com/news/asia/east-asia/article/3358719/south-korea-unveils-us650-billion-megaprojects-dominate-global-ai-chip-market": {
-      "title": "South Korea unveils US$576 billion megaprojects to dominate global AI, chip market",
-      "link": "https://www.scmp.com/news/asia/east-asia/article/3358719/south-korea-unveils-us650-billion-megaprojects-dominate-global-ai-chip-market",
-      "source_name": "South China Morning Post World",
-      "country_code": "HK",
-      "companies": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-06-29T13:09:50.803418+00:00",
-      "last_seen_at": "2026-06-29T13:09:50.803418+00:00"
     },
     "https://www.straitstimes.com/business/companies-markets/samsung-sk-group-reportedly-to-invest-1-3-trillion-over-10-years": {
       "title": "South Korea taps Samsung, SK Hynix in $745 billion plan to cement global AI chip lead",
@@ -3030,7 +3018,7 @@
       "last_seen_at": "2026-08-13T10:11:16.773289+00:00"
     },
     "https://www.thehindubusinessline.com/markets/q1-results-today-live-updates-solar-ind-tmpv-lg-electronics-max-healthcare-gic-godrej-ind-jubilant-foodworks-amber-enterprises-brigade-jsw-cement-honasa-consumer-tmcv-hal-results-13-august-2026/article71335955.ece": {
-      "title": "Q1 Results Today Live: Max Health PAT flat, Solar Ind, IPCA Lab, TVS Srichakra, V2 Retail, Honasa Consumer, Minda Corp PAT up, Godrej Industries con. PAT declines, TMPV, LG Electronics, Amber Enterprises, Brigade, JSW Cement to announce Q1 results",
+      "title": "Q1 Results Today Highlights: TMPV Q1 PAT falls, Max Health PAT flat, Solar Ind, IPCA Lab, TVS Srichakra, V2 Retail, Honasa Consumer, Minda Corp PAT up, LG Electronics, Brigade profit rises",
       "link": "https://www.thehindubusinessline.com/markets/q1-results-today-live-updates-solar-ind-tmpv-lg-electronics-max-healthcare-gic-godrej-ind-jubilant-foodworks-amber-enterprises-brigade-jsw-cement-honasa-consumer-tmcv-hal-results-13-august-2026/article71335955.ece",
       "source_name": "BusinessLine Companies",
       "country_code": "IN",
@@ -3038,7 +3026,7 @@
         "LG Electronics"
       ],
       "first_seen_at": "2026-08-13T10:11:16.773289+00:00",
-      "last_seen_at": "2026-08-13T10:11:16.773289+00:00"
+      "last_seen_at": "2026-08-13T23:45:55.493511+00:00"
     },
     "https://www.cnbc.com/2026/08/13/inside-sk-hynixs-720-billion-bet-to-build-enough-memory-for-ai.html": {
       "title": "An inside look at SK Hynix $720 billion AI-fueled buildout that's taking over South Korea",
@@ -3049,7 +3037,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-13T10:11:16.773289+00:00",
-      "last_seen_at": "2026-08-13T10:11:16.773289+00:00"
+      "last_seen_at": "2026-08-13T23:45:55.493511+00:00"
     },
     "https://economictimes.indiatimes.com/tech/tech-bytes/mirae-asset-venture-raises-rs-1125-crore-in-first-close-of-new-india-dedicated-fund/articleshow/133197850.cms": {
       "title": "Mirae Asset Venture raises Rs 1,125 crore in first close of new India-dedicated fund",
@@ -3060,7 +3048,62 @@
         "Mirae Asset"
       ],
       "first_seen_at": "2026-08-13T10:11:16.773289+00:00",
-      "last_seen_at": "2026-08-13T10:11:16.773289+00:00"
+      "last_seen_at": "2026-08-13T23:45:55.493511+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/sk-hynixs-korean-workers-launch-unified-union-amid-stalled-wage-talks/articleshow/133218028.cms": {
+      "title": "SK Hynix's Korean workers launch unified union amid stalled wage talks",
+      "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynixs-korean-workers-launch-unified-union-amid-stalled-wage-talks/articleshow/133218028.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-08-13T23:45:55.493511+00:00",
+      "last_seen_at": "2026-08-13T23:45:55.493511+00:00"
+    },
+    "https://www.thehindubusinessline.com/markets/mirae-asset-venture-closes-mavof-ii-at-1125-cr/article71341392.ece": {
+      "title": "Mirae Asset Venture closes MAVOF II at ₹1,125 cr",
+      "link": "https://www.thehindubusinessline.com/markets/mirae-asset-venture-closes-mavof-ii-at-1125-cr/article71341392.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Mirae Asset"
+      ],
+      "first_seen_at": "2026-08-13T23:45:55.493511+00:00",
+      "last_seen_at": "2026-08-13T23:45:55.493511+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/cons-products/durables/lg-electronics-india-sees-bigger-screens-premium-appliances-powering-fy27-growth/articleshow/133212700.cms": {
+      "title": "LG Electronics India sees bigger screens, premium appliances powering FY27 growth",
+      "link": "https://economictimes.indiatimes.com/industry/cons-products/durables/lg-electronics-india-sees-bigger-screens-premium-appliances-powering-fy27-growth/articleshow/133212700.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "LG Electronics"
+      ],
+      "first_seen_at": "2026-08-13T23:45:55.493511+00:00",
+      "last_seen_at": "2026-08-13T23:45:55.493511+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/cons-products/electronics/samsung-to-manufacture-ai-data-center-hvac-products-in-india-expanding-to-asia-pacific/articleshow/133211649.cms": {
+      "title": "Samsung to manufacture AI data center HVAC products in India, expanding to Asia-Pacific",
+      "link": "https://economictimes.indiatimes.com/industry/cons-products/electronics/samsung-to-manufacture-ai-data-center-hvac-products-in-india-expanding-to-asia-pacific/articleshow/133211649.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-08-13T23:45:55.493511+00:00",
+      "last_seen_at": "2026-08-13T23:45:55.493511+00:00"
+    },
+    "https://www.channelnewsasia.com/business/sk-hynixs-korean-workers-launch-unified-union-amid-stalled-wage-talks-6317496": {
+      "title": "SK Hynix's Korean workers launch unified union amid stalled wage talks",
+      "link": "https://www.channelnewsasia.com/business/sk-hynixs-korean-workers-launch-unified-union-amid-stalled-wage-talks-6317496",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-08-13T23:45:55.493511+00:00",
+      "last_seen_at": "2026-08-13T23:45:55.493511+00:00"
     }
   }
 }
