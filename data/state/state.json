@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-12T23:46:44.244710+00:00",
+  "last_run_at": "2026-08-13T10:11:16.773289+00:00",
   "seen_articles": {
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/korea-taps-samsung-sk-hynix-in-576-billion-ai-chip-drive-to-cement-global-leadership/articleshow/132070207.cms": {
       "title": "Korea taps Samsung, SK Hynix in $576 billion AI-chip drive to cement global leadership",
@@ -3005,7 +3005,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-12T10:10:22.201006+00:00",
-      "last_seen_at": "2026-08-12T23:46:44.244710+00:00"
+      "last_seen_at": "2026-08-13T10:11:16.773289+00:00"
     },
     "https://www.scmp.com/tech/big-tech/article/3363713/why-does-sk-hynix-want-sell-its-chip-facility-southwest-china": {
       "title": "Why does SK Hynix want to sell its chip facility in southwest China?",
@@ -3016,7 +3016,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-12T10:10:22.201006+00:00",
-      "last_seen_at": "2026-08-12T23:46:44.244710+00:00"
+      "last_seen_at": "2026-08-13T10:11:16.773289+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-plans-india-plant-expansion-as-sales-surge-aims-410000-units-by-2030/articleshow/133187811.cms": {
       "title": "Kia plans India plant expansion as sales surge; aims 410,000 units by 2030",
@@ -3027,7 +3027,40 @@
         "Kia"
       ],
       "first_seen_at": "2026-08-12T23:46:44.244710+00:00",
-      "last_seen_at": "2026-08-12T23:46:44.244710+00:00"
+      "last_seen_at": "2026-08-13T10:11:16.773289+00:00"
+    },
+    "https://www.thehindubusinessline.com/markets/q1-results-today-live-updates-solar-ind-tmpv-lg-electronics-max-healthcare-gic-godrej-ind-jubilant-foodworks-amber-enterprises-brigade-jsw-cement-honasa-consumer-tmcv-hal-results-13-august-2026/article71335955.ece": {
+      "title": "Q1 Results Today Live: Max Health PAT flat, Solar Ind, IPCA Lab, TVS Srichakra, V2 Retail, Honasa Consumer, Minda Corp PAT up, Godrej Industries con. PAT declines, TMPV, LG Electronics, Amber Enterprises, Brigade, JSW Cement to announce Q1 results",
+      "link": "https://www.thehindubusinessline.com/markets/q1-results-today-live-updates-solar-ind-tmpv-lg-electronics-max-healthcare-gic-godrej-ind-jubilant-foodworks-amber-enterprises-brigade-jsw-cement-honasa-consumer-tmcv-hal-results-13-august-2026/article71335955.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "LG Electronics"
+      ],
+      "first_seen_at": "2026-08-13T10:11:16.773289+00:00",
+      "last_seen_at": "2026-08-13T10:11:16.773289+00:00"
+    },
+    "https://www.cnbc.com/2026/08/13/inside-sk-hynixs-720-billion-bet-to-build-enough-memory-for-ai.html": {
+      "title": "An inside look at SK Hynix $720 billion AI-fueled buildout that's taking over South Korea",
+      "link": "https://www.cnbc.com/2026/08/13/inside-sk-hynixs-720-billion-bet-to-build-enough-memory-for-ai.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-08-13T10:11:16.773289+00:00",
+      "last_seen_at": "2026-08-13T10:11:16.773289+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/tech-bytes/mirae-asset-venture-raises-rs-1125-crore-in-first-close-of-new-india-dedicated-fund/articleshow/133197850.cms": {
+      "title": "Mirae Asset Venture raises Rs 1,125 crore in first close of new India-dedicated fund",
+      "link": "https://economictimes.indiatimes.com/tech/tech-bytes/mirae-asset-venture-raises-rs-1125-crore-in-first-close-of-new-india-dedicated-fund/articleshow/133197850.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Mirae Asset"
+      ],
+      "first_seen_at": "2026-08-13T10:11:16.773289+00:00",
+      "last_seen_at": "2026-08-13T10:11:16.773289+00:00"
     }
   }
 }
