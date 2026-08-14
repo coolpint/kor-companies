@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-13T23:45:55.493511+00:00",
+  "last_run_at": "2026-08-14T10:07:04.952394+00:00",
   "seen_articles": {
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/korea-taps-samsung-sk-hynix-in-576-billion-ai-chip-drive-to-cement-global-leadership/articleshow/132070207.cms": {
       "title": "Korea taps Samsung, SK Hynix in $576 billion AI-chip drive to cement global leadership",
@@ -24,17 +24,6 @@
       ],
       "first_seen_at": "2026-06-29T13:09:50.803418+00:00",
       "last_seen_at": "2026-07-01T00:11:06.767590+00:00"
-    },
-    "https://www.ft.com/content/86013b7e-41da-445a-981c-075a701dccf6": {
-      "title": "Samsung and SK Hynix plan $600bn chipmaking expansion",
-      "link": "https://www.ft.com/content/86013b7e-41da-445a-981c-075a701dccf6",
-      "source_name": "Financial Times Companies",
-      "country_code": "GB",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-06-29T13:09:50.803418+00:00",
-      "last_seen_at": "2026-06-30T00:09:16.243066+00:00"
     },
     "https://www.cnbc.com/2026/06/29/samsung-sk-hynix-reported-1point3-reported-trillion-spending-plans.html": {
       "title": "South Korea says Samsung and SK Hynix investing in AI, semiconductor mega-projects",
@@ -3026,7 +3015,7 @@
         "LG Electronics"
       ],
       "first_seen_at": "2026-08-13T10:11:16.773289+00:00",
-      "last_seen_at": "2026-08-13T23:45:55.493511+00:00"
+      "last_seen_at": "2026-08-14T10:07:04.952394+00:00"
     },
     "https://www.cnbc.com/2026/08/13/inside-sk-hynixs-720-billion-bet-to-build-enough-memory-for-ai.html": {
       "title": "An inside look at SK Hynix $720 billion AI-fueled buildout that's taking over South Korea",
@@ -3037,7 +3026,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-13T10:11:16.773289+00:00",
-      "last_seen_at": "2026-08-13T23:45:55.493511+00:00"
+      "last_seen_at": "2026-08-14T10:07:04.952394+00:00"
     },
     "https://economictimes.indiatimes.com/tech/tech-bytes/mirae-asset-venture-raises-rs-1125-crore-in-first-close-of-new-india-dedicated-fund/articleshow/133197850.cms": {
       "title": "Mirae Asset Venture raises Rs 1,125 crore in first close of new India-dedicated fund",
@@ -3048,7 +3037,7 @@
         "Mirae Asset"
       ],
       "first_seen_at": "2026-08-13T10:11:16.773289+00:00",
-      "last_seen_at": "2026-08-13T23:45:55.493511+00:00"
+      "last_seen_at": "2026-08-14T10:07:04.952394+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/sk-hynixs-korean-workers-launch-unified-union-amid-stalled-wage-talks/articleshow/133218028.cms": {
       "title": "SK Hynix's Korean workers launch unified union amid stalled wage talks",
@@ -3059,7 +3048,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-13T23:45:55.493511+00:00",
-      "last_seen_at": "2026-08-13T23:45:55.493511+00:00"
+      "last_seen_at": "2026-08-14T10:07:04.952394+00:00"
     },
     "https://www.thehindubusinessline.com/markets/mirae-asset-venture-closes-mavof-ii-at-1125-cr/article71341392.ece": {
       "title": "Mirae Asset Venture closes MAVOF II at ₹1,125 cr",
@@ -3070,7 +3059,7 @@
         "Mirae Asset"
       ],
       "first_seen_at": "2026-08-13T23:45:55.493511+00:00",
-      "last_seen_at": "2026-08-13T23:45:55.493511+00:00"
+      "last_seen_at": "2026-08-14T10:07:04.952394+00:00"
     },
     "https://economictimes.indiatimes.com/industry/cons-products/durables/lg-electronics-india-sees-bigger-screens-premium-appliances-powering-fy27-growth/articleshow/133212700.cms": {
       "title": "LG Electronics India sees bigger screens, premium appliances powering FY27 growth",
@@ -3081,7 +3070,7 @@
         "LG Electronics"
       ],
       "first_seen_at": "2026-08-13T23:45:55.493511+00:00",
-      "last_seen_at": "2026-08-13T23:45:55.493511+00:00"
+      "last_seen_at": "2026-08-14T10:07:04.952394+00:00"
     },
     "https://economictimes.indiatimes.com/industry/cons-products/electronics/samsung-to-manufacture-ai-data-center-hvac-products-in-india-expanding-to-asia-pacific/articleshow/133211649.cms": {
       "title": "Samsung to manufacture AI data center HVAC products in India, expanding to Asia-Pacific",
@@ -3092,7 +3081,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-08-13T23:45:55.493511+00:00",
-      "last_seen_at": "2026-08-13T23:45:55.493511+00:00"
+      "last_seen_at": "2026-08-14T10:07:04.952394+00:00"
     },
     "https://www.channelnewsasia.com/business/sk-hynixs-korean-workers-launch-unified-union-amid-stalled-wage-talks-6317496": {
       "title": "SK Hynix's Korean workers launch unified union amid stalled wage talks",
@@ -3104,6 +3093,28 @@
       ],
       "first_seen_at": "2026-08-13T23:45:55.493511+00:00",
       "last_seen_at": "2026-08-13T23:45:55.493511+00:00"
+    },
+    "https://www.thehindubusinessline.com/markets/lg-electronics-india-stock-surges-8-on-strong-q1-earnings-beat-nears-52-week-high/article71344411.ece": {
+      "title": "LG Electronics India stock surges 8% on strong Q1 earnings beat, nears 52-week high",
+      "link": "https://www.thehindubusinessline.com/markets/lg-electronics-india-stock-surges-8-on-strong-q1-earnings-beat-nears-52-week-high/article71344411.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "LG Electronics"
+      ],
+      "first_seen_at": "2026-08-14T10:07:04.952394+00:00",
+      "last_seen_at": "2026-08-14T10:07:04.952394+00:00"
+    },
+    "https://www.bangkokpost.com/business/general/3301322/lg-bets-on-hot-weather-to-drive-growth": {
+      "title": "LG bets on hot weather to drive growth",
+      "link": "https://www.bangkokpost.com/business/general/3301322/lg-bets-on-hot-weather-to-drive-growth",
+      "source_name": "Bangkok Post Business",
+      "country_code": "TH",
+      "companies": [
+        "LG Electronics"
+      ],
+      "first_seen_at": "2026-08-14T10:07:04.952394+00:00",
+      "last_seen_at": "2026-08-14T10:07:04.952394+00:00"
     }
   }
 }
