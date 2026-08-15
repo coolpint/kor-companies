@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-14T23:25:25.124476+00:00",
+  "last_run_at": "2026-08-15T09:29:10.324904+00:00",
   "seen_articles": {
-    "https://asia.nikkei.com/business/tech/semiconductors/south-korea-announces-520bn-chip-plant-project-with-samsung-sk-hynix": {
-      "title": "South Korea announces $520bn chip plant project with Samsung, SK Hynix",
-      "link": "https://asia.nikkei.com/business/tech/semiconductors/south-korea-announces-520bn-chip-plant-project-with-samsung-sk-hynix",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-06-29T13:09:50.803418+00:00",
-      "last_seen_at": "2026-07-01T00:11:06.767590+00:00"
-    },
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/worlds-three-largest-memory-chipmakers-sued-in-us-over-dram-supply-shift-to-ai-memory/articleshow/132089551.cms": {
       "title": "World's three largest memory chipmakers sued in US over DRAM supply shift to AI memory",
       "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/worlds-three-largest-memory-chipmakers-sued-in-us-over-dram-supply-shift-to-ai-memory/articleshow/132089551.cms",
@@ -23,18 +12,6 @@
       ],
       "first_seen_at": "2026-06-30T11:46:47.442285+00:00",
       "last_seen_at": "2026-07-01T12:11:00.187884+00:00"
-    },
-    "https://www.lemonde.fr/economie/article/2026/06/30/en-coree-du-sud-samsung-electronics-et-sk-hynix-sont-les-mbappe-et-dembele-des-puces-memoire_6717242_3234.html": {
-      "title": "En Corée du Sud, « Samsung Electronics et SK Hynix sont les Mbappé et Dembélé des puces mémoire »",
-      "link": "https://www.lemonde.fr/economie/article/2026/06/30/en-coree-du-sud-samsung-electronics-et-sk-hynix-sont-les-mbappe-et-dembele-des-puces-memoire_6717242_3234.html",
-      "source_name": "Le Monde Economie",
-      "country_code": "FR",
-      "companies": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-06-30T11:46:47.442285+00:00",
-      "last_seen_at": "2026-07-01T00:11:06.767590+00:00"
     },
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-sk-hynix-mega-south-korea-chips-gamble-tests-optimism-of-ai-cycle/articleshow/132088795.cms": {
       "title": "Samsung, SK Hynix mega South Korea chips gamble tests optimism of AI cycle",
@@ -3057,7 +3034,7 @@
         "LG Electronics"
       ],
       "first_seen_at": "2026-08-14T10:07:04.952394+00:00",
-      "last_seen_at": "2026-08-14T23:25:25.124476+00:00"
+      "last_seen_at": "2026-08-15T09:29:10.324904+00:00"
     }
   }
 }
