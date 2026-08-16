@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-15T23:23:50.249214+00:00",
+  "last_run_at": "2026-08-16T09:30:29.957676+00:00",
   "seen_articles": {
-    "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-india-sales-up-19-at-24552-units-in-june/articleshow/132113955.cms": {
-      "title": "Kia India sales up 19% at 24,552 units in June",
-      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-india-sales-up-19-at-24552-units-in-june/articleshow/132113955.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-07-01T12:11:00.187884+00:00",
-      "last_seen_at": "2026-07-02T00:12:36.030709+00:00"
-    },
     "https://www.thehindubusinessline.com/economy/vehicle-makers-maintain-positive-momentum-in-june-dispatches/article71169331.ece": {
       "title": "Vehicle makers maintain positive momentum in June dispatches",
       "link": "https://www.thehindubusinessline.com/economy/vehicle-makers-maintain-positive-momentum-in-june-dispatches/article71169331.ece",
@@ -100,17 +89,6 @@
       ],
       "first_seen_at": "2026-07-02T00:12:36.030709+00:00",
       "last_seen_at": "2026-07-03T00:10:13.424967+00:00"
-    },
-    "https://www.scmp.com/week-asia/economics/article/3359068/reliance-jios-ipo-set-intensify-focus-indias-telco-sector-amid-duopoly-fears": {
-      "title": "Reliance Jio’s IPO set to intensify focus on India’s telco sector amid duopoly fears",
-      "link": "https://www.scmp.com/week-asia/economics/article/3359068/reliance-jios-ipo-set-intensify-focus-indias-telco-sector-amid-duopoly-fears",
-      "source_name": "South China Morning Post World",
-      "country_code": "HK",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-07-02T00:12:36.030709+00:00",
-      "last_seen_at": "2026-07-02T00:12:36.030709+00:00"
     },
     "https://abcnews.com/Business/wireStory/south-korea-disputes-us-congressional-report-claiming-discrimination-134402188": {
       "title": "South Korea disputes US congressional report claiming discrimination against Seattle-based Coupang",
@@ -2989,7 +2967,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-08-15T23:23:50.249214+00:00",
-      "last_seen_at": "2026-08-15T23:23:50.249214+00:00"
+      "last_seen_at": "2026-08-16T09:30:29.957676+00:00"
     }
   }
 }
