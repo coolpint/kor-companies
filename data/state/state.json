@@ -1,41 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-17T09:46:43.310113+00:00",
+  "last_run_at": "2026-08-17T23:25:55.351039+00:00",
   "seen_articles": {
-    "https://abcnews.com/Business/wireStory/south-korea-disputes-us-congressional-report-claiming-discrimination-134402188": {
-      "title": "South Korea disputes US congressional report claiming discrimination against Seattle-based Coupang",
-      "link": "https://abcnews.com/Business/wireStory/south-korea-disputes-us-congressional-report-claiming-discrimination-134402188",
-      "source_name": "ABC News Business",
-      "country_code": "US",
-      "companies": [
-        "Coupang"
-      ],
-      "first_seen_at": "2026-07-02T11:37:03.168423+00:00",
-      "last_seen_at": "2026-07-03T11:35:43.350818+00:00"
-    },
-    "https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html": {
-      "title": "Samsung Electronics, SK Hynix shares tumble over 9% as chip rout spreads from Wall Street",
-      "link": "https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html",
-      "source_name": "CNBC Technology",
-      "country_code": "US",
-      "companies": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-02T11:37:03.168423+00:00",
-      "last_seen_at": "2026-07-03T11:35:43.350818+00:00"
-    },
-    "https://www.straitstimes.com/business/us-house-committee-says-south-korea-discriminated-against-coupang": {
-      "title": "US House committee says South Korea discriminated against Coupang",
-      "link": "https://www.straitstimes.com/business/us-house-committee-says-south-korea-discriminated-against-coupang",
-      "source_name": "The Straits Times",
-      "country_code": "SG",
-      "companies": [
-        "Coupang"
-      ],
-      "first_seen_at": "2026-07-02T11:37:03.168423+00:00",
-      "last_seen_at": "2026-07-03T11:35:43.350818+00:00"
-    },
     "https://www.straitstimes.com/business/s-korea-presidential-office-rejects-coupang-us-claims-of-discriminatory-treatment": {
       "title": "South Korea presidential office rejects Coupang and US claims of discriminatory treatment",
       "link": "https://www.straitstimes.com/business/s-korea-presidential-office-rejects-coupang-us-claims-of-discriminatory-treatment",
