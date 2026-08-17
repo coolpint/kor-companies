@@ -1,40 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-16T23:23:32.072959+00:00",
+  "last_run_at": "2026-08-17T09:46:43.310113+00:00",
   "seen_articles": {
-    "https://www.thehindubusinessline.com/economy/vehicle-makers-maintain-positive-momentum-in-june-dispatches/article71169331.ece": {
-      "title": "Vehicle makers maintain positive momentum in June dispatches",
-      "link": "https://www.thehindubusinessline.com/economy/vehicle-makers-maintain-positive-momentum-in-june-dispatches/article71169331.ece",
-      "source_name": "BusinessLine Economy",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-07-01T12:11:00.187884+00:00",
-      "last_seen_at": "2026-07-03T00:10:13.424967+00:00"
-    },
-    "https://www.bbc.co.uk/news/articles/cp8r1798kp7o": {
-      "title": "Don't expect connected car apps to save your stolen car, experts say",
-      "link": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o",
-      "source_name": "BBC Business",
-      "country_code": "GB",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-07-02T00:12:36.030709+00:00",
-      "last_seen_at": "2026-07-03T00:10:13.424967+00:00"
-    },
-    "https://www.theguardian.com/games/2026/jul/01/pushing-buttons-ai-datacentres-memory-console-prices-sony-playstation-xbox": {
-      "title": "No console-flation: how the thirst for AI chips is sending games console prices soaring",
-      "link": "https://www.theguardian.com/games/2026/jul/01/pushing-buttons-ai-datacentres-memory-console-prices-sony-playstation-xbox",
-      "source_name": "The Guardian Technology",
-      "country_code": "GB",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-02T00:12:36.030709+00:00",
-      "last_seen_at": "2026-07-03T00:10:13.424967+00:00"
-    },
     "https://abcnews.com/Business/wireStory/south-korea-disputes-us-congressional-report-claiming-discrimination-134402188": {
       "title": "South Korea disputes US congressional report claiming discrimination against Seattle-based Coupang",
       "link": "https://abcnews.com/Business/wireStory/south-korea-disputes-us-congressional-report-claiming-discrimination-134402188",
@@ -58,17 +25,6 @@
       "first_seen_at": "2026-07-02T11:37:03.168423+00:00",
       "last_seen_at": "2026-07-03T11:35:43.350818+00:00"
     },
-    "https://economictimes.indiatimes.com/tech/technology/seoul-stocks-plunge-8-as-samsung-sk-hynix-shares-tumble/articleshow/132131600.cms": {
-      "title": "Seoul stocks plunge 8% as Samsung, SK hynix shares tumble",
-      "link": "https://economictimes.indiatimes.com/tech/technology/seoul-stocks-plunge-8-as-samsung-sk-hynix-shares-tumble/articleshow/132131600.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-02T11:37:03.168423+00:00",
-      "last_seen_at": "2026-07-03T00:10:13.424967+00:00"
-    },
     "https://www.straitstimes.com/business/us-house-committee-says-south-korea-discriminated-against-coupang": {
       "title": "US House committee says South Korea discriminated against Coupang",
       "link": "https://www.straitstimes.com/business/us-house-committee-says-south-korea-discriminated-against-coupang",
@@ -79,17 +35,6 @@
       ],
       "first_seen_at": "2026-07-02T11:37:03.168423+00:00",
       "last_seen_at": "2026-07-03T11:35:43.350818+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/sk-hynix-to-spend-64-billion-on-chip-plants-under-broader-ai-driven-investment-plan/articleshow/132129070.cms": {
-      "title": "SK Hynix to spend $64 billion on chip plants under broader AI-driven investment plan",
-      "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-to-spend-64-billion-on-chip-plants-under-broader-ai-driven-investment-plan/articleshow/132129070.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-02T11:37:03.168423+00:00",
-      "last_seen_at": "2026-07-03T00:10:13.424967+00:00"
     },
     "https://www.straitstimes.com/business/s-korea-presidential-office-rejects-coupang-us-claims-of-discriminatory-treatment": {
       "title": "South Korea presidential office rejects Coupang and US claims of discriminatory treatment",
