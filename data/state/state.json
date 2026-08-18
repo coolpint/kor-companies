@@ -1,30 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-18T09:37:10.183558+00:00",
+  "last_run_at": "2026-08-18T23:25:52.340014+00:00",
   "seen_articles": {
-    "https://www.straitstimes.com/business/s-korea-presidential-office-rejects-coupang-us-claims-of-discriminatory-treatment": {
-      "title": "South Korea presidential office rejects Coupang and US claims of discriminatory treatment",
-      "link": "https://www.straitstimes.com/business/s-korea-presidential-office-rejects-coupang-us-claims-of-discriminatory-treatment",
-      "source_name": "The Straits Times",
-      "country_code": "SG",
-      "companies": [
-        "Coupang"
-      ],
-      "first_seen_at": "2026-07-03T11:35:43.350818+00:00",
-      "last_seen_at": "2026-07-04T10:56:14.229200+00:00"
-    },
-    "https://www.theguardian.com/world/ng-interactive/2026/jul/03/south-korea-wealth-divide-ai-chip-boom": {
-      "title": "3,000% bonuses but a growing wealth divide: South Korea grapples with its AI chip boom",
-      "link": "https://www.theguardian.com/world/ng-interactive/2026/jul/03/south-korea-wealth-divide-ai-chip-boom",
-      "source_name": "The Guardian Technology",
-      "country_code": "GB",
-      "companies": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-03T11:35:43.350818+00:00",
-      "last_seen_at": "2026-07-04T10:56:14.229200+00:00"
-    },
     "https://www.channelnewsasia.com/business/sk-hynix-considering-05-fee-payout-in-adr-offering-bloomberg-news-reports-6231816": {
       "title": "SK Hynix considering 0.5% fee payout in ADR offering, Bloomberg News reports",
       "link": "https://www.channelnewsasia.com/business/sk-hynix-considering-05-fee-payout-in-adr-offering-bloomberg-news-reports-6231816",
@@ -2802,6 +2779,17 @@
       ],
       "first_seen_at": "2026-08-15T23:23:50.249214+00:00",
       "last_seen_at": "2026-08-16T09:30:29.957676+00:00"
+    },
+    "https://asia.nikkei.com/business/technology/lg-energy-solution-opens-us-battery-hub-serving-toyota-and-tesla": {
+      "title": "LG Energy Solution opens US battery hub serving Toyota and Tesla",
+      "link": "https://asia.nikkei.com/business/technology/lg-energy-solution-opens-us-battery-hub-serving-toyota-and-tesla",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "companies": [
+        "LG Energy Solution"
+      ],
+      "first_seen_at": "2026-08-18T23:25:52.340014+00:00",
+      "last_seen_at": "2026-08-18T23:25:52.340014+00:00"
     }
   }
 }
