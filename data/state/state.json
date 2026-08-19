@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-19T09:37:41.183560+00:00",
+  "last_run_at": "2026-08-19T23:26:02.011755+00:00",
   "seen_articles": {
-    "https://www.channelnewsasia.com/business/sk-hynix-considering-05-fee-payout-in-adr-offering-bloomberg-news-reports-6231816": {
-      "title": "SK Hynix considering 0.5% fee payout in ADR offering, Bloomberg News reports",
-      "link": "https://www.channelnewsasia.com/business/sk-hynix-considering-05-fee-payout-in-adr-offering-bloomberg-news-reports-6231816",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-04T10:56:14.229200+00:00",
-      "last_seen_at": "2026-07-05T11:06:32.809614+00:00"
-    },
     "https://www.scmp.com/opinion/china-opinion/article/3359052/china-shock-30-coming-and-itll-be-ai-powered-robots": {
       "title": "‘China shock 3.0’ is coming. And it’ll be AI-powered robots",
       "link": "https://www.scmp.com/opinion/china-opinion/article/3359052/china-shock-30-coming-and-itll-be-ai-powered-robots",
@@ -2789,7 +2778,7 @@
         "LG Energy Solution"
       ],
       "first_seen_at": "2026-08-18T23:25:52.340014+00:00",
-      "last_seen_at": "2026-08-19T09:37:41.183560+00:00"
+      "last_seen_at": "2026-08-19T23:26:02.011755+00:00"
     },
     "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-announces-28.6bn-buyback-plan-to-boost-stock-price": {
       "title": "SK Hynix announces $28.6bn buyback plan to boost stock price",
@@ -2800,7 +2789,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-19T09:37:41.183560+00:00",
-      "last_seen_at": "2026-08-19T09:37:41.183560+00:00"
+      "last_seen_at": "2026-08-19T23:26:02.011755+00:00"
     },
     "https://www.channelnewsasia.com/east-asia/south-koreas-sk-hynix-unveils-record-us289-billion-share-buyback-6328106": {
       "title": "South Korea's SK hynix unveils record US$28.9 billion share buyback",
@@ -2823,6 +2812,72 @@
       ],
       "first_seen_at": "2026-08-19T09:37:41.183560+00:00",
       "last_seen_at": "2026-08-19T09:37:41.183560+00:00"
+    },
+    "https://asia.nikkei.com/business/technology/artificial-intelligence/hyundai-bets-on-physical-ai-to-evolve-beyond-automobiles": {
+      "title": "Hyundai bets on physical AI to evolve beyond automobiles",
+      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/hyundai-bets-on-physical-ai-to-evolve-beyond-automobiles",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-08-19T23:26:02.011755+00:00",
+      "last_seen_at": "2026-08-19T23:26:02.011755+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-to-hike-vehicle-prices-by-up-to-1-from-september/articleshow/133351556.cms": {
+      "title": "Hyundai to hike vehicle prices by up to 1% from September",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-to-hike-vehicle-prices-by-up-to-1-from-september/articleshow/133351556.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-08-19T23:26:02.011755+00:00",
+      "last_seen_at": "2026-08-19T23:26:02.011755+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/hyundai-motor-india-to-raise-car-prices-by-up-to-1-from-september/article71364710.ece": {
+      "title": "Hyundai Motor India to raise car prices by up to 1% from September",
+      "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-to-raise-car-prices-by-up-to-1-from-september/article71364710.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-08-19T23:26:02.011755+00:00",
+      "last_seen_at": "2026-08-19T23:26:02.011755+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-cars-to-get-costlier-from-september-as-automaker-hikes-prices-by-up-to-1/articleshow/133346640.cms": {
+      "title": "Hyundai cars to get costlier from September as automaker hikes prices by up to 1%",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-cars-to-get-costlier-from-september-as-automaker-hikes-prices-by-up-to-1/articleshow/133346640.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-08-19T23:26:02.011755+00:00",
+      "last_seen_at": "2026-08-19T23:26:02.011755+00:00"
+    },
+    "https://www.channelnewsasia.com/business/hyundai-motor-india-raise-car-prices-up-1-september-6328671": {
+      "title": "Hyundai Motor India to raise car prices by up to 1% from September",
+      "link": "https://www.channelnewsasia.com/business/hyundai-motor-india-raise-car-prices-up-1-september-6328671",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-08-19T23:26:02.011755+00:00",
+      "last_seen_at": "2026-08-19T23:26:02.011755+00:00"
+    },
+    "https://www.lemonde.fr/economie/article/2026/08/19/sk-hynix-geant-sud-coreen-des-puces-memoire-annonce-des-rachats-d-actions-pour-une-valeur-de-24-9-milliards-d-euros_6749855_3234.html": {
+      "title": "SK Hynix, géant sud-coréen des puces mémoire, annonce des rachats d’actions pour une valeur de 24,9 milliards d’euros",
+      "link": "https://www.lemonde.fr/economie/article/2026/08/19/sk-hynix-geant-sud-coreen-des-puces-memoire-annonce-des-rachats-d-actions-pour-une-valeur-de-24-9-milliards-d-euros_6749855_3234.html",
+      "source_name": "Le Monde Economie",
+      "country_code": "FR",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-08-19T23:26:02.011755+00:00",
+      "last_seen_at": "2026-08-19T23:26:02.011755+00:00"
     }
   }
 }
