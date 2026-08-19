@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-18T23:25:52.340014+00:00",
+  "last_run_at": "2026-08-19T09:37:41.183560+00:00",
   "seen_articles": {
     "https://www.channelnewsasia.com/business/sk-hynix-considering-05-fee-payout-in-adr-offering-bloomberg-news-reports-6231816": {
       "title": "SK Hynix considering 0.5% fee payout in ADR offering, Bloomberg News reports",
@@ -2789,7 +2789,40 @@
         "LG Energy Solution"
       ],
       "first_seen_at": "2026-08-18T23:25:52.340014+00:00",
-      "last_seen_at": "2026-08-18T23:25:52.340014+00:00"
+      "last_seen_at": "2026-08-19T09:37:41.183560+00:00"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-announces-28.6bn-buyback-plan-to-boost-stock-price": {
+      "title": "SK Hynix announces $28.6bn buyback plan to boost stock price",
+      "link": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-announces-28.6bn-buyback-plan-to-boost-stock-price",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-08-19T09:37:41.183560+00:00",
+      "last_seen_at": "2026-08-19T09:37:41.183560+00:00"
+    },
+    "https://www.channelnewsasia.com/east-asia/south-koreas-sk-hynix-unveils-record-us289-billion-share-buyback-6328106": {
+      "title": "South Korea's SK hynix unveils record US$28.9 billion share buyback",
+      "link": "https://www.channelnewsasia.com/east-asia/south-koreas-sk-hynix-unveils-record-us289-billion-share-buyback-6328106",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-08-19T09:37:41.183560+00:00",
+      "last_seen_at": "2026-08-19T09:37:41.183560+00:00"
+    },
+    "https://www.channelnewsasia.com/business/sk-hynix-union-finalising-preliminary-wage-deal-source-says-6327256": {
+      "title": "SK Hynix union finalising preliminary wage deal, source says",
+      "link": "https://www.channelnewsasia.com/business/sk-hynix-union-finalising-preliminary-wage-deal-source-says-6327256",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-08-19T09:37:41.183560+00:00",
+      "last_seen_at": "2026-08-19T09:37:41.183560+00:00"
     }
   }
 }
