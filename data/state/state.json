@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-19T23:26:02.011755+00:00",
+  "last_run_at": "2026-08-20T09:38:06.139652+00:00",
   "seen_articles": {
-    "https://www.scmp.com/opinion/china-opinion/article/3359052/china-shock-30-coming-and-itll-be-ai-powered-robots": {
-      "title": "‘China shock 3.0’ is coming. And it’ll be AI-powered robots",
-      "link": "https://www.scmp.com/opinion/china-opinion/article/3359052/china-shock-30-coming-and-itll-be-ai-powered-robots",
-      "source_name": "South China Morning Post World",
-      "country_code": "HK",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-07-05T11:06:32.809614+00:00",
-      "last_seen_at": "2026-07-06T00:10:37.511811+00:00"
-    },
     "https://www.taipeitimes.com/News/biz/archives/2026/07/06/2003860279": {
       "title": "SK Hynix mulls 0.5 percent fee payout in mega-offering",
       "link": "https://www.taipeitimes.com/News/biz/archives/2026/07/06/2003860279",
@@ -2778,7 +2767,7 @@
         "LG Energy Solution"
       ],
       "first_seen_at": "2026-08-18T23:25:52.340014+00:00",
-      "last_seen_at": "2026-08-19T23:26:02.011755+00:00"
+      "last_seen_at": "2026-08-20T09:38:06.139652+00:00"
     },
     "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-announces-28.6bn-buyback-plan-to-boost-stock-price": {
       "title": "SK Hynix announces $28.6bn buyback plan to boost stock price",
@@ -2789,7 +2778,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-19T09:37:41.183560+00:00",
-      "last_seen_at": "2026-08-19T23:26:02.011755+00:00"
+      "last_seen_at": "2026-08-20T09:38:06.139652+00:00"
     },
     "https://www.channelnewsasia.com/east-asia/south-koreas-sk-hynix-unveils-record-us289-billion-share-buyback-6328106": {
       "title": "South Korea's SK hynix unveils record US$28.9 billion share buyback",
@@ -2822,7 +2811,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-08-19T23:26:02.011755+00:00",
-      "last_seen_at": "2026-08-19T23:26:02.011755+00:00"
+      "last_seen_at": "2026-08-20T09:38:06.139652+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-to-hike-vehicle-prices-by-up-to-1-from-september/articleshow/133351556.cms": {
       "title": "Hyundai to hike vehicle prices by up to 1% from September",
@@ -2844,7 +2833,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-08-19T23:26:02.011755+00:00",
-      "last_seen_at": "2026-08-19T23:26:02.011755+00:00"
+      "last_seen_at": "2026-08-20T09:38:06.139652+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-cars-to-get-costlier-from-september-as-automaker-hikes-prices-by-up-to-1/articleshow/133346640.cms": {
       "title": "Hyundai cars to get costlier from September as automaker hikes prices by up to 1%",
@@ -2877,7 +2866,96 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-19T23:26:02.011755+00:00",
-      "last_seen_at": "2026-08-19T23:26:02.011755+00:00"
+      "last_seen_at": "2026-08-20T09:38:06.139652+00:00"
+    },
+    "https://www.straitstimes.com/business/companies-markets/samsung-sk-hynix-prep-record-shareholder-returns-in-ai-boom": {
+      "title": "Samsung, SK Hynix prep record shareholder returns in AI boom",
+      "link": "https://www.straitstimes.com/business/companies-markets/samsung-sk-hynix-prep-record-shareholder-returns-in-ai-boom",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-08-20T09:38:06.139652+00:00",
+      "last_seen_at": "2026-08-20T09:38:06.139652+00:00"
+    },
+    "https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology": {
+      "title": "LG’s new OLED breakthrough can boost display lifespans",
+      "link": "https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology",
+      "source_name": "The Verge",
+      "country_code": "US",
+      "companies": [
+        "LG Display"
+      ],
+      "first_seen_at": "2026-08-20T09:38:06.139652+00:00",
+      "last_seen_at": "2026-08-20T09:38:06.139652+00:00"
+    },
+    "https://www.straitstimes.com/business/sk-hynix-to-pay-60-of-employee-bonuses-in-company-stock-under-preliminary-deal-says-source": {
+      "title": "SK Hynix workers to get 60% of 2026 bonuses in stock instead of all cash",
+      "link": "https://www.straitstimes.com/business/sk-hynix-to-pay-60-of-employee-bonuses-in-company-stock-under-preliminary-deal-says-source",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-08-20T09:38:06.139652+00:00",
+      "last_seen_at": "2026-08-20T09:38:06.139652+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/samsung-electronics-to-announce-more-than-72-billion-shareholder-return-programme/article71367804.ece": {
+      "title": "Samsung Electronics to announce more than $72 billion shareholder return programme",
+      "link": "https://www.thehindubusinessline.com/companies/samsung-electronics-to-announce-more-than-72-billion-shareholder-return-programme/article71367804.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Samsung Electronics",
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-08-20T09:38:06.139652+00:00",
+      "last_seen_at": "2026-08-20T09:38:06.139652+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/sk-hynix-to-pay-60-of-employee-bonuses-in-company-stock-under-preliminary-deal/articleshow/133365805.cms": {
+      "title": "SK Hynix to pay 60% of employee bonuses in company stock under preliminary deal",
+      "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-to-pay-60-of-employee-bonuses-in-company-stock-under-preliminary-deal/articleshow/133365805.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-08-20T09:38:06.139652+00:00",
+      "last_seen_at": "2026-08-20T09:38:06.139652+00:00"
+    },
+    "https://www.channelnewsasia.com/business/sk-hynix-workers-get-60-years-bonuses-in-stock-rather-all-cash-6330426": {
+      "title": "SK Hynix workers to get 60% of this year's bonuses in stock rather than all cash",
+      "link": "https://www.channelnewsasia.com/business/sk-hynix-workers-get-60-years-bonuses-in-stock-rather-all-cash-6330426",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-08-20T09:38:06.139652+00:00",
+      "last_seen_at": "2026-08-20T09:38:06.139652+00:00"
+    },
+    "https://www.cnbc.com/2026/08/20/sk-hynixs-south-korean-shares-surge-stock-buyback-.html": {
+      "title": "SK Hynix shares surge over 12% in Seoul after announcing massive stock buyback",
+      "link": "https://www.cnbc.com/2026/08/20/sk-hynixs-south-korean-shares-surge-stock-buyback-.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-08-20T09:38:06.139652+00:00",
+      "last_seen_at": "2026-08-20T09:38:06.139652+00:00"
+    },
+    "https://www.cnbc.com/2026/08/19/hyundai-luxury-genesis-ev.html": {
+      "title": "Hyundai's new flagship vehicle is a large luxury Genesis EV",
+      "link": "https://www.cnbc.com/2026/08/19/hyundai-luxury-genesis-ev.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-08-20T09:38:06.139652+00:00",
+      "last_seen_at": "2026-08-20T09:38:06.139652+00:00"
     }
   }
 }
