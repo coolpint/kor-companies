@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-21T09:40:25.018193+00:00",
+  "last_run_at": "2026-08-21T23:27:21.576094+00:00",
   "seen_articles": {
-    "https://www.straitstimes.com/business/companies-markets/chip-giant-sk-hynix-to-launch-36-billion-us-listing-to-ride-global-ai-wave": {
-      "title": "Chip giant SK Hynix launches $36 billion US listing to ride global AI wave",
-      "link": "https://www.straitstimes.com/business/companies-markets/chip-giant-sk-hynix-to-launch-36-billion-us-listing-to-ride-global-ai-wave",
-      "source_name": "The Straits Times",
-      "country_code": "SG",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-06T12:52:33.379964+00:00",
-      "last_seen_at": "2026-07-07T11:54:57.363119+00:00"
-    },
     "https://www.cnbc.com/2026/07/07/samsung-electronics-preliminary-second-quarter-profit-hits-fresh-high.html": {
       "title": "Samsung posts 1,800% jump in profit, but AI spending concerns spook investors",
       "link": "https://www.cnbc.com/2026/07/07/samsung-electronics-preliminary-second-quarter-profit-hits-fresh-high.html",
@@ -34,17 +23,6 @@
       ],
       "first_seen_at": "2026-07-07T11:54:57.363119+00:00",
       "last_seen_at": "2026-07-08T11:08:23.511759+00:00"
-    },
-    "https://www.marketwatch.com/story/tough-crowd-for-samsung-as-record-quarterly-earnings-brings-out-the-sellers-5e9979f2?mod=mw_rss_topstories": {
-      "title": "Tough crowd for Samsung as record quarterly earnings brings out the sellers",
-      "link": "https://www.marketwatch.com/story/tough-crowd-for-samsung-as-record-quarterly-earnings-brings-out-the-sellers-5e9979f2?mod=mw_rss_topstories",
-      "source_name": "MarketWatch Top Stories",
-      "country_code": "US",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-07-07T11:54:57.363119+00:00",
-      "last_seen_at": "2026-07-07T11:54:57.363119+00:00"
     },
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/synopsys-to-cut-chip-fab-manufacturing-control-software-in-shift-to-ai-design-sources-say/articleshow/132232334.cms": {
       "title": "Synopsys to cut chip fab manufacturing control software in shift to AI design",
@@ -79,50 +57,6 @@
       ],
       "first_seen_at": "2026-07-07T11:54:57.363119+00:00",
       "last_seen_at": "2026-07-08T00:01:06.056153+00:00"
-    },
-    "https://www.bangkokpost.com/business/general/3282305/samsung-expects-1800-operating-profit-leap-on-ai-boom": {
-      "title": "Samsung expects 1,800% operating profit leap on AI boom",
-      "link": "https://www.bangkokpost.com/business/general/3282305/samsung-expects-1800-operating-profit-leap-on-ai-boom",
-      "source_name": "Bangkok Post Business",
-      "country_code": "TH",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-07-07T11:54:57.363119+00:00",
-      "last_seen_at": "2026-07-07T11:54:57.363119+00:00"
-    },
-    "https://www.channelnewsasia.com/business/sk-hynix-bring-adr-funds-south-korea-around-july-15-source-says-6236921": {
-      "title": "SK Hynix to bring ADR funds to South Korea by around July 15, source says",
-      "link": "https://www.channelnewsasia.com/business/sk-hynix-bring-adr-funds-south-korea-around-july-15-source-says-6236921",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-07T11:54:57.363119+00:00",
-      "last_seen_at": "2026-07-07T11:54:57.363119+00:00"
-    },
-    "https://www.channelnewsasia.com/business/lg-energy-solution-forecasts-77-operating-profit-fall-in-q2-weak-ev-demand-6236646": {
-      "title": "LG Energy Solution forecasts 77% operating profit fall in Q2 on weak EV demand",
-      "link": "https://www.channelnewsasia.com/business/lg-energy-solution-forecasts-77-operating-profit-fall-in-q2-weak-ev-demand-6236646",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "LG Energy Solution"
-      ],
-      "first_seen_at": "2026-07-07T11:54:57.363119+00:00",
-      "last_seen_at": "2026-07-07T11:54:57.363119+00:00"
-    },
-    "https://www.channelnewsasia.com/business/samsung-record-quater-operating-porfit-ai-memory-chips-6236501": {
-      "title": "Samsung forecasts 19-fold jump in quarterly profit as AI demand fuels chip crunch",
-      "link": "https://www.channelnewsasia.com/business/samsung-record-quater-operating-porfit-ai-memory-chips-6236501",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-07-07T11:54:57.363119+00:00",
-      "last_seen_at": "2026-07-07T11:54:57.363119+00:00"
     },
     "https://www.straitstimes.com/business/companies-markets/samsung-to-get-jump-on-apples-first-foldable-with-new-phones-in-july": {
       "title": "Samsung to get jump on Apple’s first foldable with new phones in July",
@@ -2850,13 +2784,13 @@
     "https://www.cnbc.com/2026/08/20/hyundai-georgia-metaplant-us-production.html": {
       "title": "Hyundai considering U.S. production increase at new Georgia plant, CEO tells CNBC",
       "link": "https://www.cnbc.com/2026/08/20/hyundai-georgia-metaplant-us-production.html",
-      "source_name": "CNBC Top News",
+      "source_name": "CNBC World News",
       "country_code": "US",
       "companies": [
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-08-20T23:28:56.081772+00:00",
-      "last_seen_at": "2026-08-21T09:40:25.018193+00:00"
+      "last_seen_at": "2026-08-21T23:27:21.576094+00:00"
     },
     "https://www.foxbusiness.com/markets/hyundais-genesis-rolls-out-new-flagship-luxury-electric-suv": {
       "title": "Hyundai’s Genesis rolls out a new flagship luxury electric SUV",
@@ -2867,7 +2801,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-08-20T23:28:56.081772+00:00",
-      "last_seen_at": "2026-08-21T09:40:25.018193+00:00"
+      "last_seen_at": "2026-08-21T23:27:21.576094+00:00"
     },
     "https://www.theverge.com/transportation/982910/genesis-gv90-ev-suv-coach-door-heated-floor": {
       "title": "The Genesis GV90 blows the bloody doors off what’s possible in EV design",
@@ -2889,19 +2823,19 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-08-20T23:28:56.081772+00:00",
-      "last_seen_at": "2026-08-21T09:40:25.018193+00:00"
+      "last_seen_at": "2026-08-21T23:27:21.576094+00:00"
     },
     "https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html": {
       "title": "Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback",
       "link": "https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html",
-      "source_name": "CNBC Top News",
+      "source_name": "CNBC World News",
       "country_code": "US",
       "companies": [
         "Samsung Electronics",
         "SK hynix"
       ],
       "first_seen_at": "2026-08-21T09:40:25.018193+00:00",
-      "last_seen_at": "2026-08-21T09:40:25.018193+00:00"
+      "last_seen_at": "2026-08-21T23:27:21.576094+00:00"
     },
     "https://www.channelnewsasia.com/business/samsung-elec-sees-up-795-billion-available-2026-shareholder-returns-6333086": {
       "title": "Samsung Elec sees up to $79.5 billion available for 2026 shareholder returns",
@@ -2912,7 +2846,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-08-21T09:40:25.018193+00:00",
-      "last_seen_at": "2026-08-21T09:40:25.018193+00:00"
+      "last_seen_at": "2026-08-21T23:27:21.576094+00:00"
     },
     "https://www.channelnewsasia.com/business/samsung-sdi-says-sell-32-billion-worth-samsung-display-shares-back-display-maker-6332961": {
       "title": "Samsung SDI says to sell $3.2 billion worth of Samsung Display shares back to display maker",
@@ -2934,7 +2868,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-08-21T09:40:25.018193+00:00",
-      "last_seen_at": "2026-08-21T09:40:25.018193+00:00"
+      "last_seen_at": "2026-08-21T23:27:21.576094+00:00"
     },
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/kakao-to-spin-off-chat-app-based-platform-business-into-kakaoai-relist-in-2027/articleshow/133391438.cms": {
       "title": "Kakao to spin off chat app-based platform business into KakaoAI, relist in 2027",
@@ -2945,7 +2879,7 @@
         "Kakao"
       ],
       "first_seen_at": "2026-08-21T09:40:25.018193+00:00",
-      "last_seen_at": "2026-08-21T09:40:25.018193+00:00"
+      "last_seen_at": "2026-08-21T23:27:21.576094+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-to-convene-board-meeting-friday-to-discuss-shareholder-return-plan/articleshow/133391384.cms": {
       "title": "Samsung Electronics to convene board meeting Friday to discuss shareholder return plan",
@@ -2956,7 +2890,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-08-21T09:40:25.018193+00:00",
-      "last_seen_at": "2026-08-21T09:40:25.018193+00:00"
+      "last_seen_at": "2026-08-21T23:27:21.576094+00:00"
     },
     "https://www.channelnewsasia.com/business/samsung-electronics-expects-shareholder-returns-up-80-billion-year-6332536": {
       "title": "Samsung Electronics expects shareholder returns up to $80 billion this year",
@@ -2979,6 +2913,39 @@
       ],
       "first_seen_at": "2026-08-21T09:40:25.018193+00:00",
       "last_seen_at": "2026-08-21T09:40:25.018193+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/cons-products/electronics/lg-electronics-india-bets-on-exports-b2b-products-for-margin-boost/articleshow/133411736.cms": {
+      "title": "LG Electronics India bets on exports, B2B products for margin boost",
+      "link": "https://economictimes.indiatimes.com/industry/cons-products/electronics/lg-electronics-india-bets-on-exports-b2b-products-for-margin-boost/articleshow/133411736.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "LG Electronics"
+      ],
+      "first_seen_at": "2026-08-21T23:27:21.576094+00:00",
+      "last_seen_at": "2026-08-21T23:27:21.576094+00:00"
+    },
+    "https://www.lemonde.fr/economie/article/2026/08/21/samsung-premier-fabricant-mondial-de-puces-memoire-va-racheter-entre-55-8-et-68-2-milliards-d-euros-de-ses-actions_6752045_3234.html": {
+      "title": "Samsung, premier fabricant mondial de puces mémoire, va racheter entre 55,8 et 68,2 milliards d’euros de ses actions",
+      "link": "https://www.lemonde.fr/economie/article/2026/08/21/samsung-premier-fabricant-mondial-de-puces-memoire-va-racheter-entre-55-8-et-68-2-milliards-d-euros-de-ses-actions_6752045_3234.html",
+      "source_name": "Le Monde Economie",
+      "country_code": "FR",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-08-21T23:27:21.576094+00:00",
+      "last_seen_at": "2026-08-21T23:27:21.576094+00:00"
+    },
+    "https://www.straitstimes.com/business/asian-markets-extend-rally-as-traders-assess-us-treasuries-pledge": {
+      "title": "Asian markets extend rally as traders assess US Treasuries pledge",
+      "link": "https://www.straitstimes.com/business/asian-markets-extend-rally-as-traders-assess-us-treasuries-pledge",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-08-21T23:27:21.576094+00:00",
+      "last_seen_at": "2026-08-21T23:27:21.576094+00:00"
     }
   }
 }
