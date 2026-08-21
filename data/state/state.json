@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-20T23:28:56.081772+00:00",
+  "last_run_at": "2026-08-21T09:40:25.018193+00:00",
   "seen_articles": {
     "https://www.straitstimes.com/business/companies-markets/chip-giant-sk-hynix-to-launch-36-billion-us-listing-to-ride-global-ai-wave": {
       "title": "Chip giant SK Hynix launches $36 billion US listing to ride global AI wave",
@@ -12,72 +12,6 @@
       ],
       "first_seen_at": "2026-07-06T12:52:33.379964+00:00",
       "last_seen_at": "2026-07-07T11:54:57.363119+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/south-koreas-sk-hynix-to-launch-28-billion-us-listing-to-ride-global-ai-wave/articleshow/132205646.cms": {
-      "title": "South Korea's SK Hynix to launch $28 billion US listing to ride global AI wave",
-      "link": "https://economictimes.indiatimes.com/tech/technology/south-koreas-sk-hynix-to-launch-28-billion-us-listing-to-ride-global-ai-wave/articleshow/132205646.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-06T12:52:33.379964+00:00",
-      "last_seen_at": "2026-07-07T00:12:26.551429+00:00"
-    },
-    "https://www.channelnewsasia.com/business/lg-energy-solution-flags-77-fall-in-q2-operating-profit-continued-weak-ev-demand-6236646": {
-      "title": "LG Energy Solution flags 77% fall in Q2 operating profit on continued weak EV demand",
-      "link": "https://www.channelnewsasia.com/business/lg-energy-solution-flags-77-fall-in-q2-operating-profit-continued-weak-ev-demand-6236646",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "LG Energy Solution"
-      ],
-      "first_seen_at": "2026-07-07T00:12:26.551429+00:00",
-      "last_seen_at": "2026-07-07T00:12:26.551429+00:00"
-    },
-    "https://www.aljazeera.com/economy/2026/7/6/canada-picks-germanys-tkms-for-new-submarines?traffic_source=rss": {
-      "title": "Canada picks Germany’s TKMS for new submarines",
-      "link": "https://www.aljazeera.com/economy/2026/7/6/canada-picks-germanys-tkms-for-new-submarines?traffic_source=rss",
-      "source_name": "Al Jazeera",
-      "country_code": "QA",
-      "companies": [
-        "Hanwha Ocean"
-      ],
-      "first_seen_at": "2026-07-07T00:12:26.551429+00:00",
-      "last_seen_at": "2026-07-07T00:12:26.551429+00:00"
-    },
-    "https://www.scmp.com/news/world/united-states-canada/article/3359647/canada-picks-german-company-build-new-submarine-fleet-deal-worth-billions": {
-      "title": "Canada picks German firm for new submarine fleet, South Korean competitor loses out",
-      "link": "https://www.scmp.com/news/world/united-states-canada/article/3359647/canada-picks-german-company-build-new-submarine-fleet-deal-worth-billions",
-      "source_name": "South China Morning Post World",
-      "country_code": "HK",
-      "companies": [
-        "Hanwha Ocean"
-      ],
-      "first_seen_at": "2026-07-07T00:12:26.551429+00:00",
-      "last_seen_at": "2026-07-07T00:12:26.551429+00:00"
-    },
-    "https://www.marketwatch.com/story/microns-stock-gains-signaling-a-return-to-optimism-about-the-chip-sector-0b7f6a8c?mod=mw_rss_topstories": {
-      "title": "Micron’s stock gains, signaling a ‘return to optimism’ about the chip sector",
-      "link": "https://www.marketwatch.com/story/microns-stock-gains-signaling-a-return-to-optimism-about-the-chip-sector-0b7f6a8c?mod=mw_rss_topstories",
-      "source_name": "MarketWatch Top Stories",
-      "country_code": "US",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-07T00:12:26.551429+00:00",
-      "last_seen_at": "2026-07-07T00:12:26.551429+00:00"
-    },
-    "https://www.ft.com/content/a6f1e92d-0232-4343-9930-6d965a67f187": {
-      "title": "Hedge fund run by ex-OpenAI researcher bets on SK Hynix’s US IPO",
-      "link": "https://www.ft.com/content/a6f1e92d-0232-4343-9930-6d965a67f187",
-      "source_name": "Financial Times Companies",
-      "country_code": "GB",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-07T00:12:26.551429+00:00",
-      "last_seen_at": "2026-07-07T00:12:26.551429+00:00"
     },
     "https://www.cnbc.com/2026/07/07/samsung-electronics-preliminary-second-quarter-profit-hits-fresh-high.html": {
       "title": "Samsung posts 1,800% jump in profit, but AI spending concerns spook investors",
@@ -2767,7 +2701,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-08-19T23:26:02.011755+00:00",
-      "last_seen_at": "2026-08-20T23:28:56.081772+00:00"
+      "last_seen_at": "2026-08-21T09:40:25.018193+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-to-hike-vehicle-prices-by-up-to-1-from-september/articleshow/133351556.cms": {
       "title": "Hyundai to hike vehicle prices by up to 1% from September",
@@ -2833,7 +2767,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-20T09:38:06.139652+00:00",
-      "last_seen_at": "2026-08-20T23:28:56.081772+00:00"
+      "last_seen_at": "2026-08-21T09:40:25.018193+00:00"
     },
     "https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology": {
       "title": "LG’s new OLED breakthrough can boost display lifespans",
@@ -2855,7 +2789,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-20T09:38:06.139652+00:00",
-      "last_seen_at": "2026-08-20T23:28:56.081772+00:00"
+      "last_seen_at": "2026-08-21T09:40:25.018193+00:00"
     },
     "https://www.thehindubusinessline.com/companies/samsung-electronics-to-announce-more-than-72-billion-shareholder-return-programme/article71367804.ece": {
       "title": "Samsung Electronics to announce more than $72 billion shareholder return programme",
@@ -2867,7 +2801,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-20T09:38:06.139652+00:00",
-      "last_seen_at": "2026-08-20T23:28:56.081772+00:00"
+      "last_seen_at": "2026-08-21T09:40:25.018193+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/sk-hynix-to-pay-60-of-employee-bonuses-in-company-stock-under-preliminary-deal/articleshow/133365805.cms": {
       "title": "SK Hynix to pay 60% of employee bonuses in company stock under preliminary deal",
@@ -2878,7 +2812,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-20T09:38:06.139652+00:00",
-      "last_seen_at": "2026-08-20T23:28:56.081772+00:00"
+      "last_seen_at": "2026-08-21T09:40:25.018193+00:00"
     },
     "https://www.channelnewsasia.com/business/sk-hynix-workers-get-60-years-bonuses-in-stock-rather-all-cash-6330426": {
       "title": "SK Hynix workers to get 60% of this year's bonuses in stock rather than all cash",
@@ -2911,7 +2845,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-08-20T09:38:06.139652+00:00",
-      "last_seen_at": "2026-08-20T23:28:56.081772+00:00"
+      "last_seen_at": "2026-08-21T09:40:25.018193+00:00"
     },
     "https://www.cnbc.com/2026/08/20/hyundai-georgia-metaplant-us-production.html": {
       "title": "Hyundai considering U.S. production increase at new Georgia plant, CEO tells CNBC",
@@ -2922,7 +2856,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-08-20T23:28:56.081772+00:00",
-      "last_seen_at": "2026-08-20T23:28:56.081772+00:00"
+      "last_seen_at": "2026-08-21T09:40:25.018193+00:00"
     },
     "https://www.foxbusiness.com/markets/hyundais-genesis-rolls-out-new-flagship-luxury-electric-suv": {
       "title": "Hyundai’s Genesis rolls out a new flagship luxury electric SUV",
@@ -2933,7 +2867,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-08-20T23:28:56.081772+00:00",
-      "last_seen_at": "2026-08-20T23:28:56.081772+00:00"
+      "last_seen_at": "2026-08-21T09:40:25.018193+00:00"
     },
     "https://www.theverge.com/transportation/982910/genesis-gv90-ev-suv-coach-door-heated-floor": {
       "title": "The Genesis GV90 blows the bloody doors off what’s possible in EV design",
@@ -2944,7 +2878,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-08-20T23:28:56.081772+00:00",
-      "last_seen_at": "2026-08-20T23:28:56.081772+00:00"
+      "last_seen_at": "2026-08-21T09:40:25.018193+00:00"
     },
     "https://asia.nikkei.com/business/tech/semiconductors/samsung-electronics-poised-for-72bn-shareholder-return-program": {
       "title": "Samsung Electronics poised for $72bn shareholder return program",
@@ -2955,7 +2889,96 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-08-20T23:28:56.081772+00:00",
-      "last_seen_at": "2026-08-20T23:28:56.081772+00:00"
+      "last_seen_at": "2026-08-21T09:40:25.018193+00:00"
+    },
+    "https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html": {
+      "title": "Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback",
+      "link": "https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "Samsung Electronics",
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-08-21T09:40:25.018193+00:00",
+      "last_seen_at": "2026-08-21T09:40:25.018193+00:00"
+    },
+    "https://www.channelnewsasia.com/business/samsung-elec-sees-up-795-billion-available-2026-shareholder-returns-6333086": {
+      "title": "Samsung Elec sees up to $79.5 billion available for 2026 shareholder returns",
+      "link": "https://www.channelnewsasia.com/business/samsung-elec-sees-up-795-billion-available-2026-shareholder-returns-6333086",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-08-21T09:40:25.018193+00:00",
+      "last_seen_at": "2026-08-21T09:40:25.018193+00:00"
+    },
+    "https://www.channelnewsasia.com/business/samsung-sdi-says-sell-32-billion-worth-samsung-display-shares-back-display-maker-6332961": {
+      "title": "Samsung SDI says to sell $3.2 billion worth of Samsung Display shares back to display maker",
+      "link": "https://www.channelnewsasia.com/business/samsung-sdi-says-sell-32-billion-worth-samsung-display-shares-back-display-maker-6332961",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Samsung SDI"
+      ],
+      "first_seen_at": "2026-08-21T09:40:25.018193+00:00",
+      "last_seen_at": "2026-08-21T09:40:25.018193+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/cars-uvs/tata-motors-to-hike-car-prices-by-rs-25000-joins-maruti-hyundai-as-costs-hurt-pockets/articleshow/133392011.cms": {
+      "title": "Tata Motors to hike car prices by Rs 25,000; joins Maruti, Hyundai as costs hurt pockets",
+      "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/tata-motors-to-hike-car-prices-by-rs-25000-joins-maruti-hyundai-as-costs-hurt-pockets/articleshow/133392011.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-08-21T09:40:25.018193+00:00",
+      "last_seen_at": "2026-08-21T09:40:25.018193+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/artificial-intelligence/kakao-to-spin-off-chat-app-based-platform-business-into-kakaoai-relist-in-2027/articleshow/133391438.cms": {
+      "title": "Kakao to spin off chat app-based platform business into KakaoAI, relist in 2027",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/kakao-to-spin-off-chat-app-based-platform-business-into-kakaoai-relist-in-2027/articleshow/133391438.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Kakao"
+      ],
+      "first_seen_at": "2026-08-21T09:40:25.018193+00:00",
+      "last_seen_at": "2026-08-21T09:40:25.018193+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-to-convene-board-meeting-friday-to-discuss-shareholder-return-plan/articleshow/133391384.cms": {
+      "title": "Samsung Electronics to convene board meeting Friday to discuss shareholder return plan",
+      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-to-convene-board-meeting-friday-to-discuss-shareholder-return-plan/articleshow/133391384.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-08-21T09:40:25.018193+00:00",
+      "last_seen_at": "2026-08-21T09:40:25.018193+00:00"
+    },
+    "https://www.channelnewsasia.com/business/samsung-electronics-expects-shareholder-returns-up-80-billion-year-6332536": {
+      "title": "Samsung Electronics expects shareholder returns up to $80 billion this year",
+      "link": "https://www.channelnewsasia.com/business/samsung-electronics-expects-shareholder-returns-up-80-billion-year-6332536",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-08-21T09:40:25.018193+00:00",
+      "last_seen_at": "2026-08-21T09:40:25.018193+00:00"
+    },
+    "https://www.channelnewsasia.com/business/kakao-spin-chat-app-based-platform-business-kakaoai-relist-in-2027-6332481": {
+      "title": "Kakao to spin off chat app-based platform business into KakaoAI, relist in 2027",
+      "link": "https://www.channelnewsasia.com/business/kakao-spin-chat-app-based-platform-business-kakaoai-relist-in-2027-6332481",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Kakao"
+      ],
+      "first_seen_at": "2026-08-21T09:40:25.018193+00:00",
+      "last_seen_at": "2026-08-21T09:40:25.018193+00:00"
     }
   }
 }
