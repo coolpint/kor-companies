@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-21T23:27:21.576094+00:00",
+  "last_run_at": "2026-08-22T09:30:14.899278+00:00",
   "seen_articles": {
-    "https://www.cnbc.com/2026/07/07/samsung-electronics-preliminary-second-quarter-profit-hits-fresh-high.html": {
-      "title": "Samsung posts 1,800% jump in profit, but AI spending concerns spook investors",
-      "link": "https://www.cnbc.com/2026/07/07/samsung-electronics-preliminary-second-quarter-profit-hits-fresh-high.html",
-      "source_name": "CNBC World News",
-      "country_code": "US",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-07-07T11:54:57.363119+00:00",
-      "last_seen_at": "2026-07-08T00:01:06.056153+00:00"
-    },
     "http://www.euronews.com/business/2026/07/07/samsung-loses-over-100bn-in-market-value-despite-record-ai-driven-profit": {
       "title": "Samsung loses over $100bn in market value despite record AI-driven profit",
       "link": "http://www.euronews.com/business/2026/07/07/samsung-loses-over-100bn-in-market-value-despite-record-ai-driven-profit",
@@ -46,17 +35,6 @@
       ],
       "first_seen_at": "2026-07-07T11:54:57.363119+00:00",
       "last_seen_at": "2026-07-08T11:08:23.511759+00:00"
-    },
-    "https://www.cnbc.com/2026/07/07/hanwha-ocean-shares-sink-canada-submarines-tkms.html": {
-      "title": "Hanwha Ocean shares sink 23% as it loses bid to build Canada's next fleet of submarines",
-      "link": "https://www.cnbc.com/2026/07/07/hanwha-ocean-shares-sink-canada-submarines-tkms.html",
-      "source_name": "CNBC World News",
-      "country_code": "US",
-      "companies": [
-        "Hanwha Ocean"
-      ],
-      "first_seen_at": "2026-07-07T11:54:57.363119+00:00",
-      "last_seen_at": "2026-07-08T00:01:06.056153+00:00"
     },
     "https://www.straitstimes.com/business/companies-markets/samsung-to-get-jump-on-apples-first-foldable-with-new-phones-in-july": {
       "title": "Samsung to get jump on Apple’s first foldable with new phones in July",
@@ -2823,7 +2801,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-08-20T23:28:56.081772+00:00",
-      "last_seen_at": "2026-08-21T23:27:21.576094+00:00"
+      "last_seen_at": "2026-08-22T09:30:14.899278+00:00"
     },
     "https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html": {
       "title": "Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback",
@@ -2835,7 +2813,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-21T09:40:25.018193+00:00",
-      "last_seen_at": "2026-08-21T23:27:21.576094+00:00"
+      "last_seen_at": "2026-08-22T09:30:14.899278+00:00"
     },
     "https://www.channelnewsasia.com/business/samsung-elec-sees-up-795-billion-available-2026-shareholder-returns-6333086": {
       "title": "Samsung Elec sees up to $79.5 billion available for 2026 shareholder returns",
@@ -2846,7 +2824,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-08-21T09:40:25.018193+00:00",
-      "last_seen_at": "2026-08-21T23:27:21.576094+00:00"
+      "last_seen_at": "2026-08-22T09:30:14.899278+00:00"
     },
     "https://www.channelnewsasia.com/business/samsung-sdi-says-sell-32-billion-worth-samsung-display-shares-back-display-maker-6332961": {
       "title": "Samsung SDI says to sell $3.2 billion worth of Samsung Display shares back to display maker",
@@ -2879,7 +2857,7 @@
         "Kakao"
       ],
       "first_seen_at": "2026-08-21T09:40:25.018193+00:00",
-      "last_seen_at": "2026-08-21T23:27:21.576094+00:00"
+      "last_seen_at": "2026-08-22T09:30:14.899278+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-to-convene-board-meeting-friday-to-discuss-shareholder-return-plan/articleshow/133391384.cms": {
       "title": "Samsung Electronics to convene board meeting Friday to discuss shareholder return plan",
@@ -2890,7 +2868,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-08-21T09:40:25.018193+00:00",
-      "last_seen_at": "2026-08-21T23:27:21.576094+00:00"
+      "last_seen_at": "2026-08-22T09:30:14.899278+00:00"
     },
     "https://www.channelnewsasia.com/business/samsung-electronics-expects-shareholder-returns-up-80-billion-year-6332536": {
       "title": "Samsung Electronics expects shareholder returns up to $80 billion this year",
@@ -2923,7 +2901,7 @@
         "LG Electronics"
       ],
       "first_seen_at": "2026-08-21T23:27:21.576094+00:00",
-      "last_seen_at": "2026-08-21T23:27:21.576094+00:00"
+      "last_seen_at": "2026-08-22T09:30:14.899278+00:00"
     },
     "https://www.lemonde.fr/economie/article/2026/08/21/samsung-premier-fabricant-mondial-de-puces-memoire-va-racheter-entre-55-8-et-68-2-milliards-d-euros-de-ses-actions_6752045_3234.html": {
       "title": "Samsung, premier fabricant mondial de puces mémoire, va racheter entre 55,8 et 68,2 milliards d’euros de ses actions",
@@ -2934,7 +2912,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-21T23:27:21.576094+00:00",
-      "last_seen_at": "2026-08-21T23:27:21.576094+00:00"
+      "last_seen_at": "2026-08-22T09:30:14.899278+00:00"
     },
     "https://www.straitstimes.com/business/asian-markets-extend-rally-as-traders-assess-us-treasuries-pledge": {
       "title": "Asian markets extend rally as traders assess US Treasuries pledge",
@@ -2945,7 +2923,18 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-21T23:27:21.576094+00:00",
-      "last_seen_at": "2026-08-21T23:27:21.576094+00:00"
+      "last_seen_at": "2026-08-22T09:30:14.899278+00:00"
+    },
+    "https://www.scmp.com/business/banking-finance/article/3364860/why-hong-kongs-sk-hynix-fund-stayed-full-leverage-amid-market-volatility": {
+      "title": "Why Hong Kong’s SK Hynix fund stayed at full leverage amid market volatility",
+      "link": "https://www.scmp.com/business/banking-finance/article/3364860/why-hong-kongs-sk-hynix-fund-stayed-full-leverage-amid-market-volatility",
+      "source_name": "South China Morning Post World",
+      "country_code": "HK",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-08-22T09:30:14.899278+00:00",
+      "last_seen_at": "2026-08-22T09:30:14.899278+00:00"
     }
   }
 }
