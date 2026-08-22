@@ -1,41 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-22T09:30:14.899278+00:00",
+  "last_run_at": "2026-08-22T23:23:58.134868+00:00",
   "seen_articles": {
-    "http://www.euronews.com/business/2026/07/07/samsung-loses-over-100bn-in-market-value-despite-record-ai-driven-profit": {
-      "title": "Samsung loses over $100bn in market value despite record AI-driven profit",
-      "link": "http://www.euronews.com/business/2026/07/07/samsung-loses-over-100bn-in-market-value-despite-record-ai-driven-profit",
-      "source_name": "Euronews Business",
-      "country_code": "EU",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-07-07T11:54:57.363119+00:00",
-      "last_seen_at": "2026-07-08T11:08:23.511759+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/artificial-intelligence/synopsys-to-cut-chip-fab-manufacturing-control-software-in-shift-to-ai-design-sources-say/articleshow/132232334.cms": {
-      "title": "Synopsys to cut chip fab manufacturing control software in shift to AI design",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/synopsys-to-cut-chip-fab-manufacturing-control-software-in-shift-to-ai-design-sources-say/articleshow/132232334.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-07T11:54:57.363119+00:00",
-      "last_seen_at": "2026-07-08T11:08:23.511759+00:00"
-    },
-    "http://www3.nhk.or.jp/news/html/20260707/k10015170841000.html": {
-      "title": "韓国 サムスン電子 4月～6月営業利益は前年同期比 約19倍",
-      "link": "http://www3.nhk.or.jp/news/html/20260707/k10015170841000.html",
-      "source_name": "NHK Business",
-      "country_code": "JP",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-07-07T11:54:57.363119+00:00",
-      "last_seen_at": "2026-07-08T11:08:23.511759+00:00"
-    },
     "https://www.straitstimes.com/business/companies-markets/samsung-to-get-jump-on-apples-first-foldable-with-new-phones-in-july": {
       "title": "Samsung to get jump on Apple’s first foldable with new phones in July",
       "link": "https://www.straitstimes.com/business/companies-markets/samsung-to-get-jump-on-apples-first-foldable-with-new-phones-in-july",
@@ -57,40 +23,6 @@
       ],
       "first_seen_at": "2026-07-08T00:01:06.056153+00:00",
       "last_seen_at": "2026-07-09T00:15:18.597536+00:00"
-    },
-    "https://www.france24.com/en/tv-shows/business/20260707-samsung-electronics-profits-surge-1-800-annually-amid-artificial-intelligence-spending-boom": {
-      "title": "Samsung Electronics profits surge 1,800% annually amid artificial intelligence spending boom",
-      "link": "https://www.france24.com/en/tv-shows/business/20260707-samsung-electronics-profits-surge-1-800-annually-amid-artificial-intelligence-spending-boom",
-      "source_name": "France 24 Business / Tech",
-      "country_code": "FR",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-07-08T00:01:06.056153+00:00",
-      "last_seen_at": "2026-07-08T11:08:23.511759+00:00"
-    },
-    "https://www.channelnewsasia.com/business/dollar-selling-linked-sk-hynix-share-offer-sends-won-over-1-month-high-source-says-6240496": {
-      "title": "Dollar-selling linked to SK Hynix share offer sends won to over 1-month high, source says",
-      "link": "https://www.channelnewsasia.com/business/dollar-selling-linked-sk-hynix-share-offer-sends-won-over-1-month-high-source-says-6240496",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-08T11:08:23.511759+00:00",
-      "last_seen_at": "2026-07-08T11:08:23.511759+00:00"
-    },
-    "https://www.ft.com/content/2cb790fc-016b-4b15-a9d8-5b6057592e1a": {
-      "title": "South Korea falls into bear market as traders fret over AI chipmakers’ prospects",
-      "link": "https://www.ft.com/content/2cb790fc-016b-4b15-a9d8-5b6057592e1a",
-      "source_name": "Financial Times Companies",
-      "country_code": "GB",
-      "companies": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-08T11:08:23.511759+00:00",
-      "last_seen_at": "2026-07-08T11:08:23.511759+00:00"
     },
     "https://www.straitstimes.com/business/companies-markets/sk-hynix-36-billion-us-listing-said-to-be-multiple-times-oversubscribed": {
       "title": "SK Hynix’s $36 billion US listing said to be multiple times oversubscribed",
@@ -2901,7 +2833,7 @@
         "LG Electronics"
       ],
       "first_seen_at": "2026-08-21T23:27:21.576094+00:00",
-      "last_seen_at": "2026-08-22T09:30:14.899278+00:00"
+      "last_seen_at": "2026-08-22T23:23:58.134868+00:00"
     },
     "https://www.lemonde.fr/economie/article/2026/08/21/samsung-premier-fabricant-mondial-de-puces-memoire-va-racheter-entre-55-8-et-68-2-milliards-d-euros-de-ses-actions_6752045_3234.html": {
       "title": "Samsung, premier fabricant mondial de puces mémoire, va racheter entre 55,8 et 68,2 milliards d’euros de ses actions",
