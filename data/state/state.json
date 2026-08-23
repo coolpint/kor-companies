@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-23T09:31:10.787462+00:00",
+  "last_run_at": "2026-08-23T23:24:34.633464+00:00",
   "seen_articles": {
-    "https://www.straitstimes.com/business/companies-markets/sk-hynix-36-billion-us-listing-said-to-be-multiple-times-oversubscribed": {
-      "title": "SK Hynix’s $36 billion US listing said to be multiple times oversubscribed",
-      "link": "https://www.straitstimes.com/business/companies-markets/sk-hynix-36-billion-us-listing-said-to-be-multiple-times-oversubscribed",
-      "source_name": "The Straits Times",
-      "country_code": "SG",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-08T11:08:23.511759+00:00",
-      "last_seen_at": "2026-07-09T12:09:04.139319+00:00"
-    },
     "https://www.cnbc.com/2026/07/09/meet-sk-hynix-the-trillion-dollar-chipmaker-debuting-on-us-markets-.html": {
       "title": "Meet SK Hynix, the trillion-dollar South Korean chipmaker debuting on U.S. markets",
       "link": "https://www.cnbc.com/2026/07/09/meet-sk-hynix-the-trillion-dollar-chipmaker-debuting-on-us-markets-.html",
@@ -23,17 +12,6 @@
       ],
       "first_seen_at": "2026-07-09T12:09:04.139319+00:00",
       "last_seen_at": "2026-07-11T23:59:55.964181+00:00"
-    },
-    "https://www.channelnewsasia.com/business/sk-hynixs-us-listing-more-seven-times-oversubscribed-source-says-6242711": {
-      "title": "SK Hynix's US listing more than seven times oversubscribed, source says",
-      "link": "https://www.channelnewsasia.com/business/sk-hynixs-us-listing-more-seven-times-oversubscribed-source-says-6242711",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-09T12:09:04.139319+00:00",
-      "last_seen_at": "2026-07-09T12:09:04.139319+00:00"
     },
     "https://www.straitstimes.com/business/companies-markets/chip-giant-sk-hynix-raises-34-billion-in-worlds-second-largest-stock-listing": {
       "title": "Chip giant SK Hynix raises $34 billion in world’s second-largest stock listing",
