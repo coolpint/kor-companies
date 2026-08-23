@@ -1,29 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-22T23:23:58.134868+00:00",
+  "last_run_at": "2026-08-23T09:31:10.787462+00:00",
   "seen_articles": {
-    "https://www.straitstimes.com/business/companies-markets/samsung-to-get-jump-on-apples-first-foldable-with-new-phones-in-july": {
-      "title": "Samsung to get jump on Apple’s first foldable with new phones in July",
-      "link": "https://www.straitstimes.com/business/companies-markets/samsung-to-get-jump-on-apples-first-foldable-with-new-phones-in-july",
-      "source_name": "The Straits Times",
-      "country_code": "SG",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-07-08T00:01:06.056153+00:00",
-      "last_seen_at": "2026-07-09T00:15:18.597536+00:00"
-    },
-    "https://www.cnbc.com/2026/07/07/chip-stocks-ai-selloff-samsung.html": {
-      "title": "Chip stocks sell off after Samsung earnings fall short of high AI bar",
-      "link": "https://www.cnbc.com/2026/07/07/chip-stocks-ai-selloff-samsung.html",
-      "source_name": "CNBC Technology",
-      "country_code": "US",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-07-08T00:01:06.056153+00:00",
-      "last_seen_at": "2026-07-09T00:15:18.597536+00:00"
-    },
     "https://www.straitstimes.com/business/companies-markets/sk-hynix-36-billion-us-listing-said-to-be-multiple-times-oversubscribed": {
       "title": "SK Hynix’s $36 billion US listing said to be multiple times oversubscribed",
       "link": "https://www.straitstimes.com/business/companies-markets/sk-hynix-36-billion-us-listing-said-to-be-multiple-times-oversubscribed",
