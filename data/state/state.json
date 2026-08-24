@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-23T23:24:34.633464+00:00",
+  "last_run_at": "2026-08-24T09:52:11.525358+00:00",
   "seen_articles": {
     "https://www.cnbc.com/2026/07/09/meet-sk-hynix-the-trillion-dollar-chipmaker-debuting-on-us-markets-.html": {
       "title": "Meet SK Hynix, the trillion-dollar South Korean chipmaker debuting on U.S. markets",
@@ -68,17 +68,6 @@
       "first_seen_at": "2026-07-10T00:08:41.726199+00:00",
       "last_seen_at": "2026-07-10T11:55:28.151380+00:00"
     },
-    "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/air-india-fourth-most-punctual-airline-in-the-world/articleshow/132297344.cms": {
-      "title": "Air India fourth most punctual airline in the world",
-      "link": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/air-india-fourth-most-punctual-airline-in-the-world/articleshow/132297344.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Korean Air"
-      ],
-      "first_seen_at": "2026-07-10T00:08:41.726199+00:00",
-      "last_seen_at": "2026-07-10T00:08:41.726199+00:00"
-    },
     "http://www.euronews.com/business/2026/07/09/sk-hynix-from-near-collapse-to-a-1-trillion-valuation-and-a-nasdaq-listing": {
       "title": "SK hynix: From near-collapse to a $1 trillion valuation and a Nasdaq listing",
       "link": "http://www.euronews.com/business/2026/07/09/sk-hynix-from-near-collapse-to-a-1-trillion-valuation-and-a-nasdaq-listing",
@@ -89,17 +78,6 @@
       ],
       "first_seen_at": "2026-07-10T00:08:41.726199+00:00",
       "last_seen_at": "2026-07-11T00:01:59.766742+00:00"
-    },
-    "https://www.ft.com/content/592f39a2-2f15-4b6a-8506-8c28530b213b": {
-      "title": "Wall Street set for bumper $140mn payday from SK Hynix listing",
-      "link": "https://www.ft.com/content/592f39a2-2f15-4b6a-8506-8c28530b213b",
-      "source_name": "Financial Times Companies",
-      "country_code": "GB",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-10T00:08:41.726199+00:00",
-      "last_seen_at": "2026-07-10T00:08:41.726199+00:00"
     },
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-korean-billionaires-risky-bet-pays-off-as-sk-hynix-debuts-in-new-york/articleshow/132310486.cms": {
       "title": "South Korean billionaire's risky bet pays off, as SK Hynix debuts in New York",
@@ -2823,6 +2801,61 @@
       ],
       "first_seen_at": "2026-08-22T09:30:14.899278+00:00",
       "last_seen_at": "2026-08-22T09:30:14.899278+00:00"
+    },
+    "https://asia.nikkei.com/business/companies/samsung-electronics-faces-internal-divide-over-huge-bonus-gap": {
+      "title": "Samsung Electronics faces internal divide over huge bonus gap",
+      "link": "https://asia.nikkei.com/business/companies/samsung-electronics-faces-internal-divide-over-huge-bonus-gap",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-08-24T09:52:11.525358+00:00",
+      "last_seen_at": "2026-08-24T09:52:11.525358+00:00"
+    },
+    "https://www.marketwatch.com/story/samsung-electronics-stock-had-its-worst-day-in-three-weeks-and-the-other-memory-stocks-are-lower-as-well-2080834f?mod=mw_rss_topstories": {
+      "title": "Samsung Electronics stock had its worst day in three weeks, and the other memory stocks are lower as well",
+      "link": "https://www.marketwatch.com/story/samsung-electronics-stock-had-its-worst-day-in-three-weeks-and-the-other-memory-stocks-are-lower-as-well-2080834f?mod=mw_rss_topstories",
+      "source_name": "MarketWatch Top Stories",
+      "country_code": "US",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-08-24T09:52:11.525358+00:00",
+      "last_seen_at": "2026-08-24T09:52:11.525358+00:00"
+    },
+    "https://www.straitstimes.com/business/hyundai-union-back-in-wage-talks-after-rare-full-day-strike": {
+      "title": "Hyundai union back in wage talks after rare full-day strike",
+      "link": "https://www.straitstimes.com/business/hyundai-union-back-in-wage-talks-after-rare-full-day-strike",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-08-24T09:52:11.525358+00:00",
+      "last_seen_at": "2026-08-24T09:52:11.525358+00:00"
+    },
+    "https://e.vnexpress.net/news/business/billionaires/meet-cj-wang-home-appliance-billionaire-who-quit-teaching-job-to-invent-world-s-first-automatic-soy-milk-maker-5112055.html": {
+      "title": "Meet CJ Wang, home appliance billionaire who quit teaching job to invent world’s first automatic soy milk maker",
+      "link": "https://e.vnexpress.net/news/business/billionaires/meet-cj-wang-home-appliance-billionaire-who-quit-teaching-job-to-invent-world-s-first-automatic-soy-milk-maker-5112055.html",
+      "source_name": "VnExpress Business",
+      "country_code": "VN",
+      "companies": [
+        "CJ CheilJedang"
+      ],
+      "first_seen_at": "2026-08-24T09:52:11.525358+00:00",
+      "last_seen_at": "2026-08-24T09:52:11.525358+00:00"
+    },
+    "https://www.channelnewsasia.com/business/samsung-electronics-shares-skid-record-shareholder-returns-disappoint-6336676": {
+      "title": "Samsung Electronics shares skid as record shareholder returns disappoint",
+      "link": "https://www.channelnewsasia.com/business/samsung-electronics-shares-skid-record-shareholder-returns-disappoint-6336676",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-08-24T09:52:11.525358+00:00",
+      "last_seen_at": "2026-08-24T09:52:11.525358+00:00"
     }
   }
 }
