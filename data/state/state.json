@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-24T23:25:18.765905+00:00",
+  "last_run_at": "2026-08-25T09:38:57.533539+00:00",
   "seen_articles": {
     "https://www.cnbc.com/2026/07/09/meet-sk-hynix-the-trillion-dollar-chipmaker-debuting-on-us-markets-.html": {
       "title": "Meet SK Hynix, the trillion-dollar South Korean chipmaker debuting on U.S. markets",
@@ -34,17 +34,6 @@
       ],
       "first_seen_at": "2026-07-10T00:08:41.726199+00:00",
       "last_seen_at": "2026-07-11T23:59:55.964181+00:00"
-    },
-    "http://www.euronews.com/business/2026/07/09/sk-hynix-from-near-collapse-to-a-1-trillion-valuation-and-a-nasdaq-listing": {
-      "title": "SK hynix: From near-collapse to a $1 trillion valuation and a Nasdaq listing",
-      "link": "http://www.euronews.com/business/2026/07/09/sk-hynix-from-near-collapse-to-a-1-trillion-valuation-and-a-nasdaq-listing",
-      "source_name": "Euronews Business",
-      "country_code": "EU",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-10T00:08:41.726199+00:00",
-      "last_seen_at": "2026-07-11T00:01:59.766742+00:00"
     },
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-korean-billionaires-risky-bet-pays-off-as-sk-hynix-debuts-in-new-york/articleshow/132310486.cms": {
       "title": "South Korean billionaire's risky bet pays off, as SK Hynix debuts in New York",
@@ -210,17 +199,6 @@
       ],
       "first_seen_at": "2026-07-11T00:01:59.766742+00:00",
       "last_seen_at": "2026-07-13T23:56:41.967900+00:00"
-    },
-    "https://www.channelnewsasia.com/world/south-korean-chip-giant-sk-hynix-surges-first-day-trading-wall-street-6247311": {
-      "title": "South Korean chip giant SK hynix surges on first day of trading on Wall Street",
-      "link": "https://www.channelnewsasia.com/world/south-korean-chip-giant-sk-hynix-surges-first-day-trading-wall-street-6247311",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-11T00:01:59.766742+00:00",
-      "last_seen_at": "2026-07-11T00:01:59.766742+00:00"
     },
     "https://www.cnbc.com/2026/07/10/sk-hynix-skhy-stock-nasdaq.html": {
       "title": "SK Hynix rises 13% in Nasdaq debut. Chairman tells CNBC 'demand is enormous'",
@@ -2679,7 +2657,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-08-24T09:52:11.525358+00:00",
-      "last_seen_at": "2026-08-24T23:25:18.765905+00:00"
+      "last_seen_at": "2026-08-25T09:38:57.533539+00:00"
     },
     "https://www.marketwatch.com/story/samsung-electronics-stock-had-its-worst-day-in-three-weeks-and-the-other-memory-stocks-are-lower-as-well-2080834f?mod=mw_rss_topstories": {
       "title": "Samsung Electronics stock had its worst day in three weeks, and the other memory stocks are lower as well",
@@ -2701,7 +2679,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-08-24T09:52:11.525358+00:00",
-      "last_seen_at": "2026-08-24T23:25:18.765905+00:00"
+      "last_seen_at": "2026-08-25T09:38:57.533539+00:00"
     },
     "https://e.vnexpress.net/news/business/billionaires/meet-cj-wang-home-appliance-billionaire-who-quit-teaching-job-to-invent-world-s-first-automatic-soy-milk-maker-5112055.html": {
       "title": "Meet CJ Wang, home appliance billionaire who quit teaching job to invent world’s first automatic soy milk maker",
@@ -2712,7 +2690,7 @@
         "CJ CheilJedang"
       ],
       "first_seen_at": "2026-08-24T09:52:11.525358+00:00",
-      "last_seen_at": "2026-08-24T23:25:18.765905+00:00"
+      "last_seen_at": "2026-08-25T09:38:57.533539+00:00"
     },
     "https://www.channelnewsasia.com/business/samsung-electronics-shares-skid-record-shareholder-returns-disappoint-6336676": {
       "title": "Samsung Electronics shares skid as record shareholder returns disappoint",
@@ -2734,7 +2712,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-08-24T23:25:18.765905+00:00",
-      "last_seen_at": "2026-08-24T23:25:18.765905+00:00"
+      "last_seen_at": "2026-08-25T09:38:57.533539+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/cars-uvs/why-rising-sales-arent-boosting-automakers-profits-the-impact-of-costs-and-margins/articleshow/133459791.cms": {
       "title": "More cars, thinner margins: Why rising sales aren’t boosting automakers’ profits",
@@ -2746,6 +2724,61 @@
       ],
       "first_seen_at": "2026-08-24T23:25:18.765905+00:00",
       "last_seen_at": "2026-08-24T23:25:18.765905+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/hyundai-motor-india-partners-jio-bp-to-integrate-ev-charging-networks/article71387942.ece": {
+      "title": "Hyundai Motor India partners Jio-bp to integrate EV charging networks",
+      "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-partners-jio-bp-to-integrate-ev-charging-networks/article71387942.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-08-25T09:38:57.533539+00:00",
+      "last_seen_at": "2026-08-25T09:38:57.533539+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/renewables/hyundai-taps-reliance-backed-jio-bp-to-take-ev-charging-network-to-37000-points/articleshow/133500823.cms": {
+      "title": "Hyundai taps Reliance-backed Jio-bp to take EV charging network to 37,000+ points",
+      "link": "https://economictimes.indiatimes.com/industry/renewables/hyundai-taps-reliance-backed-jio-bp-to-take-ev-charging-network-to-37000-points/articleshow/133500823.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-08-25T09:38:57.533539+00:00",
+      "last_seen_at": "2026-08-25T09:38:57.533539+00:00"
+    },
+    "https://www.scmp.com/news/asia/east-asia/article/3365184/south-koreas-hyundai-union-agree-tentative-wage-deal-after-rare-full-day-strike": {
+      "title": "South Korea’s Hyundai, union agree on tentative wage deal after rare full-day strike",
+      "link": "https://www.scmp.com/news/asia/east-asia/article/3365184/south-koreas-hyundai-union-agree-tentative-wage-deal-after-rare-full-day-strike",
+      "source_name": "South China Morning Post World",
+      "country_code": "HK",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-08-25T09:38:57.533539+00:00",
+      "last_seen_at": "2026-08-25T09:38:57.533539+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/samsung-sk-hynix-stand-to-benefit-as-as-nvidia-ai-server-costs-surge/articleshow/133499517.cms": {
+      "title": "Samsung, SK Hynix stand to benefit as Nvidia AI server costs surge",
+      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-sk-hynix-stand-to-benefit-as-as-nvidia-ai-server-costs-surge/articleshow/133499517.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-08-25T09:38:57.533539+00:00",
+      "last_seen_at": "2026-08-25T09:38:57.533539+00:00"
+    },
+    "https://www.channelnewsasia.com/business/hyundai-motors-union-reaches-tentative-wage-deal-averting-more-strikes-6338421": {
+      "title": "Hyundai Motor's union reaches tentative wage deal, averting more strikes",
+      "link": "https://www.channelnewsasia.com/business/hyundai-motors-union-reaches-tentative-wage-deal-averting-more-strikes-6338421",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-08-25T09:38:57.533539+00:00",
+      "last_seen_at": "2026-08-25T09:38:57.533539+00:00"
     }
   }
 }
