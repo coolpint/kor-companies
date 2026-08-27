@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-27T04:25:37.962258+00:00",
+  "last_run_at": "2026-08-27T19:41:29.300097+00:00",
   "seen_articles": {
     "https://asia.nikkei.com/business/markets/sk-hynix-rallies-in-biggest-ever-foreign-share-sale-in-us": {
       "title": "SK Hynix rallies in biggest-ever foreign share sale in US",
@@ -46,17 +46,6 @@
       "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
       "last_seen_at": "2026-07-14T10:50:39.049859+00:00"
     },
-    "https://www.marketwatch.com/story/geopolitical-shock-exposes-sk-hynix-leverage-after-hot-adr-debut-340ae8d4?mod=mw_rss_topstories": {
-      "title": "Geopolitical shock exposes SK Hynix leverage after hot ADR debut",
-      "link": "https://www.marketwatch.com/story/geopolitical-shock-exposes-sk-hynix-leverage-after-hot-adr-debut-340ae8d4?mod=mw_rss_topstories",
-      "source_name": "MarketWatch Top Stories",
-      "country_code": "US",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
-      "last_seen_at": "2026-07-13T12:09:29.144993+00:00"
-    },
     "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/nexon-geochem-ties-up-with-russias-giredmet-for-rare-earth-processing/articleshow/132361979.cms": {
       "title": "Nexon Geochem ties up with Russia's Giredmet for rare-earth processing",
       "link": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/nexon-geochem-ties-up-with-russias-giredmet-for-rare-earth-processing/articleshow/132361979.cms",
@@ -67,17 +56,6 @@
       ],
       "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
       "last_seen_at": "2026-07-13T23:56:41.967900+00:00"
-    },
-    "https://www.channelnewsasia.com/business/korean-air-q2-profit-falls-34-higher-fuel-costs-revenue-hits-record-high-6250581": {
-      "title": "Korean Air Q2 profit falls 34% on higher fuel costs, revenue hits record high",
-      "link": "https://www.channelnewsasia.com/business/korean-air-q2-profit-falls-34-higher-fuel-costs-revenue-hits-record-high-6250581",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "Korean Air"
-      ],
-      "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
-      "last_seen_at": "2026-07-13T12:09:29.144993+00:00"
     },
     "https://www.cnbc.com/2026/07/13/sk-hynix-shares-fall-after-stellar-nasdaq-debut.html": {
       "title": "SK Hynix South Korean shares clock worst day, sinking over 15%, after stellar Nasdaq debut",
@@ -134,18 +112,6 @@
       "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
       "last_seen_at": "2026-07-14T10:50:39.049859+00:00"
     },
-    "https://www.ft.com/content/734c23c8-73ed-4a4a-8150-49d12d891c30": {
-      "title": "Investors alarmed as Asian chipmakers take stranglehold on indices",
-      "link": "https://www.ft.com/content/734c23c8-73ed-4a4a-8150-49d12d891c30",
-      "source_name": "Financial Times Companies",
-      "country_code": "GB",
-      "companies": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
-      "last_seen_at": "2026-07-13T12:09:29.144993+00:00"
-    },
     "https://e.vnexpress.net/news/world/samsung-electronics-to-advance-start-of-chip-factory-to-2029-5096703.html": {
       "title": "Samsung Electronics to advance start of chip factory to 2029",
       "link": "https://e.vnexpress.net/news/world/samsung-electronics-to-advance-start-of-chip-factory-to-2029-5096703.html",
@@ -190,28 +156,6 @@
       ],
       "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
       "last_seen_at": "2026-07-14T10:50:39.049859+00:00"
-    },
-    "https://www.ft.com/content/b433644d-caba-4962-8d60-f46fcd9716f9": {
-      "title": "Traders braced for won volatility after blockbuster SK Hynix listing",
-      "link": "https://www.ft.com/content/b433644d-caba-4962-8d60-f46fcd9716f9",
-      "source_name": "Financial Times Companies",
-      "country_code": "GB",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
-      "last_seen_at": "2026-07-13T12:09:29.144993+00:00"
-    },
-    "https://www.channelnewsasia.com/business/samsung-electronics-advance-start-chip-factory-in-yongin-2029-6249836": {
-      "title": "Samsung Electronics to advance start of chip factory in Yongin to 2029",
-      "link": "https://www.channelnewsasia.com/business/samsung-electronics-advance-start-chip-factory-in-yongin-2029-6249836",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
-      "last_seen_at": "2026-07-13T12:09:29.144993+00:00"
     },
     "https://www.channelnewsasia.com/business/sk-hynix-sinks-after-nasdaq-debut-kospi-south-korea-6249841": {
       "title": "SK hynix plunges after NASDAQ debut amid profit-taking, diminishing earnings optimism",
@@ -2514,7 +2458,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-08-27T04:25:37.962258+00:00",
-      "last_seen_at": "2026-08-27T04:25:37.962258+00:00"
+      "last_seen_at": "2026-08-27T19:41:29.300097+00:00"
     },
     "https://www.cnbc.com/2026/08/26/hyundai-sales-us-investment.html": {
       "title": "Hyundai has grown more than any automaker in the U.S. — and it's not done yet",
@@ -2525,7 +2469,85 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-08-27T04:25:37.962258+00:00",
-      "last_seen_at": "2026-08-27T04:25:37.962258+00:00"
+      "last_seen_at": "2026-08-27T19:41:29.300097+00:00"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-ceo-dismisses-memory-chip-oversupply-risks-sees-crunch-till-end-of-2030": {
+      "title": "SK Hynix CEO dismisses memory chip oversupply risks, sees crunch till end of 2030",
+      "link": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-ceo-dismisses-memory-chip-oversupply-risks-sees-crunch-till-end-of-2030",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-08-27T19:41:29.300097+00:00",
+      "last_seen_at": "2026-08-27T19:41:29.300097+00:00"
+    },
+    "https://www.cnbc.com/2026/08/27/sk-hynix-ceo-says-indiana-will-be-key-memory-production-base-by-2030.html": {
+      "title": "SK Hynix CEO says Indiana will be key memory production base by 2030, first U.S. facility now underway",
+      "link": "https://www.cnbc.com/2026/08/27/sk-hynix-ceo-says-indiana-will-be-key-memory-production-base-by-2030.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-08-27T19:41:29.300097+00:00",
+      "last_seen_at": "2026-08-27T19:41:29.300097+00:00"
+    },
+    "https://asia.nikkei.com/business/technology/artificial-intelligence/sk-hynix-starts-construction-of-first-hbm-chip-packaging-plant-in-us": {
+      "title": "SK Hynix starts construction of first HBM chip packaging plant in US",
+      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/sk-hynix-starts-construction-of-first-hbm-chip-packaging-plant-in-us",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-08-27T19:41:29.300097+00:00",
+      "last_seen_at": "2026-08-27T19:41:29.300097+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/auto-news/tata-cars-is-now-new-identity-of-tata-motors-passenger-vehicle-business-to-meet-growimg-aspirations-of-aindia/articleshow/133571736.cms": {
+      "title": "Tata Motors rolls out Tata.Cars identity for PV business, aims to meet India's growing aspirations",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/tata-cars-is-now-new-identity-of-tata-motors-passenger-vehicle-business-to-meet-growimg-aspirations-of-aindia/articleshow/133571736.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Nexon"
+      ],
+      "first_seen_at": "2026-08-27T19:41:29.300097+00:00",
+      "last_seen_at": "2026-08-27T19:41:29.300097+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/sk-hynix-holds-groundbreaking-ceremony-for-4-billion-indiana-ai-chip-packaging-facility/articleshow/133571010.cms": {
+      "title": "SK Hynix holds groundbreaking ceremony for $4 billion Indiana AI chip packaging facility",
+      "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-holds-groundbreaking-ceremony-for-4-billion-indiana-ai-chip-packaging-facility/articleshow/133571010.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-08-27T19:41:29.300097+00:00",
+      "last_seen_at": "2026-08-27T19:41:29.300097+00:00"
+    },
+    "https://www.channelnewsasia.com/business/sk-hynix-start-ai-chip-output-in-indiana-in-2029-sees-memory-shortage-through-2030-6345596": {
+      "title": "SK Hynix to start AI chip output in Indiana in 2029, sees memory shortage through 2030",
+      "link": "https://www.channelnewsasia.com/business/sk-hynix-start-ai-chip-output-in-indiana-in-2029-sees-memory-shortage-through-2030-6345596",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-08-27T19:41:29.300097+00:00",
+      "last_seen_at": "2026-08-27T19:41:29.300097+00:00"
+    },
+    "https://www.channelnewsasia.com/business/hd-hyundai-heavy-industries-union-passes-strike-vote-yonhap-reports-6345536": {
+      "title": "HD Hyundai Heavy Industries union passes strike vote, Yonhap reports",
+      "link": "https://www.channelnewsasia.com/business/hd-hyundai-heavy-industries-union-passes-strike-vote-yonhap-reports-6345536",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Hyundai Motor",
+        "HD Hyundai"
+      ],
+      "first_seen_at": "2026-08-27T19:41:29.300097+00:00",
+      "last_seen_at": "2026-08-27T19:41:29.300097+00:00"
     }
   }
 }
