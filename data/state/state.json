@@ -1,29 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-26T09:47:05.787089+00:00",
+  "last_run_at": "2026-08-27T04:25:37.962258+00:00",
   "seen_articles": {
-    "https://asia.nikkei.com/business/markets/ipo/sk-hynix-south-korean-memory-chip-titan-raises-26.5bn-in-the-us": {
-      "title": "SK Hynix: South Korean memory chip titan raises $26.5bn in the US",
-      "link": "https://asia.nikkei.com/business/markets/ipo/sk-hynix-south-korean-memory-chip-titan-raises-26.5bn-in-the-us",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-10T11:55:28.151380+00:00",
-      "last_seen_at": "2026-07-12T10:36:54.954945+00:00"
-    },
-    "http://www3.nhk.or.jp/news/html/20260711/k10015174281000.html": {
-      "title": "韓国半導体 SKハイニックス ナスダック上場 約4兆3000億円調達",
-      "link": "http://www3.nhk.or.jp/news/html/20260711/k10015174281000.html",
-      "source_name": "NHK Business",
-      "country_code": "JP",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-11T00:01:59.766742+00:00",
-      "last_seen_at": "2026-07-12T10:36:54.954945+00:00"
-    },
     "https://asia.nikkei.com/business/markets/sk-hynix-rallies-in-biggest-ever-foreign-share-sale-in-us": {
       "title": "SK Hynix rallies in biggest-ever foreign share sale in US",
       "link": "https://asia.nikkei.com/business/markets/sk-hynix-rallies-in-biggest-ever-foreign-share-sale-in-us",
@@ -34,28 +12,6 @@
       ],
       "first_seen_at": "2026-07-11T00:01:59.766742+00:00",
       "last_seen_at": "2026-07-13T23:56:41.967900+00:00"
-    },
-    "https://www.japantimes.co.jp/business/2026/07/11/tech/sk-hynix-debut-ai-boom": {
-      "title": "SK Hynix debut is a bet that AI breaks boom-and-bust chip cycle",
-      "link": "https://www.japantimes.co.jp/business/2026/07/11/tech/sk-hynix-debut-ai-boom",
-      "source_name": "The Japan Times",
-      "country_code": "JP",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-11T10:17:43.140710+00:00",
-      "last_seen_at": "2026-07-12T10:36:54.954945+00:00"
-    },
-    "https://www.channelnewsasia.com/commentary/micron-sk-hynix-samsung-profits-chip-shortage-rising-prices-6245961": {
-      "title": "Commentary: Micron’s massive profits are a guarantee of trouble",
-      "link": "https://www.channelnewsasia.com/commentary/micron-sk-hynix-samsung-profits-chip-shortage-rising-prices-6245961",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-11T23:59:55.964181+00:00",
-      "last_seen_at": "2026-07-12T23:59:16.571742+00:00"
     },
     "https://www.bangkokpost.com/business/motoring/3285127/hyundai-to-export-thai-bevs-to-australia": {
       "title": "Hyundai to export Thai BEVs to Australia",
@@ -2514,7 +2470,7 @@
         "Nexon"
       ],
       "first_seen_at": "2026-08-26T09:47:05.787089+00:00",
-      "last_seen_at": "2026-08-26T09:47:05.787089+00:00"
+      "last_seen_at": "2026-08-27T04:25:37.962258+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-goes-big-on-india-with-26-new-models-as-it-plots-100-vehicle-global-offensive/articleshow/133533106.cms": {
       "title": "Hyundai goes big on India with 26 new models as it plots 100+ vehicle global offensive",
@@ -2528,7 +2484,7 @@
       "last_seen_at": "2026-08-26T09:47:05.787089+00:00"
     },
     "https://www.thehindubusinessline.com/companies/hyundai-motor-sets-2030-sales-target-at-55-million-units/article71391736.ece": {
-      "title": "현대자동차는 2030년까지 자동차 판매량을 550만 대로 목표 설정했습니다.",
+      "title": "Hyundai Motor sets 2030 sales target at 5.5 million units",
       "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-sets-2030-sales-target-at-55-million-units/article71391736.ece",
       "source_name": "BusinessLine Companies",
       "country_code": "IN",
@@ -2536,7 +2492,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-08-26T09:47:05.787089+00:00",
-      "last_seen_at": "2026-08-26T09:47:05.787089+00:00"
+      "last_seen_at": "2026-08-27T04:25:37.962258+00:00"
     },
     "https://www.channelnewsasia.com/business/hyundai-lifts-margin-target-expands-us-hybrid-lineup-6342006": {
       "title": "Hyundai lifts margin target, expands US hybrid lineup",
@@ -2548,6 +2504,28 @@
       ],
       "first_seen_at": "2026-08-26T09:47:05.787089+00:00",
       "last_seen_at": "2026-08-26T09:47:05.787089+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/hyundai-motor-aims-555-million-units-in-global-sales-by-2030-to-bolster-business-in-india-ceo/article71393089.ece": {
+      "title": "Hyundai Motor aims 5.55 million units in global sales by 2030, to bolster business in India: CEO",
+      "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-aims-555-million-units-in-global-sales-by-2030-to-bolster-business-in-india-ceo/article71393089.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-08-27T04:25:37.962258+00:00",
+      "last_seen_at": "2026-08-27T04:25:37.962258+00:00"
+    },
+    "https://www.cnbc.com/2026/08/26/hyundai-sales-us-investment.html": {
+      "title": "Hyundai has grown more than any automaker in the U.S. — and it's not done yet",
+      "link": "https://www.cnbc.com/2026/08/26/hyundai-sales-us-investment.html",
+      "source_name": "CNBC World News",
+      "country_code": "US",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-08-27T04:25:37.962258+00:00",
+      "last_seen_at": "2026-08-27T04:25:37.962258+00:00"
     }
   }
 }
