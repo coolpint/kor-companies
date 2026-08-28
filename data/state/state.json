@@ -1,29 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-28T06:49:09.751264+00:00",
+  "last_run_at": "2026-08-28T20:46:22.121448+00:00",
   "seen_articles": {
-    "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-sk-hynix-micron-ramp-up-capacity-as-demand-for-ai-infrastructure-outpaces-supply/articleshow/132365529.cms": {
-      "title": "Samsung, SK hynix, Micron ramp up capacity as demand for AI infrastructure outpaces supply",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-sk-hynix-micron-ramp-up-capacity-as-demand-for-ai-infrastructure-outpaces-supply/articleshow/132365529.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
-      "last_seen_at": "2026-07-14T10:50:39.049859+00:00"
-    },
-    "https://www.theglobeandmail.com/business/international-business/article-sk-hynix-shares-fall-after-nasdaq-debut": {
-      "title": "SK Hynix shares tumble in Seoul and U.S. after strong Nasdaq debut",
-      "link": "https://www.theglobeandmail.com/business/international-business/article-sk-hynix-shares-fall-after-nasdaq-debut",
-      "source_name": "The Globe and Mail Business",
-      "country_code": "CA",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
-      "last_seen_at": "2026-07-14T10:50:39.049859+00:00"
-    },
     "https://asia.nikkei.com/business/markets/sk-hynix-loses-more-than-15-after-successful-nasdaq-debut": {
       "title": "SK Hynix loses more than 15% after successful Nasdaq debut",
       "link": "https://asia.nikkei.com/business/markets/sk-hynix-loses-more-than-15-after-successful-nasdaq-debut",
@@ -34,84 +12,6 @@
       ],
       "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
       "last_seen_at": "2026-07-14T23:55:29.024834+00:00"
-    },
-    "https://www.channelnewsasia.com/east-asia/hyundai-motor-begins-three-day-strike-after-wage-talks-fail-6250331": {
-      "title": "Hyundai Motor begins three-day strike after wage talks fail",
-      "link": "https://www.channelnewsasia.com/east-asia/hyundai-motor-begins-three-day-strike-after-wage-talks-fail-6250331",
-      "source_name": "CNA Asia",
-      "country_code": "SG",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
-      "last_seen_at": "2026-07-14T10:50:39.049859+00:00"
-    },
-    "https://www.straitstimes.com/business/hyundai-motor-begins-three-day-strike-after-wage-talks-fail": {
-      "title": "Hyundai Motor begins three-day strike after wage talks fail",
-      "link": "https://www.straitstimes.com/business/hyundai-motor-begins-three-day-strike-after-wage-talks-fail",
-      "source_name": "The Straits Times",
-      "country_code": "SG",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
-      "last_seen_at": "2026-07-14T10:50:39.049859+00:00"
-    },
-    "https://e.vnexpress.net/news/world/samsung-electronics-to-advance-start-of-chip-factory-to-2029-5096703.html": {
-      "title": "Samsung Electronics to advance start of chip factory to 2029",
-      "link": "https://e.vnexpress.net/news/world/samsung-electronics-to-advance-start-of-chip-factory-to-2029-5096703.html",
-      "source_name": "VnExpress World",
-      "country_code": "VN",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
-      "last_seen_at": "2026-07-14T10:50:39.049859+00:00"
-    },
-    "https://www.straitstimes.com/business/companies-markets/sk-hynix-shares-plunge-10-in-seoul-after-much-hyped-us-trading-debut": {
-      "title": "SK Hynix shares plunge 15.4%, most on record, in deepening South Korea sell-off",
-      "link": "https://www.straitstimes.com/business/companies-markets/sk-hynix-shares-plunge-10-in-seoul-after-much-hyped-us-trading-debut",
-      "source_name": "The Straits Times",
-      "country_code": "SG",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
-      "last_seen_at": "2026-07-14T10:50:39.049859+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-to-advance-start-of-chip-factory-in-yongin-to-2029/articleshow/132355228.cms": {
-      "title": "Samsung Electronics to advance start of chip factory in Yongin to 2029",
-      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-to-advance-start-of-chip-factory-in-yongin-to-2029/articleshow/132355228.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
-      "last_seen_at": "2026-07-14T10:50:39.049859+00:00"
-    },
-    "https://www.channelnewsasia.com/business/oil-stocks-us-iran-war-strikes-6249971": {
-      "title": "Oil prices surge on US-Iran attacks; tech shares fall",
-      "link": "https://www.channelnewsasia.com/business/oil-stocks-us-iran-war-strikes-6249971",
-      "source_name": "CNA Asia",
-      "country_code": "SG",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
-      "last_seen_at": "2026-07-14T10:50:39.049859+00:00"
-    },
-    "https://www.channelnewsasia.com/business/sk-hynix-sinks-after-nasdaq-debut-kospi-south-korea-6249841": {
-      "title": "SK hynix plunges after NASDAQ debut amid profit-taking, diminishing earnings optimism",
-      "link": "https://www.channelnewsasia.com/business/sk-hynix-sinks-after-nasdaq-debut-kospi-south-korea-6249841",
-      "source_name": "CNA Asia",
-      "country_code": "SG",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
-      "last_seen_at": "2026-07-14T10:50:39.049859+00:00"
     },
     "https://www.thehindubusinessline.com/companies/nexon-geochem-ties-up-with-russias-giredmet-for-permanent-magnet-facility/article71217497.ece": {
       "title": "Nexon Geochem ties up with Russia’s Giredmet for permanent magnet facility",
@@ -134,39 +34,6 @@
       ],
       "first_seen_at": "2026-07-14T10:50:39.049859+00:00",
       "last_seen_at": "2026-07-14T23:55:29.024834+00:00"
-    },
-    "https://www.channelnewsasia.com/business/samsung-electronics-denies-report-it-exploring-us-listing-6252916": {
-      "title": "Samsung Electronics denies report that it is exploring US listing",
-      "link": "https://www.channelnewsasia.com/business/samsung-electronics-denies-report-it-exploring-us-listing-6252916",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-07-14T10:50:39.049859+00:00",
-      "last_seen_at": "2026-07-14T10:50:39.049859+00:00"
-    },
-    "https://www.channelnewsasia.com/business/south-korean-court-suspends-ftc-designation-coupang-founder-kim-bom-controlling-entity-6252731": {
-      "title": "South Korean court suspends FTC designation Coupang founder Kim Bom as controlling entity",
-      "link": "https://www.channelnewsasia.com/business/south-korean-court-suspends-ftc-designation-coupang-founder-kim-bom-controlling-entity-6252731",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "Coupang"
-      ],
-      "first_seen_at": "2026-07-14T10:50:39.049859+00:00",
-      "last_seen_at": "2026-07-14T10:50:39.049859+00:00"
-    },
-    "https://www.channelnewsasia.com/business/sk-hynix-set-benefit-south-koreas-ruling-party-seeks-ease-capital-raising-rules-6252496": {
-      "title": "SK Hynix set to benefit as South Korea's ruling party seeks to ease capital-raising rules",
-      "link": "https://www.channelnewsasia.com/business/sk-hynix-set-benefit-south-koreas-ruling-party-seeks-ease-capital-raising-rules-6252496",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-14T10:50:39.049859+00:00",
-      "last_seen_at": "2026-07-14T10:50:39.049859+00:00"
     },
     "https://www.taipeitimes.com/News/editorials/archives/2026/07/15/2003860756": {
       "title": "SK Hynix is a golden goose that has to lay more eggs",
@@ -2414,18 +2281,18 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-27T19:41:29.300097+00:00",
-      "last_seen_at": "2026-08-28T06:49:09.751264+00:00"
+      "last_seen_at": "2026-08-28T20:46:22.121448+00:00"
     },
     "https://www.cnbc.com/2026/08/27/sk-hynix-ceo-says-indiana-will-be-key-memory-production-base-by-2030.html": {
       "title": "SK Hynix CEO says Indiana will be key memory production base by 2030, first U.S. facility now underway",
       "link": "https://www.cnbc.com/2026/08/27/sk-hynix-ceo-says-indiana-will-be-key-memory-production-base-by-2030.html",
-      "source_name": "CNBC Top News",
+      "source_name": "CNBC World News",
       "country_code": "US",
       "companies": [
         "SK hynix"
       ],
       "first_seen_at": "2026-08-27T19:41:29.300097+00:00",
-      "last_seen_at": "2026-08-28T06:49:09.751264+00:00"
+      "last_seen_at": "2026-08-28T20:46:22.121448+00:00"
     },
     "https://asia.nikkei.com/business/technology/artificial-intelligence/sk-hynix-starts-construction-of-first-hbm-chip-packaging-plant-in-us": {
       "title": "SK Hynix starts construction of first HBM chip packaging plant in US",
@@ -2436,7 +2303,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-27T19:41:29.300097+00:00",
-      "last_seen_at": "2026-08-28T06:49:09.751264+00:00"
+      "last_seen_at": "2026-08-28T20:46:22.121448+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/tata-cars-is-now-new-identity-of-tata-motors-passenger-vehicle-business-to-meet-growimg-aspirations-of-aindia/articleshow/133571736.cms": {
       "title": "Tata Motors rolls out Tata.Cars identity for PV business, aims to meet India's growing aspirations",
@@ -2458,7 +2325,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-27T19:41:29.300097+00:00",
-      "last_seen_at": "2026-08-28T06:49:09.751264+00:00"
+      "last_seen_at": "2026-08-28T20:46:22.121448+00:00"
     },
     "https://www.channelnewsasia.com/business/sk-hynix-start-ai-chip-output-in-indiana-in-2029-sees-memory-shortage-through-2030-6345596": {
       "title": "SK Hynix to start AI chip output in Indiana in 2029, sees memory shortage through 2030",
@@ -2492,7 +2359,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-28T06:49:09.751264+00:00",
-      "last_seen_at": "2026-08-28T06:49:09.751264+00:00"
+      "last_seen_at": "2026-08-28T20:46:22.121448+00:00"
     },
     "https://www.straitstimes.com/business/sk-hynix-starts-construction-of-5-billion-memory-hub-in-us-state-of-indiana": {
       "title": "SK Hynix starts construction of $5 billion memory hub in US state of Indiana",
@@ -2503,7 +2370,18 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-28T06:49:09.751264+00:00",
-      "last_seen_at": "2026-08-28T06:49:09.751264+00:00"
+      "last_seen_at": "2026-08-28T20:46:22.121448+00:00"
+    },
+    "https://www.taipeitimes.com/News/biz/archives/2026/08/29/2003863304": {
+      "title": "SK Hynix starts construction at site in US’ Indiana",
+      "link": "https://www.taipeitimes.com/News/biz/archives/2026/08/29/2003863304",
+      "source_name": "Taipei Times",
+      "country_code": "TW",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-08-28T20:46:22.121448+00:00",
+      "last_seen_at": "2026-08-28T20:46:22.121448+00:00"
     }
   }
 }
