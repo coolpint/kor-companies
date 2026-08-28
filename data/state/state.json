@@ -1,29 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-27T19:41:29.300097+00:00",
+  "last_run_at": "2026-08-28T06:49:09.751264+00:00",
   "seen_articles": {
-    "https://asia.nikkei.com/business/markets/sk-hynix-rallies-in-biggest-ever-foreign-share-sale-in-us": {
-      "title": "SK Hynix rallies in biggest-ever foreign share sale in US",
-      "link": "https://asia.nikkei.com/business/markets/sk-hynix-rallies-in-biggest-ever-foreign-share-sale-in-us",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-11T00:01:59.766742+00:00",
-      "last_seen_at": "2026-07-13T23:56:41.967900+00:00"
-    },
-    "https://www.bangkokpost.com/business/motoring/3285127/hyundai-to-export-thai-bevs-to-australia": {
-      "title": "Hyundai to export Thai BEVs to Australia",
-      "link": "https://www.bangkokpost.com/business/motoring/3285127/hyundai-to-export-thai-bevs-to-australia",
-      "source_name": "Bangkok Post Business",
-      "country_code": "TH",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-07-12T23:59:16.571742+00:00",
-      "last_seen_at": "2026-07-13T23:56:41.967900+00:00"
-    },
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-sk-hynix-micron-ramp-up-capacity-as-demand-for-ai-infrastructure-outpaces-supply/articleshow/132365529.cms": {
       "title": "Samsung, SK hynix, Micron ramp up capacity as demand for AI infrastructure outpaces supply",
       "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-sk-hynix-micron-ramp-up-capacity-as-demand-for-ai-infrastructure-outpaces-supply/articleshow/132365529.cms",
@@ -46,28 +24,6 @@
       "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
       "last_seen_at": "2026-07-14T10:50:39.049859+00:00"
     },
-    "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/nexon-geochem-ties-up-with-russias-giredmet-for-rare-earth-processing/articleshow/132361979.cms": {
-      "title": "Nexon Geochem ties up with Russia's Giredmet for rare-earth processing",
-      "link": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/nexon-geochem-ties-up-with-russias-giredmet-for-rare-earth-processing/articleshow/132361979.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Nexon"
-      ],
-      "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
-      "last_seen_at": "2026-07-13T23:56:41.967900+00:00"
-    },
-    "https://www.cnbc.com/2026/07/13/sk-hynix-shares-fall-after-stellar-nasdaq-debut.html": {
-      "title": "SK Hynix South Korean shares clock worst day, sinking over 15%, after stellar Nasdaq debut",
-      "link": "https://www.cnbc.com/2026/07/13/sk-hynix-shares-fall-after-stellar-nasdaq-debut.html",
-      "source_name": "CNBC World News",
-      "country_code": "US",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
-      "last_seen_at": "2026-07-13T23:56:41.967900+00:00"
-    },
     "https://asia.nikkei.com/business/markets/sk-hynix-loses-more-than-15-after-successful-nasdaq-debut": {
       "title": "SK Hynix loses more than 15% after successful Nasdaq debut",
       "link": "https://asia.nikkei.com/business/markets/sk-hynix-loses-more-than-15-after-successful-nasdaq-debut",
@@ -78,17 +34,6 @@
       ],
       "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
       "last_seen_at": "2026-07-14T23:55:29.024834+00:00"
-    },
-    "https://www.cnbc.com/2026/07/13/cnbc-daily-open-chips-ahoy-no-strait-answer-and-earnings-on-deck.html": {
-      "title": "CNBC Daily Open: Chips ahoy, no Strait answer and earnings on deck",
-      "link": "https://www.cnbc.com/2026/07/13/cnbc-daily-open-chips-ahoy-no-strait-answer-and-earnings-on-deck.html",
-      "source_name": "CNBC World News",
-      "country_code": "US",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
-      "last_seen_at": "2026-07-13T23:56:41.967900+00:00"
     },
     "https://www.channelnewsasia.com/east-asia/hyundai-motor-begins-three-day-strike-after-wage-talks-fail-6250331": {
       "title": "Hyundai Motor begins three-day strike after wage talks fail",
@@ -167,17 +112,6 @@
       ],
       "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
       "last_seen_at": "2026-07-14T10:50:39.049859+00:00"
-    },
-    "https://www.channelnewsasia.com/commentary/sk-hynix-shares-stock-market-south-korea-chips-6250521": {
-      "title": "Commentary: SK Hynix is a golden goose. It has to lay more eggs",
-      "link": "https://www.channelnewsasia.com/commentary/sk-hynix-shares-stock-market-south-korea-chips-6250521",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-13T23:56:41.967900+00:00",
-      "last_seen_at": "2026-07-13T23:56:41.967900+00:00"
     },
     "https://www.thehindubusinessline.com/companies/nexon-geochem-ties-up-with-russias-giredmet-for-permanent-magnet-facility/article71217497.ece": {
       "title": "Nexon Geochem ties up with Russia’s Giredmet for permanent magnet facility",
@@ -2480,7 +2414,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-27T19:41:29.300097+00:00",
-      "last_seen_at": "2026-08-27T19:41:29.300097+00:00"
+      "last_seen_at": "2026-08-28T06:49:09.751264+00:00"
     },
     "https://www.cnbc.com/2026/08/27/sk-hynix-ceo-says-indiana-will-be-key-memory-production-base-by-2030.html": {
       "title": "SK Hynix CEO says Indiana will be key memory production base by 2030, first U.S. facility now underway",
@@ -2491,7 +2425,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-27T19:41:29.300097+00:00",
-      "last_seen_at": "2026-08-27T19:41:29.300097+00:00"
+      "last_seen_at": "2026-08-28T06:49:09.751264+00:00"
     },
     "https://asia.nikkei.com/business/technology/artificial-intelligence/sk-hynix-starts-construction-of-first-hbm-chip-packaging-plant-in-us": {
       "title": "SK Hynix starts construction of first HBM chip packaging plant in US",
@@ -2502,7 +2436,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-27T19:41:29.300097+00:00",
-      "last_seen_at": "2026-08-27T19:41:29.300097+00:00"
+      "last_seen_at": "2026-08-28T06:49:09.751264+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/tata-cars-is-now-new-identity-of-tata-motors-passenger-vehicle-business-to-meet-growimg-aspirations-of-aindia/articleshow/133571736.cms": {
       "title": "Tata Motors rolls out Tata.Cars identity for PV business, aims to meet India's growing aspirations",
@@ -2513,7 +2447,7 @@
         "Nexon"
       ],
       "first_seen_at": "2026-08-27T19:41:29.300097+00:00",
-      "last_seen_at": "2026-08-27T19:41:29.300097+00:00"
+      "last_seen_at": "2026-08-28T06:49:09.751264+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/sk-hynix-holds-groundbreaking-ceremony-for-4-billion-indiana-ai-chip-packaging-facility/articleshow/133571010.cms": {
       "title": "SK Hynix holds groundbreaking ceremony for $4 billion Indiana AI chip packaging facility",
@@ -2524,7 +2458,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-27T19:41:29.300097+00:00",
-      "last_seen_at": "2026-08-27T19:41:29.300097+00:00"
+      "last_seen_at": "2026-08-28T06:49:09.751264+00:00"
     },
     "https://www.channelnewsasia.com/business/sk-hynix-start-ai-chip-output-in-indiana-in-2029-sees-memory-shortage-through-2030-6345596": {
       "title": "SK Hynix to start AI chip output in Indiana in 2029, sees memory shortage through 2030",
@@ -2548,6 +2482,28 @@
       ],
       "first_seen_at": "2026-08-27T19:41:29.300097+00:00",
       "last_seen_at": "2026-08-27T19:41:29.300097+00:00"
+    },
+    "https://www.japantimes.co.jp/business/2026/08/28/companies/sk-hynix-memory-industry-ties": {
+      "title": "SK Hynix weighs closer ties with Japan’s memory industry",
+      "link": "https://www.japantimes.co.jp/business/2026/08/28/companies/sk-hynix-memory-industry-ties",
+      "source_name": "The Japan Times",
+      "country_code": "JP",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-08-28T06:49:09.751264+00:00",
+      "last_seen_at": "2026-08-28T06:49:09.751264+00:00"
+    },
+    "https://www.straitstimes.com/business/sk-hynix-starts-construction-of-5-billion-memory-hub-in-us-state-of-indiana": {
+      "title": "SK Hynix starts construction of $5 billion memory hub in US state of Indiana",
+      "link": "https://www.straitstimes.com/business/sk-hynix-starts-construction-of-5-billion-memory-hub-in-us-state-of-indiana",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-08-28T06:49:09.751264+00:00",
+      "last_seen_at": "2026-08-28T06:49:09.751264+00:00"
     }
   }
 }
