@@ -1,40 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-28T20:46:22.121448+00:00",
+  "last_run_at": "2026-08-29T04:03:57.372534+00:00",
   "seen_articles": {
-    "https://asia.nikkei.com/business/markets/sk-hynix-loses-more-than-15-after-successful-nasdaq-debut": {
-      "title": "SK Hynix loses more than 15% after successful Nasdaq debut",
-      "link": "https://asia.nikkei.com/business/markets/sk-hynix-loses-more-than-15-after-successful-nasdaq-debut",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-13T12:09:29.144993+00:00",
-      "last_seen_at": "2026-07-14T23:55:29.024834+00:00"
-    },
-    "https://www.thehindubusinessline.com/companies/nexon-geochem-ties-up-with-russias-giredmet-for-permanent-magnet-facility/article71217497.ece": {
-      "title": "Nexon Geochem ties up with Russia’s Giredmet for permanent magnet facility",
-      "link": "https://www.thehindubusinessline.com/companies/nexon-geochem-ties-up-with-russias-giredmet-for-permanent-magnet-facility/article71217497.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Nexon"
-      ],
-      "first_seen_at": "2026-07-13T23:56:41.967900+00:00",
-      "last_seen_at": "2026-07-14T23:55:29.024834+00:00"
-    },
-    "https://www.cnbc.com/2026/07/14/retail-trader-bottleneck-bros-eyeing-ai-supply-chain-cant-wait-for-sk-hynix-options.html": {
-      "title": "Retail-trader 'bottleneck bros' eyeing AI supply chain can't wait for SK Hynix options",
-      "link": "https://www.cnbc.com/2026/07/14/retail-trader-bottleneck-bros-eyeing-ai-supply-chain-cant-wait-for-sk-hynix-options.html",
-      "source_name": "CNBC World News",
-      "country_code": "US",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-14T10:50:39.049859+00:00",
-      "last_seen_at": "2026-07-14T23:55:29.024834+00:00"
-    },
     "https://www.taipeitimes.com/News/editorials/archives/2026/07/15/2003860756": {
       "title": "SK Hynix is a golden goose that has to lay more eggs",
       "link": "https://www.taipeitimes.com/News/editorials/archives/2026/07/15/2003860756",
@@ -2281,7 +2248,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-27T19:41:29.300097+00:00",
-      "last_seen_at": "2026-08-28T20:46:22.121448+00:00"
+      "last_seen_at": "2026-08-29T04:03:57.372534+00:00"
     },
     "https://www.cnbc.com/2026/08/27/sk-hynix-ceo-says-indiana-will-be-key-memory-production-base-by-2030.html": {
       "title": "SK Hynix CEO says Indiana will be key memory production base by 2030, first U.S. facility now underway",
@@ -2292,7 +2259,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-27T19:41:29.300097+00:00",
-      "last_seen_at": "2026-08-28T20:46:22.121448+00:00"
+      "last_seen_at": "2026-08-29T04:03:57.372534+00:00"
     },
     "https://asia.nikkei.com/business/technology/artificial-intelligence/sk-hynix-starts-construction-of-first-hbm-chip-packaging-plant-in-us": {
       "title": "SK Hynix starts construction of first HBM chip packaging plant in US",
@@ -2303,7 +2270,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-27T19:41:29.300097+00:00",
-      "last_seen_at": "2026-08-28T20:46:22.121448+00:00"
+      "last_seen_at": "2026-08-29T04:03:57.372534+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/tata-cars-is-now-new-identity-of-tata-motors-passenger-vehicle-business-to-meet-growimg-aspirations-of-aindia/articleshow/133571736.cms": {
       "title": "Tata Motors rolls out Tata.Cars identity for PV business, aims to meet India's growing aspirations",
@@ -2370,7 +2337,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-28T06:49:09.751264+00:00",
-      "last_seen_at": "2026-08-28T20:46:22.121448+00:00"
+      "last_seen_at": "2026-08-29T04:03:57.372534+00:00"
     },
     "https://www.taipeitimes.com/News/biz/archives/2026/08/29/2003863304": {
       "title": "SK Hynix starts construction at site in US’ Indiana",
@@ -2381,7 +2348,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-28T20:46:22.121448+00:00",
-      "last_seen_at": "2026-08-28T20:46:22.121448+00:00"
+      "last_seen_at": "2026-08-29T04:03:57.372534+00:00"
     }
   }
 }
