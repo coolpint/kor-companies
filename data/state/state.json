@@ -1,62 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-29T04:03:57.372534+00:00",
+  "last_run_at": "2026-08-29T14:15:59.023547+00:00",
   "seen_articles": {
-    "https://www.taipeitimes.com/News/editorials/archives/2026/07/15/2003860756": {
-      "title": "SK Hynix is a golden goose that has to lay more eggs",
-      "link": "https://www.taipeitimes.com/News/editorials/archives/2026/07/15/2003860756",
-      "source_name": "Taipei Times",
-      "country_code": "TW",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-14T23:55:29.024834+00:00",
-      "last_seen_at": "2026-07-15T10:54:12.394612+00:00"
-    },
-    "https://www.cnbc.com/2026/07/14/sk-hynix-options-begin-trading-but-another-group-of-stocks-is-stealing-its-thunder.html": {
-      "title": "SK Hynix options begin trading. But another group of stocks is stealing its thunder",
-      "link": "https://www.cnbc.com/2026/07/14/sk-hynix-options-begin-trading-but-another-group-of-stocks-is-stealing-its-thunder.html",
-      "source_name": "CNBC World News",
-      "country_code": "US",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-14T23:55:29.024834+00:00",
-      "last_seen_at": "2026-07-15T10:54:12.394612+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/wall-street-banks-see-ai-super-cycle-set-to-boost-deals-financing/articleshow/132398909.cms": {
-      "title": "Wall Street banks see AI 'super cycle' set to boost deals, financing",
-      "link": "https://economictimes.indiatimes.com/tech/technology/wall-street-banks-see-ai-super-cycle-set-to-boost-deals-financing/articleshow/132398909.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-14T23:55:29.024834+00:00",
-      "last_seen_at": "2026-07-15T10:54:12.394612+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/chip-toolmaker-asml-expected-to-shine-light-on-capacity-and-china-challenges/articleshow/132390184.cms": {
-      "title": "Chip toolmaker ASML expected to shine light on capacity and China challenges",
-      "link": "https://economictimes.indiatimes.com/tech/technology/chip-toolmaker-asml-expected-to-shine-light-on-capacity-and-china-challenges/articleshow/132390184.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-14T23:55:29.024834+00:00",
-      "last_seen_at": "2026-07-15T10:54:12.394612+00:00"
-    },
-    "https://www.marketwatch.com/story/why-the-huge-premium-on-sk-hynixs-u-s-listing-may-prove-short-lived-582045f2?mod=mw_rss_topstories": {
-      "title": "Why the huge premium on SK Hynix’s U.S. listing may prove short-lived.",
-      "link": "https://www.marketwatch.com/story/why-the-huge-premium-on-sk-hynixs-u-s-listing-may-prove-short-lived-582045f2?mod=mw_rss_topstories",
-      "source_name": "MarketWatch Top Stories",
-      "country_code": "US",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-15T10:54:12.394612+00:00",
-      "last_seen_at": "2026-07-15T10:54:12.394612+00:00"
-    },
     "https://www.cnbc.com/2026/07/15/sk-hynix-asia-tech-stocks-rally-.html": {
       "title": "SK Hynix South Korean shares jump 8% as Asia tech stocks rally",
       "link": "https://www.cnbc.com/2026/07/15/sk-hynix-asia-tech-stocks-rally-.html",
@@ -67,17 +12,6 @@
       ],
       "first_seen_at": "2026-07-15T10:54:12.394612+00:00",
       "last_seen_at": "2026-07-17T00:01:20.563382+00:00"
-    },
-    "https://www.scmp.com/news/asia/east-asia/article/3360636/us402000-bonus-splits-samsung-device-and-chip-workers-anger-feud-mount": {
-      "title": "US$402,000 bonus splits Samsung device and chip workers as anger, feud mount",
-      "link": "https://www.scmp.com/news/asia/east-asia/article/3360636/us402000-bonus-splits-samsung-device-and-chip-workers-anger-feud-mount",
-      "source_name": "South China Morning Post World",
-      "country_code": "HK",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-07-15T10:54:12.394612+00:00",
-      "last_seen_at": "2026-07-15T10:54:12.394612+00:00"
     },
     "https://www.cnbc.com/2026/07/15/cnbc-daily-open-chips-asml-earnings.html": {
       "title": "CNBC Daily Open: A chip off the AI block",
@@ -100,17 +34,6 @@
       ],
       "first_seen_at": "2026-07-15T10:54:12.394612+00:00",
       "last_seen_at": "2026-07-16T11:03:11.827242+00:00"
-    },
-    "https://www.channelnewsasia.com/business/sk-hynix-shares-surge-13-ai-hopes-us-tech-stocks-resume-their-climb-6254871": {
-      "title": "SK Hynix shares surge 13% on AI hopes as US tech stocks resume their climb",
-      "link": "https://www.channelnewsasia.com/business/sk-hynix-shares-surge-13-ai-hopes-us-tech-stocks-resume-their-climb-6254871",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-15T10:54:12.394612+00:00",
-      "last_seen_at": "2026-07-15T10:54:12.394612+00:00"
     },
     "https://www.ft.com/content/d86edec3-395a-43d6-bd88-d58b46d952c7": {
       "title": "New SK Hynix ADRs are trading at a BIG premium",
@@ -2248,7 +2171,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-27T19:41:29.300097+00:00",
-      "last_seen_at": "2026-08-29T04:03:57.372534+00:00"
+      "last_seen_at": "2026-08-29T14:15:59.023547+00:00"
     },
     "https://www.cnbc.com/2026/08/27/sk-hynix-ceo-says-indiana-will-be-key-memory-production-base-by-2030.html": {
       "title": "SK Hynix CEO says Indiana will be key memory production base by 2030, first U.S. facility now underway",
@@ -2337,7 +2260,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-28T06:49:09.751264+00:00",
-      "last_seen_at": "2026-08-29T04:03:57.372534+00:00"
+      "last_seen_at": "2026-08-29T14:15:59.023547+00:00"
     },
     "https://www.taipeitimes.com/News/biz/archives/2026/08/29/2003863304": {
       "title": "SK Hynix starts construction at site in US’ Indiana",
@@ -2348,7 +2271,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-28T20:46:22.121448+00:00",
-      "last_seen_at": "2026-08-29T04:03:57.372534+00:00"
+      "last_seen_at": "2026-08-29T14:15:59.023547+00:00"
     }
   }
 }
