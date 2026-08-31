@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-31T01:13:47.946168+00:00",
+  "last_run_at": "2026-08-31T16:54:35.065495+00:00",
   "seen_articles": {
-    "https://www.thehindubusinessline.com/companies/hyundai-motor-group-to-buy-softbanks-remaining-stake-in-boston-dynamics/article71228393.ece": {
-      "title": "Hyundai Motor Group to buy SoftBank's remaining stake in Boston Dynamics",
-      "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-group-to-buy-softbanks-remaining-stake-in-boston-dynamics/article71228393.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-07-16T11:03:11.827242+00:00",
-      "last_seen_at": "2026-07-17T10:50:46.178970+00:00"
-    },
     "https://economictimes.indiatimes.com/tech/technology/how-a-dispute-over-ecommerce-firm-coupang-is-testing-us-south-korea-ties/articleshow/132458282.cms": {
       "title": "How a dispute over ecommerce firm Coupang is testing US-South Korea ties",
       "link": "https://economictimes.indiatimes.com/tech/technology/how-a-dispute-over-ecommerce-firm-coupang-is-testing-us-south-korea-ties/articleshow/132458282.cms",
@@ -2194,7 +2183,29 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-30T14:20:24.584334+00:00",
-      "last_seen_at": "2026-08-31T01:13:47.946168+00:00"
+      "last_seen_at": "2026-08-31T16:54:35.065495+00:00"
+    },
+    "https://www.cnbc.com/2026/08/31/coupang-south-korea-us-tariffs.html": {
+      "title": "Coupang dispute fuels new U.S. tariff pressure on South Korea",
+      "link": "https://www.cnbc.com/2026/08/31/coupang-south-korea-us-tariffs.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "Coupang"
+      ],
+      "first_seen_at": "2026-08-31T16:54:35.065495+00:00",
+      "last_seen_at": "2026-08-31T16:54:35.065495+00:00"
+    },
+    "https://www.japantimes.co.jp/business/2026/08/31/companies/sk-hynix-joint-venture-feasibility": {
+      "title": "SK Hynix weighs Japan memory fab partnership to supply AI boom",
+      "link": "https://www.japantimes.co.jp/business/2026/08/31/companies/sk-hynix-joint-venture-feasibility",
+      "source_name": "The Japan Times",
+      "country_code": "JP",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-08-31T16:54:35.065495+00:00",
+      "last_seen_at": "2026-08-31T16:54:35.065495+00:00"
     }
   }
 }
