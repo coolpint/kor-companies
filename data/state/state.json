@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-30T14:20:24.584334+00:00",
+  "last_run_at": "2026-08-31T01:13:47.946168+00:00",
   "seen_articles": {
-    "https://www.cnbc.com/2026/07/15/sk-hynix-asia-tech-stocks-rally-.html": {
-      "title": "SK Hynix South Korean shares jump 8% as Asia tech stocks rally",
-      "link": "https://www.cnbc.com/2026/07/15/sk-hynix-asia-tech-stocks-rally-.html",
-      "source_name": "CNBC Technology",
-      "country_code": "US",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-15T10:54:12.394612+00:00",
-      "last_seen_at": "2026-07-17T00:01:20.563382+00:00"
-    },
     "https://www.thehindubusinessline.com/companies/hyundai-motor-group-to-buy-softbanks-remaining-stake-in-boston-dynamics/article71228393.ece": {
       "title": "Hyundai Motor Group to buy SoftBank's remaining stake in Boston Dynamics",
       "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-group-to-buy-softbanks-remaining-stake-in-boston-dynamics/article71228393.ece",
@@ -23,17 +12,6 @@
       ],
       "first_seen_at": "2026-07-16T11:03:11.827242+00:00",
       "last_seen_at": "2026-07-17T10:50:46.178970+00:00"
-    },
-    "https://www.cnbc.com/2026/07/16/sk-hynix-falls-amid-asia-tech-rout-tracking-us-semiconductor-losses.html": {
-      "title": "SK Hynix shares plunge over 11% as Asia sees tech rout, tracking U.S. chip losses",
-      "link": "https://www.cnbc.com/2026/07/16/sk-hynix-falls-amid-asia-tech-rout-tracking-us-semiconductor-losses.html",
-      "source_name": "CNBC World News",
-      "country_code": "US",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-16T11:03:11.827242+00:00",
-      "last_seen_at": "2026-07-17T00:01:20.563382+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/how-a-dispute-over-ecommerce-firm-coupang-is-testing-us-south-korea-ties/articleshow/132458282.cms": {
       "title": "How a dispute over ecommerce firm Coupang is testing US-South Korea ties",
@@ -2216,7 +2194,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-30T14:20:24.584334+00:00",
-      "last_seen_at": "2026-08-30T14:20:24.584334+00:00"
+      "last_seen_at": "2026-08-31T01:13:47.946168+00:00"
     }
   }
 }
