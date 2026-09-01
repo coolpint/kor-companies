@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-08-31T16:54:35.065495+00:00",
+  "last_run_at": "2026-09-01T01:43:33.609447+00:00",
   "seen_articles": {
     "https://economictimes.indiatimes.com/tech/technology/how-a-dispute-over-ecommerce-firm-coupang-is-testing-us-south-korea-ties/articleshow/132458282.cms": {
       "title": "How a dispute over ecommerce firm Coupang is testing US-South Korea ties",
@@ -2188,13 +2188,13 @@
     "https://www.cnbc.com/2026/08/31/coupang-south-korea-us-tariffs.html": {
       "title": "Coupang dispute fuels new U.S. tariff pressure on South Korea",
       "link": "https://www.cnbc.com/2026/08/31/coupang-south-korea-us-tariffs.html",
-      "source_name": "CNBC Top News",
+      "source_name": "CNBC Technology",
       "country_code": "US",
       "companies": [
         "Coupang"
       ],
       "first_seen_at": "2026-08-31T16:54:35.065495+00:00",
-      "last_seen_at": "2026-08-31T16:54:35.065495+00:00"
+      "last_seen_at": "2026-09-01T01:43:33.609447+00:00"
     },
     "https://www.japantimes.co.jp/business/2026/08/31/companies/sk-hynix-joint-venture-feasibility": {
       "title": "SK Hynix weighs Japan memory fab partnership to supply AI boom",
@@ -2205,7 +2205,29 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-08-31T16:54:35.065495+00:00",
-      "last_seen_at": "2026-08-31T16:54:35.065495+00:00"
+      "last_seen_at": "2026-09-01T01:43:33.609447+00:00"
+    },
+    "https://www.channelnewsasia.com/business/hyundai-motors-south-korean-union-approves-wage-deal-6353106": {
+      "title": "Hyundai Motor's South Korean union approves wage deal",
+      "link": "https://www.channelnewsasia.com/business/hyundai-motors-south-korean-union-approves-wage-deal-6353106",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-09-01T01:43:33.609447+00:00",
+      "last_seen_at": "2026-09-01T01:43:33.609447+00:00"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/japanese-play-for-sk-hynix-chip-plant-faces-south-korean-policy-hurdles": {
+      "title": "Japanese play for SK Hynix chip plant faces South Korean policy hurdles",
+      "link": "https://asia.nikkei.com/business/tech/semiconductors/japanese-play-for-sk-hynix-chip-plant-faces-south-korean-policy-hurdles",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-09-01T01:43:33.609447+00:00",
+      "last_seen_at": "2026-09-01T01:43:33.609447+00:00"
     }
   }
 }
