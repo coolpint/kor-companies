@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-01T01:43:33.609447+00:00",
+  "last_run_at": "2026-09-01T14:01:48.438155+00:00",
   "seen_articles": {
-    "https://economictimes.indiatimes.com/tech/technology/how-a-dispute-over-ecommerce-firm-coupang-is-testing-us-south-korea-ties/articleshow/132458282.cms": {
-      "title": "How a dispute over ecommerce firm Coupang is testing US-South Korea ties",
-      "link": "https://economictimes.indiatimes.com/tech/technology/how-a-dispute-over-ecommerce-firm-coupang-is-testing-us-south-korea-ties/articleshow/132458282.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Coupang"
-      ],
-      "first_seen_at": "2026-07-17T10:50:46.178970+00:00",
-      "last_seen_at": "2026-07-18T10:21:01.868258+00:00"
-    },
     "https://www.channelnewsasia.com/business/samsung-electronics-america-reduce-workforce-739-in-new-jersey-warn-notice-says-6263221": {
       "title": "Samsung Electronics America to reduce workforce by 739 in New Jersey, WARN notice says",
       "link": "https://www.channelnewsasia.com/business/samsung-electronics-america-reduce-workforce-739-in-new-jersey-warn-notice-says-6263221",
@@ -2194,7 +2183,7 @@
         "Coupang"
       ],
       "first_seen_at": "2026-08-31T16:54:35.065495+00:00",
-      "last_seen_at": "2026-09-01T01:43:33.609447+00:00"
+      "last_seen_at": "2026-09-01T14:01:48.438155+00:00"
     },
     "https://www.japantimes.co.jp/business/2026/08/31/companies/sk-hynix-joint-venture-feasibility": {
       "title": "SK Hynix weighs Japan memory fab partnership to supply AI boom",
@@ -2227,7 +2216,52 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-09-01T01:43:33.609447+00:00",
-      "last_seen_at": "2026-09-01T01:43:33.609447+00:00"
+      "last_seen_at": "2026-09-01T14:01:48.438155+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/auto-news/indias-passenger-vehicle-sales-jump-35-to-4-5-lakh-in-august-as-maruti-mm-drive-growth/articleshow/133681943.cms": {
+      "title": "India’s passenger vehicle sales jump 35% to 4.5 lakh in August as Maruti, M&M drive growth",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/indias-passenger-vehicle-sales-jump-35-to-4-5-lakh-in-august-as-maruti-mm-drive-growth/articleshow/133681943.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor",
+        "Kia"
+      ],
+      "first_seen_at": "2026-09-01T14:01:48.438155+00:00",
+      "last_seen_at": "2026-09-01T14:01:48.438155+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/auto-news/maruti-crosses-1-million-sales-in-fy27-as-hyundai-tata-motors-report-strong-august-numbers/articleshow/133673155.cms": {
+      "title": "Maruti crosses 1-million sales in FY27 as Hyundai, Tata Motors report strong August numbers",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/maruti-crosses-1-million-sales-in-fy27-as-hyundai-tata-motors-report-strong-august-numbers/articleshow/133673155.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-09-01T14:01:48.438155+00:00",
+      "last_seen_at": "2026-09-01T14:01:48.438155+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-india-august-sales-rise-8-8-to-65796-units/articleshow/133671418.cms": {
+      "title": "Hyundai Motor India August sales rise 8.8% to 65,796 units",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-india-august-sales-rise-8-8-to-65796-units/articleshow/133671418.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-09-01T14:01:48.438155+00:00",
+      "last_seen_at": "2026-09-01T14:01:48.438155+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/hyundai-motor-india-august-sales-rise-88-to-65796-units/article71413987.ece": {
+      "title": "Hyundai Motor India August sales rise 8.8% to 65,796 units",
+      "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-august-sales-rise-88-to-65796-units/article71413987.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-09-01T14:01:48.438155+00:00",
+      "last_seen_at": "2026-09-01T14:01:48.438155+00:00"
     }
   }
 }
