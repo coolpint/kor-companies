@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-02T00:53:58.133366+00:00",
+  "last_run_at": "2026-09-02T13:26:13.236289+00:00",
   "seen_articles": {
     "https://www.thehindubusinessline.com/companies/continental-ag-spun-off-aumovio-eyes-45-revenue-jump-in-fy27-on-safety-and-software-push/article71240909.ece": {
       "title": "Continental AG-Spun-Off Aumovio India eyes 45% revenue jump in FY27 on safety and software push",
@@ -2251,6 +2251,39 @@
       ],
       "first_seen_at": "2026-09-01T14:01:48.438155+00:00",
       "last_seen_at": "2026-09-02T00:53:58.133366+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-india-targets-no-2-spot-with-new-suvs-higher-production-capacity/articleshow/133710694.cms": {
+      "title": "Hyundai Motor India targets No. 2 spot with new SUVs, higher production capacity",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-india-targets-no-2-spot-with-new-suvs-higher-production-capacity/articleshow/133710694.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-09-02T13:26:13.236289+00:00",
+      "last_seen_at": "2026-09-02T13:26:13.236289+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/auto-news/india-needs-to-build-advanced-tech-capabilities-reduce-import-dependence-hyundai-ceo-tarun-garg/articleshow/133703447.cms": {
+      "title": "India needs to build advanced tech capabilities, reduce import dependence: Hyundai CEO Tarun Garg",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/india-needs-to-build-advanced-tech-capabilities-reduce-import-dependence-hyundai-ceo-tarun-garg/articleshow/133703447.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-09-02T13:26:13.236289+00:00",
+      "last_seen_at": "2026-09-02T13:26:13.236289+00:00"
+    },
+    "https://www.channelnewsasia.com/business/exclusive-south-korean-fx-authorities-bought-20-billion-in-repatriated-sk-hynix-funds-source-says-6357166": {
+      "title": "Exclusive-South Korean FX authorities bought $20 billion in repatriated SK Hynix funds, source says",
+      "link": "https://www.channelnewsasia.com/business/exclusive-south-korean-fx-authorities-bought-20-billion-in-repatriated-sk-hynix-funds-source-says-6357166",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-09-02T13:26:13.236289+00:00",
+      "last_seen_at": "2026-09-02T13:26:13.236289+00:00"
     }
   }
 }
