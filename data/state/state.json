@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-02T13:26:13.236289+00:00",
+  "last_run_at": "2026-09-03T13:24:28.302560+00:00",
   "seen_articles": {
     "https://www.thehindubusinessline.com/companies/continental-ag-spun-off-aumovio-eyes-45-revenue-jump-in-fy27-on-safety-and-software-push/article71240909.ece": {
       "title": "Continental AG-Spun-Off Aumovio India eyes 45% revenue jump in FY27 on safety and software push",
@@ -13,17 +13,6 @@
       ],
       "first_seen_at": "2026-07-19T10:37:18.256316+00:00",
       "last_seen_at": "2026-07-21T11:11:17.234023+00:00"
-    },
-    "https://www.bangkokpost.com/business/general/3288579/air-conditioners-post-solid-sales-growth": {
-      "title": "Air conditioners post solid sales growth",
-      "link": "https://www.bangkokpost.com/business/general/3288579/air-conditioners-post-solid-sales-growth",
-      "source_name": "Bangkok Post Business",
-      "country_code": "TH",
-      "companies": [
-        "LG Electronics"
-      ],
-      "first_seen_at": "2026-07-20T00:00:40.121694+00:00",
-      "last_seen_at": "2026-07-20T11:48:54.418695+00:00"
     },
     "https://www.thehindubusinessline.com/companies/hyundai-motor-india-integrates-30000-ev-charging-points-into-myhyundai-app/article71244655.ece": {
       "title": "Hyundai Motor India integrates 30,000 EV charging points into myHyundai app",
@@ -2284,6 +2273,62 @@
       ],
       "first_seen_at": "2026-09-02T13:26:13.236289+00:00",
       "last_seen_at": "2026-09-02T13:26:13.236289+00:00"
+    },
+    "https://www.thehindubusinessline.com/economy/logistics/hd-hyundai-delegation-visits-thoothukudi-over-shipyard-plans/article71423214.ece": {
+      "title": "HD Hyundai delegation visits Thoothukudi over shipyard plans",
+      "link": "https://www.thehindubusinessline.com/economy/logistics/hd-hyundai-delegation-visits-thoothukudi-over-shipyard-plans/article71423214.ece",
+      "source_name": "BusinessLine Economy",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor",
+        "HD Hyundai"
+      ],
+      "first_seen_at": "2026-09-03T13:24:28.302560+00:00",
+      "last_seen_at": "2026-09-03T13:24:28.302560+00:00"
+    },
+    "https://www.theglobeandmail.com/culture/music/article-bang-si-hyuk-bts-referred-to-prosecutors-over-alleged-investor-fraud": {
+      "title": "K-pop mogul behind BTS referred to prosecutors over alleged investor fraud",
+      "link": "https://www.theglobeandmail.com/culture/music/article-bang-si-hyuk-bts-referred-to-prosecutors-over-alleged-investor-fraud",
+      "source_name": "The Globe and Mail World",
+      "country_code": "CA",
+      "companies": [
+        "HYBE"
+      ],
+      "first_seen_at": "2026-09-03T13:24:28.302560+00:00",
+      "last_seen_at": "2026-09-03T13:24:28.302560+00:00"
+    },
+    "https://www.scmp.com/news/asia/east-asia/article/3366240/south-korean-police-seek-tycoon-behind-k-pop-supergroup-bts-be-indicted": {
+      "title": "South Korean police seek tycoon behind K-pop supergroup BTS to be indicted",
+      "link": "https://www.scmp.com/news/asia/east-asia/article/3366240/south-korean-police-seek-tycoon-behind-k-pop-supergroup-bts-be-indicted",
+      "source_name": "South China Morning Post World",
+      "country_code": "HK",
+      "companies": [
+        "HYBE"
+      ],
+      "first_seen_at": "2026-09-03T13:24:28.302560+00:00",
+      "last_seen_at": "2026-09-03T13:24:28.302560+00:00"
+    },
+    "https://www.straitstimes.com/business/bang-si-hyuk-founder-of-bts-agency-hybe-referred-to-prosecutors-report": {
+      "title": "Bang Si-hyuk, founder of BTS agency Hybe, referred to prosecutors: Report",
+      "link": "https://www.straitstimes.com/business/bang-si-hyuk-founder-of-bts-agency-hybe-referred-to-prosecutors-report",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "companies": [
+        "HYBE"
+      ],
+      "first_seen_at": "2026-09-03T13:24:28.302560+00:00",
+      "last_seen_at": "2026-09-03T13:24:28.302560+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/south-korea-utility-proposes-samsung-pays-15-billion-in-advance-for-power-paper-says/articleshow/133727518.cms": {
+      "title": "South Korea utility proposes Samsung pays $15 billion in advance for power, paper says",
+      "link": "https://economictimes.indiatimes.com/tech/technology/south-korea-utility-proposes-samsung-pays-15-billion-in-advance-for-power-paper-says/articleshow/133727518.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-09-03T13:24:28.302560+00:00",
+      "last_seen_at": "2026-09-03T13:24:28.302560+00:00"
     }
   }
 }
