@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-03T13:24:28.302560+00:00",
+  "last_run_at": "2026-09-04T00:51:39.080191+00:00",
   "seen_articles": {
     "https://www.thehindubusinessline.com/companies/continental-ag-spun-off-aumovio-eyes-45-revenue-jump-in-fy27-on-safety-and-software-push/article71240909.ece": {
       "title": "Continental AG-Spun-Off Aumovio India eyes 45% revenue jump in FY27 on safety and software push",
@@ -60,28 +60,6 @@
       "first_seen_at": "2026-07-20T11:48:54.418695+00:00",
       "last_seen_at": "2026-07-21T11:11:17.234023+00:00"
     },
-    "https://www.cnbc.com/2026/07/20/samsung-biologics-polypeptide-group-deal-switzerland.html": {
-      "title": "Samsung Biologics makes $1.8 billion all-cash offer for Switzerland's PolyPeptide Group",
-      "link": "https://www.cnbc.com/2026/07/20/samsung-biologics-polypeptide-group-deal-switzerland.html",
-      "source_name": "CNBC World News",
-      "country_code": "US",
-      "companies": [
-        "Samsung Biologics"
-      ],
-      "first_seen_at": "2026-07-20T11:48:54.418695+00:00",
-      "last_seen_at": "2026-07-20T23:59:42.079521+00:00"
-    },
-    "https://www.ft.com/content/715da6d5-bd8a-4419-b45c-8cfb02d847be?syn-25a6b1a6=1": {
-      "title": "Samsung Biologics buys Swiss peptide maker for $1.8bn",
-      "link": "https://www.ft.com/content/715da6d5-bd8a-4419-b45c-8cfb02d847be?syn-25a6b1a6=1",
-      "source_name": "Financial Times Companies",
-      "country_code": "GB",
-      "companies": [
-        "Samsung Biologics"
-      ],
-      "first_seen_at": "2026-07-20T11:48:54.418695+00:00",
-      "last_seen_at": "2026-07-20T23:59:42.079521+00:00"
-    },
     "https://www.cnbc.com/2026/07/20/give-me-my-money-back-south-korean-traders-leveraged-bets-unravel.html": {
       "title": "'Give me my money back': South Korean traders' leveraged SK Hynix, Samsung bets unravel after sell-off",
       "link": "https://www.cnbc.com/2026/07/20/give-me-my-money-back-south-korean-traders-leveraged-bets-unravel.html",
@@ -103,17 +81,6 @@
       ],
       "first_seen_at": "2026-07-20T11:48:54.418695+00:00",
       "last_seen_at": "2026-07-21T11:11:17.234023+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/how-a-dispute-over-ecommerce-firm-coupang-is-testing-us-south-korea-ties/articleshow/132504535.cms": {
-      "title": "How a dispute over ecommerce firm Coupang is testing US-South Korea ties",
-      "link": "https://economictimes.indiatimes.com/tech/technology/how-a-dispute-over-ecommerce-firm-coupang-is-testing-us-south-korea-ties/articleshow/132504535.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Coupang"
-      ],
-      "first_seen_at": "2026-07-20T11:48:54.418695+00:00",
-      "last_seen_at": "2026-07-20T23:59:42.079521+00:00"
     },
     "https://asia.nikkei.com/business/media-entertainment/game-giant-nexon-s-shares-drop-despite-success-of-arc-raiders": {
       "title": "Game giant Nexon's shares drop despite success of ARC Raiders",
@@ -2284,7 +2251,7 @@
         "HD Hyundai"
       ],
       "first_seen_at": "2026-09-03T13:24:28.302560+00:00",
-      "last_seen_at": "2026-09-03T13:24:28.302560+00:00"
+      "last_seen_at": "2026-09-04T00:51:39.080191+00:00"
     },
     "https://www.theglobeandmail.com/culture/music/article-bang-si-hyuk-bts-referred-to-prosecutors-over-alleged-investor-fraud": {
       "title": "K-pop mogul behind BTS referred to prosecutors over alleged investor fraud",
@@ -2295,7 +2262,7 @@
         "HYBE"
       ],
       "first_seen_at": "2026-09-03T13:24:28.302560+00:00",
-      "last_seen_at": "2026-09-03T13:24:28.302560+00:00"
+      "last_seen_at": "2026-09-04T00:51:39.080191+00:00"
     },
     "https://www.scmp.com/news/asia/east-asia/article/3366240/south-korean-police-seek-tycoon-behind-k-pop-supergroup-bts-be-indicted": {
       "title": "South Korean police seek tycoon behind K-pop supergroup BTS to be indicted",
@@ -2306,7 +2273,7 @@
         "HYBE"
       ],
       "first_seen_at": "2026-09-03T13:24:28.302560+00:00",
-      "last_seen_at": "2026-09-03T13:24:28.302560+00:00"
+      "last_seen_at": "2026-09-04T00:51:39.080191+00:00"
     },
     "https://www.straitstimes.com/business/bang-si-hyuk-founder-of-bts-agency-hybe-referred-to-prosecutors-report": {
       "title": "Bang Si-hyuk, founder of BTS agency Hybe, referred to prosecutors: Report",
@@ -2317,7 +2284,7 @@
         "HYBE"
       ],
       "first_seen_at": "2026-09-03T13:24:28.302560+00:00",
-      "last_seen_at": "2026-09-03T13:24:28.302560+00:00"
+      "last_seen_at": "2026-09-04T00:51:39.080191+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/south-korea-utility-proposes-samsung-pays-15-billion-in-advance-for-power-paper-says/articleshow/133727518.cms": {
       "title": "South Korea utility proposes Samsung pays $15 billion in advance for power, paper says",
@@ -2328,7 +2295,30 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-09-03T13:24:28.302560+00:00",
-      "last_seen_at": "2026-09-03T13:24:28.302560+00:00"
+      "last_seen_at": "2026-09-04T00:51:39.080191+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/andhra-woos-hd-hyundai-with-4-billion-shipbuilding-cluster/articleshow/133744667.cms": {
+      "title": "Andhra woos HD Hyundai with $4 billion shipbuilding cluster",
+      "link": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/andhra-woos-hd-hyundai-with-4-billion-shipbuilding-cluster/articleshow/133744667.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor",
+        "HD Hyundai"
+      ],
+      "first_seen_at": "2026-09-04T00:51:39.080191+00:00",
+      "last_seen_at": "2026-09-04T00:51:39.080191+00:00"
+    },
+    "https://asia.nikkei.com/business/markets/currencies/won-rallies-on-sk-hynix-s-us-listing-corporate-funds-repatriation": {
+      "title": "Won rallies on SK Hynix's US listing, corporate funds repatriation",
+      "link": "https://asia.nikkei.com/business/markets/currencies/won-rallies-on-sk-hynix-s-us-listing-corporate-funds-repatriation",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-09-04T00:51:39.080191+00:00",
+      "last_seen_at": "2026-09-04T00:51:39.080191+00:00"
     }
   }
 }
