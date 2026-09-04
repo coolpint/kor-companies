@@ -1,19 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-04T00:51:39.080191+00:00",
+  "last_run_at": "2026-09-04T13:19:16.326795+00:00",
   "seen_articles": {
-    "https://www.thehindubusinessline.com/companies/continental-ag-spun-off-aumovio-eyes-45-revenue-jump-in-fy27-on-safety-and-software-push/article71240909.ece": {
-      "title": "Continental AG-Spun-Off Aumovio India eyes 45% revenue jump in FY27 on safety and software push",
-      "link": "https://www.thehindubusinessline.com/companies/continental-ag-spun-off-aumovio-eyes-45-revenue-jump-in-fy27-on-safety-and-software-push/article71240909.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor",
-        "Kia"
-      ],
-      "first_seen_at": "2026-07-19T10:37:18.256316+00:00",
-      "last_seen_at": "2026-07-21T11:11:17.234023+00:00"
-    },
     "https://www.thehindubusinessline.com/companies/hyundai-motor-india-integrates-30000-ev-charging-points-into-myhyundai-app/article71244655.ece": {
       "title": "Hyundai Motor India integrates 30,000 EV charging points into myHyundai app",
       "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-integrates-30000-ev-charging-points-into-myhyundai-app/article71244655.ece",
@@ -25,41 +13,6 @@
       "first_seen_at": "2026-07-20T11:48:54.418695+00:00",
       "last_seen_at": "2026-07-21T23:57:48.619139+00:00"
     },
-    "https://www.thehindubusinessline.com/companies/tata-osprey-joins-maruti-across-and-toyota-urban-cruiser-as-india-made-cars-go-global/article71244410.ece": {
-      "title": "Tata Osprey joins Maruti Across and Toyota Urban Cruiser as India-made cars go global",
-      "link": "https://www.thehindubusinessline.com/companies/tata-osprey-joins-maruti-across-and-toyota-urban-cruiser-as-india-made-cars-go-global/article71244410.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Nexon"
-      ],
-      "first_seen_at": "2026-07-20T11:48:54.418695+00:00",
-      "last_seen_at": "2026-07-21T11:11:17.234023+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-sk-hynix-advance-new-memory-layer-to-tackle-ai-scaling-limits/articleshow/132511928.cms": {
-      "title": "Samsung, SK Hynix advance new memory layer to tackle AI scaling limits",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-sk-hynix-advance-new-memory-layer-to-tackle-ai-scaling-limits/articleshow/132511928.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-20T11:48:54.418695+00:00",
-      "last_seen_at": "2026-07-21T11:11:17.234023+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/chinas-cxmt-targets-global-dram-giants-with-record-8-5-billion-ipo/articleshow/132511782.cms": {
-      "title": "China's CXMT targets global DRAM giants with record $8.5 billion IPO",
-      "link": "https://economictimes.indiatimes.com/tech/technology/chinas-cxmt-targets-global-dram-giants-with-record-8-5-billion-ipo/articleshow/132511782.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-20T11:48:54.418695+00:00",
-      "last_seen_at": "2026-07-21T11:11:17.234023+00:00"
-    },
     "https://www.cnbc.com/2026/07/20/give-me-my-money-back-south-korean-traders-leveraged-bets-unravel.html": {
       "title": "'Give me my money back': South Korean traders' leveraged SK Hynix, Samsung bets unravel after sell-off",
       "link": "https://www.cnbc.com/2026/07/20/give-me-my-money-back-south-korean-traders-leveraged-bets-unravel.html",
@@ -70,17 +23,6 @@
       ],
       "first_seen_at": "2026-07-20T11:48:54.418695+00:00",
       "last_seen_at": "2026-07-21T23:57:48.619139+00:00"
-    },
-    "https://e.vnexpress.net/news/world/samsung-cuts-us-jobs-offers-relocations-ahead-of-headquarters-move-5099340.html": {
-      "title": "Samsung cuts US jobs, offers relocations ahead of headquarters move",
-      "link": "https://e.vnexpress.net/news/world/samsung-cuts-us-jobs-offers-relocations-ahead-of-headquarters-move-5099340.html",
-      "source_name": "VnExpress World",
-      "country_code": "VN",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-07-20T11:48:54.418695+00:00",
-      "last_seen_at": "2026-07-21T11:11:17.234023+00:00"
     },
     "https://asia.nikkei.com/business/media-entertainment/game-giant-nexon-s-shares-drop-despite-success-of-arc-raiders": {
       "title": "Game giant Nexon's shares drop despite success of ARC Raiders",
@@ -115,17 +57,6 @@
       ],
       "first_seen_at": "2026-07-21T11:11:17.234023+00:00",
       "last_seen_at": "2026-07-21T23:57:48.619139+00:00"
-    },
-    "https://www.channelnewsasia.com/business/samsung-electronics-creates-robotics-division-key-part-growth-strategy-6266856": {
-      "title": "Samsung Electronics creates robotics division as key part of growth strategy",
-      "link": "https://www.channelnewsasia.com/business/samsung-electronics-creates-robotics-division-key-part-growth-strategy-6266856",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-07-21T11:11:17.234023+00:00",
-      "last_seen_at": "2026-07-21T11:11:17.234023+00:00"
     },
     "http://www3.nhk.or.jp/news/html/20260723/k10015183071000.html": {
       "title": "折りたたみ式スマホ薄型の新モデル発表 競争激化か",
@@ -2251,7 +2182,7 @@
         "HD Hyundai"
       ],
       "first_seen_at": "2026-09-03T13:24:28.302560+00:00",
-      "last_seen_at": "2026-09-04T00:51:39.080191+00:00"
+      "last_seen_at": "2026-09-04T13:19:16.326795+00:00"
     },
     "https://www.theglobeandmail.com/culture/music/article-bang-si-hyuk-bts-referred-to-prosecutors-over-alleged-investor-fraud": {
       "title": "K-pop mogul behind BTS referred to prosecutors over alleged investor fraud",
@@ -2262,7 +2193,7 @@
         "HYBE"
       ],
       "first_seen_at": "2026-09-03T13:24:28.302560+00:00",
-      "last_seen_at": "2026-09-04T00:51:39.080191+00:00"
+      "last_seen_at": "2026-09-04T13:19:16.326795+00:00"
     },
     "https://www.scmp.com/news/asia/east-asia/article/3366240/south-korean-police-seek-tycoon-behind-k-pop-supergroup-bts-be-indicted": {
       "title": "South Korean police seek tycoon behind K-pop supergroup BTS to be indicted",
@@ -2284,7 +2215,7 @@
         "HYBE"
       ],
       "first_seen_at": "2026-09-03T13:24:28.302560+00:00",
-      "last_seen_at": "2026-09-04T00:51:39.080191+00:00"
+      "last_seen_at": "2026-09-04T13:19:16.326795+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/south-korea-utility-proposes-samsung-pays-15-billion-in-advance-for-power-paper-says/articleshow/133727518.cms": {
       "title": "South Korea utility proposes Samsung pays $15 billion in advance for power, paper says",
@@ -2295,10 +2226,10 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-09-03T13:24:28.302560+00:00",
-      "last_seen_at": "2026-09-04T00:51:39.080191+00:00"
+      "last_seen_at": "2026-09-04T13:19:16.326795+00:00"
     },
     "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/andhra-woos-hd-hyundai-with-4-billion-shipbuilding-cluster/articleshow/133744667.cms": {
-      "title": "Andhra woos HD Hyundai with $4 billion shipbuilding cluster",
+      "title": "AP woos Hyundai with readymade Kakinada port",
       "link": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/andhra-woos-hd-hyundai-with-4-billion-shipbuilding-cluster/articleshow/133744667.cms",
       "source_name": "The Economic Times Industry",
       "country_code": "IN",
@@ -2307,7 +2238,7 @@
         "HD Hyundai"
       ],
       "first_seen_at": "2026-09-04T00:51:39.080191+00:00",
-      "last_seen_at": "2026-09-04T00:51:39.080191+00:00"
+      "last_seen_at": "2026-09-04T13:19:16.326795+00:00"
     },
     "https://asia.nikkei.com/business/markets/currencies/won-rallies-on-sk-hynix-s-us-listing-corporate-funds-repatriation": {
       "title": "Won rallies on SK Hynix's US listing, corporate funds repatriation",
@@ -2318,7 +2249,40 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-09-04T00:51:39.080191+00:00",
-      "last_seen_at": "2026-09-04T00:51:39.080191+00:00"
+      "last_seen_at": "2026-09-04T13:19:16.326795+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/kia-india-to-follow-multi-tech-pathway-for-sustainable-mobility-md-ceo/article71427853.ece": {
+      "title": "Kia India to follow multi-tech pathway for sustainable mobility: MD & CEO",
+      "link": "https://www.thehindubusinessline.com/companies/kia-india-to-follow-multi-tech-pathway-for-sustainable-mobility-md-ceo/article71427853.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Kia"
+      ],
+      "first_seen_at": "2026-09-04T13:19:16.326795+00:00",
+      "last_seen_at": "2026-09-04T13:19:16.326795+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-builds-e20-readiness-into-india-strategy-as-it-expands-powertrain-options/articleshow/133757533.cms": {
+      "title": "Kia builds E20 readiness into India strategy as it expands powertrain options",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-builds-e20-readiness-into-india-strategy-as-it-expands-powertrain-options/articleshow/133757533.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Kia"
+      ],
+      "first_seen_at": "2026-09-04T13:19:16.326795+00:00",
+      "last_seen_at": "2026-09-04T13:19:16.326795+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/cars-uvs/kia-enters-indias-hybrid-passenger-vehicle-market-with-3-row-suv-sorento/articleshow/133755692.cms": {
+      "title": "Kia enters India’s hybrid passenger vehicle market with 3-row SUV Sorento",
+      "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/kia-enters-indias-hybrid-passenger-vehicle-market-with-3-row-suv-sorento/articleshow/133755692.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Kia"
+      ],
+      "first_seen_at": "2026-09-04T13:19:16.326795+00:00",
+      "last_seen_at": "2026-09-04T13:19:16.326795+00:00"
     }
   }
 }
