@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-05T00:44:41.534563+00:00",
+  "last_run_at": "2026-09-05T12:29:39.129487+00:00",
   "seen_articles": {
-    "https://asia.nikkei.com/business/media-entertainment/game-giant-nexon-s-shares-drop-despite-success-of-arc-raiders": {
-      "title": "Game giant Nexon's shares drop despite success of ARC Raiders",
-      "link": "https://asia.nikkei.com/business/media-entertainment/game-giant-nexon-s-shares-drop-despite-success-of-arc-raiders",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "companies": [
-        "Nexon"
-      ],
-      "first_seen_at": "2026-07-20T23:59:42.079521+00:00",
-      "last_seen_at": "2026-07-22T11:11:53.636912+00:00"
-    },
     "http://www3.nhk.or.jp/news/html/20260723/k10015183071000.html": {
       "title": "折りたたみ式スマホ薄型の新モデル発表 競争激化か",
       "link": "http://www3.nhk.or.jp/news/html/20260723/k10015183071000.html",
@@ -2204,7 +2193,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-09-04T00:51:39.080191+00:00",
-      "last_seen_at": "2026-09-05T00:44:41.534563+00:00"
+      "last_seen_at": "2026-09-05T12:29:39.129487+00:00"
     },
     "https://www.thehindubusinessline.com/companies/kia-india-to-follow-multi-tech-pathway-for-sustainable-mobility-md-ceo/article71427853.ece": {
       "title": "Kia India to follow multi-tech pathway for sustainable mobility: MD & CEO",
@@ -2215,7 +2204,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-09-04T13:19:16.326795+00:00",
-      "last_seen_at": "2026-09-05T00:44:41.534563+00:00"
+      "last_seen_at": "2026-09-05T12:29:39.129487+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-builds-e20-readiness-into-india-strategy-as-it-expands-powertrain-options/articleshow/133757533.cms": {
       "title": "Kia builds E20 readiness into India strategy as it expands powertrain options",
@@ -2226,7 +2215,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-09-04T13:19:16.326795+00:00",
-      "last_seen_at": "2026-09-05T00:44:41.534563+00:00"
+      "last_seen_at": "2026-09-05T12:29:39.129487+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/cars-uvs/kia-enters-indias-hybrid-passenger-vehicle-market-with-3-row-suv-sorento/articleshow/133755692.cms": {
       "title": "Kia enters India’s hybrid passenger vehicle market with 3-row SUV Sorento",
@@ -2248,7 +2237,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-09-05T00:44:41.534563+00:00",
-      "last_seen_at": "2026-09-05T00:44:41.534563+00:00"
+      "last_seen_at": "2026-09-05T12:29:39.129487+00:00"
     },
     "https://www.thehindubusinessline.com/companies/india-open-to-wider-range-of-powertrains-we-have-to-adapt-kia-india-md/article71429016.ece": {
       "title": "India open to wider range of powertrains, we have to adapt: Kia India MD",
@@ -2259,7 +2248,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-09-05T00:44:41.534563+00:00",
-      "last_seen_at": "2026-09-05T00:44:41.534563+00:00"
+      "last_seen_at": "2026-09-05T12:29:39.129487+00:00"
     }
   }
 }
