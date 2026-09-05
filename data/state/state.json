@@ -1,29 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-04T13:19:16.326795+00:00",
+  "last_run_at": "2026-09-05T00:44:41.534563+00:00",
   "seen_articles": {
-    "https://www.thehindubusinessline.com/companies/hyundai-motor-india-integrates-30000-ev-charging-points-into-myhyundai-app/article71244655.ece": {
-      "title": "Hyundai Motor India integrates 30,000 EV charging points into myHyundai app",
-      "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-integrates-30000-ev-charging-points-into-myhyundai-app/article71244655.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-07-20T11:48:54.418695+00:00",
-      "last_seen_at": "2026-07-21T23:57:48.619139+00:00"
-    },
-    "https://www.cnbc.com/2026/07/20/give-me-my-money-back-south-korean-traders-leveraged-bets-unravel.html": {
-      "title": "'Give me my money back': South Korean traders' leveraged SK Hynix, Samsung bets unravel after sell-off",
-      "link": "https://www.cnbc.com/2026/07/20/give-me-my-money-back-south-korean-traders-leveraged-bets-unravel.html",
-      "source_name": "CNBC World News",
-      "country_code": "US",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-20T11:48:54.418695+00:00",
-      "last_seen_at": "2026-07-21T23:57:48.619139+00:00"
-    },
     "https://asia.nikkei.com/business/media-entertainment/game-giant-nexon-s-shares-drop-despite-success-of-arc-raiders": {
       "title": "Game giant Nexon's shares drop despite success of ARC Raiders",
       "link": "https://asia.nikkei.com/business/media-entertainment/game-giant-nexon-s-shares-drop-despite-success-of-arc-raiders",
@@ -34,29 +12,6 @@
       ],
       "first_seen_at": "2026-07-20T23:59:42.079521+00:00",
       "last_seen_at": "2026-07-22T11:11:53.636912+00:00"
-    },
-    "https://www.cnbc.com/2026/07/21/samsung-electronics-sets-up-robotics-unit-amid-push-into-physical-ai-.html": {
-      "title": "Samsung Electronics shares rise as robotics move highlights push into physical AI",
-      "link": "https://www.cnbc.com/2026/07/21/samsung-electronics-sets-up-robotics-unit-amid-push-into-physical-ai-.html",
-      "source_name": "CNBC World News",
-      "country_code": "US",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-07-21T11:11:17.234023+00:00",
-      "last_seen_at": "2026-07-21T23:57:48.619139+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-creates-robotics-division-ex-hyundai-executive-to-head-strategy/articleshow/132526845.cms": {
-      "title": "Samsung Electronics creates robotics division; ex-Hyundai executive to head strategy",
-      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-creates-robotics-division-ex-hyundai-executive-to-head-strategy/articleshow/132526845.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Samsung Electronics",
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-07-21T11:11:17.234023+00:00",
-      "last_seen_at": "2026-07-21T23:57:48.619139+00:00"
     },
     "http://www3.nhk.or.jp/news/html/20260723/k10015183071000.html": {
       "title": "折りたたみ式スマホ薄型の新モデル発表 競争激化か",
@@ -2182,7 +2137,7 @@
         "HD Hyundai"
       ],
       "first_seen_at": "2026-09-03T13:24:28.302560+00:00",
-      "last_seen_at": "2026-09-04T13:19:16.326795+00:00"
+      "last_seen_at": "2026-09-05T00:44:41.534563+00:00"
     },
     "https://www.theglobeandmail.com/culture/music/article-bang-si-hyuk-bts-referred-to-prosecutors-over-alleged-investor-fraud": {
       "title": "K-pop mogul behind BTS referred to prosecutors over alleged investor fraud",
@@ -2249,7 +2204,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-09-04T00:51:39.080191+00:00",
-      "last_seen_at": "2026-09-04T13:19:16.326795+00:00"
+      "last_seen_at": "2026-09-05T00:44:41.534563+00:00"
     },
     "https://www.thehindubusinessline.com/companies/kia-india-to-follow-multi-tech-pathway-for-sustainable-mobility-md-ceo/article71427853.ece": {
       "title": "Kia India to follow multi-tech pathway for sustainable mobility: MD & CEO",
@@ -2260,7 +2215,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-09-04T13:19:16.326795+00:00",
-      "last_seen_at": "2026-09-04T13:19:16.326795+00:00"
+      "last_seen_at": "2026-09-05T00:44:41.534563+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-builds-e20-readiness-into-india-strategy-as-it-expands-powertrain-options/articleshow/133757533.cms": {
       "title": "Kia builds E20 readiness into India strategy as it expands powertrain options",
@@ -2271,7 +2226,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-09-04T13:19:16.326795+00:00",
-      "last_seen_at": "2026-09-04T13:19:16.326795+00:00"
+      "last_seen_at": "2026-09-05T00:44:41.534563+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/cars-uvs/kia-enters-indias-hybrid-passenger-vehicle-market-with-3-row-suv-sorento/articleshow/133755692.cms": {
       "title": "Kia enters India’s hybrid passenger vehicle market with 3-row SUV Sorento",
@@ -2282,7 +2237,29 @@
         "Kia"
       ],
       "first_seen_at": "2026-09-04T13:19:16.326795+00:00",
-      "last_seen_at": "2026-09-04T13:19:16.326795+00:00"
+      "last_seen_at": "2026-09-05T00:44:41.534563+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-looks-to-roll-out-multiple-powertrains-to-meet-india-demand/articleshow/133777227.cms": {
+      "title": "Kia looks to roll out multiple powertrains to meet India demand",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-looks-to-roll-out-multiple-powertrains-to-meet-india-demand/articleshow/133777227.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Kia"
+      ],
+      "first_seen_at": "2026-09-05T00:44:41.534563+00:00",
+      "last_seen_at": "2026-09-05T00:44:41.534563+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/india-open-to-wider-range-of-powertrains-we-have-to-adapt-kia-india-md/article71429016.ece": {
+      "title": "India open to wider range of powertrains, we have to adapt: Kia India MD",
+      "link": "https://www.thehindubusinessline.com/companies/india-open-to-wider-range-of-powertrains-we-have-to-adapt-kia-india-md/article71429016.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Kia"
+      ],
+      "first_seen_at": "2026-09-05T00:44:41.534563+00:00",
+      "last_seen_at": "2026-09-05T00:44:41.534563+00:00"
     }
   }
 }
