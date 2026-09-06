@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-06T00:43:46.006608+00:00",
+  "last_run_at": "2026-09-06T12:43:39.577882+00:00",
   "seen_articles": {
     "http://www3.nhk.or.jp/news/html/20260723/k10015183071000.html": {
       "title": "折りたたみ式スマホ薄型の新モデル発表 競争激化か",
@@ -13,17 +13,6 @@
       "first_seen_at": "2026-07-23T00:03:14.759190+00:00",
       "last_seen_at": "2026-07-24T00:04:16.852151+00:00"
     },
-    "https://www.marketwatch.com/story/the-u-s-premium-for-sk-hynix-is-set-to-stay-after-korean-regulatory-ruling-bde1ddb6?mod=mw_rss_topstories": {
-      "title": "The U.S. premium for SK Hynix is set to stay after Korean regulatory ruling",
-      "link": "https://www.marketwatch.com/story/the-u-s-premium-for-sk-hynix-is-set-to-stay-after-korean-regulatory-ruling-bde1ddb6?mod=mw_rss_topstories",
-      "source_name": "MarketWatch Top Stories",
-      "country_code": "US",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-23T11:13:21.981440+00:00",
-      "last_seen_at": "2026-07-23T11:13:21.981440+00:00"
-    },
     "https://asia.nikkei.com/business/automobiles/hyundai-profit-falls-21-on-us-tariffs-supply-chain-disruption": {
       "title": "Hyundai profit falls 21% on US tariffs, supply chain disruption",
       "link": "https://asia.nikkei.com/business/automobiles/hyundai-profit-falls-21-on-us-tariffs-supply-chain-disruption",
@@ -35,17 +24,6 @@
       "first_seen_at": "2026-07-23T11:13:21.981440+00:00",
       "last_seen_at": "2026-07-24T11:05:14.353811+00:00"
     },
-    "https://www.scmp.com/news/china/science/article/3361580/chinas-new-chip-stores-data-single-electron-breaking-ai-memory-bottleneck": {
-      "title": "China’s new chip stores data with a single electron, breaking AI memory bottleneck",
-      "link": "https://www.scmp.com/news/china/science/article/3361580/chinas-new-chip-stores-data-single-electron-breaking-ai-memory-bottleneck",
-      "source_name": "South China Morning Post World",
-      "country_code": "HK",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-23T11:13:21.981440+00:00",
-      "last_seen_at": "2026-07-23T11:13:21.981440+00:00"
-    },
     "https://www.thehindubusinessline.com/companies/hyundai-motor-reports-21-drop-in-q2-operating-profit-misses-forecasts/article71256599.ece": {
       "title": "Hyundai Motor reports 21% drop in Q2 operating profit, misses forecasts",
       "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-reports-21-drop-in-q2-operating-profit-misses-forecasts/article71256599.ece",
@@ -56,30 +34,6 @@
       ],
       "first_seen_at": "2026-07-23T11:13:21.981440+00:00",
       "last_seen_at": "2026-07-24T11:05:14.353811+00:00"
-    },
-    "https://www.channelnewsasia.com/business/hyundai-motor-reports-21-drop-in-q2-operating-profit-misses-forecasts-6272766": {
-      "title": "Hyundai Motor reports 21% drop in Q2 operating profit, misses forecasts",
-      "link": "https://www.channelnewsasia.com/business/hyundai-motor-reports-21-drop-in-q2-operating-profit-misses-forecasts-6272766",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-07-23T11:13:21.981440+00:00",
-      "last_seen_at": "2026-07-23T11:13:21.981440+00:00"
-    },
-    "https://www.scmp.com/news/asia/east-asia/article/3361526/south-korean-labour-unions-push-higher-payouts-after-samsungs-us400000-bonus": {
-      "title": "South Korean labour unions push for higher payouts after Samsung’s US$400,000 bonus",
-      "link": "https://www.scmp.com/news/asia/east-asia/article/3361526/south-korean-labour-unions-push-higher-payouts-after-samsungs-us400000-bonus",
-      "source_name": "South China Morning Post World",
-      "country_code": "HK",
-      "companies": [
-        "Samsung Electronics",
-        "Hyundai Motor",
-        "HD Hyundai"
-      ],
-      "first_seen_at": "2026-07-23T11:13:21.981440+00:00",
-      "last_seen_at": "2026-07-23T11:13:21.981440+00:00"
     },
     "https://www.ft.com/content/3933afd1-0564-46c8-a9fc-b77f9d9c689c?syn-25a6b1a6=1": {
       "title": "Tech billionaire ordered to pay $640mn in South Korea’s ‘divorce of the century’",
@@ -2249,6 +2203,28 @@
       ],
       "first_seen_at": "2026-09-05T00:44:41.534563+00:00",
       "last_seen_at": "2026-09-06T00:43:46.006608+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/hyundai-motor-india-expects-30-sales-to-come-from-rural-markets-in-3-4-years-md-ceo/article71434602.ece": {
+      "title": "Hyundai Motor India expects 30% sales to come from rural markets in 3-4 years: MD & CEO",
+      "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-expects-30-sales-to-come-from-rural-markets-in-3-4-years-md-ceo/article71434602.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-09-06T12:43:39.577882+00:00",
+      "last_seen_at": "2026-09-06T12:43:39.577882+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-india-expects-30-pc-sales-to-come-from-rural-markets-in-3-4-years-md-ceo/articleshow/133827183.cms": {
+      "title": "Hyundai Motor India expects 30 pc sales to come from rural markets in 3-4 years: MD & CEO",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-india-expects-30-pc-sales-to-come-from-rural-markets-in-3-4-years-md-ceo/articleshow/133827183.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-09-06T12:43:39.577882+00:00",
+      "last_seen_at": "2026-09-06T12:43:39.577882+00:00"
     }
   }
 }
