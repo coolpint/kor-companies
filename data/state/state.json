@@ -1,29 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-07T00:47:42.828806+00:00",
+  "last_run_at": "2026-09-07T14:55:17.323744+00:00",
   "seen_articles": {
-    "https://asia.nikkei.com/business/automobiles/hyundai-profit-falls-21-on-us-tariffs-supply-chain-disruption": {
-      "title": "Hyundai profit falls 21% on US tariffs, supply chain disruption",
-      "link": "https://asia.nikkei.com/business/automobiles/hyundai-profit-falls-21-on-us-tariffs-supply-chain-disruption",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-07-23T11:13:21.981440+00:00",
-      "last_seen_at": "2026-07-24T11:05:14.353811+00:00"
-    },
-    "https://www.thehindubusinessline.com/companies/hyundai-motor-reports-21-drop-in-q2-operating-profit-misses-forecasts/article71256599.ece": {
-      "title": "Hyundai Motor reports 21% drop in Q2 operating profit, misses forecasts",
-      "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-reports-21-drop-in-q2-operating-profit-misses-forecasts/article71256599.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-07-23T11:13:21.981440+00:00",
-      "last_seen_at": "2026-07-24T11:05:14.353811+00:00"
-    },
     "https://www.ft.com/content/3933afd1-0564-46c8-a9fc-b77f9d9c689c?syn-25a6b1a6=1": {
       "title": "Tech billionaire ordered to pay $640mn in South Korea’s ‘divorce of the century’",
       "link": "https://www.ft.com/content/3933afd1-0564-46c8-a9fc-b77f9d9c689c?syn-25a6b1a6=1",
@@ -2202,7 +2180,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-09-06T12:43:39.577882+00:00",
-      "last_seen_at": "2026-09-07T00:47:42.828806+00:00"
+      "last_seen_at": "2026-09-07T14:55:17.323744+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-india-expects-30-pc-sales-to-come-from-rural-markets-in-3-4-years-md-ceo/articleshow/133827183.cms": {
       "title": "Hyundai Motor India expects 30 pc sales to come from rural markets in 3-4 years: MD & CEO",
@@ -2214,6 +2192,17 @@
       ],
       "first_seen_at": "2026-09-06T12:43:39.577882+00:00",
       "last_seen_at": "2026-09-07T00:47:42.828806+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/hyundai-motor-india-targets-20-women-representation-in-executive-workforce-by-2030/article71437899.ece": {
+      "title": "Hyundai Motor India targets 20% women representation in executive workforce by 2030",
+      "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-targets-20-women-representation-in-executive-workforce-by-2030/article71437899.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-09-07T14:55:17.323744+00:00",
+      "last_seen_at": "2026-09-07T14:55:17.323744+00:00"
     }
   }
 }
