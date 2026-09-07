@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-06T12:43:39.577882+00:00",
+  "last_run_at": "2026-09-07T00:47:42.828806+00:00",
   "seen_articles": {
-    "http://www3.nhk.or.jp/news/html/20260723/k10015183071000.html": {
-      "title": "折りたたみ式スマホ薄型の新モデル発表 競争激化か",
-      "link": "http://www3.nhk.or.jp/news/html/20260723/k10015183071000.html",
-      "source_name": "NHK Business",
-      "country_code": "JP",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-07-23T00:03:14.759190+00:00",
-      "last_seen_at": "2026-07-24T00:04:16.852151+00:00"
-    },
     "https://asia.nikkei.com/business/automobiles/hyundai-profit-falls-21-on-us-tariffs-supply-chain-disruption": {
       "title": "Hyundai profit falls 21% on US tariffs, supply chain disruption",
       "link": "https://asia.nikkei.com/business/automobiles/hyundai-profit-falls-21-on-us-tariffs-supply-chain-disruption",
@@ -2213,7 +2202,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-09-06T12:43:39.577882+00:00",
-      "last_seen_at": "2026-09-06T12:43:39.577882+00:00"
+      "last_seen_at": "2026-09-07T00:47:42.828806+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-india-expects-30-pc-sales-to-come-from-rural-markets-in-3-4-years-md-ceo/articleshow/133827183.cms": {
       "title": "Hyundai Motor India expects 30 pc sales to come from rural markets in 3-4 years: MD & CEO",
@@ -2224,7 +2213,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-09-06T12:43:39.577882+00:00",
-      "last_seen_at": "2026-09-06T12:43:39.577882+00:00"
+      "last_seen_at": "2026-09-07T00:47:42.828806+00:00"
     }
   }
 }
