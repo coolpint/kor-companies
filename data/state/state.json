@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-08T01:01:23.867474+00:00",
+  "last_run_at": "2026-09-08T13:24:57.072556+00:00",
   "seen_articles": {
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-sk-hynix-to-announce-major-chip-deals-with-us-tech-companies-seoul-says/articleshow/132606358.cms": {
       "title": "Samsung, SK Hynix to announce major chip deals with US tech companies, Seoul says",
@@ -2191,7 +2191,29 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-09-07T14:55:17.323744+00:00",
-      "last_seen_at": "2026-09-08T01:01:23.867474+00:00"
+      "last_seen_at": "2026-09-08T13:24:57.072556+00:00"
+    },
+    "http://www.euronews.com/business/2026/09/08/mistral-ai-raises-record-3-billion-in-samsung-led-funding-round": {
+      "title": "Mistral AI raises record €3 billion in Samsung-led funding round",
+      "link": "http://www.euronews.com/business/2026/09/08/mistral-ai-raises-record-3-billion-in-samsung-led-funding-round",
+      "source_name": "Euronews Business",
+      "country_code": "EU",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-09-08T13:24:57.072556+00:00",
+      "last_seen_at": "2026-09-08T13:24:57.072556+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/artificial-intelligence/french-ai-company-mistral-hits-24-billion-valuation-in-funding-round/articleshow/133911829.cms": {
+      "title": "French AI company Mistral hits $24 billion valuation in funding round",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/french-ai-company-mistral-hits-24-billion-valuation-in-funding-round/articleshow/133911829.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-09-08T13:24:57.072556+00:00",
+      "last_seen_at": "2026-09-08T13:24:57.072556+00:00"
     }
   }
 }
