@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-07T14:55:17.323744+00:00",
+  "last_run_at": "2026-09-08T01:01:23.867474+00:00",
   "seen_articles": {
-    "https://www.ft.com/content/3933afd1-0564-46c8-a9fc-b77f9d9c689c?syn-25a6b1a6=1": {
-      "title": "Tech billionaire ordered to pay $640mn in South Korea’s ‘divorce of the century’",
-      "link": "https://www.ft.com/content/3933afd1-0564-46c8-a9fc-b77f9d9c689c?syn-25a6b1a6=1",
-      "source_name": "Financial Times Companies",
-      "country_code": "GB",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-24T11:05:14.353811+00:00",
-      "last_seen_at": "2026-07-25T00:08:04.997281+00:00"
-    },
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-sk-hynix-to-announce-major-chip-deals-with-us-tech-companies-seoul-says/articleshow/132606358.cms": {
       "title": "Samsung, SK Hynix to announce major chip deals with US tech companies, Seoul says",
       "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-sk-hynix-to-announce-major-chip-deals-with-us-tech-companies-seoul-says/articleshow/132606358.cms",
@@ -2202,7 +2191,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-09-07T14:55:17.323744+00:00",
-      "last_seen_at": "2026-09-07T14:55:17.323744+00:00"
+      "last_seen_at": "2026-09-08T01:01:23.867474+00:00"
     }
   }
 }
