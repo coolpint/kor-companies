@@ -1,19 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-08T13:24:57.072556+00:00",
+  "last_run_at": "2026-09-09T01:06:39.684805+00:00",
   "seen_articles": {
-    "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-sk-hynix-to-announce-major-chip-deals-with-us-tech-companies-seoul-says/articleshow/132606358.cms": {
-      "title": "Samsung, SK Hynix to announce major chip deals with US tech companies, Seoul says",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-sk-hynix-to-announce-major-chip-deals-with-us-tech-companies-seoul-says/articleshow/132606358.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-25T00:08:04.997281+00:00",
-      "last_seen_at": "2026-07-26T00:03:07.001465+00:00"
-    },
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-electronics-wins-200-billion-broadcom-ai-chip-partnership-boosting-foundry-push/articleshow/132622609.cms": {
       "title": "Samsung Electronics wins $200 billion Broadcom AI chip partnership, boosting foundry push",
       "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-electronics-wins-200-billion-broadcom-ai-chip-partnership-boosting-foundry-push/articleshow/132622609.cms",
@@ -70,17 +58,6 @@
       ],
       "first_seen_at": "2026-07-25T10:36:27.769635+00:00",
       "last_seen_at": "2026-07-26T10:46:17.690228+00:00"
-    },
-    "https://www.scmp.com/week-asia/lifestyle-culture/article/3361767/putting-k-back-k-pop-how-rescene-charmed-south-korea": {
-      "title": "Putting the ‘K’ back in K-pop: how Rescene charmed South Korea",
-      "link": "https://www.scmp.com/week-asia/lifestyle-culture/article/3361767/putting-k-back-k-pop-how-rescene-charmed-south-korea",
-      "source_name": "South China Morning Post World",
-      "country_code": "HK",
-      "companies": [
-        "HYBE"
-      ],
-      "first_seen_at": "2026-07-25T10:36:27.769635+00:00",
-      "last_seen_at": "2026-07-26T00:03:07.001465+00:00"
     },
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-sk-group-unveil-500-billion-plus-ai-data-centres-initiative-memory-partnership/articleshow/132617823.cms": {
       "title": "Nvidia, SK Group unveil $500 billion-plus AI data centres initiative, memory partnership",
@@ -2202,7 +2179,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-09-08T13:24:57.072556+00:00",
-      "last_seen_at": "2026-09-08T13:24:57.072556+00:00"
+      "last_seen_at": "2026-09-09T01:06:39.684805+00:00"
     },
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/french-ai-company-mistral-hits-24-billion-valuation-in-funding-round/articleshow/133911829.cms": {
       "title": "French AI company Mistral hits $24 billion valuation in funding round",
@@ -2213,7 +2190,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-09-08T13:24:57.072556+00:00",
-      "last_seen_at": "2026-09-08T13:24:57.072556+00:00"
+      "last_seen_at": "2026-09-09T01:06:39.684805+00:00"
     }
   }
 }
