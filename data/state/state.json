@@ -1,75 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-09T01:06:39.684805+00:00",
+  "last_run_at": "2026-09-09T13:35:37.097647+00:00",
   "seen_articles": {
-    "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-electronics-wins-200-billion-broadcom-ai-chip-partnership-boosting-foundry-push/articleshow/132622609.cms": {
-      "title": "Samsung Electronics wins $200 billion Broadcom AI chip partnership, boosting foundry push",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-electronics-wins-200-billion-broadcom-ai-chip-partnership-boosting-foundry-push/articleshow/132622609.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-07-25T10:36:27.769635+00:00",
-      "last_seen_at": "2026-07-26T10:46:17.690228+00:00"
-    },
-    "https://www.channelnewsasia.com/business/samsung-elec-wins-200-billion-broadcom-ai-chip-partnership-boosting-foundry-push-6277856": {
-      "title": "Samsung Elec wins $200 billion Broadcom AI chip partnership, boosting foundry push",
-      "link": "https://www.channelnewsasia.com/business/samsung-elec-wins-200-billion-broadcom-ai-chip-partnership-boosting-foundry-push-6277856",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-07-25T10:36:27.769635+00:00",
-      "last_seen_at": "2026-07-26T10:46:17.690228+00:00"
-    },
-    "https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html": {
-      "title": "Nvidia locks down memory supply from SK Hynix as part of $500 billion AI deal",
-      "link": "https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html",
-      "source_name": "CNBC Top News",
-      "country_code": "US",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-25T10:36:27.769635+00:00",
-      "last_seen_at": "2026-07-26T10:46:17.690228+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/south-koreas-sk-hynix-samsung-electronics-sign-950-billion-partnership-with-us-big-tech/articleshow/132619135.cms": {
-      "title": "South Korea's SK Hynix, Samsung Electronics sign $950 billion partnership with US big tech",
-      "link": "https://economictimes.indiatimes.com/tech/technology/south-koreas-sk-hynix-samsung-electronics-sign-950-billion-partnership-with-us-big-tech/articleshow/132619135.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-25T10:36:27.769635+00:00",
-      "last_seen_at": "2026-07-26T10:46:17.690228+00:00"
-    },
-    "https://www.channelnewsasia.com/business/south-koreas-sk-hynix-samsung-elec-sign-950-billion-partnership-us-big-tech-6277651": {
-      "title": "South Korea's SK Hynix, Samsung Elec sign $950 billion partnership with US big tech",
-      "link": "https://www.channelnewsasia.com/business/south-koreas-sk-hynix-samsung-elec-sign-950-billion-partnership-us-big-tech-6277651",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-25T10:36:27.769635+00:00",
-      "last_seen_at": "2026-07-26T10:46:17.690228+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-sk-group-unveil-500-billion-plus-ai-data-centres-initiative-memory-partnership/articleshow/132617823.cms": {
-      "title": "Nvidia, SK Group unveil $500 billion-plus AI data centres initiative, memory partnership",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-sk-group-unveil-500-billion-plus-ai-data-centres-initiative-memory-partnership/articleshow/132617823.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-25T10:36:27.769635+00:00",
-      "last_seen_at": "2026-07-26T10:46:17.690228+00:00"
-    },
     "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/hindustan-zinc-to-invest-up-to-600-million-this-fiscal-80-capex-earmarked-for-ongoing-projects/articleshow/132636632.cms": {
       "title": "Hindustan Zinc to invest up to $600 million this fiscal, 80% capex earmarked for ongoing projects",
       "link": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/hindustan-zinc-to-invest-up-to-600-million-this-fiscal-80-capex-earmarked-for-ongoing-projects/articleshow/132636632.cms",
@@ -2179,7 +2111,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-09-08T13:24:57.072556+00:00",
-      "last_seen_at": "2026-09-09T01:06:39.684805+00:00"
+      "last_seen_at": "2026-09-09T13:35:37.097647+00:00"
     },
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/french-ai-company-mistral-hits-24-billion-valuation-in-funding-round/articleshow/133911829.cms": {
       "title": "French AI company Mistral hits $24 billion valuation in funding round",
@@ -2190,7 +2122,52 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-09-08T13:24:57.072556+00:00",
-      "last_seen_at": "2026-09-09T01:06:39.684805+00:00"
+      "last_seen_at": "2026-09-09T13:35:37.097647+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/hyundai-motor-india-plans-to-soon-launch-localised-mass-market-suv-ev/article71446440.ece": {
+      "title": "Hyundai Motor India plans to soon launch localised, mass-market SUV EV",
+      "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-plans-to-soon-launch-localised-mass-market-suv-ev/article71446440.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-09-09T13:35:37.097647+00:00",
+      "last_seen_at": "2026-09-09T13:35:37.097647+00:00"
+    },
+    "https://www.channelnewsasia.com/business/samsung-electronics-chairman-lee-buy-19-trillion-won-worth-shares-his-mother-6372511": {
+      "title": "Samsung Electronics Chairman Lee to buy 1.9 trillion won worth of shares from his mother",
+      "link": "https://www.channelnewsasia.com/business/samsung-electronics-chairman-lee-buy-19-trillion-won-worth-shares-his-mother-6372511",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-09-09T13:35:37.097647+00:00",
+      "last_seen_at": "2026-09-09T13:35:37.097647+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/renewables/hyundai-motor-india-to-launch-affordable-localized-suv-ev-with-enhanced-charging-infrastructure/articleshow/133959801.cms": {
+      "title": "Hyundai Motor India plans to soon launch localised, mass-market SUV EV",
+      "link": "https://economictimes.indiatimes.com/industry/renewables/hyundai-motor-india-to-launch-affordable-localized-suv-ev-with-enhanced-charging-infrastructure/articleshow/133959801.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-09-09T13:35:37.097647+00:00",
+      "last_seen_at": "2026-09-09T13:35:37.097647+00:00"
+    },
+    "https://www.thehindubusinessline.com/news/national/delegation-from-south-koreas-hd-hyundai-set-to-meet-tn-industries-minister-today/article71445991.ece": {
+      "title": "Delegation from South Korea’s HD Hyundai set to meet TN Industries Minister today",
+      "link": "https://www.thehindubusinessline.com/news/national/delegation-from-south-koreas-hd-hyundai-set-to-meet-tn-industries-minister-today/article71445991.ece",
+      "source_name": "BusinessLine Economy",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor",
+        "HD Hyundai"
+      ],
+      "first_seen_at": "2026-09-09T13:35:37.097647+00:00",
+      "last_seen_at": "2026-09-09T13:35:37.097647+00:00"
     }
   }
 }
