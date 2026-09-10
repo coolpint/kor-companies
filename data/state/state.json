@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-10T00:55:20.932484+00:00",
+  "last_run_at": "2026-09-10T13:27:08.741919+00:00",
   "seen_articles": {
     "https://economictimes.indiatimes.com/industry/auto/cars-uvs/why-compact-suvs-continue-to-dominate-bengalurus-used-car-market/articleshow/132656183.cms": {
       "title": "Why compact SUVs continue to dominate Bengaluru's used car market",
@@ -2111,7 +2111,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-09-09T13:35:37.097647+00:00",
-      "last_seen_at": "2026-09-10T00:55:20.932484+00:00"
+      "last_seen_at": "2026-09-10T13:27:08.741919+00:00"
     },
     "https://www.channelnewsasia.com/business/samsung-electronics-chairman-lee-buy-19-trillion-won-worth-shares-his-mother-6372511": {
       "title": "Samsung Electronics Chairman Lee to buy 1.9 trillion won worth of shares from his mother",
@@ -2145,7 +2145,7 @@
         "HD Hyundai"
       ],
       "first_seen_at": "2026-09-09T13:35:37.097647+00:00",
-      "last_seen_at": "2026-09-10T00:55:20.932484+00:00"
+      "last_seen_at": "2026-09-10T13:27:08.741919+00:00"
     },
     "https://www.taipeitimes.com/News/biz/archives/2026/09/10/2003863982": {
       "title": "Kioxia Holdings says SK Hynix tie-up not happening",
@@ -2156,7 +2156,18 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-09-10T00:55:20.932484+00:00",
-      "last_seen_at": "2026-09-10T00:55:20.932484+00:00"
+      "last_seen_at": "2026-09-10T13:27:08.741919+00:00"
+    },
+    "https://www.straitstimes.com/business/samsung-sk-hynix-payouts-test-south-koreas-reform-drive-as-investors-seek-more": {
+      "title": "Samsung, SK Hynix payouts test South Korea’s reform drive as investors seek more",
+      "link": "https://www.straitstimes.com/business/samsung-sk-hynix-payouts-test-south-koreas-reform-drive-as-investors-seek-more",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-09-10T13:27:08.741919+00:00",
+      "last_seen_at": "2026-09-10T13:27:08.741919+00:00"
     }
   }
 }
