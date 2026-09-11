@@ -1,51 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-11T00:52:30.331642+00:00",
+  "last_run_at": "2026-09-11T13:24:03.022969+00:00",
   "seen_articles": {
-    "https://www.straitstimes.com/business/south-koreas-naver-jumps-10-per-cent-on-nvidias-1-29-billion-investment-plan": {
-      "title": "South Korea’s Naver jumps 10 per cent on Nvidia’s $1.29 billion investment plan",
-      "link": "https://www.straitstimes.com/business/south-koreas-naver-jumps-10-per-cent-on-nvidias-1-29-billion-investment-plan",
-      "source_name": "The Straits Times",
-      "country_code": "SG",
-      "companies": [
-        "NAVER"
-      ],
-      "first_seen_at": "2026-07-27T12:27:53.247063+00:00",
-      "last_seen_at": "2026-07-28T11:21:34.460653+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/global-market-update-south-koreas-naver-jumps-10-on-nvidias-1-billion-investment-plan/articleshow/132657749.cms": {
-      "title": "Global Market Update | South Korea's Naver jumps 10% on Nvidia's $1 billion investment plan",
-      "link": "https://economictimes.indiatimes.com/tech/technology/global-market-update-south-koreas-naver-jumps-10-on-nvidias-1-billion-investment-plan/articleshow/132657749.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "NAVER"
-      ],
-      "first_seen_at": "2026-07-27T12:27:53.247063+00:00",
-      "last_seen_at": "2026-07-28T11:21:34.460653+00:00"
-    },
-    "https://e.vnexpress.net/news/world/nvidia-to-acquire-1b-of-new-shares-of-south-korea-s-naver-5101937.html": {
-      "title": "Nvidia to acquire $1B of new shares of South Korea's Naver",
-      "link": "https://e.vnexpress.net/news/world/nvidia-to-acquire-1b-of-new-shares-of-south-korea-s-naver-5101937.html",
-      "source_name": "VnExpress World",
-      "country_code": "VN",
-      "companies": [
-        "NAVER"
-      ],
-      "first_seen_at": "2026-07-27T12:27:53.247063+00:00",
-      "last_seen_at": "2026-07-28T11:21:34.460653+00:00"
-    },
-    "https://economictimes.indiatimes.com/industry/media/entertainment/media/prime-video-india-signs-multi-year-deal-with-cj-enm-to-bring-over-100-korean-shows/articleshow/132667628.cms": {
-      "title": "Prime Video India signs multi-year deal with CJ ENM to bring over 100 Korean shows",
-      "link": "https://economictimes.indiatimes.com/industry/media/entertainment/media/prime-video-india-signs-multi-year-deal-with-cj-enm-to-bring-over-100-korean-shows/articleshow/132667628.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "CJ CheilJedang"
-      ],
-      "first_seen_at": "2026-07-28T00:05:14.060864+00:00",
-      "last_seen_at": "2026-07-28T11:21:34.460653+00:00"
-    },
     "https://www.theguardian.com/business/2026/jul/28/ai-sell-off-chip-stocks-sk-hynix-samsung": {
       "title": "South Korean stock market at three-month low as AI sell-off intensifies",
       "link": "https://www.theguardian.com/business/2026/jul/28/ai-sell-off-chip-stocks-sk-hynix-samsung",
@@ -56,28 +12,6 @@
       ],
       "first_seen_at": "2026-07-28T11:21:34.460653+00:00",
       "last_seen_at": "2026-07-30T00:03:00.021792+00:00"
-    },
-    "https://www.cnbc.com/2026/07/28/sk-hynix-plunges-semiconductor-selloff-deepens-samsung-softbank.html": {
-      "title": "Micron, Nvidia fall after SK Hynix plunges nearly 15% as chip sell-off deepens",
-      "link": "https://www.cnbc.com/2026/07/28/sk-hynix-plunges-semiconductor-selloff-deepens-samsung-softbank.html",
-      "source_name": "CNBC Top News",
-      "country_code": "US",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-28T11:21:34.460653+00:00",
-      "last_seen_at": "2026-07-28T11:21:34.460653+00:00"
-    },
-    "https://www.channelnewsasia.com/business/csop-adopts-flexible-leverage-samsung-sk-hynix-etfs-amid-volatility-6282526": {
-      "title": "CSOP adopts flexible leverage for Samsung, SK Hynix ETFs amid volatility",
-      "link": "https://www.channelnewsasia.com/business/csop-adopts-flexible-leverage-samsung-sk-hynix-etfs-amid-volatility-6282526",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-28T11:21:34.460653+00:00",
-      "last_seen_at": "2026-07-28T11:21:34.460653+00:00"
     },
     "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html": {
       "title": "SK Hynix shares tank as exponential earnings growth fails to satisfy AI-charged expectations",
@@ -2144,7 +2078,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-09-10T13:27:08.741919+00:00",
-      "last_seen_at": "2026-09-11T00:52:30.331642+00:00"
+      "last_seen_at": "2026-09-11T13:24:03.022969+00:00"
     },
     "https://asia.nikkei.com/business/tech/semiconductors/china-s-cxmt-tops-sk-hynix-micron-to-take-memory-profit-margin-crown": {
       "title": "China's CXMT tops SK Hynix, Micron to take memory profit margin crown",
@@ -2155,7 +2089,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-09-11T00:52:30.331642+00:00",
-      "last_seen_at": "2026-09-11T00:52:30.331642+00:00"
+      "last_seen_at": "2026-09-11T13:24:03.022969+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/cars-uvs/kia-opens-bookings-for-3-new-cars-carens-cng-carens-clavis-cng-and-carnival-hybrid/articleshow/134016225.cms": {
       "title": "Kia opens bookings for 3 new cars: Carens CNG, Carens Clavis CNG and Carnival Hybrid",
@@ -2167,6 +2101,17 @@
       ],
       "first_seen_at": "2026-09-11T00:52:30.331642+00:00",
       "last_seen_at": "2026-09-11T00:52:30.331642+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-venue-gets-smarter-against-car-theft-with-a-remote-immobiliser-controlled-by-your-phone/articleshow/134050141.cms": {
+      "title": "Hyundai Venue gets smarter against car theft with a remote immobiliser controlled by your phone",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-venue-gets-smarter-against-car-theft-with-a-remote-immobiliser-controlled-by-your-phone/articleshow/134050141.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-09-11T13:24:03.022969+00:00",
+      "last_seen_at": "2026-09-11T13:24:03.022969+00:00"
     }
   }
 }
