@@ -1,19 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-10T13:27:08.741919+00:00",
+  "last_run_at": "2026-09-11T00:52:30.331642+00:00",
   "seen_articles": {
-    "https://economictimes.indiatimes.com/industry/auto/cars-uvs/why-compact-suvs-continue-to-dominate-bengalurus-used-car-market/articleshow/132656183.cms": {
-      "title": "Why compact SUVs continue to dominate Bengaluru's used car market",
-      "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/why-compact-suvs-continue-to-dominate-bengalurus-used-car-market/articleshow/132656183.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor",
-        "Nexon"
-      ],
-      "first_seen_at": "2026-07-27T12:27:53.247063+00:00",
-      "last_seen_at": "2026-07-28T00:05:14.060864+00:00"
-    },
     "https://www.straitstimes.com/business/south-koreas-naver-jumps-10-per-cent-on-nvidias-1-29-billion-investment-plan": {
       "title": "South Korea’s Naver jumps 10 per cent on Nvidia’s $1.29 billion investment plan",
       "link": "https://www.straitstimes.com/business/south-koreas-naver-jumps-10-per-cent-on-nvidias-1-29-billion-investment-plan",
@@ -46,17 +34,6 @@
       ],
       "first_seen_at": "2026-07-27T12:27:53.247063+00:00",
       "last_seen_at": "2026-07-28T11:21:34.460653+00:00"
-    },
-    "https://www.channelnewsasia.com/east-asia/naver-south-korea-nvidia-investment-6279546": {
-      "title": "South Korea's Naver jumps 10% on Nvidia's US$1 billion investment plan",
-      "link": "https://www.channelnewsasia.com/east-asia/naver-south-korea-nvidia-investment-6279546",
-      "source_name": "CNA Asia",
-      "country_code": "SG",
-      "companies": [
-        "NAVER"
-      ],
-      "first_seen_at": "2026-07-27T12:27:53.247063+00:00",
-      "last_seen_at": "2026-07-28T00:05:14.060864+00:00"
     },
     "https://economictimes.indiatimes.com/industry/media/entertainment/media/prime-video-india-signs-multi-year-deal-with-cj-enm-to-bring-over-100-korean-shows/articleshow/132667628.cms": {
       "title": "Prime Video India signs multi-year deal with CJ ENM to bring over 100 Korean shows",
@@ -2167,7 +2144,29 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-09-10T13:27:08.741919+00:00",
-      "last_seen_at": "2026-09-10T13:27:08.741919+00:00"
+      "last_seen_at": "2026-09-11T00:52:30.331642+00:00"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/china-s-cxmt-tops-sk-hynix-micron-to-take-memory-profit-margin-crown": {
+      "title": "China's CXMT tops SK Hynix, Micron to take memory profit margin crown",
+      "link": "https://asia.nikkei.com/business/tech/semiconductors/china-s-cxmt-tops-sk-hynix-micron-to-take-memory-profit-margin-crown",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-09-11T00:52:30.331642+00:00",
+      "last_seen_at": "2026-09-11T00:52:30.331642+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/cars-uvs/kia-opens-bookings-for-3-new-cars-carens-cng-carens-clavis-cng-and-carnival-hybrid/articleshow/134016225.cms": {
+      "title": "Kia opens bookings for 3 new cars: Carens CNG, Carens Clavis CNG and Carnival Hybrid",
+      "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/kia-opens-bookings-for-3-new-cars-carens-cng-carens-clavis-cng-and-carnival-hybrid/articleshow/134016225.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Kia"
+      ],
+      "first_seen_at": "2026-09-11T00:52:30.331642+00:00",
+      "last_seen_at": "2026-09-11T00:52:30.331642+00:00"
     }
   }
 }
