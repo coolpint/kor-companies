@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-12T00:57:40.749840+00:00",
+  "last_run_at": "2026-09-12T12:44:48.946303+00:00",
   "seen_articles": {
     "https://www.theguardian.com/business/2026/jul/28/ai-sell-off-chip-stocks-sk-hynix-samsung": {
       "title": "South Korean stock market at three-month low as AI sell-off intensifies",
@@ -80,28 +80,6 @@
       "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
       "last_seen_at": "2026-07-30T11:10:21.867484+00:00"
     },
-    "https://www.marketwatch.com/story/sk-hynix-shares-sent-sprawling-once-more-as-earnings-miss-deepens-decline-df526e8d?mod=mw_rss_topstories": {
-      "title": "SK Hynix shares sent sprawling once more as earnings miss steepens decline",
-      "link": "https://www.marketwatch.com/story/sk-hynix-shares-sent-sprawling-once-more-as-earnings-miss-deepens-decline-df526e8d?mod=mw_rss_topstories",
-      "source_name": "MarketWatch Top Stories",
-      "country_code": "US",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
-      "last_seen_at": "2026-07-29T11:28:43.834909+00:00"
-    },
-    "https://www.ft.com/content/e8e3a60a-059c-45b5-bbe3-49add14fd343?syn-25a6b1a6=1": {
-      "title": "Tech rout roils markets after SK Hynix profits disappoint",
-      "link": "https://www.ft.com/content/e8e3a60a-059c-45b5-bbe3-49add14fd343?syn-25a6b1a6=1",
-      "source_name": "Financial Times Companies",
-      "country_code": "GB",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
-      "last_seen_at": "2026-07-29T11:28:43.834909+00:00"
-    },
     "https://www.nytimes.com/2026/07/29/business/skhynix-chips-memory.html": {
       "title": "SK Hynix Reports Strong Earnings, Defying A.I. Market Jitters",
       "link": "https://www.nytimes.com/2026/07/29/business/skhynix-chips-memory.html",
@@ -123,17 +101,6 @@
       ],
       "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
       "last_seen_at": "2026-07-30T11:10:21.867484+00:00"
-    },
-    "https://www.theguardian.com/business/2026/jul/29/asian-chip-firms-shares-plunge-ai-sell-off-stock-markets": {
-      "title": "Shares in Asian chip firms plunge further as AI sell-off continues",
-      "link": "https://www.theguardian.com/business/2026/jul/29/asian-chip-firms-shares-plunge-ai-sell-off-stock-markets",
-      "source_name": "The Guardian World",
-      "country_code": "GB",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
-      "last_seen_at": "2026-07-29T11:28:43.834909+00:00"
     },
     "http://www.euronews.com/business/2026/07/29/south-korean-chipmaker-sk-hynix-reports-1242-profit-surge-on-booming-ai-demand": {
       "title": "South Korean chipmaker SK hynix reports 1,242% profit surge on booming AI demand",
@@ -2056,7 +2023,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-09-11T00:52:30.331642+00:00",
-      "last_seen_at": "2026-09-12T00:57:40.749840+00:00"
+      "last_seen_at": "2026-09-12T12:44:48.946303+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/cars-uvs/kia-opens-bookings-for-3-new-cars-carens-cng-carens-clavis-cng-and-carnival-hybrid/articleshow/134016225.cms": {
       "title": "Kia opens bookings for 3 new cars: Carens CNG, Carens Clavis CNG and Carnival Hybrid",
