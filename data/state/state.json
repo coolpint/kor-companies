@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-12T12:44:48.946303+00:00",
+  "last_run_at": "2026-09-13T00:42:14.659566+00:00",
   "seen_articles": {
-    "https://www.theguardian.com/business/2026/jul/28/ai-sell-off-chip-stocks-sk-hynix-samsung": {
-      "title": "South Korean stock market at three-month low as AI sell-off intensifies",
-      "link": "https://www.theguardian.com/business/2026/jul/28/ai-sell-off-chip-stocks-sk-hynix-samsung",
-      "source_name": "The Guardian Business",
-      "country_code": "GB",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-28T11:21:34.460653+00:00",
-      "last_seen_at": "2026-07-30T00:03:00.021792+00:00"
-    },
     "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html": {
       "title": "SK Hynix shares tank as exponential earnings growth fails to satisfy AI-charged expectations",
       "link": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html",
@@ -34,28 +23,6 @@
       ],
       "first_seen_at": "2026-07-29T00:00:43.682311+00:00",
       "last_seen_at": "2026-07-30T11:10:21.867484+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/artificial-intelligence/explained-the-400-million-asml-printers-key-for-the-ai-chip-boom/articleshow/132691399.cms": {
-      "title": "Explained: The $400 million ASML 'printers' key for the AI chip boom",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/explained-the-400-million-asml-printers-key-for-the-ai-chip-boom/articleshow/132691399.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-29T00:00:43.682311+00:00",
-      "last_seen_at": "2026-07-30T00:03:00.021792+00:00"
-    },
-    "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-s-1bn-bet-on-naver-pumps-cash-into-ai-infrastructure-buildout": {
-      "title": "Nvidia's $1bn bet on Naver pumps cash into AI infrastructure buildout",
-      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-s-1bn-bet-on-naver-pumps-cash-into-ai-infrastructure-buildout",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "companies": [
-        "NAVER"
-      ],
-      "first_seen_at": "2026-07-29T00:00:43.682311+00:00",
-      "last_seen_at": "2026-07-30T00:03:00.021792+00:00"
     },
     "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html": {
       "title": "Chip stocks shed more than $1 trillion as selloff hits companies powering AI boom",
@@ -102,17 +69,6 @@
       "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
       "last_seen_at": "2026-07-30T11:10:21.867484+00:00"
     },
-    "http://www.euronews.com/business/2026/07/29/south-korean-chipmaker-sk-hynix-reports-1242-profit-surge-on-booming-ai-demand": {
-      "title": "South Korean chipmaker SK hynix reports 1,242% profit surge on booming AI demand",
-      "link": "http://www.euronews.com/business/2026/07/29/south-korean-chipmaker-sk-hynix-reports-1242-profit-surge-on-booming-ai-demand",
-      "source_name": "Euronews Business",
-      "country_code": "EU",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
-      "last_seen_at": "2026-07-30T00:03:00.021792+00:00"
-    },
     "https://www.cnbc.com/2026/07/29/bts-concerts-hybe-record-results-shares-crash.html": {
       "title": "BTS' concerts have been so successful, it’s now bad for its own agency’s shares",
       "link": "https://www.cnbc.com/2026/07/29/bts-concerts-hybe-record-results-shares-crash.html",
@@ -123,28 +79,6 @@
       ],
       "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
       "last_seen_at": "2026-07-30T11:10:21.867484+00:00"
-    },
-    "https://www.cnbc.com/2026/07/29/daily-open-bank-earnings-ubs-sk-hynix.html": {
-      "title": "CNBC Daily Open: Banking beats, SK Hynix sinks and surprise attack rattles oil",
-      "link": "https://www.cnbc.com/2026/07/29/daily-open-bank-earnings-ubs-sk-hynix.html",
-      "source_name": "CNBC World News",
-      "country_code": "US",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
-      "last_seen_at": "2026-07-30T00:03:00.021792+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-race-redraws-asian-air-cargo-replacing-e-commerce-as-growth-engine/articleshow/132701588.cms": {
-      "title": "AI race redraws Asian air cargo, replacing ecommerce as growth engine",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-race-redraws-asian-air-cargo-replacing-e-commerce-as-growth-engine/articleshow/132701588.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Korean Air"
-      ],
-      "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
-      "last_seen_at": "2026-07-30T00:03:00.021792+00:00"
     },
     "https://www.straitstimes.com/business/sk-hynix-hikes-spending-to-40-billion-to-ride-ai-boom": {
       "title": "SK Hynix hikes spending to $40 billion to ride AI boom",
@@ -157,17 +91,6 @@
       ],
       "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
       "last_seen_at": "2026-07-30T11:10:21.867484+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/sk-hynixs-record-profit-misses-forecasts-shares-slump-10-despite-robust-ai-chip-demand/articleshow/132698456.cms": {
-      "title": "SK Hynix's record profit misses forecasts; shares slump 10% despite robust AI chip demand",
-      "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynixs-record-profit-misses-forecasts-shares-slump-10-despite-robust-ai-chip-demand/articleshow/132698456.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
-      "last_seen_at": "2026-07-30T00:03:00.021792+00:00"
     },
     "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-q2-profit-surges-but-misses-market-forecast-shares-slide": {
       "title": "SK Hynix Q2 profit surges but misses market forecast; shares slide",
@@ -201,28 +124,6 @@
       ],
       "first_seen_at": "2026-07-30T00:03:00.021792+00:00",
       "last_seen_at": "2026-07-31T00:05:17.459945+00:00"
-    },
-    "https://www.ft.com/content/5035f634-7d47-483a-b8e9-722ded88a672?syn-25a6b1a6=1": {
-      "title": "FirstFT: US borrowing costs hit 19-year high after Fed holds rates steady",
-      "link": "https://www.ft.com/content/5035f634-7d47-483a-b8e9-722ded88a672?syn-25a6b1a6=1",
-      "source_name": "Financial Times World",
-      "country_code": "GB",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-30T00:03:00.021792+00:00",
-      "last_seen_at": "2026-07-30T00:03:00.021792+00:00"
-    },
-    "https://www.channelnewsasia.com/business/kia-invest-649-million-bring-electric-car-production-mexico-6286241": {
-      "title": "Kia to invest $649 million to bring electric car production to Mexico",
-      "link": "https://www.channelnewsasia.com/business/kia-invest-649-million-bring-electric-car-production-mexico-6286241",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-07-30T00:03:00.021792+00:00",
-      "last_seen_at": "2026-07-30T00:03:00.021792+00:00"
     },
     "https://www.thehindubusinessline.com/markets/q1-results-today-live-updates-bajaj-finance-mampm-tata-steel-swiggy-awl-agri-torrent-pharma-hyundai-motor-irfc-mankind-vedanta-gillette-mazagon-thermax-ajanta-nuvama-nsdl-niva-bupa-results-30-july-202/article71280963.ece": {
       "title": "Q1 Results Today Highlights: Swiggy narrows loss, Bajaj Finance, M&M, Gillette, Vedanta, Vedanta Aluminium, Ajanta Pharma, IRFC, ICRA, Niva Bupa profit rise, Hyundai PAT down; Torrent Pharma PAT up 3.3%; Tata Steel profit jumps 19%, NSDL's PAT up 9%",
@@ -2023,7 +1924,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-09-11T00:52:30.331642+00:00",
-      "last_seen_at": "2026-09-12T12:44:48.946303+00:00"
+      "last_seen_at": "2026-09-13T00:42:14.659566+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/cars-uvs/kia-opens-bookings-for-3-new-cars-carens-cng-carens-clavis-cng-and-carnival-hybrid/articleshow/134016225.cms": {
       "title": "Kia opens bookings for 3 new cars: Carens CNG, Carens Clavis CNG and Carnival Hybrid",
@@ -2046,6 +1947,17 @@
       ],
       "first_seen_at": "2026-09-11T13:24:03.022969+00:00",
       "last_seen_at": "2026-09-12T00:57:40.749840+00:00"
+    },
+    "https://www.channelnewsasia.com/business/hyundai-motor-roll-out-in-house-driver-assist-system-in-2029-6380911": {
+      "title": "Hyundai Motor to roll out in-house driver-assist system in 2029",
+      "link": "https://www.channelnewsasia.com/business/hyundai-motor-roll-out-in-house-driver-assist-system-in-2029-6380911",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-09-13T00:42:14.659566+00:00",
+      "last_seen_at": "2026-09-13T00:42:14.659566+00:00"
     }
   }
 }
