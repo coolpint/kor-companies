@@ -1,52 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-13T00:42:14.659566+00:00",
+  "last_run_at": "2026-09-13T13:43:34.001410+00:00",
   "seen_articles": {
-    "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html": {
-      "title": "SK Hynix shares tank as exponential earnings growth fails to satisfy AI-charged expectations",
-      "link": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html",
-      "source_name": "CNBC Technology",
-      "country_code": "US",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-29T00:00:43.682311+00:00",
-      "last_seen_at": "2026-07-30T11:10:21.867484+00:00"
-    },
-    "https://asia.nikkei.com/business/media-entertainment/bts-comeback-lifts-south-korea-s-hybe-back-into-the-black": {
-      "title": "BTS comeback lifts South Korea's Hybe back into the black",
-      "link": "https://asia.nikkei.com/business/media-entertainment/bts-comeback-lifts-south-korea-s-hybe-back-into-the-black",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "companies": [
-        "HYBE"
-      ],
-      "first_seen_at": "2026-07-29T00:00:43.682311+00:00",
-      "last_seen_at": "2026-07-30T11:10:21.867484+00:00"
-    },
-    "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html": {
-      "title": "Chip stocks shed more than $1 trillion as selloff hits companies powering AI boom",
-      "link": "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html",
-      "source_name": "CNBC Technology",
-      "country_code": "US",
-      "companies": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
-      "last_seen_at": "2026-07-30T11:10:21.867484+00:00"
-    },
-    "https://www.scmp.com/business/china-business/article/3362256/cxmt-shock-how-chinas-viable-alternatives-punch-nvidia-micron-sk-hynix-shares": {
-      "title": "The CXMT shock: how China’s viable alternatives punch Nvidia, Micron, SK Hynix shares",
-      "link": "https://www.scmp.com/business/china-business/article/3362256/cxmt-shock-how-chinas-viable-alternatives-punch-nvidia-micron-sk-hynix-shares",
-      "source_name": "South China Morning Post Tech",
-      "country_code": "HK",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
-      "last_seen_at": "2026-07-30T11:10:21.867484+00:00"
-    },
     "https://www.nytimes.com/2026/07/29/business/skhynix-chips-memory.html": {
       "title": "SK Hynix Reports Strong Earnings, Defying A.I. Market Jitters",
       "link": "https://www.nytimes.com/2026/07/29/business/skhynix-chips-memory.html",
@@ -57,62 +12,6 @@
       ],
       "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
       "last_seen_at": "2026-07-31T00:05:17.459945+00:00"
-    },
-    "https://www.thehindubusinessline.com/companies/maruti-suzuki-drives-over-half-of-indias-pv-exports-as-industry-shipments-rise-88-per-cent-in-q1-fy27/article71280577.ece": {
-      "title": "Maruti Suzuki drives over half of India’s PV exports as industry shipments rise 8.8% in Q1 FY27",
-      "link": "https://www.thehindubusinessline.com/companies/maruti-suzuki-drives-over-half-of-indias-pv-exports-as-industry-shipments-rise-88-per-cent-in-q1-fy27/article71280577.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
-      "last_seen_at": "2026-07-30T11:10:21.867484+00:00"
-    },
-    "https://www.cnbc.com/2026/07/29/bts-concerts-hybe-record-results-shares-crash.html": {
-      "title": "BTS' concerts have been so successful, it’s now bad for its own agency’s shares",
-      "link": "https://www.cnbc.com/2026/07/29/bts-concerts-hybe-record-results-shares-crash.html",
-      "source_name": "CNBC World News",
-      "country_code": "US",
-      "companies": [
-        "HYBE"
-      ],
-      "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
-      "last_seen_at": "2026-07-30T11:10:21.867484+00:00"
-    },
-    "https://www.straitstimes.com/business/sk-hynix-hikes-spending-to-40-billion-to-ride-ai-boom": {
-      "title": "SK Hynix hikes spending to $40 billion to ride AI boom",
-      "link": "https://www.straitstimes.com/business/sk-hynix-hikes-spending-to-40-billion-to-ride-ai-boom",
-      "source_name": "The Straits Times",
-      "country_code": "SG",
-      "companies": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
-      "last_seen_at": "2026-07-30T11:10:21.867484+00:00"
-    },
-    "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-q2-profit-surges-but-misses-market-forecast-shares-slide": {
-      "title": "SK Hynix Q2 profit surges but misses market forecast; shares slide",
-      "link": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-q2-profit-surges-but-misses-market-forecast-shares-slide",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
-      "last_seen_at": "2026-07-30T11:10:21.867484+00:00"
-    },
-    "https://www.cnbc.com/2026/07/30/samsung-q2-earnings-ai-chip-.html": {
-      "title": "Samsung says chip crunch will last until 2028 as quarterly profit soars",
-      "link": "https://www.cnbc.com/2026/07/30/samsung-q2-earnings-ai-chip-.html",
-      "source_name": "CNBC Top News",
-      "country_code": "US",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-07-30T00:03:00.021792+00:00",
-      "last_seen_at": "2026-07-30T11:10:21.867484+00:00"
     },
     "https://mexiconewsdaily.com/business/kia-will-invest-us-649-million-to-build-evs-in-mexico": {
       "title": "Kia will invest US $649 million to manufacture electric SUVs in Mexico",
@@ -147,28 +46,6 @@
       "first_seen_at": "2026-07-30T11:10:21.867484+00:00",
       "last_seen_at": "2026-07-31T11:31:11.246477+00:00"
     },
-    "https://www.channelnewsasia.com/business/hyundai-motor-india-posts-quarterly-profit-drop-costs-production-disruption-weigh-6288331": {
-      "title": "Hyundai Motor India posts quarterly profit drop as costs, production disruption weigh",
-      "link": "https://www.channelnewsasia.com/business/hyundai-motor-india-posts-quarterly-profit-drop-costs-production-disruption-weigh-6288331",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-07-30T11:10:21.867484+00:00",
-      "last_seen_at": "2026-07-30T11:10:21.867484+00:00"
-    },
-    "https://www.ft.com/content/23f388eb-e8ab-4fb1-b1ca-8e04eb4561a1?syn-25a6b1a6=1": {
-      "title": "‘My life’s screwed’: Korean investors stress out after AI bubble bursts",
-      "link": "https://www.ft.com/content/23f388eb-e8ab-4fb1-b1ca-8e04eb4561a1?syn-25a6b1a6=1",
-      "source_name": "Financial Times World",
-      "country_code": "GB",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-30T11:10:21.867484+00:00",
-      "last_seen_at": "2026-07-30T11:10:21.867484+00:00"
-    },
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-sees-chip-shortage-extending-to-2028-touts-long-term-supply-deals/articleshow/132733605.cms": {
       "title": "Samsung sees chip shortage extending to 2028, touts long-term supply deals",
       "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-sees-chip-shortage-extending-to-2028-touts-long-term-supply-deals/articleshow/132733605.cms",
@@ -179,17 +56,6 @@
       ],
       "first_seen_at": "2026-07-30T11:10:21.867484+00:00",
       "last_seen_at": "2026-07-31T11:31:11.246477+00:00"
-    },
-    "https://japantoday.com/category/tech/samsung-reports-record-profit-as-south-korean-chip-giants-benefit-from-global-ai-boom": {
-      "title": "Samsung reports record profit as South Korean chip giants benefit from global AI boom",
-      "link": "https://japantoday.com/category/tech/samsung-reports-record-profit-as-south-korean-chip-giants-benefit-from-global-ai-boom",
-      "source_name": "Japan Today",
-      "country_code": "JP",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-07-30T11:10:21.867484+00:00",
-      "last_seen_at": "2026-07-30T11:10:21.867484+00:00"
     },
     "https://abcnews.com/Business/wireStory/samsung-reports-record-profit-south-korean-chip-giants-135212383": {
       "title": "Samsung reports record profit as South Korean chip giants benefit from global AI boom",
@@ -1957,7 +1823,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-09-13T00:42:14.659566+00:00",
-      "last_seen_at": "2026-09-13T00:42:14.659566+00:00"
+      "last_seen_at": "2026-09-13T13:43:34.001410+00:00"
     }
   }
 }
