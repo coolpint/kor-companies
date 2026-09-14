@@ -1,51 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-14T00:50:11.550807+00:00",
+  "last_run_at": "2026-09-14T15:47:02.411262+00:00",
   "seen_articles": {
-    "https://www.thehindubusinessline.com/markets/q1-results-today-live-updates-bajaj-finance-mampm-tata-steel-swiggy-awl-agri-torrent-pharma-hyundai-motor-irfc-mankind-vedanta-gillette-mazagon-thermax-ajanta-nuvama-nsdl-niva-bupa-results-30-july-202/article71280963.ece": {
-      "title": "Q1 Results Today Highlights: Swiggy narrows loss, Bajaj Finance, M&M, Gillette, Vedanta, Vedanta Aluminium, Ajanta Pharma, IRFC, ICRA, Niva Bupa profit rise, Hyundai PAT down; Torrent Pharma PAT up 3.3%; Tata Steel profit jumps 19%, NSDL's PAT up 9%",
-      "link": "https://www.thehindubusinessline.com/markets/q1-results-today-live-updates-bajaj-finance-mampm-tata-steel-swiggy-awl-agri-torrent-pharma-hyundai-motor-irfc-mankind-vedanta-gillette-mazagon-thermax-ajanta-nuvama-nsdl-niva-bupa-results-30-july-202/article71280963.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-07-30T11:10:21.867484+00:00",
-      "last_seen_at": "2026-07-31T11:31:11.246477+00:00"
-    },
-    "https://www.thehindubusinessline.com/companies/hyundai-motor-india-q1-pat-down-35-at-88862-crore/article71285509.ece": {
-      "title": "Hyundai Motor India Q1 PAT down 35% at ₹888.62 crore",
-      "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-q1-pat-down-35-at-88862-crore/article71285509.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-07-30T11:10:21.867484+00:00",
-      "last_seen_at": "2026-07-31T11:31:11.246477+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-sees-chip-shortage-extending-to-2028-touts-long-term-supply-deals/articleshow/132733605.cms": {
-      "title": "Samsung sees chip shortage extending to 2028, touts long-term supply deals",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-sees-chip-shortage-extending-to-2028-touts-long-term-supply-deals/articleshow/132733605.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-07-30T11:10:21.867484+00:00",
-      "last_seen_at": "2026-07-31T11:31:11.246477+00:00"
-    },
-    "https://abcnews.com/Business/wireStory/samsung-reports-record-profit-south-korean-chip-giants-135212383": {
-      "title": "Samsung reports record profit as South Korean chip giants benefit from global AI boom",
-      "link": "https://abcnews.com/Business/wireStory/samsung-reports-record-profit-south-korean-chip-giants-135212383",
-      "source_name": "ABC News Business",
-      "country_code": "US",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-07-30T11:10:21.867484+00:00",
-      "last_seen_at": "2026-07-31T11:31:11.246477+00:00"
-    },
     "https://www.thehindubusinessline.com/companies/hyundai-q1-fy27-net-income-revenue-down-due-to-west-asia-crisis-chennai-plant-mishap/article71285796.ece": {
       "title": "Hyundai Q1 FY27 net income, revenue down due to West Asia crisis, Chennai plant mishap",
       "link": "https://www.thehindubusinessline.com/companies/hyundai-q1-fy27-net-income-revenue-down-due-to-west-asia-crisis-chennai-plant-mishap/article71285796.ece",
@@ -68,17 +24,6 @@
       ],
       "first_seen_at": "2026-07-31T11:31:11.246477+00:00",
       "last_seen_at": "2026-08-01T10:43:08.204499+00:00"
-    },
-    "https://japantoday.com/category/business/tech-rebound-fuels-record-breaking-rally-in-south-korean-stocks": {
-      "title": "Tech rebound fuels record-breaking rally in South Korean stocks",
-      "link": "https://japantoday.com/category/business/tech-rebound-fuels-record-breaking-rally-in-south-korean-stocks",
-      "source_name": "Japan Today",
-      "country_code": "JP",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-31T11:31:11.246477+00:00",
-      "last_seen_at": "2026-07-31T11:31:11.246477+00:00"
     },
     "https://www.japantimes.co.jp/business/2026/07/31/samsung-sky-hynix-ai": {
       "title": "Samsung and SK Hynix answer AI doubters with big numbers and deals",
@@ -1801,7 +1746,29 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-09-14T00:50:11.550807+00:00",
-      "last_seen_at": "2026-09-14T00:50:11.550807+00:00"
+      "last_seen_at": "2026-09-14T15:47:02.411262+00:00"
+    },
+    "https://asia.nikkei.com/business/transportation/korean-air-launches-free-starlink-in-flight-wi-fi": {
+      "title": "Korean Air launches free Starlink in-flight Wi-Fi",
+      "link": "https://asia.nikkei.com/business/transportation/korean-air-launches-free-starlink-in-flight-wi-fi",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "companies": [
+        "Korean Air"
+      ],
+      "first_seen_at": "2026-09-14T15:47:02.411262+00:00",
+      "last_seen_at": "2026-09-14T15:47:02.411262+00:00"
+    },
+    "https://www.straitstimes.com/business/samsung-sk-hynix-reject-kepcos-23-billion-power-prepayment-proposal-document-shows": {
+      "title": "Samsung, SK Hynix reject KEPCO’s $23 billion power prepayment proposal, document shows",
+      "link": "https://www.straitstimes.com/business/samsung-sk-hynix-reject-kepcos-23-billion-power-prepayment-proposal-document-shows",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-09-14T15:47:02.411262+00:00",
+      "last_seen_at": "2026-09-14T15:47:02.411262+00:00"
     }
   }
 }
