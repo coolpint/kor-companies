@@ -1,29 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-13T13:43:34.001410+00:00",
+  "last_run_at": "2026-09-14T00:50:11.550807+00:00",
   "seen_articles": {
-    "https://www.nytimes.com/2026/07/29/business/skhynix-chips-memory.html": {
-      "title": "SK Hynix Reports Strong Earnings, Defying A.I. Market Jitters",
-      "link": "https://www.nytimes.com/2026/07/29/business/skhynix-chips-memory.html",
-      "source_name": "The New York Times Business",
-      "country_code": "US",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-07-29T11:28:43.834909+00:00",
-      "last_seen_at": "2026-07-31T00:05:17.459945+00:00"
-    },
-    "https://mexiconewsdaily.com/business/kia-will-invest-us-649-million-to-build-evs-in-mexico": {
-      "title": "Kia will invest US $649 million to manufacture electric SUVs in Mexico",
-      "link": "https://mexiconewsdaily.com/business/kia-will-invest-us-649-million-to-build-evs-in-mexico",
-      "source_name": "Mexico News Daily",
-      "country_code": "MX",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-07-30T00:03:00.021792+00:00",
-      "last_seen_at": "2026-07-31T00:05:17.459945+00:00"
-    },
     "https://www.thehindubusinessline.com/markets/q1-results-today-live-updates-bajaj-finance-mampm-tata-steel-swiggy-awl-agri-torrent-pharma-hyundai-motor-irfc-mankind-vedanta-gillette-mazagon-thermax-ajanta-nuvama-nsdl-niva-bupa-results-30-july-202/article71280963.ece": {
       "title": "Q1 Results Today Highlights: Swiggy narrows loss, Bajaj Finance, M&M, Gillette, Vedanta, Vedanta Aluminium, Ajanta Pharma, IRFC, ICRA, Niva Bupa profit rise, Hyundai PAT down; Torrent Pharma PAT up 3.3%; Tata Steel profit jumps 19%, NSDL's PAT up 9%",
       "link": "https://www.thehindubusinessline.com/markets/q1-results-today-live-updates-bajaj-finance-mampm-tata-steel-swiggy-awl-agri-torrent-pharma-hyundai-motor-irfc-mankind-vedanta-gillette-mazagon-thermax-ajanta-nuvama-nsdl-niva-bupa-results-30-july-202/article71280963.ece",
@@ -67,17 +45,6 @@
       ],
       "first_seen_at": "2026-07-30T11:10:21.867484+00:00",
       "last_seen_at": "2026-07-31T11:31:11.246477+00:00"
-    },
-    "https://asia.nikkei.com/business/companies/samsung-electronics-profit-hits-all-time-high-on-device-and-memory-sales": {
-      "title": "Samsung Electronics profit hits all-time high on device and memory sales",
-      "link": "https://asia.nikkei.com/business/companies/samsung-electronics-profit-hits-all-time-high-on-device-and-memory-sales",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-07-30T11:10:21.867484+00:00",
-      "last_seen_at": "2026-07-31T00:05:17.459945+00:00"
     },
     "https://www.thehindubusinessline.com/companies/hyundai-q1-fy27-net-income-revenue-down-due-to-west-asia-crisis-chennai-plant-mishap/article71285796.ece": {
       "title": "Hyundai Q1 FY27 net income, revenue down due to West Asia crisis, Chennai plant mishap",
@@ -1823,7 +1790,18 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-09-13T00:42:14.659566+00:00",
-      "last_seen_at": "2026-09-13T13:43:34.001410+00:00"
+      "last_seen_at": "2026-09-14T00:50:11.550807+00:00"
+    },
+    "https://japantoday.com/category/picture-of-the-day/archery-world-cup-tournament": {
+      "title": "Archery World Cup tournament",
+      "link": "https://japantoday.com/category/picture-of-the-day/archery-world-cup-tournament",
+      "source_name": "Japan Today",
+      "country_code": "JP",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-09-14T00:50:11.550807+00:00",
+      "last_seen_at": "2026-09-14T00:50:11.550807+00:00"
     }
   }
 }
