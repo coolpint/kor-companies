@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-16T01:10:38.669906+00:00",
+  "last_run_at": "2026-09-16T14:06:37.629631+00:00",
   "seen_articles": {
-    "https://www.thehindubusinessline.com/companies/hyundai-motor-india-july-total-sales-hit-all-time-high-at-75360-units-up-254/article71293699.ece": {
-      "title": "Hyundai Motor India July total sales hit all-time high at 75,360 units, up 25.4%",
-      "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-july-total-sales-hit-all-time-high-at-75360-units-up-254/article71293699.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-08-01T10:43:08.204499+00:00",
-      "last_seen_at": "2026-08-02T10:43:09.969434+00:00"
-    },
     "https://mexiconewsdaily.com/news/mexicos-week-in-review-r1-capture-navy-sargassum-kia-evs": {
       "title": "Mexico’s week in review: Authorities capture CJNG leader, Navy backs US $115M sargassum strategy and Kia commits $649M to EVs",
       "link": "https://mexiconewsdaily.com/news/mexicos-week-in-review-r1-capture-navy-sargassum-kia-evs",
@@ -34,39 +23,6 @@
       ],
       "first_seen_at": "2026-08-01T23:59:54.934779+00:00",
       "last_seen_at": "2026-08-03T00:01:34.231488+00:00"
-    },
-    "https://economictimes.indiatimes.com/industry/auto/auto-news/pv-sales-grow-33-in-july-at-4-7-lakh-maruti-hyundai-log-record-sales/articleshow/132788379.cms": {
-      "title": "PV sales grow 33% in July at 4.7 lakh, Maruti, Hyundai log record sales",
-      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/pv-sales-grow-33-in-july-at-4-7-lakh-maruti-hyundai-log-record-sales/articleshow/132788379.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-08-01T23:59:54.934779+00:00",
-      "last_seen_at": "2026-08-02T10:43:09.969434+00:00"
-    },
-    "https://www.thehindubusinessline.com/companies/kia-india-july-sales-up-274-at-28200-units/article71294338.ece": {
-      "title": "Kia India July sales up 27.4% at 28,200 units",
-      "link": "https://www.thehindubusinessline.com/companies/kia-india-july-sales-up-274-at-28200-units/article71294338.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-08-01T23:59:54.934779+00:00",
-      "last_seen_at": "2026-08-02T10:43:09.969434+00:00"
-    },
-    "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-india-logs-best-ever-july-wholesale-sales-dispatches-up-27-4-to-28200-units/articleshow/132787748.cms": {
-      "title": "Kia India logs best-ever July wholesale sales, dispatches up 27.4% to 28,200 units",
-      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-india-logs-best-ever-july-wholesale-sales-dispatches-up-27-4-to-28200-units/articleshow/132787748.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-08-01T23:59:54.934779+00:00",
-      "last_seen_at": "2026-08-02T10:43:09.969434+00:00"
     },
     "https://www.thehindubusinessline.com/companies/hyundai-introduces-assured-buyback-for-creta-electric/article71304810.ece": {
       "title": "Hyundai introduces assured buyback for CRETA Electric",
@@ -1723,18 +1679,18 @@
         "Korean Air"
       ],
       "first_seen_at": "2026-09-15T14:14:19.372218+00:00",
-      "last_seen_at": "2026-09-16T01:10:38.669906+00:00"
+      "last_seen_at": "2026-09-16T14:06:37.629631+00:00"
     },
     "https://www.cnbc.com/2026/09/16/samsung-sk-hynix-ai-boom-students-university-programs.html": {
       "title": "Inside South Korea’s university programs offering a direct route to Samsung and SK Hynix",
       "link": "https://www.cnbc.com/2026/09/16/samsung-sk-hynix-ai-boom-students-university-programs.html",
-      "source_name": "CNBC Top News",
+      "source_name": "CNBC World News",
       "country_code": "US",
       "companies": [
         "SK hynix"
       ],
       "first_seen_at": "2026-09-16T01:10:38.669906+00:00",
-      "last_seen_at": "2026-09-16T01:10:38.669906+00:00"
+      "last_seen_at": "2026-09-16T14:06:37.629631+00:00"
     },
     "https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale": {
       "title": "Kia’s electric van lineup is getting more interesting with reveal of PV7",
@@ -1745,7 +1701,62 @@
         "Kia"
       ],
       "first_seen_at": "2026-09-16T01:10:38.669906+00:00",
-      "last_seen_at": "2026-09-16T01:10:38.669906+00:00"
+      "last_seen_at": "2026-09-16T14:06:37.629631+00:00"
+    },
+    "https://www.cnbc.com/2026/09/16/intel-sk-hynix-us-memory-chips.html": {
+      "title": "Intel, SK Hynix shares jump on report they're discussing U.S. memory chip manufacturing",
+      "link": "https://www.cnbc.com/2026/09/16/intel-sk-hynix-us-memory-chips.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-09-16T14:06:37.629631+00:00",
+      "last_seen_at": "2026-09-16T14:06:37.629631+00:00"
+    },
+    "https://www.channelnewsasia.com/east-asia/sk-hynix-intel-deal-memory-chip-us-6388281": {
+      "title": "SK Hynix in talks with Intel about deal to make memory chips in the US for the first time, sources say",
+      "link": "https://www.channelnewsasia.com/east-asia/sk-hynix-intel-deal-memory-chip-us-6388281",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-09-16T14:06:37.629631+00:00",
+      "last_seen_at": "2026-09-16T14:06:37.629631+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/mirae-asset-venture-investments-others-pay-rs-12-75-lakh-to-settle-sebi-proceedings-over-violations/articleshow/134287979.cms": {
+      "title": "Mirae Asset Venture Investments, others pay Rs 12.75 lakh to settle Sebi proceedings over violations",
+      "link": "https://economictimes.indiatimes.com/tech/technology/mirae-asset-venture-investments-others-pay-rs-12-75-lakh-to-settle-sebi-proceedings-over-violations/articleshow/134287979.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Mirae Asset"
+      ],
+      "first_seen_at": "2026-09-16T14:06:37.629631+00:00",
+      "last_seen_at": "2026-09-16T14:06:37.629631+00:00"
+    },
+    "https://abcnews.com/Business/wireStory/honda-hr-kia-seltos-budget-suv-edmunds-comparison-136488521": {
+      "title": "Honda HR-V vs Kia Seltos, a budget SUV Edmunds comparison",
+      "link": "https://abcnews.com/Business/wireStory/honda-hr-kia-seltos-budget-suv-edmunds-comparison-136488521",
+      "source_name": "ABC News Business",
+      "country_code": "US",
+      "companies": [
+        "Kia"
+      ],
+      "first_seen_at": "2026-09-16T14:06:37.629631+00:00",
+      "last_seen_at": "2026-09-16T14:06:37.629631+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/boeing-to-supply-103-aircraft-to-korean-air-for-36-2-billion-aiding-fleet-expansion/articleshow/134278642.cms": {
+      "title": "Boeing to supply 103 aircraft to Korean Air for $36.2 billion, aiding fleet expansion",
+      "link": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/boeing-to-supply-103-aircraft-to-korean-air-for-36-2-billion-aiding-fleet-expansion/articleshow/134278642.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Korean Air"
+      ],
+      "first_seen_at": "2026-09-16T14:06:37.629631+00:00",
+      "last_seen_at": "2026-09-16T14:06:37.629631+00:00"
     }
   }
 }
