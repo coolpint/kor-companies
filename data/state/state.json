@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-15T14:14:19.372218+00:00",
+  "last_run_at": "2026-09-16T01:10:38.669906+00:00",
   "seen_articles": {
-    "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-india-achieves-record-sales-of-75360-units-in-july-2026-up-254/articleshow/132784303.cms": {
-      "title": "Hyundai Motor India July total sales up 25.4 pc at 75,360 units",
-      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-india-achieves-record-sales-of-75360-units-in-july-2026-up-254/articleshow/132784303.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-08-01T10:43:08.204499+00:00",
-      "last_seen_at": "2026-08-01T23:59:54.934779+00:00"
-    },
     "https://www.thehindubusinessline.com/companies/hyundai-motor-india-july-total-sales-hit-all-time-high-at-75360-units-up-254/article71293699.ece": {
       "title": "Hyundai Motor India July total sales hit all-time high at 75,360 units, up 25.4%",
       "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-july-total-sales-hit-all-time-high-at-75360-units-up-254/article71293699.ece",
@@ -1712,7 +1701,7 @@
         "Korean Air"
       ],
       "first_seen_at": "2026-09-14T15:47:02.411262+00:00",
-      "last_seen_at": "2026-09-15T14:14:19.372218+00:00"
+      "last_seen_at": "2026-09-16T01:10:38.669906+00:00"
     },
     "https://www.straitstimes.com/business/samsung-sk-hynix-reject-kepcos-23-billion-power-prepayment-proposal-document-shows": {
       "title": "Samsung, SK Hynix reject KEPCO’s $23 billion power prepayment proposal, document shows",
@@ -1734,7 +1723,29 @@
         "Korean Air"
       ],
       "first_seen_at": "2026-09-15T14:14:19.372218+00:00",
-      "last_seen_at": "2026-09-15T14:14:19.372218+00:00"
+      "last_seen_at": "2026-09-16T01:10:38.669906+00:00"
+    },
+    "https://www.cnbc.com/2026/09/16/samsung-sk-hynix-ai-boom-students-university-programs.html": {
+      "title": "Inside South Korea’s university programs offering a direct route to Samsung and SK Hynix",
+      "link": "https://www.cnbc.com/2026/09/16/samsung-sk-hynix-ai-boom-students-university-programs.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-09-16T01:10:38.669906+00:00",
+      "last_seen_at": "2026-09-16T01:10:38.669906+00:00"
+    },
+    "https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale": {
+      "title": "Kia’s electric van lineup is getting more interesting with reveal of PV7",
+      "link": "https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale",
+      "source_name": "The Verge",
+      "country_code": "US",
+      "companies": [
+        "Kia"
+      ],
+      "first_seen_at": "2026-09-16T01:10:38.669906+00:00",
+      "last_seen_at": "2026-09-16T01:10:38.669906+00:00"
     }
   }
 }
