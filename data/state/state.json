@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-17T01:12:19.157653+00:00",
+  "last_run_at": "2026-09-17T14:11:31.702695+00:00",
   "seen_articles": {
     "https://www.thehindubusinessline.com/companies/hyundai-introduces-assured-buyback-for-creta-electric/article71304810.ece": {
       "title": "Hyundai introduces assured buyback for CRETA Electric",
@@ -1668,7 +1668,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-09-16T01:10:38.669906+00:00",
-      "last_seen_at": "2026-09-17T01:12:19.157653+00:00"
+      "last_seen_at": "2026-09-17T14:11:31.702695+00:00"
     },
     "https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale": {
       "title": "Kia’s electric van lineup is getting more interesting with reveal of PV7",
@@ -1684,13 +1684,13 @@
     "https://www.cnbc.com/2026/09/16/intel-sk-hynix-us-memory-chips.html": {
       "title": "Intel, SK Hynix shares jump on report they're discussing U.S. memory chip manufacturing",
       "link": "https://www.cnbc.com/2026/09/16/intel-sk-hynix-us-memory-chips.html",
-      "source_name": "CNBC World News",
+      "source_name": "CNBC Technology",
       "country_code": "US",
       "companies": [
         "SK hynix"
       ],
       "first_seen_at": "2026-09-16T14:06:37.629631+00:00",
-      "last_seen_at": "2026-09-17T01:12:19.157653+00:00"
+      "last_seen_at": "2026-09-17T14:11:31.702695+00:00"
     },
     "https://www.channelnewsasia.com/east-asia/sk-hynix-intel-deal-memory-chip-us-6388281": {
       "title": "SK Hynix in talks with Intel about deal to make memory chips in the US for the first time, sources say",
@@ -1712,7 +1712,7 @@
         "Mirae Asset"
       ],
       "first_seen_at": "2026-09-16T14:06:37.629631+00:00",
-      "last_seen_at": "2026-09-17T01:12:19.157653+00:00"
+      "last_seen_at": "2026-09-17T14:11:31.702695+00:00"
     },
     "https://abcnews.com/Business/wireStory/honda-hr-kia-seltos-budget-suv-edmunds-comparison-136488521": {
       "title": "Honda HR-V vs Kia Seltos, a budget SUV Edmunds comparison",
@@ -1723,7 +1723,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-09-16T14:06:37.629631+00:00",
-      "last_seen_at": "2026-09-17T01:12:19.157653+00:00"
+      "last_seen_at": "2026-09-17T14:11:31.702695+00:00"
     },
     "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/boeing-to-supply-103-aircraft-to-korean-air-for-36-2-billion-aiding-fleet-expansion/articleshow/134278642.cms": {
       "title": "Boeing to supply 103 aircraft to Korean Air for $36.2 billion, aiding fleet expansion",
@@ -1737,7 +1737,7 @@
       "last_seen_at": "2026-09-16T14:06:37.629631+00:00"
     },
     "https://www.straitstimes.com/business/companies-markets/sk-hynix-says-exploring-options-after-report-of-intel-tie-up": {
-      "title": "SK Hynix says exploring options after report of Intel tie-up",
+      "title": "SK Hynix says it’s exploring options after report of Intel tie-up",
       "link": "https://www.straitstimes.com/business/companies-markets/sk-hynix-says-exploring-options-after-report-of-intel-tie-up",
       "source_name": "The Straits Times",
       "country_code": "SG",
@@ -1745,7 +1745,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-09-17T01:12:19.157653+00:00",
-      "last_seen_at": "2026-09-17T01:12:19.157653+00:00"
+      "last_seen_at": "2026-09-17T14:11:31.702695+00:00"
     },
     "https://www.taipeitimes.com/News/biz/archives/2026/09/17/2003864382": {
       "title": "SK Hynix mulling making chips in US",
@@ -1756,7 +1756,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-09-17T01:12:19.157653+00:00",
-      "last_seen_at": "2026-09-17T01:12:19.157653+00:00"
+      "last_seen_at": "2026-09-17T14:11:31.702695+00:00"
     },
     "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories": {
       "title": "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
@@ -1778,7 +1778,18 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-09-17T01:12:19.157653+00:00",
-      "last_seen_at": "2026-09-17T01:12:19.157653+00:00"
+      "last_seen_at": "2026-09-17T14:11:31.702695+00:00"
+    },
+    "https://www.scmp.com/tech/big-tech/article/3367853/once-reliant-samsung-and-sk-hynix-chinese-smartphone-makers-are-turning-cxmt": {
+      "title": "Once reliant on Samsung and SK Hynix, Chinese smartphone makers are turning to CXMT",
+      "link": "https://www.scmp.com/tech/big-tech/article/3367853/once-reliant-samsung-and-sk-hynix-chinese-smartphone-makers-are-turning-cxmt",
+      "source_name": "South China Morning Post Tech",
+      "country_code": "HK",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-09-17T14:11:31.702695+00:00",
+      "last_seen_at": "2026-09-17T14:11:31.702695+00:00"
     }
   }
 }
