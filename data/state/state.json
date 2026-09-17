@@ -1,29 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-16T14:06:37.629631+00:00",
+  "last_run_at": "2026-09-17T01:12:19.157653+00:00",
   "seen_articles": {
-    "https://mexiconewsdaily.com/news/mexicos-week-in-review-r1-capture-navy-sargassum-kia-evs": {
-      "title": "Mexico’s week in review: Authorities capture CJNG leader, Navy backs US $115M sargassum strategy and Kia commits $649M to EVs",
-      "link": "https://mexiconewsdaily.com/news/mexicos-week-in-review-r1-capture-navy-sargassum-kia-evs",
-      "source_name": "Mexico News Daily",
-      "country_code": "MX",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-08-01T23:59:54.934779+00:00",
-      "last_seen_at": "2026-08-03T00:01:34.231488+00:00"
-    },
-    "https://www.thehindubusinessline.com/economy/indias-passenger-vehicle-sales-surge-33-in-july-led-by-maruti-suzuki-and-hyundai/article71294377.ece": {
-      "title": "India’s passenger vehicle sales surge 33% in July, led by Maruti Suzuki and Hyundai",
-      "link": "https://www.thehindubusinessline.com/economy/indias-passenger-vehicle-sales-surge-33-in-july-led-by-maruti-suzuki-and-hyundai/article71294377.ece",
-      "source_name": "BusinessLine Economy",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-08-01T23:59:54.934779+00:00",
-      "last_seen_at": "2026-08-03T00:01:34.231488+00:00"
-    },
     "https://www.thehindubusinessline.com/companies/hyundai-introduces-assured-buyback-for-creta-electric/article71304810.ece": {
       "title": "Hyundai introduces assured buyback for CRETA Electric",
       "link": "https://www.thehindubusinessline.com/companies/hyundai-introduces-assured-buyback-for-creta-electric/article71304810.ece",
@@ -1679,7 +1657,7 @@
         "Korean Air"
       ],
       "first_seen_at": "2026-09-15T14:14:19.372218+00:00",
-      "last_seen_at": "2026-09-16T14:06:37.629631+00:00"
+      "last_seen_at": "2026-09-17T01:12:19.157653+00:00"
     },
     "https://www.cnbc.com/2026/09/16/samsung-sk-hynix-ai-boom-students-university-programs.html": {
       "title": "Inside South Korea’s university programs offering a direct route to Samsung and SK Hynix",
@@ -1690,7 +1668,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-09-16T01:10:38.669906+00:00",
-      "last_seen_at": "2026-09-16T14:06:37.629631+00:00"
+      "last_seen_at": "2026-09-17T01:12:19.157653+00:00"
     },
     "https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale": {
       "title": "Kia’s electric van lineup is getting more interesting with reveal of PV7",
@@ -1706,24 +1684,24 @@
     "https://www.cnbc.com/2026/09/16/intel-sk-hynix-us-memory-chips.html": {
       "title": "Intel, SK Hynix shares jump on report they're discussing U.S. memory chip manufacturing",
       "link": "https://www.cnbc.com/2026/09/16/intel-sk-hynix-us-memory-chips.html",
-      "source_name": "CNBC Top News",
+      "source_name": "CNBC World News",
       "country_code": "US",
       "companies": [
         "SK hynix"
       ],
       "first_seen_at": "2026-09-16T14:06:37.629631+00:00",
-      "last_seen_at": "2026-09-16T14:06:37.629631+00:00"
+      "last_seen_at": "2026-09-17T01:12:19.157653+00:00"
     },
     "https://www.channelnewsasia.com/east-asia/sk-hynix-intel-deal-memory-chip-us-6388281": {
       "title": "SK Hynix in talks with Intel about deal to make memory chips in the US for the first time, sources say",
       "link": "https://www.channelnewsasia.com/east-asia/sk-hynix-intel-deal-memory-chip-us-6388281",
-      "source_name": "CNA Business",
+      "source_name": "CNA Asia",
       "country_code": "SG",
       "companies": [
         "SK hynix"
       ],
       "first_seen_at": "2026-09-16T14:06:37.629631+00:00",
-      "last_seen_at": "2026-09-16T14:06:37.629631+00:00"
+      "last_seen_at": "2026-09-17T01:12:19.157653+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/mirae-asset-venture-investments-others-pay-rs-12-75-lakh-to-settle-sebi-proceedings-over-violations/articleshow/134287979.cms": {
       "title": "Mirae Asset Venture Investments, others pay Rs 12.75 lakh to settle Sebi proceedings over violations",
@@ -1734,7 +1712,7 @@
         "Mirae Asset"
       ],
       "first_seen_at": "2026-09-16T14:06:37.629631+00:00",
-      "last_seen_at": "2026-09-16T14:06:37.629631+00:00"
+      "last_seen_at": "2026-09-17T01:12:19.157653+00:00"
     },
     "https://abcnews.com/Business/wireStory/honda-hr-kia-seltos-budget-suv-edmunds-comparison-136488521": {
       "title": "Honda HR-V vs Kia Seltos, a budget SUV Edmunds comparison",
@@ -1745,7 +1723,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-09-16T14:06:37.629631+00:00",
-      "last_seen_at": "2026-09-16T14:06:37.629631+00:00"
+      "last_seen_at": "2026-09-17T01:12:19.157653+00:00"
     },
     "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/boeing-to-supply-103-aircraft-to-korean-air-for-36-2-billion-aiding-fleet-expansion/articleshow/134278642.cms": {
       "title": "Boeing to supply 103 aircraft to Korean Air for $36.2 billion, aiding fleet expansion",
@@ -1757,6 +1735,50 @@
       ],
       "first_seen_at": "2026-09-16T14:06:37.629631+00:00",
       "last_seen_at": "2026-09-16T14:06:37.629631+00:00"
+    },
+    "https://www.straitstimes.com/business/companies-markets/sk-hynix-says-exploring-options-after-report-of-intel-tie-up": {
+      "title": "SK Hynix says exploring options after report of Intel tie-up",
+      "link": "https://www.straitstimes.com/business/companies-markets/sk-hynix-says-exploring-options-after-report-of-intel-tie-up",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-09-17T01:12:19.157653+00:00",
+      "last_seen_at": "2026-09-17T01:12:19.157653+00:00"
+    },
+    "https://www.taipeitimes.com/News/biz/archives/2026/09/17/2003864382": {
+      "title": "SK Hynix mulling making chips in US",
+      "link": "https://www.taipeitimes.com/News/biz/archives/2026/09/17/2003864382",
+      "source_name": "Taipei Times",
+      "country_code": "TW",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-09-17T01:12:19.157653+00:00",
+      "last_seen_at": "2026-09-17T01:12:19.157653+00:00"
+    },
+    "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories": {
+      "title": "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
+      "link": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
+      "source_name": "MarketWatch Top Stories",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-09-17T01:12:19.157653+00:00",
+      "last_seen_at": "2026-09-17T01:12:19.157653+00:00"
+    },
+    "https://www.straitstimes.com/business/sk-hynix-in-talks-with-intel-about-deal-to-make-memory-chips-in-us-for-the-first-time-sources-say": {
+      "title": "SK Hynix in talks with Intel about deal to make memory chips in US for the first time, sources say",
+      "link": "https://www.straitstimes.com/business/sk-hynix-in-talks-with-intel-about-deal-to-make-memory-chips-in-us-for-the-first-time-sources-say",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-09-17T01:12:19.157653+00:00",
+      "last_seen_at": "2026-09-17T01:12:19.157653+00:00"
     }
   }
 }
