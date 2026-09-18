@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-18T01:07:39.061614+00:00",
+  "last_run_at": "2026-09-18T13:30:04.749875+00:00",
   "seen_articles": {
     "https://www.thehindubusinessline.com/companies/hyundai-introduces-assured-buyback-for-creta-electric/article71304810.ece": {
       "title": "Hyundai introduces assured buyback for CRETA Electric",
@@ -1789,7 +1789,18 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-09-17T14:11:31.702695+00:00",
-      "last_seen_at": "2026-09-18T01:07:39.061614+00:00"
+      "last_seen_at": "2026-09-18T13:30:04.749875+00:00"
+    },
+    "https://www.channelnewsasia.com/business/sk-hynixs-solidigm-unit-weighing-nand-memory-chip-factory-in-us-sources-say-6394121": {
+      "title": "SK Hynix's Solidigm unit is weighing NAND memory chip factory in US, sources say",
+      "link": "https://www.channelnewsasia.com/business/sk-hynixs-solidigm-unit-weighing-nand-memory-chip-factory-in-us-sources-say-6394121",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-09-18T13:30:04.749875+00:00",
+      "last_seen_at": "2026-09-18T13:30:04.749875+00:00"
     }
   }
 }
