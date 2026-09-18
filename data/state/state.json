@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-17T14:11:31.702695+00:00",
+  "last_run_at": "2026-09-18T01:07:39.061614+00:00",
   "seen_articles": {
     "https://www.thehindubusinessline.com/companies/hyundai-introduces-assured-buyback-for-creta-electric/article71304810.ece": {
       "title": "Hyundai introduces assured buyback for CRETA Electric",
@@ -1690,7 +1690,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-09-16T14:06:37.629631+00:00",
-      "last_seen_at": "2026-09-17T14:11:31.702695+00:00"
+      "last_seen_at": "2026-09-18T01:07:39.061614+00:00"
     },
     "https://www.channelnewsasia.com/east-asia/sk-hynix-intel-deal-memory-chip-us-6388281": {
       "title": "SK Hynix in talks with Intel about deal to make memory chips in the US for the first time, sources say",
@@ -1745,7 +1745,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-09-17T01:12:19.157653+00:00",
-      "last_seen_at": "2026-09-17T14:11:31.702695+00:00"
+      "last_seen_at": "2026-09-18T01:07:39.061614+00:00"
     },
     "https://www.taipeitimes.com/News/biz/archives/2026/09/17/2003864382": {
       "title": "SK Hynix mulling making chips in US",
@@ -1778,7 +1778,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-09-17T01:12:19.157653+00:00",
-      "last_seen_at": "2026-09-17T14:11:31.702695+00:00"
+      "last_seen_at": "2026-09-18T01:07:39.061614+00:00"
     },
     "https://www.scmp.com/tech/big-tech/article/3367853/once-reliant-samsung-and-sk-hynix-chinese-smartphone-makers-are-turning-cxmt": {
       "title": "Once reliant on Samsung and SK Hynix, Chinese smartphone makers are turning to CXMT",
@@ -1789,7 +1789,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-09-17T14:11:31.702695+00:00",
-      "last_seen_at": "2026-09-17T14:11:31.702695+00:00"
+      "last_seen_at": "2026-09-18T01:07:39.061614+00:00"
     }
   }
 }
