@@ -1,29 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-20T00:50:24.068528+00:00",
+  "last_run_at": "2026-09-20T13:30:36.892429+00:00",
   "seen_articles": {
-    "https://www.marketwatch.com/story/flash-crash-briefly-fells-sk-hynix-while-socgen-strategist-says-korean-shakeout-is-nearly-done-8872681e?mod=mw_rss_topstories": {
-      "title": "Flash crash briefly fells SK Hynix while SocGen strategist says Korean shakeout is nearly done",
-      "link": "https://www.marketwatch.com/story/flash-crash-briefly-fells-sk-hynix-while-socgen-strategist-says-korean-shakeout-is-nearly-done-8872681e?mod=mw_rss_topstories",
-      "source_name": "MarketWatch Top Stories",
-      "country_code": "US",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-08-06T11:26:33.141012+00:00",
-      "last_seen_at": "2026-08-06T11:26:33.141012+00:00"
-    },
-    "https://economictimes.indiatimes.com/industry/auto/cars-uvs/new-tata-nexon-launched-check-camo-variant-wise-price-powertrains-and-other-details/articleshow/132990106.cms": {
-      "title": "New Tata Nexon SUV launched: Check CAMO variant-wise prices, powertrains and other details",
-      "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/new-tata-nexon-launched-check-camo-variant-wise-price-powertrains-and-other-details/articleshow/132990106.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Nexon"
-      ],
-      "first_seen_at": "2026-08-06T11:26:33.141012+00:00",
-      "last_seen_at": "2026-08-06T11:26:33.141012+00:00"
-    },
     "https://www.cnbc.com/2026/08/06/asia-tech-selloff-wall-street-samsung-sk-hynix.html": {
       "title": "Asian tech stocks drop with SK Hynix plunging 10% after Wall Street AI names fall",
       "link": "https://www.cnbc.com/2026/08/06/asia-tech-selloff-wall-street-samsung-sk-hynix.html",
@@ -1735,6 +1713,40 @@
       ],
       "first_seen_at": "2026-09-19T01:02:09.074682+00:00",
       "last_seen_at": "2026-09-20T00:50:24.068528+00:00"
+    },
+    "https://www.scmp.com/tech/article/3368154/chinas-cxmt-touts-new-chip-manufacturing-platform-close-worlds-most-advanced": {
+      "title": "China’s CXMT touts new chip manufacturing platform as close to ‘world’s most advanced’",
+      "link": "https://www.scmp.com/tech/article/3368154/chinas-cxmt-touts-new-chip-manufacturing-platform-close-worlds-most-advanced",
+      "source_name": "South China Morning Post Tech",
+      "country_code": "HK",
+      "companies": [
+        "Samsung Electronics",
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-09-20T13:30:36.892429+00:00",
+      "last_seen_at": "2026-09-20T13:30:36.892429+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/cons-products/durables/indias-young-consumers-are-giving-samsungs-ai-appliance-bet-a-big-boost/articleshow/134365163.cms": {
+      "title": "India’s young consumers are giving Samsung’s AI appliance bet a big boost",
+      "link": "https://economictimes.indiatimes.com/industry/cons-products/durables/indias-young-consumers-are-giving-samsungs-ai-appliance-bet-a-big-boost/articleshow/134365163.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "LG Electronics"
+      ],
+      "first_seen_at": "2026-09-20T13:30:36.892429+00:00",
+      "last_seen_at": "2026-09-20T13:30:36.892429+00:00"
+    },
+    "https://asia.nikkei.com/business/retail/hyundai-department-store-looks-to-bring-south-korean-fashion-abroad": {
+      "title": "Hyundai Department Store looks to bring South Korean fashion abroad",
+      "link": "https://asia.nikkei.com/business/retail/hyundai-department-store-looks-to-bring-south-korean-fashion-abroad",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-09-20T13:30:36.892429+00:00",
+      "last_seen_at": "2026-09-20T13:30:36.892429+00:00"
     }
   }
 }
