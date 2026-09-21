@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-20T13:30:36.892429+00:00",
+  "last_run_at": "2026-09-21T00:55:52.981407+00:00",
   "seen_articles": {
     "https://www.cnbc.com/2026/08/06/asia-tech-selloff-wall-street-samsung-sk-hynix.html": {
       "title": "Asian tech stocks drop with SK Hynix plunging 10% after Wall Street AI names fall",
@@ -1724,7 +1724,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-09-20T13:30:36.892429+00:00",
-      "last_seen_at": "2026-09-20T13:30:36.892429+00:00"
+      "last_seen_at": "2026-09-21T00:55:52.981407+00:00"
     },
     "https://economictimes.indiatimes.com/industry/cons-products/durables/indias-young-consumers-are-giving-samsungs-ai-appliance-bet-a-big-boost/articleshow/134365163.cms": {
       "title": "India’s young consumers are giving Samsung’s AI appliance bet a big boost",
@@ -1735,7 +1735,7 @@
         "LG Electronics"
       ],
       "first_seen_at": "2026-09-20T13:30:36.892429+00:00",
-      "last_seen_at": "2026-09-20T13:30:36.892429+00:00"
+      "last_seen_at": "2026-09-21T00:55:52.981407+00:00"
     },
     "https://asia.nikkei.com/business/retail/hyundai-department-store-looks-to-bring-south-korean-fashion-abroad": {
       "title": "Hyundai Department Store looks to bring South Korean fashion abroad",
@@ -1746,7 +1746,18 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-09-20T13:30:36.892429+00:00",
-      "last_seen_at": "2026-09-20T13:30:36.892429+00:00"
+      "last_seen_at": "2026-09-21T00:55:52.981407+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/auto-news/auto-sales-strong-festive-demand-may-hit-by-low-dealer-stocks-supply-constraints/articleshow/134374771.cms": {
+      "title": "Auto sales: Strong festive demand may hit by low dealer stocks, supply constraints",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/auto-sales-strong-festive-demand-may-hit-by-low-dealer-stocks-supply-constraints/articleshow/134374771.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-09-21T00:55:52.981407+00:00",
+      "last_seen_at": "2026-09-21T00:55:52.981407+00:00"
     }
   }
 }
