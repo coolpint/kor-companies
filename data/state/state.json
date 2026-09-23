@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-23T01:19:57.684789+00:00",
+  "last_run_at": "2026-09-23T14:08:41.654407+00:00",
   "seen_articles": {
-    "https://economictimes.indiatimes.com/tech/technology/sk-hynix-board-approves-38-billion-investments-for-south-koreas-yongin-cheongju-chip-plants/articleshow/133046182.cms": {
-      "title": "SK Hynix board approves $38 billion investments for South Korea's Yongin, Cheongju chip plants",
-      "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-board-approves-38-billion-investments-for-south-koreas-yongin-cheongju-chip-plants/articleshow/133046182.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-08-08T09:41:31.849122+00:00",
-      "last_seen_at": "2026-08-09T09:43:36.589903+00:00"
-    },
     "https://economictimes.indiatimes.com/industry/media/entertainment/india-natural-next-step-in-hybes-global-expansion-india-ceo-damien-woochang-lee/articleshow/133064960.cms": {
       "title": "India natural next step in HYBE's global expansion: India CEO Damien Woochang Lee",
       "link": "https://economictimes.indiatimes.com/industry/media/entertainment/india-natural-next-step-in-hybes-global-expansion-india-ceo-damien-woochang-lee/articleshow/133064960.cms",
@@ -1726,6 +1715,28 @@
       ],
       "first_seen_at": "2026-09-22T13:57:27.500069+00:00",
       "last_seen_at": "2026-09-22T13:57:27.500069+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/cons-products/electronics/india-probes-lg-samsung-over-alleged-tariff-evasion-on-imported-oled-tv-parts/articleshow/134431170.cms": {
+      "title": "India probes LG, Samsung over alleged tariff evasion on imported OLED TV parts",
+      "link": "https://economictimes.indiatimes.com/industry/cons-products/electronics/india-probes-lg-samsung-over-alleged-tariff-evasion-on-imported-oled-tv-parts/articleshow/134431170.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "LG Electronics"
+      ],
+      "first_seen_at": "2026-09-23T14:08:41.654407+00:00",
+      "last_seen_at": "2026-09-23T14:08:41.654407+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-motor-india-opens-booking-for-bayon-model-at-rs-11000-check-how-to-book-specifications-more/articleshow/134428114.cms": {
+      "title": "Hyundai Motor India opens booking for Bayon at Rs 11,000; check how to book, specifications & more",
+      "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-motor-india-opens-booking-for-bayon-model-at-rs-11000-check-how-to-book-specifications-more/articleshow/134428114.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-09-23T14:08:41.654407+00:00",
+      "last_seen_at": "2026-09-23T14:08:41.654407+00:00"
     }
   }
 }
