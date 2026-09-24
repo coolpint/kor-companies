@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-23T14:08:41.654407+00:00",
+  "last_run_at": "2026-09-24T01:14:42.990216+00:00",
   "seen_articles": {
-    "https://economictimes.indiatimes.com/industry/media/entertainment/india-natural-next-step-in-hybes-global-expansion-india-ceo-damien-woochang-lee/articleshow/133064960.cms": {
-      "title": "India natural next step in HYBE's global expansion: India CEO Damien Woochang Lee",
-      "link": "https://economictimes.indiatimes.com/industry/media/entertainment/india-natural-next-step-in-hybes-global-expansion-india-ceo-damien-woochang-lee/articleshow/133064960.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "HYBE"
-      ],
-      "first_seen_at": "2026-08-09T09:43:36.589903+00:00",
-      "last_seen_at": "2026-08-09T23:35:04.098375+00:00"
-    },
     "https://www.thehindubusinessline.com/companies/hyundai-motor-india-expects-exports-volume-to-recover-from-q2-md-ceo-tarun-garg/article71324073.ece": {
       "title": "Hyundai Motor India expects exports volume to recover from Q2: MD & CEO Tarun Garg",
       "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-expects-exports-volume-to-recover-from-q2-md-ceo-tarun-garg/article71324073.ece",
@@ -23,17 +12,6 @@
       ],
       "first_seen_at": "2026-08-09T09:43:36.589903+00:00",
       "last_seen_at": "2026-08-10T10:20:11.852027+00:00"
-    },
-    "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-india-expects-exports-volume-to-recover-from-q2-md-ceo-tarun-garg/articleshow/133062410.cms": {
-      "title": "Hyundai Motor India expects exports volume to recover from Q2: MD & CEO Tarun Garg",
-      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-india-expects-exports-volume-to-recover-from-q2-md-ceo-tarun-garg/articleshow/133062410.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-08-09T09:43:36.589903+00:00",
-      "last_seen_at": "2026-08-09T23:35:04.098375+00:00"
     },
     "https://www.taipeitimes.com/News/biz/archives/2026/08/10/2003862205": {
       "title": "SK Hynix to mull options for US$3bn China plant",
@@ -1725,7 +1703,7 @@
         "LG Electronics"
       ],
       "first_seen_at": "2026-09-23T14:08:41.654407+00:00",
-      "last_seen_at": "2026-09-23T14:08:41.654407+00:00"
+      "last_seen_at": "2026-09-24T01:14:42.990216+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-motor-india-opens-booking-for-bayon-model-at-rs-11000-check-how-to-book-specifications-more/articleshow/134428114.cms": {
       "title": "Hyundai Motor India opens booking for Bayon at Rs 11,000; check how to book, specifications & more",
@@ -1736,7 +1714,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-09-23T14:08:41.654407+00:00",
-      "last_seen_at": "2026-09-23T14:08:41.654407+00:00"
+      "last_seen_at": "2026-09-24T01:14:42.990216+00:00"
     }
   }
 }
