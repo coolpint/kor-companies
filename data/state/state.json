@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-24T14:06:40.320337+00:00",
+  "last_run_at": "2026-09-25T01:16:33.399128+00:00",
   "seen_articles": {
     "https://www.thehindubusinessline.com/companies/indias-connected-mobility-push-gains-momentum-as-hyundai-announces-1-million-connected-car-sales-by-2027/article71327294.ece": {
       "title": "India's connected mobility push gains momentum as Hyundai announces 1 million connected car sales by 2027",
@@ -1660,6 +1660,17 @@
       ],
       "first_seen_at": "2026-09-23T14:08:41.654407+00:00",
       "last_seen_at": "2026-09-24T01:14:42.990216+00:00"
+    },
+    "https://www.cnbc.com/2026/09/24/hyundai-set-to-outsell-ford-in-q3-as-detroit-automakers-lack-hybrids.html": {
+      "title": "Hyundai expected to outsell Ford in third quarter as Detroit automakers lack hybrids",
+      "link": "https://www.cnbc.com/2026/09/24/hyundai-set-to-outsell-ford-in-q3-as-detroit-automakers-lack-hybrids.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-09-25T01:16:33.399128+00:00",
+      "last_seen_at": "2026-09-25T01:16:33.399128+00:00"
     }
   }
 }
