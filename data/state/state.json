@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-26T01:18:54.715773+00:00",
+  "last_run_at": "2026-09-26T13:40:43.294948+00:00",
   "seen_articles": {
     "https://www.straitstimes.com/business/companies-markets/sk-hynix-samsung-shares-rally-after-report-temasek-to-invest": {
       "title": "SK Hynix, Samsung shares rally as media report says Temasek to invest in chip giants",
@@ -1615,7 +1615,7 @@
         "CJ CheilJedang"
       ],
       "first_seen_at": "2026-09-25T14:30:36.067999+00:00",
-      "last_seen_at": "2026-09-26T01:18:54.715773+00:00"
+      "last_seen_at": "2026-09-26T13:40:43.294948+00:00"
     },
     "https://www.channelnewsasia.com/business/exclusive-sk-hynixs-solidigm-weighs-ipo-could-value-unit-up-150-billion-sources-say-6411646": {
       "title": "Exclusive-SK Hynix's Solidigm weighs IPO that could value the unit at up to $150 billion, sources say",
@@ -1626,7 +1626,18 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-09-26T01:18:54.715773+00:00",
-      "last_seen_at": "2026-09-26T01:18:54.715773+00:00"
+      "last_seen_at": "2026-09-26T13:40:43.294948+00:00"
+    },
+    "https://www.lemonde.fr/economie/article/2026/09/26/en-2026-la-concentration-s-accelere-dans-le-transport-aerien-sous-la-pression-de-l-envolee-du-prix-du-kerosene_6783112_3234.html": {
+      "title": "En 2026, la concentration s’accélère dans le transport aérien sous la pression de l’envolée du prix du kérosène",
+      "link": "https://www.lemonde.fr/economie/article/2026/09/26/en-2026-la-concentration-s-accelere-dans-le-transport-aerien-sous-la-pression-de-l-envolee-du-prix-du-kerosene_6783112_3234.html",
+      "source_name": "Le Monde Economie",
+      "country_code": "FR",
+      "companies": [
+        "Korean Air"
+      ],
+      "first_seen_at": "2026-09-26T13:40:43.294948+00:00",
+      "last_seen_at": "2026-09-26T13:40:43.294948+00:00"
     }
   }
 }
