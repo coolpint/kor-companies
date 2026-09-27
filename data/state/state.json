@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-26T13:40:43.294948+00:00",
+  "last_run_at": "2026-09-27T01:12:58.187964+00:00",
   "seen_articles": {
     "https://www.straitstimes.com/business/companies-markets/sk-hynix-samsung-shares-rally-after-report-temasek-to-invest": {
       "title": "SK Hynix, Samsung shares rally as media report says Temasek to invest in chip giants",
@@ -1626,7 +1626,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-09-26T01:18:54.715773+00:00",
-      "last_seen_at": "2026-09-26T13:40:43.294948+00:00"
+      "last_seen_at": "2026-09-27T01:12:58.187964+00:00"
     },
     "https://www.lemonde.fr/economie/article/2026/09/26/en-2026-la-concentration-s-accelere-dans-le-transport-aerien-sous-la-pression-de-l-envolee-du-prix-du-kerosene_6783112_3234.html": {
       "title": "En 2026, la concentration s’accélère dans le transport aérien sous la pression de l’envolée du prix du kérosène",
@@ -1637,7 +1637,18 @@
         "Korean Air"
       ],
       "first_seen_at": "2026-09-26T13:40:43.294948+00:00",
-      "last_seen_at": "2026-09-26T13:40:43.294948+00:00"
+      "last_seen_at": "2026-09-27T01:12:58.187964+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/auto-news/mass-market-automakers-gaining-ground-in-the-premium-segment-mercedes-bmw-work-out-different-strategies-to-drive-growth/articleshow/134509179.cms": {
+      "title": "Mass market automakers gaining ground in the premium segment; Mercedes, BMW work out different strategies to drive growth",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/mass-market-automakers-gaining-ground-in-the-premium-segment-mercedes-bmw-work-out-different-strategies-to-drive-growth/articleshow/134509179.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Kia"
+      ],
+      "first_seen_at": "2026-09-27T01:12:58.187964+00:00",
+      "last_seen_at": "2026-09-27T01:12:58.187964+00:00"
     }
   }
 }
