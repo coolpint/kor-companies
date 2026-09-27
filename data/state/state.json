@@ -1,40 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-27T01:12:58.187964+00:00",
+  "last_run_at": "2026-09-27T14:37:05.275734+00:00",
   "seen_articles": {
-    "https://www.straitstimes.com/business/companies-markets/sk-hynix-samsung-shares-rally-after-report-temasek-to-invest": {
-      "title": "SK Hynix, Samsung shares rally as media report says Temasek to invest in chip giants",
-      "link": "https://www.straitstimes.com/business/companies-markets/sk-hynix-samsung-shares-rally-after-report-temasek-to-invest",
-      "source_name": "The Straits Times",
-      "country_code": "SG",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-08-12T10:10:22.201006+00:00",
-      "last_seen_at": "2026-08-13T10:11:16.773289+00:00"
-    },
-    "https://www.scmp.com/tech/big-tech/article/3363713/why-does-sk-hynix-want-sell-its-chip-facility-southwest-china": {
-      "title": "Why does SK Hynix want to sell its chip facility in southwest China?",
-      "link": "https://www.scmp.com/tech/big-tech/article/3363713/why-does-sk-hynix-want-sell-its-chip-facility-southwest-china",
-      "source_name": "South China Morning Post Tech",
-      "country_code": "HK",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-08-12T10:10:22.201006+00:00",
-      "last_seen_at": "2026-08-13T10:11:16.773289+00:00"
-    },
-    "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-plans-india-plant-expansion-as-sales-surge-aims-410000-units-by-2030/articleshow/133187811.cms": {
-      "title": "Kia plans India plant expansion as sales surge; aims 410,000 units by 2030",
-      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-plans-india-plant-expansion-as-sales-surge-aims-410000-units-by-2030/articleshow/133187811.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-08-12T23:46:44.244710+00:00",
-      "last_seen_at": "2026-08-13T10:11:16.773289+00:00"
-    },
     "https://www.thehindubusinessline.com/markets/q1-results-today-live-updates-solar-ind-tmpv-lg-electronics-max-healthcare-gic-godrej-ind-jubilant-foodworks-amber-enterprises-brigade-jsw-cement-honasa-consumer-tmcv-hal-results-13-august-2026/article71335955.ece": {
       "title": "Q1 Results Today Highlights: TMPV Q1 PAT falls, Max Health PAT flat, Solar Ind, IPCA Lab, TVS Srichakra, V2 Retail, Honasa Consumer, Minda Corp PAT up, LG Electronics, Brigade profit rises",
       "link": "https://www.thehindubusinessline.com/markets/q1-results-today-live-updates-solar-ind-tmpv-lg-electronics-max-healthcare-gic-godrej-ind-jubilant-foodworks-amber-enterprises-brigade-jsw-cement-honasa-consumer-tmcv-hal-results-13-august-2026/article71335955.ece",
@@ -1637,7 +1604,7 @@
         "Korean Air"
       ],
       "first_seen_at": "2026-09-26T13:40:43.294948+00:00",
-      "last_seen_at": "2026-09-27T01:12:58.187964+00:00"
+      "last_seen_at": "2026-09-27T14:37:05.275734+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/mass-market-automakers-gaining-ground-in-the-premium-segment-mercedes-bmw-work-out-different-strategies-to-drive-growth/articleshow/134509179.cms": {
       "title": "Mass market automakers gaining ground in the premium segment; Mercedes, BMW work out different strategies to drive growth",
@@ -1648,7 +1615,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-09-27T01:12:58.187964+00:00",
-      "last_seen_at": "2026-09-27T01:12:58.187964+00:00"
+      "last_seen_at": "2026-09-27T14:37:05.275734+00:00"
     }
   }
 }
