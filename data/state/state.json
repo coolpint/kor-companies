@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-27T14:37:05.275734+00:00",
+  "last_run_at": "2026-09-28T01:28:03.325620+00:00",
   "seen_articles": {
     "https://www.thehindubusinessline.com/markets/q1-results-today-live-updates-solar-ind-tmpv-lg-electronics-max-healthcare-gic-godrej-ind-jubilant-foodworks-amber-enterprises-brigade-jsw-cement-honasa-consumer-tmcv-hal-results-13-august-2026/article71335955.ece": {
       "title": "Q1 Results Today Highlights: TMPV Q1 PAT falls, Max Health PAT flat, Solar Ind, IPCA Lab, TVS Srichakra, V2 Retail, Honasa Consumer, Minda Corp PAT up, LG Electronics, Brigade profit rises",
@@ -78,17 +78,6 @@
       ],
       "first_seen_at": "2026-08-13T23:45:55.493511+00:00",
       "last_seen_at": "2026-08-14T10:07:04.952394+00:00"
-    },
-    "https://www.channelnewsasia.com/business/sk-hynixs-korean-workers-launch-unified-union-amid-stalled-wage-talks-6317496": {
-      "title": "SK Hynix's Korean workers launch unified union amid stalled wage talks",
-      "link": "https://www.channelnewsasia.com/business/sk-hynixs-korean-workers-launch-unified-union-amid-stalled-wage-talks-6317496",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-08-13T23:45:55.493511+00:00",
-      "last_seen_at": "2026-08-13T23:45:55.493511+00:00"
     },
     "https://www.thehindubusinessline.com/markets/lg-electronics-india-stock-surges-8-on-strong-q1-earnings-beat-nears-52-week-high/article71344411.ece": {
       "title": "LG Electronics India stock surges 8% on strong Q1 earnings beat, nears 52-week high",
@@ -1615,7 +1604,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-09-27T01:12:58.187964+00:00",
-      "last_seen_at": "2026-09-27T14:37:05.275734+00:00"
+      "last_seen_at": "2026-09-28T01:28:03.325620+00:00"
     }
   }
 }
