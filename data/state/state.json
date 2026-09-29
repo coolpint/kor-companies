@@ -1,40 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-28T17:29:27.166477+00:00",
+  "last_run_at": "2026-09-29T02:31:04.937949+00:00",
   "seen_articles": {
-    "https://www.thehindubusinessline.com/markets/q1-results-today-live-updates-solar-ind-tmpv-lg-electronics-max-healthcare-gic-godrej-ind-jubilant-foodworks-amber-enterprises-brigade-jsw-cement-honasa-consumer-tmcv-hal-results-13-august-2026/article71335955.ece": {
-      "title": "Q1 Results Today Highlights: TMPV Q1 PAT falls, Max Health PAT flat, Solar Ind, IPCA Lab, TVS Srichakra, V2 Retail, Honasa Consumer, Minda Corp PAT up, LG Electronics, Brigade profit rises",
-      "link": "https://www.thehindubusinessline.com/markets/q1-results-today-live-updates-solar-ind-tmpv-lg-electronics-max-healthcare-gic-godrej-ind-jubilant-foodworks-amber-enterprises-brigade-jsw-cement-honasa-consumer-tmcv-hal-results-13-august-2026/article71335955.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "LG Electronics"
-      ],
-      "first_seen_at": "2026-08-13T10:11:16.773289+00:00",
-      "last_seen_at": "2026-08-14T23:25:25.124476+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/sk-hynixs-korean-workers-launch-unified-union-amid-stalled-wage-talks/articleshow/133218028.cms": {
-      "title": "SK Hynix's Korean workers launch unified union amid stalled wage talks",
-      "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynixs-korean-workers-launch-unified-union-amid-stalled-wage-talks/articleshow/133218028.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-08-13T23:45:55.493511+00:00",
-      "last_seen_at": "2026-08-14T23:25:25.124476+00:00"
-    },
-    "https://www.thehindubusinessline.com/markets/mirae-asset-venture-closes-mavof-ii-at-1125-cr/article71341392.ece": {
-      "title": "Mirae Asset Venture closes MAVOF II at ₹1,125 cr",
-      "link": "https://www.thehindubusinessline.com/markets/mirae-asset-venture-closes-mavof-ii-at-1125-cr/article71341392.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Mirae Asset"
-      ],
-      "first_seen_at": "2026-08-13T23:45:55.493511+00:00",
-      "last_seen_at": "2026-08-14T23:25:25.124476+00:00"
-    },
     "https://www.bangkokpost.com/business/general/3301322/lg-bets-on-hot-weather-to-drive-growth": {
       "title": "LG bets on hot weather to drive growth",
       "link": "https://www.bangkokpost.com/business/general/3301322/lg-bets-on-hot-weather-to-drive-growth",
@@ -1560,7 +1527,40 @@
         "CJ CheilJedang"
       ],
       "first_seen_at": "2026-09-28T17:29:27.166477+00:00",
-      "last_seen_at": "2026-09-28T17:29:27.166477+00:00"
+      "last_seen_at": "2026-09-29T02:31:04.937949+00:00"
+    },
+    "https://www.cnbc.com/2026/09/29/samsung-investment-nvidia-kkr-ai-helix-digital.html": {
+      "title": "Samsung to inject $1 billion into Nvidia- and KKR-backed AI infrastructure firm",
+      "link": "https://www.cnbc.com/2026/09/29/samsung-investment-nvidia-kkr-ai-helix-digital.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-09-29T02:31:04.937949+00:00",
+      "last_seen_at": "2026-09-29T02:31:04.937949+00:00"
+    },
+    "https://www.channelnewsasia.com/business/samsung-electronics-says-hbm-account-nearly-30-industry-dram-capacity-next-year-6417091": {
+      "title": "Samsung Electronics says HBM to account for nearly 30% of industry DRAM capacity next year",
+      "link": "https://www.channelnewsasia.com/business/samsung-electronics-says-hbm-account-nearly-30-industry-dram-capacity-next-year-6417091",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-09-29T02:31:04.937949+00:00",
+      "last_seen_at": "2026-09-29T02:31:04.937949+00:00"
+    },
+    "https://www.cnbc.com/2026/09/28/metas-splashy-new-business-ai-hire-offers-yet-another-reason-to-bank-on-zuckerberg.html": {
+      "title": "Meta's splashy new business AI hire offers yet another reason to bank on Zuckerberg",
+      "link": "https://www.cnbc.com/2026/09/28/metas-splashy-new-business-ai-hire-offers-yet-another-reason-to-bank-on-zuckerberg.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "CJ CheilJedang"
+      ],
+      "first_seen_at": "2026-09-29T02:31:04.937949+00:00",
+      "last_seen_at": "2026-09-29T02:31:04.937949+00:00"
     }
   }
 }
