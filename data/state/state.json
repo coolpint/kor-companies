@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-29T02:31:04.937949+00:00",
+  "last_run_at": "2026-09-29T15:32:41.973544+00:00",
   "seen_articles": {
-    "https://www.bangkokpost.com/business/general/3301322/lg-bets-on-hot-weather-to-drive-growth": {
-      "title": "LG bets on hot weather to drive growth",
-      "link": "https://www.bangkokpost.com/business/general/3301322/lg-bets-on-hot-weather-to-drive-growth",
-      "source_name": "Bangkok Post Business",
-      "country_code": "TH",
-      "companies": [
-        "LG Electronics"
-      ],
-      "first_seen_at": "2026-08-14T10:07:04.952394+00:00",
-      "last_seen_at": "2026-08-15T09:29:10.324904+00:00"
-    },
     "https://vietnamnews.vn/economy/1797564/hyundai-thanh-cong-expands-global-footprint-with-exports-to-mexico-australia.html": {
       "title": "Hyundai Thanh Cong expands global footprint with exports to Mexico, Australia",
       "link": "https://vietnamnews.vn/economy/1797564/hyundai-thanh-cong-expands-global-footprint-with-exports-to-mexico-australia.html",
@@ -1521,24 +1510,24 @@
     "https://www.cnbc.com/2026/09/28/mongodb-meta-cj-desai.html": {
       "title": "Meta hires MongoDB CEO CJ Desai to lead enterprise unit. MongoDB shares crater",
       "link": "https://www.cnbc.com/2026/09/28/mongodb-meta-cj-desai.html",
-      "source_name": "CNBC Top News",
+      "source_name": "CNBC Technology",
       "country_code": "US",
       "companies": [
         "CJ CheilJedang"
       ],
       "first_seen_at": "2026-09-28T17:29:27.166477+00:00",
-      "last_seen_at": "2026-09-29T02:31:04.937949+00:00"
+      "last_seen_at": "2026-09-29T15:32:41.973544+00:00"
     },
     "https://www.cnbc.com/2026/09/29/samsung-investment-nvidia-kkr-ai-helix-digital.html": {
       "title": "Samsung to inject $1 billion into Nvidia- and KKR-backed AI infrastructure firm",
       "link": "https://www.cnbc.com/2026/09/29/samsung-investment-nvidia-kkr-ai-helix-digital.html",
-      "source_name": "CNBC Top News",
+      "source_name": "CNBC World News",
       "country_code": "US",
       "companies": [
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-09-29T02:31:04.937949+00:00",
-      "last_seen_at": "2026-09-29T02:31:04.937949+00:00"
+      "last_seen_at": "2026-09-29T15:32:41.973544+00:00"
     },
     "https://www.channelnewsasia.com/business/samsung-electronics-says-hbm-account-nearly-30-industry-dram-capacity-next-year-6417091": {
       "title": "Samsung Electronics says HBM to account for nearly 30% of industry DRAM capacity next year",
@@ -1561,6 +1550,29 @@
       ],
       "first_seen_at": "2026-09-29T02:31:04.937949+00:00",
       "last_seen_at": "2026-09-29T02:31:04.937949+00:00"
+    },
+    "https://www.thehindubusinessline.com/economy/logistics/mazagon-dock-shipbuilders-decides-to-not-proceed-with-the-thoothukudi-shipyard-project/article71523444.ece": {
+      "title": "Mazagon Dock Shipbuilders decides to not proceed with the Thoothukudi shipyard project",
+      "link": "https://www.thehindubusinessline.com/economy/logistics/mazagon-dock-shipbuilders-decides-to-not-proceed-with-the-thoothukudi-shipyard-project/article71523444.ece",
+      "source_name": "BusinessLine Economy",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-09-29T15:32:41.973544+00:00",
+      "last_seen_at": "2026-09-29T15:32:41.973544+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/samsung-affiliates-commit-1-billion-to-kkr-backed-helix-digital-ai-buildout/articleshow/134564547.cms": {
+      "title": "Samsung, affiliates commit $1 billion to KKR-backed Helix Digital AI buildout",
+      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-affiliates-commit-1-billion-to-kkr-backed-helix-digital-ai-buildout/articleshow/134564547.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Samsung Electronics",
+        "Samsung SDI"
+      ],
+      "first_seen_at": "2026-09-29T15:32:41.973544+00:00",
+      "last_seen_at": "2026-09-29T15:32:41.973544+00:00"
     }
   }
 }
