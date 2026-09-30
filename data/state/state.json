@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-29T15:32:41.973544+00:00",
+  "last_run_at": "2026-09-30T01:53:44.964898+00:00",
   "seen_articles": {
     "https://vietnamnews.vn/economy/1797564/hyundai-thanh-cong-expands-global-footprint-with-exports-to-mexico-australia.html": {
       "title": "Hyundai Thanh Cong expands global footprint with exports to Mexico, Australia",
@@ -1516,7 +1516,7 @@
         "CJ CheilJedang"
       ],
       "first_seen_at": "2026-09-28T17:29:27.166477+00:00",
-      "last_seen_at": "2026-09-29T15:32:41.973544+00:00"
+      "last_seen_at": "2026-09-30T01:53:44.964898+00:00"
     },
     "https://www.cnbc.com/2026/09/29/samsung-investment-nvidia-kkr-ai-helix-digital.html": {
       "title": "Samsung to inject $1 billion into Nvidia- and KKR-backed AI infrastructure firm",
@@ -1527,7 +1527,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-09-29T02:31:04.937949+00:00",
-      "last_seen_at": "2026-09-29T15:32:41.973544+00:00"
+      "last_seen_at": "2026-09-30T01:53:44.964898+00:00"
     },
     "https://www.channelnewsasia.com/business/samsung-electronics-says-hbm-account-nearly-30-industry-dram-capacity-next-year-6417091": {
       "title": "Samsung Electronics says HBM to account for nearly 30% of industry DRAM capacity next year",
@@ -1560,7 +1560,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-09-29T15:32:41.973544+00:00",
-      "last_seen_at": "2026-09-29T15:32:41.973544+00:00"
+      "last_seen_at": "2026-09-30T01:53:44.964898+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/samsung-affiliates-commit-1-billion-to-kkr-backed-helix-digital-ai-buildout/articleshow/134564547.cms": {
       "title": "Samsung, affiliates commit $1 billion to KKR-backed Helix Digital AI buildout",
@@ -1572,7 +1572,7 @@
         "Samsung SDI"
       ],
       "first_seen_at": "2026-09-29T15:32:41.973544+00:00",
-      "last_seen_at": "2026-09-29T15:32:41.973544+00:00"
+      "last_seen_at": "2026-09-30T01:53:44.964898+00:00"
     }
   }
 }
