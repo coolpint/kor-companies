@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-09-30T01:53:44.964898+00:00",
+  "last_run_at": "2026-09-30T15:45:11.018058+00:00",
   "seen_articles": {
-    "https://vietnamnews.vn/economy/1797564/hyundai-thanh-cong-expands-global-footprint-with-exports-to-mexico-australia.html": {
-      "title": "Hyundai Thanh Cong expands global footprint with exports to Mexico, Australia",
-      "link": "https://vietnamnews.vn/economy/1797564/hyundai-thanh-cong-expands-global-footprint-with-exports-to-mexico-australia.html",
-      "source_name": "Vietnam News Economy",
-      "country_code": "VN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-08-15T23:23:50.249214+00:00",
-      "last_seen_at": "2026-08-16T09:30:29.957676+00:00"
-    },
     "https://asia.nikkei.com/business/technology/lg-energy-solution-opens-us-battery-hub-serving-toyota-and-tesla": {
       "title": "LG Energy Solution opens US battery hub serving Toyota and Tesla",
       "link": "https://asia.nikkei.com/business/technology/lg-energy-solution-opens-us-battery-hub-serving-toyota-and-tesla",
@@ -1572,7 +1561,19 @@
         "Samsung SDI"
       ],
       "first_seen_at": "2026-09-29T15:32:41.973544+00:00",
-      "last_seen_at": "2026-09-30T01:53:44.964898+00:00"
+      "last_seen_at": "2026-09-30T15:45:11.018058+00:00"
+    },
+    "https://www.channelnewsasia.com/business/opmobility-agrees-buy-hyundai-mobis-lighting-unit-443-million-6420716": {
+      "title": "OPmobility agrees to buy Hyundai Mobis' lighting unit for $443 million",
+      "link": "https://www.channelnewsasia.com/business/opmobility-agrees-buy-hyundai-mobis-lighting-unit-443-million-6420716",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Hyundai Motor",
+        "Hyundai Mobis"
+      ],
+      "first_seen_at": "2026-09-30T15:45:11.018058+00:00",
+      "last_seen_at": "2026-09-30T15:45:11.018058+00:00"
     }
   }
 }
