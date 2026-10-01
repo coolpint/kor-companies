@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-01T01:54:16.432496+00:00",
+  "last_run_at": "2026-10-01T16:10:47.666029+00:00",
   "seen_articles": {
     "https://asia.nikkei.com/business/technology/lg-energy-solution-opens-us-battery-hub-serving-toyota-and-tesla": {
       "title": "LG Energy Solution opens US battery hub serving Toyota and Tesla",
@@ -1574,6 +1574,50 @@
       ],
       "first_seen_at": "2026-09-30T15:45:11.018058+00:00",
       "last_seen_at": "2026-09-30T15:45:11.018058+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/mm-hyundai-jsw-mg-sales-grow-in-september-led-by-sustained-customer-enthusiasm/article71531697.ece": {
+      "title": "Maruti, Tata, M&M, Hyundai see sales growth in September, led by sustained customer enthusiasm",
+      "link": "https://www.thehindubusinessline.com/companies/mm-hyundai-jsw-mg-sales-grow-in-september-led-by-sustained-customer-enthusiasm/article71531697.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-10-01T16:10:47.666029+00:00",
+      "last_seen_at": "2026-10-01T16:10:47.666029+00:00"
+    },
+    "https://www.channelnewsasia.com/business/samsung-electronics-raises-galaxy-s26-smartphone-prices-yonhap-reports-6424046": {
+      "title": "Samsung Electronics raises Galaxy S26 smartphone prices, Yonhap reports",
+      "link": "https://www.channelnewsasia.com/business/samsung-electronics-raises-galaxy-s26-smartphone-prices-yonhap-reports-6424046",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-10-01T16:10:47.666029+00:00",
+      "last_seen_at": "2026-10-01T16:10:47.666029+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/hyundai-motor-india-records-highest-ever-monthly-sales-in-sept-at-77916-units/article71531454.ece": {
+      "title": "Hyundai Motor India records 'highest-ever' monthly sales in Sept at 77,916 units",
+      "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-records-highest-ever-monthly-sales-in-sept-at-77916-units/article71531454.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-10-01T16:10:47.666029+00:00",
+      "last_seen_at": "2026-10-01T16:10:47.666029+00:00"
+    },
+    "https://www.straitstimes.com/business/demand-for-ai-chips-fuels-83-5-surge-in-south-korean-exports": {
+      "title": "Demand for AI chips fuels 83.5% surge in South Korean exports",
+      "link": "https://www.straitstimes.com/business/demand-for-ai-chips-fuels-83-5-surge-in-south-korean-exports",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-10-01T16:10:47.666029+00:00",
+      "last_seen_at": "2026-10-01T16:10:47.666029+00:00"
     }
   }
 }
