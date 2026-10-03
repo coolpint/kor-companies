@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-03T01:48:00.641755+00:00",
+  "last_run_at": "2026-10-03T14:13:35.828423+00:00",
   "seen_articles": {
     "https://asia.nikkei.com/business/technology/lg-energy-solution-opens-us-battery-hub-serving-toyota-and-tesla": {
       "title": "LG Energy Solution opens US battery hub serving Toyota and Tesla",
@@ -23,28 +23,6 @@
       ],
       "first_seen_at": "2026-08-19T09:37:41.183560+00:00",
       "last_seen_at": "2026-08-20T23:28:56.081772+00:00"
-    },
-    "https://www.channelnewsasia.com/east-asia/south-koreas-sk-hynix-unveils-record-us289-billion-share-buyback-6328106": {
-      "title": "South Korea's SK hynix unveils record US$28.9 billion share buyback",
-      "link": "https://www.channelnewsasia.com/east-asia/south-koreas-sk-hynix-unveils-record-us289-billion-share-buyback-6328106",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-08-19T09:37:41.183560+00:00",
-      "last_seen_at": "2026-08-19T09:37:41.183560+00:00"
-    },
-    "https://www.channelnewsasia.com/business/sk-hynix-union-finalising-preliminary-wage-deal-source-says-6327256": {
-      "title": "SK Hynix union finalising preliminary wage deal, source says",
-      "link": "https://www.channelnewsasia.com/business/sk-hynix-union-finalising-preliminary-wage-deal-source-says-6327256",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-08-19T09:37:41.183560+00:00",
-      "last_seen_at": "2026-08-19T09:37:41.183560+00:00"
     },
     "https://asia.nikkei.com/business/technology/artificial-intelligence/hyundai-bets-on-physical-ai-to-evolve-beyond-automobiles": {
       "title": "Hyundai bets on physical AI to evolve beyond automobiles",
@@ -1628,7 +1606,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-10-02T15:34:40.282637+00:00",
-      "last_seen_at": "2026-10-03T01:48:00.641755+00:00"
+      "last_seen_at": "2026-10-03T14:13:35.828423+00:00"
     },
     "https://www.cnbc.com/2026/10/02/ford-q3-sales.html": {
       "title": "Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter",
@@ -1639,7 +1617,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-10-02T15:34:40.282637+00:00",
-      "last_seen_at": "2026-10-03T01:48:00.641755+00:00"
+      "last_seen_at": "2026-10-03T14:13:35.828423+00:00"
     }
   }
 }
