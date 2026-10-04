@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-03T14:13:35.828423+00:00",
+  "last_run_at": "2026-10-04T02:27:52.644258+00:00",
   "seen_articles": {
     "https://asia.nikkei.com/business/technology/lg-energy-solution-opens-us-battery-hub-serving-toyota-and-tesla": {
       "title": "LG Energy Solution opens US battery hub serving Toyota and Tesla",
@@ -35,17 +35,6 @@
       "first_seen_at": "2026-08-19T23:26:02.011755+00:00",
       "last_seen_at": "2026-08-21T09:40:25.018193+00:00"
     },
-    "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-to-hike-vehicle-prices-by-up-to-1-from-september/articleshow/133351556.cms": {
-      "title": "Hyundai to hike vehicle prices by up to 1% from September",
-      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-to-hike-vehicle-prices-by-up-to-1-from-september/articleshow/133351556.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-08-19T23:26:02.011755+00:00",
-      "last_seen_at": "2026-08-19T23:26:02.011755+00:00"
-    },
     "https://www.thehindubusinessline.com/companies/hyundai-motor-india-to-raise-car-prices-by-up-to-1-from-september/article71364710.ece": {
       "title": "Hyundai Motor India to raise car prices by up to 1% from September",
       "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-to-raise-car-prices-by-up-to-1-from-september/article71364710.ece",
@@ -56,28 +45,6 @@
       ],
       "first_seen_at": "2026-08-19T23:26:02.011755+00:00",
       "last_seen_at": "2026-08-20T23:28:56.081772+00:00"
-    },
-    "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-cars-to-get-costlier-from-september-as-automaker-hikes-prices-by-up-to-1/articleshow/133346640.cms": {
-      "title": "Hyundai cars to get costlier from September as automaker hikes prices by up to 1%",
-      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-cars-to-get-costlier-from-september-as-automaker-hikes-prices-by-up-to-1/articleshow/133346640.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-08-19T23:26:02.011755+00:00",
-      "last_seen_at": "2026-08-19T23:26:02.011755+00:00"
-    },
-    "https://www.channelnewsasia.com/business/hyundai-motor-india-raise-car-prices-up-1-september-6328671": {
-      "title": "Hyundai Motor India to raise car prices by up to 1% from September",
-      "link": "https://www.channelnewsasia.com/business/hyundai-motor-india-raise-car-prices-up-1-september-6328671",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-08-19T23:26:02.011755+00:00",
-      "last_seen_at": "2026-08-19T23:26:02.011755+00:00"
     },
     "https://www.lemonde.fr/economie/article/2026/08/19/sk-hynix-geant-sud-coreen-des-puces-memoire-annonce-des-rachats-d-actions-pour-une-valeur-de-24-9-milliards-d-euros_6749855_3234.html": {
       "title": "SK Hynix, géant sud-coréen des puces mémoire, annonce des rachats d’actions pour une valeur de 24,9 milliards d’euros",
@@ -1606,7 +1573,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-10-02T15:34:40.282637+00:00",
-      "last_seen_at": "2026-10-03T14:13:35.828423+00:00"
+      "last_seen_at": "2026-10-04T02:27:52.644258+00:00"
     },
     "https://www.cnbc.com/2026/10/02/ford-q3-sales.html": {
       "title": "Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter",
@@ -1617,7 +1584,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-10-02T15:34:40.282637+00:00",
-      "last_seen_at": "2026-10-03T14:13:35.828423+00:00"
+      "last_seen_at": "2026-10-04T02:27:52.644258+00:00"
     }
   }
 }
