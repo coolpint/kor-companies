@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-04T14:42:16.382832+00:00",
+  "last_run_at": "2026-10-05T01:45:04.954920+00:00",
   "seen_articles": {
-    "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-announces-28.6bn-buyback-plan-to-boost-stock-price": {
-      "title": "SK Hynix announces $28.6bn buyback plan to boost stock price",
-      "link": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-announces-28.6bn-buyback-plan-to-boost-stock-price",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-08-19T09:37:41.183560+00:00",
-      "last_seen_at": "2026-08-20T23:28:56.081772+00:00"
-    },
     "https://asia.nikkei.com/business/technology/artificial-intelligence/hyundai-bets-on-physical-ai-to-evolve-beyond-automobiles": {
       "title": "Hyundai bets on physical AI to evolve beyond automobiles",
       "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/hyundai-bets-on-physical-ai-to-evolve-beyond-automobiles",
@@ -23,17 +12,6 @@
       ],
       "first_seen_at": "2026-08-19T23:26:02.011755+00:00",
       "last_seen_at": "2026-08-21T09:40:25.018193+00:00"
-    },
-    "https://www.thehindubusinessline.com/companies/hyundai-motor-india-to-raise-car-prices-by-up-to-1-from-september/article71364710.ece": {
-      "title": "Hyundai Motor India to raise car prices by up to 1% from September",
-      "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-to-raise-car-prices-by-up-to-1-from-september/article71364710.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-08-19T23:26:02.011755+00:00",
-      "last_seen_at": "2026-08-20T23:28:56.081772+00:00"
     },
     "https://www.straitstimes.com/business/companies-markets/samsung-sk-hynix-prep-record-shareholder-returns-in-ai-boom": {
       "title": "Samsung, SK Hynix prep record shareholder returns in AI boom",
@@ -79,17 +57,6 @@
       ],
       "first_seen_at": "2026-08-20T09:38:06.139652+00:00",
       "last_seen_at": "2026-08-21T09:40:25.018193+00:00"
-    },
-    "https://www.cnbc.com/2026/08/20/sk-hynixs-south-korean-shares-surge-stock-buyback-.html": {
-      "title": "SK Hynix shares surge over 12% in Seoul after announcing massive stock buyback",
-      "link": "https://www.cnbc.com/2026/08/20/sk-hynixs-south-korean-shares-surge-stock-buyback-.html",
-      "source_name": "CNBC World News",
-      "country_code": "US",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-08-20T09:38:06.139652+00:00",
-      "last_seen_at": "2026-08-20T23:28:56.081772+00:00"
     },
     "https://www.cnbc.com/2026/08/19/hyundai-luxury-genesis-ev.html": {
       "title": "Hyundai's new flagship vehicle is a large luxury Genesis EV",
@@ -1529,7 +1496,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-10-02T15:34:40.282637+00:00",
-      "last_seen_at": "2026-10-04T14:42:16.382832+00:00"
+      "last_seen_at": "2026-10-05T01:45:04.954920+00:00"
     },
     "https://www.cnbc.com/2026/10/02/ford-q3-sales.html": {
       "title": "Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter",
@@ -1551,7 +1518,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-10-04T14:42:16.382832+00:00",
-      "last_seen_at": "2026-10-04T14:42:16.382832+00:00"
+      "last_seen_at": "2026-10-05T01:45:04.954920+00:00"
     },
     "https://www.thehindubusinessline.com/companies/automakers-build-up-inventory-to-meet-festive-season-demand/article71542971.ece": {
       "title": "Automakers build up inventory to meet festive season demand",
@@ -1562,7 +1529,18 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-10-04T14:42:16.382832+00:00",
-      "last_seen_at": "2026-10-04T14:42:16.382832+00:00"
+      "last_seen_at": "2026-10-05T01:45:04.954920+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/auto-news/half-a-dozen-small-hybrids-getting-ready-for-indian-launch/articleshow/134677695.cms": {
+      "title": "Half a dozen small hybrids getting ready for Indian launch",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/half-a-dozen-small-hybrids-getting-ready-for-indian-launch/articleshow/134677695.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-10-05T01:45:04.954920+00:00",
+      "last_seen_at": "2026-10-05T01:45:04.954920+00:00"
     }
   }
 }
