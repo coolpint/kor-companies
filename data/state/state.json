@@ -1,74 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-05T01:45:04.954920+00:00",
+  "last_run_at": "2026-10-05T18:09:32.045428+00:00",
   "seen_articles": {
-    "https://asia.nikkei.com/business/technology/artificial-intelligence/hyundai-bets-on-physical-ai-to-evolve-beyond-automobiles": {
-      "title": "Hyundai bets on physical AI to evolve beyond automobiles",
-      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/hyundai-bets-on-physical-ai-to-evolve-beyond-automobiles",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-08-19T23:26:02.011755+00:00",
-      "last_seen_at": "2026-08-21T09:40:25.018193+00:00"
-    },
-    "https://www.straitstimes.com/business/companies-markets/samsung-sk-hynix-prep-record-shareholder-returns-in-ai-boom": {
-      "title": "Samsung, SK Hynix prep record shareholder returns in AI boom",
-      "link": "https://www.straitstimes.com/business/companies-markets/samsung-sk-hynix-prep-record-shareholder-returns-in-ai-boom",
-      "source_name": "The Straits Times",
-      "country_code": "SG",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-08-20T09:38:06.139652+00:00",
-      "last_seen_at": "2026-08-21T09:40:25.018193+00:00"
-    },
-    "https://www.straitstimes.com/business/sk-hynix-to-pay-60-of-employee-bonuses-in-company-stock-under-preliminary-deal-says-source": {
-      "title": "SK Hynix workers to get 60% of 2026 bonuses in stock instead of all cash",
-      "link": "https://www.straitstimes.com/business/sk-hynix-to-pay-60-of-employee-bonuses-in-company-stock-under-preliminary-deal-says-source",
-      "source_name": "The Straits Times",
-      "country_code": "SG",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-08-20T09:38:06.139652+00:00",
-      "last_seen_at": "2026-08-21T09:40:25.018193+00:00"
-    },
-    "https://www.thehindubusinessline.com/companies/samsung-electronics-to-announce-more-than-72-billion-shareholder-return-programme/article71367804.ece": {
-      "title": "Samsung Electronics to announce more than $72 billion shareholder return programme",
-      "link": "https://www.thehindubusinessline.com/companies/samsung-electronics-to-announce-more-than-72-billion-shareholder-return-programme/article71367804.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-08-20T09:38:06.139652+00:00",
-      "last_seen_at": "2026-08-21T09:40:25.018193+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/sk-hynix-to-pay-60-of-employee-bonuses-in-company-stock-under-preliminary-deal/articleshow/133365805.cms": {
-      "title": "SK Hynix to pay 60% of employee bonuses in company stock under preliminary deal",
-      "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-to-pay-60-of-employee-bonuses-in-company-stock-under-preliminary-deal/articleshow/133365805.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-08-20T09:38:06.139652+00:00",
-      "last_seen_at": "2026-08-21T09:40:25.018193+00:00"
-    },
-    "https://www.cnbc.com/2026/08/19/hyundai-luxury-genesis-ev.html": {
-      "title": "Hyundai's new flagship vehicle is a large luxury Genesis EV",
-      "link": "https://www.cnbc.com/2026/08/19/hyundai-luxury-genesis-ev.html",
-      "source_name": "CNBC Top News",
-      "country_code": "US",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-08-20T09:38:06.139652+00:00",
-      "last_seen_at": "2026-08-21T09:40:25.018193+00:00"
-    },
     "https://www.cnbc.com/2026/08/20/hyundai-georgia-metaplant-us-production.html": {
       "title": "Hyundai considering U.S. production increase at new Georgia plant, CEO tells CNBC",
       "link": "https://www.cnbc.com/2026/08/20/hyundai-georgia-metaplant-us-production.html",
@@ -90,17 +23,6 @@
       ],
       "first_seen_at": "2026-08-20T23:28:56.081772+00:00",
       "last_seen_at": "2026-08-21T23:27:21.576094+00:00"
-    },
-    "https://www.theverge.com/transportation/982910/genesis-gv90-ev-suv-coach-door-heated-floor": {
-      "title": "The Genesis GV90 blows the bloody doors off what’s possible in EV design",
-      "link": "https://www.theverge.com/transportation/982910/genesis-gv90-ev-suv-coach-door-heated-floor",
-      "source_name": "The Verge",
-      "country_code": "US",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-08-20T23:28:56.081772+00:00",
-      "last_seen_at": "2026-08-21T09:40:25.018193+00:00"
     },
     "https://asia.nikkei.com/business/tech/semiconductors/samsung-electronics-poised-for-72bn-shareholder-return-program": {
       "title": "Samsung Electronics poised for $72bn shareholder return program",
@@ -136,17 +58,6 @@
       "first_seen_at": "2026-08-21T09:40:25.018193+00:00",
       "last_seen_at": "2026-08-22T09:30:14.899278+00:00"
     },
-    "https://www.channelnewsasia.com/business/samsung-sdi-says-sell-32-billion-worth-samsung-display-shares-back-display-maker-6332961": {
-      "title": "Samsung SDI says to sell $3.2 billion worth of Samsung Display shares back to display maker",
-      "link": "https://www.channelnewsasia.com/business/samsung-sdi-says-sell-32-billion-worth-samsung-display-shares-back-display-maker-6332961",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "Samsung SDI"
-      ],
-      "first_seen_at": "2026-08-21T09:40:25.018193+00:00",
-      "last_seen_at": "2026-08-21T09:40:25.018193+00:00"
-    },
     "https://economictimes.indiatimes.com/industry/auto/cars-uvs/tata-motors-to-hike-car-prices-by-rs-25000-joins-maruti-hyundai-as-costs-hurt-pockets/articleshow/133392011.cms": {
       "title": "Tata Motors to hike car prices by Rs 25,000; joins Maruti, Hyundai as costs hurt pockets",
       "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/tata-motors-to-hike-car-prices-by-rs-25000-joins-maruti-hyundai-as-costs-hurt-pockets/articleshow/133392011.cms",
@@ -179,28 +90,6 @@
       ],
       "first_seen_at": "2026-08-21T09:40:25.018193+00:00",
       "last_seen_at": "2026-08-22T09:30:14.899278+00:00"
-    },
-    "https://www.channelnewsasia.com/business/samsung-electronics-expects-shareholder-returns-up-80-billion-year-6332536": {
-      "title": "Samsung Electronics expects shareholder returns up to $80 billion this year",
-      "link": "https://www.channelnewsasia.com/business/samsung-electronics-expects-shareholder-returns-up-80-billion-year-6332536",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-08-21T09:40:25.018193+00:00",
-      "last_seen_at": "2026-08-21T09:40:25.018193+00:00"
-    },
-    "https://www.channelnewsasia.com/business/kakao-spin-chat-app-based-platform-business-kakaoai-relist-in-2027-6332481": {
-      "title": "Kakao to spin off chat app-based platform business into KakaoAI, relist in 2027",
-      "link": "https://www.channelnewsasia.com/business/kakao-spin-chat-app-based-platform-business-kakaoai-relist-in-2027-6332481",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "Kakao"
-      ],
-      "first_seen_at": "2026-08-21T09:40:25.018193+00:00",
-      "last_seen_at": "2026-08-21T09:40:25.018193+00:00"
     },
     "https://economictimes.indiatimes.com/industry/cons-products/electronics/lg-electronics-india-bets-on-exports-b2b-products-for-margin-boost/articleshow/133411736.cms": {
       "title": "LG Electronics India bets on exports, B2B products for margin boost",
@@ -1496,7 +1385,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-10-02T15:34:40.282637+00:00",
-      "last_seen_at": "2026-10-05T01:45:04.954920+00:00"
+      "last_seen_at": "2026-10-05T18:09:32.045428+00:00"
     },
     "https://www.cnbc.com/2026/10/02/ford-q3-sales.html": {
       "title": "Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter",
@@ -1541,6 +1430,17 @@
       ],
       "first_seen_at": "2026-10-05T01:45:04.954920+00:00",
       "last_seen_at": "2026-10-05T01:45:04.954920+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/hyundai-workers-union-seeks-wage-hike-after-interim-raise-to-management/article71547462.ece": {
+      "title": "Hyundai workers’ union seeks wage hike after interim raise to management",
+      "link": "https://www.thehindubusinessline.com/companies/hyundai-workers-union-seeks-wage-hike-after-interim-raise-to-management/article71547462.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-10-05T18:09:32.045428+00:00",
+      "last_seen_at": "2026-10-05T18:09:32.045428+00:00"
     }
   }
 }
