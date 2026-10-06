@@ -1,63 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-06T02:46:50.191074+00:00",
+  "last_run_at": "2026-10-06T15:46:23.237945+00:00",
   "seen_articles": {
-    "https://asia.nikkei.com/business/tech/semiconductors/samsung-electronics-poised-for-72bn-shareholder-return-program": {
-      "title": "Samsung Electronics poised for $72bn shareholder return program",
-      "link": "https://asia.nikkei.com/business/tech/semiconductors/samsung-electronics-poised-for-72bn-shareholder-return-program",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-08-20T23:28:56.081772+00:00",
-      "last_seen_at": "2026-08-22T09:30:14.899278+00:00"
-    },
-    "https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html": {
-      "title": "Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback",
-      "link": "https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html",
-      "source_name": "CNBC World News",
-      "country_code": "US",
-      "companies": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-08-21T09:40:25.018193+00:00",
-      "last_seen_at": "2026-08-22T09:30:14.899278+00:00"
-    },
-    "https://www.channelnewsasia.com/business/samsung-elec-sees-up-795-billion-available-2026-shareholder-returns-6333086": {
-      "title": "Samsung Elec sees up to $79.5 billion available for 2026 shareholder returns",
-      "link": "https://www.channelnewsasia.com/business/samsung-elec-sees-up-795-billion-available-2026-shareholder-returns-6333086",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-08-21T09:40:25.018193+00:00",
-      "last_seen_at": "2026-08-22T09:30:14.899278+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/artificial-intelligence/kakao-to-spin-off-chat-app-based-platform-business-into-kakaoai-relist-in-2027/articleshow/133391438.cms": {
-      "title": "Kakao to spin off chat app-based platform business into KakaoAI, relist in 2027",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/kakao-to-spin-off-chat-app-based-platform-business-into-kakaoai-relist-in-2027/articleshow/133391438.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Kakao"
-      ],
-      "first_seen_at": "2026-08-21T09:40:25.018193+00:00",
-      "last_seen_at": "2026-08-22T09:30:14.899278+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-to-convene-board-meeting-friday-to-discuss-shareholder-return-plan/articleshow/133391384.cms": {
-      "title": "Samsung Electronics to convene board meeting Friday to discuss shareholder return plan",
-      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-to-convene-board-meeting-friday-to-discuss-shareholder-return-plan/articleshow/133391384.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-08-21T09:40:25.018193+00:00",
-      "last_seen_at": "2026-08-22T09:30:14.899278+00:00"
-    },
     "https://economictimes.indiatimes.com/industry/cons-products/electronics/lg-electronics-india-bets-on-exports-b2b-products-for-margin-boost/articleshow/133411736.cms": {
       "title": "LG Electronics India bets on exports, B2B products for margin boost",
       "link": "https://economictimes.indiatimes.com/industry/cons-products/electronics/lg-electronics-india-bets-on-exports-b2b-products-for-margin-boost/articleshow/133411736.cms",
@@ -68,39 +12,6 @@
       ],
       "first_seen_at": "2026-08-21T23:27:21.576094+00:00",
       "last_seen_at": "2026-08-22T23:23:58.134868+00:00"
-    },
-    "https://www.lemonde.fr/economie/article/2026/08/21/samsung-premier-fabricant-mondial-de-puces-memoire-va-racheter-entre-55-8-et-68-2-milliards-d-euros-de-ses-actions_6752045_3234.html": {
-      "title": "Samsung, premier fabricant mondial de puces mémoire, va racheter entre 55,8 et 68,2 milliards d’euros de ses actions",
-      "link": "https://www.lemonde.fr/economie/article/2026/08/21/samsung-premier-fabricant-mondial-de-puces-memoire-va-racheter-entre-55-8-et-68-2-milliards-d-euros-de-ses-actions_6752045_3234.html",
-      "source_name": "Le Monde Economie",
-      "country_code": "FR",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-08-21T23:27:21.576094+00:00",
-      "last_seen_at": "2026-08-22T09:30:14.899278+00:00"
-    },
-    "https://www.straitstimes.com/business/asian-markets-extend-rally-as-traders-assess-us-treasuries-pledge": {
-      "title": "Asian markets extend rally as traders assess US Treasuries pledge",
-      "link": "https://www.straitstimes.com/business/asian-markets-extend-rally-as-traders-assess-us-treasuries-pledge",
-      "source_name": "The Straits Times",
-      "country_code": "SG",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-08-21T23:27:21.576094+00:00",
-      "last_seen_at": "2026-08-22T09:30:14.899278+00:00"
-    },
-    "https://www.scmp.com/business/banking-finance/article/3364860/why-hong-kongs-sk-hynix-fund-stayed-full-leverage-amid-market-volatility": {
-      "title": "Why Hong Kong’s SK Hynix fund stayed at full leverage amid market volatility",
-      "link": "https://www.scmp.com/business/banking-finance/article/3364860/why-hong-kongs-sk-hynix-fund-stayed-full-leverage-amid-market-volatility",
-      "source_name": "South China Morning Post World",
-      "country_code": "HK",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-08-22T09:30:14.899278+00:00",
-      "last_seen_at": "2026-08-22T09:30:14.899278+00:00"
     },
     "https://asia.nikkei.com/business/companies/samsung-electronics-faces-internal-divide-over-huge-bonus-gap": {
       "title": "Samsung Electronics faces internal divide over huge bonus gap",
@@ -1407,7 +1318,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-10-05T18:09:32.045428+00:00",
-      "last_seen_at": "2026-10-06T02:46:50.191074+00:00"
+      "last_seen_at": "2026-10-06T15:46:23.237945+00:00"
     },
     "https://www.theverge.com/transportation/1004785/hyundai-ceo-china-ev-us-market-share": {
       "title": "Hyundai CEO says only a ‘level playing field’ can minimize damage from China",
