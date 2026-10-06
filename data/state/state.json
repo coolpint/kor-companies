@@ -1,29 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-05T18:09:32.045428+00:00",
+  "last_run_at": "2026-10-06T02:46:50.191074+00:00",
   "seen_articles": {
-    "https://www.cnbc.com/2026/08/20/hyundai-georgia-metaplant-us-production.html": {
-      "title": "Hyundai considering U.S. production increase at new Georgia plant, CEO tells CNBC",
-      "link": "https://www.cnbc.com/2026/08/20/hyundai-georgia-metaplant-us-production.html",
-      "source_name": "CNBC World News",
-      "country_code": "US",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-08-20T23:28:56.081772+00:00",
-      "last_seen_at": "2026-08-21T23:27:21.576094+00:00"
-    },
-    "https://www.foxbusiness.com/markets/hyundais-genesis-rolls-out-new-flagship-luxury-electric-suv": {
-      "title": "Hyundai’s Genesis rolls out a new flagship luxury electric SUV",
-      "link": "https://www.foxbusiness.com/markets/hyundais-genesis-rolls-out-new-flagship-luxury-electric-suv",
-      "source_name": "Fox Business Markets",
-      "country_code": "US",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-08-20T23:28:56.081772+00:00",
-      "last_seen_at": "2026-08-21T23:27:21.576094+00:00"
-    },
     "https://asia.nikkei.com/business/tech/semiconductors/samsung-electronics-poised-for-72bn-shareholder-return-program": {
       "title": "Samsung Electronics poised for $72bn shareholder return program",
       "link": "https://asia.nikkei.com/business/tech/semiconductors/samsung-electronics-poised-for-72bn-shareholder-return-program",
@@ -57,17 +35,6 @@
       ],
       "first_seen_at": "2026-08-21T09:40:25.018193+00:00",
       "last_seen_at": "2026-08-22T09:30:14.899278+00:00"
-    },
-    "https://economictimes.indiatimes.com/industry/auto/cars-uvs/tata-motors-to-hike-car-prices-by-rs-25000-joins-maruti-hyundai-as-costs-hurt-pockets/articleshow/133392011.cms": {
-      "title": "Tata Motors to hike car prices by Rs 25,000; joins Maruti, Hyundai as costs hurt pockets",
-      "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/tata-motors-to-hike-car-prices-by-rs-25000-joins-maruti-hyundai-as-costs-hurt-pockets/articleshow/133392011.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-08-21T09:40:25.018193+00:00",
-      "last_seen_at": "2026-08-21T23:27:21.576094+00:00"
     },
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/kakao-to-spin-off-chat-app-based-platform-business-into-kakaoai-relist-in-2027/articleshow/133391438.cms": {
       "title": "Kakao to spin off chat app-based platform business into KakaoAI, relist in 2027",
@@ -1440,7 +1407,18 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-10-05T18:09:32.045428+00:00",
-      "last_seen_at": "2026-10-05T18:09:32.045428+00:00"
+      "last_seen_at": "2026-10-06T02:46:50.191074+00:00"
+    },
+    "https://www.theverge.com/transportation/1004785/hyundai-ceo-china-ev-us-market-share": {
+      "title": "Hyundai CEO says only a ‘level playing field’ can minimize damage from China",
+      "link": "https://www.theverge.com/transportation/1004785/hyundai-ceo-china-ev-us-market-share",
+      "source_name": "The Verge",
+      "country_code": "US",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-10-06T02:46:50.191074+00:00",
+      "last_seen_at": "2026-10-06T02:46:50.191074+00:00"
     }
   }
 }
