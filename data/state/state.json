@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-06T15:46:23.237945+00:00",
+  "last_run_at": "2026-10-07T02:10:20.727395+00:00",
   "seen_articles": {
-    "https://economictimes.indiatimes.com/industry/cons-products/electronics/lg-electronics-india-bets-on-exports-b2b-products-for-margin-boost/articleshow/133411736.cms": {
-      "title": "LG Electronics India bets on exports, B2B products for margin boost",
-      "link": "https://economictimes.indiatimes.com/industry/cons-products/electronics/lg-electronics-india-bets-on-exports-b2b-products-for-margin-boost/articleshow/133411736.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "LG Electronics"
-      ],
-      "first_seen_at": "2026-08-21T23:27:21.576094+00:00",
-      "last_seen_at": "2026-08-22T23:23:58.134868+00:00"
-    },
     "https://asia.nikkei.com/business/companies/samsung-electronics-faces-internal-divide-over-huge-bonus-gap": {
       "title": "Samsung Electronics faces internal divide over huge bonus gap",
       "link": "https://asia.nikkei.com/business/companies/samsung-electronics-faces-internal-divide-over-huge-bonus-gap",
