@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-07T16:12:35.675305+00:00",
+  "last_run_at": "2026-10-08T02:36:06.591903+00:00",
   "seen_articles": {
     "https://asia.nikkei.com/business/companies/samsung-electronics-faces-internal-divide-over-huge-bonus-gap": {
       "title": "Samsung Electronics faces internal divide over huge bonus gap",
@@ -1340,7 +1340,62 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-10-07T16:12:35.675305+00:00",
-      "last_seen_at": "2026-10-07T16:12:35.675305+00:00"
+      "last_seen_at": "2026-10-08T02:36:06.591903+00:00"
+    },
+    "https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html": {
+      "title": "Samsung forecasts record third-quarter profit of $80 billion as AI boom fuels chip demand",
+      "link": "https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-10-08T02:36:06.591903+00:00",
+      "last_seen_at": "2026-10-08T02:36:06.591903+00:00"
+    },
+    "https://www.channelnewsasia.com/business/lg-energy-solution-flags-26-rise-in-q3-operating-profit-6441106": {
+      "title": "LG Energy Solution flags 26% rise in Q3 operating profit",
+      "link": "https://www.channelnewsasia.com/business/lg-energy-solution-flags-26-rise-in-q3-operating-profit-6441106",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "LG Energy Solution"
+      ],
+      "first_seen_at": "2026-10-08T02:36:06.591903+00:00",
+      "last_seen_at": "2026-10-08T02:36:06.591903+00:00"
+    },
+    "https://www.cnbc.com/2026/10/07/jamieson-greer-financial-disclosure-coupang.html": {
+      "title": "Trump trade chief Greer reports higher cash holdings as law firm pay topped $650K",
+      "link": "https://www.cnbc.com/2026/10/07/jamieson-greer-financial-disclosure-coupang.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "Coupang"
+      ],
+      "first_seen_at": "2026-10-08T02:36:06.591903+00:00",
+      "last_seen_at": "2026-10-08T02:36:06.591903+00:00"
+    },
+    "https://www.channelnewsasia.com/business/samsung-record-profit-demand-ai-6441041": {
+      "title": "Samsung flags US$80 billion profit on AI boom, highest quarterly for any tech company",
+      "link": "https://www.channelnewsasia.com/business/samsung-record-profit-demand-ai-6441041",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-10-08T02:36:06.591903+00:00",
+      "last_seen_at": "2026-10-08T02:36:06.591903+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/hybe-to-host-weverse-con-festival-in-new-delhi-in-march-2027/article71556896.ece": {
+      "title": "HYBE to host Weverse Con Festival in New Delhi in March 2027",
+      "link": "https://www.thehindubusinessline.com/companies/hybe-to-host-weverse-con-festival-in-new-delhi-in-march-2027/article71556896.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "HYBE"
+      ],
+      "first_seen_at": "2026-10-08T02:36:06.591903+00:00",
+      "last_seen_at": "2026-10-08T02:36:06.591903+00:00"
     }
   }
 }
