@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-08T16:13:46.941946+00:00",
+  "last_run_at": "2026-10-09T02:50:51.563931+00:00",
   "seen_articles": {
     "https://asia.nikkei.com/business/companies/samsung-electronics-faces-internal-divide-over-huge-bonus-gap": {
       "title": "Samsung Electronics faces internal divide over huge bonus gap",
@@ -45,17 +45,6 @@
       ],
       "first_seen_at": "2026-08-24T23:25:18.765905+00:00",
       "last_seen_at": "2026-08-25T09:38:57.533539+00:00"
-    },
-    "https://economictimes.indiatimes.com/industry/auto/cars-uvs/why-rising-sales-arent-boosting-automakers-profits-the-impact-of-costs-and-margins/articleshow/133459791.cms": {
-      "title": "More cars, thinner margins: Why rising sales aren’t boosting automakers’ profits",
-      "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/why-rising-sales-arent-boosting-automakers-profits-the-impact-of-costs-and-margins/articleshow/133459791.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-08-24T23:25:18.765905+00:00",
-      "last_seen_at": "2026-08-24T23:25:18.765905+00:00"
     },
     "https://www.thehindubusinessline.com/companies/hyundai-motor-india-partners-jio-bp-to-integrate-ev-charging-networks/article71387942.ece": {
       "title": "Hyundai Motor India partners Jio-bp to integrate EV charging networks",
@@ -1323,13 +1312,13 @@
     "https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html": {
       "title": "Samsung forecasts record third-quarter profit of $80 billion as AI boom fuels chip demand",
       "link": "https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html",
-      "source_name": "CNBC Top News",
+      "source_name": "CNBC Technology",
       "country_code": "US",
       "companies": [
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-10-08T02:36:06.591903+00:00",
-      "last_seen_at": "2026-10-08T16:13:46.941946+00:00"
+      "last_seen_at": "2026-10-09T02:50:51.563931+00:00"
     },
     "https://www.channelnewsasia.com/business/lg-energy-solution-flags-26-rise-in-q3-operating-profit-6441106": {
       "title": "LG Energy Solution flags 26% rise in Q3 operating profit",
@@ -1362,7 +1351,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-10-08T02:36:06.591903+00:00",
-      "last_seen_at": "2026-10-08T16:13:46.941946+00:00"
+      "last_seen_at": "2026-10-09T02:50:51.563931+00:00"
     },
     "https://www.thehindubusinessline.com/companies/hybe-to-host-weverse-con-festival-in-new-delhi-in-march-2027/article71556896.ece": {
       "title": "HYBE to host Weverse Con Festival in New Delhi in March 2027",
@@ -1373,7 +1362,7 @@
         "HYBE"
       ],
       "first_seen_at": "2026-10-08T02:36:06.591903+00:00",
-      "last_seen_at": "2026-10-08T16:13:46.941946+00:00"
+      "last_seen_at": "2026-10-09T02:50:51.563931+00:00"
     },
     "https://www.channelnewsasia.com/business/coupang-files-lawsuits-over-462-million-in-south-korea-fines-over-data-breach-6443436": {
       "title": "Coupang files lawsuits over $462 million in South Korea fines over data breach",
@@ -1384,7 +1373,7 @@
         "Coupang"
       ],
       "first_seen_at": "2026-10-08T16:13:46.941946+00:00",
-      "last_seen_at": "2026-10-08T16:13:46.941946+00:00"
+      "last_seen_at": "2026-10-09T02:50:51.563931+00:00"
     },
     "https://www.euronews.com/2026/10/08/samsung-flags-783-profit-jump-to-record-80bn-as-ai-chip-boom-also-lifts-tsmc-sales": {
       "title": "Samsung flags 783% profit jump to record $80bn as AI chip boom also lifts TSMC sales",
@@ -1395,7 +1384,18 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-10-08T16:13:46.941946+00:00",
-      "last_seen_at": "2026-10-08T16:13:46.941946+00:00"
+      "last_seen_at": "2026-10-09T02:50:51.563931+00:00"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/samsung-sk-hynix-record-earnings-fuel-south-korea-spending-on-ai-youth": {
+      "title": "Samsung, SK Hynix record earnings fuel South Korea spending on AI, youth",
+      "link": "https://asia.nikkei.com/business/tech/semiconductors/samsung-sk-hynix-record-earnings-fuel-south-korea-spending-on-ai-youth",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-10-09T02:50:51.563931+00:00",
+      "last_seen_at": "2026-10-09T02:50:51.563931+00:00"
     }
   }
 }
