@@ -1,51 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-10T02:11:10.058484+00:00",
+  "last_run_at": "2026-10-10T15:07:33.683946+00:00",
   "seen_articles": {
-    "https://www.thehindubusinessline.com/companies/hyundai-motor-india-partners-jio-bp-to-integrate-ev-charging-networks/article71387942.ece": {
-      "title": "Hyundai Motor India partners Jio-bp to integrate EV charging networks",
-      "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-partners-jio-bp-to-integrate-ev-charging-networks/article71387942.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-08-25T09:38:57.533539+00:00",
-      "last_seen_at": "2026-08-26T09:47:05.787089+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/samsung-sk-hynix-stand-to-benefit-as-as-nvidia-ai-server-costs-surge/articleshow/133499517.cms": {
-      "title": "Samsung, SK Hynix stand to benefit as Nvidia AI server costs surge",
-      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-sk-hynix-stand-to-benefit-as-as-nvidia-ai-server-costs-surge/articleshow/133499517.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-08-25T09:38:57.533539+00:00",
-      "last_seen_at": "2026-08-26T09:47:05.787089+00:00"
-    },
-    "https://www.thehindubusinessline.com/companies/nexedge-capital-raises-20-million-led-by-mirae-asset-and-elev8-venture-partners/article71389739.ece": {
-      "title": "Nexedge Capital raises $20 million led by Mirae Asset and Elev8 Venture Partners",
-      "link": "https://www.thehindubusinessline.com/companies/nexedge-capital-raises-20-million-led-by-mirae-asset-and-elev8-venture-partners/article71389739.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Mirae Asset"
-      ],
-      "first_seen_at": "2026-08-25T23:27:36.643842+00:00",
-      "last_seen_at": "2026-08-26T09:47:05.787089+00:00"
-    },
-    "https://www.ft.com/content/557217e6-f62b-4fb6-a451-533e43ce08da?syn-25a6b1a6=1": {
-      "title": "Hyundai bets on US hybrid boom to take on Toyota",
-      "link": "https://www.ft.com/content/557217e6-f62b-4fb6-a451-533e43ce08da?syn-25a6b1a6=1",
-      "source_name": "Financial Times Companies",
-      "country_code": "GB",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-08-26T09:47:05.787089+00:00",
-      "last_seen_at": "2026-08-26T09:47:05.787089+00:00"
-    },
     "https://www.thehindubusinessline.com/companies/nexon-geochem-validates-indian-origin-raw-materials-for-ndfeb-permanent-magnets/article71391756.ece": {
       "title": "Nexon Geochem validates Indian-origin raw materials for NdFeB permanent magnets",
       "link": "https://www.thehindubusinessline.com/companies/nexon-geochem-validates-indian-origin-raw-materials-for-ndfeb-permanent-magnets/article71391756.ece",
@@ -57,17 +13,6 @@
       "first_seen_at": "2026-08-26T09:47:05.787089+00:00",
       "last_seen_at": "2026-08-27T04:25:37.962258+00:00"
     },
-    "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-goes-big-on-india-with-26-new-models-as-it-plots-100-vehicle-global-offensive/articleshow/133533106.cms": {
-      "title": "Hyundai goes big on India with 26 new models as it plots 100+ vehicle global offensive",
-      "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-goes-big-on-india-with-26-new-models-as-it-plots-100-vehicle-global-offensive/articleshow/133533106.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-08-26T09:47:05.787089+00:00",
-      "last_seen_at": "2026-08-26T09:47:05.787089+00:00"
-    },
     "https://www.thehindubusinessline.com/companies/hyundai-motor-sets-2030-sales-target-at-55-million-units/article71391736.ece": {
       "title": "Hyundai Motor sets 2030 sales target at 5.5 million units",
       "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-sets-2030-sales-target-at-55-million-units/article71391736.ece",
@@ -78,17 +23,6 @@
       ],
       "first_seen_at": "2026-08-26T09:47:05.787089+00:00",
       "last_seen_at": "2026-08-27T04:25:37.962258+00:00"
-    },
-    "https://www.channelnewsasia.com/business/hyundai-lifts-margin-target-expands-us-hybrid-lineup-6342006": {
-      "title": "Hyundai lifts margin target, expands US hybrid lineup",
-      "link": "https://www.channelnewsasia.com/business/hyundai-lifts-margin-target-expands-us-hybrid-lineup-6342006",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-08-26T09:47:05.787089+00:00",
-      "last_seen_at": "2026-08-26T09:47:05.787089+00:00"
     },
     "https://www.thehindubusinessline.com/companies/hyundai-motor-aims-555-million-units-in-global-sales-by-2030-to-bolster-business-in-india-ceo/article71393089.ece": {
       "title": "Hyundai Motor aims 5.55 million units in global sales by 2030, to bolster business in India: CEO",
