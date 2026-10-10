@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-09T15:58:00.387917+00:00",
+  "last_run_at": "2026-10-10T02:11:10.058484+00:00",
   "seen_articles": {
-    "https://asia.nikkei.com/business/companies/samsung-electronics-faces-internal-divide-over-huge-bonus-gap": {
-      "title": "Samsung Electronics faces internal divide over huge bonus gap",
-      "link": "https://asia.nikkei.com/business/companies/samsung-electronics-faces-internal-divide-over-huge-bonus-gap",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-08-24T09:52:11.525358+00:00",
-      "last_seen_at": "2026-08-25T23:27:36.643842+00:00"
-    },
     "https://www.thehindubusinessline.com/companies/hyundai-motor-india-partners-jio-bp-to-integrate-ev-charging-networks/article71387942.ece": {
       "title": "Hyundai Motor India partners Jio-bp to integrate EV charging networks",
       "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-partners-jio-bp-to-integrate-ev-charging-networks/article71387942.ece",
@@ -23,17 +12,6 @@
       ],
       "first_seen_at": "2026-08-25T09:38:57.533539+00:00",
       "last_seen_at": "2026-08-26T09:47:05.787089+00:00"
-    },
-    "https://economictimes.indiatimes.com/industry/renewables/hyundai-taps-reliance-backed-jio-bp-to-take-ev-charging-network-to-37000-points/articleshow/133500823.cms": {
-      "title": "Hyundai taps Reliance-backed Jio-bp to take EV charging network to 37,000+ points",
-      "link": "https://economictimes.indiatimes.com/industry/renewables/hyundai-taps-reliance-backed-jio-bp-to-take-ev-charging-network-to-37000-points/articleshow/133500823.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-08-25T09:38:57.533539+00:00",
-      "last_seen_at": "2026-08-25T23:27:36.643842+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/samsung-sk-hynix-stand-to-benefit-as-as-nvidia-ai-server-costs-surge/articleshow/133499517.cms": {
       "title": "Samsung, SK Hynix stand to benefit as Nvidia AI server costs surge",
