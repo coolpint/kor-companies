@@ -1,29 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-11T01:42:12.511264+00:00",
+  "last_run_at": "2026-10-11T15:27:51.835734+00:00",
   "seen_articles": {
-    "https://www.thehindubusinessline.com/companies/nexon-geochem-validates-indian-origin-raw-materials-for-ndfeb-permanent-magnets/article71391756.ece": {
-      "title": "Nexon Geochem validates Indian-origin raw materials for NdFeB permanent magnets",
-      "link": "https://www.thehindubusinessline.com/companies/nexon-geochem-validates-indian-origin-raw-materials-for-ndfeb-permanent-magnets/article71391756.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Nexon"
-      ],
-      "first_seen_at": "2026-08-26T09:47:05.787089+00:00",
-      "last_seen_at": "2026-08-27T04:25:37.962258+00:00"
-    },
-    "https://www.thehindubusinessline.com/companies/hyundai-motor-sets-2030-sales-target-at-55-million-units/article71391736.ece": {
-      "title": "Hyundai Motor sets 2030 sales target at 5.5 million units",
-      "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-sets-2030-sales-target-at-55-million-units/article71391736.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-08-26T09:47:05.787089+00:00",
-      "last_seen_at": "2026-08-27T04:25:37.962258+00:00"
-    },
     "https://www.thehindubusinessline.com/companies/hyundai-motor-aims-555-million-units-in-global-sales-by-2030-to-bolster-business-in-india-ceo/article71393089.ece": {
       "title": "Hyundai Motor aims 5.55 million units in global sales by 2030, to bolster business in India: CEO",
       "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-aims-555-million-units-in-global-sales-by-2030-to-bolster-business-in-india-ceo/article71393089.ece",
