@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-10-10T15:07:33.683946+00:00",
+  "run_at": "2026-10-11T01:42:12.511264+00:00",
   "summary": {
     "source_count": 73,
     "success_count": 70,
@@ -24,7 +24,7 @@
       "source_name": "The New York Times Technology",
       "country_code": "US",
       "success": true,
-      "item_count": 20,
+      "item_count": 21,
       "matched_count": 0,
       "error": ""
     },
@@ -276,7 +276,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 27,
+      "item_count": 32,
       "matched_count": 0,
       "error": ""
     },
@@ -564,7 +564,7 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 20,
+      "item_count": 13,
       "matched_count": 0,
       "error": ""
     },
@@ -609,7 +609,7 @@
       "source_name": "Taipei Times",
       "country_code": "TW",
       "success": true,
-      "item_count": 45,
+      "item_count": 42,
       "matched_count": 0,
       "error": ""
     },
