@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-12T02:10:35.279275+00:00",
+  "last_run_at": "2026-10-12T18:47:11.536235+00:00",
   "seen_articles": {
     "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-ceo-dismisses-memory-chip-oversupply-risks-sees-crunch-till-end-of-2030": {
       "title": "SK Hynix CEO dismisses memory chip oversupply risks, sees crunch till end of 2030",
@@ -34,17 +34,6 @@
       ],
       "first_seen_at": "2026-08-27T19:41:29.300097+00:00",
       "last_seen_at": "2026-08-29T04:03:57.372534+00:00"
-    },
-    "https://economictimes.indiatimes.com/industry/auto/auto-news/tata-cars-is-now-new-identity-of-tata-motors-passenger-vehicle-business-to-meet-growimg-aspirations-of-aindia/articleshow/133571736.cms": {
-      "title": "Tata Motors rolls out Tata.Cars identity for PV business, aims to meet India's growing aspirations",
-      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/tata-cars-is-now-new-identity-of-tata-motors-passenger-vehicle-business-to-meet-growimg-aspirations-of-aindia/articleshow/133571736.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Nexon"
-      ],
-      "first_seen_at": "2026-08-27T19:41:29.300097+00:00",
-      "last_seen_at": "2026-08-28T06:49:09.751264+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/sk-hynix-holds-groundbreaking-ceremony-for-4-billion-indiana-ai-chip-packaging-facility/articleshow/133571010.cms": {
       "title": "SK Hynix holds groundbreaking ceremony for $4 billion Indiana AI chip packaging facility",
@@ -1190,14 +1179,14 @@
     "https://www.scmp.com/tech/big-tech/article/3370505/chinas-cxmt-unveils-key-progress-chip-structure-pursued-samsung-sk-hynix": {
       "title": "China’s CXMT unveils ‘key progress’ on chip structure pursued by Samsung, SK Hynix",
       "link": "https://www.scmp.com/tech/big-tech/article/3370505/chinas-cxmt-unveils-key-progress-chip-structure-pursued-samsung-sk-hynix",
-      "source_name": "South China Morning Post World",
+      "source_name": "South China Morning Post Tech",
       "country_code": "HK",
       "companies": [
         "Samsung Electronics",
         "SK hynix"
       ],
       "first_seen_at": "2026-10-12T02:10:35.279275+00:00",
-      "last_seen_at": "2026-10-12T02:10:35.279275+00:00"
+      "last_seen_at": "2026-10-12T18:47:11.536235+00:00"
     }
   }
 }
