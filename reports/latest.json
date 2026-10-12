@@ -1,14 +1,66 @@
 {
-  "run_at": "2026-10-11T15:27:51.835734+00:00",
+  "run_at": "2026-10-12T02:10:35.279275+00:00",
   "summary": {
     "source_count": 73,
     "success_count": 70,
     "failed_count": 3,
-    "matched_count": 0,
-    "new_count": 0
+    "matched_count": 1,
+    "new_count": 1
   },
-  "new_articles": [],
-  "matched_articles": [],
+  "new_articles": [
+    {
+      "article_key": "https://www.scmp.com/tech/big-tech/article/3370505/chinas-cxmt-unveils-key-progress-chip-structure-pursued-samsung-sk-hynix",
+      "canonical_link": "https://www.scmp.com/tech/big-tech/article/3370505/chinas-cxmt-unveils-key-progress-chip-structure-pursued-samsung-sk-hynix",
+      "link": "https://www.scmp.com/tech/big-tech/article/3370505/chinas-cxmt-unveils-key-progress-chip-structure-pursued-samsung-sk-hynix?utm_source=rss_feed",
+      "title": "China’s CXMT unveils ‘key progress’ on chip structure pursued by Samsung, SK Hynix",
+      "summary": "Samsung Electronics, SK hynix 관련 기사다. 기사 제목은 'China’s CXMT unveils ‘key progress’ on chip structure pursued by Samsung, SK Hynix'이다. China’s memory chip giant ChangXin Memory Technologies (CXMT) has reported “key progress” in a new structure that rivals Samsung Electronics and SK Hynix are also working on to boost memory density. CXMT planned to roll out a new server-memory product based on the structure by the end of 2026, president Cao Kanyu said at an industrial event in Shanghai over the weekend, according to a company statement. At the centre of the development is the “4F square” design, in which each memory cell. . Advertisement Semiconductors Tech Big Tech China’s CXMT unveils ‘key progress’ on chip structure pursued by Samsung, SK Hynix Memory chip giant says its proprietary transistor design could increase storage density and improve efficiency 2 -MIN READ 2 -MIN 1 Listen Coco Feng in Guangdong Published: 8:30am, 12 Oct 2026 China’s memory chip giant ChangXin Memory Technologies (CXMT) has reported “key progress” in a new structure that rivals Samsung Electronics and SK Hynix are also working on to boost memory density CXMT planned to roll out a new server-memory product based on the structure by the end of 2026, president Cao Kanyu said at an industrial event in Shanghai over the weekend, according to a company statement At the centre of the development is the “4F square” design, in which each memory cell occupies an area of four square F, with F representing the minimum line width of a semiconductor. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "China’s CXMT unveils ‘key progress’ on chip structure pursued by Samsung, SK Hynix",
+      "original_summary": "China’s memory chip giant ChangXin Memory Technologies (CXMT) has reported “key progress” in a new structure that rivals Samsung Electronics and SK Hynix are also working on to boost memory density. CXMT planned to roll out a new server-memory product based on the structure by the end of 2026, president Cao Kanyu said at an industrial event in Shanghai over the weekend, according to a company statement. At the centre of the development is the “4F square” design, in which each memory cell...",
+      "company_summary": "Samsung Electronics, SK hynix 관련 기사다. 기사 제목은 'China’s CXMT unveils ‘key progress’ on chip structure pursued by Samsung, SK Hynix'이다. China’s memory chip giant ChangXin Memory Technologies (CXMT) has reported “key progress” in a new structure that rivals Samsung Electronics and SK Hynix are also working on to boost memory density. CXMT planned to roll out a new server-memory product based on the structure by the end of 2026, president Cao Kanyu said at an industrial event in Shanghai over the weekend, according to a company statement. At the centre of the development is the “4F square” design, in which each memory cell. . Advertisement Semiconductors Tech Big Tech China’s CXMT unveils ‘key progress’ on chip structure pursued by Samsung, SK Hynix Memory chip giant says its proprietary transistor design could increase storage density and improve efficiency 2 -MIN READ 2 -MIN 1 Listen Coco Feng in Guangdong Published: 8:30am, 12 Oct 2026 China’s memory chip giant ChangXin Memory Technologies (CXMT) has reported “key progress” in a new structure that rivals Samsung Electronics and SK Hynix are also working on to boost memory density CXMT planned to roll out a new server-memory product based on the structure by the end of 2026, president Cao Kanyu said at an industrial event in Shanghai over the weekend, according to a company statement At the centre of the development is the “4F square” design, in which each memory cell occupies an area of four square F, with F representing the minimum line width of a semiconductor. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-12T00:30:13+00:00",
+      "source_id": "scmp_world",
+      "source_name": "South China Morning Post World",
+      "country_code": "HK",
+      "country_name_ko": "홍콩",
+      "source_language": "en",
+      "matched_companies": [
+        "Samsung Electronics",
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "Samsung Electronics",
+        "SK hynix"
+      ],
+      "is_new": true
+    }
+  ],
+  "matched_articles": [
+    {
+      "article_key": "https://www.scmp.com/tech/big-tech/article/3370505/chinas-cxmt-unveils-key-progress-chip-structure-pursued-samsung-sk-hynix",
+      "canonical_link": "https://www.scmp.com/tech/big-tech/article/3370505/chinas-cxmt-unveils-key-progress-chip-structure-pursued-samsung-sk-hynix",
+      "link": "https://www.scmp.com/tech/big-tech/article/3370505/chinas-cxmt-unveils-key-progress-chip-structure-pursued-samsung-sk-hynix?utm_source=rss_feed",
+      "title": "China’s CXMT unveils ‘key progress’ on chip structure pursued by Samsung, SK Hynix",
+      "summary": "Samsung Electronics, SK hynix 관련 기사다. 기사 제목은 'China’s CXMT unveils ‘key progress’ on chip structure pursued by Samsung, SK Hynix'이다. China’s memory chip giant ChangXin Memory Technologies (CXMT) has reported “key progress” in a new structure that rivals Samsung Electronics and SK Hynix are also working on to boost memory density. CXMT planned to roll out a new server-memory product based on the structure by the end of 2026, president Cao Kanyu said at an industrial event in Shanghai over the weekend, according to a company statement. At the centre of the development is the “4F square” design, in which each memory cell. . Advertisement Semiconductors Tech Big Tech China’s CXMT unveils ‘key progress’ on chip structure pursued by Samsung, SK Hynix Memory chip giant says its proprietary transistor design could increase storage density and improve efficiency 2 -MIN READ 2 -MIN 1 Listen Coco Feng in Guangdong Published: 8:30am, 12 Oct 2026 China’s memory chip giant ChangXin Memory Technologies (CXMT) has reported “key progress” in a new structure that rivals Samsung Electronics and SK Hynix are also working on to boost memory density CXMT planned to roll out a new server-memory product based on the structure by the end of 2026, president Cao Kanyu said at an industrial event in Shanghai over the weekend, according to a company statement At the centre of the development is the “4F square” design, in which each memory cell occupies an area of four square F, with F representing the minimum line width of a semiconductor. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "China’s CXMT unveils ‘key progress’ on chip structure pursued by Samsung, SK Hynix",
+      "original_summary": "China’s memory chip giant ChangXin Memory Technologies (CXMT) has reported “key progress” in a new structure that rivals Samsung Electronics and SK Hynix are also working on to boost memory density. CXMT planned to roll out a new server-memory product based on the structure by the end of 2026, president Cao Kanyu said at an industrial event in Shanghai over the weekend, according to a company statement. At the centre of the development is the “4F square” design, in which each memory cell...",
+      "company_summary": "Samsung Electronics, SK hynix 관련 기사다. 기사 제목은 'China’s CXMT unveils ‘key progress’ on chip structure pursued by Samsung, SK Hynix'이다. China’s memory chip giant ChangXin Memory Technologies (CXMT) has reported “key progress” in a new structure that rivals Samsung Electronics and SK Hynix are also working on to boost memory density. CXMT planned to roll out a new server-memory product based on the structure by the end of 2026, president Cao Kanyu said at an industrial event in Shanghai over the weekend, according to a company statement. At the centre of the development is the “4F square” design, in which each memory cell. . Advertisement Semiconductors Tech Big Tech China’s CXMT unveils ‘key progress’ on chip structure pursued by Samsung, SK Hynix Memory chip giant says its proprietary transistor design could increase storage density and improve efficiency 2 -MIN READ 2 -MIN 1 Listen Coco Feng in Guangdong Published: 8:30am, 12 Oct 2026 China’s memory chip giant ChangXin Memory Technologies (CXMT) has reported “key progress” in a new structure that rivals Samsung Electronics and SK Hynix are also working on to boost memory density CXMT planned to roll out a new server-memory product based on the structure by the end of 2026, president Cao Kanyu said at an industrial event in Shanghai over the weekend, according to a company statement At the centre of the development is the “4F square” design, in which each memory cell occupies an area of four square F, with F representing the minimum line width of a semiconductor. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-12T00:30:13+00:00",
+      "source_id": "scmp_world",
+      "source_name": "South China Morning Post World",
+      "country_code": "HK",
+      "country_name_ko": "홍콩",
+      "source_language": "en",
+      "matched_companies": [
+        "Samsung Electronics",
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "Samsung Electronics",
+        "SK hynix"
+      ],
+      "is_new": true
+    }
+  ],
   "source_runs": [
     {
       "source_id": "nyt_business",
@@ -222,7 +274,7 @@
       "source_name": "Deutsche Welle World",
       "country_code": "DE",
       "success": true,
-      "item_count": 11,
+      "item_count": 12,
       "matched_count": 0,
       "error": ""
     },
@@ -267,7 +319,7 @@
       "source_name": "BBC Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 52,
+      "item_count": 39,
       "matched_count": 0,
       "error": ""
     },
@@ -276,7 +328,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 37,
+      "item_count": 26,
       "matched_count": 0,
       "error": ""
     },
@@ -537,7 +589,7 @@
       "source_name": "CNA Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 10,
+      "item_count": 9,
       "matched_count": 0,
       "error": ""
     },
@@ -546,7 +598,7 @@
       "source_name": "CNA Asia",
       "country_code": "SG",
       "success": true,
-      "item_count": 18,
+      "item_count": 13,
       "matched_count": 0,
       "error": ""
     },
@@ -564,7 +616,7 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 10,
+      "item_count": 14,
       "matched_count": 0,
       "error": ""
     },
@@ -592,7 +644,7 @@
       "country_code": "HK",
       "success": true,
       "item_count": 50,
-      "matched_count": 0,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -601,7 +653,7 @@
       "country_code": "HK",
       "success": true,
       "item_count": 50,
-      "matched_count": 0,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -609,7 +661,7 @@
       "source_name": "Taipei Times",
       "country_code": "TW",
       "success": true,
-      "item_count": 42,
+      "item_count": 45,
       "matched_count": 0,
       "error": ""
     },
