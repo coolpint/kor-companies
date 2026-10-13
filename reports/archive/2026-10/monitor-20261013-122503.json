@@ -1,0 +1,790 @@
+{
+  "run_at": "2026-10-13T03:25:03.291183+00:00",
+  "summary": {
+    "source_count": 73,
+    "success_count": 70,
+    "failed_count": 3,
+    "matched_count": 3,
+    "new_count": 2
+  },
+  "new_articles": [
+    {
+      "article_key": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1",
+      "canonical_link": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1",
+      "link": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1",
+      "title": "Chip stocks slide as fears mount over scale of AI investment",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'Chip stocks slide as fears mount over scale of AI investment'이다. ‘Casino’ comments by Broadcom boss help push Samsung and SK Hynix down sharply in Seoul. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다. 가능한 경우 본문에서 회사 언급 전후 문맥을 함께 반영했다.",
+      "original_title": "Chip stocks slide as fears mount over scale of AI investment",
+      "original_summary": "‘Casino’ comments by Broadcom boss help push Samsung and SK Hynix down sharply in Seoul",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'Chip stocks slide as fears mount over scale of AI investment'이다. ‘Casino’ comments by Broadcom boss help push Samsung and SK Hynix down sharply in Seoul. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다. 가능한 경우 본문에서 회사 언급 전후 문맥을 함께 반영했다.",
+      "published_at": "2026-10-13T02:58:54+00:00",
+      "source_id": "ft_companies",
+      "source_name": "Financial Times Companies",
+      "country_code": "GB",
+      "country_name_ko": "영국",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+      "canonical_link": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+      "link": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+      "title": "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off'이다. Asian technology stocks tumbled Tuesday as a sell-off in U. S. semiconductor shares spilled into regional markets. In this article SKHY The SK Hynix Inc Shares of South Korean chip giant SK Hynix, a leading supplier of high-bandwidth memory chips used in artificial intelligence applications, plunged more than 8%, while rival Samsung Electronics shed 7 Phillip Wool, chief market strategist at Rayliant Global Advisors, said CXMT's breakthrough marked a significant milestone for Chinese chipmakers , demonstrating their ability to overcome technology restrictions and potentially challenge established players sooner than expected But he cautioned that the market reaction appeared disproportionate to the immediate competitive threat, given that CXMT has yet to demonstrate large-scale production and continues to lag Samsung and SK Hynix in market share \"More importantly, we're not even talking about HBM here, and the Korean chipmakers are still unquestionably dominating that space, with very little threat at all from the likes of CXMT or anyone else for the foreseeable future,\" Wool said. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off",
+      "original_summary": "Asian technology stocks tumbled Tuesday as a sell-off in U.S. semiconductor shares spilled into regional markets.",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off'이다. Asian technology stocks tumbled Tuesday as a sell-off in U. S. semiconductor shares spilled into regional markets. In this article SKHY The SK Hynix Inc Shares of South Korean chip giant SK Hynix, a leading supplier of high-bandwidth memory chips used in artificial intelligence applications, plunged more than 8%, while rival Samsung Electronics shed 7 Phillip Wool, chief market strategist at Rayliant Global Advisors, said CXMT's breakthrough marked a significant milestone for Chinese chipmakers , demonstrating their ability to overcome technology restrictions and potentially challenge established players sooner than expected But he cautioned that the market reaction appeared disproportionate to the immediate competitive threat, given that CXMT has yet to demonstrate large-scale production and continues to lag Samsung and SK Hynix in market share \"More importantly, we're not even talking about HBM here, and the Korean chipmakers are still unquestionably dominating that space, with very little threat at all from the likes of CXMT or anyone else for the foreseeable future,\" Wool said. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-13T02:49:17+00:00",
+      "source_id": "cnbc_top_news",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "country_name_ko": "미국",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": true
+    }
+  ],
+  "matched_articles": [
+    {
+      "article_key": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1",
+      "canonical_link": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1",
+      "link": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1",
+      "title": "Chip stocks slide as fears mount over scale of AI investment",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'Chip stocks slide as fears mount over scale of AI investment'이다. ‘Casino’ comments by Broadcom boss help push Samsung and SK Hynix down sharply in Seoul. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다. 가능한 경우 본문에서 회사 언급 전후 문맥을 함께 반영했다.",
+      "original_title": "Chip stocks slide as fears mount over scale of AI investment",
+      "original_summary": "‘Casino’ comments by Broadcom boss help push Samsung and SK Hynix down sharply in Seoul",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'Chip stocks slide as fears mount over scale of AI investment'이다. ‘Casino’ comments by Broadcom boss help push Samsung and SK Hynix down sharply in Seoul. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다. 가능한 경우 본문에서 회사 언급 전후 문맥을 함께 반영했다.",
+      "published_at": "2026-10-13T02:58:54+00:00",
+      "source_id": "ft_companies",
+      "source_name": "Financial Times Companies",
+      "country_code": "GB",
+      "country_name_ko": "영국",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+      "canonical_link": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+      "link": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+      "title": "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off'이다. Asian technology stocks tumbled Tuesday as a sell-off in U. S. semiconductor shares spilled into regional markets. In this article SKHY The SK Hynix Inc Shares of South Korean chip giant SK Hynix, a leading supplier of high-bandwidth memory chips used in artificial intelligence applications, plunged more than 8%, while rival Samsung Electronics shed 7 Phillip Wool, chief market strategist at Rayliant Global Advisors, said CXMT's breakthrough marked a significant milestone for Chinese chipmakers , demonstrating their ability to overcome technology restrictions and potentially challenge established players sooner than expected But he cautioned that the market reaction appeared disproportionate to the immediate competitive threat, given that CXMT has yet to demonstrate large-scale production and continues to lag Samsung and SK Hynix in market share \"More importantly, we're not even talking about HBM here, and the Korean chipmakers are still unquestionably dominating that space, with very little threat at all from the likes of CXMT or anyone else for the foreseeable future,\" Wool said. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off",
+      "original_summary": "Asian technology stocks tumbled Tuesday as a sell-off in U.S. semiconductor shares spilled into regional markets.",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off'이다. Asian technology stocks tumbled Tuesday as a sell-off in U. S. semiconductor shares spilled into regional markets. In this article SKHY The SK Hynix Inc Shares of South Korean chip giant SK Hynix, a leading supplier of high-bandwidth memory chips used in artificial intelligence applications, plunged more than 8%, while rival Samsung Electronics shed 7 Phillip Wool, chief market strategist at Rayliant Global Advisors, said CXMT's breakthrough marked a significant milestone for Chinese chipmakers , demonstrating their ability to overcome technology restrictions and potentially challenge established players sooner than expected But he cautioned that the market reaction appeared disproportionate to the immediate competitive threat, given that CXMT has yet to demonstrate large-scale production and continues to lag Samsung and SK Hynix in market share \"More importantly, we're not even talking about HBM here, and the Korean chipmakers are still unquestionably dominating that space, with very little threat at all from the likes of CXMT or anyone else for the foreseeable future,\" Wool said. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-13T02:49:17+00:00",
+      "source_id": "cnbc_top_news",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "country_name_ko": "미국",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://www.scmp.com/tech/big-tech/article/3370505/chinas-cxmt-unveils-key-progress-chip-structure-pursued-samsung-sk-hynix",
+      "canonical_link": "https://www.scmp.com/tech/big-tech/article/3370505/chinas-cxmt-unveils-key-progress-chip-structure-pursued-samsung-sk-hynix",
+      "link": "https://www.scmp.com/tech/big-tech/article/3370505/chinas-cxmt-unveils-key-progress-chip-structure-pursued-samsung-sk-hynix?utm_source=rss_feed",
+      "title": "China’s CXMT unveils ‘key progress’ on chip structure pursued by Samsung, SK Hynix",
+      "summary": "Samsung Electronics, SK hynix 관련 기사다. 기사 제목은 'China’s CXMT unveils ‘key progress’ on chip structure pursued by Samsung, SK Hynix'이다. Chinese memory chip giant ChangXin Memory Technologies (CXMT) has reported “key progress” on a new cell architecture to boost memory density, an innovation that competitors such as Samsung Electronics and SK Hynix are also working on. CXMT planned to roll out a new server-memory product based on the structure by the end of 2026, president Cao Kanyu said at an industrial event in Shanghai over the weekend, according to a company statement. At the centre of the development is the “4F square”. . Advertisement Semiconductors Tech Big Tech China’s CXMT unveils ‘key progress’ on chip structure pursued by Samsung, SK Hynix Memory chip giant says its proprietary transistor design could increase storage density and improve efficiency 2 -MIN READ 2 -MIN 6 Listen Coco Feng in Guangdong Published: 8:30am, 12 Oct 2026 Updated: 4:50pm, 12 Oct 2026 Chinese memory chip giant ChangXin Memory Technologies (CXMT) has reported “key progress” on a new cell architecture to boost memory density, an innovation that competitors such as Samsung Electronics and SK Hynix are also working on CXMT planned to roll out a new server-memory product based on the structure by the end of 2026, president Cao Kanyu said at an industrial event in Shanghai over the weekend, according to a company statement At the centre of the development is the “4F square” design, in which each memory cell occupies an area of four square F, with F representing the minimum line width of a semiconductor. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "China’s CXMT unveils ‘key progress’ on chip structure pursued by Samsung, SK Hynix",
+      "original_summary": "Chinese memory chip giant ChangXin Memory Technologies (CXMT) has reported “key progress” on a new cell architecture to boost memory density, an innovation that competitors such as Samsung Electronics and SK Hynix are also working on. CXMT planned to roll out a new server-memory product based on the structure by the end of 2026, president Cao Kanyu said at an industrial event in Shanghai over the weekend, according to a company statement. At the centre of the development is the “4F square”...",
+      "company_summary": "Samsung Electronics, SK hynix 관련 기사다. 기사 제목은 'China’s CXMT unveils ‘key progress’ on chip structure pursued by Samsung, SK Hynix'이다. Chinese memory chip giant ChangXin Memory Technologies (CXMT) has reported “key progress” on a new cell architecture to boost memory density, an innovation that competitors such as Samsung Electronics and SK Hynix are also working on. CXMT planned to roll out a new server-memory product based on the structure by the end of 2026, president Cao Kanyu said at an industrial event in Shanghai over the weekend, according to a company statement. At the centre of the development is the “4F square”. . Advertisement Semiconductors Tech Big Tech China’s CXMT unveils ‘key progress’ on chip structure pursued by Samsung, SK Hynix Memory chip giant says its proprietary transistor design could increase storage density and improve efficiency 2 -MIN READ 2 -MIN 6 Listen Coco Feng in Guangdong Published: 8:30am, 12 Oct 2026 Updated: 4:50pm, 12 Oct 2026 Chinese memory chip giant ChangXin Memory Technologies (CXMT) has reported “key progress” on a new cell architecture to boost memory density, an innovation that competitors such as Samsung Electronics and SK Hynix are also working on CXMT planned to roll out a new server-memory product based on the structure by the end of 2026, president Cao Kanyu said at an industrial event in Shanghai over the weekend, according to a company statement At the centre of the development is the “4F square” design, in which each memory cell occupies an area of four square F, with F representing the minimum line width of a semiconductor. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-12T00:30:13+00:00",
+      "source_id": "scmp_tech",
+      "source_name": "South China Morning Post Tech",
+      "country_code": "HK",
+      "country_name_ko": "홍콩",
+      "source_language": "en",
+      "matched_companies": [
+        "Samsung Electronics",
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "Samsung Electronics",
+        "SK hynix"
+      ],
+      "is_new": false
+    }
+  ],
+  "source_runs": [
+    {
+      "source_id": "nyt_business",
+      "source_name": "The New York Times Business",
+      "country_code": "US",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "nyt_technology",
+      "source_name": "The New York Times Technology",
+      "country_code": "US",
+      "success": true,
+      "item_count": 22,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "marketwatch_topstories",
+      "source_name": "MarketWatch Top Stories",
+      "country_code": "US",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "npr_business",
+      "source_name": "NPR Business",
+      "country_code": "US",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "foxbusiness_markets",
+      "source_name": "Fox Business Markets",
+      "country_code": "US",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "foxbusiness_technology",
+      "source_name": "Fox Business Technology",
+      "country_code": "US",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "us_doj_press_releases",
+      "source_name": "U.S. DOJ Press Releases",
+      "country_code": "US",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "sec_press_releases",
+      "source_name": "U.S. SEC Press Releases",
+      "country_code": "US",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "country_code": "US",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "chinadaily_bizchina",
+      "source_name": "China Daily BizChina",
+      "country_code": "CN",
+      "success": false,
+      "item_count": 0,
+      "matched_count": 0,
+      "error": "HTTP 404 for https://www.chinadaily.com.cn/rss/bizchina_rss.xml"
+    },
+    {
+      "source_id": "chinadaily_world",
+      "source_name": "China Daily World",
+      "country_code": "CN",
+      "success": false,
+      "item_count": 0,
+      "matched_count": 0,
+      "error": "HTTP 404 for https://www.chinadaily.com.cn/rss/world_rss.xml"
+    },
+    {
+      "source_id": "chinadaily_china",
+      "source_name": "China Daily China",
+      "country_code": "CN",
+      "success": false,
+      "item_count": 0,
+      "matched_count": 0,
+      "error": "HTTP 404 for https://www.chinadaily.com.cn/rss/china_rss.xml"
+    },
+    {
+      "source_id": "nikkei_asia",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "japan_times_topstories",
+      "source_name": "The Japan Times",
+      "country_code": "JP",
+      "success": true,
+      "item_count": 30,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "nhk_business",
+      "source_name": "NHK Business",
+      "country_code": "JP",
+      "success": true,
+      "item_count": 86,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "nhk_world",
+      "source_name": "NHK International",
+      "country_code": "JP",
+      "success": true,
+      "item_count": 98,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "japan_today",
+      "source_name": "Japan Today",
+      "country_code": "JP",
+      "success": true,
+      "item_count": 30,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "vnexpress_business",
+      "source_name": "VnExpress Business",
+      "country_code": "VN",
+      "success": true,
+      "item_count": 60,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "vnexpress_world",
+      "source_name": "VnExpress World",
+      "country_code": "VN",
+      "success": true,
+      "item_count": 60,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "vietnamnews_business",
+      "source_name": "Vietnam News Business",
+      "country_code": "VN",
+      "success": true,
+      "item_count": 0,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "vietnamnews_economy",
+      "source_name": "Vietnam News Economy",
+      "country_code": "VN",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "vietnamnews_world",
+      "source_name": "Vietnam News World",
+      "country_code": "VN",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "dw_business",
+      "source_name": "Deutsche Welle Business",
+      "country_code": "DE",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "dw_world",
+      "source_name": "Deutsche Welle World",
+      "country_code": "DE",
+      "success": true,
+      "item_count": 13,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "dw_topstories",
+      "source_name": "Deutsche Welle Top Stories",
+      "country_code": "DE",
+      "success": true,
+      "item_count": 21,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "tagesschau_wirtschaft",
+      "source_name": "tagesschau Wirtschaft",
+      "country_code": "DE",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "tagesschau_ausland",
+      "source_name": "tagesschau Ausland",
+      "country_code": "DE",
+      "success": true,
+      "item_count": 65,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "spiegel_international",
+      "source_name": "DER SPIEGEL International",
+      "country_code": "DE",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "bbc_business",
+      "source_name": "BBC Business",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 40,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "bbc_world",
+      "source_name": "BBC World",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 30,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "bbc_technology",
+      "source_name": "BBC Technology",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 21,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "ft_companies",
+      "source_name": "Financial Times Companies",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 1,
+      "error": ""
+    },
+    {
+      "source_id": "ft_world",
+      "source_name": "Financial Times World",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 1,
+      "error": ""
+    },
+    {
+      "source_id": "guardian_business",
+      "source_name": "The Guardian Business",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 19,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "guardian_world",
+      "source_name": "The Guardian World",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 45,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "guardian_technology",
+      "source_name": "The Guardian Technology",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 31,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "independent_business",
+      "source_name": "The Independent Business",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 0,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "lemonde_economie",
+      "source_name": "Le Monde Economie",
+      "country_code": "FR",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "lemonde_international",
+      "source_name": "Le Monde International",
+      "country_code": "FR",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "france24_business_tech",
+      "source_name": "France 24 Business / Tech",
+      "country_code": "FR",
+      "success": true,
+      "item_count": 30,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "france24_europe",
+      "source_name": "France 24 Europe",
+      "country_code": "FR",
+      "success": true,
+      "item_count": 30,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "euronews_business",
+      "source_name": "Euronews Business",
+      "country_code": "EU",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "politico_europe",
+      "source_name": "POLITICO Europe",
+      "country_code": "EU",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "cnbc_top_news",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "success": true,
+      "item_count": 30,
+      "matched_count": 1,
+      "error": ""
+    },
+    {
+      "source_id": "cnbc_world",
+      "source_name": "CNBC World News",
+      "country_code": "US",
+      "success": true,
+      "item_count": 30,
+      "matched_count": 1,
+      "error": ""
+    },
+    {
+      "source_id": "cnbc_technology",
+      "source_name": "CNBC Technology",
+      "country_code": "US",
+      "success": true,
+      "item_count": 30,
+      "matched_count": 1,
+      "error": ""
+    },
+    {
+      "source_id": "abc_us_business",
+      "source_name": "ABC News Business",
+      "country_code": "US",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "abc_us_international",
+      "source_name": "ABC News International",
+      "country_code": "US",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "globe_business",
+      "source_name": "The Globe and Mail Business",
+      "country_code": "CA",
+      "success": true,
+      "item_count": 100,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "globe_world",
+      "source_name": "The Globe and Mail World",
+      "country_code": "CA",
+      "success": true,
+      "item_count": 100,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "globalnews_money",
+      "source_name": "Global News Money",
+      "country_code": "CA",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "globalnews_world",
+      "source_name": "Global News World",
+      "country_code": "CA",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "abc_au_top_stories",
+      "source_name": "ABC Australia Top Stories",
+      "country_code": "AU",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "abc_au_business",
+      "source_name": "ABC Australia Business",
+      "country_code": "AU",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "economic_times_industry",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "economic_times_tech",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "businessline_companies",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "success": true,
+      "item_count": 60,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "businessline_economy",
+      "source_name": "BusinessLine Economy",
+      "country_code": "IN",
+      "success": true,
+      "item_count": 60,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "cna_business",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "cna_asia",
+      "source_name": "CNA Asia",
+      "country_code": "SG",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "cna_world",
+      "source_name": "CNA World",
+      "country_code": "SG",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "straits_times_business",
+      "source_name": "The Straits Times Business",
+      "country_code": "SG",
+      "success": true,
+      "item_count": 28,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "straits_times_world",
+      "source_name": "The Straits Times World",
+      "country_code": "SG",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "scmp_business",
+      "source_name": "South China Morning Post Business",
+      "country_code": "HK",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "scmp_world",
+      "source_name": "South China Morning Post World",
+      "country_code": "HK",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "scmp_tech",
+      "source_name": "South China Morning Post Tech",
+      "country_code": "HK",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 1,
+      "error": ""
+    },
+    {
+      "source_id": "taipei_times_front",
+      "source_name": "Taipei Times",
+      "country_code": "TW",
+      "success": true,
+      "item_count": 55,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "dutchnews",
+      "source_name": "DutchNews.nl",
+      "country_code": "NL",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "nltimes",
+      "source_name": "NL Times",
+      "country_code": "NL",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "bangkok_post_business",
+      "source_name": "Bangkok Post Business",
+      "country_code": "TH",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "bangkok_post_world",
+      "source_name": "Bangkok Post World",
+      "country_code": "TH",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "mexico_news_daily",
+      "source_name": "Mexico News Daily",
+      "country_code": "MX",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "aljazeera_all",
+      "source_name": "Al Jazeera",
+      "country_code": "QA",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    }
+  ]
+}

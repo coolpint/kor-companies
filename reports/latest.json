@@ -1,14 +1,107 @@
 {
-  "run_at": "2026-10-12T18:47:11.536235+00:00",
+  "run_at": "2026-10-13T03:25:03.291183+00:00",
   "summary": {
     "source_count": 73,
     "success_count": 70,
     "failed_count": 3,
-    "matched_count": 1,
-    "new_count": 0
+    "matched_count": 3,
+    "new_count": 2
   },
-  "new_articles": [],
+  "new_articles": [
+    {
+      "article_key": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1",
+      "canonical_link": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1",
+      "link": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1",
+      "title": "Chip stocks slide as fears mount over scale of AI investment",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'Chip stocks slide as fears mount over scale of AI investment'이다. ‘Casino’ comments by Broadcom boss help push Samsung and SK Hynix down sharply in Seoul. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다. 가능한 경우 본문에서 회사 언급 전후 문맥을 함께 반영했다.",
+      "original_title": "Chip stocks slide as fears mount over scale of AI investment",
+      "original_summary": "‘Casino’ comments by Broadcom boss help push Samsung and SK Hynix down sharply in Seoul",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'Chip stocks slide as fears mount over scale of AI investment'이다. ‘Casino’ comments by Broadcom boss help push Samsung and SK Hynix down sharply in Seoul. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다. 가능한 경우 본문에서 회사 언급 전후 문맥을 함께 반영했다.",
+      "published_at": "2026-10-13T02:58:54+00:00",
+      "source_id": "ft_companies",
+      "source_name": "Financial Times Companies",
+      "country_code": "GB",
+      "country_name_ko": "영국",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+      "canonical_link": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+      "link": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+      "title": "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off'이다. Asian technology stocks tumbled Tuesday as a sell-off in U. S. semiconductor shares spilled into regional markets. In this article SKHY The SK Hynix Inc Shares of South Korean chip giant SK Hynix, a leading supplier of high-bandwidth memory chips used in artificial intelligence applications, plunged more than 8%, while rival Samsung Electronics shed 7 Phillip Wool, chief market strategist at Rayliant Global Advisors, said CXMT's breakthrough marked a significant milestone for Chinese chipmakers , demonstrating their ability to overcome technology restrictions and potentially challenge established players sooner than expected But he cautioned that the market reaction appeared disproportionate to the immediate competitive threat, given that CXMT has yet to demonstrate large-scale production and continues to lag Samsung and SK Hynix in market share \"More importantly, we're not even talking about HBM here, and the Korean chipmakers are still unquestionably dominating that space, with very little threat at all from the likes of CXMT or anyone else for the foreseeable future,\" Wool said. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off",
+      "original_summary": "Asian technology stocks tumbled Tuesday as a sell-off in U.S. semiconductor shares spilled into regional markets.",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off'이다. Asian technology stocks tumbled Tuesday as a sell-off in U. S. semiconductor shares spilled into regional markets. In this article SKHY The SK Hynix Inc Shares of South Korean chip giant SK Hynix, a leading supplier of high-bandwidth memory chips used in artificial intelligence applications, plunged more than 8%, while rival Samsung Electronics shed 7 Phillip Wool, chief market strategist at Rayliant Global Advisors, said CXMT's breakthrough marked a significant milestone for Chinese chipmakers , demonstrating their ability to overcome technology restrictions and potentially challenge established players sooner than expected But he cautioned that the market reaction appeared disproportionate to the immediate competitive threat, given that CXMT has yet to demonstrate large-scale production and continues to lag Samsung and SK Hynix in market share \"More importantly, we're not even talking about HBM here, and the Korean chipmakers are still unquestionably dominating that space, with very little threat at all from the likes of CXMT or anyone else for the foreseeable future,\" Wool said. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-13T02:49:17+00:00",
+      "source_id": "cnbc_top_news",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "country_name_ko": "미국",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": true
+    }
+  ],
   "matched_articles": [
+    {
+      "article_key": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1",
+      "canonical_link": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1",
+      "link": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1",
+      "title": "Chip stocks slide as fears mount over scale of AI investment",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'Chip stocks slide as fears mount over scale of AI investment'이다. ‘Casino’ comments by Broadcom boss help push Samsung and SK Hynix down sharply in Seoul. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다. 가능한 경우 본문에서 회사 언급 전후 문맥을 함께 반영했다.",
+      "original_title": "Chip stocks slide as fears mount over scale of AI investment",
+      "original_summary": "‘Casino’ comments by Broadcom boss help push Samsung and SK Hynix down sharply in Seoul",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'Chip stocks slide as fears mount over scale of AI investment'이다. ‘Casino’ comments by Broadcom boss help push Samsung and SK Hynix down sharply in Seoul. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다. 가능한 경우 본문에서 회사 언급 전후 문맥을 함께 반영했다.",
+      "published_at": "2026-10-13T02:58:54+00:00",
+      "source_id": "ft_companies",
+      "source_name": "Financial Times Companies",
+      "country_code": "GB",
+      "country_name_ko": "영국",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+      "canonical_link": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+      "link": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+      "title": "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off'이다. Asian technology stocks tumbled Tuesday as a sell-off in U. S. semiconductor shares spilled into regional markets. In this article SKHY The SK Hynix Inc Shares of South Korean chip giant SK Hynix, a leading supplier of high-bandwidth memory chips used in artificial intelligence applications, plunged more than 8%, while rival Samsung Electronics shed 7 Phillip Wool, chief market strategist at Rayliant Global Advisors, said CXMT's breakthrough marked a significant milestone for Chinese chipmakers , demonstrating their ability to overcome technology restrictions and potentially challenge established players sooner than expected But he cautioned that the market reaction appeared disproportionate to the immediate competitive threat, given that CXMT has yet to demonstrate large-scale production and continues to lag Samsung and SK Hynix in market share \"More importantly, we're not even talking about HBM here, and the Korean chipmakers are still unquestionably dominating that space, with very little threat at all from the likes of CXMT or anyone else for the foreseeable future,\" Wool said. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off",
+      "original_summary": "Asian technology stocks tumbled Tuesday as a sell-off in U.S. semiconductor shares spilled into regional markets.",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off'이다. Asian technology stocks tumbled Tuesday as a sell-off in U. S. semiconductor shares spilled into regional markets. In this article SKHY The SK Hynix Inc Shares of South Korean chip giant SK Hynix, a leading supplier of high-bandwidth memory chips used in artificial intelligence applications, plunged more than 8%, while rival Samsung Electronics shed 7 Phillip Wool, chief market strategist at Rayliant Global Advisors, said CXMT's breakthrough marked a significant milestone for Chinese chipmakers , demonstrating their ability to overcome technology restrictions and potentially challenge established players sooner than expected But he cautioned that the market reaction appeared disproportionate to the immediate competitive threat, given that CXMT has yet to demonstrate large-scale production and continues to lag Samsung and SK Hynix in market share \"More importantly, we're not even talking about HBM here, and the Korean chipmakers are still unquestionably dominating that space, with very little threat at all from the likes of CXMT or anyone else for the foreseeable future,\" Wool said. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-13T02:49:17+00:00",
+      "source_id": "cnbc_top_news",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "country_name_ko": "미국",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": true
+    },
     {
       "article_key": "https://www.scmp.com/tech/big-tech/article/3370505/chinas-cxmt-unveils-key-progress-chip-structure-pursued-samsung-sk-hynix",
       "canonical_link": "https://www.scmp.com/tech/big-tech/article/3370505/chinas-cxmt-unveils-key-progress-chip-structure-pursued-samsung-sk-hynix",
@@ -50,7 +143,7 @@
       "source_name": "The New York Times Technology",
       "country_code": "US",
       "success": true,
-      "item_count": 21,
+      "item_count": 22,
       "matched_count": 0,
       "error": ""
     },
@@ -248,7 +341,7 @@
       "source_name": "Deutsche Welle World",
       "country_code": "DE",
       "success": true,
-      "item_count": 12,
+      "item_count": 13,
       "matched_count": 0,
       "error": ""
     },
@@ -266,7 +359,7 @@
       "source_name": "tagesschau Wirtschaft",
       "country_code": "DE",
       "success": true,
-      "item_count": 19,
+      "item_count": 20,
       "matched_count": 0,
       "error": ""
     },
@@ -293,7 +386,7 @@
       "source_name": "BBC Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 44,
+      "item_count": 40,
       "matched_count": 0,
       "error": ""
     },
@@ -302,7 +395,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 27,
+      "item_count": 30,
       "matched_count": 0,
       "error": ""
     },
@@ -321,7 +414,7 @@
       "country_code": "GB",
       "success": true,
       "item_count": 25,
-      "matched_count": 0,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -330,7 +423,7 @@
       "country_code": "GB",
       "success": true,
       "item_count": 25,
-      "matched_count": 0,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -429,7 +522,7 @@
       "country_code": "US",
       "success": true,
       "item_count": 30,
-      "matched_count": 0,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -438,7 +531,7 @@
       "country_code": "US",
       "success": true,
       "item_count": 30,
-      "matched_count": 0,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -447,7 +540,7 @@
       "country_code": "US",
       "success": true,
       "item_count": 30,
-      "matched_count": 0,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -527,7 +620,7 @@
       "source_name": "The Economic Times Industry",
       "country_code": "IN",
       "success": true,
-      "item_count": 46,
+      "item_count": 50,
       "matched_count": 0,
       "error": ""
     },
@@ -590,7 +683,7 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 27,
+      "item_count": 28,
       "matched_count": 0,
       "error": ""
     },

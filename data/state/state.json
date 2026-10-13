@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-12T18:47:11.536235+00:00",
+  "last_run_at": "2026-10-13T03:25:03.291183+00:00",
   "seen_articles": {
     "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-ceo-dismisses-memory-chip-oversupply-risks-sees-crunch-till-end-of-2030": {
       "title": "SK Hynix CEO dismisses memory chip oversupply risks, sees crunch till end of 2030",
@@ -34,28 +34,6 @@
       ],
       "first_seen_at": "2026-08-27T19:41:29.300097+00:00",
       "last_seen_at": "2026-08-29T04:03:57.372534+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/sk-hynix-holds-groundbreaking-ceremony-for-4-billion-indiana-ai-chip-packaging-facility/articleshow/133571010.cms": {
-      "title": "SK Hynix holds groundbreaking ceremony for $4 billion Indiana AI chip packaging facility",
-      "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-holds-groundbreaking-ceremony-for-4-billion-indiana-ai-chip-packaging-facility/articleshow/133571010.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-08-27T19:41:29.300097+00:00",
-      "last_seen_at": "2026-08-28T20:46:22.121448+00:00"
-    },
-    "https://www.japantimes.co.jp/business/2026/08/28/companies/sk-hynix-memory-industry-ties": {
-      "title": "SK Hynix weighs closer ties with Japan’s memory industry",
-      "link": "https://www.japantimes.co.jp/business/2026/08/28/companies/sk-hynix-memory-industry-ties",
-      "source_name": "The Japan Times",
-      "country_code": "JP",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-08-28T06:49:09.751264+00:00",
-      "last_seen_at": "2026-08-28T20:46:22.121448+00:00"
     },
     "https://www.straitstimes.com/business/sk-hynix-starts-construction-of-5-billion-memory-hub-in-us-state-of-indiana": {
       "title": "SK Hynix starts construction of $5 billion memory hub in US state of Indiana",
@@ -1186,7 +1164,29 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-10-12T02:10:35.279275+00:00",
-      "last_seen_at": "2026-10-12T18:47:11.536235+00:00"
+      "last_seen_at": "2026-10-13T03:25:03.291183+00:00"
+    },
+    "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1": {
+      "title": "Chip stocks slide as fears mount over scale of AI investment",
+      "link": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1",
+      "source_name": "Financial Times Companies",
+      "country_code": "GB",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-10-13T03:25:03.291183+00:00",
+      "last_seen_at": "2026-10-13T03:25:03.291183+00:00"
+    },
+    "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html": {
+      "title": "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off",
+      "link": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-10-13T03:25:03.291183+00:00",
+      "last_seen_at": "2026-10-13T03:25:03.291183+00:00"
     }
   }
 }
