@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-13T03:25:03.291183+00:00",
+  "last_run_at": "2026-10-13T16:48:29.858019+00:00",
   "seen_articles": {
     "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-ceo-dismisses-memory-chip-oversupply-risks-sees-crunch-till-end-of-2030": {
       "title": "SK Hynix CEO dismisses memory chip oversupply risks, sees crunch till end of 2030",
@@ -12,50 +12,6 @@
       ],
       "first_seen_at": "2026-08-27T19:41:29.300097+00:00",
       "last_seen_at": "2026-08-30T01:09:40.906757+00:00"
-    },
-    "https://www.cnbc.com/2026/08/27/sk-hynix-ceo-says-indiana-will-be-key-memory-production-base-by-2030.html": {
-      "title": "SK Hynix CEO says Indiana will be key memory production base by 2030, first U.S. facility now underway",
-      "link": "https://www.cnbc.com/2026/08/27/sk-hynix-ceo-says-indiana-will-be-key-memory-production-base-by-2030.html",
-      "source_name": "CNBC World News",
-      "country_code": "US",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-08-27T19:41:29.300097+00:00",
-      "last_seen_at": "2026-08-29T04:03:57.372534+00:00"
-    },
-    "https://asia.nikkei.com/business/technology/artificial-intelligence/sk-hynix-starts-construction-of-first-hbm-chip-packaging-plant-in-us": {
-      "title": "SK Hynix starts construction of first HBM chip packaging plant in US",
-      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/sk-hynix-starts-construction-of-first-hbm-chip-packaging-plant-in-us",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-08-27T19:41:29.300097+00:00",
-      "last_seen_at": "2026-08-29T04:03:57.372534+00:00"
-    },
-    "https://www.straitstimes.com/business/sk-hynix-starts-construction-of-5-billion-memory-hub-in-us-state-of-indiana": {
-      "title": "SK Hynix starts construction of $5 billion memory hub in US state of Indiana",
-      "link": "https://www.straitstimes.com/business/sk-hynix-starts-construction-of-5-billion-memory-hub-in-us-state-of-indiana",
-      "source_name": "The Straits Times",
-      "country_code": "SG",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-08-28T06:49:09.751264+00:00",
-      "last_seen_at": "2026-08-29T14:15:59.023547+00:00"
-    },
-    "https://www.taipeitimes.com/News/biz/archives/2026/08/29/2003863304": {
-      "title": "SK Hynix starts construction at site in US’ Indiana",
-      "link": "https://www.taipeitimes.com/News/biz/archives/2026/08/29/2003863304",
-      "source_name": "Taipei Times",
-      "country_code": "TW",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-08-28T20:46:22.121448+00:00",
-      "last_seen_at": "2026-08-29T14:15:59.023547+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/sk-hynix-open-to-us-investment-sees-memory-shortage-through-2030/articleshow/133628356.cms": {
       "title": "SK hynix open to US investment, sees memory shortage through 2030",
@@ -1167,7 +1123,7 @@
       "last_seen_at": "2026-10-13T03:25:03.291183+00:00"
     },
     "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1": {
-      "title": "Chip stocks slide as fears mount over scale of AI investment",
+      "title": "Chip stocks slide after Broadcom boss warns of ‘casino’ mentality in AI investing",
       "link": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1",
       "source_name": "Financial Times Companies",
       "country_code": "GB",
@@ -1175,7 +1131,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-10-13T03:25:03.291183+00:00",
-      "last_seen_at": "2026-10-13T03:25:03.291183+00:00"
+      "last_seen_at": "2026-10-13T16:48:29.858019+00:00"
     },
     "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html": {
       "title": "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off",
@@ -1187,6 +1143,85 @@
       ],
       "first_seen_at": "2026-10-13T03:25:03.291183+00:00",
       "last_seen_at": "2026-10-13T03:25:03.291183+00:00"
+    },
+    "https://www.theverge.com/tech/1009899/apple-home-collection-hands-on": {
+      "title": "Hands-on with the Apple Home Collection",
+      "link": "https://www.theverge.com/tech/1009899/apple-home-collection-hands-on",
+      "source_name": "The Verge",
+      "country_code": "US",
+      "companies": [
+        "LG Electronics"
+      ],
+      "first_seen_at": "2026-10-13T16:48:29.858019+00:00",
+      "last_seen_at": "2026-10-13T16:48:29.858019+00:00"
+    },
+    "https://www.thehindubusinessline.com/news/hyundai-motor-group-to-invest-147-lakh-crore-till-2032/article71580464.ece": {
+      "title": "Hyundai Motor Group to invest ₹1.47 lakh crore till 2032",
+      "link": "https://www.thehindubusinessline.com/news/hyundai-motor-group-to-invest-147-lakh-crore-till-2032/article71580464.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor",
+        "Kia"
+      ],
+      "first_seen_at": "2026-10-13T16:48:29.858019+00:00",
+      "last_seen_at": "2026-10-13T16:48:29.858019+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-group-to-plug-15-5-billion-in-indias-automotive-sector/articleshow/134920115.cms": {
+      "title": "Hyundai Motor to plug $15.5 billion in India's automotive sector",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-group-to-plug-15-5-billion-in-indias-automotive-sector/articleshow/134920115.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-10-13T16:48:29.858019+00:00",
+      "last_seen_at": "2026-10-13T16:48:29.858019+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/hyundai-bets-on-talegaon-as-export-hub-capacity-expansion-fuels-growth-ambitions/article71576820.ece": {
+      "title": "Hyundai bets on Talegaon as export hub, capacity expansion fuels growth ambitions",
+      "link": "https://www.thehindubusinessline.com/companies/hyundai-bets-on-talegaon-as-export-hub-capacity-expansion-fuels-growth-ambitions/article71576820.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-10-13T16:48:29.858019+00:00",
+      "last_seen_at": "2026-10-13T16:48:29.858019+00:00"
+    },
+    "https://www.channelnewsasia.com/business/hyundai-motor-group-bets-155-billion-india-global-auto-hub-6456341": {
+      "title": "Hyundai Motor Group bets $15.5 billion on India as global auto hub",
+      "link": "https://www.channelnewsasia.com/business/hyundai-motor-group-bets-155-billion-india-global-auto-hub-6456341",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-10-13T16:48:29.858019+00:00",
+      "last_seen_at": "2026-10-13T16:48:29.858019+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/volvo-launches-126-crore-ex90-undercuts-kia-and-mercedes-as-bmw-surge-ahead/article71576872.ece": {
+      "title": "Volvo launches ₹1.26 crore EX90, undercuts Kia and Mercedes as BMW surge ahead",
+      "link": "https://www.thehindubusinessline.com/companies/volvo-launches-126-crore-ex90-undercuts-kia-and-mercedes-as-bmw-surge-ahead/article71576872.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Kia"
+      ],
+      "first_seen_at": "2026-10-13T16:48:29.858019+00:00",
+      "last_seen_at": "2026-10-13T16:48:29.858019+00:00"
+    },
+    "https://www.scmp.com/tech/tech-trends/article/3370739/why-samsung-sk-hynix-and-cxmt-shares-are-under-pressure-despite-strong-ai-demand": {
+      "title": "Why Samsung, SK Hynix and CXMT shares are under pressure despite strong AI demand",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3370739/why-samsung-sk-hynix-and-cxmt-shares-are-under-pressure-despite-strong-ai-demand",
+      "source_name": "South China Morning Post World",
+      "country_code": "HK",
+      "companies": [
+        "Samsung Electronics",
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-10-13T16:48:29.858019+00:00",
+      "last_seen_at": "2026-10-13T16:48:29.858019+00:00"
     }
   }
 }
