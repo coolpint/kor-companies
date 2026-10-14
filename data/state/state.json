@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-14T01:41:38.493881+00:00",
+  "last_run_at": "2026-10-14T14:24:26.931445+00:00",
   "seen_articles": {
     "https://economictimes.indiatimes.com/tech/technology/sk-hynix-open-to-us-investment-sees-memory-shortage-through-2030/articleshow/133628356.cms": {
       "title": "SK hynix open to US investment, sees memory shortage through 2030",
@@ -1154,7 +1154,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-10-13T16:48:29.858019+00:00",
-      "last_seen_at": "2026-10-14T01:41:38.493881+00:00"
+      "last_seen_at": "2026-10-14T14:24:26.931445+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-group-to-plug-15-5-billion-in-indias-automotive-sector/articleshow/134920115.cms": {
       "title": "Hyundai Motor to plug $15.5 billion in India's automotive sector",
@@ -1176,7 +1176,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-10-13T16:48:29.858019+00:00",
-      "last_seen_at": "2026-10-14T01:41:38.493881+00:00"
+      "last_seen_at": "2026-10-14T14:24:26.931445+00:00"
     },
     "https://www.channelnewsasia.com/business/hyundai-motor-group-bets-155-billion-india-global-auto-hub-6456341": {
       "title": "Hyundai Motor Group bets $15.5 billion on India as global auto hub",
@@ -1198,19 +1198,19 @@
         "Kia"
       ],
       "first_seen_at": "2026-10-13T16:48:29.858019+00:00",
-      "last_seen_at": "2026-10-14T01:41:38.493881+00:00"
+      "last_seen_at": "2026-10-14T14:24:26.931445+00:00"
     },
     "https://www.scmp.com/tech/tech-trends/article/3370739/why-samsung-sk-hynix-and-cxmt-shares-are-under-pressure-despite-strong-ai-demand": {
       "title": "Why Samsung, SK Hynix and CXMT shares are under pressure despite strong AI demand",
       "link": "https://www.scmp.com/tech/tech-trends/article/3370739/why-samsung-sk-hynix-and-cxmt-shares-are-under-pressure-despite-strong-ai-demand",
-      "source_name": "South China Morning Post World",
+      "source_name": "South China Morning Post Tech",
       "country_code": "HK",
       "companies": [
         "Samsung Electronics",
         "SK hynix"
       ],
       "first_seen_at": "2026-10-13T16:48:29.858019+00:00",
-      "last_seen_at": "2026-10-14T01:41:38.493881+00:00"
+      "last_seen_at": "2026-10-14T14:24:26.931445+00:00"
     },
     "https://asia.nikkei.com/business/automobiles/hyundai-to-invest-15.5bn-in-indian-manufacturing-r-d": {
       "title": "Hyundai to invest $15.5bn in Indian manufacturing, R&D",
@@ -1221,7 +1221,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-10-14T01:41:38.493881+00:00",
-      "last_seen_at": "2026-10-14T01:41:38.493881+00:00"
+      "last_seen_at": "2026-10-14T14:24:26.931445+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-motor-group-to-invest-15-5-billion-in-india-in-seven-years/articleshow/134922635.cms": {
       "title": "Hyundai Motor Group to invest $15.5 billion in India in seven years",
@@ -1233,6 +1233,50 @@
       ],
       "first_seen_at": "2026-10-14T01:41:38.493881+00:00",
       "last_seen_at": "2026-10-14T01:41:38.493881+00:00"
+    },
+    "https://www.channelnewsasia.com/business/hyundai-motor-india-invest-116-billion-expand-capacity-pune-city-plant-6459021": {
+      "title": "Hyundai Motor India to invest $1.16 billion to expand capacity at Pune city plant",
+      "link": "https://www.channelnewsasia.com/business/hyundai-motor-india-invest-116-billion-expand-capacity-pune-city-plant-6459021",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-10-14T14:24:26.931445+00:00",
+      "last_seen_at": "2026-10-14T14:24:26.931445+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-india-to-invest-rs-11000-crore-at-pune-plant/articleshow/134941989.cms": {
+      "title": "Hyundai Motor India to invest Rs 11,000 crore at Pune plant",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-india-to-invest-rs-11000-crore-at-pune-plant/articleshow/134941989.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-10-14T14:24:26.931445+00:00",
+      "last_seen_at": "2026-10-14T14:24:26.931445+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/nexon-geochem-to-set-up-1250-crore-rare-earth-permanent-magnet-facility-in-andhra-pradesh/article71582826.ece": {
+      "title": "Nexon Geochem to set up ₹1,250-crore rare-earth permanent magnet facility in Andhra Pradesh",
+      "link": "https://www.thehindubusinessline.com/companies/nexon-geochem-to-set-up-1250-crore-rare-earth-permanent-magnet-facility-in-andhra-pradesh/article71582826.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Nexon"
+      ],
+      "first_seen_at": "2026-10-14T14:24:26.931445+00:00",
+      "last_seen_at": "2026-10-14T14:24:26.931445+00:00"
+    },
+    "https://www.cnbc.com/2026/10/14/korea-india-hyundai-cars-investment.html": {
+      "title": "South Korean carmaker Hyundai plans 'strategic' investment of $15.5 billion in India by 2032",
+      "link": "https://www.cnbc.com/2026/10/14/korea-india-hyundai-cars-investment.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-10-14T14:24:26.931445+00:00",
+      "last_seen_at": "2026-10-14T14:24:26.931445+00:00"
     }
   }
 }
