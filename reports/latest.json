@@ -1,72 +1,46 @@
 {
-  "run_at": "2026-10-13T16:48:29.858019+00:00",
+  "run_at": "2026-10-14T01:41:38.493881+00:00",
   "summary": {
     "source_count": 73,
     "success_count": 70,
     "failed_count": 3,
     "matched_count": 8,
-    "new_count": 7
+    "new_count": 2
   },
   "new_articles": [
     {
-      "article_key": "https://www.theverge.com/tech/1009899/apple-home-collection-hands-on",
-      "canonical_link": "https://www.theverge.com/tech/1009899/apple-home-collection-hands-on",
-      "link": "https://www.theverge.com/tech/1009899/apple-home-collection-hands-on",
-      "title": "Hands-on with the Apple Home Collection",
-      "summary": "LG Electronics 관련 기사다. 기사 제목은 'Hands-on with the Apple Home Collection'이다. We've just gotten a closer look at Apple's new video doorbell, security cameras, a door lock, and thermostats following the company's \"Welcome Home\" event on Tuesday. The six new devices are part of a new Apple Home Collection, which the company co-developed with LG Electronics and Schneider Electric. The LG smart lock costs $349 and […]. A first look at Apple’s new video doorbell, security cameras, thermostats, and more by Jennifer Pattison Tuohy and Emma Roth Oct 13, 2026, 4:11 PM UTC Part Of All the news from Apple’s ‘Welcome Home’ event see all updates We’ve just gotten a closer look at Apple’s new video doorbell, security cameras, a door lock, and thermostats following the company’s “Welcome Home” event on Tuesday The six new devices are part of a new Apple Home Collection , which the company co-developed with LG Electronics and Schneider Electric The LG smart lock costs $349 and comes with support for Apple Home Key, allowing you to unlock your door hands-free with UWB You can unlock the door with a PIN code, too, or by using the physical keyhole beneath the keypad. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Hands-on with the Apple Home Collection",
-      "original_summary": "We've just gotten a closer look at Apple's new video doorbell, security cameras, a door lock, and thermostats following the company's \"Welcome Home\" event on Tuesday. The six new devices are part of a new Apple Home Collection, which the company co-developed with LG Electronics and Schneider Electric. The LG smart lock costs $349 and […]",
-      "company_summary": "LG Electronics 관련 기사다. 기사 제목은 'Hands-on with the Apple Home Collection'이다. We've just gotten a closer look at Apple's new video doorbell, security cameras, a door lock, and thermostats following the company's \"Welcome Home\" event on Tuesday. The six new devices are part of a new Apple Home Collection, which the company co-developed with LG Electronics and Schneider Electric. The LG smart lock costs $349 and […]. A first look at Apple’s new video doorbell, security cameras, thermostats, and more by Jennifer Pattison Tuohy and Emma Roth Oct 13, 2026, 4:11 PM UTC Part Of All the news from Apple’s ‘Welcome Home’ event see all updates We’ve just gotten a closer look at Apple’s new video doorbell, security cameras, a door lock, and thermostats following the company’s “Welcome Home” event on Tuesday The six new devices are part of a new Apple Home Collection , which the company co-developed with LG Electronics and Schneider Electric The LG smart lock costs $349 and comes with support for Apple Home Key, allowing you to unlock your door hands-free with UWB You can unlock the door with a PIN code, too, or by using the physical keyhole beneath the keypad. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-13T16:11:00+00:00",
-      "source_id": "theverge",
-      "source_name": "The Verge",
-      "country_code": "US",
-      "country_name_ko": "미국",
+      "article_key": "https://asia.nikkei.com/business/automobiles/hyundai-to-invest-15.5bn-in-indian-manufacturing-r-d",
+      "canonical_link": "https://asia.nikkei.com/business/automobiles/hyundai-to-invest-15.5bn-in-indian-manufacturing-r-d",
+      "link": "https://asia.nikkei.com/business/automobiles/hyundai-to-invest-15.5bn-in-indian-manufacturing-r-d",
+      "title": "Hyundai to invest $15.5bn in Indian manufacturing, R&D",
+      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai to invest $15.5bn in Indian manufacturing, R&D'이다. BENGALURU -- Hyundai Motor will invest $15. 5 billion in India through 2032 to expand manufacturing, R&amp;D and other areas, the South Korean automake. Country's once-No. 2 automaker looks to regain momentum as competition intensifies. Automobiles Hyundai to invest $15 5bn in Indian manufacturing, R&D Country's once-No 2 automaker looks to regain momentum as competition intensifies Hyundai Motor will invest to expand manufacturing capacity in India, looking to boost exports to other emerging markets 5 billion in India through 2032 to expand manufacturing, R&D and other areas, the South Korean automaker said Tuesday, as intensifying competition erodes its share in the world's third-largest car market 5bn Business deals Volkswagen targets India growth with JSW Group joint venture plan Automobiles Hybrids drive end of gasoline's dominance in India amid ethanol backlash Automobiles Global carmakers replicate China strategy to gain foothold in India Electric vehicles Iran war drives Asia EV boost but China slowdown weighs on overall sales Latest on Automobiles Automobiles Japan automakers highlight multi-power source plan as Chinese focus on EVs Automobiles European, Chinese automakers launch product blitz at Paris car show Automobiles China's peak-season auto sales flop with sharpest monthly drop of year. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Hyundai to invest $15.5bn in Indian manufacturing, R&D",
+      "original_summary": "",
+      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai to invest $15.5bn in Indian manufacturing, R&D'이다. BENGALURU -- Hyundai Motor will invest $15. 5 billion in India through 2032 to expand manufacturing, R&amp;D and other areas, the South Korean automake. Country's once-No. 2 automaker looks to regain momentum as competition intensifies. Automobiles Hyundai to invest $15 5bn in Indian manufacturing, R&D Country's once-No 2 automaker looks to regain momentum as competition intensifies Hyundai Motor will invest to expand manufacturing capacity in India, looking to boost exports to other emerging markets 5 billion in India through 2032 to expand manufacturing, R&D and other areas, the South Korean automaker said Tuesday, as intensifying competition erodes its share in the world's third-largest car market 5bn Business deals Volkswagen targets India growth with JSW Group joint venture plan Automobiles Hybrids drive end of gasoline's dominance in India amid ethanol backlash Automobiles Global carmakers replicate China strategy to gain foothold in India Electric vehicles Iran war drives Asia EV boost but China slowdown weighs on overall sales Latest on Automobiles Automobiles Japan automakers highlight multi-power source plan as Chinese focus on EVs Automobiles European, Chinese automakers launch product blitz at Paris car show Automobiles China's peak-season auto sales flop with sharpest monthly drop of year. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-13T18:15:18+00:00",
+      "source_id": "nikkei_asia",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "country_name_ko": "일본",
       "source_language": "en",
       "matched_companies": [
-        "LG Electronics"
+        "Hyundai Motor"
       ],
       "matched_aliases": [
-        "LG Electronics"
+        "Hyundai"
       ],
       "is_new": true
     },
     {
-      "article_key": "https://www.thehindubusinessline.com/news/hyundai-motor-group-to-invest-147-lakh-crore-till-2032/article71580464.ece",
-      "canonical_link": "https://www.thehindubusinessline.com/news/hyundai-motor-group-to-invest-147-lakh-crore-till-2032/article71580464.ece",
-      "link": "https://www.thehindubusinessline.com/news/hyundai-motor-group-to-invest-147-lakh-crore-till-2032/article71580464.ece",
-      "title": "Hyundai Motor Group to invest ₹1.47 lakh crore till 2032",
-      "summary": "Hyundai Motor, Kia 관련 기사다. 기사 제목은 'Hyundai Motor Group to invest ₹1.47 lakh crore till 2032'이다. Investment includes last year’s commitment of ₹45,000 crore till 2030 — spans around capacity expansion, R&D, future mobility — for both Hyundai and Kia. 47 lakh crore till 2032 Investment includes last year’s commitment of ₹45,000 crore till 2030 — spans around capacity expansion, R&D, future mobility — for both Hyundai and Kia By S Ronendra Singh Updated - October 13, 2026 at 09:03 PM “India remains one of Hyundai Motor Group’s most important and strategic markets globally This outlay incorporates the ₹45,000-crore investment announced by Hyundai Motor Company (HMC) last October through 2030, sources told businessline The allocation extends to group entity Kia India, specifically targeting R&D Auto ecosystem The group will build a comprehensive automotive ecosystem in key areas including expansion of manufacturing capacity across Hyundai Motor India (HMIL) and Kia India to support significant volume growth while ensuring localisation. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Hyundai Motor Group to invest ₹1.47 lakh crore till 2032",
-      "original_summary": "Investment includes last year’s commitment of ₹45,000 crore till 2030 — spans around capacity expansion, R&D, future mobility — for both Hyundai and Kia",
-      "company_summary": "Hyundai Motor, Kia 관련 기사다. 기사 제목은 'Hyundai Motor Group to invest ₹1.47 lakh crore till 2032'이다. Investment includes last year’s commitment of ₹45,000 crore till 2030 — spans around capacity expansion, R&D, future mobility — for both Hyundai and Kia. 47 lakh crore till 2032 Investment includes last year’s commitment of ₹45,000 crore till 2030 — spans around capacity expansion, R&D, future mobility — for both Hyundai and Kia By S Ronendra Singh Updated - October 13, 2026 at 09:03 PM “India remains one of Hyundai Motor Group’s most important and strategic markets globally This outlay incorporates the ₹45,000-crore investment announced by Hyundai Motor Company (HMC) last October through 2030, sources told businessline The allocation extends to group entity Kia India, specifically targeting R&D Auto ecosystem The group will build a comprehensive automotive ecosystem in key areas including expansion of manufacturing capacity across Hyundai Motor India (HMIL) and Kia India to support significant volume growth while ensuring localisation. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-13T15:33:49+00:00",
-      "source_id": "businessline_companies",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "country_name_ko": "인도",
-      "source_language": "en",
-      "matched_companies": [
-        "Hyundai Motor",
-        "Kia"
-      ],
-      "matched_aliases": [
-        "Hyundai Motor",
-        "Hyundai",
-        "Kia"
-      ],
-      "is_new": true
-    },
-    {
-      "article_key": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-group-to-plug-15-5-billion-in-indias-automotive-sector/articleshow/134920115.cms",
-      "canonical_link": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-group-to-plug-15-5-billion-in-indias-automotive-sector/articleshow/134920115.cms",
-      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-group-to-plug-15-5-billion-in-indias-automotive-sector/articleshow/134920115.cms",
-      "title": "Hyundai Motor to plug $15.5 billion in India's automotive sector",
-      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Motor to plug $15.5 billion in India's automotive sector'이다. Hyundai Motor Group intends to invest $15. 5 billion in India between 2026 and 2032. This investment aims to position India as a key market for the company's growth and expansion. The discussions about this initiative occurred during a meeting with Prime Minister Narendra Modi Ji. Executive Chair Euisun Chung emphasized the importance of India for next-generation automotive innovation. 5 billion in India Hyundai Motor Group announced a $15 The automaker plans to expand manufacturing capacity across Hyundai Motor India Limited and Kia India to support volume growth while ensuring localization to meet India’s market demands “India remains one of Hyundai Motor Group’s most important and strategic markets globally Through this investment, we will create more employment opportunities and work together with our partners and stakeholders to support India’s continued industrial development,” said Euisun Chung, Executive Chair, Hyundai Motor Group Hyundai Motor Group currently has an annual production capacity of more than 1.",
-      "original_title": "Hyundai Motor to plug $15.5 billion in India's automotive sector",
-      "original_summary": "Hyundai Motor Group intends to invest $15.5 billion in India between 2026 and 2032. This investment aims to position India as a key market for the company's growth and expansion. The discussions about this initiative occurred during a meeting with Prime Minister Narendra Modi Ji. Executive Chair Euisun Chung emphasized the importance of India for next-generation automotive innovation.",
-      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Motor to plug $15.5 billion in India's automotive sector'이다. Hyundai Motor Group intends to invest $15. 5 billion in India between 2026 and 2032. This investment aims to position India as a key market for the company's growth and expansion. The discussions about this initiative occurred during a meeting with Prime Minister Narendra Modi Ji. Executive Chair Euisun Chung emphasized the importance of India for next-generation automotive innovation. 5 billion in India Hyundai Motor Group announced a $15 The automaker plans to expand manufacturing capacity across Hyundai Motor India Limited and Kia India to support volume growth while ensuring localization to meet India’s market demands “India remains one of Hyundai Motor Group’s most important and strategic markets globally Through this investment, we will create more employment opportunities and work together with our partners and stakeholders to support India’s continued industrial development,” said Euisun Chung, Executive Chair, Hyundai Motor Group Hyundai Motor Group currently has an annual production capacity of more than 1.",
-      "published_at": "2026-10-13T14:17:44+00:00",
+      "article_key": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-motor-group-to-invest-15-5-billion-in-india-in-seven-years/articleshow/134922635.cms",
+      "canonical_link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-motor-group-to-invest-15-5-billion-in-india-in-seven-years/articleshow/134922635.cms",
+      "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-motor-group-to-invest-15-5-billion-in-india-in-seven-years/articleshow/134922635.cms",
+      "title": "Hyundai Motor Group to invest $15.5 billion in India in seven years",
+      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Motor Group to invest $15.5 billion in India in seven years'이다. Hyundai Motor Group will invest $15. 5 billion in India by 2032 to expand manufacturing operations and R&D capabilities. This investment aims to strengthen the local automotive ecosystem while fostering partnerships with local suppliers. Additionally, the group will establish a dedicated investment entity in India to coordinate these efforts. The comprehensive investment is expected to create numerous job opportunities across various sectors. Through this investment, we will create more employment opportunities and work together with our partners and stakeholders to support India’s continued industrial development”, Euisun Chung, Executive Chair, Hyundai Motor Group said As part of the initiative to scale up its presence in the Indian market, HMG plans to expand manufacturing capacity across Hyundai Motor India and Kia India to support significant volume growth while ensuring localization to meet local market demands ” Hyundai additionally said it will strengthen local supply chain and support supplier development in India through strategic investments in regional partners You Might Also Like: India's festive car-buying joyride may hit price hike bump Hyundai Motor Group further said it aims to lead India's future mobility ecosystem through strategic investments in emerging opportunities Hyundai Motor Group said India is one of the world's fastest-growing automotive markets and “a critical platform” for its mid-to-long-term strategy.",
+      "original_title": "Hyundai Motor Group to invest $15.5 billion in India in seven years",
+      "original_summary": "Hyundai Motor Group will invest $15.5 billion in India by 2032 to expand manufacturing operations and R&D capabilities. This investment aims to strengthen the local automotive ecosystem while fostering partnerships with local suppliers. Additionally, the group will establish a dedicated investment entity in India to coordinate these efforts. The comprehensive investment is expected to create numerous job opportunities across various sectors.",
+      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Motor Group to invest $15.5 billion in India in seven years'이다. Hyundai Motor Group will invest $15. 5 billion in India by 2032 to expand manufacturing operations and R&D capabilities. This investment aims to strengthen the local automotive ecosystem while fostering partnerships with local suppliers. Additionally, the group will establish a dedicated investment entity in India to coordinate these efforts. The comprehensive investment is expected to create numerous job opportunities across various sectors. Through this investment, we will create more employment opportunities and work together with our partners and stakeholders to support India’s continued industrial development”, Euisun Chung, Executive Chair, Hyundai Motor Group said As part of the initiative to scale up its presence in the Indian market, HMG plans to expand manufacturing capacity across Hyundai Motor India and Kia India to support significant volume growth while ensuring localization to meet local market demands ” Hyundai additionally said it will strengthen local supply chain and support supplier development in India through strategic investments in regional partners You Might Also Like: India's festive car-buying joyride may hit price hike bump Hyundai Motor Group further said it aims to lead India's future mobility ecosystem through strategic investments in emerging opportunities Hyundai Motor Group said India is one of the world's fastest-growing automotive markets and “a critical platform” for its mid-to-long-term strategy.",
+      "published_at": "2026-10-13T16:44:48+00:00",
       "source_id": "economic_times_industry",
       "source_name": "The Economic Times Industry",
       "country_code": "IN",
@@ -80,101 +54,6 @@
         "Hyundai"
       ],
       "is_new": true
-    },
-    {
-      "article_key": "https://www.thehindubusinessline.com/companies/hyundai-bets-on-talegaon-as-export-hub-capacity-expansion-fuels-growth-ambitions/article71576820.ece",
-      "canonical_link": "https://www.thehindubusinessline.com/companies/hyundai-bets-on-talegaon-as-export-hub-capacity-expansion-fuels-growth-ambitions/article71576820.ece",
-      "link": "https://www.thehindubusinessline.com/companies/hyundai-bets-on-talegaon-as-export-hub-capacity-expansion-fuels-growth-ambitions/article71576820.ece",
-      "title": "Hyundai bets on Talegaon as export hub, capacity expansion fuels growth ambitions",
-      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai bets on Talegaon as export hub, capacity expansion fuels growth ambitions'이다. The additional capacity comes at a crucial time for HMIL, which has faced rising competition and production constraints in recent years. ece Hyundai Motor India’s (HMIL) Talegaon expansion is central to its ₹45,000 crore investment roadmap, which includes 26 product launches by FY2030 | Photo Credit: AMIT DAVE Hyundai Motor India’s (HMIL) Talegaon expansion is central to its ₹45,000 crore investment roadmap, which includes 26 product launches by FY2030 and a target of exporting about 30 per cent of vehicles produced in India Hyundai plans to export the model to around 35 markets, compared with 28 for the outgoing generation Motilal Oswal expects Hyundai’s volumes to grow about 9 per cent annually between FY2026 and FY2028, driven by new launches and a strong export order book, while exports could expand at around 12 per cent annually Hyundai plans to expand Talegaon’s capacity to 250,000 units by 2028 and 320,000 units by 2030, cementing India’s role as a key manufacturing and export hub within the group. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Hyundai bets on Talegaon as export hub, capacity expansion fuels growth ambitions",
-      "original_summary": "The additional capacity comes at a crucial time for HMIL, which has faced rising competition and production constraints in recent years",
-      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai bets on Talegaon as export hub, capacity expansion fuels growth ambitions'이다. The additional capacity comes at a crucial time for HMIL, which has faced rising competition and production constraints in recent years. ece Hyundai Motor India’s (HMIL) Talegaon expansion is central to its ₹45,000 crore investment roadmap, which includes 26 product launches by FY2030 | Photo Credit: AMIT DAVE Hyundai Motor India’s (HMIL) Talegaon expansion is central to its ₹45,000 crore investment roadmap, which includes 26 product launches by FY2030 and a target of exporting about 30 per cent of vehicles produced in India Hyundai plans to export the model to around 35 markets, compared with 28 for the outgoing generation Motilal Oswal expects Hyundai’s volumes to grow about 9 per cent annually between FY2026 and FY2028, driven by new launches and a strong export order book, while exports could expand at around 12 per cent annually Hyundai plans to expand Talegaon’s capacity to 250,000 units by 2028 and 320,000 units by 2030, cementing India’s role as a key manufacturing and export hub within the group. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-13T14:14:07+00:00",
-      "source_id": "businessline_companies",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "country_name_ko": "인도",
-      "source_language": "en",
-      "matched_companies": [
-        "Hyundai Motor"
-      ],
-      "matched_aliases": [
-        "Hyundai"
-      ],
-      "is_new": true
-    },
-    {
-      "article_key": "https://www.channelnewsasia.com/business/hyundai-motor-group-bets-155-billion-india-global-auto-hub-6456341",
-      "canonical_link": "https://www.channelnewsasia.com/business/hyundai-motor-group-bets-155-billion-india-global-auto-hub-6456341",
-      "link": "https://www.channelnewsasia.com/business/hyundai-motor-group-bets-155-billion-india-global-auto-hub-6456341",
-      "title": "Hyundai Motor Group bets $15.5 billion on India as global auto hub",
-      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Motor Group bets $15.5 billion on India as global auto hub'이다. Channel NewsAsia is an English-language news organization based in Singapore. Oct 13 : Hyundai Motor Group said on Tuesday it would invest $15. 5 billion in India through 2032, deepening its bet on the world's third-largest car market as a key driver of future growth. The South Korean automaker's seven-year plan includes about $700 million of investment in its Indian research and devel. Click here to return to FAST Tap here to return to FAST FAST Oct 13 : Hyundai Motor Group said on Tuesday it would invest $15 Hyundai said last year it would invest $5 billion to expand its manufacturing and research operations in India Hyundai Motor, which employs more than 24,000 people in India, said the investment would create additional jobs across manufacturing, research, engineering and supply chains, but did not disclose a number The firm said the investment plan, covering 2026 to 2032, would expand manufacturing capacity at Hyundai Motor India and Kia India to support significant volume growth 4 million vehicles in India, comprising 824,000 units at Hyundai's Chennai facilities, 170,000 units at its Pune plant and 431,000 units at Kia's Anantapur facility. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Hyundai Motor Group bets $15.5 billion on India as global auto hub",
-      "original_summary": "",
-      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Motor Group bets $15.5 billion on India as global auto hub'이다. Channel NewsAsia is an English-language news organization based in Singapore. Oct 13 : Hyundai Motor Group said on Tuesday it would invest $15. 5 billion in India through 2032, deepening its bet on the world's third-largest car market as a key driver of future growth. The South Korean automaker's seven-year plan includes about $700 million of investment in its Indian research and devel. Click here to return to FAST Tap here to return to FAST FAST Oct 13 : Hyundai Motor Group said on Tuesday it would invest $15 Hyundai said last year it would invest $5 billion to expand its manufacturing and research operations in India Hyundai Motor, which employs more than 24,000 people in India, said the investment would create additional jobs across manufacturing, research, engineering and supply chains, but did not disclose a number The firm said the investment plan, covering 2026 to 2032, would expand manufacturing capacity at Hyundai Motor India and Kia India to support significant volume growth 4 million vehicles in India, comprising 824,000 units at Hyundai's Chennai facilities, 170,000 units at its Pune plant and 431,000 units at Kia's Anantapur facility. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-13T14:08:48+00:00",
-      "source_id": "cna_business",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "country_name_ko": "싱가포르",
-      "source_language": "en",
-      "matched_companies": [
-        "Hyundai Motor"
-      ],
-      "matched_aliases": [
-        "Hyundai Motor",
-        "Hyundai"
-      ],
-      "is_new": true
-    },
-    {
-      "article_key": "https://www.thehindubusinessline.com/companies/volvo-launches-126-crore-ex90-undercuts-kia-and-mercedes-as-bmw-surge-ahead/article71576872.ece",
-      "canonical_link": "https://www.thehindubusinessline.com/companies/volvo-launches-126-crore-ex90-undercuts-kia-and-mercedes-as-bmw-surge-ahead/article71576872.ece",
-      "link": "https://www.thehindubusinessline.com/companies/volvo-launches-126-crore-ex90-undercuts-kia-and-mercedes-as-bmw-surge-ahead/article71576872.ece",
-      "title": "Volvo launches ₹1.26 crore EX90, undercuts Kia and Mercedes as BMW surge ahead",
-      "summary": "Kia 관련 기사다. 기사 제목은 'Volvo launches ₹1.26 crore EX90, undercuts Kia and Mercedes as BMW surge ahead'이다. Volvo is betting on aggressive pricing to regain lost ground in India’s luxury EV market, where BMW and Mercedes-Benz remain formidable rivals, but delayed deliveries and shrinking market share threaten to slow its comeback. com/companies/volvo-launches-126-crore-ex90-undercuts-kia-and-mercedes-as-bmw-surge-ahead/article71576872 26 crore, undercutting the Kia EV9 GT-Line, priced at ₹1 Price and performance The six-seat EX90 comes with a 106 kWh battery and 456 PS of power, compared with the Kia EV9 GT-Line’s 99 Volvo claims a 10–80 per cent DC charging time of 22 minutes, against the Kia’s 24 minutes The Kia is marginally quicker from 0–100 km/h, taking 5. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Volvo launches ₹1.26 crore EX90, undercuts Kia and Mercedes as BMW surge ahead",
-      "original_summary": "Volvo is betting on aggressive pricing to regain lost ground in India’s luxury EV market, where BMW and Mercedes-Benz remain formidable rivals, but delayed deliveries and shrinking market share threaten to slow its comeback.",
-      "company_summary": "Kia 관련 기사다. 기사 제목은 'Volvo launches ₹1.26 crore EX90, undercuts Kia and Mercedes as BMW surge ahead'이다. Volvo is betting on aggressive pricing to regain lost ground in India’s luxury EV market, where BMW and Mercedes-Benz remain formidable rivals, but delayed deliveries and shrinking market share threaten to slow its comeback. com/companies/volvo-launches-126-crore-ex90-undercuts-kia-and-mercedes-as-bmw-surge-ahead/article71576872 26 crore, undercutting the Kia EV9 GT-Line, priced at ₹1 Price and performance The six-seat EX90 comes with a 106 kWh battery and 456 PS of power, compared with the Kia EV9 GT-Line’s 99 Volvo claims a 10–80 per cent DC charging time of 22 minutes, against the Kia’s 24 minutes The Kia is marginally quicker from 0–100 km/h, taking 5. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-13T10:35:43+00:00",
-      "source_id": "businessline_companies",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "country_name_ko": "인도",
-      "source_language": "en",
-      "matched_companies": [
-        "Kia"
-      ],
-      "matched_aliases": [
-        "Kia"
-      ],
-      "is_new": true
-    },
-    {
-      "article_key": "https://www.scmp.com/tech/tech-trends/article/3370739/why-samsung-sk-hynix-and-cxmt-shares-are-under-pressure-despite-strong-ai-demand",
-      "canonical_link": "https://www.scmp.com/tech/tech-trends/article/3370739/why-samsung-sk-hynix-and-cxmt-shares-are-under-pressure-despite-strong-ai-demand",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3370739/why-samsung-sk-hynix-and-cxmt-shares-are-under-pressure-despite-strong-ai-demand?utm_source=rss_feed",
-      "title": "Why Samsung, SK Hynix and CXMT shares are under pressure despite strong AI demand",
-      "summary": "Samsung Electronics, SK hynix 관련 기사다. 기사 제목은 'Why Samsung, SK Hynix and CXMT shares are under pressure despite strong AI demand'이다. A sharp sell-off in Asian memory chip stocks this week signals growing investor doubts over whether the sector’s AI-driven profit boom can last, even as soaring prices drive strong quarterly earnings across the sector. Shares in market leaders Samsung Electronics and SK Hynix plunged in Seoul on Tuesday, extending a days-long slide that has also swept up Chinese rival ChangXin Memory Technologies (CXMT). Samsung and SK Hynix closed down 7. 4 per cent and 10. 1 per cent, respectively. The companies.",
-      "original_title": "Why Samsung, SK Hynix and CXMT shares are under pressure despite strong AI demand",
-      "original_summary": "A sharp sell-off in Asian memory chip stocks this week signals growing investor doubts over whether the sector’s AI-driven profit boom can last, even as soaring prices drive strong quarterly earnings across the sector. Shares in market leaders Samsung Electronics and SK Hynix plunged in Seoul on Tuesday, extending a days-long slide that has also swept up Chinese rival ChangXin Memory Technologies (CXMT). Samsung and SK Hynix closed down 7.4 per cent and 10.1 per cent, respectively. The companies...",
-      "company_summary": "Samsung Electronics, SK hynix 관련 기사다. 기사 제목은 'Why Samsung, SK Hynix and CXMT shares are under pressure despite strong AI demand'이다. A sharp sell-off in Asian memory chip stocks this week signals growing investor doubts over whether the sector’s AI-driven profit boom can last, even as soaring prices drive strong quarterly earnings across the sector. Shares in market leaders Samsung Electronics and SK Hynix plunged in Seoul on Tuesday, extending a days-long slide that has also swept up Chinese rival ChangXin Memory Technologies (CXMT). Samsung and SK Hynix closed down 7. 4 per cent and 10. 1 per cent, respectively. The companies.",
-      "published_at": "2026-10-13T10:30:05+00:00",
-      "source_id": "scmp_world",
-      "source_name": "South China Morning Post World",
-      "country_code": "HK",
-      "country_name_ko": "홍콩",
-      "source_language": "en",
-      "matched_companies": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "matched_aliases": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "is_new": true
     }
   ],
   "matched_articles": [
@@ -183,11 +62,11 @@
       "canonical_link": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1",
       "link": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1",
       "title": "Chip stocks slide after Broadcom boss warns of ‘casino’ mentality in AI investing",
-      "summary": "SK hynix 관련 기사다. 기사 제목은 'Chip stocks slide after Broadcom boss warns of ‘casino’ mentality in AI investing'이다. Declines for Samsung and SK Hynix drag Kospi sharply lower as investors fret over scale of AI investment. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다. 가능한 경우 본문에서 회사 언급 전후 문맥을 함께 반영했다.",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'Chip stocks slide after Broadcom boss warns of ‘casino’ mentality in AI investing'이다. Declines for Samsung and SK Hynix drag Korea’s Kospi sharply lower as investors fret over the scale of AI investment. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다. 가능한 경우 본문에서 회사 언급 전후 문맥을 함께 반영했다.",
       "original_title": "Chip stocks slide after Broadcom boss warns of ‘casino’ mentality in AI investing",
-      "original_summary": "Declines for Samsung and SK Hynix drag Kospi sharply lower as investors fret over scale of AI investment",
-      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'Chip stocks slide after Broadcom boss warns of ‘casino’ mentality in AI investing'이다. Declines for Samsung and SK Hynix drag Kospi sharply lower as investors fret over scale of AI investment. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다. 가능한 경우 본문에서 회사 언급 전후 문맥을 함께 반영했다.",
-      "published_at": "2026-10-13T16:22:55+00:00",
+      "original_summary": "Declines for Samsung and SK Hynix drag Korea’s Kospi sharply lower as investors fret over the scale of AI investment",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'Chip stocks slide after Broadcom boss warns of ‘casino’ mentality in AI investing'이다. Declines for Samsung and SK Hynix drag Korea’s Kospi sharply lower as investors fret over the scale of AI investment. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다. 가능한 경우 본문에서 회사 언급 전후 문맥을 함께 반영했다.",
+      "published_at": "2026-10-13T20:28:15+00:00",
       "source_id": "ft_companies",
       "source_name": "Financial Times Companies",
       "country_code": "GB",
@@ -202,25 +81,49 @@
       "is_new": false
     },
     {
-      "article_key": "https://www.theverge.com/tech/1009899/apple-home-collection-hands-on",
-      "canonical_link": "https://www.theverge.com/tech/1009899/apple-home-collection-hands-on",
-      "link": "https://www.theverge.com/tech/1009899/apple-home-collection-hands-on",
-      "title": "Hands-on with the Apple Home Collection",
-      "summary": "LG Electronics 관련 기사다. 기사 제목은 'Hands-on with the Apple Home Collection'이다. We've just gotten a closer look at Apple's new video doorbell, security cameras, a door lock, and thermostats following the company's \"Welcome Home\" event on Tuesday. The six new devices are part of a new Apple Home Collection, which the company co-developed with LG Electronics and Schneider Electric. The LG smart lock costs $349 and […]. A first look at Apple’s new video doorbell, security cameras, thermostats, and more by Jennifer Pattison Tuohy and Emma Roth Oct 13, 2026, 4:11 PM UTC Part Of All the news from Apple’s ‘Welcome Home’ event see all updates We’ve just gotten a closer look at Apple’s new video doorbell, security cameras, a door lock, and thermostats following the company’s “Welcome Home” event on Tuesday The six new devices are part of a new Apple Home Collection , which the company co-developed with LG Electronics and Schneider Electric The LG smart lock costs $349 and comes with support for Apple Home Key, allowing you to unlock your door hands-free with UWB You can unlock the door with a PIN code, too, or by using the physical keyhole beneath the keypad. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Hands-on with the Apple Home Collection",
-      "original_summary": "We've just gotten a closer look at Apple's new video doorbell, security cameras, a door lock, and thermostats following the company's \"Welcome Home\" event on Tuesday. The six new devices are part of a new Apple Home Collection, which the company co-developed with LG Electronics and Schneider Electric. The LG smart lock costs $349 and […]",
-      "company_summary": "LG Electronics 관련 기사다. 기사 제목은 'Hands-on with the Apple Home Collection'이다. We've just gotten a closer look at Apple's new video doorbell, security cameras, a door lock, and thermostats following the company's \"Welcome Home\" event on Tuesday. The six new devices are part of a new Apple Home Collection, which the company co-developed with LG Electronics and Schneider Electric. The LG smart lock costs $349 and […]. A first look at Apple’s new video doorbell, security cameras, thermostats, and more by Jennifer Pattison Tuohy and Emma Roth Oct 13, 2026, 4:11 PM UTC Part Of All the news from Apple’s ‘Welcome Home’ event see all updates We’ve just gotten a closer look at Apple’s new video doorbell, security cameras, a door lock, and thermostats following the company’s “Welcome Home” event on Tuesday The six new devices are part of a new Apple Home Collection , which the company co-developed with LG Electronics and Schneider Electric The LG smart lock costs $349 and comes with support for Apple Home Key, allowing you to unlock your door hands-free with UWB You can unlock the door with a PIN code, too, or by using the physical keyhole beneath the keypad. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-13T16:11:00+00:00",
-      "source_id": "theverge",
-      "source_name": "The Verge",
-      "country_code": "US",
-      "country_name_ko": "미국",
+      "article_key": "https://asia.nikkei.com/business/automobiles/hyundai-to-invest-15.5bn-in-indian-manufacturing-r-d",
+      "canonical_link": "https://asia.nikkei.com/business/automobiles/hyundai-to-invest-15.5bn-in-indian-manufacturing-r-d",
+      "link": "https://asia.nikkei.com/business/automobiles/hyundai-to-invest-15.5bn-in-indian-manufacturing-r-d",
+      "title": "Hyundai to invest $15.5bn in Indian manufacturing, R&D",
+      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai to invest $15.5bn in Indian manufacturing, R&D'이다. BENGALURU -- Hyundai Motor will invest $15. 5 billion in India through 2032 to expand manufacturing, R&amp;D and other areas, the South Korean automake. Country's once-No. 2 automaker looks to regain momentum as competition intensifies. Automobiles Hyundai to invest $15 5bn in Indian manufacturing, R&D Country's once-No 2 automaker looks to regain momentum as competition intensifies Hyundai Motor will invest to expand manufacturing capacity in India, looking to boost exports to other emerging markets 5 billion in India through 2032 to expand manufacturing, R&D and other areas, the South Korean automaker said Tuesday, as intensifying competition erodes its share in the world's third-largest car market 5bn Business deals Volkswagen targets India growth with JSW Group joint venture plan Automobiles Hybrids drive end of gasoline's dominance in India amid ethanol backlash Automobiles Global carmakers replicate China strategy to gain foothold in India Electric vehicles Iran war drives Asia EV boost but China slowdown weighs on overall sales Latest on Automobiles Automobiles Japan automakers highlight multi-power source plan as Chinese focus on EVs Automobiles European, Chinese automakers launch product blitz at Paris car show Automobiles China's peak-season auto sales flop with sharpest monthly drop of year. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Hyundai to invest $15.5bn in Indian manufacturing, R&D",
+      "original_summary": "",
+      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai to invest $15.5bn in Indian manufacturing, R&D'이다. BENGALURU -- Hyundai Motor will invest $15. 5 billion in India through 2032 to expand manufacturing, R&amp;D and other areas, the South Korean automake. Country's once-No. 2 automaker looks to regain momentum as competition intensifies. Automobiles Hyundai to invest $15 5bn in Indian manufacturing, R&D Country's once-No 2 automaker looks to regain momentum as competition intensifies Hyundai Motor will invest to expand manufacturing capacity in India, looking to boost exports to other emerging markets 5 billion in India through 2032 to expand manufacturing, R&D and other areas, the South Korean automaker said Tuesday, as intensifying competition erodes its share in the world's third-largest car market 5bn Business deals Volkswagen targets India growth with JSW Group joint venture plan Automobiles Hybrids drive end of gasoline's dominance in India amid ethanol backlash Automobiles Global carmakers replicate China strategy to gain foothold in India Electric vehicles Iran war drives Asia EV boost but China slowdown weighs on overall sales Latest on Automobiles Automobiles Japan automakers highlight multi-power source plan as Chinese focus on EVs Automobiles European, Chinese automakers launch product blitz at Paris car show Automobiles China's peak-season auto sales flop with sharpest monthly drop of year. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-13T18:15:18+00:00",
+      "source_id": "nikkei_asia",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "country_name_ko": "일본",
       "source_language": "en",
       "matched_companies": [
-        "LG Electronics"
+        "Hyundai Motor"
       ],
       "matched_aliases": [
-        "LG Electronics"
+        "Hyundai"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-motor-group-to-invest-15-5-billion-in-india-in-seven-years/articleshow/134922635.cms",
+      "canonical_link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-motor-group-to-invest-15-5-billion-in-india-in-seven-years/articleshow/134922635.cms",
+      "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-motor-group-to-invest-15-5-billion-in-india-in-seven-years/articleshow/134922635.cms",
+      "title": "Hyundai Motor Group to invest $15.5 billion in India in seven years",
+      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Motor Group to invest $15.5 billion in India in seven years'이다. Hyundai Motor Group will invest $15. 5 billion in India by 2032 to expand manufacturing operations and R&D capabilities. This investment aims to strengthen the local automotive ecosystem while fostering partnerships with local suppliers. Additionally, the group will establish a dedicated investment entity in India to coordinate these efforts. The comprehensive investment is expected to create numerous job opportunities across various sectors. Through this investment, we will create more employment opportunities and work together with our partners and stakeholders to support India’s continued industrial development”, Euisun Chung, Executive Chair, Hyundai Motor Group said As part of the initiative to scale up its presence in the Indian market, HMG plans to expand manufacturing capacity across Hyundai Motor India and Kia India to support significant volume growth while ensuring localization to meet local market demands ” Hyundai additionally said it will strengthen local supply chain and support supplier development in India through strategic investments in regional partners You Might Also Like: India's festive car-buying joyride may hit price hike bump Hyundai Motor Group further said it aims to lead India's future mobility ecosystem through strategic investments in emerging opportunities Hyundai Motor Group said India is one of the world's fastest-growing automotive markets and “a critical platform” for its mid-to-long-term strategy.",
+      "original_title": "Hyundai Motor Group to invest $15.5 billion in India in seven years",
+      "original_summary": "Hyundai Motor Group will invest $15.5 billion in India by 2032 to expand manufacturing operations and R&D capabilities. This investment aims to strengthen the local automotive ecosystem while fostering partnerships with local suppliers. Additionally, the group will establish a dedicated investment entity in India to coordinate these efforts. The comprehensive investment is expected to create numerous job opportunities across various sectors.",
+      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Motor Group to invest $15.5 billion in India in seven years'이다. Hyundai Motor Group will invest $15. 5 billion in India by 2032 to expand manufacturing operations and R&D capabilities. This investment aims to strengthen the local automotive ecosystem while fostering partnerships with local suppliers. Additionally, the group will establish a dedicated investment entity in India to coordinate these efforts. The comprehensive investment is expected to create numerous job opportunities across various sectors. Through this investment, we will create more employment opportunities and work together with our partners and stakeholders to support India’s continued industrial development”, Euisun Chung, Executive Chair, Hyundai Motor Group said As part of the initiative to scale up its presence in the Indian market, HMG plans to expand manufacturing capacity across Hyundai Motor India and Kia India to support significant volume growth while ensuring localization to meet local market demands ” Hyundai additionally said it will strengthen local supply chain and support supplier development in India through strategic investments in regional partners You Might Also Like: India's festive car-buying joyride may hit price hike bump Hyundai Motor Group further said it aims to lead India's future mobility ecosystem through strategic investments in emerging opportunities Hyundai Motor Group said India is one of the world's fastest-growing automotive markets and “a critical platform” for its mid-to-long-term strategy.",
+      "published_at": "2026-10-13T16:44:48+00:00",
+      "source_id": "economic_times_industry",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "country_name_ko": "인도",
+      "source_language": "en",
+      "matched_companies": [
+        "Hyundai Motor"
+      ],
+      "matched_aliases": [
+        "Hyundai Motor",
+        "Hyundai"
       ],
       "is_new": true
     },
@@ -248,7 +151,7 @@
         "Hyundai",
         "Kia"
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "article_key": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-group-to-plug-15-5-billion-in-indias-automotive-sector/articleshow/134920115.cms",
@@ -272,7 +175,7 @@
         "Hyundai Motor",
         "Hyundai"
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "article_key": "https://www.thehindubusinessline.com/companies/hyundai-bets-on-talegaon-as-export-hub-capacity-expansion-fuels-growth-ambitions/article71576820.ece",
@@ -295,31 +198,7 @@
       "matched_aliases": [
         "Hyundai"
       ],
-      "is_new": true
-    },
-    {
-      "article_key": "https://www.channelnewsasia.com/business/hyundai-motor-group-bets-155-billion-india-global-auto-hub-6456341",
-      "canonical_link": "https://www.channelnewsasia.com/business/hyundai-motor-group-bets-155-billion-india-global-auto-hub-6456341",
-      "link": "https://www.channelnewsasia.com/business/hyundai-motor-group-bets-155-billion-india-global-auto-hub-6456341",
-      "title": "Hyundai Motor Group bets $15.5 billion on India as global auto hub",
-      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Motor Group bets $15.5 billion on India as global auto hub'이다. Channel NewsAsia is an English-language news organization based in Singapore. Oct 13 : Hyundai Motor Group said on Tuesday it would invest $15. 5 billion in India through 2032, deepening its bet on the world's third-largest car market as a key driver of future growth. The South Korean automaker's seven-year plan includes about $700 million of investment in its Indian research and devel. Click here to return to FAST Tap here to return to FAST FAST Oct 13 : Hyundai Motor Group said on Tuesday it would invest $15 Hyundai said last year it would invest $5 billion to expand its manufacturing and research operations in India Hyundai Motor, which employs more than 24,000 people in India, said the investment would create additional jobs across manufacturing, research, engineering and supply chains, but did not disclose a number The firm said the investment plan, covering 2026 to 2032, would expand manufacturing capacity at Hyundai Motor India and Kia India to support significant volume growth 4 million vehicles in India, comprising 824,000 units at Hyundai's Chennai facilities, 170,000 units at its Pune plant and 431,000 units at Kia's Anantapur facility. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Hyundai Motor Group bets $15.5 billion on India as global auto hub",
-      "original_summary": "",
-      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Motor Group bets $15.5 billion on India as global auto hub'이다. Channel NewsAsia is an English-language news organization based in Singapore. Oct 13 : Hyundai Motor Group said on Tuesday it would invest $15. 5 billion in India through 2032, deepening its bet on the world's third-largest car market as a key driver of future growth. The South Korean automaker's seven-year plan includes about $700 million of investment in its Indian research and devel. Click here to return to FAST Tap here to return to FAST FAST Oct 13 : Hyundai Motor Group said on Tuesday it would invest $15 Hyundai said last year it would invest $5 billion to expand its manufacturing and research operations in India Hyundai Motor, which employs more than 24,000 people in India, said the investment would create additional jobs across manufacturing, research, engineering and supply chains, but did not disclose a number The firm said the investment plan, covering 2026 to 2032, would expand manufacturing capacity at Hyundai Motor India and Kia India to support significant volume growth 4 million vehicles in India, comprising 824,000 units at Hyundai's Chennai facilities, 170,000 units at its Pune plant and 431,000 units at Kia's Anantapur facility. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-13T14:08:48+00:00",
-      "source_id": "cna_business",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "country_name_ko": "싱가포르",
-      "source_language": "en",
-      "matched_companies": [
-        "Hyundai Motor"
-      ],
-      "matched_aliases": [
-        "Hyundai Motor",
-        "Hyundai"
-      ],
-      "is_new": true
+      "is_new": false
     },
     {
       "article_key": "https://www.thehindubusinessline.com/companies/volvo-launches-126-crore-ex90-undercuts-kia-and-mercedes-as-bmw-surge-ahead/article71576872.ece",
@@ -342,7 +221,7 @@
       "matched_aliases": [
         "Kia"
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "article_key": "https://www.scmp.com/tech/tech-trends/article/3370739/why-samsung-sk-hynix-and-cxmt-shares-are-under-pressure-despite-strong-ai-demand",
@@ -367,7 +246,7 @@
         "Samsung Electronics",
         "SK hynix"
       ],
-      "is_new": true
+      "is_new": false
     }
   ],
   "source_runs": [
@@ -449,7 +328,7 @@
       "country_code": "US",
       "success": true,
       "item_count": 10,
-      "matched_count": 1,
+      "matched_count": 0,
       "error": ""
     },
     {
@@ -485,7 +364,7 @@
       "country_code": "JP",
       "success": true,
       "item_count": 50,
-      "matched_count": 0,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -583,7 +462,7 @@
       "source_name": "Deutsche Welle World",
       "country_code": "DE",
       "success": true,
-      "item_count": 12,
+      "item_count": 13,
       "matched_count": 0,
       "error": ""
     },
@@ -601,7 +480,7 @@
       "source_name": "tagesschau Wirtschaft",
       "country_code": "DE",
       "success": true,
-      "item_count": 27,
+      "item_count": 28,
       "matched_count": 0,
       "error": ""
     },
@@ -628,7 +507,7 @@
       "source_name": "BBC Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 43,
+      "item_count": 47,
       "matched_count": 0,
       "error": ""
     },
@@ -637,7 +516,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 25,
+      "item_count": 23,
       "matched_count": 0,
       "error": ""
     },
@@ -863,7 +742,7 @@
       "country_code": "IN",
       "success": true,
       "item_count": 50,
-      "matched_count": 1,
+      "matched_count": 2,
       "error": ""
     },
     {
@@ -899,7 +778,7 @@
       "country_code": "SG",
       "success": true,
       "item_count": 20,
-      "matched_count": 1,
+      "matched_count": 0,
       "error": ""
     },
     {
@@ -925,7 +804,7 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 39,
+      "item_count": 41,
       "matched_count": 0,
       "error": ""
     },
