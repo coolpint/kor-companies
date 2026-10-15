@@ -1,53 +1,43 @@
 # 해외 언론 한국 기업 모니터링
 
-- 실행 시각: 2026-10-14 23:24:26 KST
+- 실행 시각: 2026-10-15 10:17:56 KST
 - 활성 소스: 73개
 - 정상 수집: 70개
 - 실패 소스: 3개
-- 매칭 기사: 9건
-- 신규 기사: 4건
+- 매칭 기사: 8건
+- 신규 기사: 3건
 
 ## 신규 기사
 
-### Hyundai Motor India to invest $1.16 billion to expand capacity at Pune city plant
+### SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount
 
-- 회사: Hyundai Motor
-- 국가/매체: 싱가포르 / CNA Business
-- 발행 시각: 2026-10-14 21:28 KST
-- 링크: https://www.channelnewsasia.com/business/hyundai-motor-india-invest-116-billion-expand-capacity-pune-city-plant-6459021
-- 매칭 별칭: Hyundai Motor, Hyundai
-- 원문 제목: Hyundai Motor India to invest $1.16 billion to expand capacity at Pune city plant
-- 요약: Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Motor India to invest $1.16 billion to expand capacity at Pune city plant'이다. Channel NewsAsia is an English-language news organization based in Singapore. Oct 14 : Hyundai Motor India plans to invest 110 billion rupees ($1. 16 billion) in its Pune city plant to scale up the facility's annual production capacity by nearly 90 per cent by 2030, the automaker said on Wednesday. The move comes a day after parent Hyundai Motor Group said it would invest $15. 5 billion. 16 billion to expand capacity at Pune city plant The Logo of Hyundai Motor India Limited is seen on a parked car in the company's stockyard, in the outskirts of Ahmedabad, India, October 8, 2024 Click here to return to FAST Tap here to return to FAST FAST Oct 14 : Hyundai Motor India plans to invest 110 billion rupees ($1 The move comes a day after parent Hyundai Motor Group said it would invest $15 Here are some details: CNA Games Guess Word Crack the word, one row at a time Buzzword Create words using the given letters Mini Sudoku Tiny puzzle, mighty brain teaser Mini Crossword Small grid, big challenge Word Search Spot as many words as you can Show More Show Less • Hyundai said it plans to increase annual vehicle production capacity at the plant, based in the western state of Maharashtra, to 320,000 units from 170,000 units currently • By 2030, new capacity at the Pune plant,…
+- 회사: SK hynix
+- 국가/매체: 미국 / CNBC Top News
+- 발행 시각: 2026-10-15 10:07 KST
+- 링크: https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html
+- 매칭 별칭: SK hynix
+- 원문 제목: SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount
+- 요약: SK hynix 관련 기사다. 기사 제목은 'SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount'이다. A sell-off in global technology hardware stocks deepened Thursday. The declines came as investors grew increasingly concerned that higher borrowing costs could weigh on the massive capital spending In this article SKHY SK Hynix Inc signage at the company's office in Seongnam, South Korea, on Tuesday, June 30, 2026 South Korean chip giant SK Hynix plunged over 10%, while rival Samsung Electronics fell 7 Other South Korean chip-related stocks also came under pressure LG Innotek sank 8. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.
 
-### Hyundai Motor India to invest Rs 11,000 crore at Pune plant
+### Hyundai bets on expansion; hopes to return to No 2 position in PV sales by 2028-29
 
 - 회사: Hyundai Motor
 - 국가/매체: 인도 / The Economic Times Industry
-- 발행 시각: 2026-10-14 20:54 KST
-- 링크: https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-india-to-invest-rs-11000-crore-at-pune-plant/articleshow/134941989.cms
+- 발행 시각: 2026-10-15 03:50 KST
+- 링크: https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-bets-on-expansion-hopes-to-return-to-no-2-position-in-pv-sales-by-2028-29-says-ceo-jose-munoz/articleshow/134949878.cms
 - 매칭 별칭: Hyundai Motor, Hyundai
-- 원문 제목: Hyundai Motor India to invest Rs 11,000 crore at Pune plant
-- 요약: Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Motor India to invest Rs 11,000 crore at Pune plant'이다. Hyundai Motor India announced plans to invest Rs 11,000 crore at its Pune facility in phases. This investment aims to expand manufacturing capacity and enhance industrial development in the region. The Pune plant currently has an annual capacity of 170,000 units, which will increase to 320,000 by 2030. This investment follows Hyundai's earlier commitment of $15. 5 billion for a comprehensive strategy over seven years. Also read: Hyundai Motor to plug $15 Live Events "India remains one of Hyundai's most important and strategic markets globally HMIL’s milestone of 4 million cumulative vehicle exports demonstrates the global competitiveness of Indian manufacturing and highlights India's growing role within Hyundai Motor Group's worldwide operations," Euisun Chung, Executive Chair of Hyundai Motor Group said as the automaker marked cumulative exports of 4 million passenger vehicles from India since 1999 Combined with Chennai operations, Hyundai India's total manufacturing capacity will reach nearly 1 Shres of Hyundai Motor India Limited closed almost flat at Rs 1,967 per scrip on Wednesday.
+- 원문 제목: Hyundai bets on expansion; hopes to return to No 2 position in PV sales by 2028-29
+- 요약: Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai bets on expansion; hopes to return to No 2 position in PV sales by 2028-29'이다. Hyundai Motor India plans to expand its Talegaon plant to increase production capacity for the domestic market. The company aims to enhance its market share to reclaim the No. 2 position by 2028-29. With an investment of ₹7,000 crore in Maharashtra, Hyundai is focusing on localization and creating new job opportunities. Furthermore, plans to launch 26 new models are expected to strengthen Hyundai's product portfolio. Furthermore, plans to launch 26 new models are expected to strengthen Hyundai's product portfolio "What our colleague Tarun Garg (managing director and CEO of Hyundai Motor India) wants is more cars " Also read: Toyota to add annual capacity of 100,000 units at Karnataka plant from early 2027 ET Bureau Hyundai bets on expansion to move up leaderboard in India India is the world's second largest market by volume for Hyundai, after the US, said Munoz Live Events Also read: Hyundai Motor India to invest Rs 11,000 crore at Pune plant The Talegaon facility has an installed annual capacity of 170,000 cars, which will be expanded in phases to 320,000 by 2030 Hyundai Motor Group on Tuesday announced plans to invest $15.
 
-### Nexon Geochem to set up ₹1,250-crore rare-earth permanent magnet facility in Andhra Pradesh
-
-- 회사: Nexon
-- 국가/매체: 인도 / BusinessLine Companies
-- 발행 시각: 2026-10-14 18:11 KST
-- 링크: https://www.thehindubusinessline.com/companies/nexon-geochem-to-set-up-1250-crore-rare-earth-permanent-magnet-facility-in-andhra-pradesh/article71582826.ece
-- 매칭 별칭: Nexon
-- 원문 제목: Nexon Geochem to set up ₹1,250-crore rare-earth permanent magnet facility in Andhra Pradesh
-- 요약: Nexon 관련 기사다. 기사 제목은 'Nexon Geochem to set up ₹1,250-crore rare-earth permanent magnet facility in Andhra Pradesh'이다. The facility would feature annual production capacity of 600 tonnes of high-grade permanent magnets, serving the rapidly growing electric vehicle (EV), renewable energy and advanced manufacturing sectors. com/companies/nexon-geochem-to-set-up-1250-crore-rare-earth-permanent-magnet-facility-in-andhra-pradesh/article71582826 ece Rare-earth magnet (Image for representation) Advanced materials company Nexon Geochem on Wednesday said a rare-earth permanent magnet facility will be set up in Andhra Pradesh with an investment of ₹1,250 crore As the driving force and primary investor behind this project, Nexon Geochem is committing a total investment of ₹1,250 crore across two strategic phases — ₹750 crore dedicated to the first phase and ₹500 crore allocated for the second phase “Nexon Geochem today announced the signing of a landmark Memorandum of Understanding (MoU) with the Andhra Pradesh Economic Development Board to establish an integrated sintered NdFeB rare-earth permanent magnet manufacturing facility in Thondangi, Kakinada district,” the statement said “Our vision is to establish an integrated NdFeB magnet manufacturing ecosystem that strengthens supply-chain security, reduces import dependence, and supports India’s ambitions in electric mobility, renewable en…
-
-### South Korean carmaker Hyundai plans 'strategic' investment of $15.5 billion in India by 2032
+### Hyundai eyes number 2 spot again with Pune expansion, capacity boost and new models
 
 - 회사: Hyundai Motor
-- 국가/매체: 미국 / CNBC Top News
-- 발행 시각: 2026-10-14 11:04 KST
-- 링크: https://www.cnbc.com/2026/10/14/korea-india-hyundai-cars-investment.html
+- 국가/매체: 인도 / BusinessLine Companies
+- 발행 시각: 2026-10-15 00:48 KST
+- 링크: https://www.thehindubusinessline.com/companies/hyundai-eyes-number-2-spot-again-with-pune-expansion-capacity-boost-and-new-models/article71583515.ece
 - 매칭 별칭: Hyundai
-- 원문 제목: South Korean carmaker Hyundai plans 'strategic' investment of $15.5 billion in India by 2032
-- 요약: Hyundai Motor 관련 기사다. 기사 제목은 'South Korean carmaker Hyundai plans 'strategic' investment of $15.5 billion in India by 2032'이다. Korean car company Hyundai says India is a strategic core market. Over the seven-year plan, Hyundai said it will invest across manufacturing expansion and in developing research and development infrastructure, local supplier cultivation for parts localization, and future technology innovation To execute these investments, Hyundai will set up a dedicated investment entity in India, it said in the release However, in the financial year ended March 2026, Hyundai came in fourth, edged out by M&M and Tata Motors Hyundai has a total production capacity of 1 In 2024, the South Korean company listed its India business unit, Hyundai Motors India , raising $3. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.
+- 원문 제목: Hyundai eyes number 2 spot again with Pune expansion, capacity boost and new models
+- 요약: Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai eyes number 2 spot again with Pune expansion, capacity boost and new models'이다. Of the total investment, around 20% each ($3. 1 billion) will be allocated to new technologies, including artificial intelligence and startups, and to research and development. ece Hyundai Motor Group plans to invest $15 Maharashtra expansion Hyundai has already invested ₹7,000 crore in Maharashtra and plans to invest another ₹4,000 crore by 2030, taking its total commitment to the Pune facility to ₹11,000 crore Market share push Hyundai plans to expand the Pune plant’s annual capacity from 170,000 vehicles to 320,000 vehicles by 2030, an increase of nearly 88 per cent Combined with its Chennai operations, Hyundai Motor India’s total manufacturing capacity will approach 1 Localisation and exports Hyundai aims to increase localisation levels from 83 per cent to 92 per cent, strengthening its domestic supply chain. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.
 
 ## 실패한 소스
 

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-14T14:24:26.931445+00:00",
+  "last_run_at": "2026-10-15T01:17:56.441140+00:00",
   "seen_articles": {
     "https://economictimes.indiatimes.com/tech/technology/sk-hynix-open-to-us-investment-sees-memory-shortage-through-2030/articleshow/133628356.cms": {
       "title": "SK hynix open to US investment, sees memory shortage through 2030",
@@ -1154,7 +1154,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-10-13T16:48:29.858019+00:00",
-      "last_seen_at": "2026-10-14T14:24:26.931445+00:00"
+      "last_seen_at": "2026-10-15T01:17:56.441140+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-group-to-plug-15-5-billion-in-indias-automotive-sector/articleshow/134920115.cms": {
       "title": "Hyundai Motor to plug $15.5 billion in India's automotive sector",
@@ -1176,7 +1176,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-10-13T16:48:29.858019+00:00",
-      "last_seen_at": "2026-10-14T14:24:26.931445+00:00"
+      "last_seen_at": "2026-10-15T01:17:56.441140+00:00"
     },
     "https://www.channelnewsasia.com/business/hyundai-motor-group-bets-155-billion-india-global-auto-hub-6456341": {
       "title": "Hyundai Motor Group bets $15.5 billion on India as global auto hub",
@@ -1221,7 +1221,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-10-14T01:41:38.493881+00:00",
-      "last_seen_at": "2026-10-14T14:24:26.931445+00:00"
+      "last_seen_at": "2026-10-15T01:17:56.441140+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-motor-group-to-invest-15-5-billion-in-india-in-seven-years/articleshow/134922635.cms": {
       "title": "Hyundai Motor Group to invest $15.5 billion in India in seven years",
@@ -1254,7 +1254,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-10-14T14:24:26.931445+00:00",
-      "last_seen_at": "2026-10-14T14:24:26.931445+00:00"
+      "last_seen_at": "2026-10-15T01:17:56.441140+00:00"
     },
     "https://www.thehindubusinessline.com/companies/nexon-geochem-to-set-up-1250-crore-rare-earth-permanent-magnet-facility-in-andhra-pradesh/article71582826.ece": {
       "title": "Nexon Geochem to set up ₹1,250-crore rare-earth permanent magnet facility in Andhra Pradesh",
@@ -1265,7 +1265,7 @@
         "Nexon"
       ],
       "first_seen_at": "2026-10-14T14:24:26.931445+00:00",
-      "last_seen_at": "2026-10-14T14:24:26.931445+00:00"
+      "last_seen_at": "2026-10-15T01:17:56.441140+00:00"
     },
     "https://www.cnbc.com/2026/10/14/korea-india-hyundai-cars-investment.html": {
       "title": "South Korean carmaker Hyundai plans 'strategic' investment of $15.5 billion in India by 2032",
@@ -1277,6 +1277,39 @@
       ],
       "first_seen_at": "2026-10-14T14:24:26.931445+00:00",
       "last_seen_at": "2026-10-14T14:24:26.931445+00:00"
+    },
+    "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html": {
+      "title": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount",
+      "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-10-15T01:17:56.441140+00:00",
+      "last_seen_at": "2026-10-15T01:17:56.441140+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-bets-on-expansion-hopes-to-return-to-no-2-position-in-pv-sales-by-2028-29-says-ceo-jose-munoz/articleshow/134949878.cms": {
+      "title": "Hyundai bets on expansion; hopes to return to No 2 position in PV sales by 2028-29",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-bets-on-expansion-hopes-to-return-to-no-2-position-in-pv-sales-by-2028-29-says-ceo-jose-munoz/articleshow/134949878.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-10-15T01:17:56.441140+00:00",
+      "last_seen_at": "2026-10-15T01:17:56.441140+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/hyundai-eyes-number-2-spot-again-with-pune-expansion-capacity-boost-and-new-models/article71583515.ece": {
+      "title": "Hyundai eyes number 2 spot again with Pune expansion, capacity boost and new models",
+      "link": "https://www.thehindubusinessline.com/companies/hyundai-eyes-number-2-spot-again-with-pune-expansion-capacity-boost-and-new-models/article71583515.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-10-15T01:17:56.441140+00:00",
+      "last_seen_at": "2026-10-15T01:17:56.441140+00:00"
     }
   }
 }
