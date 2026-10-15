@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-15T01:17:56.441140+00:00",
+  "last_run_at": "2026-10-15T14:02:13.361522+00:00",
   "seen_articles": {
     "https://economictimes.indiatimes.com/tech/technology/sk-hynix-open-to-us-investment-sees-memory-shortage-through-2030/articleshow/133628356.cms": {
       "title": "SK hynix open to US investment, sees memory shortage through 2030",
@@ -954,7 +954,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-10-04T14:42:16.382832+00:00",
-      "last_seen_at": "2026-10-05T01:45:04.954920+00:00"
+      "last_seen_at": "2026-10-15T14:02:13.361522+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/half-a-dozen-small-hybrids-getting-ready-for-indian-launch/articleshow/134677695.cms": {
       "title": "Half a dozen small hybrids getting ready for Indian launch",
@@ -1309,7 +1309,73 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-10-15T01:17:56.441140+00:00",
-      "last_seen_at": "2026-10-15T01:17:56.441140+00:00"
+      "last_seen_at": "2026-10-15T14:02:13.361522+00:00"
+    },
+    "https://www.cnbc.com/2026/10/15/memory-stocks-micron-sk-hynix-samsung-china.html": {
+      "title": "Memory stocks are getting hammered. China and a 2029 oversupply are the big worries",
+      "link": "https://www.cnbc.com/2026/10/15/memory-stocks-micron-sk-hynix-samsung-china.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-10-15T14:02:13.361522+00:00",
+      "last_seen_at": "2026-10-15T14:02:13.361522+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/nexon-geochem-inks-mou-for-rare-earth-permanent-magnet-facility-in-andhra-pradesh/article71586992.ece": {
+      "title": "Nexon Geochem inks MoU for rare earth permanent magnet facility in Andhra Pradesh",
+      "link": "https://www.thehindubusinessline.com/companies/nexon-geochem-inks-mou-for-rare-earth-permanent-magnet-facility-in-andhra-pradesh/article71586992.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Nexon"
+      ],
+      "first_seen_at": "2026-10-15T14:02:13.361522+00:00",
+      "last_seen_at": "2026-10-15T14:02:13.361522+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/cars-uvs/mahindra-xuv-3xo-zng-launched-at-rs-9-99-lakh-check-features-mileage-variants/articleshow/134959384.cms": {
+      "title": "Mahindra XUV 3XO ZNG launched at Rs 9.99 lakh: Check features, mileage & variants",
+      "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/mahindra-xuv-3xo-zng-launched-at-rs-9-99-lakh-check-features-mileage-variants/articleshow/134959384.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Nexon"
+      ],
+      "first_seen_at": "2026-10-15T14:02:13.361522+00:00",
+      "last_seen_at": "2026-10-15T14:02:13.361522+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/hyundai-plans-four-evs-by-2029-earmarks-62-billion-for-technology-and-rd-in-india/article71583660.ece": {
+      "title": "Hyundai plans four EVs by 2029, earmarks $6.2 billion for technology and R&D in India",
+      "link": "https://www.thehindubusinessline.com/companies/hyundai-plans-four-evs-by-2029-earmarks-62-billion-for-technology-and-rd-in-india/article71583660.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-10-15T14:02:13.361522+00:00",
+      "last_seen_at": "2026-10-15T14:02:13.361522+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/sk-hynix-conditions-new-us-factory-on-more-us-chip-equipment-exports-to-china-sources-say/articleshow/134956254.cms": {
+      "title": "SK Hynix conditions new US factory on more US chip equipment exports to China",
+      "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-conditions-new-us-factory-on-more-us-chip-equipment-exports-to-china-sources-say/articleshow/134956254.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-10-15T14:02:13.361522+00:00",
+      "last_seen_at": "2026-10-15T14:02:13.361522+00:00"
+    },
+    "https://www.cnbc.com/2026/10/15/jio-ipo-meta-google-ambani-musk.html": {
+      "title": "Meta- and Google-backed Jio Platforms to raise up to $3.2 billion in historic IPO in India",
+      "link": "https://www.cnbc.com/2026/10/15/jio-ipo-meta-google-ambani-musk.html",
+      "source_name": "CNBC World News",
+      "country_code": "US",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-10-15T14:02:13.361522+00:00",
+      "last_seen_at": "2026-10-15T14:02:13.361522+00:00"
     }
   }
 }
