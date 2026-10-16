@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-16T01:03:38.508448+00:00",
+  "last_run_at": "2026-10-16T13:50:33.432591+00:00",
   "seen_articles": {
     "https://www.cnbc.com/2026/08/31/coupang-south-korea-us-tariffs.html": {
       "title": "Coupang dispute fuels new U.S. tariff pressure on South Korea",
@@ -12,28 +12,6 @@
       ],
       "first_seen_at": "2026-08-31T16:54:35.065495+00:00",
       "last_seen_at": "2026-09-01T14:01:48.438155+00:00"
-    },
-    "https://www.japantimes.co.jp/business/2026/08/31/companies/sk-hynix-joint-venture-feasibility": {
-      "title": "SK Hynix weighs Japan memory fab partnership to supply AI boom",
-      "link": "https://www.japantimes.co.jp/business/2026/08/31/companies/sk-hynix-joint-venture-feasibility",
-      "source_name": "The Japan Times",
-      "country_code": "JP",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-08-31T16:54:35.065495+00:00",
-      "last_seen_at": "2026-09-01T01:43:33.609447+00:00"
-    },
-    "https://www.channelnewsasia.com/business/hyundai-motors-south-korean-union-approves-wage-deal-6353106": {
-      "title": "Hyundai Motor's South Korean union approves wage deal",
-      "link": "https://www.channelnewsasia.com/business/hyundai-motors-south-korean-union-approves-wage-deal-6353106",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-09-01T01:43:33.609447+00:00",
-      "last_seen_at": "2026-09-01T01:43:33.609447+00:00"
     },
     "https://asia.nikkei.com/business/tech/semiconductors/japanese-play-for-sk-hynix-chip-plant-faces-south-korean-policy-hurdles": {
       "title": "Japanese play for SK Hynix chip plant faces South Korean policy hurdles",
@@ -1143,7 +1121,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-10-13T16:48:29.858019+00:00",
-      "last_seen_at": "2026-10-15T01:17:56.441140+00:00"
+      "last_seen_at": "2026-10-16T13:50:33.432591+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-group-to-plug-15-5-billion-in-indias-automotive-sector/articleshow/134920115.cms": {
       "title": "Hyundai Motor to plug $15.5 billion in India's automotive sector",
@@ -1165,7 +1143,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-10-13T16:48:29.858019+00:00",
-      "last_seen_at": "2026-10-15T01:17:56.441140+00:00"
+      "last_seen_at": "2026-10-16T13:50:33.432591+00:00"
     },
     "https://www.channelnewsasia.com/business/hyundai-motor-group-bets-155-billion-india-global-auto-hub-6456341": {
       "title": "Hyundai Motor Group bets $15.5 billion on India as global auto hub",
@@ -1254,7 +1232,7 @@
         "Nexon"
       ],
       "first_seen_at": "2026-10-14T14:24:26.931445+00:00",
-      "last_seen_at": "2026-10-15T01:17:56.441140+00:00"
+      "last_seen_at": "2026-10-16T13:50:33.432591+00:00"
     },
     "https://www.cnbc.com/2026/10/14/korea-india-hyundai-cars-investment.html": {
       "title": "South Korean carmaker Hyundai plans 'strategic' investment of $15.5 billion in India by 2032",
@@ -1298,7 +1276,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-10-15T01:17:56.441140+00:00",
-      "last_seen_at": "2026-10-15T14:02:13.361522+00:00"
+      "last_seen_at": "2026-10-16T13:50:33.432591+00:00"
     },
     "https://www.cnbc.com/2026/10/15/memory-stocks-micron-sk-hynix-samsung-china.html": {
       "title": "Memory stocks are getting hammered. China and a 2029 oversupply are the big worries",
@@ -1309,7 +1287,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-10-15T14:02:13.361522+00:00",
-      "last_seen_at": "2026-10-16T01:03:38.508448+00:00"
+      "last_seen_at": "2026-10-16T13:50:33.432591+00:00"
     },
     "https://www.thehindubusinessline.com/companies/nexon-geochem-inks-mou-for-rare-earth-permanent-magnet-facility-in-andhra-pradesh/article71586992.ece": {
       "title": "Nexon Geochem inks MoU for rare earth permanent magnet facility in Andhra Pradesh",
@@ -1320,7 +1298,7 @@
         "Nexon"
       ],
       "first_seen_at": "2026-10-15T14:02:13.361522+00:00",
-      "last_seen_at": "2026-10-16T01:03:38.508448+00:00"
+      "last_seen_at": "2026-10-16T13:50:33.432591+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/cars-uvs/mahindra-xuv-3xo-zng-launched-at-rs-9-99-lakh-check-features-mileage-variants/articleshow/134959384.cms": {
       "title": "Mahindra XUV 3XO ZNG launched at Rs 9.99 lakh: Check features, mileage & variants",
@@ -1342,7 +1320,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-10-15T14:02:13.361522+00:00",
-      "last_seen_at": "2026-10-16T01:03:38.508448+00:00"
+      "last_seen_at": "2026-10-16T13:50:33.432591+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/sk-hynix-conditions-new-us-factory-on-more-us-chip-equipment-exports-to-china-sources-say/articleshow/134956254.cms": {
       "title": "SK Hynix conditions new US factory on more US chip equipment exports to China",
@@ -1353,7 +1331,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-10-15T14:02:13.361522+00:00",
-      "last_seen_at": "2026-10-16T01:03:38.508448+00:00"
+      "last_seen_at": "2026-10-16T13:50:33.432591+00:00"
     },
     "https://www.cnbc.com/2026/10/15/jio-ipo-meta-google-ambani-musk.html": {
       "title": "Meta- and Google-backed Jio Platforms to raise up to $3.2 billion in historic IPO in India",
@@ -1365,6 +1343,17 @@
       ],
       "first_seen_at": "2026-10-15T14:02:13.361522+00:00",
       "last_seen_at": "2026-10-15T14:02:13.361522+00:00"
+    },
+    "https://www.cnbc.com/2026/10/16/bts-concerts-hybe-katseye-cortis.html": {
+      "title": "Hybe shares jump 10% as K-pop sensation BTS' tour lifts earnings hopes",
+      "link": "https://www.cnbc.com/2026/10/16/bts-concerts-hybe-katseye-cortis.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "HYBE"
+      ],
+      "first_seen_at": "2026-10-16T13:50:33.432591+00:00",
+      "last_seen_at": "2026-10-16T13:50:33.432591+00:00"
     }
   }
 }
