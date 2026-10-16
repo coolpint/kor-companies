@@ -1,152 +1,13 @@
 {
-  "run_at": "2026-10-15T14:02:13.361522+00:00",
+  "run_at": "2026-10-16T01:03:38.508448+00:00",
   "summary": {
     "source_count": 73,
-    "success_count": 69,
-    "failed_count": 4,
-    "matched_count": 8,
-    "new_count": 6
+    "success_count": 70,
+    "failed_count": 3,
+    "matched_count": 5,
+    "new_count": 0
   },
-  "new_articles": [
-    {
-      "article_key": "https://www.cnbc.com/2026/10/15/memory-stocks-micron-sk-hynix-samsung-china.html",
-      "canonical_link": "https://www.cnbc.com/2026/10/15/memory-stocks-micron-sk-hynix-samsung-china.html",
-      "link": "https://www.cnbc.com/2026/10/15/memory-stocks-micron-sk-hynix-samsung-china.html",
-      "title": "Memory stocks are getting hammered. China and a 2029 oversupply are the big worries",
-      "summary": "SK hynix 관련 기사다. 기사 제목은 'Memory stocks are getting hammered. China and a 2029 oversupply are the big worries'이다. SK Hynix, Samsung and Micron have been some of the hardest-hit names in the latest tech sell-off. In this article SKHY MU Korea KOSPI Index displayed on a smartphone with SK hynix and Samsung logo displayed Over the last five days, SK Hynix has plunged 26%, Samsung has tanked 22% and Micron has dropped around 11% CXMT's design would allow higher storage density, raising concerns that the breakthrough could result in the Chinese company taking global market share from rivals Samsung, SK Hynix and Micron \" watch now VIDEO 5:07 05:07 Rosenblatt's Kevin Cassidy on CXMT's new memory design: Don't think it will swing supply-demand equation Squawk Box Random access memory (RAM) is produced by the likes of SK Hynix, Samsung and Micron as well as CXMT in China That has led to huge rallies in the share price of Samsung, SK Hynix and Micron, the three biggest memory makers. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Memory stocks are getting hammered. China and a 2029 oversupply are the big worries",
-      "original_summary": "SK Hynix, Samsung and Micron have been some of the hardest-hit names in the latest tech sell-off.",
-      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'Memory stocks are getting hammered. China and a 2029 oversupply are the big worries'이다. SK Hynix, Samsung and Micron have been some of the hardest-hit names in the latest tech sell-off. In this article SKHY MU Korea KOSPI Index displayed on a smartphone with SK hynix and Samsung logo displayed Over the last five days, SK Hynix has plunged 26%, Samsung has tanked 22% and Micron has dropped around 11% CXMT's design would allow higher storage density, raising concerns that the breakthrough could result in the Chinese company taking global market share from rivals Samsung, SK Hynix and Micron \" watch now VIDEO 5:07 05:07 Rosenblatt's Kevin Cassidy on CXMT's new memory design: Don't think it will swing supply-demand equation Squawk Box Random access memory (RAM) is produced by the likes of SK Hynix, Samsung and Micron as well as CXMT in China That has led to huge rallies in the share price of Samsung, SK Hynix and Micron, the three biggest memory makers. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-15T12:15:09+00:00",
-      "source_id": "cnbc_top_news",
-      "source_name": "CNBC Top News",
-      "country_code": "US",
-      "country_name_ko": "미국",
-      "source_language": "en",
-      "matched_companies": [
-        "SK hynix"
-      ],
-      "matched_aliases": [
-        "SK hynix"
-      ],
-      "is_new": true
-    },
-    {
-      "article_key": "https://www.thehindubusinessline.com/companies/nexon-geochem-inks-mou-for-rare-earth-permanent-magnet-facility-in-andhra-pradesh/article71586992.ece",
-      "canonical_link": "https://www.thehindubusinessline.com/companies/nexon-geochem-inks-mou-for-rare-earth-permanent-magnet-facility-in-andhra-pradesh/article71586992.ece",
-      "link": "https://www.thehindubusinessline.com/companies/nexon-geochem-inks-mou-for-rare-earth-permanent-magnet-facility-in-andhra-pradesh/article71586992.ece",
-      "title": "Nexon Geochem inks MoU for rare earth permanent magnet facility in Andhra Pradesh",
-      "summary": "Nexon 관련 기사다. 기사 제목은 'Nexon Geochem inks MoU for rare earth permanent magnet facility in Andhra Pradesh'이다. Nexon Geochem has committed a total investment of ₹1,250 crore across two phases: ₹750 crore dedicated to Phase 1 and ₹500 crore allocated for Phase 2. As the primary investor behind the project, Nexon Geochem has committed a total investment of ₹1,250 crore across two phases: ₹750 crore dedicated to Phase 1 and ₹500 crore allocated for Phase 2 The phased investment outlay, alongside Nexon’s specialised technology, design engineering, and advanced equipment will back a world-class manufacturing ecosystem across a 30-acre footprint Praveen Kumar Choudhary, Director of Nexon Geochem, told businessline , “Our vision is to establish an integrated NdFeB magnet manufacturing ecosystem that strengthens supply-chain security, reduces import dependence, and supports India’s ambitions in electric mobility, renewable energy, and advanced manufacturing Nexon Geochem will work closely with relevant state departments to progress land allotment and infrastructure development in a strictly time-bound manner Through this multi-phase development roadmap, Nexon Geochem is well-positioned to scale domestic manufacturing capacity swiftly, delivering long-term strategic value to both the state of Andhra Pradesh and India’s broader green economy. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Nexon Geochem inks MoU for rare earth permanent magnet facility in Andhra Pradesh",
-      "original_summary": "Nexon Geochem has committed a total investment of ₹1,250 crore across two phases: ₹750 crore dedicated to Phase 1 and ₹500 crore allocated for Phase 2.",
-      "company_summary": "Nexon 관련 기사다. 기사 제목은 'Nexon Geochem inks MoU for rare earth permanent magnet facility in Andhra Pradesh'이다. Nexon Geochem has committed a total investment of ₹1,250 crore across two phases: ₹750 crore dedicated to Phase 1 and ₹500 crore allocated for Phase 2. As the primary investor behind the project, Nexon Geochem has committed a total investment of ₹1,250 crore across two phases: ₹750 crore dedicated to Phase 1 and ₹500 crore allocated for Phase 2 The phased investment outlay, alongside Nexon’s specialised technology, design engineering, and advanced equipment will back a world-class manufacturing ecosystem across a 30-acre footprint Praveen Kumar Choudhary, Director of Nexon Geochem, told businessline , “Our vision is to establish an integrated NdFeB magnet manufacturing ecosystem that strengthens supply-chain security, reduces import dependence, and supports India’s ambitions in electric mobility, renewable energy, and advanced manufacturing Nexon Geochem will work closely with relevant state departments to progress land allotment and infrastructure development in a strictly time-bound manner Through this multi-phase development roadmap, Nexon Geochem is well-positioned to scale domestic manufacturing capacity swiftly, delivering long-term strategic value to both the state of Andhra Pradesh and India’s broader green economy. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-15T09:45:43+00:00",
-      "source_id": "businessline_companies",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "country_name_ko": "인도",
-      "source_language": "en",
-      "matched_companies": [
-        "Nexon"
-      ],
-      "matched_aliases": [
-        "Nexon"
-      ],
-      "is_new": true
-    },
-    {
-      "article_key": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/mahindra-xuv-3xo-zng-launched-at-rs-9-99-lakh-check-features-mileage-variants/articleshow/134959384.cms",
-      "canonical_link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/mahindra-xuv-3xo-zng-launched-at-rs-9-99-lakh-check-features-mileage-variants/articleshow/134959384.cms",
-      "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/mahindra-xuv-3xo-zng-launched-at-rs-9-99-lakh-check-features-mileage-variants/articleshow/134959384.cms",
-      "title": "Mahindra XUV 3XO ZNG launched at Rs 9.99 lakh: Check features, mileage & variants",
-      "summary": "Nexon 관련 기사다. 기사 제목은 'Mahindra XUV 3XO ZNG launched at Rs 9.99 lakh: Check features, mileage & variants'이다. Mahindra has launched the XUV 3XO ZNG CNG in India at a starting price of Rs 9. 99 lakh (ex-showroom). Available in four variants, the compact SUV offers a claimed mileage of 24. 70 km/kg, a 1. 2-litre turbo-petrol engine, twin CNG cylinders, a panoramic sunroof and a 360-degree camera. It rivals the Tata Nexon CNG and Maruti Suzuki Brezza CNG.",
-      "original_title": "Mahindra XUV 3XO ZNG launched at Rs 9.99 lakh: Check features, mileage & variants",
-      "original_summary": "Mahindra has launched the XUV 3XO ZNG CNG in India at a starting price of Rs 9.99 lakh (ex-showroom). Available in four variants, the compact SUV offers a claimed mileage of 24.70 km/kg, a 1.2-litre turbo-petrol engine, twin CNG cylinders, a panoramic sunroof and a 360-degree camera. It rivals the Tata Nexon CNG and Maruti Suzuki Brezza CNG.",
-      "company_summary": "Nexon 관련 기사다. 기사 제목은 'Mahindra XUV 3XO ZNG launched at Rs 9.99 lakh: Check features, mileage & variants'이다. Mahindra has launched the XUV 3XO ZNG CNG in India at a starting price of Rs 9. 99 lakh (ex-showroom). Available in four variants, the compact SUV offers a claimed mileage of 24. 70 km/kg, a 1. 2-litre turbo-petrol engine, twin CNG cylinders, a panoramic sunroof and a 360-degree camera. It rivals the Tata Nexon CNG and Maruti Suzuki Brezza CNG.",
-      "published_at": "2026-10-15T06:35:03+00:00",
-      "source_id": "economic_times_industry",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "country_name_ko": "인도",
-      "source_language": "en",
-      "matched_companies": [
-        "Nexon"
-      ],
-      "matched_aliases": [
-        "Nexon"
-      ],
-      "is_new": true
-    },
-    {
-      "article_key": "https://www.thehindubusinessline.com/companies/hyundai-plans-four-evs-by-2029-earmarks-62-billion-for-technology-and-rd-in-india/article71583660.ece",
-      "canonical_link": "https://www.thehindubusinessline.com/companies/hyundai-plans-four-evs-by-2029-earmarks-62-billion-for-technology-and-rd-in-india/article71583660.ece",
-      "link": "https://www.thehindubusinessline.com/companies/hyundai-plans-four-evs-by-2029-earmarks-62-billion-for-technology-and-rd-in-india/article71583660.ece",
-      "title": "Hyundai plans four EVs by 2029, earmarks $6.2 billion for technology and R&D in India",
-      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai plans four EVs by 2029, earmarks $6.2 billion for technology and R&D in India'이다. The automaker also plans a dedicated investment entity, HMG India. The strategy also includes battery localisation, research partnerships and emerging mobility opportunities. Hyundai plans four EVs by 2029, earmarks $6 com/companies/hyundai-plans-four-evs-by-2029-earmarks-62-billion-for-technology-and-rd-in-india/article71583660 ece Hyundai Motor Group plans to introduce four electric vehicles in India by 2029, including an entry-level model and an electric SUV, expand its hybrid and alternative-fuel portfolio, explore domestic battery-cell manufacturing and establish a dedicated investment entity, HMG India, as the country emerges as its second-largest region after North America, ahead of Europe and South Korea ” Emerging mobility Hyundai executives also discussed micromobility opportunities involving TVS Motor Company, although specific products, investments and launch schedules were not disclosed The broader strategy reflects Hyundai’s efforts to develop India as a centre for electric-vehicle engineering, battery research and emerging mobility businesses. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Hyundai plans four EVs by 2029, earmarks $6.2 billion for technology and R&D in India",
-      "original_summary": "The automaker also plans a dedicated investment entity, HMG India. The strategy also includes battery localisation, research partnerships and emerging mobility opportunities.",
-      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai plans four EVs by 2029, earmarks $6.2 billion for technology and R&D in India'이다. The automaker also plans a dedicated investment entity, HMG India. The strategy also includes battery localisation, research partnerships and emerging mobility opportunities. Hyundai plans four EVs by 2029, earmarks $6 com/companies/hyundai-plans-four-evs-by-2029-earmarks-62-billion-for-technology-and-rd-in-india/article71583660 ece Hyundai Motor Group plans to introduce four electric vehicles in India by 2029, including an entry-level model and an electric SUV, expand its hybrid and alternative-fuel portfolio, explore domestic battery-cell manufacturing and establish a dedicated investment entity, HMG India, as the country emerges as its second-largest region after North America, ahead of Europe and South Korea ” Emerging mobility Hyundai executives also discussed micromobility opportunities involving TVS Motor Company, although specific products, investments and launch schedules were not disclosed The broader strategy reflects Hyundai’s efforts to develop India as a centre for electric-vehicle engineering, battery research and emerging mobility businesses. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-15T05:28:01+00:00",
-      "source_id": "businessline_companies",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "country_name_ko": "인도",
-      "source_language": "en",
-      "matched_companies": [
-        "Hyundai Motor"
-      ],
-      "matched_aliases": [
-        "Hyundai"
-      ],
-      "is_new": true
-    },
-    {
-      "article_key": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-conditions-new-us-factory-on-more-us-chip-equipment-exports-to-china-sources-say/articleshow/134956254.cms",
-      "canonical_link": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-conditions-new-us-factory-on-more-us-chip-equipment-exports-to-china-sources-say/articleshow/134956254.cms",
-      "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-conditions-new-us-factory-on-more-us-chip-equipment-exports-to-china-sources-say/articleshow/134956254.cms",
-      "title": "SK Hynix conditions new US factory on more US chip equipment exports to China",
-      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix conditions new US factory on more US chip equipment exports to China'이다. The Trump administration is pressing SK Hynix, Samsung and other foreign chipmakers to build plants in the US in a drive to rebuild US manufacturing capacity and create jobs. \"The installation of equipment for Mod B is being carried out in close consultation with and under authorization from the US government,\" SK Hynix said in a statement to Reuters In December, the department issued a 2026 license for SK Hynix's Dalian site that limited the quantity of equipment SK Hynix's Dalian facility is home to a fab space known as Mod B that it built in 2023, one source said Reuters reported last month that SK Hynix was separately in talks with Intel to lease part of its long-planned chipmaking facility in Ohio SK Hynix's Seoul-listed shares slumped 11% amid a broader tech selloff on Thursday. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "SK Hynix conditions new US factory on more US chip equipment exports to China",
-      "original_summary": "The Trump administration is pressing SK Hynix, Samsung and other foreign chipmakers to build plants in the US in a drive to rebuild US manufacturing capacity and create jobs.",
-      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix conditions new US factory on more US chip equipment exports to China'이다. The Trump administration is pressing SK Hynix, Samsung and other foreign chipmakers to build plants in the US in a drive to rebuild US manufacturing capacity and create jobs. \"The installation of equipment for Mod B is being carried out in close consultation with and under authorization from the US government,\" SK Hynix said in a statement to Reuters In December, the department issued a 2026 license for SK Hynix's Dalian site that limited the quantity of equipment SK Hynix's Dalian facility is home to a fab space known as Mod B that it built in 2023, one source said Reuters reported last month that SK Hynix was separately in talks with Intel to lease part of its long-planned chipmaking facility in Ohio SK Hynix's Seoul-listed shares slumped 11% amid a broader tech selloff on Thursday. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-15T03:23:21+00:00",
-      "source_id": "economic_times_tech",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "country_name_ko": "인도",
-      "source_language": "en",
-      "matched_companies": [
-        "SK hynix"
-      ],
-      "matched_aliases": [
-        "SK hynix"
-      ],
-      "is_new": true
-    },
-    {
-      "article_key": "https://www.cnbc.com/2026/10/15/jio-ipo-meta-google-ambani-musk.html",
-      "canonical_link": "https://www.cnbc.com/2026/10/15/jio-ipo-meta-google-ambani-musk.html",
-      "link": "https://www.cnbc.com/2026/10/15/jio-ipo-meta-google-ambani-musk.html",
-      "title": "Meta- and Google-backed Jio Platforms to raise up to $3.2 billion in historic IPO in India",
-      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Meta- and Google-backed Jio Platforms to raise up to $3.2 billion in historic IPO in India'이다. Jio's share sale will be India's largest ever in rupee terms, and second largest in dollar terms, trailing the Hyundai Motors IPO that raised $3. 3 billion in 2024. 2 billion) through an initial public offering of shares between Oct Jio's share sale will be India's largest ever in rupee terms, but the second largest in dollar terms, trailing the Hyundai Motors IPO that raised $3 Reliance Industries, the parent company of the telecom operator, said in an exchange filing The share sale will be India's largest ever in rupee terms, but the second largest in dollar terms, marginally trailing the Hyundai Motors IPO that raised $3 3 billion in 2024. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Meta- and Google-backed Jio Platforms to raise up to $3.2 billion in historic IPO in India",
-      "original_summary": "Jio's share sale will be India's largest ever in rupee terms, and second largest in dollar terms, trailing the Hyundai Motors IPO that raised $3.3 billion in 2024.",
-      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Meta- and Google-backed Jio Platforms to raise up to $3.2 billion in historic IPO in India'이다. Jio's share sale will be India's largest ever in rupee terms, and second largest in dollar terms, trailing the Hyundai Motors IPO that raised $3. 3 billion in 2024. 2 billion) through an initial public offering of shares between Oct Jio's share sale will be India's largest ever in rupee terms, but the second largest in dollar terms, trailing the Hyundai Motors IPO that raised $3 Reliance Industries, the parent company of the telecom operator, said in an exchange filing The share sale will be India's largest ever in rupee terms, but the second largest in dollar terms, marginally trailing the Hyundai Motors IPO that raised $3 3 billion in 2024. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-15T01:56:53+00:00",
-      "source_id": "cnbc_world",
-      "source_name": "CNBC World News",
-      "country_code": "US",
-      "country_name_ko": "미국",
-      "source_language": "en",
-      "matched_companies": [
-        "Hyundai Motor"
-      ],
-      "matched_aliases": [
-        "Hyundai"
-      ],
-      "is_new": true
-    }
-  ],
+  "new_articles": [],
   "matched_articles": [
     {
       "article_key": "https://www.thehindubusinessline.com/companies/automakers-build-up-inventory-to-meet-festive-season-demand/article71542971.ece",
@@ -181,8 +42,8 @@
       "original_summary": "SK Hynix, Samsung and Micron have been some of the hardest-hit names in the latest tech sell-off.",
       "company_summary": "SK hynix 관련 기사다. 기사 제목은 'Memory stocks are getting hammered. China and a 2029 oversupply are the big worries'이다. SK Hynix, Samsung and Micron have been some of the hardest-hit names in the latest tech sell-off. In this article SKHY MU Korea KOSPI Index displayed on a smartphone with SK hynix and Samsung logo displayed Over the last five days, SK Hynix has plunged 26%, Samsung has tanked 22% and Micron has dropped around 11% CXMT's design would allow higher storage density, raising concerns that the breakthrough could result in the Chinese company taking global market share from rivals Samsung, SK Hynix and Micron \" watch now VIDEO 5:07 05:07 Rosenblatt's Kevin Cassidy on CXMT's new memory design: Don't think it will swing supply-demand equation Squawk Box Random access memory (RAM) is produced by the likes of SK Hynix, Samsung and Micron as well as CXMT in China That has led to huge rallies in the share price of Samsung, SK Hynix and Micron, the three biggest memory makers. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
       "published_at": "2026-10-15T12:15:09+00:00",
-      "source_id": "cnbc_top_news",
-      "source_name": "CNBC Top News",
+      "source_id": "cnbc_world",
+      "source_name": "CNBC World News",
       "country_code": "US",
       "country_name_ko": "미국",
       "source_language": "en",
@@ -192,7 +53,7 @@
       "matched_aliases": [
         "SK hynix"
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "article_key": "https://www.thehindubusinessline.com/companies/nexon-geochem-inks-mou-for-rare-earth-permanent-magnet-facility-in-andhra-pradesh/article71586992.ece",
@@ -215,30 +76,7 @@
       "matched_aliases": [
         "Nexon"
       ],
-      "is_new": true
-    },
-    {
-      "article_key": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/mahindra-xuv-3xo-zng-launched-at-rs-9-99-lakh-check-features-mileage-variants/articleshow/134959384.cms",
-      "canonical_link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/mahindra-xuv-3xo-zng-launched-at-rs-9-99-lakh-check-features-mileage-variants/articleshow/134959384.cms",
-      "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/mahindra-xuv-3xo-zng-launched-at-rs-9-99-lakh-check-features-mileage-variants/articleshow/134959384.cms",
-      "title": "Mahindra XUV 3XO ZNG launched at Rs 9.99 lakh: Check features, mileage & variants",
-      "summary": "Nexon 관련 기사다. 기사 제목은 'Mahindra XUV 3XO ZNG launched at Rs 9.99 lakh: Check features, mileage & variants'이다. Mahindra has launched the XUV 3XO ZNG CNG in India at a starting price of Rs 9. 99 lakh (ex-showroom). Available in four variants, the compact SUV offers a claimed mileage of 24. 70 km/kg, a 1. 2-litre turbo-petrol engine, twin CNG cylinders, a panoramic sunroof and a 360-degree camera. It rivals the Tata Nexon CNG and Maruti Suzuki Brezza CNG.",
-      "original_title": "Mahindra XUV 3XO ZNG launched at Rs 9.99 lakh: Check features, mileage & variants",
-      "original_summary": "Mahindra has launched the XUV 3XO ZNG CNG in India at a starting price of Rs 9.99 lakh (ex-showroom). Available in four variants, the compact SUV offers a claimed mileage of 24.70 km/kg, a 1.2-litre turbo-petrol engine, twin CNG cylinders, a panoramic sunroof and a 360-degree camera. It rivals the Tata Nexon CNG and Maruti Suzuki Brezza CNG.",
-      "company_summary": "Nexon 관련 기사다. 기사 제목은 'Mahindra XUV 3XO ZNG launched at Rs 9.99 lakh: Check features, mileage & variants'이다. Mahindra has launched the XUV 3XO ZNG CNG in India at a starting price of Rs 9. 99 lakh (ex-showroom). Available in four variants, the compact SUV offers a claimed mileage of 24. 70 km/kg, a 1. 2-litre turbo-petrol engine, twin CNG cylinders, a panoramic sunroof and a 360-degree camera. It rivals the Tata Nexon CNG and Maruti Suzuki Brezza CNG.",
-      "published_at": "2026-10-15T06:35:03+00:00",
-      "source_id": "economic_times_industry",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "country_name_ko": "인도",
-      "source_language": "en",
-      "matched_companies": [
-        "Nexon"
-      ],
-      "matched_aliases": [
-        "Nexon"
-      ],
-      "is_new": true
+      "is_new": false
     },
     {
       "article_key": "https://www.thehindubusinessline.com/companies/hyundai-plans-four-evs-by-2029-earmarks-62-billion-for-technology-and-rd-in-india/article71583660.ece",
@@ -261,7 +99,7 @@
       "matched_aliases": [
         "Hyundai"
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "article_key": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-conditions-new-us-factory-on-more-us-chip-equipment-exports-to-china-sources-say/articleshow/134956254.cms",
@@ -284,52 +122,6 @@
       "matched_aliases": [
         "SK hynix"
       ],
-      "is_new": true
-    },
-    {
-      "article_key": "https://www.cnbc.com/2026/10/15/jio-ipo-meta-google-ambani-musk.html",
-      "canonical_link": "https://www.cnbc.com/2026/10/15/jio-ipo-meta-google-ambani-musk.html",
-      "link": "https://www.cnbc.com/2026/10/15/jio-ipo-meta-google-ambani-musk.html",
-      "title": "Meta- and Google-backed Jio Platforms to raise up to $3.2 billion in historic IPO in India",
-      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Meta- and Google-backed Jio Platforms to raise up to $3.2 billion in historic IPO in India'이다. Jio's share sale will be India's largest ever in rupee terms, and second largest in dollar terms, trailing the Hyundai Motors IPO that raised $3. 3 billion in 2024. 2 billion) through an initial public offering of shares between Oct Jio's share sale will be India's largest ever in rupee terms, but the second largest in dollar terms, trailing the Hyundai Motors IPO that raised $3 Reliance Industries, the parent company of the telecom operator, said in an exchange filing The share sale will be India's largest ever in rupee terms, but the second largest in dollar terms, marginally trailing the Hyundai Motors IPO that raised $3 3 billion in 2024. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Meta- and Google-backed Jio Platforms to raise up to $3.2 billion in historic IPO in India",
-      "original_summary": "Jio's share sale will be India's largest ever in rupee terms, and second largest in dollar terms, trailing the Hyundai Motors IPO that raised $3.3 billion in 2024.",
-      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Meta- and Google-backed Jio Platforms to raise up to $3.2 billion in historic IPO in India'이다. Jio's share sale will be India's largest ever in rupee terms, and second largest in dollar terms, trailing the Hyundai Motors IPO that raised $3. 3 billion in 2024. 2 billion) through an initial public offering of shares between Oct Jio's share sale will be India's largest ever in rupee terms, but the second largest in dollar terms, trailing the Hyundai Motors IPO that raised $3 Reliance Industries, the parent company of the telecom operator, said in an exchange filing The share sale will be India's largest ever in rupee terms, but the second largest in dollar terms, marginally trailing the Hyundai Motors IPO that raised $3 3 billion in 2024. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-15T01:56:53+00:00",
-      "source_id": "cnbc_world",
-      "source_name": "CNBC World News",
-      "country_code": "US",
-      "country_name_ko": "미국",
-      "source_language": "en",
-      "matched_companies": [
-        "Hyundai Motor"
-      ],
-      "matched_aliases": [
-        "Hyundai"
-      ],
-      "is_new": true
-    },
-    {
-      "article_key": "https://www.thehindubusinessline.com/companies/hyundai-eyes-number-2-spot-again-with-pune-expansion-capacity-boost-and-new-models/article71583515.ece",
-      "canonical_link": "https://www.thehindubusinessline.com/companies/hyundai-eyes-number-2-spot-again-with-pune-expansion-capacity-boost-and-new-models/article71583515.ece",
-      "link": "https://www.thehindubusinessline.com/companies/hyundai-eyes-number-2-spot-again-with-pune-expansion-capacity-boost-and-new-models/article71583515.ece",
-      "title": "Hyundai eyes number 2 spot again with Pune expansion, capacity boost and new models",
-      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai eyes number 2 spot again with Pune expansion, capacity boost and new models'이다. Of the total investment, around 20% each ($3. 1 billion) will be allocated to new technologies, including artificial intelligence and startups, and to research and development. ece Hyundai Motor Group plans to invest $15 Maharashtra expansion Hyundai has already invested ₹7,000 crore in Maharashtra and plans to invest another ₹4,000 crore by 2030, taking its total commitment to the Pune facility to ₹11,000 crore Market share push Hyundai plans to expand the Pune plant’s annual capacity from 170,000 vehicles to 320,000 vehicles by 2030, an increase of nearly 88 per cent Combined with its Chennai operations, Hyundai Motor India’s total manufacturing capacity will approach 1 Localisation and exports Hyundai aims to increase localisation levels from 83 per cent to 92 per cent, strengthening its domestic supply chain. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Hyundai eyes number 2 spot again with Pune expansion, capacity boost and new models",
-      "original_summary": "Of the total investment, around 20% each ($3.1 billion) will be allocated to new technologies, including artificial intelligence and startups, and to research and development",
-      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai eyes number 2 spot again with Pune expansion, capacity boost and new models'이다. Of the total investment, around 20% each ($3. 1 billion) will be allocated to new technologies, including artificial intelligence and startups, and to research and development. ece Hyundai Motor Group plans to invest $15 Maharashtra expansion Hyundai has already invested ₹7,000 crore in Maharashtra and plans to invest another ₹4,000 crore by 2030, taking its total commitment to the Pune facility to ₹11,000 crore Market share push Hyundai plans to expand the Pune plant’s annual capacity from 170,000 vehicles to 320,000 vehicles by 2030, an increase of nearly 88 per cent Combined with its Chennai operations, Hyundai Motor India’s total manufacturing capacity will approach 1 Localisation and exports Hyundai aims to increase localisation levels from 83 per cent to 92 per cent, strengthening its domestic supply chain. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-14T15:48:18+00:00",
-      "source_id": "businessline_companies",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "country_name_ko": "인도",
-      "source_language": "en",
-      "matched_companies": [
-        "Hyundai Motor"
-      ],
-      "matched_aliases": [
-        "Hyundai"
-      ],
       "is_new": false
     }
   ],
@@ -348,7 +140,7 @@
       "source_name": "The New York Times Technology",
       "country_code": "US",
       "success": true,
-      "item_count": 24,
+      "item_count": 23,
       "matched_count": 0,
       "error": ""
     },
@@ -446,10 +238,10 @@
       "source_id": "nikkei_asia",
       "source_name": "Nikkei Asia",
       "country_code": "JP",
-      "success": false,
-      "item_count": 0,
+      "success": true,
+      "item_count": 50,
       "matched_count": 0,
-      "error": "HTTP 403 for https://asia.nikkei.com/rss/feed/nar"
+      "error": ""
     },
     {
       "source_id": "japan_times_topstories",
@@ -546,7 +338,7 @@
       "source_name": "Deutsche Welle World",
       "country_code": "DE",
       "success": true,
-      "item_count": 13,
+      "item_count": 11,
       "matched_count": 0,
       "error": ""
     },
@@ -564,7 +356,7 @@
       "source_name": "tagesschau Wirtschaft",
       "country_code": "DE",
       "success": true,
-      "item_count": 18,
+      "item_count": 20,
       "matched_count": 0,
       "error": ""
     },
@@ -591,7 +383,7 @@
       "source_name": "BBC Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 44,
+      "item_count": 47,
       "matched_count": 0,
       "error": ""
     },
@@ -600,7 +392,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 23,
+      "item_count": 32,
       "matched_count": 0,
       "error": ""
     },
@@ -663,7 +455,7 @@
       "source_name": "The Independent Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 0,
+      "item_count": 1,
       "matched_count": 0,
       "error": ""
     },
@@ -727,7 +519,7 @@
       "country_code": "US",
       "success": true,
       "item_count": 30,
-      "matched_count": 1,
+      "matched_count": 0,
       "error": ""
     },
     {
@@ -736,7 +528,7 @@
       "country_code": "US",
       "success": true,
       "item_count": 30,
-      "matched_count": 2,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -826,7 +618,7 @@
       "country_code": "IN",
       "success": true,
       "item_count": 50,
-      "matched_count": 1,
+      "matched_count": 0,
       "error": ""
     },
     {
@@ -844,7 +636,7 @@
       "country_code": "IN",
       "success": true,
       "item_count": 60,
-      "matched_count": 4,
+      "matched_count": 3,
       "error": ""
     },
     {
@@ -933,7 +725,7 @@
       "source_name": "Taipei Times",
       "country_code": "TW",
       "success": true,
-      "item_count": 50,
+      "item_count": 52,
       "matched_count": 0,
       "error": ""
     },

@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-15T14:02:13.361522+00:00",
+  "last_run_at": "2026-10-16T01:03:38.508448+00:00",
   "seen_articles": {
-    "https://economictimes.indiatimes.com/tech/technology/sk-hynix-open-to-us-investment-sees-memory-shortage-through-2030/articleshow/133628356.cms": {
-      "title": "SK hynix open to US investment, sees memory shortage through 2030",
-      "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-open-to-us-investment-sees-memory-shortage-through-2030/articleshow/133628356.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-08-30T14:20:24.584334+00:00",
-      "last_seen_at": "2026-08-31T16:54:35.065495+00:00"
-    },
     "https://www.cnbc.com/2026/08/31/coupang-south-korea-us-tariffs.html": {
       "title": "Coupang dispute fuels new U.S. tariff pressure on South Korea",
       "link": "https://www.cnbc.com/2026/08/31/coupang-south-korea-us-tariffs.html",
@@ -954,7 +943,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-10-04T14:42:16.382832+00:00",
-      "last_seen_at": "2026-10-15T14:02:13.361522+00:00"
+      "last_seen_at": "2026-10-16T01:03:38.508448+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/half-a-dozen-small-hybrids-getting-ready-for-indian-launch/articleshow/134677695.cms": {
       "title": "Half a dozen small hybrids getting ready for Indian launch",
@@ -1314,13 +1303,13 @@
     "https://www.cnbc.com/2026/10/15/memory-stocks-micron-sk-hynix-samsung-china.html": {
       "title": "Memory stocks are getting hammered. China and a 2029 oversupply are the big worries",
       "link": "https://www.cnbc.com/2026/10/15/memory-stocks-micron-sk-hynix-samsung-china.html",
-      "source_name": "CNBC Top News",
+      "source_name": "CNBC World News",
       "country_code": "US",
       "companies": [
         "SK hynix"
       ],
       "first_seen_at": "2026-10-15T14:02:13.361522+00:00",
-      "last_seen_at": "2026-10-15T14:02:13.361522+00:00"
+      "last_seen_at": "2026-10-16T01:03:38.508448+00:00"
     },
     "https://www.thehindubusinessline.com/companies/nexon-geochem-inks-mou-for-rare-earth-permanent-magnet-facility-in-andhra-pradesh/article71586992.ece": {
       "title": "Nexon Geochem inks MoU for rare earth permanent magnet facility in Andhra Pradesh",
@@ -1331,7 +1320,7 @@
         "Nexon"
       ],
       "first_seen_at": "2026-10-15T14:02:13.361522+00:00",
-      "last_seen_at": "2026-10-15T14:02:13.361522+00:00"
+      "last_seen_at": "2026-10-16T01:03:38.508448+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/cars-uvs/mahindra-xuv-3xo-zng-launched-at-rs-9-99-lakh-check-features-mileage-variants/articleshow/134959384.cms": {
       "title": "Mahindra XUV 3XO ZNG launched at Rs 9.99 lakh: Check features, mileage & variants",
@@ -1353,7 +1342,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-10-15T14:02:13.361522+00:00",
-      "last_seen_at": "2026-10-15T14:02:13.361522+00:00"
+      "last_seen_at": "2026-10-16T01:03:38.508448+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/sk-hynix-conditions-new-us-factory-on-more-us-chip-equipment-exports-to-china-sources-say/articleshow/134956254.cms": {
       "title": "SK Hynix conditions new US factory on more US chip equipment exports to China",
@@ -1364,7 +1353,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-10-15T14:02:13.361522+00:00",
-      "last_seen_at": "2026-10-15T14:02:13.361522+00:00"
+      "last_seen_at": "2026-10-16T01:03:38.508448+00:00"
     },
     "https://www.cnbc.com/2026/10/15/jio-ipo-meta-google-ambani-musk.html": {
       "title": "Meta- and Google-backed Jio Platforms to raise up to $3.2 billion in historic IPO in India",
