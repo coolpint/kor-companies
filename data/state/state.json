@@ -1,74 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-16T13:50:33.432591+00:00",
+  "last_run_at": "2026-10-17T01:10:36.080691+00:00",
   "seen_articles": {
-    "https://www.cnbc.com/2026/08/31/coupang-south-korea-us-tariffs.html": {
-      "title": "Coupang dispute fuels new U.S. tariff pressure on South Korea",
-      "link": "https://www.cnbc.com/2026/08/31/coupang-south-korea-us-tariffs.html",
-      "source_name": "CNBC Technology",
-      "country_code": "US",
-      "companies": [
-        "Coupang"
-      ],
-      "first_seen_at": "2026-08-31T16:54:35.065495+00:00",
-      "last_seen_at": "2026-09-01T14:01:48.438155+00:00"
-    },
-    "https://asia.nikkei.com/business/tech/semiconductors/japanese-play-for-sk-hynix-chip-plant-faces-south-korean-policy-hurdles": {
-      "title": "Japanese play for SK Hynix chip plant faces South Korean policy hurdles",
-      "link": "https://asia.nikkei.com/business/tech/semiconductors/japanese-play-for-sk-hynix-chip-plant-faces-south-korean-policy-hurdles",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-09-01T01:43:33.609447+00:00",
-      "last_seen_at": "2026-09-02T00:53:58.133366+00:00"
-    },
-    "https://economictimes.indiatimes.com/industry/auto/auto-news/indias-passenger-vehicle-sales-jump-35-to-4-5-lakh-in-august-as-maruti-mm-drive-growth/articleshow/133681943.cms": {
-      "title": "India’s passenger vehicle sales jump 35% to 4.5 lakh in August as Maruti, M&M drive growth",
-      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/indias-passenger-vehicle-sales-jump-35-to-4-5-lakh-in-august-as-maruti-mm-drive-growth/articleshow/133681943.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor",
-        "Kia"
-      ],
-      "first_seen_at": "2026-09-01T14:01:48.438155+00:00",
-      "last_seen_at": "2026-09-02T00:53:58.133366+00:00"
-    },
-    "https://economictimes.indiatimes.com/industry/auto/auto-news/maruti-crosses-1-million-sales-in-fy27-as-hyundai-tata-motors-report-strong-august-numbers/articleshow/133673155.cms": {
-      "title": "Maruti crosses 1-million sales in FY27 as Hyundai, Tata Motors report strong August numbers",
-      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/maruti-crosses-1-million-sales-in-fy27-as-hyundai-tata-motors-report-strong-august-numbers/articleshow/133673155.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-09-01T14:01:48.438155+00:00",
-      "last_seen_at": "2026-09-01T14:01:48.438155+00:00"
-    },
-    "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-india-august-sales-rise-8-8-to-65796-units/articleshow/133671418.cms": {
-      "title": "Hyundai Motor India August sales rise 8.8% to 65,796 units",
-      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-india-august-sales-rise-8-8-to-65796-units/articleshow/133671418.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-09-01T14:01:48.438155+00:00",
-      "last_seen_at": "2026-09-01T14:01:48.438155+00:00"
-    },
-    "https://www.thehindubusinessline.com/companies/hyundai-motor-india-august-sales-rise-88-to-65796-units/article71413987.ece": {
-      "title": "Hyundai Motor India August sales rise 8.8% to 65,796 units",
-      "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-august-sales-rise-88-to-65796-units/article71413987.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-09-01T14:01:48.438155+00:00",
-      "last_seen_at": "2026-09-02T00:53:58.133366+00:00"
-    },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-india-targets-no-2-spot-with-new-suvs-higher-production-capacity/articleshow/133710694.cms": {
       "title": "Hyundai Motor India targets No. 2 spot with new SUVs, higher production capacity",
       "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-india-targets-no-2-spot-with-new-suvs-higher-production-capacity/articleshow/133710694.cms",
@@ -1276,7 +1209,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-10-15T01:17:56.441140+00:00",
-      "last_seen_at": "2026-10-16T13:50:33.432591+00:00"
+      "last_seen_at": "2026-10-17T01:10:36.080691+00:00"
     },
     "https://www.cnbc.com/2026/10/15/memory-stocks-micron-sk-hynix-samsung-china.html": {
       "title": "Memory stocks are getting hammered. China and a 2029 oversupply are the big worries",
@@ -1298,7 +1231,7 @@
         "Nexon"
       ],
       "first_seen_at": "2026-10-15T14:02:13.361522+00:00",
-      "last_seen_at": "2026-10-16T13:50:33.432591+00:00"
+      "last_seen_at": "2026-10-17T01:10:36.080691+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/cars-uvs/mahindra-xuv-3xo-zng-launched-at-rs-9-99-lakh-check-features-mileage-variants/articleshow/134959384.cms": {
       "title": "Mahindra XUV 3XO ZNG launched at Rs 9.99 lakh: Check features, mileage & variants",
@@ -1320,7 +1253,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-10-15T14:02:13.361522+00:00",
-      "last_seen_at": "2026-10-16T13:50:33.432591+00:00"
+      "last_seen_at": "2026-10-17T01:10:36.080691+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/sk-hynix-conditions-new-us-factory-on-more-us-chip-equipment-exports-to-china-sources-say/articleshow/134956254.cms": {
       "title": "SK Hynix conditions new US factory on more US chip equipment exports to China",
@@ -1347,13 +1280,35 @@
     "https://www.cnbc.com/2026/10/16/bts-concerts-hybe-katseye-cortis.html": {
       "title": "Hybe shares jump 10% as K-pop sensation BTS' tour lifts earnings hopes",
       "link": "https://www.cnbc.com/2026/10/16/bts-concerts-hybe-katseye-cortis.html",
-      "source_name": "CNBC Top News",
+      "source_name": "CNBC World News",
       "country_code": "US",
       "companies": [
         "HYBE"
       ],
       "first_seen_at": "2026-10-16T13:50:33.432591+00:00",
-      "last_seen_at": "2026-10-16T13:50:33.432591+00:00"
+      "last_seen_at": "2026-10-17T01:10:36.080691+00:00"
+    },
+    "https://asia.nikkei.com/spotlight/big-in-asia/south-korea-s-cj-cgv-is-putting-motion-back-into-motion-pictures": {
+      "title": "South Korea's CJ CGV is putting 'motion' back into motion pictures",
+      "link": "https://asia.nikkei.com/spotlight/big-in-asia/south-korea-s-cj-cgv-is-putting-motion-back-into-motion-pictures",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "companies": [
+        "CJ CheilJedang"
+      ],
+      "first_seen_at": "2026-10-17T01:10:36.080691+00:00",
+      "last_seen_at": "2026-10-17T01:10:36.080691+00:00"
+    },
+    "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home": {
+      "title": "Why Apple is finally making its own smart home devices",
+      "link": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
+      "source_name": "The Verge",
+      "country_code": "US",
+      "companies": [
+        "LG Electronics"
+      ],
+      "first_seen_at": "2026-10-17T01:10:36.080691+00:00",
+      "last_seen_at": "2026-10-17T01:10:36.080691+00:00"
     }
   }
 }

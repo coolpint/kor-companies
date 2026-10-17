@@ -1,38 +1,107 @@
 {
-  "run_at": "2026-10-16T13:50:33.432591+00:00",
+  "run_at": "2026-10-17T01:10:36.080691+00:00",
   "summary": {
     "source_count": 73,
     "success_count": 70,
     "failed_count": 3,
-    "matched_count": 9,
-    "new_count": 1
+    "matched_count": 6,
+    "new_count": 2
   },
   "new_articles": [
     {
-      "article_key": "https://www.cnbc.com/2026/10/16/bts-concerts-hybe-katseye-cortis.html",
-      "canonical_link": "https://www.cnbc.com/2026/10/16/bts-concerts-hybe-katseye-cortis.html",
-      "link": "https://www.cnbc.com/2026/10/16/bts-concerts-hybe-katseye-cortis.html",
-      "title": "Hybe shares jump 10% as K-pop sensation BTS' tour lifts earnings hopes",
-      "summary": "HYBE 관련 기사다. 기사 제목은 'Hybe shares jump 10% as K-pop sensation BTS' tour lifts earnings hopes'이다. BTS' world tour and rising global demand for newer K-pop acts are fueling earnings expectations, sending Hybe shares soaring. Hybe's third-quarter revenue is expected to reach 1 CGS Securities analyst Jiwoo Oh told CNBC after Hybe's second-quarter earnings that while concerts and appearances carry steeper costs for the company due to higher revenue sharing with artistes, merchandise, content and fan club businesses help boost the companies bottom line significantly She also pointed out that in its second quarter, Hybe delivered an 11 After Hybe reported second-quarter results on July 28, the company's shares crashed , wiping out as much as $1 4 billion won, expressed optimism around Hybe's newer acts, stating \"growth among younger artists is becoming more visible alongside BTS' tour. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Hybe shares jump 10% as K-pop sensation BTS' tour lifts earnings hopes",
-      "original_summary": "BTS' world tour and rising global demand for newer K-pop acts are fueling earnings expectations, sending Hybe shares soaring.",
-      "company_summary": "HYBE 관련 기사다. 기사 제목은 'Hybe shares jump 10% as K-pop sensation BTS' tour lifts earnings hopes'이다. BTS' world tour and rising global demand for newer K-pop acts are fueling earnings expectations, sending Hybe shares soaring. Hybe's third-quarter revenue is expected to reach 1 CGS Securities analyst Jiwoo Oh told CNBC after Hybe's second-quarter earnings that while concerts and appearances carry steeper costs for the company due to higher revenue sharing with artistes, merchandise, content and fan club businesses help boost the companies bottom line significantly She also pointed out that in its second quarter, Hybe delivered an 11 After Hybe reported second-quarter results on July 28, the company's shares crashed , wiping out as much as $1 4 billion won, expressed optimism around Hybe's newer acts, stating \"growth among younger artists is becoming more visible alongside BTS' tour. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-16T03:53:48+00:00",
-      "source_id": "cnbc_top_news",
-      "source_name": "CNBC Top News",
+      "article_key": "https://asia.nikkei.com/spotlight/big-in-asia/south-korea-s-cj-cgv-is-putting-motion-back-into-motion-pictures",
+      "canonical_link": "https://asia.nikkei.com/spotlight/big-in-asia/south-korea-s-cj-cgv-is-putting-motion-back-into-motion-pictures",
+      "link": "https://asia.nikkei.com/spotlight/big-in-asia/south-korea-s-cj-cgv-is-putting-motion-back-into-motion-pictures",
+      "title": "South Korea's CJ CGV is putting 'motion' back into motion pictures",
+      "summary": "CJ CheilJedang 관련 기사다. 기사 제목은 'South Korea's CJ CGV is putting 'motion' back into motion pictures'이다. SEOUL -- For office worker Kim So-jeong, going to see a movie like \"The Odyssey\" is about more than sitting back and watching the film. \"When character. Moviegoers increasingly wiling to pay extra for screenings in company's premium formats. Although the movie industry has yet to shake off the effects of the COVID-19 pandemic and the defection of consumers to streaming services, demand for immersive cinema experiences such as those provided by CJ 4DPlex's ultra-wide screens and movable seats is growing (Nikkei illustration) Big in Asia South Korea's CJ CGV is putting 'motion' back into motion pictures Moviegoers increasingly wiling to pay extra for screenings in company's premium formats KIM JAEWON October 17, 2026 06:00 JST SEOUL -- For office worker Kim So-jeong, going to see a movie like \"The Odyssey\" is about more than sitting back and watching the film. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "South Korea's CJ CGV is putting 'motion' back into motion pictures",
+      "original_summary": "",
+      "company_summary": "CJ CheilJedang 관련 기사다. 기사 제목은 'South Korea's CJ CGV is putting 'motion' back into motion pictures'이다. SEOUL -- For office worker Kim So-jeong, going to see a movie like \"The Odyssey\" is about more than sitting back and watching the film. \"When character. Moviegoers increasingly wiling to pay extra for screenings in company's premium formats. Although the movie industry has yet to shake off the effects of the COVID-19 pandemic and the defection of consumers to streaming services, demand for immersive cinema experiences such as those provided by CJ 4DPlex's ultra-wide screens and movable seats is growing (Nikkei illustration) Big in Asia South Korea's CJ CGV is putting 'motion' back into motion pictures Moviegoers increasingly wiling to pay extra for screenings in company's premium formats KIM JAEWON October 17, 2026 06:00 JST SEOUL -- For office worker Kim So-jeong, going to see a movie like \"The Odyssey\" is about more than sitting back and watching the film. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-16T21:00:14+00:00",
+      "source_id": "nikkei_asia",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "country_name_ko": "일본",
+      "source_language": "en",
+      "matched_companies": [
+        "CJ CheilJedang"
+      ],
+      "matched_aliases": [
+        "CJ"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
+      "canonical_link": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
+      "link": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
+      "title": "Why Apple is finally making its own smart home devices",
+      "summary": "LG Electronics 관련 기사다. 기사 제목은 'Why Apple is finally making its own smart home devices'이다. For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video doorbell, all codeveloped with LG Electronics and Schneider Electric. They arrive alongside HomeView, […]. For more than a decade, Apple has told other companies to build smart home devices for its platform This week, Apple launched its own The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video doorbell, all codeveloped with LG Electronics and Schneider Electric They arrive alongside HomeView , Apple’s first smart display Even after 12 years of HomeKit, Apple’s smart home ecosystem still felt underdeveloped, especially compared to the competition. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Why Apple is finally making its own smart home devices",
+      "original_summary": "For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video doorbell, all codeveloped with LG Electronics and Schneider Electric. They arrive alongside HomeView, […]",
+      "company_summary": "LG Electronics 관련 기사다. 기사 제목은 'Why Apple is finally making its own smart home devices'이다. For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video doorbell, all codeveloped with LG Electronics and Schneider Electric. They arrive alongside HomeView, […]. For more than a decade, Apple has told other companies to build smart home devices for its platform This week, Apple launched its own The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video doorbell, all codeveloped with LG Electronics and Schneider Electric They arrive alongside HomeView , Apple’s first smart display Even after 12 years of HomeKit, Apple’s smart home ecosystem still felt underdeveloped, especially compared to the competition. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-16T18:30:27+00:00",
+      "source_id": "theverge",
+      "source_name": "The Verge",
       "country_code": "US",
       "country_name_ko": "미국",
       "source_language": "en",
       "matched_companies": [
-        "HYBE"
+        "LG Electronics"
       ],
       "matched_aliases": [
-        "HYBE"
+        "LG Electronics"
       ],
       "is_new": true
     }
   ],
   "matched_articles": [
+    {
+      "article_key": "https://asia.nikkei.com/spotlight/big-in-asia/south-korea-s-cj-cgv-is-putting-motion-back-into-motion-pictures",
+      "canonical_link": "https://asia.nikkei.com/spotlight/big-in-asia/south-korea-s-cj-cgv-is-putting-motion-back-into-motion-pictures",
+      "link": "https://asia.nikkei.com/spotlight/big-in-asia/south-korea-s-cj-cgv-is-putting-motion-back-into-motion-pictures",
+      "title": "South Korea's CJ CGV is putting 'motion' back into motion pictures",
+      "summary": "CJ CheilJedang 관련 기사다. 기사 제목은 'South Korea's CJ CGV is putting 'motion' back into motion pictures'이다. SEOUL -- For office worker Kim So-jeong, going to see a movie like \"The Odyssey\" is about more than sitting back and watching the film. \"When character. Moviegoers increasingly wiling to pay extra for screenings in company's premium formats. Although the movie industry has yet to shake off the effects of the COVID-19 pandemic and the defection of consumers to streaming services, demand for immersive cinema experiences such as those provided by CJ 4DPlex's ultra-wide screens and movable seats is growing (Nikkei illustration) Big in Asia South Korea's CJ CGV is putting 'motion' back into motion pictures Moviegoers increasingly wiling to pay extra for screenings in company's premium formats KIM JAEWON October 17, 2026 06:00 JST SEOUL -- For office worker Kim So-jeong, going to see a movie like \"The Odyssey\" is about more than sitting back and watching the film. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "South Korea's CJ CGV is putting 'motion' back into motion pictures",
+      "original_summary": "",
+      "company_summary": "CJ CheilJedang 관련 기사다. 기사 제목은 'South Korea's CJ CGV is putting 'motion' back into motion pictures'이다. SEOUL -- For office worker Kim So-jeong, going to see a movie like \"The Odyssey\" is about more than sitting back and watching the film. \"When character. Moviegoers increasingly wiling to pay extra for screenings in company's premium formats. Although the movie industry has yet to shake off the effects of the COVID-19 pandemic and the defection of consumers to streaming services, demand for immersive cinema experiences such as those provided by CJ 4DPlex's ultra-wide screens and movable seats is growing (Nikkei illustration) Big in Asia South Korea's CJ CGV is putting 'motion' back into motion pictures Moviegoers increasingly wiling to pay extra for screenings in company's premium formats KIM JAEWON October 17, 2026 06:00 JST SEOUL -- For office worker Kim So-jeong, going to see a movie like \"The Odyssey\" is about more than sitting back and watching the film. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-16T21:00:14+00:00",
+      "source_id": "nikkei_asia",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "country_name_ko": "일본",
+      "source_language": "en",
+      "matched_companies": [
+        "CJ CheilJedang"
+      ],
+      "matched_aliases": [
+        "CJ"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
+      "canonical_link": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
+      "link": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
+      "title": "Why Apple is finally making its own smart home devices",
+      "summary": "LG Electronics 관련 기사다. 기사 제목은 'Why Apple is finally making its own smart home devices'이다. For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video doorbell, all codeveloped with LG Electronics and Schneider Electric. They arrive alongside HomeView, […]. For more than a decade, Apple has told other companies to build smart home devices for its platform This week, Apple launched its own The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video doorbell, all codeveloped with LG Electronics and Schneider Electric They arrive alongside HomeView , Apple’s first smart display Even after 12 years of HomeKit, Apple’s smart home ecosystem still felt underdeveloped, especially compared to the competition. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Why Apple is finally making its own smart home devices",
+      "original_summary": "For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video doorbell, all codeveloped with LG Electronics and Schneider Electric. They arrive alongside HomeView, […]",
+      "company_summary": "LG Electronics 관련 기사다. 기사 제목은 'Why Apple is finally making its own smart home devices'이다. For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video doorbell, all codeveloped with LG Electronics and Schneider Electric. They arrive alongside HomeView, […]. For more than a decade, Apple has told other companies to build smart home devices for its platform This week, Apple launched its own The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video doorbell, all codeveloped with LG Electronics and Schneider Electric They arrive alongside HomeView , Apple’s first smart display Even after 12 years of HomeKit, Apple’s smart home ecosystem still felt underdeveloped, especially compared to the competition. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-16T18:30:27+00:00",
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "country_code": "US",
+      "country_name_ko": "미국",
+      "source_language": "en",
+      "matched_companies": [
+        "LG Electronics"
+      ],
+      "matched_aliases": [
+        "LG Electronics"
+      ],
+      "is_new": true
+    },
     {
       "article_key": "https://www.thehindubusinessline.com/companies/nexon-geochem-inks-mou-for-rare-earth-permanent-magnet-facility-in-andhra-pradesh/article71586992.ece",
       "canonical_link": "https://www.thehindubusinessline.com/companies/nexon-geochem-inks-mou-for-rare-earth-permanent-magnet-facility-in-andhra-pradesh/article71586992.ece",
@@ -103,78 +172,6 @@
       "is_new": false
     },
     {
-      "article_key": "https://www.thehindubusinessline.com/companies/nexon-geochem-to-set-up-1250-crore-rare-earth-permanent-magnet-facility-in-andhra-pradesh/article71582826.ece",
-      "canonical_link": "https://www.thehindubusinessline.com/companies/nexon-geochem-to-set-up-1250-crore-rare-earth-permanent-magnet-facility-in-andhra-pradesh/article71582826.ece",
-      "link": "https://www.thehindubusinessline.com/companies/nexon-geochem-to-set-up-1250-crore-rare-earth-permanent-magnet-facility-in-andhra-pradesh/article71582826.ece",
-      "title": "Nexon Geochem to set up ₹1,250-crore rare-earth permanent magnet facility in Andhra Pradesh",
-      "summary": "Nexon 관련 기사다. 기사 제목은 'Nexon Geochem to set up ₹1,250-crore rare-earth permanent magnet facility in Andhra Pradesh'이다. The facility would feature annual production capacity of 600 tonnes of high-grade permanent magnets, serving the rapidly growing electric vehicle (EV), renewable energy and advanced manufacturing sectors. com/companies/nexon-geochem-to-set-up-1250-crore-rare-earth-permanent-magnet-facility-in-andhra-pradesh/article71582826 ece Rare-earth magnet (Image for representation) Advanced materials company Nexon Geochem on Wednesday said a rare-earth permanent magnet facility will be set up in Andhra Pradesh with an investment of ₹1,250 crore As the driving force and primary investor behind this project, Nexon Geochem is committing a total investment of ₹1,250 crore across two strategic phases — ₹750 crore dedicated to the first phase and ₹500 crore allocated for the second phase “Nexon Geochem today announced the signing of a landmark Memorandum of Understanding (MoU) with the Andhra Pradesh Economic Development Board to establish an integrated sintered NdFeB rare-earth permanent magnet manufacturing facility in Thondangi, Kakinada district,” the statement said “Our vision is to establish an integrated NdFeB magnet manufacturing ecosystem that strengthens supply-chain security, reduces import dependence, and supports India’s ambitions in electric mobility, renewable energy and advanced manufacturing,” Praveen Kumar Choudhary, Director, Nexon Geochem Pvt Ltd, said. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Nexon Geochem to set up ₹1,250-crore rare-earth permanent magnet facility in Andhra Pradesh",
-      "original_summary": "The facility would feature annual production capacity of 600 tonnes of high-grade permanent magnets, serving the rapidly growing electric vehicle (EV), renewable energy and advanced manufacturing sectors",
-      "company_summary": "Nexon 관련 기사다. 기사 제목은 'Nexon Geochem to set up ₹1,250-crore rare-earth permanent magnet facility in Andhra Pradesh'이다. The facility would feature annual production capacity of 600 tonnes of high-grade permanent magnets, serving the rapidly growing electric vehicle (EV), renewable energy and advanced manufacturing sectors. com/companies/nexon-geochem-to-set-up-1250-crore-rare-earth-permanent-magnet-facility-in-andhra-pradesh/article71582826 ece Rare-earth magnet (Image for representation) Advanced materials company Nexon Geochem on Wednesday said a rare-earth permanent magnet facility will be set up in Andhra Pradesh with an investment of ₹1,250 crore As the driving force and primary investor behind this project, Nexon Geochem is committing a total investment of ₹1,250 crore across two strategic phases — ₹750 crore dedicated to the first phase and ₹500 crore allocated for the second phase “Nexon Geochem today announced the signing of a landmark Memorandum of Understanding (MoU) with the Andhra Pradesh Economic Development Board to establish an integrated sintered NdFeB rare-earth permanent magnet manufacturing facility in Thondangi, Kakinada district,” the statement said “Our vision is to establish an integrated NdFeB magnet manufacturing ecosystem that strengthens supply-chain security, reduces import dependence, and supports India’s ambitions in electric mobility, renewable energy and advanced manufacturing,” Praveen Kumar Choudhary, Director, Nexon Geochem Pvt Ltd, said. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-16T11:29:37+00:00",
-      "source_id": "businessline_companies",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "country_name_ko": "인도",
-      "source_language": "en",
-      "matched_companies": [
-        "Nexon"
-      ],
-      "matched_aliases": [
-        "Nexon"
-      ],
-      "is_new": false
-    },
-    {
-      "article_key": "https://www.thehindubusinessline.com/news/hyundai-motor-group-to-invest-147-lakh-crore-till-2032/article71580464.ece",
-      "canonical_link": "https://www.thehindubusinessline.com/news/hyundai-motor-group-to-invest-147-lakh-crore-till-2032/article71580464.ece",
-      "link": "https://www.thehindubusinessline.com/news/hyundai-motor-group-to-invest-147-lakh-crore-till-2032/article71580464.ece",
-      "title": "Hyundai Motor Group to invest ₹1.47 lakh crore till 2032",
-      "summary": "Hyundai Motor, Kia 관련 기사다. 기사 제목은 'Hyundai Motor Group to invest ₹1.47 lakh crore till 2032'이다. Investment includes last year’s commitment of ₹45,000 crore till 2030 — spans around capacity expansion, R&D, future mobility — for both Hyundai and Kia. 47 lakh crore till 2032 Investment includes last year’s commitment of ₹45,000 crore till 2030 — spans around capacity expansion, R&D, future mobility — for both Hyundai and Kia By S Ronendra Singh Updated - October 16, 2026 at 04:20 PM “India remains one of Hyundai Motor Group’s most important and strategic markets globally This outlay incorporates the ₹45,000-crore investment announced by Hyundai Motor Company (HMC) last October through 2030, sources told businessline The allocation extends to group entity Kia India, specifically targeting R&D Auto ecosystem The group will build a comprehensive automotive ecosystem in key areas including expansion of manufacturing capacity across Hyundai Motor India (HMIL) and Kia India to support significant volume growth while ensuring localisation. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Hyundai Motor Group to invest ₹1.47 lakh crore till 2032",
-      "original_summary": "Investment includes last year’s commitment of ₹45,000 crore till 2030 — spans around capacity expansion, R&D, future mobility — for both Hyundai and Kia",
-      "company_summary": "Hyundai Motor, Kia 관련 기사다. 기사 제목은 'Hyundai Motor Group to invest ₹1.47 lakh crore till 2032'이다. Investment includes last year’s commitment of ₹45,000 crore till 2030 — spans around capacity expansion, R&D, future mobility — for both Hyundai and Kia. 47 lakh crore till 2032 Investment includes last year’s commitment of ₹45,000 crore till 2030 — spans around capacity expansion, R&D, future mobility — for both Hyundai and Kia By S Ronendra Singh Updated - October 16, 2026 at 04:20 PM “India remains one of Hyundai Motor Group’s most important and strategic markets globally This outlay incorporates the ₹45,000-crore investment announced by Hyundai Motor Company (HMC) last October through 2030, sources told businessline The allocation extends to group entity Kia India, specifically targeting R&D Auto ecosystem The group will build a comprehensive automotive ecosystem in key areas including expansion of manufacturing capacity across Hyundai Motor India (HMIL) and Kia India to support significant volume growth while ensuring localisation. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-16T10:50:27+00:00",
-      "source_id": "businessline_companies",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "country_name_ko": "인도",
-      "source_language": "en",
-      "matched_companies": [
-        "Hyundai Motor",
-        "Kia"
-      ],
-      "matched_aliases": [
-        "Hyundai Motor",
-        "Hyundai",
-        "Kia"
-      ],
-      "is_new": false
-    },
-    {
-      "article_key": "https://www.thehindubusinessline.com/companies/hyundai-bets-on-talegaon-as-export-hub-capacity-expansion-fuels-growth-ambitions/article71576820.ece",
-      "canonical_link": "https://www.thehindubusinessline.com/companies/hyundai-bets-on-talegaon-as-export-hub-capacity-expansion-fuels-growth-ambitions/article71576820.ece",
-      "link": "https://www.thehindubusinessline.com/companies/hyundai-bets-on-talegaon-as-export-hub-capacity-expansion-fuels-growth-ambitions/article71576820.ece",
-      "title": "Hyundai bets on Talegaon as export hub, capacity expansion fuels growth ambitions",
-      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai bets on Talegaon as export hub, capacity expansion fuels growth ambitions'이다. The additional capacity comes at a crucial time for HMIL, which has faced rising competition and production constraints in recent years. ece Hyundai Motor India’s (HMIL) Talegaon expansion is central to its ₹45,000 crore investment roadmap, which includes 26 product launches by FY2030 | Photo Credit: AMIT DAVE Hyundai Motor India’s (HMIL) Talegaon expansion is central to its ₹45,000 crore investment roadmap, which includes 26 product launches by FY2030 and a target of exporting about 30 per cent of vehicles produced in India Hyundai plans to export the model to around 35 markets, compared with 28 for the outgoing generation Motilal Oswal expects Hyundai’s volumes to grow about 9 per cent annually between FY2026 and FY2028, driven by new launches and a strong export order book, while exports could expand at around 12 per cent annually Hyundai plans to expand Talegaon’s capacity to 250,000 units by 2028 and 320,000 units by 2030, cementing India’s role as a key manufacturing and export hub within the group. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Hyundai bets on Talegaon as export hub, capacity expansion fuels growth ambitions",
-      "original_summary": "The additional capacity comes at a crucial time for HMIL, which has faced rising competition and production constraints in recent years",
-      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai bets on Talegaon as export hub, capacity expansion fuels growth ambitions'이다. The additional capacity comes at a crucial time for HMIL, which has faced rising competition and production constraints in recent years. ece Hyundai Motor India’s (HMIL) Talegaon expansion is central to its ₹45,000 crore investment roadmap, which includes 26 product launches by FY2030 | Photo Credit: AMIT DAVE Hyundai Motor India’s (HMIL) Talegaon expansion is central to its ₹45,000 crore investment roadmap, which includes 26 product launches by FY2030 and a target of exporting about 30 per cent of vehicles produced in India Hyundai plans to export the model to around 35 markets, compared with 28 for the outgoing generation Motilal Oswal expects Hyundai’s volumes to grow about 9 per cent annually between FY2026 and FY2028, driven by new launches and a strong export order book, while exports could expand at around 12 per cent annually Hyundai plans to expand Talegaon’s capacity to 250,000 units by 2028 and 320,000 units by 2030, cementing India’s role as a key manufacturing and export hub within the group. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-16T10:40:53+00:00",
-      "source_id": "businessline_companies",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "country_name_ko": "인도",
-      "source_language": "en",
-      "matched_companies": [
-        "Hyundai Motor"
-      ],
-      "matched_aliases": [
-        "Hyundai"
-      ],
-      "is_new": false
-    },
-    {
       "article_key": "https://www.cnbc.com/2026/10/16/bts-concerts-hybe-katseye-cortis.html",
       "canonical_link": "https://www.cnbc.com/2026/10/16/bts-concerts-hybe-katseye-cortis.html",
       "link": "https://www.cnbc.com/2026/10/16/bts-concerts-hybe-katseye-cortis.html",
@@ -184,62 +181,16 @@
       "original_summary": "BTS' world tour and rising global demand for newer K-pop acts are fueling earnings expectations, sending Hybe shares soaring.",
       "company_summary": "HYBE 관련 기사다. 기사 제목은 'Hybe shares jump 10% as K-pop sensation BTS' tour lifts earnings hopes'이다. BTS' world tour and rising global demand for newer K-pop acts are fueling earnings expectations, sending Hybe shares soaring. Hybe's third-quarter revenue is expected to reach 1 CGS Securities analyst Jiwoo Oh told CNBC after Hybe's second-quarter earnings that while concerts and appearances carry steeper costs for the company due to higher revenue sharing with artistes, merchandise, content and fan club businesses help boost the companies bottom line significantly She also pointed out that in its second quarter, Hybe delivered an 11 After Hybe reported second-quarter results on July 28, the company's shares crashed , wiping out as much as $1 4 billion won, expressed optimism around Hybe's newer acts, stating \"growth among younger artists is becoming more visible alongside BTS' tour. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
       "published_at": "2026-10-16T03:53:48+00:00",
-      "source_id": "cnbc_top_news",
-      "source_name": "CNBC Top News",
-      "country_code": "US",
-      "country_name_ko": "미국",
-      "source_language": "en",
-      "matched_companies": [
-        "HYBE"
-      ],
-      "matched_aliases": [
-        "HYBE"
-      ],
-      "is_new": true
-    },
-    {
-      "article_key": "https://www.cnbc.com/2026/10/15/memory-stocks-micron-sk-hynix-samsung-china.html",
-      "canonical_link": "https://www.cnbc.com/2026/10/15/memory-stocks-micron-sk-hynix-samsung-china.html",
-      "link": "https://www.cnbc.com/2026/10/15/memory-stocks-micron-sk-hynix-samsung-china.html",
-      "title": "Memory stocks are getting hammered. China and a 2029 oversupply are the big worries",
-      "summary": "SK hynix 관련 기사다. 기사 제목은 'Memory stocks are getting hammered. China and a 2029 oversupply are the big worries'이다. SK Hynix, Samsung and Micron have been some of the hardest-hit names in the latest tech sell-off. In this article SKHY MU Korea KOSPI Index displayed on a smartphone with SK hynix and Samsung logo displayed Over the last five days, SK Hynix has plunged 26%, Samsung has tanked 22% and Micron has dropped around 11% CXMT's design would allow higher storage density, raising concerns that the breakthrough could result in the Chinese company taking global market share from rivals Samsung, SK Hynix and Micron \" watch now VIDEO 5:07 05:07 Rosenblatt's Kevin Cassidy on CXMT's new memory design: Don't think it will swing supply-demand equation Squawk Box Random access memory (RAM) is produced by the likes of SK Hynix, Samsung and Micron as well as CXMT in China That has led to huge rallies in the share price of Samsung, SK Hynix and Micron, the three biggest memory makers. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Memory stocks are getting hammered. China and a 2029 oversupply are the big worries",
-      "original_summary": "SK Hynix, Samsung and Micron have been some of the hardest-hit names in the latest tech sell-off.",
-      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'Memory stocks are getting hammered. China and a 2029 oversupply are the big worries'이다. SK Hynix, Samsung and Micron have been some of the hardest-hit names in the latest tech sell-off. In this article SKHY MU Korea KOSPI Index displayed on a smartphone with SK hynix and Samsung logo displayed Over the last five days, SK Hynix has plunged 26%, Samsung has tanked 22% and Micron has dropped around 11% CXMT's design would allow higher storage density, raising concerns that the breakthrough could result in the Chinese company taking global market share from rivals Samsung, SK Hynix and Micron \" watch now VIDEO 5:07 05:07 Rosenblatt's Kevin Cassidy on CXMT's new memory design: Don't think it will swing supply-demand equation Squawk Box Random access memory (RAM) is produced by the likes of SK Hynix, Samsung and Micron as well as CXMT in China That has led to huge rallies in the share price of Samsung, SK Hynix and Micron, the three biggest memory makers. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-15T12:15:09+00:00",
       "source_id": "cnbc_world",
       "source_name": "CNBC World News",
       "country_code": "US",
       "country_name_ko": "미국",
       "source_language": "en",
       "matched_companies": [
-        "SK hynix"
+        "HYBE"
       ],
       "matched_aliases": [
-        "SK hynix"
-      ],
-      "is_new": false
-    },
-    {
-      "article_key": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-conditions-new-us-factory-on-more-us-chip-equipment-exports-to-china-sources-say/articleshow/134956254.cms",
-      "canonical_link": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-conditions-new-us-factory-on-more-us-chip-equipment-exports-to-china-sources-say/articleshow/134956254.cms",
-      "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-conditions-new-us-factory-on-more-us-chip-equipment-exports-to-china-sources-say/articleshow/134956254.cms",
-      "title": "SK Hynix conditions new US factory on more US chip equipment exports to China",
-      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix conditions new US factory on more US chip equipment exports to China'이다. The Trump administration is pressing SK Hynix, Samsung and other foreign chipmakers to build plants in the US in a drive to rebuild US manufacturing capacity and create jobs. \"The installation of equipment for Mod B is being carried out in close consultation with and under authorization from the US government,\" SK Hynix said in a statement to Reuters In December, the department issued a 2026 license for SK Hynix's Dalian site that limited the quantity of equipment SK Hynix's Dalian facility is home to a fab space known as Mod B that it built in 2023, one source said Reuters reported last month that SK Hynix was separately in talks with Intel to lease part of its long-planned chipmaking facility in Ohio SK Hynix's Seoul-listed shares slumped 11% amid a broader tech selloff on Thursday. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "SK Hynix conditions new US factory on more US chip equipment exports to China",
-      "original_summary": "The Trump administration is pressing SK Hynix, Samsung and other foreign chipmakers to build plants in the US in a drive to rebuild US manufacturing capacity and create jobs.",
-      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix conditions new US factory on more US chip equipment exports to China'이다. The Trump administration is pressing SK Hynix, Samsung and other foreign chipmakers to build plants in the US in a drive to rebuild US manufacturing capacity and create jobs. \"The installation of equipment for Mod B is being carried out in close consultation with and under authorization from the US government,\" SK Hynix said in a statement to Reuters In December, the department issued a 2026 license for SK Hynix's Dalian site that limited the quantity of equipment SK Hynix's Dalian facility is home to a fab space known as Mod B that it built in 2023, one source said Reuters reported last month that SK Hynix was separately in talks with Intel to lease part of its long-planned chipmaking facility in Ohio SK Hynix's Seoul-listed shares slumped 11% amid a broader tech selloff on Thursday. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-15T03:23:21+00:00",
-      "source_id": "economic_times_tech",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "country_name_ko": "인도",
-      "source_language": "en",
-      "matched_companies": [
-        "SK hynix"
-      ],
-      "matched_aliases": [
-        "SK hynix"
+        "HYBE"
       ],
       "is_new": false
     }
@@ -323,7 +274,7 @@
       "country_code": "US",
       "success": true,
       "item_count": 10,
-      "matched_count": 0,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -359,7 +310,7 @@
       "country_code": "JP",
       "success": true,
       "item_count": 50,
-      "matched_count": 0,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -457,7 +408,7 @@
       "source_name": "Deutsche Welle World",
       "country_code": "DE",
       "success": true,
-      "item_count": 12,
+      "item_count": 11,
       "matched_count": 0,
       "error": ""
     },
@@ -475,7 +426,7 @@
       "source_name": "tagesschau Wirtschaft",
       "country_code": "DE",
       "success": true,
-      "item_count": 26,
+      "item_count": 22,
       "matched_count": 0,
       "error": ""
     },
@@ -511,7 +462,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 36,
+      "item_count": 33,
       "matched_count": 0,
       "error": ""
     },
@@ -638,7 +589,7 @@
       "country_code": "US",
       "success": true,
       "item_count": 30,
-      "matched_count": 1,
+      "matched_count": 0,
       "error": ""
     },
     {
@@ -647,7 +598,7 @@
       "country_code": "US",
       "success": true,
       "item_count": 30,
-      "matched_count": 2,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -656,7 +607,7 @@
       "country_code": "US",
       "success": true,
       "item_count": 30,
-      "matched_count": 1,
+      "matched_count": 0,
       "error": ""
     },
     {
@@ -746,7 +697,7 @@
       "country_code": "IN",
       "success": true,
       "item_count": 50,
-      "matched_count": 1,
+      "matched_count": 0,
       "error": ""
     },
     {
@@ -755,7 +706,7 @@
       "country_code": "IN",
       "success": true,
       "item_count": 60,
-      "matched_count": 6,
+      "matched_count": 3,
       "error": ""
     },
     {
@@ -799,7 +750,7 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 44,
+      "item_count": 43,
       "matched_count": 0,
       "error": ""
     },
@@ -844,7 +795,7 @@
       "source_name": "Taipei Times",
       "country_code": "TW",
       "success": true,
-      "item_count": 52,
+      "item_count": 51,
       "matched_count": 0,
       "error": ""
     },
