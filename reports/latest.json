@@ -1,10 +1,10 @@
 {
-  "run_at": "2026-10-18T00:44:10.598741+00:00",
+  "run_at": "2026-10-18T13:05:10.238173+00:00",
   "summary": {
     "source_count": 73,
     "success_count": 70,
     "failed_count": 3,
-    "matched_count": 2,
+    "matched_count": 1,
     "new_count": 0
   },
   "new_articles": [],
@@ -29,29 +29,6 @@
       ],
       "matched_aliases": [
         "CJ"
-      ],
-      "is_new": false
-    },
-    {
-      "article_key": "https://www.thehindubusinessline.com/companies/nexon-geochem-inks-mou-for-rare-earth-permanent-magnet-facility-in-andhra-pradesh/article71586992.ece",
-      "canonical_link": "https://www.thehindubusinessline.com/companies/nexon-geochem-inks-mou-for-rare-earth-permanent-magnet-facility-in-andhra-pradesh/article71586992.ece",
-      "link": "https://www.thehindubusinessline.com/companies/nexon-geochem-inks-mou-for-rare-earth-permanent-magnet-facility-in-andhra-pradesh/article71586992.ece",
-      "title": "Nexon Geochem inks MoU for rare earth permanent magnet facility in Andhra Pradesh",
-      "summary": "Nexon 관련 기사다. 기사 제목은 'Nexon Geochem inks MoU for rare earth permanent magnet facility in Andhra Pradesh'이다. Nexon Geochem has committed a total investment of ₹1,250 crore across two phases: ₹750 crore dedicated to Phase 1 and ₹500 crore allocated for Phase 2. As the primary investor behind the project, Nexon Geochem has committed a total investment of ₹1,250 crore across two phases: ₹750 crore dedicated to Phase 1 and ₹500 crore allocated for Phase 2 The phased investment outlay, alongside Nexon’s specialised technology, design engineering, and advanced equipment will back a world-class manufacturing ecosystem across a 30-acre footprint Praveen Kumar Choudhary, Director of Nexon Geochem, told businessline , “Our vision is to establish an integrated NdFeB magnet manufacturing ecosystem that strengthens supply-chain security, reduces import dependence, and supports India’s ambitions in electric mobility, renewable energy, and advanced manufacturing Nexon Geochem will work closely with relevant state departments to progress land allotment and infrastructure development in a strictly time-bound manner Through this multi-phase development roadmap, Nexon Geochem is well-positioned to scale domestic manufacturing capacity swiftly, delivering long-term strategic value to both the state of Andhra Pradesh and India’s broader green economy. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Nexon Geochem inks MoU for rare earth permanent magnet facility in Andhra Pradesh",
-      "original_summary": "Nexon Geochem has committed a total investment of ₹1,250 crore across two phases: ₹750 crore dedicated to Phase 1 and ₹500 crore allocated for Phase 2.",
-      "company_summary": "Nexon 관련 기사다. 기사 제목은 'Nexon Geochem inks MoU for rare earth permanent magnet facility in Andhra Pradesh'이다. Nexon Geochem has committed a total investment of ₹1,250 crore across two phases: ₹750 crore dedicated to Phase 1 and ₹500 crore allocated for Phase 2. As the primary investor behind the project, Nexon Geochem has committed a total investment of ₹1,250 crore across two phases: ₹750 crore dedicated to Phase 1 and ₹500 crore allocated for Phase 2 The phased investment outlay, alongside Nexon’s specialised technology, design engineering, and advanced equipment will back a world-class manufacturing ecosystem across a 30-acre footprint Praveen Kumar Choudhary, Director of Nexon Geochem, told businessline , “Our vision is to establish an integrated NdFeB magnet manufacturing ecosystem that strengthens supply-chain security, reduces import dependence, and supports India’s ambitions in electric mobility, renewable energy, and advanced manufacturing Nexon Geochem will work closely with relevant state departments to progress land allotment and infrastructure development in a strictly time-bound manner Through this multi-phase development roadmap, Nexon Geochem is well-positioned to scale domestic manufacturing capacity swiftly, delivering long-term strategic value to both the state of Andhra Pradesh and India’s broader green economy. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-16T12:56:09+00:00",
-      "source_id": "businessline_companies",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "country_name_ko": "인도",
-      "source_language": "en",
-      "matched_companies": [
-        "Nexon"
-      ],
-      "matched_aliases": [
-        "Nexon"
       ],
       "is_new": false
     }
@@ -269,7 +246,7 @@
       "source_name": "Deutsche Welle World",
       "country_code": "DE",
       "success": true,
-      "item_count": 11,
+      "item_count": 12,
       "matched_count": 0,
       "error": ""
     },
@@ -287,7 +264,7 @@
       "source_name": "tagesschau Wirtschaft",
       "country_code": "DE",
       "success": true,
-      "item_count": 24,
+      "item_count": 25,
       "matched_count": 0,
       "error": ""
     },
@@ -314,7 +291,7 @@
       "source_name": "BBC Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 49,
+      "item_count": 53,
       "matched_count": 0,
       "error": ""
     },
@@ -323,7 +300,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 27,
+      "item_count": 29,
       "matched_count": 0,
       "error": ""
     },
@@ -377,7 +354,7 @@
       "source_name": "The Guardian Technology",
       "country_code": "GB",
       "success": true,
-      "item_count": 31,
+      "item_count": 32,
       "matched_count": 0,
       "error": ""
     },
@@ -567,7 +544,7 @@
       "country_code": "IN",
       "success": true,
       "item_count": 60,
-      "matched_count": 1,
+      "matched_count": 0,
       "error": ""
     },
     {
@@ -611,7 +588,7 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 25,
+      "item_count": 12,
       "matched_count": 0,
       "error": ""
     },
