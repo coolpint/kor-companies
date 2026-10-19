@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-19T00:57:18.688124+00:00",
+  "last_run_at": "2026-10-19T16:19:12.201657+00:00",
   "seen_articles": {
     "https://www.thehindubusinessline.com/economy/logistics/hd-hyundai-delegation-visits-thoothukudi-over-shipyard-plans/article71423214.ece": {
       "title": "HD Hyundai delegation visits Thoothukudi over shipyard plans",
@@ -13,51 +13,6 @@
       ],
       "first_seen_at": "2026-09-03T13:24:28.302560+00:00",
       "last_seen_at": "2026-09-05T00:44:41.534563+00:00"
-    },
-    "https://www.theglobeandmail.com/culture/music/article-bang-si-hyuk-bts-referred-to-prosecutors-over-alleged-investor-fraud": {
-      "title": "K-pop mogul behind BTS referred to prosecutors over alleged investor fraud",
-      "link": "https://www.theglobeandmail.com/culture/music/article-bang-si-hyuk-bts-referred-to-prosecutors-over-alleged-investor-fraud",
-      "source_name": "The Globe and Mail World",
-      "country_code": "CA",
-      "companies": [
-        "HYBE"
-      ],
-      "first_seen_at": "2026-09-03T13:24:28.302560+00:00",
-      "last_seen_at": "2026-09-04T13:19:16.326795+00:00"
-    },
-    "https://www.straitstimes.com/business/bang-si-hyuk-founder-of-bts-agency-hybe-referred-to-prosecutors-report": {
-      "title": "Bang Si-hyuk, founder of BTS agency Hybe, referred to prosecutors: Report",
-      "link": "https://www.straitstimes.com/business/bang-si-hyuk-founder-of-bts-agency-hybe-referred-to-prosecutors-report",
-      "source_name": "The Straits Times",
-      "country_code": "SG",
-      "companies": [
-        "HYBE"
-      ],
-      "first_seen_at": "2026-09-03T13:24:28.302560+00:00",
-      "last_seen_at": "2026-09-04T13:19:16.326795+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/technology/south-korea-utility-proposes-samsung-pays-15-billion-in-advance-for-power-paper-says/articleshow/133727518.cms": {
-      "title": "South Korea utility proposes Samsung pays $15 billion in advance for power, paper says",
-      "link": "https://economictimes.indiatimes.com/tech/technology/south-korea-utility-proposes-samsung-pays-15-billion-in-advance-for-power-paper-says/articleshow/133727518.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-09-03T13:24:28.302560+00:00",
-      "last_seen_at": "2026-09-04T13:19:16.326795+00:00"
-    },
-    "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/andhra-woos-hd-hyundai-with-4-billion-shipbuilding-cluster/articleshow/133744667.cms": {
-      "title": "AP woos Hyundai with readymade Kakinada port",
-      "link": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/andhra-woos-hd-hyundai-with-4-billion-shipbuilding-cluster/articleshow/133744667.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor",
-        "HD Hyundai"
-      ],
-      "first_seen_at": "2026-09-04T00:51:39.080191+00:00",
-      "last_seen_at": "2026-09-04T13:19:16.326795+00:00"
     },
     "https://asia.nikkei.com/business/markets/currencies/won-rallies-on-sk-hynix-s-us-listing-corporate-funds-repatriation": {
       "title": "Won rallies on SK Hynix's US listing, corporate funds repatriation",
@@ -1253,7 +1208,7 @@
         "CJ CheilJedang"
       ],
       "first_seen_at": "2026-10-17T01:10:36.080691+00:00",
-      "last_seen_at": "2026-10-19T00:57:18.688124+00:00"
+      "last_seen_at": "2026-10-19T16:19:12.201657+00:00"
     },
     "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home": {
       "title": "Why Apple is finally making its own smart home devices",
@@ -1287,7 +1242,7 @@
         "Mirae Asset"
       ],
       "first_seen_at": "2026-10-19T00:57:18.688124+00:00",
-      "last_seen_at": "2026-10-19T00:57:18.688124+00:00"
+      "last_seen_at": "2026-10-19T16:19:12.201657+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/samsung-to-use-tsmc-technology-for-nvidias-next-generation-memory-chips-report/articleshow/135029867.cms": {
       "title": "Samsung to use TSMC technology for Nvidia's next-generation memory chips: Report",
@@ -1298,7 +1253,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-10-19T00:57:18.688124+00:00",
-      "last_seen_at": "2026-10-19T00:57:18.688124+00:00"
+      "last_seen_at": "2026-10-19T16:19:12.201657+00:00"
     }
   }
 }

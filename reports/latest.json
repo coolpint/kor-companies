@@ -1,112 +1,15 @@
 {
-  "run_at": "2026-10-19T00:57:18.688124+00:00",
+  "run_at": "2026-10-19T16:19:12.201657+00:00",
   "summary": {
     "source_count": 73,
-    "success_count": 67,
-    "failed_count": 6,
-    "matched_count": 4,
-    "new_count": 3
+    "success_count": 70,
+    "failed_count": 3,
+    "matched_count": 3,
+    "new_count": 0
   },
-  "new_articles": [
-    {
-      "article_key": "https://www.scmp.com/tech/big-tech/article/3371314/cxmt-forecasts-us198-billion-3-quarters-net-income-pledges-share-buy-back",
-      "canonical_link": "https://www.scmp.com/tech/big-tech/article/3371314/cxmt-forecasts-us198-billion-3-quarters-net-income-pledges-share-buy-back",
-      "link": "https://www.scmp.com/tech/big-tech/article/3371314/cxmt-forecasts-us198-billion-3-quarters-net-income-pledges-share-buy-back?utm_source=rss_feed",
-      "title": "CXMT forecasts up to US$19.8 billion in 3 quarters’ net income; pledges share buy-back",
-      "summary": "Samsung Electronics, SK hynix 관련 기사다. 기사 제목은 'CXMT forecasts up to US$19.8 billion in 3 quarters’ net income; pledges share buy-back'이다. Chinese memory chip giant ChangXin Memory Technologies (CXMT) forecast a net income of up to US$19. 8 billion for the first nine months of 2026, marking a dramatic swing from a loss a year ago, as the domestic champion cashed in on artificial intelligence-driven demand while aggressively challenging global rivals including Samsung Electronics and SK Hynix. Meanwhile, Zhu Yiming, chairman of the Hefei-based memory giant, proposed to buy back 1 billion (US$149. 56 million) to 2 billion yuan of. . 8 billion in 3 quarters’ net income; pledges share buy-back The firm also forecasts a 742 per cent revenue surge year on year 2 -MIN READ 2 -MIN Listen Iris Deng in Shenzhen Published: 7:30am, 19 Oct 2026 Chinese memory chip giant ChangXin Memory Technologies (CXMT) forecast a net income of up to US$19 8 billion for the first nine months of 2026, marking a dramatic swing from a loss a year ago, as the domestic champion cashed in on artificial intelligence-driven demand while aggressively challenging global rivals including Samsung Electronics and SK Hynix Meanwhile, Zhu Yiming, chairman of the Hefei-based memory giant, proposed to buy back 1 billion (US$149 56 million) to 2 billion yuan of shares over 12 months, pending board or shareholder approval, to fund employee incentive plans or reduce registered capital.",
-      "original_title": "CXMT forecasts up to US$19.8 billion in 3 quarters’ net income; pledges share buy-back",
-      "original_summary": "Chinese memory chip giant ChangXin Memory Technologies (CXMT) forecast a net income of up to US$19.8 billion for the first nine months of 2026, marking a dramatic swing from a loss a year ago, as the domestic champion cashed in on artificial intelligence-driven demand while aggressively challenging global rivals including Samsung Electronics and SK Hynix. Meanwhile, Zhu Yiming, chairman of the Hefei-based memory giant, proposed to buy back 1 billion (US$149.56 million) to 2 billion yuan of...",
-      "company_summary": "Samsung Electronics, SK hynix 관련 기사다. 기사 제목은 'CXMT forecasts up to US$19.8 billion in 3 quarters’ net income; pledges share buy-back'이다. Chinese memory chip giant ChangXin Memory Technologies (CXMT) forecast a net income of up to US$19. 8 billion for the first nine months of 2026, marking a dramatic swing from a loss a year ago, as the domestic champion cashed in on artificial intelligence-driven demand while aggressively challenging global rivals including Samsung Electronics and SK Hynix. Meanwhile, Zhu Yiming, chairman of the Hefei-based memory giant, proposed to buy back 1 billion (US$149. 56 million) to 2 billion yuan of. . 8 billion in 3 quarters’ net income; pledges share buy-back The firm also forecasts a 742 per cent revenue surge year on year 2 -MIN READ 2 -MIN Listen Iris Deng in Shenzhen Published: 7:30am, 19 Oct 2026 Chinese memory chip giant ChangXin Memory Technologies (CXMT) forecast a net income of up to US$19 8 billion for the first nine months of 2026, marking a dramatic swing from a loss a year ago, as the domestic champion cashed in on artificial intelligence-driven demand while aggressively challenging global rivals including Samsung Electronics and SK Hynix Meanwhile, Zhu Yiming, chairman of the Hefei-based memory giant, proposed to buy back 1 billion (US$149 56 million) to 2 billion yuan of shares over 12 months, pending board or shareholder approval, to fund employee incentive plans or reduce registered capital.",
-      "published_at": "2026-10-18T23:30:08+00:00",
-      "source_id": "scmp_tech",
-      "source_name": "South China Morning Post Tech",
-      "country_code": "HK",
-      "country_name_ko": "홍콩",
-      "source_language": "en",
-      "matched_companies": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "matched_aliases": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "is_new": true
-    },
-    {
-      "article_key": "https://www.thehindubusinessline.com/companies/the-pant-project-raises-109-crore-in-series-b-round-led-by-mirae-asset-venture/article71600120.ece",
-      "canonical_link": "https://www.thehindubusinessline.com/companies/the-pant-project-raises-109-crore-in-series-b-round-led-by-mirae-asset-venture/article71600120.ece",
-      "link": "https://www.thehindubusinessline.com/companies/the-pant-project-raises-109-crore-in-series-b-round-led-by-mirae-asset-venture/article71600120.ece",
-      "title": "The Pant Project raises ₹109 crore in Series B round led by Mirae Asset Venture",
-      "summary": "Mirae Asset 관련 기사다. 기사 제목은 'The Pant Project raises ₹109 crore in Series B round led by Mirae Asset Venture'이다. The company also plans to expand beyond bottomwear into jeans, athleisure and casualwear, extending its focus on fit, fabric and functional design to a wider range of menswear products. THIS AD SUPPORTS OUR JOURNALISM The Pant Project raises ₹109 crore in Series B round led by Mirae Asset Venture The company also plans to expand beyond bottomwear into jeans, athleisure and casualwear, extending its focus on fit, fabric and functional design to a wider range of menswear products By BL Bengaluru Bureau Updated - October 19, 2026 at 06:00 AM thehindubusinessline com/companies/the-pant-project-raises-109-crore-in-series-b-round-led-by-mirae-asset-venture/article71600120. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "The Pant Project raises ₹109 crore in Series B round led by Mirae Asset Venture",
-      "original_summary": "The company also plans to expand beyond bottomwear into jeans, athleisure and casualwear, extending its focus on fit, fabric and functional design to a wider range of menswear products",
-      "company_summary": "Mirae Asset 관련 기사다. 기사 제목은 'The Pant Project raises ₹109 crore in Series B round led by Mirae Asset Venture'이다. The company also plans to expand beyond bottomwear into jeans, athleisure and casualwear, extending its focus on fit, fabric and functional design to a wider range of menswear products. THIS AD SUPPORTS OUR JOURNALISM The Pant Project raises ₹109 crore in Series B round led by Mirae Asset Venture The company also plans to expand beyond bottomwear into jeans, athleisure and casualwear, extending its focus on fit, fabric and functional design to a wider range of menswear products By BL Bengaluru Bureau Updated - October 19, 2026 at 06:00 AM thehindubusinessline com/companies/the-pant-project-raises-109-crore-in-series-b-round-led-by-mirae-asset-venture/article71600120. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-18T16:07:16+00:00",
-      "source_id": "businessline_companies",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "country_name_ko": "인도",
-      "source_language": "en",
-      "matched_companies": [
-        "Mirae Asset"
-      ],
-      "matched_aliases": [
-        "Mirae Asset"
-      ],
-      "is_new": true
-    },
-    {
-      "article_key": "https://economictimes.indiatimes.com/tech/technology/samsung-to-use-tsmc-technology-for-nvidias-next-generation-memory-chips-report/articleshow/135029867.cms",
-      "canonical_link": "https://economictimes.indiatimes.com/tech/technology/samsung-to-use-tsmc-technology-for-nvidias-next-generation-memory-chips-report/articleshow/135029867.cms",
-      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-to-use-tsmc-technology-for-nvidias-next-generation-memory-chips-report/articleshow/135029867.cms",
-      "title": "Samsung to use TSMC technology for Nvidia's next-generation memory chips: Report",
-      "summary": "SK hynix 관련 기사다. 기사 제목은 'Samsung to use TSMC technology for Nvidia's next-generation memory chips: Report'이다. Nvidia has asked Samsung, SK Hynix and Micron Technology to use TSMC's process for NVHBM base dies, and sixth-generation DRAM technology for its core dies, the newspaper said, citing industry sources. Samsung Electronics will use TSMC 's 3-nanometre process to produce base dies for Nvidia 's next-generation custom high-bandwidth memory (HBM) chips, the Seoul Economic Daily reported on Sunday The move would mark the first time Samsung has worked with the Taiwanese contract chipmaker at the HBM manufacturing stage, according to the report Nvidia has asked Samsung, SK Hynix and Micron Technology to use TSMC's process for NVHBM base dies, and sixth-generation DRAM technology for its core dies, the newspaper said, citing industry sources NVHBM, unveiled in August, integrates Nvidia's custom memory controller into the base die and is aimed at standardising implementation across multiple memory suppliers, according to the company Samsung accepted Nvidia's requirements after an internal review but plans to retain its in-house production model for standard HBM and custom products for other customers, Seoul Economic Daily said. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Samsung to use TSMC technology for Nvidia's next-generation memory chips: Report",
-      "original_summary": "Nvidia has asked Samsung, SK Hynix and Micron Technology to use TSMC's process for NVHBM base dies, and sixth-generation DRAM technology for its core dies, the newspaper said, citing industry sources.",
-      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'Samsung to use TSMC technology for Nvidia's next-generation memory chips: Report'이다. Nvidia has asked Samsung, SK Hynix and Micron Technology to use TSMC's process for NVHBM base dies, and sixth-generation DRAM technology for its core dies, the newspaper said, citing industry sources. Samsung Electronics will use TSMC 's 3-nanometre process to produce base dies for Nvidia 's next-generation custom high-bandwidth memory (HBM) chips, the Seoul Economic Daily reported on Sunday The move would mark the first time Samsung has worked with the Taiwanese contract chipmaker at the HBM manufacturing stage, according to the report Nvidia has asked Samsung, SK Hynix and Micron Technology to use TSMC's process for NVHBM base dies, and sixth-generation DRAM technology for its core dies, the newspaper said, citing industry sources NVHBM, unveiled in August, integrates Nvidia's custom memory controller into the base die and is aimed at standardising implementation across multiple memory suppliers, according to the company Samsung accepted Nvidia's requirements after an internal review but plans to retain its in-house production model for standard HBM and custom products for other customers, Seoul Economic Daily said. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-18T13:50:10+00:00",
-      "source_id": "economic_times_tech",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "country_name_ko": "인도",
-      "source_language": "en",
-      "matched_companies": [
-        "SK hynix"
-      ],
-      "matched_aliases": [
-        "SK hynix"
-      ],
-      "is_new": true
-    }
-  ],
+  "new_articles": [],
   "matched_articles": [
     {
-      "article_key": "https://www.scmp.com/tech/big-tech/article/3371314/cxmt-forecasts-us198-billion-3-quarters-net-income-pledges-share-buy-back",
-      "canonical_link": "https://www.scmp.com/tech/big-tech/article/3371314/cxmt-forecasts-us198-billion-3-quarters-net-income-pledges-share-buy-back",
-      "link": "https://www.scmp.com/tech/big-tech/article/3371314/cxmt-forecasts-us198-billion-3-quarters-net-income-pledges-share-buy-back?utm_source=rss_feed",
-      "title": "CXMT forecasts up to US$19.8 billion in 3 quarters’ net income; pledges share buy-back",
-      "summary": "Samsung Electronics, SK hynix 관련 기사다. 기사 제목은 'CXMT forecasts up to US$19.8 billion in 3 quarters’ net income; pledges share buy-back'이다. Chinese memory chip giant ChangXin Memory Technologies (CXMT) forecast a net income of up to US$19. 8 billion for the first nine months of 2026, marking a dramatic swing from a loss a year ago, as the domestic champion cashed in on artificial intelligence-driven demand while aggressively challenging global rivals including Samsung Electronics and SK Hynix. Meanwhile, Zhu Yiming, chairman of the Hefei-based memory giant, proposed to buy back 1 billion (US$149. 56 million) to 2 billion yuan of. . 8 billion in 3 quarters’ net income; pledges share buy-back The firm also forecasts a 742 per cent revenue surge year on year 2 -MIN READ 2 -MIN Listen Iris Deng in Shenzhen Published: 7:30am, 19 Oct 2026 Chinese memory chip giant ChangXin Memory Technologies (CXMT) forecast a net income of up to US$19 8 billion for the first nine months of 2026, marking a dramatic swing from a loss a year ago, as the domestic champion cashed in on artificial intelligence-driven demand while aggressively challenging global rivals including Samsung Electronics and SK Hynix Meanwhile, Zhu Yiming, chairman of the Hefei-based memory giant, proposed to buy back 1 billion (US$149 56 million) to 2 billion yuan of shares over 12 months, pending board or shareholder approval, to fund employee incentive plans or reduce registered capital.",
-      "original_title": "CXMT forecasts up to US$19.8 billion in 3 quarters’ net income; pledges share buy-back",
-      "original_summary": "Chinese memory chip giant ChangXin Memory Technologies (CXMT) forecast a net income of up to US$19.8 billion for the first nine months of 2026, marking a dramatic swing from a loss a year ago, as the domestic champion cashed in on artificial intelligence-driven demand while aggressively challenging global rivals including Samsung Electronics and SK Hynix. Meanwhile, Zhu Yiming, chairman of the Hefei-based memory giant, proposed to buy back 1 billion (US$149.56 million) to 2 billion yuan of...",
-      "company_summary": "Samsung Electronics, SK hynix 관련 기사다. 기사 제목은 'CXMT forecasts up to US$19.8 billion in 3 quarters’ net income; pledges share buy-back'이다. Chinese memory chip giant ChangXin Memory Technologies (CXMT) forecast a net income of up to US$19. 8 billion for the first nine months of 2026, marking a dramatic swing from a loss a year ago, as the domestic champion cashed in on artificial intelligence-driven demand while aggressively challenging global rivals including Samsung Electronics and SK Hynix. Meanwhile, Zhu Yiming, chairman of the Hefei-based memory giant, proposed to buy back 1 billion (US$149. 56 million) to 2 billion yuan of. . 8 billion in 3 quarters’ net income; pledges share buy-back The firm also forecasts a 742 per cent revenue surge year on year 2 -MIN READ 2 -MIN Listen Iris Deng in Shenzhen Published: 7:30am, 19 Oct 2026 Chinese memory chip giant ChangXin Memory Technologies (CXMT) forecast a net income of up to US$19 8 billion for the first nine months of 2026, marking a dramatic swing from a loss a year ago, as the domestic champion cashed in on artificial intelligence-driven demand while aggressively challenging global rivals including Samsung Electronics and SK Hynix Meanwhile, Zhu Yiming, chairman of the Hefei-based memory giant, proposed to buy back 1 billion (US$149 56 million) to 2 billion yuan of shares over 12 months, pending board or shareholder approval, to fund employee incentive plans or reduce registered capital.",
-      "published_at": "2026-10-18T23:30:08+00:00",
-      "source_id": "scmp_tech",
-      "source_name": "South China Morning Post Tech",
-      "country_code": "HK",
-      "country_name_ko": "홍콩",
-      "source_language": "en",
-      "matched_companies": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "matched_aliases": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "is_new": true
-    },
-    {
       "article_key": "https://www.thehindubusinessline.com/companies/the-pant-project-raises-109-crore-in-series-b-round-led-by-mirae-asset-venture/article71600120.ece",
       "canonical_link": "https://www.thehindubusinessline.com/companies/the-pant-project-raises-109-crore-in-series-b-round-led-by-mirae-asset-venture/article71600120.ece",
       "link": "https://www.thehindubusinessline.com/companies/the-pant-project-raises-109-crore-in-series-b-round-led-by-mirae-asset-venture/article71600120.ece",
@@ -127,7 +30,7 @@
       "matched_aliases": [
         "Mirae Asset"
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "article_key": "https://economictimes.indiatimes.com/tech/technology/samsung-to-use-tsmc-technology-for-nvidias-next-generation-memory-chips-report/articleshow/135029867.cms",
@@ -150,7 +53,7 @@
       "matched_aliases": [
         "SK hynix"
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "article_key": "https://asia.nikkei.com/spotlight/big-in-asia/south-korea-s-cj-cgv-is-putting-motion-back-into-motion-pictures",
@@ -352,28 +255,28 @@
       "source_id": "vietnamnews_business",
       "source_name": "Vietnam News Business",
       "country_code": "VN",
-      "success": false,
+      "success": true,
       "item_count": 0,
       "matched_count": 0,
-      "error": "HTTP 403 for https://vietnamnews.vn/rss/business.rss"
+      "error": ""
     },
     {
       "source_id": "vietnamnews_economy",
       "source_name": "Vietnam News Economy",
       "country_code": "VN",
-      "success": false,
-      "item_count": 0,
+      "success": true,
+      "item_count": 20,
       "matched_count": 0,
-      "error": "HTTP 403 for https://vietnamnews.vn/rss/economy.rss"
+      "error": ""
     },
     {
       "source_id": "vietnamnews_world",
       "source_name": "Vietnam News World",
       "country_code": "VN",
-      "success": false,
-      "item_count": 0,
+      "success": true,
+      "item_count": 20,
       "matched_count": 0,
-      "error": "HTTP 403 for https://vietnamnews.vn/rss/world.rss"
+      "error": ""
     },
     {
       "source_id": "dw_business",
@@ -389,7 +292,7 @@
       "source_name": "Deutsche Welle World",
       "country_code": "DE",
       "success": true,
-      "item_count": 11,
+      "item_count": 12,
       "matched_count": 0,
       "error": ""
     },
@@ -407,7 +310,7 @@
       "source_name": "tagesschau Wirtschaft",
       "country_code": "DE",
       "success": true,
-      "item_count": 26,
+      "item_count": 17,
       "matched_count": 0,
       "error": ""
     },
@@ -434,7 +337,7 @@
       "source_name": "BBC Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 42,
+      "item_count": 47,
       "matched_count": 0,
       "error": ""
     },
@@ -443,7 +346,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 30,
+      "item_count": 26,
       "matched_count": 0,
       "error": ""
     },
@@ -506,7 +409,7 @@
       "source_name": "The Independent Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 0,
+      "item_count": 1,
       "matched_count": 0,
       "error": ""
     },
@@ -569,7 +472,7 @@
       "source_name": "CNBC Top News",
       "country_code": "US",
       "success": true,
-      "item_count": 23,
+      "item_count": 30,
       "matched_count": 0,
       "error": ""
     },
@@ -704,7 +607,7 @@
       "source_name": "CNA Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 11,
+      "item_count": 20,
       "matched_count": 0,
       "error": ""
     },
@@ -713,7 +616,7 @@
       "source_name": "CNA Asia",
       "country_code": "SG",
       "success": true,
-      "item_count": 17,
+      "item_count": 19,
       "matched_count": 0,
       "error": ""
     },
@@ -731,7 +634,7 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 11,
+      "item_count": 23,
       "matched_count": 0,
       "error": ""
     },
@@ -768,7 +671,7 @@
       "country_code": "HK",
       "success": true,
       "item_count": 50,
-      "matched_count": 1,
+      "matched_count": 0,
       "error": ""
     },
     {

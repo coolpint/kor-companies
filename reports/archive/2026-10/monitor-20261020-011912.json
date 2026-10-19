@@ -1,0 +1,741 @@
+{
+  "run_at": "2026-10-19T16:19:12.201657+00:00",
+  "summary": {
+    "source_count": 73,
+    "success_count": 70,
+    "failed_count": 3,
+    "matched_count": 3,
+    "new_count": 0
+  },
+  "new_articles": [],
+  "matched_articles": [
+    {
+      "article_key": "https://www.thehindubusinessline.com/companies/the-pant-project-raises-109-crore-in-series-b-round-led-by-mirae-asset-venture/article71600120.ece",
+      "canonical_link": "https://www.thehindubusinessline.com/companies/the-pant-project-raises-109-crore-in-series-b-round-led-by-mirae-asset-venture/article71600120.ece",
+      "link": "https://www.thehindubusinessline.com/companies/the-pant-project-raises-109-crore-in-series-b-round-led-by-mirae-asset-venture/article71600120.ece",
+      "title": "The Pant Project raises ₹109 crore in Series B round led by Mirae Asset Venture",
+      "summary": "Mirae Asset 관련 기사다. 기사 제목은 'The Pant Project raises ₹109 crore in Series B round led by Mirae Asset Venture'이다. The company also plans to expand beyond bottomwear into jeans, athleisure and casualwear, extending its focus on fit, fabric and functional design to a wider range of menswear products. THIS AD SUPPORTS OUR JOURNALISM The Pant Project raises ₹109 crore in Series B round led by Mirae Asset Venture The company also plans to expand beyond bottomwear into jeans, athleisure and casualwear, extending its focus on fit, fabric and functional design to a wider range of menswear products By BL Bengaluru Bureau Updated - October 19, 2026 at 06:00 AM thehindubusinessline com/companies/the-pant-project-raises-109-crore-in-series-b-round-led-by-mirae-asset-venture/article71600120. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "The Pant Project raises ₹109 crore in Series B round led by Mirae Asset Venture",
+      "original_summary": "The company also plans to expand beyond bottomwear into jeans, athleisure and casualwear, extending its focus on fit, fabric and functional design to a wider range of menswear products",
+      "company_summary": "Mirae Asset 관련 기사다. 기사 제목은 'The Pant Project raises ₹109 crore in Series B round led by Mirae Asset Venture'이다. The company also plans to expand beyond bottomwear into jeans, athleisure and casualwear, extending its focus on fit, fabric and functional design to a wider range of menswear products. THIS AD SUPPORTS OUR JOURNALISM The Pant Project raises ₹109 crore in Series B round led by Mirae Asset Venture The company also plans to expand beyond bottomwear into jeans, athleisure and casualwear, extending its focus on fit, fabric and functional design to a wider range of menswear products By BL Bengaluru Bureau Updated - October 19, 2026 at 06:00 AM thehindubusinessline com/companies/the-pant-project-raises-109-crore-in-series-b-round-led-by-mirae-asset-venture/article71600120. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-18T16:07:16+00:00",
+      "source_id": "businessline_companies",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "country_name_ko": "인도",
+      "source_language": "en",
+      "matched_companies": [
+        "Mirae Asset"
+      ],
+      "matched_aliases": [
+        "Mirae Asset"
+      ],
+      "is_new": false
+    },
+    {
+      "article_key": "https://economictimes.indiatimes.com/tech/technology/samsung-to-use-tsmc-technology-for-nvidias-next-generation-memory-chips-report/articleshow/135029867.cms",
+      "canonical_link": "https://economictimes.indiatimes.com/tech/technology/samsung-to-use-tsmc-technology-for-nvidias-next-generation-memory-chips-report/articleshow/135029867.cms",
+      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-to-use-tsmc-technology-for-nvidias-next-generation-memory-chips-report/articleshow/135029867.cms",
+      "title": "Samsung to use TSMC technology for Nvidia's next-generation memory chips: Report",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'Samsung to use TSMC technology for Nvidia's next-generation memory chips: Report'이다. Nvidia has asked Samsung, SK Hynix and Micron Technology to use TSMC's process for NVHBM base dies, and sixth-generation DRAM technology for its core dies, the newspaper said, citing industry sources. Samsung Electronics will use TSMC 's 3-nanometre process to produce base dies for Nvidia 's next-generation custom high-bandwidth memory (HBM) chips, the Seoul Economic Daily reported on Sunday The move would mark the first time Samsung has worked with the Taiwanese contract chipmaker at the HBM manufacturing stage, according to the report Nvidia has asked Samsung, SK Hynix and Micron Technology to use TSMC's process for NVHBM base dies, and sixth-generation DRAM technology for its core dies, the newspaper said, citing industry sources NVHBM, unveiled in August, integrates Nvidia's custom memory controller into the base die and is aimed at standardising implementation across multiple memory suppliers, according to the company Samsung accepted Nvidia's requirements after an internal review but plans to retain its in-house production model for standard HBM and custom products for other customers, Seoul Economic Daily said. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Samsung to use TSMC technology for Nvidia's next-generation memory chips: Report",
+      "original_summary": "Nvidia has asked Samsung, SK Hynix and Micron Technology to use TSMC's process for NVHBM base dies, and sixth-generation DRAM technology for its core dies, the newspaper said, citing industry sources.",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'Samsung to use TSMC technology for Nvidia's next-generation memory chips: Report'이다. Nvidia has asked Samsung, SK Hynix and Micron Technology to use TSMC's process for NVHBM base dies, and sixth-generation DRAM technology for its core dies, the newspaper said, citing industry sources. Samsung Electronics will use TSMC 's 3-nanometre process to produce base dies for Nvidia 's next-generation custom high-bandwidth memory (HBM) chips, the Seoul Economic Daily reported on Sunday The move would mark the first time Samsung has worked with the Taiwanese contract chipmaker at the HBM manufacturing stage, according to the report Nvidia has asked Samsung, SK Hynix and Micron Technology to use TSMC's process for NVHBM base dies, and sixth-generation DRAM technology for its core dies, the newspaper said, citing industry sources NVHBM, unveiled in August, integrates Nvidia's custom memory controller into the base die and is aimed at standardising implementation across multiple memory suppliers, according to the company Samsung accepted Nvidia's requirements after an internal review but plans to retain its in-house production model for standard HBM and custom products for other customers, Seoul Economic Daily said. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-18T13:50:10+00:00",
+      "source_id": "economic_times_tech",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "country_name_ko": "인도",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": false
+    },
+    {
+      "article_key": "https://asia.nikkei.com/spotlight/big-in-asia/south-korea-s-cj-cgv-is-putting-motion-back-into-motion-pictures",
+      "canonical_link": "https://asia.nikkei.com/spotlight/big-in-asia/south-korea-s-cj-cgv-is-putting-motion-back-into-motion-pictures",
+      "link": "https://asia.nikkei.com/spotlight/big-in-asia/south-korea-s-cj-cgv-is-putting-motion-back-into-motion-pictures",
+      "title": "South Korea's CJ CGV is putting 'motion' back into motion pictures",
+      "summary": "CJ CheilJedang 관련 기사다. 기사 제목은 'South Korea's CJ CGV is putting 'motion' back into motion pictures'이다. SEOUL -- For office worker Kim So-jeong, going to see a movie like \"The Odyssey\" is about more than sitting back and watching the film. \"When character. Moviegoers increasingly willing to pay extra for screenings in company's premium formats. Although the movie industry has yet to shake off the effects of the COVID-19 pandemic and the defection of consumers to streaming services, demand for immersive cinema experiences such as those provided by CJ 4DPlex's ultra-wide screens and movable seats is growing (Nikkei illustration) Big in Asia South Korea's CJ CGV is putting 'motion' back into motion pictures Moviegoers increasingly willing to pay extra for screenings in company's premium formats KIM JAEWON October 17, 2026 06:00 JST SEOUL -- For office worker Kim So-jeong, going to see a movie like \"The Odyssey\" is about more than sitting back and watching the film. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "South Korea's CJ CGV is putting 'motion' back into motion pictures",
+      "original_summary": "",
+      "company_summary": "CJ CheilJedang 관련 기사다. 기사 제목은 'South Korea's CJ CGV is putting 'motion' back into motion pictures'이다. SEOUL -- For office worker Kim So-jeong, going to see a movie like \"The Odyssey\" is about more than sitting back and watching the film. \"When character. Moviegoers increasingly willing to pay extra for screenings in company's premium formats. Although the movie industry has yet to shake off the effects of the COVID-19 pandemic and the defection of consumers to streaming services, demand for immersive cinema experiences such as those provided by CJ 4DPlex's ultra-wide screens and movable seats is growing (Nikkei illustration) Big in Asia South Korea's CJ CGV is putting 'motion' back into motion pictures Moviegoers increasingly willing to pay extra for screenings in company's premium formats KIM JAEWON October 17, 2026 06:00 JST SEOUL -- For office worker Kim So-jeong, going to see a movie like \"The Odyssey\" is about more than sitting back and watching the film. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-16T21:00:14+00:00",
+      "source_id": "nikkei_asia",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "country_name_ko": "일본",
+      "source_language": "en",
+      "matched_companies": [
+        "CJ CheilJedang"
+      ],
+      "matched_aliases": [
+        "CJ"
+      ],
+      "is_new": false
+    }
+  ],
+  "source_runs": [
+    {
+      "source_id": "nyt_business",
+      "source_name": "The New York Times Business",
+      "country_code": "US",
+      "success": true,
+      "item_count": 49,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "nyt_technology",
+      "source_name": "The New York Times Technology",
+      "country_code": "US",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "marketwatch_topstories",
+      "source_name": "MarketWatch Top Stories",
+      "country_code": "US",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "npr_business",
+      "source_name": "NPR Business",
+      "country_code": "US",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "foxbusiness_markets",
+      "source_name": "Fox Business Markets",
+      "country_code": "US",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "foxbusiness_technology",
+      "source_name": "Fox Business Technology",
+      "country_code": "US",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "us_doj_press_releases",
+      "source_name": "U.S. DOJ Press Releases",
+      "country_code": "US",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "sec_press_releases",
+      "source_name": "U.S. SEC Press Releases",
+      "country_code": "US",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "country_code": "US",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "chinadaily_bizchina",
+      "source_name": "China Daily BizChina",
+      "country_code": "CN",
+      "success": false,
+      "item_count": 0,
+      "matched_count": 0,
+      "error": "HTTP 404 for https://www.chinadaily.com.cn/rss/bizchina_rss.xml"
+    },
+    {
+      "source_id": "chinadaily_world",
+      "source_name": "China Daily World",
+      "country_code": "CN",
+      "success": false,
+      "item_count": 0,
+      "matched_count": 0,
+      "error": "HTTP 404 for https://www.chinadaily.com.cn/rss/world_rss.xml"
+    },
+    {
+      "source_id": "chinadaily_china",
+      "source_name": "China Daily China",
+      "country_code": "CN",
+      "success": false,
+      "item_count": 0,
+      "matched_count": 0,
+      "error": "HTTP 404 for https://www.chinadaily.com.cn/rss/china_rss.xml"
+    },
+    {
+      "source_id": "nikkei_asia",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 1,
+      "error": ""
+    },
+    {
+      "source_id": "japan_times_topstories",
+      "source_name": "The Japan Times",
+      "country_code": "JP",
+      "success": true,
+      "item_count": 30,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "nhk_business",
+      "source_name": "NHK Business",
+      "country_code": "JP",
+      "success": true,
+      "item_count": 86,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "nhk_world",
+      "source_name": "NHK International",
+      "country_code": "JP",
+      "success": true,
+      "item_count": 98,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "japan_today",
+      "source_name": "Japan Today",
+      "country_code": "JP",
+      "success": true,
+      "item_count": 30,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "vnexpress_business",
+      "source_name": "VnExpress Business",
+      "country_code": "VN",
+      "success": true,
+      "item_count": 60,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "vnexpress_world",
+      "source_name": "VnExpress World",
+      "country_code": "VN",
+      "success": true,
+      "item_count": 60,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "vietnamnews_business",
+      "source_name": "Vietnam News Business",
+      "country_code": "VN",
+      "success": true,
+      "item_count": 0,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "vietnamnews_economy",
+      "source_name": "Vietnam News Economy",
+      "country_code": "VN",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "vietnamnews_world",
+      "source_name": "Vietnam News World",
+      "country_code": "VN",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "dw_business",
+      "source_name": "Deutsche Welle Business",
+      "country_code": "DE",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "dw_world",
+      "source_name": "Deutsche Welle World",
+      "country_code": "DE",
+      "success": true,
+      "item_count": 12,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "dw_topstories",
+      "source_name": "Deutsche Welle Top Stories",
+      "country_code": "DE",
+      "success": true,
+      "item_count": 21,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "tagesschau_wirtschaft",
+      "source_name": "tagesschau Wirtschaft",
+      "country_code": "DE",
+      "success": true,
+      "item_count": 17,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "tagesschau_ausland",
+      "source_name": "tagesschau Ausland",
+      "country_code": "DE",
+      "success": true,
+      "item_count": 65,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "spiegel_international",
+      "source_name": "DER SPIEGEL International",
+      "country_code": "DE",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "bbc_business",
+      "source_name": "BBC Business",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 47,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "bbc_world",
+      "source_name": "BBC World",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 26,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "bbc_technology",
+      "source_name": "BBC Technology",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 21,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "ft_companies",
+      "source_name": "Financial Times Companies",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "ft_world",
+      "source_name": "Financial Times World",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "guardian_business",
+      "source_name": "The Guardian Business",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "guardian_world",
+      "source_name": "The Guardian World",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 45,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "guardian_technology",
+      "source_name": "The Guardian Technology",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 32,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "independent_business",
+      "source_name": "The Independent Business",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 1,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "lemonde_economie",
+      "source_name": "Le Monde Economie",
+      "country_code": "FR",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "lemonde_international",
+      "source_name": "Le Monde International",
+      "country_code": "FR",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "france24_business_tech",
+      "source_name": "France 24 Business / Tech",
+      "country_code": "FR",
+      "success": true,
+      "item_count": 30,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "france24_europe",
+      "source_name": "France 24 Europe",
+      "country_code": "FR",
+      "success": true,
+      "item_count": 30,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "euronews_business",
+      "source_name": "Euronews Business",
+      "country_code": "EU",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "politico_europe",
+      "source_name": "POLITICO Europe",
+      "country_code": "EU",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "cnbc_top_news",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "success": true,
+      "item_count": 30,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "cnbc_world",
+      "source_name": "CNBC World News",
+      "country_code": "US",
+      "success": true,
+      "item_count": 30,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "cnbc_technology",
+      "source_name": "CNBC Technology",
+      "country_code": "US",
+      "success": true,
+      "item_count": 30,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "abc_us_business",
+      "source_name": "ABC News Business",
+      "country_code": "US",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "abc_us_international",
+      "source_name": "ABC News International",
+      "country_code": "US",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "globe_business",
+      "source_name": "The Globe and Mail Business",
+      "country_code": "CA",
+      "success": true,
+      "item_count": 100,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "globe_world",
+      "source_name": "The Globe and Mail World",
+      "country_code": "CA",
+      "success": true,
+      "item_count": 100,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "globalnews_money",
+      "source_name": "Global News Money",
+      "country_code": "CA",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "globalnews_world",
+      "source_name": "Global News World",
+      "country_code": "CA",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "abc_au_top_stories",
+      "source_name": "ABC Australia Top Stories",
+      "country_code": "AU",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "abc_au_business",
+      "source_name": "ABC Australia Business",
+      "country_code": "AU",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "economic_times_industry",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "economic_times_tech",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 1,
+      "error": ""
+    },
+    {
+      "source_id": "businessline_companies",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "success": true,
+      "item_count": 60,
+      "matched_count": 1,
+      "error": ""
+    },
+    {
+      "source_id": "businessline_economy",
+      "source_name": "BusinessLine Economy",
+      "country_code": "IN",
+      "success": true,
+      "item_count": 60,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "cna_business",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "cna_asia",
+      "source_name": "CNA Asia",
+      "country_code": "SG",
+      "success": true,
+      "item_count": 19,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "cna_world",
+      "source_name": "CNA World",
+      "country_code": "SG",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "straits_times_business",
+      "source_name": "The Straits Times Business",
+      "country_code": "SG",
+      "success": true,
+      "item_count": 23,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "straits_times_world",
+      "source_name": "The Straits Times World",
+      "country_code": "SG",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "scmp_business",
+      "source_name": "South China Morning Post Business",
+      "country_code": "HK",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "scmp_world",
+      "source_name": "South China Morning Post World",
+      "country_code": "HK",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "scmp_tech",
+      "source_name": "South China Morning Post Tech",
+      "country_code": "HK",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "taipei_times_front",
+      "source_name": "Taipei Times",
+      "country_code": "TW",
+      "success": true,
+      "item_count": 51,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "dutchnews",
+      "source_name": "DutchNews.nl",
+      "country_code": "NL",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "nltimes",
+      "source_name": "NL Times",
+      "country_code": "NL",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "bangkok_post_business",
+      "source_name": "Bangkok Post Business",
+      "country_code": "TH",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "bangkok_post_world",
+      "source_name": "Bangkok Post World",
+      "country_code": "TH",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "mexico_news_daily",
+      "source_name": "Mexico News Daily",
+      "country_code": "MX",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "aljazeera_all",
+      "source_name": "Al Jazeera",
+      "country_code": "QA",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    }
+  ]
+}
