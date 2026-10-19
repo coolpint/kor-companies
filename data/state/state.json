@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-18T13:05:10.238173+00:00",
+  "last_run_at": "2026-10-19T00:57:18.688124+00:00",
   "seen_articles": {
     "https://www.thehindubusinessline.com/economy/logistics/hd-hyundai-delegation-visits-thoothukudi-over-shipyard-plans/article71423214.ece": {
       "title": "HD Hyundai delegation visits Thoothukudi over shipyard plans",
@@ -24,17 +24,6 @@
       ],
       "first_seen_at": "2026-09-03T13:24:28.302560+00:00",
       "last_seen_at": "2026-09-04T13:19:16.326795+00:00"
-    },
-    "https://www.scmp.com/news/asia/east-asia/article/3366240/south-korean-police-seek-tycoon-behind-k-pop-supergroup-bts-be-indicted": {
-      "title": "South Korean police seek tycoon behind K-pop supergroup BTS to be indicted",
-      "link": "https://www.scmp.com/news/asia/east-asia/article/3366240/south-korean-police-seek-tycoon-behind-k-pop-supergroup-bts-be-indicted",
-      "source_name": "South China Morning Post World",
-      "country_code": "HK",
-      "companies": [
-        "HYBE"
-      ],
-      "first_seen_at": "2026-09-03T13:24:28.302560+00:00",
-      "last_seen_at": "2026-09-04T00:51:39.080191+00:00"
     },
     "https://www.straitstimes.com/business/bang-si-hyuk-founder-of-bts-agency-hybe-referred-to-prosecutors-report": {
       "title": "Bang Si-hyuk, founder of BTS agency Hybe, referred to prosecutors: Report",
@@ -1264,7 +1253,7 @@
         "CJ CheilJedang"
       ],
       "first_seen_at": "2026-10-17T01:10:36.080691+00:00",
-      "last_seen_at": "2026-10-18T13:05:10.238173+00:00"
+      "last_seen_at": "2026-10-19T00:57:18.688124+00:00"
     },
     "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home": {
       "title": "Why Apple is finally making its own smart home devices",
@@ -1276,6 +1265,40 @@
       ],
       "first_seen_at": "2026-10-17T01:10:36.080691+00:00",
       "last_seen_at": "2026-10-17T12:47:49.708963+00:00"
+    },
+    "https://www.scmp.com/tech/big-tech/article/3371314/cxmt-forecasts-us198-billion-3-quarters-net-income-pledges-share-buy-back": {
+      "title": "CXMT forecasts up to US$19.8 billion in 3 quarters’ net income; pledges share buy-back",
+      "link": "https://www.scmp.com/tech/big-tech/article/3371314/cxmt-forecasts-us198-billion-3-quarters-net-income-pledges-share-buy-back",
+      "source_name": "South China Morning Post Tech",
+      "country_code": "HK",
+      "companies": [
+        "Samsung Electronics",
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-10-19T00:57:18.688124+00:00",
+      "last_seen_at": "2026-10-19T00:57:18.688124+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/the-pant-project-raises-109-crore-in-series-b-round-led-by-mirae-asset-venture/article71600120.ece": {
+      "title": "The Pant Project raises ₹109 crore in Series B round led by Mirae Asset Venture",
+      "link": "https://www.thehindubusinessline.com/companies/the-pant-project-raises-109-crore-in-series-b-round-led-by-mirae-asset-venture/article71600120.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Mirae Asset"
+      ],
+      "first_seen_at": "2026-10-19T00:57:18.688124+00:00",
+      "last_seen_at": "2026-10-19T00:57:18.688124+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/samsung-to-use-tsmc-technology-for-nvidias-next-generation-memory-chips-report/articleshow/135029867.cms": {
+      "title": "Samsung to use TSMC technology for Nvidia's next-generation memory chips: Report",
+      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-to-use-tsmc-technology-for-nvidias-next-generation-memory-chips-report/articleshow/135029867.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-10-19T00:57:18.688124+00:00",
+      "last_seen_at": "2026-10-19T00:57:18.688124+00:00"
     }
   }
 }
