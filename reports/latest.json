@@ -1,61 +1,14 @@
 {
-  "run_at": "2026-10-20T01:38:28.564446+00:00",
+  "run_at": "2026-10-20T14:11:22.423188+00:00",
   "summary": {
     "source_count": 73,
     "success_count": 70,
     "failed_count": 3,
-    "matched_count": 2,
+    "matched_count": 0,
     "new_count": 0
   },
   "new_articles": [],
-  "matched_articles": [
-    {
-      "article_key": "https://www.thehindubusinessline.com/companies/the-pant-project-raises-109-crore-in-series-b-round-led-by-mirae-asset-venture/article71600120.ece",
-      "canonical_link": "https://www.thehindubusinessline.com/companies/the-pant-project-raises-109-crore-in-series-b-round-led-by-mirae-asset-venture/article71600120.ece",
-      "link": "https://www.thehindubusinessline.com/companies/the-pant-project-raises-109-crore-in-series-b-round-led-by-mirae-asset-venture/article71600120.ece",
-      "title": "The Pant Project raises ₹109 crore in Series B round led by Mirae Asset Venture",
-      "summary": "Mirae Asset 관련 기사다. 기사 제목은 'The Pant Project raises ₹109 crore in Series B round led by Mirae Asset Venture'이다. The company also plans to expand beyond bottomwear into jeans, athleisure and casualwear, extending its focus on fit, fabric and functional design to a wider range of menswear products. THIS AD SUPPORTS OUR JOURNALISM The Pant Project raises ₹109 crore in Series B round led by Mirae Asset Venture The company also plans to expand beyond bottomwear into jeans, athleisure and casualwear, extending its focus on fit, fabric and functional design to a wider range of menswear products By BL Bengaluru Bureau Updated - October 19, 2026 at 06:00 AM thehindubusinessline com/companies/the-pant-project-raises-109-crore-in-series-b-round-led-by-mirae-asset-venture/article71600120. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "The Pant Project raises ₹109 crore in Series B round led by Mirae Asset Venture",
-      "original_summary": "The company also plans to expand beyond bottomwear into jeans, athleisure and casualwear, extending its focus on fit, fabric and functional design to a wider range of menswear products",
-      "company_summary": "Mirae Asset 관련 기사다. 기사 제목은 'The Pant Project raises ₹109 crore in Series B round led by Mirae Asset Venture'이다. The company also plans to expand beyond bottomwear into jeans, athleisure and casualwear, extending its focus on fit, fabric and functional design to a wider range of menswear products. THIS AD SUPPORTS OUR JOURNALISM The Pant Project raises ₹109 crore in Series B round led by Mirae Asset Venture The company also plans to expand beyond bottomwear into jeans, athleisure and casualwear, extending its focus on fit, fabric and functional design to a wider range of menswear products By BL Bengaluru Bureau Updated - October 19, 2026 at 06:00 AM thehindubusinessline com/companies/the-pant-project-raises-109-crore-in-series-b-round-led-by-mirae-asset-venture/article71600120. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-18T16:07:16+00:00",
-      "source_id": "businessline_companies",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "country_name_ko": "인도",
-      "source_language": "en",
-      "matched_companies": [
-        "Mirae Asset"
-      ],
-      "matched_aliases": [
-        "Mirae Asset"
-      ],
-      "is_new": false
-    },
-    {
-      "article_key": "https://economictimes.indiatimes.com/tech/technology/samsung-to-use-tsmc-technology-for-nvidias-next-generation-memory-chips-report/articleshow/135029867.cms",
-      "canonical_link": "https://economictimes.indiatimes.com/tech/technology/samsung-to-use-tsmc-technology-for-nvidias-next-generation-memory-chips-report/articleshow/135029867.cms",
-      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-to-use-tsmc-technology-for-nvidias-next-generation-memory-chips-report/articleshow/135029867.cms",
-      "title": "Samsung to use TSMC technology for Nvidia's next-generation memory chips: Report",
-      "summary": "SK hynix 관련 기사다. 기사 제목은 'Samsung to use TSMC technology for Nvidia's next-generation memory chips: Report'이다. Nvidia has asked Samsung, SK Hynix and Micron Technology to use TSMC's process for NVHBM base dies, and sixth-generation DRAM technology for its core dies, the newspaper said, citing industry sources. Samsung Electronics will use TSMC 's 3-nanometre process to produce base dies for Nvidia 's next-generation custom high-bandwidth memory (HBM) chips, the Seoul Economic Daily reported on Sunday The move would mark the first time Samsung has worked with the Taiwanese contract chipmaker at the HBM manufacturing stage, according to the report Nvidia has asked Samsung, SK Hynix and Micron Technology to use TSMC's process for NVHBM base dies, and sixth-generation DRAM technology for its core dies, the newspaper said, citing industry sources NVHBM, unveiled in August, integrates Nvidia's custom memory controller into the base die and is aimed at standardising implementation across multiple memory suppliers, according to the company Samsung accepted Nvidia's requirements after an internal review but plans to retain its in-house production model for standard HBM and custom products for other customers, Seoul Economic Daily said. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Samsung to use TSMC technology for Nvidia's next-generation memory chips: Report",
-      "original_summary": "Nvidia has asked Samsung, SK Hynix and Micron Technology to use TSMC's process for NVHBM base dies, and sixth-generation DRAM technology for its core dies, the newspaper said, citing industry sources.",
-      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'Samsung to use TSMC technology for Nvidia's next-generation memory chips: Report'이다. Nvidia has asked Samsung, SK Hynix and Micron Technology to use TSMC's process for NVHBM base dies, and sixth-generation DRAM technology for its core dies, the newspaper said, citing industry sources. Samsung Electronics will use TSMC 's 3-nanometre process to produce base dies for Nvidia 's next-generation custom high-bandwidth memory (HBM) chips, the Seoul Economic Daily reported on Sunday The move would mark the first time Samsung has worked with the Taiwanese contract chipmaker at the HBM manufacturing stage, according to the report Nvidia has asked Samsung, SK Hynix and Micron Technology to use TSMC's process for NVHBM base dies, and sixth-generation DRAM technology for its core dies, the newspaper said, citing industry sources NVHBM, unveiled in August, integrates Nvidia's custom memory controller into the base die and is aimed at standardising implementation across multiple memory suppliers, according to the company Samsung accepted Nvidia's requirements after an internal review but plans to retain its in-house production model for standard HBM and custom products for other customers, Seoul Economic Daily said. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-18T13:50:10+00:00",
-      "source_id": "economic_times_tech",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "country_name_ko": "인도",
-      "source_language": "en",
-      "matched_companies": [
-        "SK hynix"
-      ],
-      "matched_aliases": [
-        "SK hynix"
-      ],
-      "is_new": false
-    }
-  ],
+  "matched_articles": [],
   "source_runs": [
     {
       "source_id": "nyt_business",
@@ -269,7 +222,7 @@
       "source_name": "Deutsche Welle World",
       "country_code": "DE",
       "success": true,
-      "item_count": 13,
+      "item_count": 11,
       "matched_count": 0,
       "error": ""
     },
@@ -287,7 +240,7 @@
       "source_name": "tagesschau Wirtschaft",
       "country_code": "DE",
       "success": true,
-      "item_count": 17,
+      "item_count": 28,
       "matched_count": 0,
       "error": ""
     },
@@ -314,7 +267,7 @@
       "source_name": "BBC Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 51,
+      "item_count": 53,
       "matched_count": 0,
       "error": ""
     },
@@ -323,7 +276,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 28,
+      "item_count": 34,
       "matched_count": 0,
       "error": ""
     },
@@ -377,7 +330,7 @@
       "source_name": "The Guardian Technology",
       "country_code": "GB",
       "success": true,
-      "item_count": 32,
+      "item_count": 34,
       "matched_count": 0,
       "error": ""
     },
@@ -449,7 +402,7 @@
       "source_name": "CNBC Top News",
       "country_code": "US",
       "success": true,
-      "item_count": 29,
+      "item_count": 30,
       "matched_count": 0,
       "error": ""
     },
@@ -558,7 +511,7 @@
       "country_code": "IN",
       "success": true,
       "item_count": 50,
-      "matched_count": 1,
+      "matched_count": 0,
       "error": ""
     },
     {
@@ -567,7 +520,7 @@
       "country_code": "IN",
       "success": true,
       "item_count": 60,
-      "matched_count": 1,
+      "matched_count": 0,
       "error": ""
     },
     {
@@ -611,7 +564,7 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 28,
+      "item_count": 46,
       "matched_count": 0,
       "error": ""
     },

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-20T01:38:28.564446+00:00",
+  "last_run_at": "2026-10-20T14:11:22.423188+00:00",
   "seen_articles": {
     "https://asia.nikkei.com/business/markets/currencies/won-rallies-on-sk-hynix-s-us-listing-corporate-funds-repatriation": {
       "title": "Won rallies on SK Hynix's US listing, corporate funds repatriation",
@@ -23,17 +23,6 @@
       ],
       "first_seen_at": "2026-09-04T13:19:16.326795+00:00",
       "last_seen_at": "2026-09-06T00:43:46.006608+00:00"
-    },
-    "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-builds-e20-readiness-into-india-strategy-as-it-expands-powertrain-options/articleshow/133757533.cms": {
-      "title": "Kia builds E20 readiness into India strategy as it expands powertrain options",
-      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-builds-e20-readiness-into-india-strategy-as-it-expands-powertrain-options/articleshow/133757533.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-09-04T13:19:16.326795+00:00",
-      "last_seen_at": "2026-09-05T12:29:39.129487+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-looks-to-roll-out-multiple-powertrains-to-meet-india-demand/articleshow/133777227.cms": {
       "title": "Kia looks to roll out multiple powertrains to meet India demand",
