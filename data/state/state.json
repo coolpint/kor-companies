@@ -1,19 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-19T16:19:12.201657+00:00",
+  "last_run_at": "2026-10-20T01:38:28.564446+00:00",
   "seen_articles": {
-    "https://www.thehindubusinessline.com/economy/logistics/hd-hyundai-delegation-visits-thoothukudi-over-shipyard-plans/article71423214.ece": {
-      "title": "HD Hyundai delegation visits Thoothukudi over shipyard plans",
-      "link": "https://www.thehindubusinessline.com/economy/logistics/hd-hyundai-delegation-visits-thoothukudi-over-shipyard-plans/article71423214.ece",
-      "source_name": "BusinessLine Economy",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor",
-        "HD Hyundai"
-      ],
-      "first_seen_at": "2026-09-03T13:24:28.302560+00:00",
-      "last_seen_at": "2026-09-05T00:44:41.534563+00:00"
-    },
     "https://asia.nikkei.com/business/markets/currencies/won-rallies-on-sk-hynix-s-us-listing-corporate-funds-repatriation": {
       "title": "Won rallies on SK Hynix's US listing, corporate funds repatriation",
       "link": "https://asia.nikkei.com/business/markets/currencies/won-rallies-on-sk-hynix-s-us-listing-corporate-funds-repatriation",
@@ -46,17 +34,6 @@
       ],
       "first_seen_at": "2026-09-04T13:19:16.326795+00:00",
       "last_seen_at": "2026-09-05T12:29:39.129487+00:00"
-    },
-    "https://economictimes.indiatimes.com/industry/auto/cars-uvs/kia-enters-indias-hybrid-passenger-vehicle-market-with-3-row-suv-sorento/articleshow/133755692.cms": {
-      "title": "Kia enters India’s hybrid passenger vehicle market with 3-row SUV Sorento",
-      "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/kia-enters-indias-hybrid-passenger-vehicle-market-with-3-row-suv-sorento/articleshow/133755692.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-09-04T13:19:16.326795+00:00",
-      "last_seen_at": "2026-09-05T00:44:41.534563+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-looks-to-roll-out-multiple-powertrains-to-meet-india-demand/articleshow/133777227.cms": {
       "title": "Kia looks to roll out multiple powertrains to meet India demand",
@@ -1242,7 +1219,7 @@
         "Mirae Asset"
       ],
       "first_seen_at": "2026-10-19T00:57:18.688124+00:00",
-      "last_seen_at": "2026-10-19T16:19:12.201657+00:00"
+      "last_seen_at": "2026-10-20T01:38:28.564446+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/samsung-to-use-tsmc-technology-for-nvidias-next-generation-memory-chips-report/articleshow/135029867.cms": {
       "title": "Samsung to use TSMC technology for Nvidia's next-generation memory chips: Report",
@@ -1253,7 +1230,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-10-19T00:57:18.688124+00:00",
-      "last_seen_at": "2026-10-19T16:19:12.201657+00:00"
+      "last_seen_at": "2026-10-20T01:38:28.564446+00:00"
     }
   }
 }

@@ -1,10 +1,10 @@
 {
-  "run_at": "2026-10-19T16:19:12.201657+00:00",
+  "run_at": "2026-10-20T01:38:28.564446+00:00",
   "summary": {
     "source_count": 73,
     "success_count": 70,
     "failed_count": 3,
-    "matched_count": 3,
+    "matched_count": 2,
     "new_count": 0
   },
   "new_articles": [],
@@ -52,29 +52,6 @@
       ],
       "matched_aliases": [
         "SK hynix"
-      ],
-      "is_new": false
-    },
-    {
-      "article_key": "https://asia.nikkei.com/spotlight/big-in-asia/south-korea-s-cj-cgv-is-putting-motion-back-into-motion-pictures",
-      "canonical_link": "https://asia.nikkei.com/spotlight/big-in-asia/south-korea-s-cj-cgv-is-putting-motion-back-into-motion-pictures",
-      "link": "https://asia.nikkei.com/spotlight/big-in-asia/south-korea-s-cj-cgv-is-putting-motion-back-into-motion-pictures",
-      "title": "South Korea's CJ CGV is putting 'motion' back into motion pictures",
-      "summary": "CJ CheilJedang 관련 기사다. 기사 제목은 'South Korea's CJ CGV is putting 'motion' back into motion pictures'이다. SEOUL -- For office worker Kim So-jeong, going to see a movie like \"The Odyssey\" is about more than sitting back and watching the film. \"When character. Moviegoers increasingly willing to pay extra for screenings in company's premium formats. Although the movie industry has yet to shake off the effects of the COVID-19 pandemic and the defection of consumers to streaming services, demand for immersive cinema experiences such as those provided by CJ 4DPlex's ultra-wide screens and movable seats is growing (Nikkei illustration) Big in Asia South Korea's CJ CGV is putting 'motion' back into motion pictures Moviegoers increasingly willing to pay extra for screenings in company's premium formats KIM JAEWON October 17, 2026 06:00 JST SEOUL -- For office worker Kim So-jeong, going to see a movie like \"The Odyssey\" is about more than sitting back and watching the film. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "South Korea's CJ CGV is putting 'motion' back into motion pictures",
-      "original_summary": "",
-      "company_summary": "CJ CheilJedang 관련 기사다. 기사 제목은 'South Korea's CJ CGV is putting 'motion' back into motion pictures'이다. SEOUL -- For office worker Kim So-jeong, going to see a movie like \"The Odyssey\" is about more than sitting back and watching the film. \"When character. Moviegoers increasingly willing to pay extra for screenings in company's premium formats. Although the movie industry has yet to shake off the effects of the COVID-19 pandemic and the defection of consumers to streaming services, demand for immersive cinema experiences such as those provided by CJ 4DPlex's ultra-wide screens and movable seats is growing (Nikkei illustration) Big in Asia South Korea's CJ CGV is putting 'motion' back into motion pictures Moviegoers increasingly willing to pay extra for screenings in company's premium formats KIM JAEWON October 17, 2026 06:00 JST SEOUL -- For office worker Kim So-jeong, going to see a movie like \"The Odyssey\" is about more than sitting back and watching the film. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-16T21:00:14+00:00",
-      "source_id": "nikkei_asia",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "country_name_ko": "일본",
-      "source_language": "en",
-      "matched_companies": [
-        "CJ CheilJedang"
-      ],
-      "matched_aliases": [
-        "CJ"
       ],
       "is_new": false
     }
@@ -194,7 +171,7 @@
       "country_code": "JP",
       "success": true,
       "item_count": 50,
-      "matched_count": 1,
+      "matched_count": 0,
       "error": ""
     },
     {
@@ -292,7 +269,7 @@
       "source_name": "Deutsche Welle World",
       "country_code": "DE",
       "success": true,
-      "item_count": 12,
+      "item_count": 13,
       "matched_count": 0,
       "error": ""
     },
@@ -337,7 +314,7 @@
       "source_name": "BBC Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 47,
+      "item_count": 51,
       "matched_count": 0,
       "error": ""
     },
@@ -346,7 +323,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 26,
+      "item_count": 28,
       "matched_count": 0,
       "error": ""
     },
@@ -472,7 +449,7 @@
       "source_name": "CNBC Top News",
       "country_code": "US",
       "success": true,
-      "item_count": 30,
+      "item_count": 29,
       "matched_count": 0,
       "error": ""
     },
@@ -616,7 +593,7 @@
       "source_name": "CNA Asia",
       "country_code": "SG",
       "success": true,
-      "item_count": 19,
+      "item_count": 20,
       "matched_count": 0,
       "error": ""
     },
@@ -634,7 +611,7 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 23,
+      "item_count": 28,
       "matched_count": 0,
       "error": ""
     },
@@ -679,7 +656,7 @@
       "source_name": "Taipei Times",
       "country_code": "TW",
       "success": true,
-      "item_count": 51,
+      "item_count": 52,
       "matched_count": 0,
       "error": ""
     },
