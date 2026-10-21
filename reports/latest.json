@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-10-20T14:11:22.423188+00:00",
+  "run_at": "2026-10-21T01:23:43.030064+00:00",
   "summary": {
     "source_count": 73,
     "success_count": 70,
@@ -222,7 +222,7 @@
       "source_name": "Deutsche Welle World",
       "country_code": "DE",
       "success": true,
-      "item_count": 11,
+      "item_count": 13,
       "matched_count": 0,
       "error": ""
     },
@@ -240,7 +240,7 @@
       "source_name": "tagesschau Wirtschaft",
       "country_code": "DE",
       "success": true,
-      "item_count": 28,
+      "item_count": 29,
       "matched_count": 0,
       "error": ""
     },
@@ -267,7 +267,7 @@
       "source_name": "BBC Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 53,
+      "item_count": 54,
       "matched_count": 0,
       "error": ""
     },
@@ -276,7 +276,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 34,
+      "item_count": 35,
       "matched_count": 0,
       "error": ""
     },
@@ -339,7 +339,7 @@
       "source_name": "The Independent Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 1,
+      "item_count": 0,
       "matched_count": 0,
       "error": ""
     },
@@ -564,7 +564,7 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 46,
+      "item_count": 50,
       "matched_count": 0,
       "error": ""
     },
@@ -609,7 +609,7 @@
       "source_name": "Taipei Times",
       "country_code": "TW",
       "success": true,
-      "item_count": 52,
+      "item_count": 49,
       "matched_count": 0,
       "error": ""
     },

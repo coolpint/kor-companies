@@ -1,51 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-20T14:11:22.423188+00:00",
+  "last_run_at": "2026-10-21T01:23:43.030064+00:00",
   "seen_articles": {
-    "https://asia.nikkei.com/business/markets/currencies/won-rallies-on-sk-hynix-s-us-listing-corporate-funds-repatriation": {
-      "title": "Won rallies on SK Hynix's US listing, corporate funds repatriation",
-      "link": "https://asia.nikkei.com/business/markets/currencies/won-rallies-on-sk-hynix-s-us-listing-corporate-funds-repatriation",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-09-04T00:51:39.080191+00:00",
-      "last_seen_at": "2026-09-06T00:43:46.006608+00:00"
-    },
-    "https://www.thehindubusinessline.com/companies/kia-india-to-follow-multi-tech-pathway-for-sustainable-mobility-md-ceo/article71427853.ece": {
-      "title": "Kia India to follow multi-tech pathway for sustainable mobility: MD & CEO",
-      "link": "https://www.thehindubusinessline.com/companies/kia-india-to-follow-multi-tech-pathway-for-sustainable-mobility-md-ceo/article71427853.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-09-04T13:19:16.326795+00:00",
-      "last_seen_at": "2026-09-06T00:43:46.006608+00:00"
-    },
-    "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-looks-to-roll-out-multiple-powertrains-to-meet-india-demand/articleshow/133777227.cms": {
-      "title": "Kia looks to roll out multiple powertrains to meet India demand",
-      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-looks-to-roll-out-multiple-powertrains-to-meet-india-demand/articleshow/133777227.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-09-05T00:44:41.534563+00:00",
-      "last_seen_at": "2026-09-06T00:43:46.006608+00:00"
-    },
-    "https://www.thehindubusinessline.com/companies/india-open-to-wider-range-of-powertrains-we-have-to-adapt-kia-india-md/article71429016.ece": {
-      "title": "India open to wider range of powertrains, we have to adapt: Kia India MD",
-      "link": "https://www.thehindubusinessline.com/companies/india-open-to-wider-range-of-powertrains-we-have-to-adapt-kia-india-md/article71429016.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-09-05T00:44:41.534563+00:00",
-      "last_seen_at": "2026-09-06T00:43:46.006608+00:00"
-    },
     "https://www.thehindubusinessline.com/companies/hyundai-motor-india-expects-30-sales-to-come-from-rural-markets-in-3-4-years-md-ceo/article71434602.ece": {
       "title": "Hyundai Motor India expects 30% sales to come from rural markets in 3-4 years: MD & CEO",
       "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-expects-30-sales-to-come-from-rural-markets-in-3-4-years-md-ceo/article71434602.ece",
