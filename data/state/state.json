@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-22T01:21:49.647994+00:00",
+  "last_run_at": "2026-10-22T14:25:29.592058+00:00",
   "seen_articles": {
     "https://www.thehindubusinessline.com/companies/hyundai-motor-india-expects-30-sales-to-come-from-rural-markets-in-3-4-years-md-ceo/article71434602.ece": {
       "title": "Hyundai Motor India expects 30% sales to come from rural markets in 3-4 years: MD & CEO",
@@ -1175,7 +1175,18 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-10-21T14:23:54.742079+00:00",
-      "last_seen_at": "2026-10-22T01:21:49.647994+00:00"
+      "last_seen_at": "2026-10-22T14:25:29.592058+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/indias-copper-demand-rises-12-to-2100-kt-in-fy26/articleshow/135114656.cms": {
+      "title": "India's copper demand rises 12% to 2,100 KT in FY26",
+      "link": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/indias-copper-demand-rises-12-to-2100-kt-in-fy26/articleshow/135114656.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "KT Corp"
+      ],
+      "first_seen_at": "2026-10-22T14:25:29.592058+00:00",
+      "last_seen_at": "2026-10-22T14:25:29.592058+00:00"
     }
   }
 }
