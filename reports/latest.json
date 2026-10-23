@@ -1,73 +1,96 @@
 {
-  "run_at": "2026-10-22T14:25:29.592058+00:00",
+  "run_at": "2026-10-23T01:20:24.888605+00:00",
   "summary": {
     "source_count": 73,
     "success_count": 70,
     "failed_count": 3,
-    "matched_count": 2,
-    "new_count": 1
+    "matched_count": 5,
+    "new_count": 4
   },
   "new_articles": [
     {
-      "article_key": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/indias-copper-demand-rises-12-to-2100-kt-in-fy26/articleshow/135114656.cms",
-      "canonical_link": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/indias-copper-demand-rises-12-to-2100-kt-in-fy26/articleshow/135114656.cms",
-      "link": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/indias-copper-demand-rises-12-to-2100-kt-in-fy26/articleshow/135114656.cms",
-      "title": "India's copper demand rises 12% to 2,100 KT in FY26",
-      "summary": "KT Corp 관련 기사다. 기사 제목은 'India's copper demand rises 12% to 2,100 KT in FY26'이다. India's copper demand rose to 2,100 kilotonnes in FY'26, reflecting a 12% increase from the previous year. This growth was primarily driven by strong performance in the infrastructure, automotive, and construction sectors. The infrastructure sector experienced a notable 29% year-on-year increase, contributing significantly to domestic consumption. In contrast, the automotive sector rebounded with a 14% rise following previous declines. In contrast, the automotive sector rebounded with a 14% rise following previous declines India's copper demand rises 12% to 2,100 KT in FY26, driven by growth in infrastructure, automotive and construction sectors, according to ICA India data According to data released by the International Copper Association India (ICA India) on Thursday, India's copper demand reached 2,100 kilotonnes (KT) in FY'26, marking a 12% increase from 1,878 KT in FY25 This surge was primarily propelled by robust activity across the infrastructure, automotive, and building and construction sectors \"India's copper demand grew 12 per cent year-on-year in FY2026 to 2,100 kilotonnes, significantly outpacing the country's 7. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "India's copper demand rises 12% to 2,100 KT in FY26",
-      "original_summary": "India's copper demand rose to 2,100 kilotonnes in FY'26, reflecting a 12% increase from the previous year. This growth was primarily driven by strong performance in the infrastructure, automotive, and construction sectors. The infrastructure sector experienced a notable 29% year-on-year increase, contributing significantly to domestic consumption. In contrast, the automotive sector rebounded with a 14% rise following previous declines.",
-      "company_summary": "KT Corp 관련 기사다. 기사 제목은 'India's copper demand rises 12% to 2,100 KT in FY26'이다. India's copper demand rose to 2,100 kilotonnes in FY'26, reflecting a 12% increase from the previous year. This growth was primarily driven by strong performance in the infrastructure, automotive, and construction sectors. The infrastructure sector experienced a notable 29% year-on-year increase, contributing significantly to domestic consumption. In contrast, the automotive sector rebounded with a 14% rise following previous declines. In contrast, the automotive sector rebounded with a 14% rise following previous declines India's copper demand rises 12% to 2,100 KT in FY26, driven by growth in infrastructure, automotive and construction sectors, according to ICA India data According to data released by the International Copper Association India (ICA India) on Thursday, India's copper demand reached 2,100 kilotonnes (KT) in FY'26, marking a 12% increase from 1,878 KT in FY25 This surge was primarily propelled by robust activity across the infrastructure, automotive, and building and construction sectors \"India's copper demand grew 12 per cent year-on-year in FY2026 to 2,100 kilotonnes, significantly outpacing the country's 7. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-22T09:49:08+00:00",
-      "source_id": "economic_times_industry",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "country_name_ko": "인도",
+      "article_key": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-abandons-plan-for-us-unit-s-ipo-citing-market-volatility",
+      "canonical_link": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-abandons-plan-for-us-unit-s-ipo-citing-market-volatility",
+      "link": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-abandons-plan-for-us-unit-s-ipo-citing-market-volatility",
+      "title": "SK Hynix abandons plan for US unit's IPO, citing market volatility",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix abandons plan for US unit's IPO, citing market volatility'이다. SEOUL -- SK Hynix has abandoned plans for a New York IPO for its U. S. unit, days after South Korea's financial regulators said the chipmaker's move. Decision comes days after South Korean regulators said listing would violate duplicate listing. Semiconductors SK Hynix abandons plan for US unit's IPO, citing market volatility Decision comes days after South Korean regulators said listing would violate duplicate listing ban SK Hynix had planned to use funds from the IPO to expand manufacturing facilities in the U unit, days after South Korea's financial regulators said the chipmaker's move would contravene a duplicate listing ban. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "SK Hynix abandons plan for US unit's IPO, citing market volatility",
+      "original_summary": "",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix abandons plan for US unit's IPO, citing market volatility'이다. SEOUL -- SK Hynix has abandoned plans for a New York IPO for its U. S. unit, days after South Korea's financial regulators said the chipmaker's move. Decision comes days after South Korean regulators said listing would violate duplicate listing. Semiconductors SK Hynix abandons plan for US unit's IPO, citing market volatility Decision comes days after South Korean regulators said listing would violate duplicate listing ban SK Hynix had planned to use funds from the IPO to expand manufacturing facilities in the U unit, days after South Korea's financial regulators said the chipmaker's move would contravene a duplicate listing ban. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-23T01:02:58+00:00",
+      "source_id": "nikkei_asia",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "country_name_ko": "일본",
       "source_language": "en",
       "matched_companies": [
-        "KT Corp"
+        "SK hynix"
       ],
       "matched_aliases": [
-        "KT"
-      ],
-      "is_new": true
-    }
-  ],
-  "matched_articles": [
-    {
-      "article_key": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/indias-copper-demand-rises-12-to-2100-kt-in-fy26/articleshow/135114656.cms",
-      "canonical_link": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/indias-copper-demand-rises-12-to-2100-kt-in-fy26/articleshow/135114656.cms",
-      "link": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/indias-copper-demand-rises-12-to-2100-kt-in-fy26/articleshow/135114656.cms",
-      "title": "India's copper demand rises 12% to 2,100 KT in FY26",
-      "summary": "KT Corp 관련 기사다. 기사 제목은 'India's copper demand rises 12% to 2,100 KT in FY26'이다. India's copper demand rose to 2,100 kilotonnes in FY'26, reflecting a 12% increase from the previous year. This growth was primarily driven by strong performance in the infrastructure, automotive, and construction sectors. The infrastructure sector experienced a notable 29% year-on-year increase, contributing significantly to domestic consumption. In contrast, the automotive sector rebounded with a 14% rise following previous declines. In contrast, the automotive sector rebounded with a 14% rise following previous declines India's copper demand rises 12% to 2,100 KT in FY26, driven by growth in infrastructure, automotive and construction sectors, according to ICA India data According to data released by the International Copper Association India (ICA India) on Thursday, India's copper demand reached 2,100 kilotonnes (KT) in FY'26, marking a 12% increase from 1,878 KT in FY25 This surge was primarily propelled by robust activity across the infrastructure, automotive, and building and construction sectors \"India's copper demand grew 12 per cent year-on-year in FY2026 to 2,100 kilotonnes, significantly outpacing the country's 7. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "India's copper demand rises 12% to 2,100 KT in FY26",
-      "original_summary": "India's copper demand rose to 2,100 kilotonnes in FY'26, reflecting a 12% increase from the previous year. This growth was primarily driven by strong performance in the infrastructure, automotive, and construction sectors. The infrastructure sector experienced a notable 29% year-on-year increase, contributing significantly to domestic consumption. In contrast, the automotive sector rebounded with a 14% rise following previous declines.",
-      "company_summary": "KT Corp 관련 기사다. 기사 제목은 'India's copper demand rises 12% to 2,100 KT in FY26'이다. India's copper demand rose to 2,100 kilotonnes in FY'26, reflecting a 12% increase from the previous year. This growth was primarily driven by strong performance in the infrastructure, automotive, and construction sectors. The infrastructure sector experienced a notable 29% year-on-year increase, contributing significantly to domestic consumption. In contrast, the automotive sector rebounded with a 14% rise following previous declines. In contrast, the automotive sector rebounded with a 14% rise following previous declines India's copper demand rises 12% to 2,100 KT in FY26, driven by growth in infrastructure, automotive and construction sectors, according to ICA India data According to data released by the International Copper Association India (ICA India) on Thursday, India's copper demand reached 2,100 kilotonnes (KT) in FY'26, marking a 12% increase from 1,878 KT in FY25 This surge was primarily propelled by robust activity across the infrastructure, automotive, and building and construction sectors \"India's copper demand grew 12 per cent year-on-year in FY2026 to 2,100 kilotonnes, significantly outpacing the country's 7. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-22T09:49:08+00:00",
-      "source_id": "economic_times_industry",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "country_name_ko": "인도",
-      "source_language": "en",
-      "matched_companies": [
-        "KT Corp"
-      ],
-      "matched_aliases": [
-        "KT"
+        "SK hynix"
       ],
       "is_new": true
     },
     {
-      "article_key": "https://www.straitstimes.com/business/samsung-sk-hynix-upgrading-china-plants-to-make-more-advanced-chips-sources",
-      "canonical_link": "https://www.straitstimes.com/business/samsung-sk-hynix-upgrading-china-plants-to-make-more-advanced-chips-sources",
-      "link": "https://www.straitstimes.com/business/samsung-sk-hynix-upgrading-china-plants-to-make-more-advanced-chips-sources",
-      "title": "Samsung, SK Hynix upgrading China plants to make more advanced chips: Sources",
-      "summary": "SK hynix 관련 기사다. 기사 제목은 'Samsung, SK Hynix upgrading China plants to make more advanced chips: Sources'이다. They are working to manufacture flash NAND memory chips with more than 200 layers in China. Samsung and SK Hynix confirmed in statements to Reuters that upgrades were underway and were being done in close consultation with Washington, but did not disclose details of production plans that are being reported here for the first time ” SK Hynix is looking to switch to producing NAND products with 240 layers or more at its Dalian facilities in north-eastern China, three people familiar with the matter said SK Hynix acquired the Dalian site when it bought Intel’s NAND operations in 2021 and it remains the sole NAND chip manufacturing site for that business, which is now named Solidigm and is preparing for a US initial public offering 5% from 36% while SK Hynix’s share has dropped to 17% from 20% SK Hynix sells NAND chips that are up to 321 layers. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Samsung, SK Hynix upgrading China plants to make more advanced chips: Sources",
-      "original_summary": "They are working to manufacture flash NAND memory chips with more than 200 layers in China.",
-      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'Samsung, SK Hynix upgrading China plants to make more advanced chips: Sources'이다. They are working to manufacture flash NAND memory chips with more than 200 layers in China. Samsung and SK Hynix confirmed in statements to Reuters that upgrades were underway and were being done in close consultation with Washington, but did not disclose details of production plans that are being reported here for the first time ” SK Hynix is looking to switch to producing NAND products with 240 layers or more at its Dalian facilities in north-eastern China, three people familiar with the matter said SK Hynix acquired the Dalian site when it bought Intel’s NAND operations in 2021 and it remains the sole NAND chip manufacturing site for that business, which is now named Solidigm and is preparing for a US initial public offering 5% from 36% while SK Hynix’s share has dropped to 17% from 20% SK Hynix sells NAND chips that are up to 321 layers. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-21T06:23:00+00:00",
-      "source_id": "straits_times_business",
-      "source_name": "The Straits Times",
+      "article_key": "https://www.channelnewsasia.com/business/hd-hyundai-build-us-shipyard-kiewit-create-3000-jobs-6484821",
+      "canonical_link": "https://www.channelnewsasia.com/business/hd-hyundai-build-us-shipyard-kiewit-create-3000-jobs-6484821",
+      "link": "https://www.channelnewsasia.com/business/hd-hyundai-build-us-shipyard-kiewit-create-3000-jobs-6484821",
+      "title": "HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs",
+      "summary": "Hyundai Motor, HD Hyundai 관련 기사다. 기사 제목은 'HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs'이다. Channel NewsAsia is an English-language news organization based in Singapore. SEOUL, Oct 23 : HD Hyundai Co said on Friday it has signed a deal with Kiewit Corp to build an advanced US shipyard next year, with operations expected to begin in 2029 and create about 3,000 domestic jobs. The new shipyard is expected to boost U. S. shipbuilding capacity and help revive the industry, Hyundai. Give it a try Click here to return to FAST Tap here to return to FAST FAST SEOUL, Oct 23 : HD Hyundai Co said on Friday it has signed a deal with Kiewit Corp to build an advanced US shipyard next year, with operations expected to begin in 2029 and create about 3,000 domestic jobs The new shipyard is expected to boost U shipbuilding capacity and help revive the industry, Hyundai said The partners will explore opportunities in both commercial ships and military support vessels, it said in a statement.",
+      "original_title": "HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs",
+      "original_summary": "",
+      "company_summary": "Hyundai Motor, HD Hyundai 관련 기사다. 기사 제목은 'HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs'이다. Channel NewsAsia is an English-language news organization based in Singapore. SEOUL, Oct 23 : HD Hyundai Co said on Friday it has signed a deal with Kiewit Corp to build an advanced US shipyard next year, with operations expected to begin in 2029 and create about 3,000 domestic jobs. The new shipyard is expected to boost U. S. shipbuilding capacity and help revive the industry, Hyundai. Give it a try Click here to return to FAST Tap here to return to FAST FAST SEOUL, Oct 23 : HD Hyundai Co said on Friday it has signed a deal with Kiewit Corp to build an advanced US shipyard next year, with operations expected to begin in 2029 and create about 3,000 domestic jobs The new shipyard is expected to boost U shipbuilding capacity and help revive the industry, Hyundai said The partners will explore opportunities in both commercial ships and military support vessels, it said in a statement.",
+      "published_at": "2026-10-23T00:55:54+00:00",
+      "source_id": "cna_business",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "country_name_ko": "싱가포르",
+      "source_language": "en",
+      "matched_companies": [
+        "Hyundai Motor",
+        "HD Hyundai"
+      ],
+      "matched_aliases": [
+        "Hyundai",
+        "HD Hyundai"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
+      "canonical_link": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
+      "link": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
+      "title": "SK Hynix shares slide after chipmaker scraps Solidigm IPO plans",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix shares slide after chipmaker scraps Solidigm IPO plans'이다. SK Hynix has shelved plans for a potential U. S. IPO of Solidigm amid market volatility and share price concerns. SK Hynix said Solidigm's investment needs remain unchanged and that it would continue exploring alternative financing options to support the subsidiary's growth and enhance shareholder value In this article SKHY SK Hynix Inc However, financial market volatility had increased and contributed to a broader correction in semiconductor stocks, prompting SK Hynix to reassess whether an IPO would benefit existing shareholders Financial Supervisory Service Governor Lee Chan-jin said regulators were examining whether the IPO would require a review under the country's rules designed to protect minority shareholders SK Hynix said Solidigm's investment needs remain unchanged and that it would continue exploring alternative financing options to support the subsidiary's growth and enhance shareholder value. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "SK Hynix shares slide after chipmaker scraps Solidigm IPO plans",
+      "original_summary": "SK Hynix has shelved plans for a potential U.S. IPO of Solidigm amid market volatility and share price concerns.",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix shares slide after chipmaker scraps Solidigm IPO plans'이다. SK Hynix has shelved plans for a potential U. S. IPO of Solidigm amid market volatility and share price concerns. SK Hynix said Solidigm's investment needs remain unchanged and that it would continue exploring alternative financing options to support the subsidiary's growth and enhance shareholder value In this article SKHY SK Hynix Inc However, financial market volatility had increased and contributed to a broader correction in semiconductor stocks, prompting SK Hynix to reassess whether an IPO would benefit existing shareholders Financial Supervisory Service Governor Lee Chan-jin said regulators were examining whether the IPO would require a review under the country's rules designed to protect minority shareholders SK Hynix said Solidigm's investment needs remain unchanged and that it would continue exploring alternative financing options to support the subsidiary's growth and enhance shareholder value. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-23T00:53:36+00:00",
+      "source_id": "cnbc_top_news",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "country_name_ko": "미국",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://www.channelnewsasia.com/business/sk-hynix-says-solidigm-suspends-review-us-ipo-citing-market-volatility-6484446",
+      "canonical_link": "https://www.channelnewsasia.com/business/sk-hynix-says-solidigm-suspends-review-us-ipo-citing-market-volatility-6484446",
+      "link": "https://www.channelnewsasia.com/business/sk-hynix-says-solidigm-suspends-review-us-ipo-citing-market-volatility-6484446",
+      "title": "SK Hynix says Solidigm suspends review of US IPO, citing market volatility",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix says Solidigm suspends review of US IPO, citing market volatility'이다. Channel NewsAsia is an English-language news organization based in Singapore. SEOUL, Oct 23 : South Korean chipmaker SK Hynix said on Friday that it had suspended its review of a US initial public offering for its Solidigm subsidiary, citing financial market volatility and share price trends. South Korea's financial regulator said earlier this week that the listing could run afoul of. SK Hynix said in a statement it would continue to explore ways to fund Solidigm's expansion and enhance shareholder value, including reviewing the timing, scale and financing of future investments Despite strong business performance at both SK Hynix and Solidigm, the company said increased market volatility and a broader correction in semiconductor stocks had prompted it to reconsider the listing Shares in SK Hynix have fallen more than 30 per cent since the potential Solidigm IPO was reported in late September, compared with a 20 per cent decline in South Korea's benchmark KOSPI index over the same period Solidigm, based in Rancho Cordova, California, is SK Hynix's US subsidiary specialising in NAND flash memory and solid-state drives SK Hynix had considered an IPO as one of several ways to finance Solidigm's expansion amid growing demand for memory chips driven by artificial intelligence. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "SK Hynix says Solidigm suspends review of US IPO, citing market volatility",
+      "original_summary": "",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix says Solidigm suspends review of US IPO, citing market volatility'이다. Channel NewsAsia is an English-language news organization based in Singapore. SEOUL, Oct 23 : South Korean chipmaker SK Hynix said on Friday that it had suspended its review of a US initial public offering for its Solidigm subsidiary, citing financial market volatility and share price trends. South Korea's financial regulator said earlier this week that the listing could run afoul of. SK Hynix said in a statement it would continue to explore ways to fund Solidigm's expansion and enhance shareholder value, including reviewing the timing, scale and financing of future investments Despite strong business performance at both SK Hynix and Solidigm, the company said increased market volatility and a broader correction in semiconductor stocks had prompted it to reconsider the listing Shares in SK Hynix have fallen more than 30 per cent since the potential Solidigm IPO was reported in late September, compared with a 20 per cent decline in South Korea's benchmark KOSPI index over the same period Solidigm, based in Rancho Cordova, California, is SK Hynix's US subsidiary specialising in NAND flash memory and solid-state drives SK Hynix had considered an IPO as one of several ways to finance Solidigm's expansion amid growing demand for memory chips driven by artificial intelligence. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-22T21:57:16+00:00",
+      "source_id": "cna_business",
+      "source_name": "CNA Business",
       "country_code": "SG",
       "country_name_ko": "싱가포르",
       "source_language": "en",
@@ -76,6 +99,125 @@
       ],
       "matched_aliases": [
         "SK hynix"
+      ],
+      "is_new": true
+    }
+  ],
+  "matched_articles": [
+    {
+      "article_key": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-abandons-plan-for-us-unit-s-ipo-citing-market-volatility",
+      "canonical_link": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-abandons-plan-for-us-unit-s-ipo-citing-market-volatility",
+      "link": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-abandons-plan-for-us-unit-s-ipo-citing-market-volatility",
+      "title": "SK Hynix abandons plan for US unit's IPO, citing market volatility",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix abandons plan for US unit's IPO, citing market volatility'이다. SEOUL -- SK Hynix has abandoned plans for a New York IPO for its U. S. unit, days after South Korea's financial regulators said the chipmaker's move. Decision comes days after South Korean regulators said listing would violate duplicate listing. Semiconductors SK Hynix abandons plan for US unit's IPO, citing market volatility Decision comes days after South Korean regulators said listing would violate duplicate listing ban SK Hynix had planned to use funds from the IPO to expand manufacturing facilities in the U unit, days after South Korea's financial regulators said the chipmaker's move would contravene a duplicate listing ban. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "SK Hynix abandons plan for US unit's IPO, citing market volatility",
+      "original_summary": "",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix abandons plan for US unit's IPO, citing market volatility'이다. SEOUL -- SK Hynix has abandoned plans for a New York IPO for its U. S. unit, days after South Korea's financial regulators said the chipmaker's move. Decision comes days after South Korean regulators said listing would violate duplicate listing. Semiconductors SK Hynix abandons plan for US unit's IPO, citing market volatility Decision comes days after South Korean regulators said listing would violate duplicate listing ban SK Hynix had planned to use funds from the IPO to expand manufacturing facilities in the U unit, days after South Korea's financial regulators said the chipmaker's move would contravene a duplicate listing ban. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-23T01:02:58+00:00",
+      "source_id": "nikkei_asia",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "country_name_ko": "일본",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://www.channelnewsasia.com/business/hd-hyundai-build-us-shipyard-kiewit-create-3000-jobs-6484821",
+      "canonical_link": "https://www.channelnewsasia.com/business/hd-hyundai-build-us-shipyard-kiewit-create-3000-jobs-6484821",
+      "link": "https://www.channelnewsasia.com/business/hd-hyundai-build-us-shipyard-kiewit-create-3000-jobs-6484821",
+      "title": "HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs",
+      "summary": "Hyundai Motor, HD Hyundai 관련 기사다. 기사 제목은 'HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs'이다. Channel NewsAsia is an English-language news organization based in Singapore. SEOUL, Oct 23 : HD Hyundai Co said on Friday it has signed a deal with Kiewit Corp to build an advanced US shipyard next year, with operations expected to begin in 2029 and create about 3,000 domestic jobs. The new shipyard is expected to boost U. S. shipbuilding capacity and help revive the industry, Hyundai. Give it a try Click here to return to FAST Tap here to return to FAST FAST SEOUL, Oct 23 : HD Hyundai Co said on Friday it has signed a deal with Kiewit Corp to build an advanced US shipyard next year, with operations expected to begin in 2029 and create about 3,000 domestic jobs The new shipyard is expected to boost U shipbuilding capacity and help revive the industry, Hyundai said The partners will explore opportunities in both commercial ships and military support vessels, it said in a statement.",
+      "original_title": "HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs",
+      "original_summary": "",
+      "company_summary": "Hyundai Motor, HD Hyundai 관련 기사다. 기사 제목은 'HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs'이다. Channel NewsAsia is an English-language news organization based in Singapore. SEOUL, Oct 23 : HD Hyundai Co said on Friday it has signed a deal with Kiewit Corp to build an advanced US shipyard next year, with operations expected to begin in 2029 and create about 3,000 domestic jobs. The new shipyard is expected to boost U. S. shipbuilding capacity and help revive the industry, Hyundai. Give it a try Click here to return to FAST Tap here to return to FAST FAST SEOUL, Oct 23 : HD Hyundai Co said on Friday it has signed a deal with Kiewit Corp to build an advanced US shipyard next year, with operations expected to begin in 2029 and create about 3,000 domestic jobs The new shipyard is expected to boost U shipbuilding capacity and help revive the industry, Hyundai said The partners will explore opportunities in both commercial ships and military support vessels, it said in a statement.",
+      "published_at": "2026-10-23T00:55:54+00:00",
+      "source_id": "cna_business",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "country_name_ko": "싱가포르",
+      "source_language": "en",
+      "matched_companies": [
+        "Hyundai Motor",
+        "HD Hyundai"
+      ],
+      "matched_aliases": [
+        "Hyundai",
+        "HD Hyundai"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
+      "canonical_link": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
+      "link": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
+      "title": "SK Hynix shares slide after chipmaker scraps Solidigm IPO plans",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix shares slide after chipmaker scraps Solidigm IPO plans'이다. SK Hynix has shelved plans for a potential U. S. IPO of Solidigm amid market volatility and share price concerns. SK Hynix said Solidigm's investment needs remain unchanged and that it would continue exploring alternative financing options to support the subsidiary's growth and enhance shareholder value In this article SKHY SK Hynix Inc However, financial market volatility had increased and contributed to a broader correction in semiconductor stocks, prompting SK Hynix to reassess whether an IPO would benefit existing shareholders Financial Supervisory Service Governor Lee Chan-jin said regulators were examining whether the IPO would require a review under the country's rules designed to protect minority shareholders SK Hynix said Solidigm's investment needs remain unchanged and that it would continue exploring alternative financing options to support the subsidiary's growth and enhance shareholder value. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "SK Hynix shares slide after chipmaker scraps Solidigm IPO plans",
+      "original_summary": "SK Hynix has shelved plans for a potential U.S. IPO of Solidigm amid market volatility and share price concerns.",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix shares slide after chipmaker scraps Solidigm IPO plans'이다. SK Hynix has shelved plans for a potential U. S. IPO of Solidigm amid market volatility and share price concerns. SK Hynix said Solidigm's investment needs remain unchanged and that it would continue exploring alternative financing options to support the subsidiary's growth and enhance shareholder value In this article SKHY SK Hynix Inc However, financial market volatility had increased and contributed to a broader correction in semiconductor stocks, prompting SK Hynix to reassess whether an IPO would benefit existing shareholders Financial Supervisory Service Governor Lee Chan-jin said regulators were examining whether the IPO would require a review under the country's rules designed to protect minority shareholders SK Hynix said Solidigm's investment needs remain unchanged and that it would continue exploring alternative financing options to support the subsidiary's growth and enhance shareholder value. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-23T00:53:36+00:00",
+      "source_id": "cnbc_top_news",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "country_name_ko": "미국",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://www.channelnewsasia.com/business/sk-hynix-says-solidigm-suspends-review-us-ipo-citing-market-volatility-6484446",
+      "canonical_link": "https://www.channelnewsasia.com/business/sk-hynix-says-solidigm-suspends-review-us-ipo-citing-market-volatility-6484446",
+      "link": "https://www.channelnewsasia.com/business/sk-hynix-says-solidigm-suspends-review-us-ipo-citing-market-volatility-6484446",
+      "title": "SK Hynix says Solidigm suspends review of US IPO, citing market volatility",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix says Solidigm suspends review of US IPO, citing market volatility'이다. Channel NewsAsia is an English-language news organization based in Singapore. SEOUL, Oct 23 : South Korean chipmaker SK Hynix said on Friday that it had suspended its review of a US initial public offering for its Solidigm subsidiary, citing financial market volatility and share price trends. South Korea's financial regulator said earlier this week that the listing could run afoul of. SK Hynix said in a statement it would continue to explore ways to fund Solidigm's expansion and enhance shareholder value, including reviewing the timing, scale and financing of future investments Despite strong business performance at both SK Hynix and Solidigm, the company said increased market volatility and a broader correction in semiconductor stocks had prompted it to reconsider the listing Shares in SK Hynix have fallen more than 30 per cent since the potential Solidigm IPO was reported in late September, compared with a 20 per cent decline in South Korea's benchmark KOSPI index over the same period Solidigm, based in Rancho Cordova, California, is SK Hynix's US subsidiary specialising in NAND flash memory and solid-state drives SK Hynix had considered an IPO as one of several ways to finance Solidigm's expansion amid growing demand for memory chips driven by artificial intelligence. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "SK Hynix says Solidigm suspends review of US IPO, citing market volatility",
+      "original_summary": "",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix says Solidigm suspends review of US IPO, citing market volatility'이다. Channel NewsAsia is an English-language news organization based in Singapore. SEOUL, Oct 23 : South Korean chipmaker SK Hynix said on Friday that it had suspended its review of a US initial public offering for its Solidigm subsidiary, citing financial market volatility and share price trends. South Korea's financial regulator said earlier this week that the listing could run afoul of. SK Hynix said in a statement it would continue to explore ways to fund Solidigm's expansion and enhance shareholder value, including reviewing the timing, scale and financing of future investments Despite strong business performance at both SK Hynix and Solidigm, the company said increased market volatility and a broader correction in semiconductor stocks had prompted it to reconsider the listing Shares in SK Hynix have fallen more than 30 per cent since the potential Solidigm IPO was reported in late September, compared with a 20 per cent decline in South Korea's benchmark KOSPI index over the same period Solidigm, based in Rancho Cordova, California, is SK Hynix's US subsidiary specialising in NAND flash memory and solid-state drives SK Hynix had considered an IPO as one of several ways to finance Solidigm's expansion amid growing demand for memory chips driven by artificial intelligence. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-22T21:57:16+00:00",
+      "source_id": "cna_business",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "country_name_ko": "싱가포르",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/indias-copper-demand-rises-12-to-2100-kt-in-fy26/articleshow/135114656.cms",
+      "canonical_link": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/indias-copper-demand-rises-12-to-2100-kt-in-fy26/articleshow/135114656.cms",
+      "link": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/indias-copper-demand-rises-12-to-2100-kt-in-fy26/articleshow/135114656.cms",
+      "title": "India's copper demand rises 12% to 2,100 KT in FY26",
+      "summary": "KT Corp 관련 기사다. 기사 제목은 'India's copper demand rises 12% to 2,100 KT in FY26'이다. India's copper demand rose to 2,100 kilotonnes in FY'26, reflecting a 12% increase from the previous year. This growth was primarily driven by strong performance in the infrastructure, automotive, and construction sectors. The infrastructure sector experienced a notable 29% year-on-year increase, contributing significantly to domestic consumption. In contrast, the automotive sector rebounded with a 14% rise following previous declines. In contrast, the automotive sector rebounded with a 14% rise following previous declines India's copper demand rises 12% to 2,100 KT in FY26, driven by growth in infrastructure, automotive and construction sectors, according to ICA India data According to data released by the International Copper Association India (ICA India) on Thursday, India's copper demand reached 2,100 kilotonnes (KT) in FY'26, marking a 12% increase from 1,878 KT in FY25 This surge was primarily propelled by robust activity across the infrastructure, automotive, and building and construction sectors \"India's copper demand grew 12 per cent year-on-year in FY2026 to 2,100 kilotonnes, significantly outpacing the country's 7. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "India's copper demand rises 12% to 2,100 KT in FY26",
+      "original_summary": "India's copper demand rose to 2,100 kilotonnes in FY'26, reflecting a 12% increase from the previous year. This growth was primarily driven by strong performance in the infrastructure, automotive, and construction sectors. The infrastructure sector experienced a notable 29% year-on-year increase, contributing significantly to domestic consumption. In contrast, the automotive sector rebounded with a 14% rise following previous declines.",
+      "company_summary": "KT Corp 관련 기사다. 기사 제목은 'India's copper demand rises 12% to 2,100 KT in FY26'이다. India's copper demand rose to 2,100 kilotonnes in FY'26, reflecting a 12% increase from the previous year. This growth was primarily driven by strong performance in the infrastructure, automotive, and construction sectors. The infrastructure sector experienced a notable 29% year-on-year increase, contributing significantly to domestic consumption. In contrast, the automotive sector rebounded with a 14% rise following previous declines. In contrast, the automotive sector rebounded with a 14% rise following previous declines India's copper demand rises 12% to 2,100 KT in FY26, driven by growth in infrastructure, automotive and construction sectors, according to ICA India data According to data released by the International Copper Association India (ICA India) on Thursday, India's copper demand reached 2,100 kilotonnes (KT) in FY'26, marking a 12% increase from 1,878 KT in FY25 This surge was primarily propelled by robust activity across the infrastructure, automotive, and building and construction sectors \"India's copper demand grew 12 per cent year-on-year in FY2026 to 2,100 kilotonnes, significantly outpacing the country's 7. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-22T09:49:08+00:00",
+      "source_id": "economic_times_industry",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "country_name_ko": "인도",
+      "source_language": "en",
+      "matched_companies": [
+        "KT Corp"
+      ],
+      "matched_aliases": [
+        "KT"
       ],
       "is_new": false
     }
@@ -95,7 +237,7 @@
       "source_name": "The New York Times Technology",
       "country_code": "US",
       "success": true,
-      "item_count": 21,
+      "item_count": 23,
       "matched_count": 0,
       "error": ""
     },
@@ -195,7 +337,7 @@
       "country_code": "JP",
       "success": true,
       "item_count": 50,
-      "matched_count": 0,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -338,7 +480,7 @@
       "source_name": "BBC Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 56,
+      "item_count": 57,
       "matched_count": 0,
       "error": ""
     },
@@ -347,7 +489,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 38,
+      "item_count": 37,
       "matched_count": 0,
       "error": ""
     },
@@ -410,7 +552,7 @@
       "source_name": "The Independent Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 3,
+      "item_count": 2,
       "matched_count": 0,
       "error": ""
     },
@@ -474,7 +616,7 @@
       "country_code": "US",
       "success": true,
       "item_count": 30,
-      "matched_count": 0,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -483,7 +625,7 @@
       "country_code": "US",
       "success": true,
       "item_count": 30,
-      "matched_count": 0,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -492,7 +634,7 @@
       "country_code": "US",
       "success": true,
       "item_count": 30,
-      "matched_count": 0,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -609,7 +751,7 @@
       "country_code": "SG",
       "success": true,
       "item_count": 20,
-      "matched_count": 0,
+      "matched_count": 2,
       "error": ""
     },
     {
@@ -636,7 +778,7 @@
       "country_code": "SG",
       "success": true,
       "item_count": 50,
-      "matched_count": 1,
+      "matched_count": 0,
       "error": ""
     },
     {

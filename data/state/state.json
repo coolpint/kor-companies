@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-22T14:25:29.592058+00:00",
+  "last_run_at": "2026-10-23T01:20:24.888605+00:00",
   "seen_articles": {
-    "https://www.thehindubusinessline.com/companies/hyundai-motor-india-expects-30-sales-to-come-from-rural-markets-in-3-4-years-md-ceo/article71434602.ece": {
-      "title": "Hyundai Motor India expects 30% sales to come from rural markets in 3-4 years: MD & CEO",
-      "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-expects-30-sales-to-come-from-rural-markets-in-3-4-years-md-ceo/article71434602.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-09-06T12:43:39.577882+00:00",
-      "last_seen_at": "2026-09-07T14:55:17.323744+00:00"
-    },
     "https://www.thehindubusinessline.com/companies/hyundai-motor-india-targets-20-women-representation-in-executive-workforce-by-2030/article71437899.ece": {
       "title": "Hyundai Motor India targets 20% women representation in executive workforce by 2030",
       "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-targets-20-women-representation-in-executive-workforce-by-2030/article71437899.ece",
@@ -1186,7 +1175,52 @@
         "KT Corp"
       ],
       "first_seen_at": "2026-10-22T14:25:29.592058+00:00",
-      "last_seen_at": "2026-10-22T14:25:29.592058+00:00"
+      "last_seen_at": "2026-10-23T01:20:24.888605+00:00"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-abandons-plan-for-us-unit-s-ipo-citing-market-volatility": {
+      "title": "SK Hynix abandons plan for US unit's IPO, citing market volatility",
+      "link": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-abandons-plan-for-us-unit-s-ipo-citing-market-volatility",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-10-23T01:20:24.888605+00:00",
+      "last_seen_at": "2026-10-23T01:20:24.888605+00:00"
+    },
+    "https://www.channelnewsasia.com/business/hd-hyundai-build-us-shipyard-kiewit-create-3000-jobs-6484821": {
+      "title": "HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs",
+      "link": "https://www.channelnewsasia.com/business/hd-hyundai-build-us-shipyard-kiewit-create-3000-jobs-6484821",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "Hyundai Motor",
+        "HD Hyundai"
+      ],
+      "first_seen_at": "2026-10-23T01:20:24.888605+00:00",
+      "last_seen_at": "2026-10-23T01:20:24.888605+00:00"
+    },
+    "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html": {
+      "title": "SK Hynix shares slide after chipmaker scraps Solidigm IPO plans",
+      "link": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-10-23T01:20:24.888605+00:00",
+      "last_seen_at": "2026-10-23T01:20:24.888605+00:00"
+    },
+    "https://www.channelnewsasia.com/business/sk-hynix-says-solidigm-suspends-review-us-ipo-citing-market-volatility-6484446": {
+      "title": "SK Hynix says Solidigm suspends review of US IPO, citing market volatility",
+      "link": "https://www.channelnewsasia.com/business/sk-hynix-says-solidigm-suspends-review-us-ipo-citing-market-volatility-6484446",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-10-23T01:20:24.888605+00:00",
+      "last_seen_at": "2026-10-23T01:20:24.888605+00:00"
     }
   }
 }
