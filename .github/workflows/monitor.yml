@@ -10,7 +10,8 @@ on:
       - "src/**"
       - "config/**"
   schedule:
-    - cron: "0 9,23 * * *"
+    # GitHub warns that top-of-hour schedules can be delayed or dropped.
+    - cron: "17 9,23 * * *"
 
 permissions:
   contents: write

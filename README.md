@@ -43,10 +43,10 @@ python3 -m src.main --since-hours 48 --max-items-per-feed 100
 
 ## 원격 실행 방식
 
-GitHub Actions가 UTC 기준 `09:00`, `23:00`에 실행된다.
+GitHub Actions가 UTC 기준 `09:17`, `23:17`에 실행된다. 정각 실행은 GitHub Actions 혼잡으로 지연될 수 있어 피한다.
 
-- `23:00 UTC` = 다음날 `08:00 KST`
-- `09:00 UTC` = 당일 `18:00 KST`
+- `23:17 UTC` = 다음날 `08:17 KST`
+- `09:17 UTC` = 당일 `18:17 KST`
 
 워크플로는 실행 후 아래 파일을 갱신하고 같은 저장소에 다시 커밋한다.
 
