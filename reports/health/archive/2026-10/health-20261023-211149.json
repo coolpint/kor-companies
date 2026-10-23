@@ -1,0 +1,28 @@
+{
+  "status": "warning",
+  "checked_at": "2026-10-23T12:11:49.655903+00:00",
+  "period_start": "2026-10-16T12:11:49.655903+00:00",
+  "period_end": "2026-10-23T12:11:49.655903+00:00",
+  "total_runs": 14,
+  "expected_slots": 14,
+  "covered_slots": 7,
+  "missed_slots": [
+    "2026-10-17 18:00 KST",
+    "2026-10-18 18:00 KST",
+    "2026-10-19 18:00 KST",
+    "2026-10-20 18:00 KST",
+    "2026-10-21 18:00 KST",
+    "2026-10-22 18:00 KST",
+    "2026-10-23 18:00 KST"
+  ],
+  "latest_run_at": "2026-10-23T01:20:24.888605+00:00",
+  "runs_with_failures": 14,
+  "severe_failure_runs": 0,
+  "max_failed_sources": 6,
+  "matched_articles": 41,
+  "new_articles": 12,
+  "notes": [
+    "예정된 실행 슬롯 14개 중 7개가 비었다.",
+    "일부 소스 실패가 있었지만 치명적인 수준은 아니었다. (14회)"
+  ]
+}
