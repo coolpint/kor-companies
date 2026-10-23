@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-23T01:20:24.888605+00:00",
+  "last_run_at": "2026-10-23T12:59:57.178675+00:00",
   "seen_articles": {
     "https://www.thehindubusinessline.com/companies/hyundai-motor-india-targets-20-women-representation-in-executive-workforce-by-2030/article71437899.ece": {
       "title": "Hyundai Motor India targets 20% women representation in executive workforce by 2030",
@@ -1186,7 +1186,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-10-23T01:20:24.888605+00:00",
-      "last_seen_at": "2026-10-23T01:20:24.888605+00:00"
+      "last_seen_at": "2026-10-23T12:59:57.178675+00:00"
     },
     "https://www.channelnewsasia.com/business/hd-hyundai-build-us-shipyard-kiewit-create-3000-jobs-6484821": {
       "title": "HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs",
@@ -1201,7 +1201,7 @@
       "last_seen_at": "2026-10-23T01:20:24.888605+00:00"
     },
     "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html": {
-      "title": "SK Hynix shares slide after chipmaker scraps Solidigm IPO plans",
+      "title": "SK Hynix shares jump over 4% after early losses as chipmaker scraps Solidigm IPO plans",
       "link": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
       "source_name": "CNBC Top News",
       "country_code": "US",
@@ -1209,7 +1209,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-10-23T01:20:24.888605+00:00",
-      "last_seen_at": "2026-10-23T01:20:24.888605+00:00"
+      "last_seen_at": "2026-10-23T12:59:57.178675+00:00"
     },
     "https://www.channelnewsasia.com/business/sk-hynix-says-solidigm-suspends-review-us-ipo-citing-market-volatility-6484446": {
       "title": "SK Hynix says Solidigm suspends review of US IPO, citing market volatility",
@@ -1221,6 +1221,39 @@
       ],
       "first_seen_at": "2026-10-23T01:20:24.888605+00:00",
       "last_seen_at": "2026-10-23T01:20:24.888605+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-bayon-to-launch-in-india-on-october-26-check-price-features-and-booking-price/articleshow/135140547.cms": {
+      "title": "Hyundai Bayon to launch in India on October 26; check specifications, features and booking price",
+      "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-bayon-to-launch-in-india-on-october-26-check-price-features-and-booking-price/articleshow/135140547.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-10-23T12:59:57.178675+00:00",
+      "last_seen_at": "2026-10-23T12:59:57.178675+00:00"
+    },
+    "https://www.straitstimes.com/business/sk-hynix-puts-us-ipo-of-chip-unit-solidigm-on-hold-after-seoul-authorities-raise-concerns": {
+      "title": "SK Hynix puts US IPO of chip unit Solidigm on hold after Seoul authorities raise concerns",
+      "link": "https://www.straitstimes.com/business/sk-hynix-puts-us-ipo-of-chip-unit-solidigm-on-hold-after-seoul-authorities-raise-concerns",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-10-23T12:59:57.178675+00:00",
+      "last_seen_at": "2026-10-23T12:59:57.178675+00:00"
+    },
+    "https://www.theguardian.com/games/2026/oct/23/call-of-duty-modern-warfare-4-review-a-thrilling-airport-novel-of-a-game": {
+      "title": "Call of Duty: Modern Warfare 4 review – a thrilling airport novel of a game",
+      "link": "https://www.theguardian.com/games/2026/oct/23/call-of-duty-modern-warfare-4-review-a-thrilling-airport-novel-of-a-game",
+      "source_name": "The Guardian Technology",
+      "country_code": "GB",
+      "companies": [
+        "Korean Air"
+      ],
+      "first_seen_at": "2026-10-23T12:59:57.178675+00:00",
+      "last_seen_at": "2026-10-23T12:59:57.178675+00:00"
     }
   }
 }

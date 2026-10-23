@@ -1,53 +1,43 @@
 # 해외 언론 한국 기업 모니터링
 
-- 실행 시각: 2026-10-23 10:20:24 KST
+- 실행 시각: 2026-10-23 21:59:57 KST
 - 활성 소스: 73개
 - 정상 수집: 70개
 - 실패 소스: 3개
 - 매칭 기사: 5건
-- 신규 기사: 4건
+- 신규 기사: 3건
 
 ## 신규 기사
 
-### SK Hynix abandons plan for US unit's IPO, citing market volatility
+### Hyundai Bayon to launch in India on October 26; check specifications, features and booking price
+
+- 회사: Hyundai Motor
+- 국가/매체: 인도 / The Economic Times Industry
+- 발행 시각: 2026-10-23 17:51 KST
+- 링크: https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-bayon-to-launch-in-india-on-october-26-check-price-features-and-booking-price/articleshow/135140547.cms
+- 매칭 별칭: Hyundai Motor, Hyundai
+- 원문 제목: Hyundai Bayon to launch in India on October 26; check specifications, features and booking price
+- 요약: Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Bayon to launch in India on October 26; check specifications, features and booking price'이다. Hyundai Motor India is preparing to launch the Bayon SUV on October 26, enhancing its vehicle offerings. Bookings for the vehicle can now be made online or at authorized dealerships. The Bayon will feature a 1. 5-litre MPi petrol engine and will offer both manual and automatic transmission options. Additionally, it will include innovative technologies for improved driving experience and responsiveness. ET Online Hyundai Bayon Hyundai Motor India is set to launch the latest carmodel Bayon in India on October 26, with bookings for the SUV open at Rs 11,000 through the company’s website and authorised dealerships Also read: Hyundai Motor India opens booking for Bayon at Rs 11,000; check how to book, specifications & more The Bayon will be powered by a four-cylinder, 1 Live Events Hyundai said more than six lakh vehicles equipped with the same 1 The Bayon’s launch comes as Hyundai expands its SUV offering in the Indian market Further details, including pricing and variant-wise specifications, are expected to be announced on October 26.
+
+### SK Hynix puts US IPO of chip unit Solidigm on hold after Seoul authorities raise concerns
 
 - 회사: SK hynix
-- 국가/매체: 일본 / Nikkei Asia
-- 발행 시각: 2026-10-23 10:02 KST
-- 링크: https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-abandons-plan-for-us-unit-s-ipo-citing-market-volatility
+- 국가/매체: 싱가포르 / The Straits Times
+- 발행 시각: 2026-10-23 13:45 KST
+- 링크: https://www.straitstimes.com/business/sk-hynix-puts-us-ipo-of-chip-unit-solidigm-on-hold-after-seoul-authorities-raise-concerns
 - 매칭 별칭: SK hynix
-- 원문 제목: SK Hynix abandons plan for US unit's IPO, citing market volatility
-- 요약: SK hynix 관련 기사다. 기사 제목은 'SK Hynix abandons plan for US unit's IPO, citing market volatility'이다. SEOUL -- SK Hynix has abandoned plans for a New York IPO for its U. S. unit, days after South Korea's financial regulators said the chipmaker's move. Decision comes days after South Korean regulators said listing would violate duplicate listing. Semiconductors SK Hynix abandons plan for US unit's IPO, citing market volatility Decision comes days after South Korean regulators said listing would violate duplicate listing ban SK Hynix had planned to use funds from the IPO to expand manufacturing facilities in the U unit, days after South Korea's financial regulators said the chipmaker's move would contravene a duplicate listing ban. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.
+- 원문 제목: SK Hynix puts US IPO of chip unit Solidigm on hold after Seoul authorities raise concerns
+- 요약: SK hynix 관련 기사다. 기사 제목은 'SK Hynix puts US IPO of chip unit Solidigm on hold after Seoul authorities raise concerns'이다. The South Korean chip giant said it plans to continue to explore ways to fund Solidigm’s expansion. SK Hynix will review future funding plans instead; the move may affect US chip policy talks and reflects wider fears over AI stock valuations and dilution It could also have funded share cancellations and buybacks, SK Hynix said in a statement 4% higher, outperforming a flat broader market as worries that a Solidigm IPO could dilute SK Hynix shareholders’ interests abated It was not immediately clear how the decision would be received by the Trump administration, which has put pressure on foreign chipmakers to build new facilities in the US and which has been holding discussions with SK Hynix On one hand, SK Hynix’s decision to hit the pause button on the Solidigm IPO reflects a sharp pullback in sentiment towards AI-sector stocks as investors fret over the implications of rising borrowing costs for the debt-heavy sector. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.
 
-### HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs
+### Call of Duty: Modern Warfare 4 review – a thrilling airport novel of a game
 
-- 회사: Hyundai Motor, HD Hyundai
-- 국가/매체: 싱가포르 / CNA Business
-- 발행 시각: 2026-10-23 09:55 KST
-- 링크: https://www.channelnewsasia.com/business/hd-hyundai-build-us-shipyard-kiewit-create-3000-jobs-6484821
-- 매칭 별칭: Hyundai, HD Hyundai
-- 원문 제목: HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs
-- 요약: Hyundai Motor, HD Hyundai 관련 기사다. 기사 제목은 'HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs'이다. Channel NewsAsia is an English-language news organization based in Singapore. SEOUL, Oct 23 : HD Hyundai Co said on Friday it has signed a deal with Kiewit Corp to build an advanced US shipyard next year, with operations expected to begin in 2029 and create about 3,000 domestic jobs. The new shipyard is expected to boost U. S. shipbuilding capacity and help revive the industry, Hyundai. Give it a try Click here to return to FAST Tap here to return to FAST FAST SEOUL, Oct 23 : HD Hyundai Co said on Friday it has signed a deal with Kiewit Corp to build an advanced US shipyard next year, with operations expected to begin in 2029 and create about 3,000 domestic jobs The new shipyard is expected to boost U shipbuilding capacity and help revive the industry, Hyundai said The partners will explore opportunities in both commercial ships and military support vessels, it said in a statement.
-
-### SK Hynix shares slide after chipmaker scraps Solidigm IPO plans
-
-- 회사: SK hynix
-- 국가/매체: 미국 / CNBC Top News
-- 발행 시각: 2026-10-23 09:53 KST
-- 링크: https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html
-- 매칭 별칭: SK hynix
-- 원문 제목: SK Hynix shares slide after chipmaker scraps Solidigm IPO plans
-- 요약: SK hynix 관련 기사다. 기사 제목은 'SK Hynix shares slide after chipmaker scraps Solidigm IPO plans'이다. SK Hynix has shelved plans for a potential U. S. IPO of Solidigm amid market volatility and share price concerns. SK Hynix said Solidigm's investment needs remain unchanged and that it would continue exploring alternative financing options to support the subsidiary's growth and enhance shareholder value In this article SKHY SK Hynix Inc However, financial market volatility had increased and contributed to a broader correction in semiconductor stocks, prompting SK Hynix to reassess whether an IPO would benefit existing shareholders Financial Supervisory Service Governor Lee Chan-jin said regulators were examining whether the IPO would require a review under the country's rules designed to protect minority shareholders SK Hynix said Solidigm's investment needs remain unchanged and that it would continue exploring alternative financing options to support the subsidiary's growth and enhance shareholder value. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.
-
-### SK Hynix says Solidigm suspends review of US IPO, citing market volatility
-
-- 회사: SK hynix
-- 국가/매체: 싱가포르 / CNA Business
-- 발행 시각: 2026-10-23 06:57 KST
-- 링크: https://www.channelnewsasia.com/business/sk-hynix-says-solidigm-suspends-review-us-ipo-citing-market-volatility-6484446
-- 매칭 별칭: SK hynix
-- 원문 제목: SK Hynix says Solidigm suspends review of US IPO, citing market volatility
-- 요약: SK hynix 관련 기사다. 기사 제목은 'SK Hynix says Solidigm suspends review of US IPO, citing market volatility'이다. Channel NewsAsia is an English-language news organization based in Singapore. SEOUL, Oct 23 : South Korean chipmaker SK Hynix said on Friday that it had suspended its review of a US initial public offering for its Solidigm subsidiary, citing financial market volatility and share price trends. South Korea's financial regulator said earlier this week that the listing could run afoul of. SK Hynix said in a statement it would continue to explore ways to fund Solidigm's expansion and enhance shareholder value, including reviewing the timing, scale and financing of future investments Despite strong business performance at both SK Hynix and Solidigm, the company said increased market volatility and a broader correction in semiconductor stocks had prompted it to reconsider the listing Shares in SK Hynix have fallen more than 30 per cent since the potential Solidigm IPO was reported in late September, compared with a 20 per cent decline in South Korea's benchmark KOSPI index over the same period Solidigm, based in Rancho Cordova, California, is SK Hynix's US subsidiary specialising in NAND flash memory and solid-state drives SK Hynix had considered an IPO as one of several ways to finance Solidigm's expansion amid growing demand for memory chips driven by artificial intelligence. 이 기…
+- 회사: Korean Air
+- 국가/매체: 영국 / The Guardian Technology
+- 발행 시각: 2026-10-23 13:00 KST
+- 링크: https://www.theguardian.com/games/2026/oct/23/call-of-duty-modern-warfare-4-review-a-thrilling-airport-novel-of-a-game
+- 매칭 별칭: Korean Air
+- 원문 제목: Call of Duty: Modern Warfare 4 review – a thrilling airport novel of a game
+- 요약: Korean Air 관련 기사다. 기사 제목은 'Call of Duty: Modern Warfare 4 review – a thrilling airport novel of a game'이다. Activision; PC, PS5, Switch 2, Xbox From parkour over Manhattan rooftops and car chases in Paris to the climactic battle at a North Korean air base, the developers have thrown absolutely everything at the game And so we return perhaps one final time to Call of Duty’s Modern Warfare strand, with stories, “ripped from the newspaper headlines”, featuring shady terror organisations, nefarious rogue states and the brutally capable, monosyllabic war fighters who stand between us and Armageddon. Last year’s Black Ops 7 instalment was a sales disappointment for Activision, and that has no doubt put extra pressure on Infinity Ward, the studio leading Modern Warfare 4 development. Fortunately, this developer – like series heroes Price, Gaz and Ghost – seems to thrive on pressure. As you may have read , this year’s campaign is based around a fictitious North Korean ruling family that has seized an opportunity to invade its southern neighbour. Amid the chaos, a small group of Korean and American marines must help lead the fightback, while in the shadows, SAS hard man John Price makes an unlikely new comrade in his own morally ambiguous quest to put the world to rights. Mads Mikkelsen pops up as evil mastermind The Archer, but like Kiernan Shipka in Black Ops 7 he’s rather wasted, wit…
 
 ## 실패한 소스
 
