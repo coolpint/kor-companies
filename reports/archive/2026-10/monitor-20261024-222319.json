@@ -1,0 +1,810 @@
+{
+  "run_at": "2026-10-24T13:23:19.303353+00:00",
+  "summary": {
+    "source_count": 73,
+    "success_count": 70,
+    "failed_count": 3,
+    "matched_count": 6,
+    "new_count": 0
+  },
+  "new_articles": [],
+  "matched_articles": [
+    {
+      "article_key": "https://www.taipeitimes.com/News/biz/archives/2026/10/24/2003866508",
+      "canonical_link": "https://www.taipeitimes.com/News/biz/archives/2026/10/24/2003866508",
+      "link": "https://www.taipeitimes.com/News/biz/archives/2026/10/24/2003866508",
+      "title": "SK Hynix cancels IPO of Solidigm unit",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix cancels IPO of Solidigm unit'이다. SK Hynix Inc yesterday scrapped plans for a potential US$10 billion US listing of its Solidigm unit after facing strong opposition from regulators and shareholders, becoming the latest firm to pull an initial public offering (IPO) while growing investor unease over the artificial intelligence (AI). ” After the announcement, SK Hynix’s shares rose, defying a broad market slide triggered by a rout in US technology stocks The market value of SK Hynix’s Seoul-listed shares is about US$679 billion, about half of their June peak SK Hynix at the time said that Solidigm was reviewing options to improve its business competitiveness “In light of recent capital market conditions and share price trends, Solidigm determined that it was necessary to reassess whether an IPO would be the most beneficial option for SK Hynix and its existing shareholders at this time,” the company said in a statement Fibonacci Asset Management Global chief executive officer Jung In-yun said that the cancelation was positive for SK Hynix shareholders because it would ease concerns about dilution of the parent company’s economic interest in Solidigm, and the valuation discount associated with listing both a parent and its subsidiary. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "SK Hynix cancels IPO of Solidigm unit",
+      "original_summary": "",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix cancels IPO of Solidigm unit'이다. SK Hynix Inc yesterday scrapped plans for a potential US$10 billion US listing of its Solidigm unit after facing strong opposition from regulators and shareholders, becoming the latest firm to pull an initial public offering (IPO) while growing investor unease over the artificial intelligence (AI). ” After the announcement, SK Hynix’s shares rose, defying a broad market slide triggered by a rout in US technology stocks The market value of SK Hynix’s Seoul-listed shares is about US$679 billion, about half of their June peak SK Hynix at the time said that Solidigm was reviewing options to improve its business competitiveness “In light of recent capital market conditions and share price trends, Solidigm determined that it was necessary to reassess whether an IPO would be the most beneficial option for SK Hynix and its existing shareholders at this time,” the company said in a statement Fibonacci Asset Management Global chief executive officer Jung In-yun said that the cancelation was positive for SK Hynix shareholders because it would ease concerns about dilution of the parent company’s economic interest in Solidigm, and the valuation discount associated with listing both a parent and its subsidiary. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-24T00:00:00+00:00",
+      "source_id": "taipei_times_front",
+      "source_name": "Taipei Times",
+      "country_code": "TW",
+      "country_name_ko": "대만",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": false
+    },
+    {
+      "article_key": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-drops-us-ipo-plan-for-solidigm-newspaper-reports/articleshow/135147377.cms",
+      "canonical_link": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-drops-us-ipo-plan-for-solidigm-newspaper-reports/articleshow/135147377.cms",
+      "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-drops-us-ipo-plan-for-solidigm-newspaper-reports/articleshow/135147377.cms",
+      "title": "SK Hynix drops US IPO plan for Solidigm: Report",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix drops US IPO plan for Solidigm: Report'이다. The news comes weeks after SK Hynix said it was reviewing various options to strengthen Solidigm's competitiveness, but that no decisions had been made. scrapped an initial public offering for its US subsidiary Solidigm after facing shareholder opposition South Korean chipmaker SK Hynix has decided not to pursue a US initial public offering of its subsidiary Solidigm , South Korean newspaper Korea Economic Daily reported on Friday, citing unnamed industry sources SK Hynix did not have an immediate response to a request for comment The news comes weeks after SK Hynix said it was reviewing various options to strengthen Solidigm's competitiveness, but that no decisions had been made Add as a Reliable and Trusted News Source Add Now. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "SK Hynix drops US IPO plan for Solidigm: Report",
+      "original_summary": "The news comes weeks after SK Hynix said it was reviewing various options to strengthen Solidigm's competitiveness, but that no decisions had been made.",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix drops US IPO plan for Solidigm: Report'이다. The news comes weeks after SK Hynix said it was reviewing various options to strengthen Solidigm's competitiveness, but that no decisions had been made. scrapped an initial public offering for its US subsidiary Solidigm after facing shareholder opposition South Korean chipmaker SK Hynix has decided not to pursue a US initial public offering of its subsidiary Solidigm , South Korean newspaper Korea Economic Daily reported on Friday, citing unnamed industry sources SK Hynix did not have an immediate response to a request for comment The news comes weeks after SK Hynix said it was reviewing various options to strengthen Solidigm's competitiveness, but that no decisions had been made Add as a Reliable and Trusted News Source Add Now. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-23T13:27:23+00:00",
+      "source_id": "economic_times_tech",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "country_name_ko": "인도",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": false
+    },
+    {
+      "article_key": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
+      "canonical_link": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
+      "link": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
+      "title": "SK Hynix shares jump over 4% after early losses as chipmaker scraps Solidigm IPO plans",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix shares jump over 4% after early losses as chipmaker scraps Solidigm IPO plans'이다. SK Hynix shares closed 4% higher after an initial drop in early trading as the chipmaker halted review of Solidigm IPO plans in the U. S. SK Hynix said Solidigm's investment needs remain unchanged and that it would continue exploring alternative financing options to support the subsidiary's growth and enhance shareholder value \"SK Hynix shareholders have got the outcome they were pushing for,\" Gilbert said, adding that \"in the short term, it removes a governance worry and keeps Solidigm's value inside the company \" He explained that SK Hynix faces the challenge of funding Solidigm's growth without compromising share buybacks and dividends, as the company needs to demonstrate a credible funding plan as it prepares to report earnings next week SK Hynix said that Solidigm's existing production facilities had limited capacity to meet rising AI-driven memory demand, underscoring the need for additional manufacturing capacity in the U SK Hynix said Solidigm's investment needs remain unchanged and that it would continue exploring alternative financing options to support the subsidiary's growth and enhance shareholder value. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "SK Hynix shares jump over 4% after early losses as chipmaker scraps Solidigm IPO plans",
+      "original_summary": "SK Hynix shares closed 4% higher after an initial drop in early trading as the chipmaker halted review of Solidigm IPO plans in the U.S.",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix shares jump over 4% after early losses as chipmaker scraps Solidigm IPO plans'이다. SK Hynix shares closed 4% higher after an initial drop in early trading as the chipmaker halted review of Solidigm IPO plans in the U. S. SK Hynix said Solidigm's investment needs remain unchanged and that it would continue exploring alternative financing options to support the subsidiary's growth and enhance shareholder value \"SK Hynix shareholders have got the outcome they were pushing for,\" Gilbert said, adding that \"in the short term, it removes a governance worry and keeps Solidigm's value inside the company \" He explained that SK Hynix faces the challenge of funding Solidigm's growth without compromising share buybacks and dividends, as the company needs to demonstrate a credible funding plan as it prepares to report earnings next week SK Hynix said that Solidigm's existing production facilities had limited capacity to meet rising AI-driven memory demand, underscoring the need for additional manufacturing capacity in the U SK Hynix said Solidigm's investment needs remain unchanged and that it would continue exploring alternative financing options to support the subsidiary's growth and enhance shareholder value. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-23T06:45:04+00:00",
+      "source_id": "cnbc_technology",
+      "source_name": "CNBC Technology",
+      "country_code": "US",
+      "country_name_ko": "미국",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": false
+    },
+    {
+      "article_key": "https://www.straitstimes.com/business/sk-hynix-puts-us-ipo-of-chip-unit-solidigm-on-hold-after-seoul-authorities-raise-concerns",
+      "canonical_link": "https://www.straitstimes.com/business/sk-hynix-puts-us-ipo-of-chip-unit-solidigm-on-hold-after-seoul-authorities-raise-concerns",
+      "link": "https://www.straitstimes.com/business/sk-hynix-puts-us-ipo-of-chip-unit-solidigm-on-hold-after-seoul-authorities-raise-concerns",
+      "title": "SK Hynix puts US IPO of chip unit Solidigm on hold after Seoul authorities raise concerns",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix puts US IPO of chip unit Solidigm on hold after Seoul authorities raise concerns'이다. The South Korean chip giant said it plans to continue to explore ways to fund Solidigm’s expansion. SK Hynix will review future funding plans instead; the move may affect US chip policy talks and reflects wider fears over AI stock valuations and dilution It could also have funded share cancellations and buybacks, SK Hynix said in a statement 4% higher, outperforming a flat broader market as worries that a Solidigm IPO could dilute SK Hynix shareholders’ interests abated It was not immediately clear how the decision would be received by the Trump administration, which has put pressure on foreign chipmakers to build new facilities in the US and which has been holding discussions with SK Hynix On one hand, SK Hynix’s decision to hit the pause button on the Solidigm IPO reflects a sharp pullback in sentiment towards AI-sector stocks as investors fret over the implications of rising borrowing costs for the debt-heavy sector. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "SK Hynix puts US IPO of chip unit Solidigm on hold after Seoul authorities raise concerns",
+      "original_summary": "The South Korean chip giant said it plans to continue to explore ways to fund Solidigm’s expansion.",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix puts US IPO of chip unit Solidigm on hold after Seoul authorities raise concerns'이다. The South Korean chip giant said it plans to continue to explore ways to fund Solidigm’s expansion. SK Hynix will review future funding plans instead; the move may affect US chip policy talks and reflects wider fears over AI stock valuations and dilution It could also have funded share cancellations and buybacks, SK Hynix said in a statement 4% higher, outperforming a flat broader market as worries that a Solidigm IPO could dilute SK Hynix shareholders’ interests abated It was not immediately clear how the decision would be received by the Trump administration, which has put pressure on foreign chipmakers to build new facilities in the US and which has been holding discussions with SK Hynix On one hand, SK Hynix’s decision to hit the pause button on the Solidigm IPO reflects a sharp pullback in sentiment towards AI-sector stocks as investors fret over the implications of rising borrowing costs for the debt-heavy sector. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-23T04:45:00+00:00",
+      "source_id": "straits_times_business",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "country_name_ko": "싱가포르",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": false
+    },
+    {
+      "article_key": "https://www.theguardian.com/games/2026/oct/23/call-of-duty-modern-warfare-4-review-a-thrilling-airport-novel-of-a-game",
+      "canonical_link": "https://www.theguardian.com/games/2026/oct/23/call-of-duty-modern-warfare-4-review-a-thrilling-airport-novel-of-a-game",
+      "link": "https://www.theguardian.com/games/2026/oct/23/call-of-duty-modern-warfare-4-review-a-thrilling-airport-novel-of-a-game",
+      "title": "Call of Duty: Modern Warfare 4 review – a thrilling airport novel of a game",
+      "summary": "Korean Air 관련 기사다. 기사 제목은 'Call of Duty: Modern Warfare 4 review – a thrilling airport novel of a game'이다. Activision; PC, PS5, Switch 2, Xbox From parkour over Manhattan rooftops and car chases in Paris to the climactic battle at a North Korean air base, the developers have thrown absolutely everything at the game And so we return perhaps one final time to Call of Duty’s Modern Warfare strand, with stories, “ripped from the newspaper headlines”, featuring shady terror organisations, nefarious rogue states and the brutally capable, monosyllabic war fighters who stand between us and Armageddon. Last year’s Black Ops 7 instalment was a sales disappointment for Activision, and that has no doubt put extra pressure on Infinity Ward, the studio leading Modern Warfare 4 development. Fortunately, this developer – like series heroes Price, Gaz and Ghost – seems to thrive on pressure. As you may have read , this year’s campaign is based around a fictitious North Korean ruling family that has seized an opportunity to invade its southern neighbour. Amid the chaos, a small group of Korean and American marines must help lead the fightback, while in the shadows, SAS hard man John Price makes an unlikely new comrade in his own morally ambiguous quest to put the world to rights. Mads Mikkelsen pops up as evil mastermind The Archer, but like Kiernan Shipka in Black Ops 7 he’s rather wasted, with very little screen time.",
+      "original_title": "Call of Duty: Modern Warfare 4 review – a thrilling airport novel of a game",
+      "original_summary": "Activision; PC, PS5, Switch 2, Xbox From parkour over Manhattan rooftops and car chases in Paris to the climactic battle at a North Korean air base, the developers have thrown absolutely everything at the game And so we return perhaps one final time to Call of Duty’s Modern Warfare strand, with stories, “ripped from the newspaper headlines”, featuring shady terror organisations, nefarious rogue states and the brutally capable, monosyllabic war fighters who stand between us and Armageddon. Last year’s Black Ops 7 instalment was a sales disappointment for Activision, and that has no doubt put extra pressure on Infinity Ward, the studio leading Modern Warfare 4 development. Fortunately, this developer – like series heroes Price, Gaz and Ghost – seems to thrive on pressure. As you may have read , this year’s campaign is based around a fictitious North Korean ruling family that has seized an opportunity to invade its southern neighbour. Amid the chaos, a small group of Korean and American marines must help lead the fightback, while in the shadows, SAS hard man John Price makes an unlikely new comrade in his own morally ambiguous quest to put the world to rights. Mads Mikkelsen pops up as evil mastermind The Archer, but like Kiernan Shipka in Black Ops 7 he’s rather wasted, with very little screen time. Continue reading...",
+      "company_summary": "Korean Air 관련 기사다. 기사 제목은 'Call of Duty: Modern Warfare 4 review – a thrilling airport novel of a game'이다. Activision; PC, PS5, Switch 2, Xbox From parkour over Manhattan rooftops and car chases in Paris to the climactic battle at a North Korean air base, the developers have thrown absolutely everything at the game And so we return perhaps one final time to Call of Duty’s Modern Warfare strand, with stories, “ripped from the newspaper headlines”, featuring shady terror organisations, nefarious rogue states and the brutally capable, monosyllabic war fighters who stand between us and Armageddon. Last year’s Black Ops 7 instalment was a sales disappointment for Activision, and that has no doubt put extra pressure on Infinity Ward, the studio leading Modern Warfare 4 development. Fortunately, this developer – like series heroes Price, Gaz and Ghost – seems to thrive on pressure. As you may have read , this year’s campaign is based around a fictitious North Korean ruling family that has seized an opportunity to invade its southern neighbour. Amid the chaos, a small group of Korean and American marines must help lead the fightback, while in the shadows, SAS hard man John Price makes an unlikely new comrade in his own morally ambiguous quest to put the world to rights. Mads Mikkelsen pops up as evil mastermind The Archer, but like Kiernan Shipka in Black Ops 7 he’s rather wasted, with very little screen time.",
+      "published_at": "2026-10-23T04:00:06+00:00",
+      "source_id": "guardian_technology",
+      "source_name": "The Guardian Technology",
+      "country_code": "GB",
+      "country_name_ko": "영국",
+      "source_language": "en",
+      "matched_companies": [
+        "Korean Air"
+      ],
+      "matched_aliases": [
+        "Korean Air"
+      ],
+      "is_new": false
+    },
+    {
+      "article_key": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-abandons-plan-for-us-unit-s-ipo-citing-market-volatility",
+      "canonical_link": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-abandons-plan-for-us-unit-s-ipo-citing-market-volatility",
+      "link": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-abandons-plan-for-us-unit-s-ipo-citing-market-volatility",
+      "title": "SK Hynix abandons plan for US unit's IPO, citing market volatility",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix abandons plan for US unit's IPO, citing market volatility'이다. SEOUL -- SK Hynix has abandoned plans for a New York IPO for its U. S. unit, days after South Korea's financial regulators said the chipmaker's move. Decision comes days after South Korean regulators said listing would violate duplicate listing. Semiconductors SK Hynix abandons plan for US unit's IPO, citing market volatility Decision comes days after South Korean regulators said listing would violate duplicate listing ban U flash memory maker Solidigm was created by SK Hynix five years ago after it paid $9 billion for rival chipmaker Intel's NAND unit unit, days after South Korea's financial regulators said the chipmaker's move would contravene a duplicate listing ban. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "SK Hynix abandons plan for US unit's IPO, citing market volatility",
+      "original_summary": "",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix abandons plan for US unit's IPO, citing market volatility'이다. SEOUL -- SK Hynix has abandoned plans for a New York IPO for its U. S. unit, days after South Korea's financial regulators said the chipmaker's move. Decision comes days after South Korean regulators said listing would violate duplicate listing. Semiconductors SK Hynix abandons plan for US unit's IPO, citing market volatility Decision comes days after South Korean regulators said listing would violate duplicate listing ban U flash memory maker Solidigm was created by SK Hynix five years ago after it paid $9 billion for rival chipmaker Intel's NAND unit unit, days after South Korea's financial regulators said the chipmaker's move would contravene a duplicate listing ban. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-23T03:01:24+00:00",
+      "source_id": "nikkei_asia",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "country_name_ko": "일본",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": false
+    }
+  ],
+  "source_runs": [
+    {
+      "source_id": "nyt_business",
+      "source_name": "The New York Times Business",
+      "country_code": "US",
+      "success": true,
+      "item_count": 49,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "nyt_technology",
+      "source_name": "The New York Times Technology",
+      "country_code": "US",
+      "success": true,
+      "item_count": 23,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "marketwatch_topstories",
+      "source_name": "MarketWatch Top Stories",
+      "country_code": "US",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "npr_business",
+      "source_name": "NPR Business",
+      "country_code": "US",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "foxbusiness_markets",
+      "source_name": "Fox Business Markets",
+      "country_code": "US",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "foxbusiness_technology",
+      "source_name": "Fox Business Technology",
+      "country_code": "US",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "us_doj_press_releases",
+      "source_name": "U.S. DOJ Press Releases",
+      "country_code": "US",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "sec_press_releases",
+      "source_name": "U.S. SEC Press Releases",
+      "country_code": "US",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "country_code": "US",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "chinadaily_bizchina",
+      "source_name": "China Daily BizChina",
+      "country_code": "CN",
+      "success": false,
+      "item_count": 0,
+      "matched_count": 0,
+      "error": "HTTP 404 for https://www.chinadaily.com.cn/rss/bizchina_rss.xml"
+    },
+    {
+      "source_id": "chinadaily_world",
+      "source_name": "China Daily World",
+      "country_code": "CN",
+      "success": false,
+      "item_count": 0,
+      "matched_count": 0,
+      "error": "HTTP 404 for https://www.chinadaily.com.cn/rss/world_rss.xml"
+    },
+    {
+      "source_id": "chinadaily_china",
+      "source_name": "China Daily China",
+      "country_code": "CN",
+      "success": false,
+      "item_count": 0,
+      "matched_count": 0,
+      "error": "HTTP 404 for https://www.chinadaily.com.cn/rss/china_rss.xml"
+    },
+    {
+      "source_id": "nikkei_asia",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 1,
+      "error": ""
+    },
+    {
+      "source_id": "japan_times_topstories",
+      "source_name": "The Japan Times",
+      "country_code": "JP",
+      "success": true,
+      "item_count": 30,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "nhk_business",
+      "source_name": "NHK Business",
+      "country_code": "JP",
+      "success": true,
+      "item_count": 86,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "nhk_world",
+      "source_name": "NHK International",
+      "country_code": "JP",
+      "success": true,
+      "item_count": 98,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "japan_today",
+      "source_name": "Japan Today",
+      "country_code": "JP",
+      "success": true,
+      "item_count": 30,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "vnexpress_business",
+      "source_name": "VnExpress Business",
+      "country_code": "VN",
+      "success": true,
+      "item_count": 60,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "vnexpress_world",
+      "source_name": "VnExpress World",
+      "country_code": "VN",
+      "success": true,
+      "item_count": 60,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "vietnamnews_business",
+      "source_name": "Vietnam News Business",
+      "country_code": "VN",
+      "success": true,
+      "item_count": 0,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "vietnamnews_economy",
+      "source_name": "Vietnam News Economy",
+      "country_code": "VN",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "vietnamnews_world",
+      "source_name": "Vietnam News World",
+      "country_code": "VN",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "dw_business",
+      "source_name": "Deutsche Welle Business",
+      "country_code": "DE",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "dw_world",
+      "source_name": "Deutsche Welle World",
+      "country_code": "DE",
+      "success": true,
+      "item_count": 12,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "dw_topstories",
+      "source_name": "Deutsche Welle Top Stories",
+      "country_code": "DE",
+      "success": true,
+      "item_count": 21,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "tagesschau_wirtschaft",
+      "source_name": "tagesschau Wirtschaft",
+      "country_code": "DE",
+      "success": true,
+      "item_count": 34,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "tagesschau_ausland",
+      "source_name": "tagesschau Ausland",
+      "country_code": "DE",
+      "success": true,
+      "item_count": 65,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "spiegel_international",
+      "source_name": "DER SPIEGEL International",
+      "country_code": "DE",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "bbc_business",
+      "source_name": "BBC Business",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 55,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "bbc_world",
+      "source_name": "BBC World",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 28,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "bbc_technology",
+      "source_name": "BBC Technology",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 21,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "ft_companies",
+      "source_name": "Financial Times Companies",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "ft_world",
+      "source_name": "Financial Times World",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "guardian_business",
+      "source_name": "The Guardian Business",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 40,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "guardian_world",
+      "source_name": "The Guardian World",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 45,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "guardian_technology",
+      "source_name": "The Guardian Technology",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 34,
+      "matched_count": 1,
+      "error": ""
+    },
+    {
+      "source_id": "independent_business",
+      "source_name": "The Independent Business",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 0,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "lemonde_economie",
+      "source_name": "Le Monde Economie",
+      "country_code": "FR",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "lemonde_international",
+      "source_name": "Le Monde International",
+      "country_code": "FR",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "france24_business_tech",
+      "source_name": "France 24 Business / Tech",
+      "country_code": "FR",
+      "success": true,
+      "item_count": 30,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "france24_europe",
+      "source_name": "France 24 Europe",
+      "country_code": "FR",
+      "success": true,
+      "item_count": 30,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "euronews_business",
+      "source_name": "Euronews Business",
+      "country_code": "EU",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "politico_europe",
+      "source_name": "POLITICO Europe",
+      "country_code": "EU",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "cnbc_top_news",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "success": true,
+      "item_count": 30,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "cnbc_world",
+      "source_name": "CNBC World News",
+      "country_code": "US",
+      "success": true,
+      "item_count": 30,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "cnbc_technology",
+      "source_name": "CNBC Technology",
+      "country_code": "US",
+      "success": true,
+      "item_count": 30,
+      "matched_count": 1,
+      "error": ""
+    },
+    {
+      "source_id": "abc_us_business",
+      "source_name": "ABC News Business",
+      "country_code": "US",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "abc_us_international",
+      "source_name": "ABC News International",
+      "country_code": "US",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "globe_business",
+      "source_name": "The Globe and Mail Business",
+      "country_code": "CA",
+      "success": true,
+      "item_count": 100,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "globe_world",
+      "source_name": "The Globe and Mail World",
+      "country_code": "CA",
+      "success": true,
+      "item_count": 100,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "globalnews_money",
+      "source_name": "Global News Money",
+      "country_code": "CA",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "globalnews_world",
+      "source_name": "Global News World",
+      "country_code": "CA",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "abc_au_top_stories",
+      "source_name": "ABC Australia Top Stories",
+      "country_code": "AU",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "abc_au_business",
+      "source_name": "ABC Australia Business",
+      "country_code": "AU",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "economic_times_industry",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "economic_times_tech",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 1,
+      "error": ""
+    },
+    {
+      "source_id": "businessline_companies",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "success": true,
+      "item_count": 60,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "businessline_economy",
+      "source_name": "BusinessLine Economy",
+      "country_code": "IN",
+      "success": true,
+      "item_count": 60,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "cna_business",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "cna_asia",
+      "source_name": "CNA Asia",
+      "country_code": "SG",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "cna_world",
+      "source_name": "CNA World",
+      "country_code": "SG",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "straits_times_business",
+      "source_name": "The Straits Times Business",
+      "country_code": "SG",
+      "success": true,
+      "item_count": 24,
+      "matched_count": 1,
+      "error": ""
+    },
+    {
+      "source_id": "straits_times_world",
+      "source_name": "The Straits Times World",
+      "country_code": "SG",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "scmp_business",
+      "source_name": "South China Morning Post Business",
+      "country_code": "HK",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "scmp_world",
+      "source_name": "South China Morning Post World",
+      "country_code": "HK",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "scmp_tech",
+      "source_name": "South China Morning Post Tech",
+      "country_code": "HK",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "taipei_times_front",
+      "source_name": "Taipei Times",
+      "country_code": "TW",
+      "success": true,
+      "item_count": 45,
+      "matched_count": 1,
+      "error": ""
+    },
+    {
+      "source_id": "dutchnews",
+      "source_name": "DutchNews.nl",
+      "country_code": "NL",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "nltimes",
+      "source_name": "NL Times",
+      "country_code": "NL",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "bangkok_post_business",
+      "source_name": "Bangkok Post Business",
+      "country_code": "TH",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "bangkok_post_world",
+      "source_name": "Bangkok Post World",
+      "country_code": "TH",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "mexico_news_daily",
+      "source_name": "Mexico News Daily",
+      "country_code": "MX",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "aljazeera_all",
+      "source_name": "Al Jazeera",
+      "country_code": "QA",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    }
+  ]
+}

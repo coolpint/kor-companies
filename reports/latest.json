@@ -1,60 +1,13 @@
 {
-  "run_at": "2026-10-24T01:40:09.971562+00:00",
+  "run_at": "2026-10-24T13:23:19.303353+00:00",
   "summary": {
     "source_count": 73,
     "success_count": 70,
     "failed_count": 3,
     "matched_count": 6,
-    "new_count": 2
+    "new_count": 0
   },
-  "new_articles": [
-    {
-      "article_key": "https://www.taipeitimes.com/News/biz/archives/2026/10/24/2003866508",
-      "canonical_link": "https://www.taipeitimes.com/News/biz/archives/2026/10/24/2003866508",
-      "link": "https://www.taipeitimes.com/News/biz/archives/2026/10/24/2003866508",
-      "title": "SK Hynix cancels IPO of Solidigm unit",
-      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix cancels IPO of Solidigm unit'이다. SK Hynix Inc yesterday scrapped plans for a potential US$10 billion US listing of its Solidigm unit after facing strong opposition from regulators and shareholders, becoming the latest firm to pull an initial public offering (IPO) while growing investor unease over the artificial intelligence (AI). ” After the announcement, SK Hynix’s shares rose, defying a broad market slide triggered by a rout in US technology stocks The market value of SK Hynix’s Seoul-listed shares is about US$679 billion, about half of their June peak SK Hynix at the time said that Solidigm was reviewing options to improve its business competitiveness “In light of recent capital market conditions and share price trends, Solidigm determined that it was necessary to reassess whether an IPO would be the most beneficial option for SK Hynix and its existing shareholders at this time,” the company said in a statement Fibonacci Asset Management Global chief executive officer Jung In-yun said that the cancelation was positive for SK Hynix shareholders because it would ease concerns about dilution of the parent company’s economic interest in Solidigm, and the valuation discount associated with listing both a parent and its subsidiary. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "SK Hynix cancels IPO of Solidigm unit",
-      "original_summary": "",
-      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix cancels IPO of Solidigm unit'이다. SK Hynix Inc yesterday scrapped plans for a potential US$10 billion US listing of its Solidigm unit after facing strong opposition from regulators and shareholders, becoming the latest firm to pull an initial public offering (IPO) while growing investor unease over the artificial intelligence (AI). ” After the announcement, SK Hynix’s shares rose, defying a broad market slide triggered by a rout in US technology stocks The market value of SK Hynix’s Seoul-listed shares is about US$679 billion, about half of their June peak SK Hynix at the time said that Solidigm was reviewing options to improve its business competitiveness “In light of recent capital market conditions and share price trends, Solidigm determined that it was necessary to reassess whether an IPO would be the most beneficial option for SK Hynix and its existing shareholders at this time,” the company said in a statement Fibonacci Asset Management Global chief executive officer Jung In-yun said that the cancelation was positive for SK Hynix shareholders because it would ease concerns about dilution of the parent company’s economic interest in Solidigm, and the valuation discount associated with listing both a parent and its subsidiary. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-24T00:00:00+00:00",
-      "source_id": "taipei_times_front",
-      "source_name": "Taipei Times",
-      "country_code": "TW",
-      "country_name_ko": "대만",
-      "source_language": "en",
-      "matched_companies": [
-        "SK hynix"
-      ],
-      "matched_aliases": [
-        "SK hynix"
-      ],
-      "is_new": true
-    },
-    {
-      "article_key": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-drops-us-ipo-plan-for-solidigm-newspaper-reports/articleshow/135147377.cms",
-      "canonical_link": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-drops-us-ipo-plan-for-solidigm-newspaper-reports/articleshow/135147377.cms",
-      "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-drops-us-ipo-plan-for-solidigm-newspaper-reports/articleshow/135147377.cms",
-      "title": "SK Hynix drops US IPO plan for Solidigm: Report",
-      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix drops US IPO plan for Solidigm: Report'이다. The news comes weeks after SK Hynix said it was reviewing various options to strengthen Solidigm's competitiveness, but that no decisions had been made. scrapped an initial public offering for its US subsidiary Solidigm after facing shareholder opposition South Korean chipmaker SK Hynix has decided not to pursue a US initial public offering of its subsidiary Solidigm , South Korean newspaper Korea Economic Daily reported on Friday, citing unnamed industry sources SK Hynix did not have an immediate response to a request for comment The news comes weeks after SK Hynix said it was reviewing various options to strengthen Solidigm's competitiveness, but that no decisions had been made Add as a Reliable and Trusted News Source Add Now. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "SK Hynix drops US IPO plan for Solidigm: Report",
-      "original_summary": "The news comes weeks after SK Hynix said it was reviewing various options to strengthen Solidigm's competitiveness, but that no decisions had been made.",
-      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix drops US IPO plan for Solidigm: Report'이다. The news comes weeks after SK Hynix said it was reviewing various options to strengthen Solidigm's competitiveness, but that no decisions had been made. scrapped an initial public offering for its US subsidiary Solidigm after facing shareholder opposition South Korean chipmaker SK Hynix has decided not to pursue a US initial public offering of its subsidiary Solidigm , South Korean newspaper Korea Economic Daily reported on Friday, citing unnamed industry sources SK Hynix did not have an immediate response to a request for comment The news comes weeks after SK Hynix said it was reviewing various options to strengthen Solidigm's competitiveness, but that no decisions had been made Add as a Reliable and Trusted News Source Add Now. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-23T13:27:23+00:00",
-      "source_id": "economic_times_tech",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "country_name_ko": "인도",
-      "source_language": "en",
-      "matched_companies": [
-        "SK hynix"
-      ],
-      "matched_aliases": [
-        "SK hynix"
-      ],
-      "is_new": true
-    }
-  ],
+  "new_articles": [],
   "matched_articles": [
     {
       "article_key": "https://www.taipeitimes.com/News/biz/archives/2026/10/24/2003866508",
@@ -77,7 +30,7 @@
       "matched_aliases": [
         "SK hynix"
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "article_key": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-drops-us-ipo-plan-for-solidigm-newspaper-reports/articleshow/135147377.cms",
@@ -100,7 +53,7 @@
       "matched_aliases": [
         "SK hynix"
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "article_key": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
@@ -112,8 +65,8 @@
       "original_summary": "SK Hynix shares closed 4% higher after an initial drop in early trading as the chipmaker halted review of Solidigm IPO plans in the U.S.",
       "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix shares jump over 4% after early losses as chipmaker scraps Solidigm IPO plans'이다. SK Hynix shares closed 4% higher after an initial drop in early trading as the chipmaker halted review of Solidigm IPO plans in the U. S. SK Hynix said Solidigm's investment needs remain unchanged and that it would continue exploring alternative financing options to support the subsidiary's growth and enhance shareholder value \"SK Hynix shareholders have got the outcome they were pushing for,\" Gilbert said, adding that \"in the short term, it removes a governance worry and keeps Solidigm's value inside the company \" He explained that SK Hynix faces the challenge of funding Solidigm's growth without compromising share buybacks and dividends, as the company needs to demonstrate a credible funding plan as it prepares to report earnings next week SK Hynix said that Solidigm's existing production facilities had limited capacity to meet rising AI-driven memory demand, underscoring the need for additional manufacturing capacity in the U SK Hynix said Solidigm's investment needs remain unchanged and that it would continue exploring alternative financing options to support the subsidiary's growth and enhance shareholder value. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
       "published_at": "2026-10-23T06:45:04+00:00",
-      "source_id": "cnbc_world",
-      "source_name": "CNBC World News",
+      "source_id": "cnbc_technology",
+      "source_name": "CNBC Technology",
       "country_code": "US",
       "country_name_ko": "미국",
       "source_language": "en",
@@ -426,7 +379,7 @@
       "source_name": "tagesschau Wirtschaft",
       "country_code": "DE",
       "success": true,
-      "item_count": 32,
+      "item_count": 34,
       "matched_count": 0,
       "error": ""
     },
@@ -462,7 +415,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 21,
+      "item_count": 28,
       "matched_count": 0,
       "error": ""
     },
@@ -498,7 +451,7 @@
       "source_name": "The Guardian Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 20,
+      "item_count": 40,
       "matched_count": 0,
       "error": ""
     },
@@ -598,7 +551,7 @@
       "country_code": "US",
       "success": true,
       "item_count": 30,
-      "matched_count": 1,
+      "matched_count": 0,
       "error": ""
     },
     {
@@ -750,7 +703,7 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 38,
+      "item_count": 24,
       "matched_count": 1,
       "error": ""
     },

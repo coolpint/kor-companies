@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-24T01:40:09.971562+00:00",
+  "last_run_at": "2026-10-24T13:23:19.303353+00:00",
   "seen_articles": {
     "http://www.euronews.com/business/2026/09/08/mistral-ai-raises-record-3-billion-in-samsung-led-funding-round": {
       "title": "Mistral AI raises record €3 billion in Samsung-led funding round",
@@ -1175,7 +1175,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-10-23T01:20:24.888605+00:00",
-      "last_seen_at": "2026-10-24T01:40:09.971562+00:00"
+      "last_seen_at": "2026-10-24T13:23:19.303353+00:00"
     },
     "https://www.channelnewsasia.com/business/hd-hyundai-build-us-shipyard-kiewit-create-3000-jobs-6484821": {
       "title": "HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs",
@@ -1192,13 +1192,13 @@
     "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html": {
       "title": "SK Hynix shares jump over 4% after early losses as chipmaker scraps Solidigm IPO plans",
       "link": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
-      "source_name": "CNBC World News",
+      "source_name": "CNBC Technology",
       "country_code": "US",
       "companies": [
         "SK hynix"
       ],
       "first_seen_at": "2026-10-23T01:20:24.888605+00:00",
-      "last_seen_at": "2026-10-24T01:40:09.971562+00:00"
+      "last_seen_at": "2026-10-24T13:23:19.303353+00:00"
     },
     "https://www.channelnewsasia.com/business/sk-hynix-says-solidigm-suspends-review-us-ipo-citing-market-volatility-6484446": {
       "title": "SK Hynix says Solidigm suspends review of US IPO, citing market volatility",
@@ -1231,7 +1231,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-10-23T12:59:57.178675+00:00",
-      "last_seen_at": "2026-10-24T01:40:09.971562+00:00"
+      "last_seen_at": "2026-10-24T13:23:19.303353+00:00"
     },
     "https://www.theguardian.com/games/2026/oct/23/call-of-duty-modern-warfare-4-review-a-thrilling-airport-novel-of-a-game": {
       "title": "Call of Duty: Modern Warfare 4 review – a thrilling airport novel of a game",
@@ -1242,7 +1242,7 @@
         "Korean Air"
       ],
       "first_seen_at": "2026-10-23T12:59:57.178675+00:00",
-      "last_seen_at": "2026-10-24T01:40:09.971562+00:00"
+      "last_seen_at": "2026-10-24T13:23:19.303353+00:00"
     },
     "https://www.taipeitimes.com/News/biz/archives/2026/10/24/2003866508": {
       "title": "SK Hynix cancels IPO of Solidigm unit",
@@ -1253,7 +1253,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-10-24T01:40:09.971562+00:00",
-      "last_seen_at": "2026-10-24T01:40:09.971562+00:00"
+      "last_seen_at": "2026-10-24T13:23:19.303353+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/sk-hynix-drops-us-ipo-plan-for-solidigm-newspaper-reports/articleshow/135147377.cms": {
       "title": "SK Hynix drops US IPO plan for Solidigm: Report",
@@ -1264,7 +1264,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-10-24T01:40:09.971562+00:00",
-      "last_seen_at": "2026-10-24T01:40:09.971562+00:00"
+      "last_seen_at": "2026-10-24T13:23:19.303353+00:00"
     }
   }
 }
