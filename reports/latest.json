@@ -1,37 +1,14 @@
 {
-  "run_at": "2026-10-24T13:23:19.303353+00:00",
+  "run_at": "2026-10-25T01:15:48.442036+00:00",
   "summary": {
     "source_count": 73,
-    "success_count": 70,
-    "failed_count": 3,
-    "matched_count": 6,
+    "success_count": 67,
+    "failed_count": 6,
+    "matched_count": 2,
     "new_count": 0
   },
   "new_articles": [],
   "matched_articles": [
-    {
-      "article_key": "https://www.taipeitimes.com/News/biz/archives/2026/10/24/2003866508",
-      "canonical_link": "https://www.taipeitimes.com/News/biz/archives/2026/10/24/2003866508",
-      "link": "https://www.taipeitimes.com/News/biz/archives/2026/10/24/2003866508",
-      "title": "SK Hynix cancels IPO of Solidigm unit",
-      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix cancels IPO of Solidigm unit'이다. SK Hynix Inc yesterday scrapped plans for a potential US$10 billion US listing of its Solidigm unit after facing strong opposition from regulators and shareholders, becoming the latest firm to pull an initial public offering (IPO) while growing investor unease over the artificial intelligence (AI). ” After the announcement, SK Hynix’s shares rose, defying a broad market slide triggered by a rout in US technology stocks The market value of SK Hynix’s Seoul-listed shares is about US$679 billion, about half of their June peak SK Hynix at the time said that Solidigm was reviewing options to improve its business competitiveness “In light of recent capital market conditions and share price trends, Solidigm determined that it was necessary to reassess whether an IPO would be the most beneficial option for SK Hynix and its existing shareholders at this time,” the company said in a statement Fibonacci Asset Management Global chief executive officer Jung In-yun said that the cancelation was positive for SK Hynix shareholders because it would ease concerns about dilution of the parent company’s economic interest in Solidigm, and the valuation discount associated with listing both a parent and its subsidiary. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "SK Hynix cancels IPO of Solidigm unit",
-      "original_summary": "",
-      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix cancels IPO of Solidigm unit'이다. SK Hynix Inc yesterday scrapped plans for a potential US$10 billion US listing of its Solidigm unit after facing strong opposition from regulators and shareholders, becoming the latest firm to pull an initial public offering (IPO) while growing investor unease over the artificial intelligence (AI). ” After the announcement, SK Hynix’s shares rose, defying a broad market slide triggered by a rout in US technology stocks The market value of SK Hynix’s Seoul-listed shares is about US$679 billion, about half of their June peak SK Hynix at the time said that Solidigm was reviewing options to improve its business competitiveness “In light of recent capital market conditions and share price trends, Solidigm determined that it was necessary to reassess whether an IPO would be the most beneficial option for SK Hynix and its existing shareholders at this time,” the company said in a statement Fibonacci Asset Management Global chief executive officer Jung In-yun said that the cancelation was positive for SK Hynix shareholders because it would ease concerns about dilution of the parent company’s economic interest in Solidigm, and the valuation discount associated with listing both a parent and its subsidiary. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-24T00:00:00+00:00",
-      "source_id": "taipei_times_front",
-      "source_name": "Taipei Times",
-      "country_code": "TW",
-      "country_name_ko": "대만",
-      "source_language": "en",
-      "matched_companies": [
-        "SK hynix"
-      ],
-      "matched_aliases": [
-        "SK hynix"
-      ],
-      "is_new": false
-    },
     {
       "article_key": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-drops-us-ipo-plan-for-solidigm-newspaper-reports/articleshow/135147377.cms",
       "canonical_link": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-drops-us-ipo-plan-for-solidigm-newspaper-reports/articleshow/135147377.cms",
@@ -52,75 +29,6 @@
       ],
       "matched_aliases": [
         "SK hynix"
-      ],
-      "is_new": false
-    },
-    {
-      "article_key": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
-      "canonical_link": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
-      "link": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
-      "title": "SK Hynix shares jump over 4% after early losses as chipmaker scraps Solidigm IPO plans",
-      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix shares jump over 4% after early losses as chipmaker scraps Solidigm IPO plans'이다. SK Hynix shares closed 4% higher after an initial drop in early trading as the chipmaker halted review of Solidigm IPO plans in the U. S. SK Hynix said Solidigm's investment needs remain unchanged and that it would continue exploring alternative financing options to support the subsidiary's growth and enhance shareholder value \"SK Hynix shareholders have got the outcome they were pushing for,\" Gilbert said, adding that \"in the short term, it removes a governance worry and keeps Solidigm's value inside the company \" He explained that SK Hynix faces the challenge of funding Solidigm's growth without compromising share buybacks and dividends, as the company needs to demonstrate a credible funding plan as it prepares to report earnings next week SK Hynix said that Solidigm's existing production facilities had limited capacity to meet rising AI-driven memory demand, underscoring the need for additional manufacturing capacity in the U SK Hynix said Solidigm's investment needs remain unchanged and that it would continue exploring alternative financing options to support the subsidiary's growth and enhance shareholder value. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "SK Hynix shares jump over 4% after early losses as chipmaker scraps Solidigm IPO plans",
-      "original_summary": "SK Hynix shares closed 4% higher after an initial drop in early trading as the chipmaker halted review of Solidigm IPO plans in the U.S.",
-      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix shares jump over 4% after early losses as chipmaker scraps Solidigm IPO plans'이다. SK Hynix shares closed 4% higher after an initial drop in early trading as the chipmaker halted review of Solidigm IPO plans in the U. S. SK Hynix said Solidigm's investment needs remain unchanged and that it would continue exploring alternative financing options to support the subsidiary's growth and enhance shareholder value \"SK Hynix shareholders have got the outcome they were pushing for,\" Gilbert said, adding that \"in the short term, it removes a governance worry and keeps Solidigm's value inside the company \" He explained that SK Hynix faces the challenge of funding Solidigm's growth without compromising share buybacks and dividends, as the company needs to demonstrate a credible funding plan as it prepares to report earnings next week SK Hynix said that Solidigm's existing production facilities had limited capacity to meet rising AI-driven memory demand, underscoring the need for additional manufacturing capacity in the U SK Hynix said Solidigm's investment needs remain unchanged and that it would continue exploring alternative financing options to support the subsidiary's growth and enhance shareholder value. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-23T06:45:04+00:00",
-      "source_id": "cnbc_technology",
-      "source_name": "CNBC Technology",
-      "country_code": "US",
-      "country_name_ko": "미국",
-      "source_language": "en",
-      "matched_companies": [
-        "SK hynix"
-      ],
-      "matched_aliases": [
-        "SK hynix"
-      ],
-      "is_new": false
-    },
-    {
-      "article_key": "https://www.straitstimes.com/business/sk-hynix-puts-us-ipo-of-chip-unit-solidigm-on-hold-after-seoul-authorities-raise-concerns",
-      "canonical_link": "https://www.straitstimes.com/business/sk-hynix-puts-us-ipo-of-chip-unit-solidigm-on-hold-after-seoul-authorities-raise-concerns",
-      "link": "https://www.straitstimes.com/business/sk-hynix-puts-us-ipo-of-chip-unit-solidigm-on-hold-after-seoul-authorities-raise-concerns",
-      "title": "SK Hynix puts US IPO of chip unit Solidigm on hold after Seoul authorities raise concerns",
-      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix puts US IPO of chip unit Solidigm on hold after Seoul authorities raise concerns'이다. The South Korean chip giant said it plans to continue to explore ways to fund Solidigm’s expansion. SK Hynix will review future funding plans instead; the move may affect US chip policy talks and reflects wider fears over AI stock valuations and dilution It could also have funded share cancellations and buybacks, SK Hynix said in a statement 4% higher, outperforming a flat broader market as worries that a Solidigm IPO could dilute SK Hynix shareholders’ interests abated It was not immediately clear how the decision would be received by the Trump administration, which has put pressure on foreign chipmakers to build new facilities in the US and which has been holding discussions with SK Hynix On one hand, SK Hynix’s decision to hit the pause button on the Solidigm IPO reflects a sharp pullback in sentiment towards AI-sector stocks as investors fret over the implications of rising borrowing costs for the debt-heavy sector. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "SK Hynix puts US IPO of chip unit Solidigm on hold after Seoul authorities raise concerns",
-      "original_summary": "The South Korean chip giant said it plans to continue to explore ways to fund Solidigm’s expansion.",
-      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix puts US IPO of chip unit Solidigm on hold after Seoul authorities raise concerns'이다. The South Korean chip giant said it plans to continue to explore ways to fund Solidigm’s expansion. SK Hynix will review future funding plans instead; the move may affect US chip policy talks and reflects wider fears over AI stock valuations and dilution It could also have funded share cancellations and buybacks, SK Hynix said in a statement 4% higher, outperforming a flat broader market as worries that a Solidigm IPO could dilute SK Hynix shareholders’ interests abated It was not immediately clear how the decision would be received by the Trump administration, which has put pressure on foreign chipmakers to build new facilities in the US and which has been holding discussions with SK Hynix On one hand, SK Hynix’s decision to hit the pause button on the Solidigm IPO reflects a sharp pullback in sentiment towards AI-sector stocks as investors fret over the implications of rising borrowing costs for the debt-heavy sector. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-23T04:45:00+00:00",
-      "source_id": "straits_times_business",
-      "source_name": "The Straits Times",
-      "country_code": "SG",
-      "country_name_ko": "싱가포르",
-      "source_language": "en",
-      "matched_companies": [
-        "SK hynix"
-      ],
-      "matched_aliases": [
-        "SK hynix"
-      ],
-      "is_new": false
-    },
-    {
-      "article_key": "https://www.theguardian.com/games/2026/oct/23/call-of-duty-modern-warfare-4-review-a-thrilling-airport-novel-of-a-game",
-      "canonical_link": "https://www.theguardian.com/games/2026/oct/23/call-of-duty-modern-warfare-4-review-a-thrilling-airport-novel-of-a-game",
-      "link": "https://www.theguardian.com/games/2026/oct/23/call-of-duty-modern-warfare-4-review-a-thrilling-airport-novel-of-a-game",
-      "title": "Call of Duty: Modern Warfare 4 review – a thrilling airport novel of a game",
-      "summary": "Korean Air 관련 기사다. 기사 제목은 'Call of Duty: Modern Warfare 4 review – a thrilling airport novel of a game'이다. Activision; PC, PS5, Switch 2, Xbox From parkour over Manhattan rooftops and car chases in Paris to the climactic battle at a North Korean air base, the developers have thrown absolutely everything at the game And so we return perhaps one final time to Call of Duty’s Modern Warfare strand, with stories, “ripped from the newspaper headlines”, featuring shady terror organisations, nefarious rogue states and the brutally capable, monosyllabic war fighters who stand between us and Armageddon. Last year’s Black Ops 7 instalment was a sales disappointment for Activision, and that has no doubt put extra pressure on Infinity Ward, the studio leading Modern Warfare 4 development. Fortunately, this developer – like series heroes Price, Gaz and Ghost – seems to thrive on pressure. As you may have read , this year’s campaign is based around a fictitious North Korean ruling family that has seized an opportunity to invade its southern neighbour. Amid the chaos, a small group of Korean and American marines must help lead the fightback, while in the shadows, SAS hard man John Price makes an unlikely new comrade in his own morally ambiguous quest to put the world to rights. Mads Mikkelsen pops up as evil mastermind The Archer, but like Kiernan Shipka in Black Ops 7 he’s rather wasted, with very little screen time.",
-      "original_title": "Call of Duty: Modern Warfare 4 review – a thrilling airport novel of a game",
-      "original_summary": "Activision; PC, PS5, Switch 2, Xbox From parkour over Manhattan rooftops and car chases in Paris to the climactic battle at a North Korean air base, the developers have thrown absolutely everything at the game And so we return perhaps one final time to Call of Duty’s Modern Warfare strand, with stories, “ripped from the newspaper headlines”, featuring shady terror organisations, nefarious rogue states and the brutally capable, monosyllabic war fighters who stand between us and Armageddon. Last year’s Black Ops 7 instalment was a sales disappointment for Activision, and that has no doubt put extra pressure on Infinity Ward, the studio leading Modern Warfare 4 development. Fortunately, this developer – like series heroes Price, Gaz and Ghost – seems to thrive on pressure. As you may have read , this year’s campaign is based around a fictitious North Korean ruling family that has seized an opportunity to invade its southern neighbour. Amid the chaos, a small group of Korean and American marines must help lead the fightback, while in the shadows, SAS hard man John Price makes an unlikely new comrade in his own morally ambiguous quest to put the world to rights. Mads Mikkelsen pops up as evil mastermind The Archer, but like Kiernan Shipka in Black Ops 7 he’s rather wasted, with very little screen time. Continue reading...",
-      "company_summary": "Korean Air 관련 기사다. 기사 제목은 'Call of Duty: Modern Warfare 4 review – a thrilling airport novel of a game'이다. Activision; PC, PS5, Switch 2, Xbox From parkour over Manhattan rooftops and car chases in Paris to the climactic battle at a North Korean air base, the developers have thrown absolutely everything at the game And so we return perhaps one final time to Call of Duty’s Modern Warfare strand, with stories, “ripped from the newspaper headlines”, featuring shady terror organisations, nefarious rogue states and the brutally capable, monosyllabic war fighters who stand between us and Armageddon. Last year’s Black Ops 7 instalment was a sales disappointment for Activision, and that has no doubt put extra pressure on Infinity Ward, the studio leading Modern Warfare 4 development. Fortunately, this developer – like series heroes Price, Gaz and Ghost – seems to thrive on pressure. As you may have read , this year’s campaign is based around a fictitious North Korean ruling family that has seized an opportunity to invade its southern neighbour. Amid the chaos, a small group of Korean and American marines must help lead the fightback, while in the shadows, SAS hard man John Price makes an unlikely new comrade in his own morally ambiguous quest to put the world to rights. Mads Mikkelsen pops up as evil mastermind The Archer, but like Kiernan Shipka in Black Ops 7 he’s rather wasted, with very little screen time.",
-      "published_at": "2026-10-23T04:00:06+00:00",
-      "source_id": "guardian_technology",
-      "source_name": "The Guardian Technology",
-      "country_code": "GB",
-      "country_name_ko": "영국",
-      "source_language": "en",
-      "matched_companies": [
-        "Korean Air"
-      ],
-      "matched_aliases": [
-        "Korean Air"
       ],
       "is_new": false
     },
@@ -163,7 +71,7 @@
       "source_name": "The New York Times Technology",
       "country_code": "US",
       "success": true,
-      "item_count": 23,
+      "item_count": 24,
       "matched_count": 0,
       "error": ""
     },
@@ -324,28 +232,28 @@
       "source_id": "vietnamnews_business",
       "source_name": "Vietnam News Business",
       "country_code": "VN",
-      "success": true,
+      "success": false,
       "item_count": 0,
       "matched_count": 0,
-      "error": ""
+      "error": "HTTP 403 for https://vietnamnews.vn/rss/business.rss"
     },
     {
       "source_id": "vietnamnews_economy",
       "source_name": "Vietnam News Economy",
       "country_code": "VN",
-      "success": true,
-      "item_count": 20,
+      "success": false,
+      "item_count": 0,
       "matched_count": 0,
-      "error": ""
+      "error": "HTTP 403 for https://vietnamnews.vn/rss/economy.rss"
     },
     {
       "source_id": "vietnamnews_world",
       "source_name": "Vietnam News World",
       "country_code": "VN",
-      "success": true,
-      "item_count": 20,
+      "success": false,
+      "item_count": 0,
       "matched_count": 0,
-      "error": ""
+      "error": "HTTP 403 for https://vietnamnews.vn/rss/world.rss"
     },
     {
       "source_id": "dw_business",
@@ -361,7 +269,7 @@
       "source_name": "Deutsche Welle World",
       "country_code": "DE",
       "success": true,
-      "item_count": 12,
+      "item_count": 11,
       "matched_count": 0,
       "error": ""
     },
@@ -379,7 +287,7 @@
       "source_name": "tagesschau Wirtschaft",
       "country_code": "DE",
       "success": true,
-      "item_count": 34,
+      "item_count": 35,
       "matched_count": 0,
       "error": ""
     },
@@ -415,7 +323,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 28,
+      "item_count": 31,
       "matched_count": 0,
       "error": ""
     },
@@ -424,7 +332,7 @@
       "source_name": "BBC Technology",
       "country_code": "GB",
       "success": true,
-      "item_count": 21,
+      "item_count": 20,
       "matched_count": 0,
       "error": ""
     },
@@ -451,7 +359,7 @@
       "source_name": "The Guardian Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 40,
+      "item_count": 20,
       "matched_count": 0,
       "error": ""
     },
@@ -470,7 +378,7 @@
       "country_code": "GB",
       "success": true,
       "item_count": 34,
-      "matched_count": 1,
+      "matched_count": 0,
       "error": ""
     },
     {
@@ -560,7 +468,7 @@
       "country_code": "US",
       "success": true,
       "item_count": 30,
-      "matched_count": 1,
+      "matched_count": 0,
       "error": ""
     },
     {
@@ -685,7 +593,7 @@
       "source_name": "CNA Asia",
       "country_code": "SG",
       "success": true,
-      "item_count": 20,
+      "item_count": 19,
       "matched_count": 0,
       "error": ""
     },
@@ -703,8 +611,8 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 24,
-      "matched_count": 1,
+      "item_count": 17,
+      "matched_count": 0,
       "error": ""
     },
     {
@@ -748,8 +656,8 @@
       "source_name": "Taipei Times",
       "country_code": "TW",
       "success": true,
-      "item_count": 45,
-      "matched_count": 1,
+      "item_count": 46,
+      "matched_count": 0,
       "error": ""
     },
     {

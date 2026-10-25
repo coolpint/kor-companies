@@ -1,29 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-24T13:23:19.303353+00:00",
+  "last_run_at": "2026-10-25T01:15:48.442036+00:00",
   "seen_articles": {
-    "http://www.euronews.com/business/2026/09/08/mistral-ai-raises-record-3-billion-in-samsung-led-funding-round": {
-      "title": "Mistral AI raises record €3 billion in Samsung-led funding round",
-      "link": "http://www.euronews.com/business/2026/09/08/mistral-ai-raises-record-3-billion-in-samsung-led-funding-round",
-      "source_name": "Euronews Business",
-      "country_code": "EU",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-09-08T13:24:57.072556+00:00",
-      "last_seen_at": "2026-09-09T13:35:37.097647+00:00"
-    },
-    "https://economictimes.indiatimes.com/tech/artificial-intelligence/french-ai-company-mistral-hits-24-billion-valuation-in-funding-round/articleshow/133911829.cms": {
-      "title": "French AI company Mistral hits $24 billion valuation in funding round",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/french-ai-company-mistral-hits-24-billion-valuation-in-funding-round/articleshow/133911829.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-09-08T13:24:57.072556+00:00",
-      "last_seen_at": "2026-09-09T13:35:37.097647+00:00"
-    },
     "https://www.thehindubusinessline.com/companies/hyundai-motor-india-plans-to-soon-launch-localised-mass-market-suv-ev/article71446440.ece": {
       "title": "Hyundai Motor India plans to soon launch localised, mass-market SUV EV",
       "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-plans-to-soon-launch-localised-mass-market-suv-ev/article71446440.ece",
@@ -34,28 +12,6 @@
       ],
       "first_seen_at": "2026-09-09T13:35:37.097647+00:00",
       "last_seen_at": "2026-09-10T13:27:08.741919+00:00"
-    },
-    "https://www.channelnewsasia.com/business/samsung-electronics-chairman-lee-buy-19-trillion-won-worth-shares-his-mother-6372511": {
-      "title": "Samsung Electronics Chairman Lee to buy 1.9 trillion won worth of shares from his mother",
-      "link": "https://www.channelnewsasia.com/business/samsung-electronics-chairman-lee-buy-19-trillion-won-worth-shares-his-mother-6372511",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-09-09T13:35:37.097647+00:00",
-      "last_seen_at": "2026-09-09T13:35:37.097647+00:00"
-    },
-    "https://economictimes.indiatimes.com/industry/renewables/hyundai-motor-india-to-launch-affordable-localized-suv-ev-with-enhanced-charging-infrastructure/articleshow/133959801.cms": {
-      "title": "Hyundai Motor India plans to soon launch localised, mass-market SUV EV",
-      "link": "https://economictimes.indiatimes.com/industry/renewables/hyundai-motor-india-to-launch-affordable-localized-suv-ev-with-enhanced-charging-infrastructure/articleshow/133959801.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-09-09T13:35:37.097647+00:00",
-      "last_seen_at": "2026-09-09T13:35:37.097647+00:00"
     },
     "https://www.thehindubusinessline.com/news/national/delegation-from-south-koreas-hd-hyundai-set-to-meet-tn-industries-minister-today/article71445991.ece": {
       "title": "Delegation from South Korea’s HD Hyundai set to meet TN Industries Minister today",
@@ -1175,7 +1131,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-10-23T01:20:24.888605+00:00",
-      "last_seen_at": "2026-10-24T13:23:19.303353+00:00"
+      "last_seen_at": "2026-10-25T01:15:48.442036+00:00"
     },
     "https://www.channelnewsasia.com/business/hd-hyundai-build-us-shipyard-kiewit-create-3000-jobs-6484821": {
       "title": "HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs",
@@ -1264,7 +1220,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-10-24T01:40:09.971562+00:00",
-      "last_seen_at": "2026-10-24T13:23:19.303353+00:00"
+      "last_seen_at": "2026-10-25T01:15:48.442036+00:00"
     }
   }
 }
