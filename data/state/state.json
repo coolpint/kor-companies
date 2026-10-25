@@ -1,41 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-25T01:15:48.442036+00:00",
+  "last_run_at": "2026-10-25T13:45:04.173794+00:00",
   "seen_articles": {
-    "https://www.thehindubusinessline.com/companies/hyundai-motor-india-plans-to-soon-launch-localised-mass-market-suv-ev/article71446440.ece": {
-      "title": "Hyundai Motor India plans to soon launch localised, mass-market SUV EV",
-      "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-plans-to-soon-launch-localised-mass-market-suv-ev/article71446440.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-09-09T13:35:37.097647+00:00",
-      "last_seen_at": "2026-09-10T13:27:08.741919+00:00"
-    },
-    "https://www.thehindubusinessline.com/news/national/delegation-from-south-koreas-hd-hyundai-set-to-meet-tn-industries-minister-today/article71445991.ece": {
-      "title": "Delegation from South Korea’s HD Hyundai set to meet TN Industries Minister today",
-      "link": "https://www.thehindubusinessline.com/news/national/delegation-from-south-koreas-hd-hyundai-set-to-meet-tn-industries-minister-today/article71445991.ece",
-      "source_name": "BusinessLine Economy",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor",
-        "HD Hyundai"
-      ],
-      "first_seen_at": "2026-09-09T13:35:37.097647+00:00",
-      "last_seen_at": "2026-09-10T13:27:08.741919+00:00"
-    },
-    "https://www.taipeitimes.com/News/biz/archives/2026/09/10/2003863982": {
-      "title": "Kioxia Holdings says SK Hynix tie-up not happening",
-      "link": "https://www.taipeitimes.com/News/biz/archives/2026/09/10/2003863982",
-      "source_name": "Taipei Times",
-      "country_code": "TW",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-09-10T00:55:20.932484+00:00",
-      "last_seen_at": "2026-09-10T13:27:08.741919+00:00"
-    },
     "https://www.straitstimes.com/business/samsung-sk-hynix-payouts-test-south-koreas-reform-drive-as-investors-seek-more": {
       "title": "Samsung, SK Hynix payouts test South Korea’s reform drive as investors seek more",
       "link": "https://www.straitstimes.com/business/samsung-sk-hynix-payouts-test-south-koreas-reform-drive-as-investors-seek-more",
@@ -1131,7 +1097,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-10-23T01:20:24.888605+00:00",
-      "last_seen_at": "2026-10-25T01:15:48.442036+00:00"
+      "last_seen_at": "2026-10-25T13:45:04.173794+00:00"
     },
     "https://www.channelnewsasia.com/business/hd-hyundai-build-us-shipyard-kiewit-create-3000-jobs-6484821": {
       "title": "HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs",

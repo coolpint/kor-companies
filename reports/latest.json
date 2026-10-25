@@ -1,37 +1,14 @@
 {
-  "run_at": "2026-10-25T01:15:48.442036+00:00",
+  "run_at": "2026-10-25T13:45:04.173794+00:00",
   "summary": {
     "source_count": 73,
-    "success_count": 67,
-    "failed_count": 6,
-    "matched_count": 2,
+    "success_count": 70,
+    "failed_count": 3,
+    "matched_count": 1,
     "new_count": 0
   },
   "new_articles": [],
   "matched_articles": [
-    {
-      "article_key": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-drops-us-ipo-plan-for-solidigm-newspaper-reports/articleshow/135147377.cms",
-      "canonical_link": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-drops-us-ipo-plan-for-solidigm-newspaper-reports/articleshow/135147377.cms",
-      "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-drops-us-ipo-plan-for-solidigm-newspaper-reports/articleshow/135147377.cms",
-      "title": "SK Hynix drops US IPO plan for Solidigm: Report",
-      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix drops US IPO plan for Solidigm: Report'이다. The news comes weeks after SK Hynix said it was reviewing various options to strengthen Solidigm's competitiveness, but that no decisions had been made. scrapped an initial public offering for its US subsidiary Solidigm after facing shareholder opposition South Korean chipmaker SK Hynix has decided not to pursue a US initial public offering of its subsidiary Solidigm , South Korean newspaper Korea Economic Daily reported on Friday, citing unnamed industry sources SK Hynix did not have an immediate response to a request for comment The news comes weeks after SK Hynix said it was reviewing various options to strengthen Solidigm's competitiveness, but that no decisions had been made Add as a Reliable and Trusted News Source Add Now. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "SK Hynix drops US IPO plan for Solidigm: Report",
-      "original_summary": "The news comes weeks after SK Hynix said it was reviewing various options to strengthen Solidigm's competitiveness, but that no decisions had been made.",
-      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix drops US IPO plan for Solidigm: Report'이다. The news comes weeks after SK Hynix said it was reviewing various options to strengthen Solidigm's competitiveness, but that no decisions had been made. scrapped an initial public offering for its US subsidiary Solidigm after facing shareholder opposition South Korean chipmaker SK Hynix has decided not to pursue a US initial public offering of its subsidiary Solidigm , South Korean newspaper Korea Economic Daily reported on Friday, citing unnamed industry sources SK Hynix did not have an immediate response to a request for comment The news comes weeks after SK Hynix said it was reviewing various options to strengthen Solidigm's competitiveness, but that no decisions had been made Add as a Reliable and Trusted News Source Add Now. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-23T13:27:23+00:00",
-      "source_id": "economic_times_tech",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "country_name_ko": "인도",
-      "source_language": "en",
-      "matched_companies": [
-        "SK hynix"
-      ],
-      "matched_aliases": [
-        "SK hynix"
-      ],
-      "is_new": false
-    },
     {
       "article_key": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-abandons-plan-for-us-unit-s-ipo-citing-market-volatility",
       "canonical_link": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-abandons-plan-for-us-unit-s-ipo-citing-market-volatility",
@@ -71,7 +48,7 @@
       "source_name": "The New York Times Technology",
       "country_code": "US",
       "success": true,
-      "item_count": 24,
+      "item_count": 25,
       "matched_count": 0,
       "error": ""
     },
@@ -232,28 +209,28 @@
       "source_id": "vietnamnews_business",
       "source_name": "Vietnam News Business",
       "country_code": "VN",
-      "success": false,
+      "success": true,
       "item_count": 0,
       "matched_count": 0,
-      "error": "HTTP 403 for https://vietnamnews.vn/rss/business.rss"
+      "error": ""
     },
     {
       "source_id": "vietnamnews_economy",
       "source_name": "Vietnam News Economy",
       "country_code": "VN",
-      "success": false,
-      "item_count": 0,
+      "success": true,
+      "item_count": 20,
       "matched_count": 0,
-      "error": "HTTP 403 for https://vietnamnews.vn/rss/economy.rss"
+      "error": ""
     },
     {
       "source_id": "vietnamnews_world",
       "source_name": "Vietnam News World",
       "country_code": "VN",
-      "success": false,
-      "item_count": 0,
+      "success": true,
+      "item_count": 20,
       "matched_count": 0,
-      "error": "HTTP 403 for https://vietnamnews.vn/rss/world.rss"
+      "error": ""
     },
     {
       "source_id": "dw_business",
@@ -269,7 +246,7 @@
       "source_name": "Deutsche Welle World",
       "country_code": "DE",
       "success": true,
-      "item_count": 11,
+      "item_count": 12,
       "matched_count": 0,
       "error": ""
     },
@@ -287,7 +264,7 @@
       "source_name": "tagesschau Wirtschaft",
       "country_code": "DE",
       "success": true,
-      "item_count": 35,
+      "item_count": 37,
       "matched_count": 0,
       "error": ""
     },
@@ -323,7 +300,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 31,
+      "item_count": 32,
       "matched_count": 0,
       "error": ""
     },
@@ -558,7 +535,7 @@
       "country_code": "IN",
       "success": true,
       "item_count": 50,
-      "matched_count": 1,
+      "matched_count": 0,
       "error": ""
     },
     {
@@ -584,7 +561,7 @@
       "source_name": "CNA Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 20,
+      "item_count": 17,
       "matched_count": 0,
       "error": ""
     },
@@ -593,7 +570,7 @@
       "source_name": "CNA Asia",
       "country_code": "SG",
       "success": true,
-      "item_count": 19,
+      "item_count": 6,
       "matched_count": 0,
       "error": ""
     },
@@ -611,7 +588,7 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 17,
+      "item_count": 10,
       "matched_count": 0,
       "error": ""
     },
