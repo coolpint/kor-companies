@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-10-25T13:45:04.173794+00:00",
+  "run_at": "2026-10-26T01:17:08.173425+00:00",
   "summary": {
     "source_count": 73,
     "success_count": 70,
@@ -246,7 +246,7 @@
       "source_name": "Deutsche Welle World",
       "country_code": "DE",
       "success": true,
-      "item_count": 12,
+      "item_count": 11,
       "matched_count": 0,
       "error": ""
     },
@@ -291,7 +291,7 @@
       "source_name": "BBC Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 55,
+      "item_count": 56,
       "matched_count": 0,
       "error": ""
     },
@@ -561,7 +561,7 @@
       "source_name": "CNA Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 17,
+      "item_count": 5,
       "matched_count": 0,
       "error": ""
     },
@@ -570,7 +570,7 @@
       "source_name": "CNA Asia",
       "country_code": "SG",
       "success": true,
-      "item_count": 6,
+      "item_count": 5,
       "matched_count": 0,
       "error": ""
     },
@@ -588,7 +588,7 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 10,
+      "item_count": 8,
       "matched_count": 0,
       "error": ""
     },
@@ -633,7 +633,7 @@
       "source_name": "Taipei Times",
       "country_code": "TW",
       "success": true,
-      "item_count": 46,
+      "item_count": 50,
       "matched_count": 0,
       "error": ""
     },

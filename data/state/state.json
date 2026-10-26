@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-25T13:45:04.173794+00:00",
+  "last_run_at": "2026-10-26T01:17:08.173425+00:00",
   "seen_articles": {
     "https://www.straitstimes.com/business/samsung-sk-hynix-payouts-test-south-koreas-reform-drive-as-investors-seek-more": {
       "title": "Samsung, SK Hynix payouts test South Korea’s reform drive as investors seek more",
@@ -23,17 +23,6 @@
       ],
       "first_seen_at": "2026-09-11T00:52:30.331642+00:00",
       "last_seen_at": "2026-09-13T00:42:14.659566+00:00"
-    },
-    "https://economictimes.indiatimes.com/industry/auto/cars-uvs/kia-opens-bookings-for-3-new-cars-carens-cng-carens-clavis-cng-and-carnival-hybrid/articleshow/134016225.cms": {
-      "title": "Kia opens bookings for 3 new cars: Carens CNG, Carens Clavis CNG and Carnival Hybrid",
-      "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/kia-opens-bookings-for-3-new-cars-carens-cng-carens-clavis-cng-and-carnival-hybrid/articleshow/134016225.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-09-11T00:52:30.331642+00:00",
-      "last_seen_at": "2026-09-11T00:52:30.331642+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-venue-gets-smarter-against-car-theft-with-a-remote-immobiliser-controlled-by-your-phone/articleshow/134050141.cms": {
       "title": "Hyundai Venue gets smarter against car theft with a remote immobiliser controlled by your phone",
@@ -1097,7 +1086,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-10-23T01:20:24.888605+00:00",
-      "last_seen_at": "2026-10-25T13:45:04.173794+00:00"
+      "last_seen_at": "2026-10-26T01:17:08.173425+00:00"
     },
     "https://www.channelnewsasia.com/business/hd-hyundai-build-us-shipyard-kiewit-create-3000-jobs-6484821": {
       "title": "HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs",
