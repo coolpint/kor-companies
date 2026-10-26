@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-26T01:17:08.173425+00:00",
+  "last_run_at": "2026-10-26T16:11:20.609901+00:00",
   "seen_articles": {
-    "https://www.straitstimes.com/business/samsung-sk-hynix-payouts-test-south-koreas-reform-drive-as-investors-seek-more": {
-      "title": "Samsung, SK Hynix payouts test South Korea’s reform drive as investors seek more",
-      "link": "https://www.straitstimes.com/business/samsung-sk-hynix-payouts-test-south-koreas-reform-drive-as-investors-seek-more",
-      "source_name": "The Straits Times",
-      "country_code": "SG",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-09-10T13:27:08.741919+00:00",
-      "last_seen_at": "2026-09-11T13:24:03.022969+00:00"
-    },
     "https://asia.nikkei.com/business/tech/semiconductors/china-s-cxmt-tops-sk-hynix-micron-to-take-memory-profit-margin-crown": {
       "title": "China's CXMT tops SK Hynix, Micron to take memory profit margin crown",
       "link": "https://asia.nikkei.com/business/tech/semiconductors/china-s-cxmt-tops-sk-hynix-micron-to-take-memory-profit-margin-crown",
@@ -1176,6 +1165,61 @@
       ],
       "first_seen_at": "2026-10-24T01:40:09.971562+00:00",
       "last_seen_at": "2026-10-25T01:15:48.442036+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/hyundai-puts-bayon-to-task-for-meeting-cretas-target/article71627344.ece": {
+      "title": "Hyundai puts Bayon to task, for meeting Creta’s target",
+      "link": "https://www.thehindubusinessline.com/companies/hyundai-puts-bayon-to-task-for-meeting-cretas-target/article71627344.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-10-26T16:11:20.609901+00:00",
+      "last_seen_at": "2026-10-26T16:11:20.609901+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/hyundai-motor-india-targets-114-million-unit-capacity-by-2030-92-localisation-by-2032/article71626435.ece": {
+      "title": "Hyundai Motor India targets 1.14 million-unit capacity by 2030, 92% localisation by 2032",
+      "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-targets-114-million-unit-capacity-by-2030-92-localisation-by-2032/article71626435.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-10-26T16:11:20.609901+00:00",
+      "last_seen_at": "2026-10-26T16:11:20.609901+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-india-to-hike-production-capacity-to-1-14-mn-units-by-2030boost-localisation/articleshow/135208956.cms": {
+      "title": "Hyundai Motor India to hike production capacity to 1.14 mn units by 2030,boost localisation",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-india-to-hike-production-capacity-to-1-14-mn-units-by-2030boost-localisation/articleshow/135208956.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-10-26T16:11:20.609901+00:00",
+      "last_seen_at": "2026-10-26T16:11:20.609901+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-reveals-ambitious-plan-at-new-bayon-launch-creta-to-be-part-of-big-push-as-well/articleshow/135207257.cms": {
+      "title": "Hyundai reveals ambitious plan at new Bayon launch; Creta to be part of big push as well",
+      "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-reveals-ambitious-plan-at-new-bayon-launch-creta-to-be-part-of-big-push-as-well/articleshow/135207257.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-10-26T16:11:20.609901+00:00",
+      "last_seen_at": "2026-10-26T16:11:20.609901+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-bayon-launched-in-india-check-price-engine-options-tech-features-what-buyers-get-with-the-new-suv/articleshow/135203249.cms": {
+      "title": "Hyundai BAYON launched in India: Check price, engine options, tech features & what buyers get with the new SUV",
+      "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-bayon-launched-in-india-check-price-engine-options-tech-features-what-buyers-get-with-the-new-suv/articleshow/135203249.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-10-26T16:11:20.609901+00:00",
+      "last_seen_at": "2026-10-26T16:11:20.609901+00:00"
     }
   }
 }
