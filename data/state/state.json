@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-27T02:08:43.924772+00:00",
+  "last_run_at": "2026-10-27T15:25:15.281455+00:00",
   "seen_articles": {
     "https://asia.nikkei.com/business/tech/semiconductors/china-s-cxmt-tops-sk-hynix-micron-to-take-memory-profit-margin-crown": {
       "title": "China's CXMT tops SK Hynix, Micron to take memory profit margin crown",
@@ -1164,7 +1164,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-10-26T16:11:20.609901+00:00",
-      "last_seen_at": "2026-10-27T02:08:43.924772+00:00"
+      "last_seen_at": "2026-10-27T15:25:15.281455+00:00"
     },
     "https://www.thehindubusinessline.com/companies/hyundai-motor-india-targets-114-million-unit-capacity-by-2030-92-localisation-by-2032/article71626435.ece": {
       "title": "Hyundai Motor India targets 1.14 million-unit capacity by 2030, 92% localisation by 2032",
@@ -1220,6 +1220,17 @@
       ],
       "first_seen_at": "2026-10-27T02:08:43.924772+00:00",
       "last_seen_at": "2026-10-27T02:08:43.924772+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/hyundai-bayon-arrives-in-india-price-engine-features-safety-tech-cabin-explained/videoshow/135236517.cms": {
+      "title": "Hyundai BAYON arrives in India: Price, engine, features, safety tech & cabin explained",
+      "link": "https://economictimes.indiatimes.com/industry/auto/hyundai-bayon-arrives-in-india-price-engine-features-safety-tech-cabin-explained/videoshow/135236517.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-10-27T15:25:15.281455+00:00",
+      "last_seen_at": "2026-10-27T15:25:15.281455+00:00"
     }
   }
 }
