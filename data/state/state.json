@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-27T15:25:15.281455+00:00",
+  "last_run_at": "2026-10-28T02:22:13.832830+00:00",
   "seen_articles": {
-    "https://asia.nikkei.com/business/tech/semiconductors/china-s-cxmt-tops-sk-hynix-micron-to-take-memory-profit-margin-crown": {
-      "title": "China's CXMT tops SK Hynix, Micron to take memory profit margin crown",
-      "link": "https://asia.nikkei.com/business/tech/semiconductors/china-s-cxmt-tops-sk-hynix-micron-to-take-memory-profit-margin-crown",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-09-11T00:52:30.331642+00:00",
-      "last_seen_at": "2026-09-13T00:42:14.659566+00:00"
-    },
     "https://www.channelnewsasia.com/business/hyundai-motor-roll-out-in-house-driver-assist-system-in-2029-6380911": {
       "title": "Hyundai Motor to roll out in-house driver-assist system in 2029",
       "link": "https://www.channelnewsasia.com/business/hyundai-motor-roll-out-in-house-driver-assist-system-in-2029-6380911",
@@ -1230,7 +1219,73 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-10-27T15:25:15.281455+00:00",
-      "last_seen_at": "2026-10-27T15:25:15.281455+00:00"
+      "last_seen_at": "2026-10-28T02:22:13.832830+00:00"
+    },
+    "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html": {
+      "title": "SK Hynix shares soar over 8% as profit beats, chipmaker to return $25 billion to investors",
+      "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-10-28T02:22:13.832830+00:00",
+      "last_seen_at": "2026-10-28T02:22:13.832830+00:00"
+    },
+    "https://www.ft.com/content/44c35ed7-aa46-4d45-91f5-2773f00ae6be": {
+      "title": "SK Hynix profits soar amid roaring AI chip demand",
+      "link": "https://www.ft.com/content/44c35ed7-aa46-4d45-91f5-2773f00ae6be",
+      "source_name": "Financial Times Companies",
+      "country_code": "GB",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-10-28T02:22:13.832830+00:00",
+      "last_seen_at": "2026-10-28T02:22:13.832830+00:00"
+    },
+    "https://www.straitstimes.com/business/sk-hynix-unveils-shareholder-return-plan-worth-s96-billion-after-posting-7-fold-jump-in-q3-profit": {
+      "title": "SK Hynix unveils shareholder return plan worth S$96 billion after posting 7-fold jump in Q3 profit",
+      "link": "https://www.straitstimes.com/business/sk-hynix-unveils-shareholder-return-plan-worth-s96-billion-after-posting-7-fold-jump-in-q3-profit",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-10-28T02:22:13.832830+00:00",
+      "last_seen_at": "2026-10-28T02:22:13.832830+00:00"
+    },
+    "https://www.bangkokpost.com/world/3345034/ai-chip-giant-sk-hynix-says-quarterly-operating-profit-soars-630": {
+      "title": "AI chip giant SK hynix says quarterly operating profit soars 630%",
+      "link": "https://www.bangkokpost.com/world/3345034/ai-chip-giant-sk-hynix-says-quarterly-operating-profit-soars-630",
+      "source_name": "Bangkok Post World",
+      "country_code": "TH",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-10-28T02:22:13.832830+00:00",
+      "last_seen_at": "2026-10-28T02:22:13.832830+00:00"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-quarterly-profit-soars-sevenfold-to-63bn-on-strong-memory-demand": {
+      "title": "SK Hynix quarterly profit soars sevenfold to $63bn on strong memory demand",
+      "link": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-quarterly-profit-soars-sevenfold-to-63bn-on-strong-memory-demand",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-10-28T02:22:13.832830+00:00",
+      "last_seen_at": "2026-10-28T02:22:13.832830+00:00"
+    },
+    "https://www.channelnewsasia.com/business/sk-hynix-unveils-75-billion-shareholder-return-plan-after-posting-record-profit-6498106": {
+      "title": "SK Hynix unveils $75 billion shareholder return plan after posting record profit",
+      "link": "https://www.channelnewsasia.com/business/sk-hynix-unveils-75-billion-shareholder-return-plan-after-posting-record-profit-6498106",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-10-28T02:22:13.832830+00:00",
+      "last_seen_at": "2026-10-28T02:22:13.832830+00:00"
     }
   }
 }

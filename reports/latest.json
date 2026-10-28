@@ -1,39 +1,292 @@
 {
-  "run_at": "2026-10-27T15:25:15.281455+00:00",
+  "run_at": "2026-10-28T02:22:13.832830+00:00",
   "summary": {
     "source_count": 73,
     "success_count": 70,
     "failed_count": 3,
-    "matched_count": 2,
-    "new_count": 1
+    "matched_count": 7,
+    "new_count": 6
   },
   "new_articles": [
     {
-      "article_key": "https://economictimes.indiatimes.com/industry/auto/hyundai-bayon-arrives-in-india-price-engine-features-safety-tech-cabin-explained/videoshow/135236517.cms",
-      "canonical_link": "https://economictimes.indiatimes.com/industry/auto/hyundai-bayon-arrives-in-india-price-engine-features-safety-tech-cabin-explained/videoshow/135236517.cms",
-      "link": "https://economictimes.indiatimes.com/industry/auto/hyundai-bayon-arrives-in-india-price-engine-features-safety-tech-cabin-explained/videoshow/135236517.cms",
-      "title": "Hyundai BAYON arrives in India: Price, engine, features, safety tech & cabin explained",
-      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai BAYON arrives in India: Price, engine, features, safety tech & cabin explained'이다. Hyundai Motor India has launched the BAYON at an introductory price of Rs 9. 99 lakh, ex-showroom. The SUV features a 1. 5-litre petrol engine, dual 12. 3-inch displays, a generative AI voice assistant, Level 2 Pro ADAS and 505 litres of boot space. Here is a look at its price, engine specifications, technology, safety features, cabin comfort and driving modes.",
-      "original_title": "Hyundai BAYON arrives in India: Price, engine, features, safety tech & cabin explained",
-      "original_summary": "",
-      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai BAYON arrives in India: Price, engine, features, safety tech & cabin explained'이다. Hyundai Motor India has launched the BAYON at an introductory price of Rs 9. 99 lakh, ex-showroom. The SUV features a 1. 5-litre petrol engine, dual 12. 3-inch displays, a generative AI voice assistant, Level 2 Pro ADAS and 505 litres of boot space. Here is a look at its price, engine specifications, technology, safety features, cabin comfort and driving modes.",
-      "published_at": "2026-10-27T13:39:35+00:00",
-      "source_id": "economic_times_industry",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "country_name_ko": "인도",
+      "article_key": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+      "canonical_link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+      "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+      "title": "SK Hynix shares soar over 8% as profit beats, chipmaker to return $25 billion to investors",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix shares soar over 8% as profit beats, chipmaker to return $25 billion to investors'이다. Shares of South Korean chipmaker SK Hynix soared over 8% on Wednesday as third-quarter profit sharply beats estimates. SK Hynix shares rose more than 8%, outperforming the Kospi's 6 In the earnings call, SK Hynix CEO Kwak Noh-Jung cited financial market volatility and a correction in semiconductor stocks as the main reasons to halt its review of potential pre-IPO fundraising and IPO options for its U Kwak Noh-Jung CEO, SK Hynix The company had said it would continue to assess investment timing, scale and financing options to support Solidigm's growth and enhance shareholder value SK Hynix will also buyback 20 trillion won in shares, half of which will be cancelled this year, after completing its previously announced 40 trillion won shares buyback last week — which will be cancelled shortly — as mentioned in the earnings call Memory production boost SK Hynix expects HBM4 to surpass HBM3E in both shipments and revenue in the fourth quarter, as it ramps up production at its M15X facility in Cheongju, South Korea. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "SK Hynix shares soar over 8% as profit beats, chipmaker to return $25 billion to investors",
+      "original_summary": "Shares of South Korean chipmaker SK Hynix soared over 8% on Wednesday as third-quarter profit sharply beats estimates.",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix shares soar over 8% as profit beats, chipmaker to return $25 billion to investors'이다. Shares of South Korean chipmaker SK Hynix soared over 8% on Wednesday as third-quarter profit sharply beats estimates. SK Hynix shares rose more than 8%, outperforming the Kospi's 6 In the earnings call, SK Hynix CEO Kwak Noh-Jung cited financial market volatility and a correction in semiconductor stocks as the main reasons to halt its review of potential pre-IPO fundraising and IPO options for its U Kwak Noh-Jung CEO, SK Hynix The company had said it would continue to assess investment timing, scale and financing options to support Solidigm's growth and enhance shareholder value SK Hynix will also buyback 20 trillion won in shares, half of which will be cancelled this year, after completing its previously announced 40 trillion won shares buyback last week — which will be cancelled shortly — as mentioned in the earnings call Memory production boost SK Hynix expects HBM4 to surpass HBM3E in both shipments and revenue in the fourth quarter, as it ramps up production at its M15X facility in Cheongju, South Korea. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-28T01:56:59+00:00",
+      "source_id": "cnbc_top_news",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "country_name_ko": "미국",
       "source_language": "en",
       "matched_companies": [
-        "Hyundai Motor"
+        "SK hynix"
       ],
       "matched_aliases": [
-        "Hyundai"
+        "SK hynix"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://www.ft.com/content/44c35ed7-aa46-4d45-91f5-2773f00ae6be",
+      "canonical_link": "https://www.ft.com/content/44c35ed7-aa46-4d45-91f5-2773f00ae6be",
+      "link": "https://www.ft.com/content/44c35ed7-aa46-4d45-91f5-2773f00ae6be",
+      "title": "SK Hynix profits soar amid roaring AI chip demand",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix profits soar amid roaring AI chip demand'이다. South Korean group posts better than expected operating profit for third quarter and announces stock buybacks. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다. 가능한 경우 본문에서 회사 언급 전후 문맥을 함께 반영했다.",
+      "original_title": "SK Hynix profits soar amid roaring AI chip demand",
+      "original_summary": "South Korean group posts better than expected operating profit for third quarter and announces stock buybacks",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix profits soar amid roaring AI chip demand'이다. South Korean group posts better than expected operating profit for third quarter and announces stock buybacks. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다. 가능한 경우 본문에서 회사 언급 전후 문맥을 함께 반영했다.",
+      "published_at": "2026-10-28T01:15:00+00:00",
+      "source_id": "ft_companies",
+      "source_name": "Financial Times Companies",
+      "country_code": "GB",
+      "country_name_ko": "영국",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://www.straitstimes.com/business/sk-hynix-unveils-shareholder-return-plan-worth-s96-billion-after-posting-7-fold-jump-in-q3-profit",
+      "canonical_link": "https://www.straitstimes.com/business/sk-hynix-unveils-shareholder-return-plan-worth-s96-billion-after-posting-7-fold-jump-in-q3-profit",
+      "link": "https://www.straitstimes.com/business/sk-hynix-unveils-shareholder-return-plan-worth-s96-billion-after-posting-7-fold-jump-in-q3-profit",
+      "title": "SK Hynix unveils shareholder return plan worth S$96 billion after posting 7-fold jump in Q3 profit",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix unveils shareholder return plan worth S$96 billion after posting 7-fold jump in Q3 profit'이다. Continued demand for AI infrastructure is driving up memory chip prices. SK Hynix said demand should stay above supply through 2030 and has signed long-term deals with 14 major customers, covering more than 50% of 2027 and 2028 output AI generated SEOUL – South Korean chipmaker SK Hynix reported a more than seven-fold rise in quarterly operating profit to a record high on Oct 28, beating market forecasts, as continued demand for AI infrastructure drove up memory chip prices SK Hynix also reiterated that it expects demand to continue to exceed supply through 2030 “The LTA volume secured to date corresponds to more than 50% of total production capacity for 2027 and 2028,” SK Hynix said SK Hynix reported operating profit of 83. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "SK Hynix unveils shareholder return plan worth S$96 billion after posting 7-fold jump in Q3 profit",
+      "original_summary": "Continued demand for AI infrastructure is driving up memory chip prices.",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix unveils shareholder return plan worth S$96 billion after posting 7-fold jump in Q3 profit'이다. Continued demand for AI infrastructure is driving up memory chip prices. SK Hynix said demand should stay above supply through 2030 and has signed long-term deals with 14 major customers, covering more than 50% of 2027 and 2028 output AI generated SEOUL – South Korean chipmaker SK Hynix reported a more than seven-fold rise in quarterly operating profit to a record high on Oct 28, beating market forecasts, as continued demand for AI infrastructure drove up memory chip prices SK Hynix also reiterated that it expects demand to continue to exceed supply through 2030 “The LTA volume secured to date corresponds to more than 50% of total production capacity for 2027 and 2028,” SK Hynix said SK Hynix reported operating profit of 83. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-28T00:45:00+00:00",
+      "source_id": "straits_times_business",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "country_name_ko": "싱가포르",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://www.bangkokpost.com/world/3345034/ai-chip-giant-sk-hynix-says-quarterly-operating-profit-soars-630",
+      "canonical_link": "https://www.bangkokpost.com/world/3345034/ai-chip-giant-sk-hynix-says-quarterly-operating-profit-soars-630",
+      "link": "https://www.bangkokpost.com/world/3345034/ai-chip-giant-sk-hynix-says-quarterly-operating-profit-soars-630",
+      "title": "AI chip giant SK hynix says quarterly operating profit soars 630%",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'AI chip giant SK hynix says quarterly operating profit soars 630%'이다. SEOUL - South Korean chip giant SK hynix said Wednesday its third-quarter operating profit soared 632 percent on-year, largely driven by the artificial intelligence industry's explosive demand for its advanced memory chips. \"SK hynix analyzed that a virtuous cycle has taken hold in which AI-driven productivity gains and new revenue generation in areas such as software development, customer service, and search lead to greater AI adoption,\" the chipmaker said in a statement SK hynix is a specialist supplier of high-bandwidth memory chips to US industry behemoth Nvidia, and a pillar of South Korea's tech-led economy SK hynix announced an additional plan to return 60 trillion won to shareholders on Wednesday, following the completion of a 40 trillion-won shareholder return programme \"The company's stock has fallen nearly 60 percent from its peak (in June), and I think that is the main reason the company needs to focus on winning back shareholders\", Kim Dae-jong, a professor of business administration at Sejong University, told AFP \" KEYWORDS Sk hynix Ai memory chips High-bandwidth memory Semiconductor industry Dram market Nand flash Nvidia supply chain RECOMMENDED New Zealand ex-PM Ardern to teach leadership in Sydney Brazilian lawmaker Andre Janones, Lula's social media 'general' $1m bounties, dawn arrests: Trump presses voter fraud campaign Japan sets 'second capital' criteria, 4 prefectures qualify Netanyahu, rivals trade attacks over Iran as clock counts down to Israel vote TRENDING Sign in or create an account to save this story to your Saved Stories. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "AI chip giant SK hynix says quarterly operating profit soars 630%",
+      "original_summary": "SEOUL - South Korean chip giant SK hynix said Wednesday its third-quarter operating profit soared 632 percent on-year, largely driven by the artificial intelligence industry's explosive demand for its advanced memory chips.",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'AI chip giant SK hynix says quarterly operating profit soars 630%'이다. SEOUL - South Korean chip giant SK hynix said Wednesday its third-quarter operating profit soared 632 percent on-year, largely driven by the artificial intelligence industry's explosive demand for its advanced memory chips. \"SK hynix analyzed that a virtuous cycle has taken hold in which AI-driven productivity gains and new revenue generation in areas such as software development, customer service, and search lead to greater AI adoption,\" the chipmaker said in a statement SK hynix is a specialist supplier of high-bandwidth memory chips to US industry behemoth Nvidia, and a pillar of South Korea's tech-led economy SK hynix announced an additional plan to return 60 trillion won to shareholders on Wednesday, following the completion of a 40 trillion-won shareholder return programme \"The company's stock has fallen nearly 60 percent from its peak (in June), and I think that is the main reason the company needs to focus on winning back shareholders\", Kim Dae-jong, a professor of business administration at Sejong University, told AFP \" KEYWORDS Sk hynix Ai memory chips High-bandwidth memory Semiconductor industry Dram market Nand flash Nvidia supply chain RECOMMENDED New Zealand ex-PM Ardern to teach leadership in Sydney Brazilian lawmaker Andre Janones, Lula's social media 'general' $1m bounties, dawn arrests: Trump presses voter fraud campaign Japan sets 'second capital' criteria, 4 prefectures qualify Netanyahu, rivals trade attacks over Iran as clock counts down to Israel vote TRENDING Sign in or create an account to save this story to your Saved Stories. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-28T00:45:00+00:00",
+      "source_id": "bangkok_post_world",
+      "source_name": "Bangkok Post World",
+      "country_code": "TH",
+      "country_name_ko": "태국",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-quarterly-profit-soars-sevenfold-to-63bn-on-strong-memory-demand",
+      "canonical_link": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-quarterly-profit-soars-sevenfold-to-63bn-on-strong-memory-demand",
+      "link": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-quarterly-profit-soars-sevenfold-to-63bn-on-strong-memory-demand",
+      "title": "SK Hynix quarterly profit soars sevenfold to $63bn on strong memory demand",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix quarterly profit soars sevenfold to $63bn on strong memory demand'이다. SEOUL -- SK Hynix's third-quarter operating profit soared more than sevenfold to 83. 3 trillion won ($62. 9 billion) from a year ago, driven by strong. Chipmaker's stellar performance comes as markets reflect AI spending concerns. Semiconductors SK Hynix quarterly profit soars sevenfold to $63bn on strong memory demand Chipmaker's stellar performance comes as markets reflect AI spending concerns Analysts say SK Hynix's quarterly earnings have not yet peaked and that their upward trajectory will likely continue at least through next year 3 trillion won ($62 9 billion) from a year ago, driven by strong demand for its advanced memory chips critical to artificial intelligence computing, as global hyperscalers increase investment in servers, data centers and other AI infrastructure. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "SK Hynix quarterly profit soars sevenfold to $63bn on strong memory demand",
+      "original_summary": "",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix quarterly profit soars sevenfold to $63bn on strong memory demand'이다. SEOUL -- SK Hynix's third-quarter operating profit soared more than sevenfold to 83. 3 trillion won ($62. 9 billion) from a year ago, driven by strong. Chipmaker's stellar performance comes as markets reflect AI spending concerns. Semiconductors SK Hynix quarterly profit soars sevenfold to $63bn on strong memory demand Chipmaker's stellar performance comes as markets reflect AI spending concerns Analysts say SK Hynix's quarterly earnings have not yet peaked and that their upward trajectory will likely continue at least through next year 3 trillion won ($62 9 billion) from a year ago, driven by strong demand for its advanced memory chips critical to artificial intelligence computing, as global hyperscalers increase investment in servers, data centers and other AI infrastructure. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-28T00:16:04+00:00",
+      "source_id": "nikkei_asia",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "country_name_ko": "일본",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://www.channelnewsasia.com/business/sk-hynix-unveils-75-billion-shareholder-return-plan-after-posting-record-profit-6498106",
+      "canonical_link": "https://www.channelnewsasia.com/business/sk-hynix-unveils-75-billion-shareholder-return-plan-after-posting-record-profit-6498106",
+      "link": "https://www.channelnewsasia.com/business/sk-hynix-unveils-75-billion-shareholder-return-plan-after-posting-record-profit-6498106",
+      "title": "SK Hynix unveils $75 billion shareholder return plan after posting record profit",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix unveils $75 billion shareholder return plan after posting record profit'이다. Channel NewsAsia is an English-language news organization based in Singapore. SEOUL, Oct 28 : South Korean chipmaker SK Hynix announced shareholder returns of about $75 billion on Wednesday, after reporting a more than seven-fold rise in quarterly profit as AI infrastructure continues to drive up memory chip prices. The Nvidia supplier also said it has sold out of DRAM and HBM chips. Click here to return to FAST Tap here to return to FAST FAST SEOUL, Oct 28 : South Korean chipmaker SK Hynix announced shareholder returns of about $75 billion on Wednesday, after reporting a more than seven-fold rise in quarterly profit as AI infrastructure continues to drive up memory chip prices CNA Games Guess Word Crack the word, one row at a time Buzzword Create words using the given letters Mini Sudoku Tiny puzzle, mighty brain teaser Mini Crossword Small grid, big challenge Word Search Spot as many words as you can Show More Show Less SK Hynix said its shareholder return policy for this year will comprise cash dividends of 30 trillion won ($22 To improve mid-to-long-term demand visibility, SK Hynix said it has signed long-term agreements (LTAs) with 14 major customers, while \"proactively discussing with a number of customers the possibility of extending the contract terms, which are typically five years \" \"The LTA volume secured to date corresponds to more than 50 per cent of total production capacity for 2027 and 2028,\" it said SK Hynix reported record operating profit of 83. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "SK Hynix unveils $75 billion shareholder return plan after posting record profit",
+      "original_summary": "",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix unveils $75 billion shareholder return plan after posting record profit'이다. Channel NewsAsia is an English-language news organization based in Singapore. SEOUL, Oct 28 : South Korean chipmaker SK Hynix announced shareholder returns of about $75 billion on Wednesday, after reporting a more than seven-fold rise in quarterly profit as AI infrastructure continues to drive up memory chip prices. The Nvidia supplier also said it has sold out of DRAM and HBM chips. Click here to return to FAST Tap here to return to FAST FAST SEOUL, Oct 28 : South Korean chipmaker SK Hynix announced shareholder returns of about $75 billion on Wednesday, after reporting a more than seven-fold rise in quarterly profit as AI infrastructure continues to drive up memory chip prices CNA Games Guess Word Crack the word, one row at a time Buzzword Create words using the given letters Mini Sudoku Tiny puzzle, mighty brain teaser Mini Crossword Small grid, big challenge Word Search Spot as many words as you can Show More Show Less SK Hynix said its shareholder return policy for this year will comprise cash dividends of 30 trillion won ($22 To improve mid-to-long-term demand visibility, SK Hynix said it has signed long-term agreements (LTAs) with 14 major customers, while \"proactively discussing with a number of customers the possibility of extending the contract terms, which are typically five years \" \"The LTA volume secured to date corresponds to more than 50 per cent of total production capacity for 2027 and 2028,\" it said SK Hynix reported record operating profit of 83. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-27T23:50:27+00:00",
+      "source_id": "cna_business",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "country_name_ko": "싱가포르",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
       ],
       "is_new": true
     }
   ],
   "matched_articles": [
     {
+      "article_key": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+      "canonical_link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+      "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+      "title": "SK Hynix shares soar over 8% as profit beats, chipmaker to return $25 billion to investors",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix shares soar over 8% as profit beats, chipmaker to return $25 billion to investors'이다. Shares of South Korean chipmaker SK Hynix soared over 8% on Wednesday as third-quarter profit sharply beats estimates. SK Hynix shares rose more than 8%, outperforming the Kospi's 6 In the earnings call, SK Hynix CEO Kwak Noh-Jung cited financial market volatility and a correction in semiconductor stocks as the main reasons to halt its review of potential pre-IPO fundraising and IPO options for its U Kwak Noh-Jung CEO, SK Hynix The company had said it would continue to assess investment timing, scale and financing options to support Solidigm's growth and enhance shareholder value SK Hynix will also buyback 20 trillion won in shares, half of which will be cancelled this year, after completing its previously announced 40 trillion won shares buyback last week — which will be cancelled shortly — as mentioned in the earnings call Memory production boost SK Hynix expects HBM4 to surpass HBM3E in both shipments and revenue in the fourth quarter, as it ramps up production at its M15X facility in Cheongju, South Korea. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "SK Hynix shares soar over 8% as profit beats, chipmaker to return $25 billion to investors",
+      "original_summary": "Shares of South Korean chipmaker SK Hynix soared over 8% on Wednesday as third-quarter profit sharply beats estimates.",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix shares soar over 8% as profit beats, chipmaker to return $25 billion to investors'이다. Shares of South Korean chipmaker SK Hynix soared over 8% on Wednesday as third-quarter profit sharply beats estimates. SK Hynix shares rose more than 8%, outperforming the Kospi's 6 In the earnings call, SK Hynix CEO Kwak Noh-Jung cited financial market volatility and a correction in semiconductor stocks as the main reasons to halt its review of potential pre-IPO fundraising and IPO options for its U Kwak Noh-Jung CEO, SK Hynix The company had said it would continue to assess investment timing, scale and financing options to support Solidigm's growth and enhance shareholder value SK Hynix will also buyback 20 trillion won in shares, half of which will be cancelled this year, after completing its previously announced 40 trillion won shares buyback last week — which will be cancelled shortly — as mentioned in the earnings call Memory production boost SK Hynix expects HBM4 to surpass HBM3E in both shipments and revenue in the fourth quarter, as it ramps up production at its M15X facility in Cheongju, South Korea. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-28T01:56:59+00:00",
+      "source_id": "cnbc_top_news",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "country_name_ko": "미국",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://www.ft.com/content/44c35ed7-aa46-4d45-91f5-2773f00ae6be",
+      "canonical_link": "https://www.ft.com/content/44c35ed7-aa46-4d45-91f5-2773f00ae6be",
+      "link": "https://www.ft.com/content/44c35ed7-aa46-4d45-91f5-2773f00ae6be",
+      "title": "SK Hynix profits soar amid roaring AI chip demand",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix profits soar amid roaring AI chip demand'이다. South Korean group posts better than expected operating profit for third quarter and announces stock buybacks. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다. 가능한 경우 본문에서 회사 언급 전후 문맥을 함께 반영했다.",
+      "original_title": "SK Hynix profits soar amid roaring AI chip demand",
+      "original_summary": "South Korean group posts better than expected operating profit for third quarter and announces stock buybacks",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix profits soar amid roaring AI chip demand'이다. South Korean group posts better than expected operating profit for third quarter and announces stock buybacks. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다. 가능한 경우 본문에서 회사 언급 전후 문맥을 함께 반영했다.",
+      "published_at": "2026-10-28T01:15:00+00:00",
+      "source_id": "ft_companies",
+      "source_name": "Financial Times Companies",
+      "country_code": "GB",
+      "country_name_ko": "영국",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://www.straitstimes.com/business/sk-hynix-unveils-shareholder-return-plan-worth-s96-billion-after-posting-7-fold-jump-in-q3-profit",
+      "canonical_link": "https://www.straitstimes.com/business/sk-hynix-unveils-shareholder-return-plan-worth-s96-billion-after-posting-7-fold-jump-in-q3-profit",
+      "link": "https://www.straitstimes.com/business/sk-hynix-unveils-shareholder-return-plan-worth-s96-billion-after-posting-7-fold-jump-in-q3-profit",
+      "title": "SK Hynix unveils shareholder return plan worth S$96 billion after posting 7-fold jump in Q3 profit",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix unveils shareholder return plan worth S$96 billion after posting 7-fold jump in Q3 profit'이다. Continued demand for AI infrastructure is driving up memory chip prices. SK Hynix said demand should stay above supply through 2030 and has signed long-term deals with 14 major customers, covering more than 50% of 2027 and 2028 output AI generated SEOUL – South Korean chipmaker SK Hynix reported a more than seven-fold rise in quarterly operating profit to a record high on Oct 28, beating market forecasts, as continued demand for AI infrastructure drove up memory chip prices SK Hynix also reiterated that it expects demand to continue to exceed supply through 2030 “The LTA volume secured to date corresponds to more than 50% of total production capacity for 2027 and 2028,” SK Hynix said SK Hynix reported operating profit of 83. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "SK Hynix unveils shareholder return plan worth S$96 billion after posting 7-fold jump in Q3 profit",
+      "original_summary": "Continued demand for AI infrastructure is driving up memory chip prices.",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix unveils shareholder return plan worth S$96 billion after posting 7-fold jump in Q3 profit'이다. Continued demand for AI infrastructure is driving up memory chip prices. SK Hynix said demand should stay above supply through 2030 and has signed long-term deals with 14 major customers, covering more than 50% of 2027 and 2028 output AI generated SEOUL – South Korean chipmaker SK Hynix reported a more than seven-fold rise in quarterly operating profit to a record high on Oct 28, beating market forecasts, as continued demand for AI infrastructure drove up memory chip prices SK Hynix also reiterated that it expects demand to continue to exceed supply through 2030 “The LTA volume secured to date corresponds to more than 50% of total production capacity for 2027 and 2028,” SK Hynix said SK Hynix reported operating profit of 83. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-28T00:45:00+00:00",
+      "source_id": "straits_times_business",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "country_name_ko": "싱가포르",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://www.bangkokpost.com/world/3345034/ai-chip-giant-sk-hynix-says-quarterly-operating-profit-soars-630",
+      "canonical_link": "https://www.bangkokpost.com/world/3345034/ai-chip-giant-sk-hynix-says-quarterly-operating-profit-soars-630",
+      "link": "https://www.bangkokpost.com/world/3345034/ai-chip-giant-sk-hynix-says-quarterly-operating-profit-soars-630",
+      "title": "AI chip giant SK hynix says quarterly operating profit soars 630%",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'AI chip giant SK hynix says quarterly operating profit soars 630%'이다. SEOUL - South Korean chip giant SK hynix said Wednesday its third-quarter operating profit soared 632 percent on-year, largely driven by the artificial intelligence industry's explosive demand for its advanced memory chips. \"SK hynix analyzed that a virtuous cycle has taken hold in which AI-driven productivity gains and new revenue generation in areas such as software development, customer service, and search lead to greater AI adoption,\" the chipmaker said in a statement SK hynix is a specialist supplier of high-bandwidth memory chips to US industry behemoth Nvidia, and a pillar of South Korea's tech-led economy SK hynix announced an additional plan to return 60 trillion won to shareholders on Wednesday, following the completion of a 40 trillion-won shareholder return programme \"The company's stock has fallen nearly 60 percent from its peak (in June), and I think that is the main reason the company needs to focus on winning back shareholders\", Kim Dae-jong, a professor of business administration at Sejong University, told AFP \" KEYWORDS Sk hynix Ai memory chips High-bandwidth memory Semiconductor industry Dram market Nand flash Nvidia supply chain RECOMMENDED New Zealand ex-PM Ardern to teach leadership in Sydney Brazilian lawmaker Andre Janones, Lula's social media 'general' $1m bounties, dawn arrests: Trump presses voter fraud campaign Japan sets 'second capital' criteria, 4 prefectures qualify Netanyahu, rivals trade attacks over Iran as clock counts down to Israel vote TRENDING Sign in or create an account to save this story to your Saved Stories. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "AI chip giant SK hynix says quarterly operating profit soars 630%",
+      "original_summary": "SEOUL - South Korean chip giant SK hynix said Wednesday its third-quarter operating profit soared 632 percent on-year, largely driven by the artificial intelligence industry's explosive demand for its advanced memory chips.",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'AI chip giant SK hynix says quarterly operating profit soars 630%'이다. SEOUL - South Korean chip giant SK hynix said Wednesday its third-quarter operating profit soared 632 percent on-year, largely driven by the artificial intelligence industry's explosive demand for its advanced memory chips. \"SK hynix analyzed that a virtuous cycle has taken hold in which AI-driven productivity gains and new revenue generation in areas such as software development, customer service, and search lead to greater AI adoption,\" the chipmaker said in a statement SK hynix is a specialist supplier of high-bandwidth memory chips to US industry behemoth Nvidia, and a pillar of South Korea's tech-led economy SK hynix announced an additional plan to return 60 trillion won to shareholders on Wednesday, following the completion of a 40 trillion-won shareholder return programme \"The company's stock has fallen nearly 60 percent from its peak (in June), and I think that is the main reason the company needs to focus on winning back shareholders\", Kim Dae-jong, a professor of business administration at Sejong University, told AFP \" KEYWORDS Sk hynix Ai memory chips High-bandwidth memory Semiconductor industry Dram market Nand flash Nvidia supply chain RECOMMENDED New Zealand ex-PM Ardern to teach leadership in Sydney Brazilian lawmaker Andre Janones, Lula's social media 'general' $1m bounties, dawn arrests: Trump presses voter fraud campaign Japan sets 'second capital' criteria, 4 prefectures qualify Netanyahu, rivals trade attacks over Iran as clock counts down to Israel vote TRENDING Sign in or create an account to save this story to your Saved Stories. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-28T00:45:00+00:00",
+      "source_id": "bangkok_post_world",
+      "source_name": "Bangkok Post World",
+      "country_code": "TH",
+      "country_name_ko": "태국",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-quarterly-profit-soars-sevenfold-to-63bn-on-strong-memory-demand",
+      "canonical_link": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-quarterly-profit-soars-sevenfold-to-63bn-on-strong-memory-demand",
+      "link": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-quarterly-profit-soars-sevenfold-to-63bn-on-strong-memory-demand",
+      "title": "SK Hynix quarterly profit soars sevenfold to $63bn on strong memory demand",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix quarterly profit soars sevenfold to $63bn on strong memory demand'이다. SEOUL -- SK Hynix's third-quarter operating profit soared more than sevenfold to 83. 3 trillion won ($62. 9 billion) from a year ago, driven by strong. Chipmaker's stellar performance comes as markets reflect AI spending concerns. Semiconductors SK Hynix quarterly profit soars sevenfold to $63bn on strong memory demand Chipmaker's stellar performance comes as markets reflect AI spending concerns Analysts say SK Hynix's quarterly earnings have not yet peaked and that their upward trajectory will likely continue at least through next year 3 trillion won ($62 9 billion) from a year ago, driven by strong demand for its advanced memory chips critical to artificial intelligence computing, as global hyperscalers increase investment in servers, data centers and other AI infrastructure. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "SK Hynix quarterly profit soars sevenfold to $63bn on strong memory demand",
+      "original_summary": "",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix quarterly profit soars sevenfold to $63bn on strong memory demand'이다. SEOUL -- SK Hynix's third-quarter operating profit soared more than sevenfold to 83. 3 trillion won ($62. 9 billion) from a year ago, driven by strong. Chipmaker's stellar performance comes as markets reflect AI spending concerns. Semiconductors SK Hynix quarterly profit soars sevenfold to $63bn on strong memory demand Chipmaker's stellar performance comes as markets reflect AI spending concerns Analysts say SK Hynix's quarterly earnings have not yet peaked and that their upward trajectory will likely continue at least through next year 3 trillion won ($62 9 billion) from a year ago, driven by strong demand for its advanced memory chips critical to artificial intelligence computing, as global hyperscalers increase investment in servers, data centers and other AI infrastructure. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-28T00:16:04+00:00",
+      "source_id": "nikkei_asia",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "country_name_ko": "일본",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://www.channelnewsasia.com/business/sk-hynix-unveils-75-billion-shareholder-return-plan-after-posting-record-profit-6498106",
+      "canonical_link": "https://www.channelnewsasia.com/business/sk-hynix-unveils-75-billion-shareholder-return-plan-after-posting-record-profit-6498106",
+      "link": "https://www.channelnewsasia.com/business/sk-hynix-unveils-75-billion-shareholder-return-plan-after-posting-record-profit-6498106",
+      "title": "SK Hynix unveils $75 billion shareholder return plan after posting record profit",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix unveils $75 billion shareholder return plan after posting record profit'이다. Channel NewsAsia is an English-language news organization based in Singapore. SEOUL, Oct 28 : South Korean chipmaker SK Hynix announced shareholder returns of about $75 billion on Wednesday, after reporting a more than seven-fold rise in quarterly profit as AI infrastructure continues to drive up memory chip prices. The Nvidia supplier also said it has sold out of DRAM and HBM chips. Click here to return to FAST Tap here to return to FAST FAST SEOUL, Oct 28 : South Korean chipmaker SK Hynix announced shareholder returns of about $75 billion on Wednesday, after reporting a more than seven-fold rise in quarterly profit as AI infrastructure continues to drive up memory chip prices CNA Games Guess Word Crack the word, one row at a time Buzzword Create words using the given letters Mini Sudoku Tiny puzzle, mighty brain teaser Mini Crossword Small grid, big challenge Word Search Spot as many words as you can Show More Show Less SK Hynix said its shareholder return policy for this year will comprise cash dividends of 30 trillion won ($22 To improve mid-to-long-term demand visibility, SK Hynix said it has signed long-term agreements (LTAs) with 14 major customers, while \"proactively discussing with a number of customers the possibility of extending the contract terms, which are typically five years \" \"The LTA volume secured to date corresponds to more than 50 per cent of total production capacity for 2027 and 2028,\" it said SK Hynix reported record operating profit of 83. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "SK Hynix unveils $75 billion shareholder return plan after posting record profit",
+      "original_summary": "",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix unveils $75 billion shareholder return plan after posting record profit'이다. Channel NewsAsia is an English-language news organization based in Singapore. SEOUL, Oct 28 : South Korean chipmaker SK Hynix announced shareholder returns of about $75 billion on Wednesday, after reporting a more than seven-fold rise in quarterly profit as AI infrastructure continues to drive up memory chip prices. The Nvidia supplier also said it has sold out of DRAM and HBM chips. Click here to return to FAST Tap here to return to FAST FAST SEOUL, Oct 28 : South Korean chipmaker SK Hynix announced shareholder returns of about $75 billion on Wednesday, after reporting a more than seven-fold rise in quarterly profit as AI infrastructure continues to drive up memory chip prices CNA Games Guess Word Crack the word, one row at a time Buzzword Create words using the given letters Mini Sudoku Tiny puzzle, mighty brain teaser Mini Crossword Small grid, big challenge Word Search Spot as many words as you can Show More Show Less SK Hynix said its shareholder return policy for this year will comprise cash dividends of 30 trillion won ($22 To improve mid-to-long-term demand visibility, SK Hynix said it has signed long-term agreements (LTAs) with 14 major customers, while \"proactively discussing with a number of customers the possibility of extending the contract terms, which are typically five years \" \"The LTA volume secured to date corresponds to more than 50 per cent of total production capacity for 2027 and 2028,\" it said SK Hynix reported record operating profit of 83. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-27T23:50:27+00:00",
+      "source_id": "cna_business",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "country_name_ko": "싱가포르",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": true
+    },
+    {
       "article_key": "https://economictimes.indiatimes.com/industry/auto/hyundai-bayon-arrives-in-india-price-engine-features-safety-tech-cabin-explained/videoshow/135236517.cms",
       "canonical_link": "https://economictimes.indiatimes.com/industry/auto/hyundai-bayon-arrives-in-india-price-engine-features-safety-tech-cabin-explained/videoshow/135236517.cms",
       "link": "https://economictimes.indiatimes.com/industry/auto/hyundai-bayon-arrives-in-india-price-engine-features-safety-tech-cabin-explained/videoshow/135236517.cms",
@@ -45,29 +298,6 @@
       "published_at": "2026-10-27T13:39:35+00:00",
       "source_id": "economic_times_industry",
       "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "country_name_ko": "인도",
-      "source_language": "en",
-      "matched_companies": [
-        "Hyundai Motor"
-      ],
-      "matched_aliases": [
-        "Hyundai"
-      ],
-      "is_new": true
-    },
-    {
-      "article_key": "https://www.thehindubusinessline.com/companies/hyundai-puts-bayon-to-task-for-meeting-cretas-target/article71627344.ece",
-      "canonical_link": "https://www.thehindubusinessline.com/companies/hyundai-puts-bayon-to-task-for-meeting-cretas-target/article71627344.ece",
-      "link": "https://www.thehindubusinessline.com/companies/hyundai-puts-bayon-to-task-for-meeting-cretas-target/article71627344.ece",
-      "title": "Hyundai puts Bayon to task, for meeting Creta’s target",
-      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai puts Bayon to task, for meeting Creta’s target'이다. According to a monthly report, HMIL dispatched (to dealers) 89,727 units of Creta in the domestic market during April-September this year as compared to 99,345 units in the same period last year. Hyundai puts Bayon to task, for meeting Creta’s target According to a monthly report, HMIL dispatched (to dealers) 89,727 units of Creta in the domestic market during April-September this year as compared to 99,345 units in the same period last year By S Ronendra Singh Updated - October 26, 2026 at 09:28 PM thehindubusinessline com/companies/hyundai-puts-bayon-to-task-for-meeting-cretas-target/article71627344 ece Hyundai Motor India (HMIL) , which saw sales of its best-selling model, the Creta, decline 10 per cent between April and September this year, is banking on its newly launched Bayon to revive growth, with the company targeting combined sales of 2 5 lakh units of the two models from early next year, a top official said on Monday. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Hyundai puts Bayon to task, for meeting Creta’s target",
-      "original_summary": "According to a monthly report, HMIL dispatched (to dealers) 89,727 units of Creta in the domestic market during April-September this year as compared to 99,345 units in the same period last year",
-      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai puts Bayon to task, for meeting Creta’s target'이다. According to a monthly report, HMIL dispatched (to dealers) 89,727 units of Creta in the domestic market during April-September this year as compared to 99,345 units in the same period last year. Hyundai puts Bayon to task, for meeting Creta’s target According to a monthly report, HMIL dispatched (to dealers) 89,727 units of Creta in the domestic market during April-September this year as compared to 99,345 units in the same period last year By S Ronendra Singh Updated - October 26, 2026 at 09:28 PM thehindubusinessline com/companies/hyundai-puts-bayon-to-task-for-meeting-cretas-target/article71627344 ece Hyundai Motor India (HMIL) , which saw sales of its best-selling model, the Creta, decline 10 per cent between April and September this year, is banking on its newly launched Bayon to revive growth, with the company targeting combined sales of 2 5 lakh units of the two models from early next year, a top official said on Monday. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-26T15:58:45+00:00",
-      "source_id": "businessline_companies",
-      "source_name": "BusinessLine Companies",
       "country_code": "IN",
       "country_name_ko": "인도",
       "source_language": "en",
@@ -95,7 +325,7 @@
       "source_name": "The New York Times Technology",
       "country_code": "US",
       "success": true,
-      "item_count": 32,
+      "item_count": 28,
       "matched_count": 0,
       "error": ""
     },
@@ -195,7 +425,7 @@
       "country_code": "JP",
       "success": true,
       "item_count": 50,
-      "matched_count": 0,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -293,7 +523,7 @@
       "source_name": "Deutsche Welle World",
       "country_code": "DE",
       "success": true,
-      "item_count": 11,
+      "item_count": 10,
       "matched_count": 0,
       "error": ""
     },
@@ -311,7 +541,7 @@
       "source_name": "tagesschau Wirtschaft",
       "country_code": "DE",
       "success": true,
-      "item_count": 33,
+      "item_count": 30,
       "matched_count": 0,
       "error": ""
     },
@@ -338,7 +568,7 @@
       "source_name": "BBC Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 48,
+      "item_count": 51,
       "matched_count": 0,
       "error": ""
     },
@@ -347,7 +577,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 24,
+      "item_count": 27,
       "matched_count": 0,
       "error": ""
     },
@@ -366,7 +596,7 @@
       "country_code": "GB",
       "success": true,
       "item_count": 25,
-      "matched_count": 0,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -474,7 +704,7 @@
       "country_code": "US",
       "success": true,
       "item_count": 30,
-      "matched_count": 0,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -483,7 +713,7 @@
       "country_code": "US",
       "success": true,
       "item_count": 30,
-      "matched_count": 0,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -492,7 +722,7 @@
       "country_code": "US",
       "success": true,
       "item_count": 30,
-      "matched_count": 0,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -591,7 +821,7 @@
       "country_code": "IN",
       "success": true,
       "item_count": 60,
-      "matched_count": 1,
+      "matched_count": 0,
       "error": ""
     },
     {
@@ -609,7 +839,7 @@
       "country_code": "SG",
       "success": true,
       "item_count": 20,
-      "matched_count": 0,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -617,7 +847,7 @@
       "source_name": "CNA Asia",
       "country_code": "SG",
       "success": true,
-      "item_count": 18,
+      "item_count": 20,
       "matched_count": 0,
       "error": ""
     },
@@ -635,8 +865,8 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 36,
-      "matched_count": 0,
+      "item_count": 37,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -680,7 +910,7 @@
       "source_name": "Taipei Times",
       "country_code": "TW",
       "success": true,
-      "item_count": 50,
+      "item_count": 52,
       "matched_count": 0,
       "error": ""
     },
@@ -717,7 +947,7 @@
       "country_code": "TH",
       "success": true,
       "item_count": 10,
-      "matched_count": 0,
+      "matched_count": 1,
       "error": ""
     },
     {
