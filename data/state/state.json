@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-28T02:22:13.832830+00:00",
+  "last_run_at": "2026-10-28T16:08:23.328339+00:00",
   "seen_articles": {
     "https://www.channelnewsasia.com/business/hyundai-motor-roll-out-in-house-driver-assist-system-in-2029-6380911": {
       "title": "Hyundai Motor to roll out in-house driver-assist system in 2029",
@@ -1222,15 +1222,15 @@
       "last_seen_at": "2026-10-28T02:22:13.832830+00:00"
     },
     "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html": {
-      "title": "SK Hynix shares soar over 8% as profit beats, chipmaker to return $25 billion to investors",
+      "title": "SK Hynix shares jump 11% after record quarterly profit, outperforming broader market",
       "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
-      "source_name": "CNBC Top News",
+      "source_name": "CNBC World News",
       "country_code": "US",
       "companies": [
         "SK hynix"
       ],
       "first_seen_at": "2026-10-28T02:22:13.832830+00:00",
-      "last_seen_at": "2026-10-28T02:22:13.832830+00:00"
+      "last_seen_at": "2026-10-28T16:08:23.328339+00:00"
     },
     "https://www.ft.com/content/44c35ed7-aa46-4d45-91f5-2773f00ae6be": {
       "title": "SK Hynix profits soar amid roaring AI chip demand",
@@ -1252,7 +1252,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-10-28T02:22:13.832830+00:00",
-      "last_seen_at": "2026-10-28T02:22:13.832830+00:00"
+      "last_seen_at": "2026-10-28T16:08:23.328339+00:00"
     },
     "https://www.bangkokpost.com/world/3345034/ai-chip-giant-sk-hynix-says-quarterly-operating-profit-soars-630": {
       "title": "AI chip giant SK hynix says quarterly operating profit soars 630%",
@@ -1274,7 +1274,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-10-28T02:22:13.832830+00:00",
-      "last_seen_at": "2026-10-28T02:22:13.832830+00:00"
+      "last_seen_at": "2026-10-28T16:08:23.328339+00:00"
     },
     "https://www.channelnewsasia.com/business/sk-hynix-unveils-75-billion-shareholder-return-plan-after-posting-record-profit-6498106": {
       "title": "SK Hynix unveils $75 billion shareholder return plan after posting record profit",
@@ -1286,6 +1286,84 @@
       ],
       "first_seen_at": "2026-10-28T02:22:13.832830+00:00",
       "last_seen_at": "2026-10-28T02:22:13.832830+00:00"
+    },
+    "https://www.marketwatch.com/story/microns-stock-rises-after-sk-hynix-earnings-heres-its-next-major-test-99853d0e?mod=mw_rss_topstories": {
+      "title": "Micron’s stock rises after SK Hynix earnings. Here’s its next major test.",
+      "link": "https://www.marketwatch.com/story/microns-stock-rises-after-sk-hynix-earnings-heres-its-next-major-test-99853d0e?mod=mw_rss_topstories",
+      "source_name": "MarketWatch Top Stories",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-10-28T16:08:23.328339+00:00",
+      "last_seen_at": "2026-10-28T16:08:23.328339+00:00"
+    },
+    "https://www.thehindubusinessline.com/markets/q2-results-today-live-updates-adani-enterprises-adani-ports-tvs-motor-hyundai-pidilite-cholamandalam-hero-motocorp-meesho-united-spirits-vedanta-jsw-energy-results-28-october-2026/article71630853.ece": {
+      "title": "Q2 Results Highlights Oct 28: Adani Ports, Bandhan Bank, TVS Motor, HUL, JSW Energy, PVR Inox, KPIT Tech, Arvind log gains, Adani Enterprises, Hyundai Q2 profit down, Vedanta Q2 loss at ₹170 cr",
+      "link": "https://www.thehindubusinessline.com/markets/q2-results-today-live-updates-adani-enterprises-adani-ports-tvs-motor-hyundai-pidilite-cholamandalam-hero-motocorp-meesho-united-spirits-vedanta-jsw-energy-results-28-october-2026/article71630853.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-10-28T16:08:23.328339+00:00",
+      "last_seen_at": "2026-10-28T16:08:23.328339+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/hyundai-motor-india-q2-fy27-profit-slumps-24-to-1196-cr-as-rising-costs-bite/article71635219.ece": {
+      "title": "Hyundai Motor India Q2 FY27 net profit declines by 24% y-o-y to ₹1,196.1 crore",
+      "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-q2-fy27-profit-slumps-24-to-1196-cr-as-rising-costs-bite/article71635219.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-10-28T16:08:23.328339+00:00",
+      "last_seen_at": "2026-10-28T16:08:23.328339+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/india-hd-hyundai-advance-plans-for-4-billion-shipyard-in-tamil-nadu/articleshow/135263307.cms": {
+      "title": "India, HD Hyundai advance plans for $4 billion shipyard in Tamil Nadu",
+      "link": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/india-hd-hyundai-advance-plans-for-4-billion-shipyard-in-tamil-nadu/articleshow/135263307.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor",
+        "HD Hyundai"
+      ],
+      "first_seen_at": "2026-10-28T16:08:23.328339+00:00",
+      "last_seen_at": "2026-10-28T16:08:23.328339+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-indias-q2-profit-falls-24-as-commodity-costs-blunt-tax-cut-boost-to-demand/articleshow/135260405.cms": {
+      "title": "Hyundai Motor India's Q2 profit falls 24% as commodity costs blunt tax-cut boost to demand",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-indias-q2-profit-falls-24-as-commodity-costs-blunt-tax-cut-boost-to-demand/articleshow/135260405.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-10-28T16:08:23.328339+00:00",
+      "last_seen_at": "2026-10-28T16:08:23.328339+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-chip-giant-sk-hynix-says-quarterly-operating-profit-soars-630/articleshow/135252393.cms": {
+      "title": "AI chip giant SK hynix says quarterly operating profit soars 630%",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-chip-giant-sk-hynix-says-quarterly-operating-profit-soars-630/articleshow/135252393.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-10-28T16:08:23.328339+00:00",
+      "last_seen_at": "2026-10-28T16:08:23.328339+00:00"
+    },
+    "https://www.bangkokpost.com/business/general/3345034/ai-chip-giant-sk-hynix-says-quarterly-operating-profit-soars-630": {
+      "title": "AI chip giant SK hynix says quarterly operating profit soars 630%",
+      "link": "https://www.bangkokpost.com/business/general/3345034/ai-chip-giant-sk-hynix-says-quarterly-operating-profit-soars-630",
+      "source_name": "Bangkok Post Business",
+      "country_code": "TH",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-10-28T16:08:23.328339+00:00",
+      "last_seen_at": "2026-10-28T16:08:23.328339+00:00"
     }
   }
 }
