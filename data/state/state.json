@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-29T02:29:27.554584+00:00",
+  "last_run_at": "2026-10-29T16:14:21.332671+00:00",
   "seen_articles": {
-    "https://japantoday.com/category/picture-of-the-day/archery-world-cup-tournament": {
-      "title": "Archery World Cup tournament",
-      "link": "https://japantoday.com/category/picture-of-the-day/archery-world-cup-tournament",
-      "source_name": "Japan Today",
-      "country_code": "JP",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-09-14T00:50:11.550807+00:00",
-      "last_seen_at": "2026-09-14T15:47:02.411262+00:00"
-    },
     "https://asia.nikkei.com/business/transportation/korean-air-launches-free-starlink-in-flight-wi-fi": {
       "title": "Korean Air launches free Starlink in-flight Wi-Fi",
       "link": "https://asia.nikkei.com/business/transportation/korean-air-launches-free-starlink-in-flight-wi-fi",
@@ -1219,7 +1208,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-10-28T02:22:13.832830+00:00",
-      "last_seen_at": "2026-10-29T02:29:27.554584+00:00"
+      "last_seen_at": "2026-10-29T16:14:21.332671+00:00"
     },
     "https://www.ft.com/content/44c35ed7-aa46-4d45-91f5-2773f00ae6be": {
       "title": "SK Hynix profits soar amid roaring AI chip demand",
@@ -1263,7 +1252,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-10-28T02:22:13.832830+00:00",
-      "last_seen_at": "2026-10-29T02:29:27.554584+00:00"
+      "last_seen_at": "2026-10-29T16:14:21.332671+00:00"
     },
     "https://www.channelnewsasia.com/business/sk-hynix-unveils-75-billion-shareholder-return-plan-after-posting-record-profit-6498106": {
       "title": "SK Hynix unveils $75 billion shareholder return plan after posting record profit",
@@ -1296,7 +1285,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-10-28T16:08:23.328339+00:00",
-      "last_seen_at": "2026-10-29T02:29:27.554584+00:00"
+      "last_seen_at": "2026-10-29T16:14:21.332671+00:00"
     },
     "https://www.thehindubusinessline.com/companies/hyundai-motor-india-q2-fy27-profit-slumps-24-to-1196-cr-as-rising-costs-bite/article71635219.ece": {
       "title": "Hyundai Motor India Q2 FY27 net profit declines by 24% y-o-y to ₹1,196.1 crore",
@@ -1307,7 +1296,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-10-28T16:08:23.328339+00:00",
-      "last_seen_at": "2026-10-29T02:29:27.554584+00:00"
+      "last_seen_at": "2026-10-29T16:14:21.332671+00:00"
     },
     "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/india-hd-hyundai-advance-plans-for-4-billion-shipyard-in-tamil-nadu/articleshow/135263307.cms": {
       "title": "India, HD Hyundai advance plans for $4 billion shipyard in Tamil Nadu",
@@ -1341,7 +1330,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-10-28T16:08:23.328339+00:00",
-      "last_seen_at": "2026-10-29T02:29:27.554584+00:00"
+      "last_seen_at": "2026-10-29T16:14:21.332671+00:00"
     },
     "https://www.bangkokpost.com/business/general/3345034/ai-chip-giant-sk-hynix-says-quarterly-operating-profit-soars-630": {
       "title": "AI chip giant SK hynix says quarterly operating profit soars 630%",
@@ -1357,13 +1346,13 @@
     "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html": {
       "title": "Samsung Electronics shares slid despite record profit in the third-quarter",
       "link": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
-      "source_name": "CNBC Top News",
+      "source_name": "CNBC World News",
       "country_code": "US",
       "companies": [
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-10-29T02:29:27.554584+00:00",
-      "last_seen_at": "2026-10-29T02:29:27.554584+00:00"
+      "last_seen_at": "2026-10-29T16:14:21.332671+00:00"
     },
     "https://www.scmp.com/week-asia/economics/article/3372439/south-koreas-chipmakers-are-raking-it-can-china-close-gap": {
       "title": "South Korea’s chipmakers are raking it in. Can China close the gap?",
@@ -1379,13 +1368,13 @@
     "https://www.cnbc.com/2026/10/28/cramer-sk-hynix-ai-chip-stocks.html": {
       "title": "Jim Cramer sees major implications from SK Hynix's home-run quarter",
       "link": "https://www.cnbc.com/2026/10/28/cramer-sk-hynix-ai-chip-stocks.html",
-      "source_name": "CNBC World News",
+      "source_name": "CNBC Top News",
       "country_code": "US",
       "companies": [
         "SK hynix"
       ],
       "first_seen_at": "2026-10-29T02:29:27.554584+00:00",
-      "last_seen_at": "2026-10-29T02:29:27.554584+00:00"
+      "last_seen_at": "2026-10-29T16:14:21.332671+00:00"
     },
     "https://asia.nikkei.com/business/business-deals/south-korea-s-mirae-asset-to-buy-prop-trading-unit-of-japan-s-okasan": {
       "title": "South Korea's Mirae Asset to buy prop trading unit of Japan's Okasan",
@@ -1396,7 +1385,29 @@
         "Mirae Asset"
       ],
       "first_seen_at": "2026-10-29T02:29:27.554584+00:00",
-      "last_seen_at": "2026-10-29T02:29:27.554584+00:00"
+      "last_seen_at": "2026-10-29T16:14:21.332671+00:00"
+    },
+    "https://abcnews.com/Business/wireStory/samsung-shattering-profit-records-ai-boom-lifts-chip-137662083": {
+      "title": "Samsung keeps shattering profit records as AI boom lifts chip demand",
+      "link": "https://abcnews.com/Business/wireStory/samsung-shattering-profit-records-ai-boom-lifts-chip-137662083",
+      "source_name": "ABC News Business",
+      "country_code": "US",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-10-29T16:14:21.332671+00:00",
+      "last_seen_at": "2026-10-29T16:14:21.332671+00:00"
+    },
+    "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372524/samsung-electronics-reportedly-ending-home-appliance-sales-hong-kong": {
+      "title": "Samsung Electronics reportedly ending home appliance sales in Hong Kong",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372524/samsung-electronics-reportedly-ending-home-appliance-sales-hong-kong",
+      "source_name": "South China Morning Post Business",
+      "country_code": "HK",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-10-29T16:14:21.332671+00:00",
+      "last_seen_at": "2026-10-29T16:14:21.332671+00:00"
     }
   }
 }
