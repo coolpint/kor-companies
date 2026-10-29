@@ -1,0 +1,1068 @@
+{
+  "run_at": "2026-10-29T02:29:27.554584+00:00",
+  "summary": {
+    "source_count": 73,
+    "success_count": 70,
+    "failed_count": 3,
+    "matched_count": 13,
+    "new_count": 4
+  },
+  "new_articles": [
+    {
+      "article_key": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+      "canonical_link": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+      "link": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+      "title": "Samsung Electronics shares slid despite record profit in the third-quarter",
+      "summary": "Samsung Electronics 관련 기사다. 기사 제목은 'Samsung Electronics shares slid despite record profit in the third-quarter'이다. Samsung Electronics reported third-quarter earnings on Thursday. Looking ahead, the company expects AI infrastructure investment to accelerate in 2027, with rising demand likely to further tighten memory supply Samsung also plans to increase sales of HBM, a type of high-performance memory used in AI chips, along with other memory products used in servers and data storage In the third quarter, Samsung Electronics and five of its affiliates had announced a combined $1 billion investment in KKR-backed Helix Digital Infrastructure Samsung Electronics will invest $500 million, with the remaining amount coming from its affiliates The tech giant had also announced a partnership with French AI startup Mistral AI to use AI technologies in its semiconductor operations, including chip design and manufacturing. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Samsung Electronics shares slid despite record profit in the third-quarter",
+      "original_summary": "Samsung Electronics reported third-quarter earnings on Thursday.",
+      "company_summary": "Samsung Electronics 관련 기사다. 기사 제목은 'Samsung Electronics shares slid despite record profit in the third-quarter'이다. Samsung Electronics reported third-quarter earnings on Thursday. Looking ahead, the company expects AI infrastructure investment to accelerate in 2027, with rising demand likely to further tighten memory supply Samsung also plans to increase sales of HBM, a type of high-performance memory used in AI chips, along with other memory products used in servers and data storage In the third quarter, Samsung Electronics and five of its affiliates had announced a combined $1 billion investment in KKR-backed Helix Digital Infrastructure Samsung Electronics will invest $500 million, with the remaining amount coming from its affiliates The tech giant had also announced a partnership with French AI startup Mistral AI to use AI technologies in its semiconductor operations, including chip design and manufacturing. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-29T02:06:04+00:00",
+      "source_id": "cnbc_top_news",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "country_name_ko": "미국",
+      "source_language": "en",
+      "matched_companies": [
+        "Samsung Electronics"
+      ],
+      "matched_aliases": [
+        "Samsung Electronics"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://www.scmp.com/week-asia/economics/article/3372439/south-koreas-chipmakers-are-raking-it-can-china-close-gap",
+      "canonical_link": "https://www.scmp.com/week-asia/economics/article/3372439/south-koreas-chipmakers-are-raking-it-can-china-close-gap",
+      "link": "https://www.scmp.com/week-asia/economics/article/3372439/south-koreas-chipmakers-are-raking-it-can-china-close-gap",
+      "title": "South Korea’s chipmakers are raking it in. Can China close the gap?",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'South Korea’s chipmakers are raking it in. Can China close the gap?'이다. South Korean memory chip giant SK Hynix kept almost 80 per cent of its total sales as operating profit last quarter, a margin almost unheard of in manufacturing, as the country’s chipmakers reap the rewards of the global artificial intelligence boom. Operating profit, defined as earnings from the company’s core business before interest and taxes, soared 632 per cent in the three months to September from a year earlier to 83. 33 trillion won (US$62. 76 billion) on revenue of 104. 62 trillion won, SK. .",
+      "original_title": "South Korea’s chipmakers are raking it in. Can China close the gap?",
+      "original_summary": "South Korean memory chip giant SK Hynix kept almost 80 per cent of its total sales as operating profit last quarter, a margin almost unheard of in manufacturing, as the country’s chipmakers reap the rewards of the global artificial intelligence boom. Operating profit, defined as earnings from the company’s core business before interest and taxes, soared 632 per cent in the three months to September from a year earlier to 83.33 trillion won (US$62.76 billion) on revenue of 104.62 trillion won, SK...",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'South Korea’s chipmakers are raking it in. Can China close the gap?'이다. South Korean memory chip giant SK Hynix kept almost 80 per cent of its total sales as operating profit last quarter, a margin almost unheard of in manufacturing, as the country’s chipmakers reap the rewards of the global artificial intelligence boom. Operating profit, defined as earnings from the company’s core business before interest and taxes, soared 632 per cent in the three months to September from a year earlier to 83. 33 trillion won (US$62. 76 billion) on revenue of 104. 62 trillion won, SK. .",
+      "published_at": "2026-10-29T00:00:20+00:00",
+      "source_id": "scmp_world",
+      "source_name": "South China Morning Post World",
+      "country_code": "HK",
+      "country_name_ko": "홍콩",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://www.cnbc.com/2026/10/28/cramer-sk-hynix-ai-chip-stocks.html",
+      "canonical_link": "https://www.cnbc.com/2026/10/28/cramer-sk-hynix-ai-chip-stocks.html",
+      "link": "https://www.cnbc.com/2026/10/28/cramer-sk-hynix-ai-chip-stocks.html",
+      "title": "Jim Cramer sees major implications from SK Hynix's home-run quarter",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'Jim Cramer sees major implications from SK Hynix's home-run quarter'이다. CNBC’s Jim Cramer said SK Hynix’s blockbuster earnings showed that AI stocks can still rally. Cramer pointed to low valuations, strong earnings, accelerating growth and sustained demand as key ingredients for a rally, adding that SK Hynix’s results could bode well for rival Micron In this article SKHY MU watch now VIDEO 2:46 02:46 Jim Cramer digs into SK Hynix Mad Money with Jim Cramer CNBC's Jim Cramer said Wednesday that SK Hynix's blockbuster earnings proved artificial intelligence stocks can still rally in a market that has grown increasingly skeptical of the massive data center build-out \"SK Hynix put on a clinic last night about how you can get your stock to move higher,\" the \" Mad Money \" host said Cramer identified several factors that helped SK Hynix overcome Wall Street's skepticism, starting with its low valuation And SK Hynix delivered. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Jim Cramer sees major implications from SK Hynix's home-run quarter",
+      "original_summary": "CNBC’s Jim Cramer said SK Hynix’s blockbuster earnings showed that AI stocks can still rally.",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'Jim Cramer sees major implications from SK Hynix's home-run quarter'이다. CNBC’s Jim Cramer said SK Hynix’s blockbuster earnings showed that AI stocks can still rally. Cramer pointed to low valuations, strong earnings, accelerating growth and sustained demand as key ingredients for a rally, adding that SK Hynix’s results could bode well for rival Micron In this article SKHY MU watch now VIDEO 2:46 02:46 Jim Cramer digs into SK Hynix Mad Money with Jim Cramer CNBC's Jim Cramer said Wednesday that SK Hynix's blockbuster earnings proved artificial intelligence stocks can still rally in a market that has grown increasingly skeptical of the massive data center build-out \"SK Hynix put on a clinic last night about how you can get your stock to move higher,\" the \" Mad Money \" host said Cramer identified several factors that helped SK Hynix overcome Wall Street's skepticism, starting with its low valuation And SK Hynix delivered. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-28T23:00:27+00:00",
+      "source_id": "cnbc_world",
+      "source_name": "CNBC World News",
+      "country_code": "US",
+      "country_name_ko": "미국",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://asia.nikkei.com/business/business-deals/south-korea-s-mirae-asset-to-buy-prop-trading-unit-of-japan-s-okasan",
+      "canonical_link": "https://asia.nikkei.com/business/business-deals/south-korea-s-mirae-asset-to-buy-prop-trading-unit-of-japan-s-okasan",
+      "link": "https://asia.nikkei.com/business/business-deals/south-korea-s-mirae-asset-to-buy-prop-trading-unit-of-japan-s-okasan",
+      "title": "South Korea's Mirae Asset to buy prop trading unit of Japan's Okasan",
+      "summary": "Mirae Asset 관련 기사다. 기사 제목은 'South Korea's Mirae Asset to buy prop trading unit of Japan's Okasan'이다. Deal worth up to $32m shows foreign brokerages following investment firms into country. TOKYO -- South Korea's Mirae Asset Securities will begin proprietary stock trading in Japan with the acquisition of a brokerage owned by Okasan Securi. (Mirae Asset Securities) YASUHA MINAMI October 29, 2026 02:01 JST TOKYO -- South Korea's Mirae Asset Securities will begin proprietary stock trading in Japan with the acquisition of a brokerage owned by Okasan Securities, Nikkei has learned, as foreign financial firms see opportunities in the country's stock market boom. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "South Korea's Mirae Asset to buy prop trading unit of Japan's Okasan",
+      "original_summary": "",
+      "company_summary": "Mirae Asset 관련 기사다. 기사 제목은 'South Korea's Mirae Asset to buy prop trading unit of Japan's Okasan'이다. Deal worth up to $32m shows foreign brokerages following investment firms into country. TOKYO -- South Korea's Mirae Asset Securities will begin proprietary stock trading in Japan with the acquisition of a brokerage owned by Okasan Securi. (Mirae Asset Securities) YASUHA MINAMI October 29, 2026 02:01 JST TOKYO -- South Korea's Mirae Asset Securities will begin proprietary stock trading in Japan with the acquisition of a brokerage owned by Okasan Securities, Nikkei has learned, as foreign financial firms see opportunities in the country's stock market boom. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-28T17:01:22+00:00",
+      "source_id": "nikkei_asia",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "country_name_ko": "일본",
+      "source_language": "en",
+      "matched_companies": [
+        "Mirae Asset"
+      ],
+      "matched_aliases": [
+        "Mirae Asset"
+      ],
+      "is_new": true
+    }
+  ],
+  "matched_articles": [
+    {
+      "article_key": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+      "canonical_link": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+      "link": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+      "title": "Samsung Electronics shares slid despite record profit in the third-quarter",
+      "summary": "Samsung Electronics 관련 기사다. 기사 제목은 'Samsung Electronics shares slid despite record profit in the third-quarter'이다. Samsung Electronics reported third-quarter earnings on Thursday. Looking ahead, the company expects AI infrastructure investment to accelerate in 2027, with rising demand likely to further tighten memory supply Samsung also plans to increase sales of HBM, a type of high-performance memory used in AI chips, along with other memory products used in servers and data storage In the third quarter, Samsung Electronics and five of its affiliates had announced a combined $1 billion investment in KKR-backed Helix Digital Infrastructure Samsung Electronics will invest $500 million, with the remaining amount coming from its affiliates The tech giant had also announced a partnership with French AI startup Mistral AI to use AI technologies in its semiconductor operations, including chip design and manufacturing. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Samsung Electronics shares slid despite record profit in the third-quarter",
+      "original_summary": "Samsung Electronics reported third-quarter earnings on Thursday.",
+      "company_summary": "Samsung Electronics 관련 기사다. 기사 제목은 'Samsung Electronics shares slid despite record profit in the third-quarter'이다. Samsung Electronics reported third-quarter earnings on Thursday. Looking ahead, the company expects AI infrastructure investment to accelerate in 2027, with rising demand likely to further tighten memory supply Samsung also plans to increase sales of HBM, a type of high-performance memory used in AI chips, along with other memory products used in servers and data storage In the third quarter, Samsung Electronics and five of its affiliates had announced a combined $1 billion investment in KKR-backed Helix Digital Infrastructure Samsung Electronics will invest $500 million, with the remaining amount coming from its affiliates The tech giant had also announced a partnership with French AI startup Mistral AI to use AI technologies in its semiconductor operations, including chip design and manufacturing. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-29T02:06:04+00:00",
+      "source_id": "cnbc_top_news",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "country_name_ko": "미국",
+      "source_language": "en",
+      "matched_companies": [
+        "Samsung Electronics"
+      ],
+      "matched_aliases": [
+        "Samsung Electronics"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://www.scmp.com/week-asia/economics/article/3372439/south-koreas-chipmakers-are-raking-it-can-china-close-gap",
+      "canonical_link": "https://www.scmp.com/week-asia/economics/article/3372439/south-koreas-chipmakers-are-raking-it-can-china-close-gap",
+      "link": "https://www.scmp.com/week-asia/economics/article/3372439/south-koreas-chipmakers-are-raking-it-can-china-close-gap",
+      "title": "South Korea’s chipmakers are raking it in. Can China close the gap?",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'South Korea’s chipmakers are raking it in. Can China close the gap?'이다. South Korean memory chip giant SK Hynix kept almost 80 per cent of its total sales as operating profit last quarter, a margin almost unheard of in manufacturing, as the country’s chipmakers reap the rewards of the global artificial intelligence boom. Operating profit, defined as earnings from the company’s core business before interest and taxes, soared 632 per cent in the three months to September from a year earlier to 83. 33 trillion won (US$62. 76 billion) on revenue of 104. 62 trillion won, SK. .",
+      "original_title": "South Korea’s chipmakers are raking it in. Can China close the gap?",
+      "original_summary": "South Korean memory chip giant SK Hynix kept almost 80 per cent of its total sales as operating profit last quarter, a margin almost unheard of in manufacturing, as the country’s chipmakers reap the rewards of the global artificial intelligence boom. Operating profit, defined as earnings from the company’s core business before interest and taxes, soared 632 per cent in the three months to September from a year earlier to 83.33 trillion won (US$62.76 billion) on revenue of 104.62 trillion won, SK...",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'South Korea’s chipmakers are raking it in. Can China close the gap?'이다. South Korean memory chip giant SK Hynix kept almost 80 per cent of its total sales as operating profit last quarter, a margin almost unheard of in manufacturing, as the country’s chipmakers reap the rewards of the global artificial intelligence boom. Operating profit, defined as earnings from the company’s core business before interest and taxes, soared 632 per cent in the three months to September from a year earlier to 83. 33 trillion won (US$62. 76 billion) on revenue of 104. 62 trillion won, SK. .",
+      "published_at": "2026-10-29T00:00:20+00:00",
+      "source_id": "scmp_world",
+      "source_name": "South China Morning Post World",
+      "country_code": "HK",
+      "country_name_ko": "홍콩",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://www.cnbc.com/2026/10/28/cramer-sk-hynix-ai-chip-stocks.html",
+      "canonical_link": "https://www.cnbc.com/2026/10/28/cramer-sk-hynix-ai-chip-stocks.html",
+      "link": "https://www.cnbc.com/2026/10/28/cramer-sk-hynix-ai-chip-stocks.html",
+      "title": "Jim Cramer sees major implications from SK Hynix's home-run quarter",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'Jim Cramer sees major implications from SK Hynix's home-run quarter'이다. CNBC’s Jim Cramer said SK Hynix’s blockbuster earnings showed that AI stocks can still rally. Cramer pointed to low valuations, strong earnings, accelerating growth and sustained demand as key ingredients for a rally, adding that SK Hynix’s results could bode well for rival Micron In this article SKHY MU watch now VIDEO 2:46 02:46 Jim Cramer digs into SK Hynix Mad Money with Jim Cramer CNBC's Jim Cramer said Wednesday that SK Hynix's blockbuster earnings proved artificial intelligence stocks can still rally in a market that has grown increasingly skeptical of the massive data center build-out \"SK Hynix put on a clinic last night about how you can get your stock to move higher,\" the \" Mad Money \" host said Cramer identified several factors that helped SK Hynix overcome Wall Street's skepticism, starting with its low valuation And SK Hynix delivered. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Jim Cramer sees major implications from SK Hynix's home-run quarter",
+      "original_summary": "CNBC’s Jim Cramer said SK Hynix’s blockbuster earnings showed that AI stocks can still rally.",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'Jim Cramer sees major implications from SK Hynix's home-run quarter'이다. CNBC’s Jim Cramer said SK Hynix’s blockbuster earnings showed that AI stocks can still rally. Cramer pointed to low valuations, strong earnings, accelerating growth and sustained demand as key ingredients for a rally, adding that SK Hynix’s results could bode well for rival Micron In this article SKHY MU watch now VIDEO 2:46 02:46 Jim Cramer digs into SK Hynix Mad Money with Jim Cramer CNBC's Jim Cramer said Wednesday that SK Hynix's blockbuster earnings proved artificial intelligence stocks can still rally in a market that has grown increasingly skeptical of the massive data center build-out \"SK Hynix put on a clinic last night about how you can get your stock to move higher,\" the \" Mad Money \" host said Cramer identified several factors that helped SK Hynix overcome Wall Street's skepticism, starting with its low valuation And SK Hynix delivered. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-28T23:00:27+00:00",
+      "source_id": "cnbc_world",
+      "source_name": "CNBC World News",
+      "country_code": "US",
+      "country_name_ko": "미국",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+      "canonical_link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+      "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+      "title": "SK Hynix shares jump 11% after record quarterly profit, outperforming broader market",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix shares jump 11% after record quarterly profit, outperforming broader market'이다. Shares of South Korean chipmaker SK Hynix soared 11% on Wednesday as third-quarter profit sharply beats estimates. In the earnings call, SK Hynix CEO Kwak Noh-Jung cited financial market volatility and a correction in semiconductor stocks as the main reasons to halt its review of potential pre-IPO fundraising and IPO options for its U SK Hynix will also buyback 20 trillion won in shares, half of which will be cancelled this year, after completing its previously announced 40 trillion won shares buyback last week — which will be cancelled shortly — as mentioned in the earnings call watch now VIDEO 1:12 01:12 SK Hynix shares jump over 4% after early losses as chipmaker scraps Solidigm IPO plans Squawk Box Mehdi Hosseini, senior equity research analyst at Susquehanna International Group, reiterated his neutral rating on SK Hynix following its third-quarter earnings, saying he preferred Micron and Samsung Electronics over the South Korean chipmaker Hosseini added that SK Hynix shares were undervalued and that he preferred its U Memory production boost SK Hynix expects HBM4 to surpass HBM3E in both shipments and revenue in the fourth quarter, as it ramps up production at its M15X facility in Cheongju, South Korea. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "SK Hynix shares jump 11% after record quarterly profit, outperforming broader market",
+      "original_summary": "Shares of South Korean chipmaker SK Hynix soared 11% on Wednesday as third-quarter profit sharply beats estimates.",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix shares jump 11% after record quarterly profit, outperforming broader market'이다. Shares of South Korean chipmaker SK Hynix soared 11% on Wednesday as third-quarter profit sharply beats estimates. In the earnings call, SK Hynix CEO Kwak Noh-Jung cited financial market volatility and a correction in semiconductor stocks as the main reasons to halt its review of potential pre-IPO fundraising and IPO options for its U SK Hynix will also buyback 20 trillion won in shares, half of which will be cancelled this year, after completing its previously announced 40 trillion won shares buyback last week — which will be cancelled shortly — as mentioned in the earnings call watch now VIDEO 1:12 01:12 SK Hynix shares jump over 4% after early losses as chipmaker scraps Solidigm IPO plans Squawk Box Mehdi Hosseini, senior equity research analyst at Susquehanna International Group, reiterated his neutral rating on SK Hynix following its third-quarter earnings, saying he preferred Micron and Samsung Electronics over the South Korean chipmaker Hosseini added that SK Hynix shares were undervalued and that he preferred its U Memory production boost SK Hynix expects HBM4 to surpass HBM3E in both shipments and revenue in the fourth quarter, as it ramps up production at its M15X facility in Cheongju, South Korea. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-28T20:04:42+00:00",
+      "source_id": "cnbc_technology",
+      "source_name": "CNBC Technology",
+      "country_code": "US",
+      "country_name_ko": "미국",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": false
+    },
+    {
+      "article_key": "https://asia.nikkei.com/business/business-deals/south-korea-s-mirae-asset-to-buy-prop-trading-unit-of-japan-s-okasan",
+      "canonical_link": "https://asia.nikkei.com/business/business-deals/south-korea-s-mirae-asset-to-buy-prop-trading-unit-of-japan-s-okasan",
+      "link": "https://asia.nikkei.com/business/business-deals/south-korea-s-mirae-asset-to-buy-prop-trading-unit-of-japan-s-okasan",
+      "title": "South Korea's Mirae Asset to buy prop trading unit of Japan's Okasan",
+      "summary": "Mirae Asset 관련 기사다. 기사 제목은 'South Korea's Mirae Asset to buy prop trading unit of Japan's Okasan'이다. Deal worth up to $32m shows foreign brokerages following investment firms into country. TOKYO -- South Korea's Mirae Asset Securities will begin proprietary stock trading in Japan with the acquisition of a brokerage owned by Okasan Securi. (Mirae Asset Securities) YASUHA MINAMI October 29, 2026 02:01 JST TOKYO -- South Korea's Mirae Asset Securities will begin proprietary stock trading in Japan with the acquisition of a brokerage owned by Okasan Securities, Nikkei has learned, as foreign financial firms see opportunities in the country's stock market boom. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "South Korea's Mirae Asset to buy prop trading unit of Japan's Okasan",
+      "original_summary": "",
+      "company_summary": "Mirae Asset 관련 기사다. 기사 제목은 'South Korea's Mirae Asset to buy prop trading unit of Japan's Okasan'이다. Deal worth up to $32m shows foreign brokerages following investment firms into country. TOKYO -- South Korea's Mirae Asset Securities will begin proprietary stock trading in Japan with the acquisition of a brokerage owned by Okasan Securi. (Mirae Asset Securities) YASUHA MINAMI October 29, 2026 02:01 JST TOKYO -- South Korea's Mirae Asset Securities will begin proprietary stock trading in Japan with the acquisition of a brokerage owned by Okasan Securities, Nikkei has learned, as foreign financial firms see opportunities in the country's stock market boom. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-28T17:01:22+00:00",
+      "source_id": "nikkei_asia",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "country_name_ko": "일본",
+      "source_language": "en",
+      "matched_companies": [
+        "Mirae Asset"
+      ],
+      "matched_aliases": [
+        "Mirae Asset"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-q2-fy27-profit-slumps-24-to-1196-cr-as-rising-costs-bite/article71635219.ece",
+      "canonical_link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-q2-fy27-profit-slumps-24-to-1196-cr-as-rising-costs-bite/article71635219.ece",
+      "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-q2-fy27-profit-slumps-24-to-1196-cr-as-rising-costs-bite/article71635219.ece",
+      "title": "Hyundai Motor India Q2 FY27 net profit declines by 24% y-o-y to ₹1,196.1 crore",
+      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Motor India Q2 FY27 net profit declines by 24% y-o-y to ₹1,196.1 crore'이다. Profit fall comes despite total ‌revenue from operations rising to ₹20,696 crore from ₹17,461 crore a year ago. Hyundai Motor India Q2 FY27 net profit declines by 24% y-o-y to ₹1,196 1 crore Profit fall comes despite total ‌revenue from operations rising to ₹20,696 crore from ₹17,461 crore a year ago By S Ronendra Singh Updated - October 28, 2026 at 10:04 PM thehindubusinessline com/companies/hyundai-motor-india-q2-fy27-profit-slumps-24-to-1196-cr-as-rising-costs-bite/article71635219 ece Expenses during the ⁠period rose 24% to ₹19,302 crore, led by the cost of materials ​consumed. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Hyundai Motor India Q2 FY27 net profit declines by 24% y-o-y to ₹1,196.1 crore",
+      "original_summary": "Profit fall comes despite total ‌revenue from operations rising to ₹20,696 crore from ₹17,461 crore a year ago",
+      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Motor India Q2 FY27 net profit declines by 24% y-o-y to ₹1,196.1 crore'이다. Profit fall comes despite total ‌revenue from operations rising to ₹20,696 crore from ₹17,461 crore a year ago. Hyundai Motor India Q2 FY27 net profit declines by 24% y-o-y to ₹1,196 1 crore Profit fall comes despite total ‌revenue from operations rising to ₹20,696 crore from ₹17,461 crore a year ago By S Ronendra Singh Updated - October 28, 2026 at 10:04 PM thehindubusinessline com/companies/hyundai-motor-india-q2-fy27-profit-slumps-24-to-1196-cr-as-rising-costs-bite/article71635219 ece Expenses during the ⁠period rose 24% to ₹19,302 crore, led by the cost of materials ​consumed. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-28T16:34:19+00:00",
+      "source_id": "businessline_companies",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "country_name_ko": "인도",
+      "source_language": "en",
+      "matched_companies": [
+        "Hyundai Motor"
+      ],
+      "matched_aliases": [
+        "Hyundai Motor",
+        "Hyundai"
+      ],
+      "is_new": false
+    },
+    {
+      "article_key": "https://www.thehindubusinessline.com/markets/q2-results-today-live-updates-adani-enterprises-adani-ports-tvs-motor-hyundai-pidilite-cholamandalam-hero-motocorp-meesho-united-spirits-vedanta-jsw-energy-results-28-october-2026/article71630853.ece",
+      "canonical_link": "https://www.thehindubusinessline.com/markets/q2-results-today-live-updates-adani-enterprises-adani-ports-tvs-motor-hyundai-pidilite-cholamandalam-hero-motocorp-meesho-united-spirits-vedanta-jsw-energy-results-28-october-2026/article71630853.ece",
+      "link": "https://www.thehindubusinessline.com/markets/q2-results-today-live-updates-adani-enterprises-adani-ports-tvs-motor-hyundai-pidilite-cholamandalam-hero-motocorp-meesho-united-spirits-vedanta-jsw-energy-results-28-october-2026/article71630853.ece",
+      "title": "Q2 Results Highlights Oct 28: Adani Ports, Bandhan Bank, TVS Motor, HUL, JSW Energy, PVR Inox, KPIT Tech, Arvind log gains, Adani Enterprises, Hyundai Q2 profit down, Vedanta Q2 loss at ₹170 cr",
+      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Q2 Results Highlights Oct 28: Adani Ports, Bandhan Bank, TVS Motor, HUL, JSW Energy, PVR Inox, KPIT Tech, Arvind log gains, Adani Enterprises, Hyundai Q2 profit down, Vedanta Q2 loss at ₹170 cr'이다. Q2 Results 28th October 2026 Highlights: businessline brings to you latest Q2 announcements, earnings updates and more. com/markets/q2-results-today-live-updates-adani-enterprises-adani-ports-tvs-motor-hyundai-pidilite-cholamandalam-hero-motocorp-meesho-united-spirits-vedanta-jsw-energy-results-28-october-2026/article71630853 97 cr in Q2FY27 TVS Motor Company: Q2 profit rose over 52% y-o-y Hyundai Motor: PAT declines 24% in Q2 to ₹1188 Three-wheelers sales for the quarter under review grew by 47% to 78,475 units in the secondquarter ended September 2026 as against 53,449 units in the quarter ended September2025 October 28, 2026 15:33 Quarterly results Hyundai Q2 results live: Hyundai Motor India Q2 FY27 profit slumps 24% to ₹1,196 cr as rising costs bite Hyundai India posts a 24% quarterly profit drop amid rising material costs, despite higher revenue and resilient demand October 28, 2026 15:32 Quarterly results KPIT Tech Q2 results live: KPIT Technologies net profit declines 28% to ₹120. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Q2 Results Highlights Oct 28: Adani Ports, Bandhan Bank, TVS Motor, HUL, JSW Energy, PVR Inox, KPIT Tech, Arvind log gains, Adani Enterprises, Hyundai Q2 profit down, Vedanta Q2 loss at ₹170 cr",
+      "original_summary": "Q2 Results 28th October 2026 Highlights: businessline brings to you latest Q2 announcements, earnings updates and more.",
+      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Q2 Results Highlights Oct 28: Adani Ports, Bandhan Bank, TVS Motor, HUL, JSW Energy, PVR Inox, KPIT Tech, Arvind log gains, Adani Enterprises, Hyundai Q2 profit down, Vedanta Q2 loss at ₹170 cr'이다. Q2 Results 28th October 2026 Highlights: businessline brings to you latest Q2 announcements, earnings updates and more. com/markets/q2-results-today-live-updates-adani-enterprises-adani-ports-tvs-motor-hyundai-pidilite-cholamandalam-hero-motocorp-meesho-united-spirits-vedanta-jsw-energy-results-28-october-2026/article71630853 97 cr in Q2FY27 TVS Motor Company: Q2 profit rose over 52% y-o-y Hyundai Motor: PAT declines 24% in Q2 to ₹1188 Three-wheelers sales for the quarter under review grew by 47% to 78,475 units in the secondquarter ended September 2026 as against 53,449 units in the quarter ended September2025 October 28, 2026 15:33 Quarterly results Hyundai Q2 results live: Hyundai Motor India Q2 FY27 profit slumps 24% to ₹1,196 cr as rising costs bite Hyundai India posts a 24% quarterly profit drop amid rising material costs, despite higher revenue and resilient demand October 28, 2026 15:32 Quarterly results KPIT Tech Q2 results live: KPIT Technologies net profit declines 28% to ₹120. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-28T15:31:30+00:00",
+      "source_id": "businessline_companies",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "country_name_ko": "인도",
+      "source_language": "en",
+      "matched_companies": [
+        "Hyundai Motor"
+      ],
+      "matched_aliases": [
+        "Hyundai"
+      ],
+      "is_new": false
+    },
+    {
+      "article_key": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/india-hd-hyundai-advance-plans-for-4-billion-shipyard-in-tamil-nadu/articleshow/135263307.cms",
+      "canonical_link": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/india-hd-hyundai-advance-plans-for-4-billion-shipyard-in-tamil-nadu/articleshow/135263307.cms",
+      "link": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/india-hd-hyundai-advance-plans-for-4-billion-shipyard-in-tamil-nadu/articleshow/135263307.cms",
+      "title": "India, HD Hyundai advance plans for $4 billion shipyard in Tamil Nadu",
+      "summary": "Hyundai Motor, HD Hyundai 관련 기사다. 기사 제목은 'India, HD Hyundai advance plans for $4 billion shipyard in Tamil Nadu'이다. Union Minister Sarbananda Sonowal engaged with HD Hyundai's Chairman in Seoul to discuss a significant shipyard project. The proposed USD 4 billion greenfield shipyard will be located in Thoothukudi, Tamil Nadu. A joint working group is tasked with overseeing the project development and establishing a joint venture structure. Once operational, the shipyard aims to enhance India's competitiveness in global maritime markets. Once operational, the shipyard aims to enhance India's competitiveness in global maritime markets The meeting took place during Sonowal's four-day visit to South Korea, which is focused on deepening cooperation in shipbuilding and the wider maritime industry HD Korea Shipbuilding & Offshore Engineering (HD KSOE), HD Hyundai's shipbuilding arm, reiterated its intent to participate as a primary strategic investor, and the project partners expressed their shared intent to take the shipyard forward, the release said \"A joint working group (JWG) will now oversee project development, the two sides will work towards agreeing a joint venture structure, and the detailed project report (DPR) is expected to be finalised within six months,\" it added Speaking at the meeting, Sonowal said, \"We have a clear mandate to scale up our work together. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "India, HD Hyundai advance plans for $4 billion shipyard in Tamil Nadu",
+      "original_summary": "Union Minister Sarbananda Sonowal engaged with HD Hyundai's Chairman in Seoul to discuss a significant shipyard project. The proposed USD 4 billion greenfield shipyard will be located in Thoothukudi, Tamil Nadu. A joint working group is tasked with overseeing the project development and establishing a joint venture structure. Once operational, the shipyard aims to enhance India's competitiveness in global maritime markets.",
+      "company_summary": "Hyundai Motor, HD Hyundai 관련 기사다. 기사 제목은 'India, HD Hyundai advance plans for $4 billion shipyard in Tamil Nadu'이다. Union Minister Sarbananda Sonowal engaged with HD Hyundai's Chairman in Seoul to discuss a significant shipyard project. The proposed USD 4 billion greenfield shipyard will be located in Thoothukudi, Tamil Nadu. A joint working group is tasked with overseeing the project development and establishing a joint venture structure. Once operational, the shipyard aims to enhance India's competitiveness in global maritime markets. Once operational, the shipyard aims to enhance India's competitiveness in global maritime markets The meeting took place during Sonowal's four-day visit to South Korea, which is focused on deepening cooperation in shipbuilding and the wider maritime industry HD Korea Shipbuilding & Offshore Engineering (HD KSOE), HD Hyundai's shipbuilding arm, reiterated its intent to participate as a primary strategic investor, and the project partners expressed their shared intent to take the shipyard forward, the release said \"A joint working group (JWG) will now oversee project development, the two sides will work towards agreeing a joint venture structure, and the detailed project report (DPR) is expected to be finalised within six months,\" it added Speaking at the meeting, Sonowal said, \"We have a clear mandate to scale up our work together. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-28T11:20:32+00:00",
+      "source_id": "economic_times_industry",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "country_name_ko": "인도",
+      "source_language": "en",
+      "matched_companies": [
+        "Hyundai Motor",
+        "HD Hyundai"
+      ],
+      "matched_aliases": [
+        "Hyundai",
+        "HD Hyundai"
+      ],
+      "is_new": false
+    },
+    {
+      "article_key": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-indias-q2-profit-falls-24-as-commodity-costs-blunt-tax-cut-boost-to-demand/articleshow/135260405.cms",
+      "canonical_link": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-indias-q2-profit-falls-24-as-commodity-costs-blunt-tax-cut-boost-to-demand/articleshow/135260405.cms",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-indias-q2-profit-falls-24-as-commodity-costs-blunt-tax-cut-boost-to-demand/articleshow/135260405.cms",
+      "title": "Hyundai Motor India's Q2 profit falls 24% as commodity costs blunt tax-cut boost to demand",
+      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Motor India's Q2 profit falls 24% as commodity costs blunt tax-cut boost to demand'이다. Hyundai Motor India reported a profit drop of 24% in the second quarter due to increased raw material costs. Rising commodity prices for materials like copper and steel squeezed profitability despite strong vehicle demand. The company's profit after tax for the quarter was Rs 1,196 crore, down from Rs 1,572 crore the previous year. Total revenue increased significantly to Rs 20,696 crore, marking a record quarter. Hyundai Motor India ’s profit fell about 24% in the second quarter as rising raw material prices weighed on earnings, highlighting how GST cuts that have helped keep vehicle demand resilient are yet to shield automakers from mounting commodity pressures Also Read: Hyundai Motor India to hike production capacity to 1 Hyundai said operating leverage, a healthy product mix and cost-cutting moves have helped improve its EBITDA margin sequentially, offering some relief against the commodity headwinds Also Read: Hyundai reveals ambitious plan at new Bayon launch; Creta to be part of big push as well Hyundai India's operations for the second half depends on its new product launches and sustained demand, though it will face a tougher year-on-year comparison as tax cuts had boosted vehicle sales last year Hyundai's results follow those of market leader Maruti Suzuki , which reported a smaller-than-expected quarterly profit on Tuesday, also underscoring the pressure on automakers from rising costs. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Hyundai Motor India's Q2 profit falls 24% as commodity costs blunt tax-cut boost to demand",
+      "original_summary": "Hyundai Motor India reported a profit drop of 24% in the second quarter due to increased raw material costs. Rising commodity prices for materials like copper and steel squeezed profitability despite strong vehicle demand. The company's profit after tax for the quarter was Rs 1,196 crore, down from Rs 1,572 crore the previous year. Total revenue increased significantly to Rs 20,696 crore, marking a record quarter.",
+      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Motor India's Q2 profit falls 24% as commodity costs blunt tax-cut boost to demand'이다. Hyundai Motor India reported a profit drop of 24% in the second quarter due to increased raw material costs. Rising commodity prices for materials like copper and steel squeezed profitability despite strong vehicle demand. The company's profit after tax for the quarter was Rs 1,196 crore, down from Rs 1,572 crore the previous year. Total revenue increased significantly to Rs 20,696 crore, marking a record quarter. Hyundai Motor India ’s profit fell about 24% in the second quarter as rising raw material prices weighed on earnings, highlighting how GST cuts that have helped keep vehicle demand resilient are yet to shield automakers from mounting commodity pressures Also Read: Hyundai Motor India to hike production capacity to 1 Hyundai said operating leverage, a healthy product mix and cost-cutting moves have helped improve its EBITDA margin sequentially, offering some relief against the commodity headwinds Also Read: Hyundai reveals ambitious plan at new Bayon launch; Creta to be part of big push as well Hyundai India's operations for the second half depends on its new product launches and sustained demand, though it will face a tougher year-on-year comparison as tax cuts had boosted vehicle sales last year Hyundai's results follow those of market leader Maruti Suzuki , which reported a smaller-than-expected quarterly profit on Tuesday, also underscoring the pressure on automakers from rising costs. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-28T09:59:23+00:00",
+      "source_id": "economic_times_industry",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "country_name_ko": "인도",
+      "source_language": "en",
+      "matched_companies": [
+        "Hyundai Motor"
+      ],
+      "matched_aliases": [
+        "Hyundai Motor",
+        "Hyundai"
+      ],
+      "is_new": false
+    },
+    {
+      "article_key": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-chip-giant-sk-hynix-says-quarterly-operating-profit-soars-630/articleshow/135252393.cms",
+      "canonical_link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-chip-giant-sk-hynix-says-quarterly-operating-profit-soars-630/articleshow/135252393.cms",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-chip-giant-sk-hynix-says-quarterly-operating-profit-soars-630/articleshow/135252393.cms",
+      "title": "AI chip giant SK hynix says quarterly operating profit soars 630%",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'AI chip giant SK hynix says quarterly operating profit soars 630%'이다. South Korean chip giant SK hynix said Wednesday its third-quarter operating profit soared 632 percent on-year, largely driven by the artificial intelligence industry's explosive demand for its advanced memory chips. The memory chip giant said it had posted record revenue and operating profit for six straight quarters since the second quarter of last year. Listen to this article in summarized format Agencies Image: SK Hynix South Korean chip giant SK hynix said Wednesday its third-quarter operating profit soared 632 percent on-year, largely driven by the artificial intelligence industry's explosive demand for its advanced memory chips \"SK hynix analyzed that a virtuous cycle has taken hold in which AI-driven productivity gains and new revenue generation in areas such as software development, customer service, and search lead to greater AI adoption,\" the chipmaker said in a statement SK hynix is a specialist supplier of high-bandwidth memory chips to US industry behemoth Nvidia , and a pillar of South Korea's tech-led economy SK hynix announced an additional plan to return 60 trillion won to shareholders on Wednesday, following the completion of a 40 trillion-won shareholder return programme \"The company's stock has fallen nearly 60 percent from its peak (in June), and I think that is the main reason the company needs to focus on winning back shareholders\", Kim Dae-jong, a professor of business administration at Sejong University, told AFP. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "AI chip giant SK hynix says quarterly operating profit soars 630%",
+      "original_summary": "South Korean chip giant SK hynix said Wednesday its third-quarter operating profit soared 632 percent on-year, largely driven by the artificial intelligence industry's explosive demand for its advanced memory chips. The memory chip giant said it had posted record revenue and operating profit for six straight quarters since the second quarter of last year.",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'AI chip giant SK hynix says quarterly operating profit soars 630%'이다. South Korean chip giant SK hynix said Wednesday its third-quarter operating profit soared 632 percent on-year, largely driven by the artificial intelligence industry's explosive demand for its advanced memory chips. The memory chip giant said it had posted record revenue and operating profit for six straight quarters since the second quarter of last year. Listen to this article in summarized format Agencies Image: SK Hynix South Korean chip giant SK hynix said Wednesday its third-quarter operating profit soared 632 percent on-year, largely driven by the artificial intelligence industry's explosive demand for its advanced memory chips \"SK hynix analyzed that a virtuous cycle has taken hold in which AI-driven productivity gains and new revenue generation in areas such as software development, customer service, and search lead to greater AI adoption,\" the chipmaker said in a statement SK hynix is a specialist supplier of high-bandwidth memory chips to US industry behemoth Nvidia , and a pillar of South Korea's tech-led economy SK hynix announced an additional plan to return 60 trillion won to shareholders on Wednesday, following the completion of a 40 trillion-won shareholder return programme \"The company's stock has fallen nearly 60 percent from its peak (in June), and I think that is the main reason the company needs to focus on winning back shareholders\", Kim Dae-jong, a professor of business administration at Sejong University, told AFP. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-28T04:45:52+00:00",
+      "source_id": "economic_times_tech",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "country_name_ko": "인도",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": false
+    },
+    {
+      "article_key": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-quarterly-profit-soars-sevenfold-to-63bn-on-strong-memory-demand",
+      "canonical_link": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-quarterly-profit-soars-sevenfold-to-63bn-on-strong-memory-demand",
+      "link": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-quarterly-profit-soars-sevenfold-to-63bn-on-strong-memory-demand",
+      "title": "SK Hynix quarterly profit soars sevenfold to $63bn on strong memory demand",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix quarterly profit soars sevenfold to $63bn on strong memory demand'이다. SEOUL -- SK Hynix's third-quarter operating profit soared more than sevenfold to 83. 3 trillion won ($62. 9 billion) from a year ago, driven by strong. South Korean chipmaker says products are sold out till end of decade. Semiconductors SK Hynix quarterly profit soars sevenfold to $63bn on strong memory demand South Korean chipmaker says products are sold out till end of decade Analysts say SK Hynix's quarterly earnings have not yet peaked and that their upward trajectory will likely continue at least through next year 3 trillion won ($62 9 billion) from a year ago, driven by strong demand for its advanced memory chips critical to artificial intelligence computing, as global hyperscalers increase investment in servers, data centers and other AI infrastructure. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "SK Hynix quarterly profit soars sevenfold to $63bn on strong memory demand",
+      "original_summary": "",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix quarterly profit soars sevenfold to $63bn on strong memory demand'이다. SEOUL -- SK Hynix's third-quarter operating profit soared more than sevenfold to 83. 3 trillion won ($62. 9 billion) from a year ago, driven by strong. South Korean chipmaker says products are sold out till end of decade. Semiconductors SK Hynix quarterly profit soars sevenfold to $63bn on strong memory demand South Korean chipmaker says products are sold out till end of decade Analysts say SK Hynix's quarterly earnings have not yet peaked and that their upward trajectory will likely continue at least through next year 3 trillion won ($62 9 billion) from a year ago, driven by strong demand for its advanced memory chips critical to artificial intelligence computing, as global hyperscalers increase investment in servers, data centers and other AI infrastructure. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-28T03:49:03+00:00",
+      "source_id": "nikkei_asia",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "country_name_ko": "일본",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": false
+    },
+    {
+      "article_key": "https://www.straitstimes.com/business/sk-hynix-unveils-shareholder-return-plan-worth-s96-billion-after-posting-7-fold-jump-in-q3-profit",
+      "canonical_link": "https://www.straitstimes.com/business/sk-hynix-unveils-shareholder-return-plan-worth-s96-billion-after-posting-7-fold-jump-in-q3-profit",
+      "link": "https://www.straitstimes.com/business/sk-hynix-unveils-shareholder-return-plan-worth-s96-billion-after-posting-7-fold-jump-in-q3-profit",
+      "title": "SK Hynix unveils shareholder return plan worth S$96 billion after posting 7-fold jump in Q3 profit",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix unveils shareholder return plan worth S$96 billion after posting 7-fold jump in Q3 profit'이다. Continued demand for AI infrastructure is driving up memory chip prices. PHOTO: REUTERS Published Oct 28, 2026, 08:45 AM Updated Oct 28, 2026, 12:37 PM SK Hynix reported a record quarterly operating profit of 83 SK Hynix said demand should stay above supply through 2030 and has signed long-term deals with 14 major customers, covering more than 50% of 2027 and 2028 output To meet demand, SK Hynix said it will increase capital expenditure significantly in 2027 from 2026 , to invest in equipment for advanced chipmaking processes as well as infrastructure in South Korea and overseas Record quarterly profit SK Hynix reported operating profit of 83 SK Hynix’s message about sustained medium- to long-term memory demand was clear and has likely reassured investors, he said. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "SK Hynix unveils shareholder return plan worth S$96 billion after posting 7-fold jump in Q3 profit",
+      "original_summary": "Continued demand for AI infrastructure is driving up memory chip prices.",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix unveils shareholder return plan worth S$96 billion after posting 7-fold jump in Q3 profit'이다. Continued demand for AI infrastructure is driving up memory chip prices. PHOTO: REUTERS Published Oct 28, 2026, 08:45 AM Updated Oct 28, 2026, 12:37 PM SK Hynix reported a record quarterly operating profit of 83 SK Hynix said demand should stay above supply through 2030 and has signed long-term deals with 14 major customers, covering more than 50% of 2027 and 2028 output To meet demand, SK Hynix said it will increase capital expenditure significantly in 2027 from 2026 , to invest in equipment for advanced chipmaking processes as well as infrastructure in South Korea and overseas Record quarterly profit SK Hynix reported operating profit of 83 SK Hynix’s message about sustained medium- to long-term memory demand was clear and has likely reassured investors, he said. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-28T00:45:00+00:00",
+      "source_id": "straits_times_business",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "country_name_ko": "싱가포르",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": false
+    },
+    {
+      "article_key": "https://www.bangkokpost.com/business/general/3345034/ai-chip-giant-sk-hynix-says-quarterly-operating-profit-soars-630",
+      "canonical_link": "https://www.bangkokpost.com/business/general/3345034/ai-chip-giant-sk-hynix-says-quarterly-operating-profit-soars-630",
+      "link": "https://www.bangkokpost.com/business/general/3345034/ai-chip-giant-sk-hynix-says-quarterly-operating-profit-soars-630",
+      "title": "AI chip giant SK hynix says quarterly operating profit soars 630%",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'AI chip giant SK hynix says quarterly operating profit soars 630%'이다. SEOUL — South Korean chip giant SK hynix said Wednesday its third-quarter operating profit soared 632% on-year, largely driven by the artificial intelligence (AI) industry's explosive demand for its advanced memory chips. (Photo: AFP) SEOUL — South Korean chip giant SK hynix said Wednesday its third-quarter operating profit soared 632% on-year, largely driven by the artificial intelligence (AI) industry's explosive demand for its advanced memory chips \"SK hynix analysed that a virtuous cycle has taken hold in which AI-driven productivity gains and new revenue generation in areas such as software development, customer service and search lead to greater AI adoption,\" the chipmaker said in a statement SK hynix is a specialist supplier of high-bandwidth memory chips to US industry behemoth Nvidia, and a pillar of South Korea's tech-led economy SK hynix announced an additional plan to return 60 trillion won to shareholders on Wednesday, following the completion of a 40 trillion-won shareholder return programme \" KEYWORDS Sk hynix Ai memory chips High-bandwidth memory Semiconductor industry Dram market Nand flash Nvidia supply chain RECOMMENDED Government, China embassy to clarify travel warning Made a mistake? 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "AI chip giant SK hynix says quarterly operating profit soars 630%",
+      "original_summary": "SEOUL — South Korean chip giant SK hynix said Wednesday its third-quarter operating profit soared 632% on-year, largely driven by the artificial intelligence (AI) industry's explosive demand for its advanced memory chips.",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'AI chip giant SK hynix says quarterly operating profit soars 630%'이다. SEOUL — South Korean chip giant SK hynix said Wednesday its third-quarter operating profit soared 632% on-year, largely driven by the artificial intelligence (AI) industry's explosive demand for its advanced memory chips. (Photo: AFP) SEOUL — South Korean chip giant SK hynix said Wednesday its third-quarter operating profit soared 632% on-year, largely driven by the artificial intelligence (AI) industry's explosive demand for its advanced memory chips \"SK hynix analysed that a virtuous cycle has taken hold in which AI-driven productivity gains and new revenue generation in areas such as software development, customer service and search lead to greater AI adoption,\" the chipmaker said in a statement SK hynix is a specialist supplier of high-bandwidth memory chips to US industry behemoth Nvidia, and a pillar of South Korea's tech-led economy SK hynix announced an additional plan to return 60 trillion won to shareholders on Wednesday, following the completion of a 40 trillion-won shareholder return programme \" KEYWORDS Sk hynix Ai memory chips High-bandwidth memory Semiconductor industry Dram market Nand flash Nvidia supply chain RECOMMENDED Government, China embassy to clarify travel warning Made a mistake? 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-10-28T00:45:00+00:00",
+      "source_id": "bangkok_post_business",
+      "source_name": "Bangkok Post Business",
+      "country_code": "TH",
+      "country_name_ko": "태국",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": false
+    }
+  ],
+  "source_runs": [
+    {
+      "source_id": "nyt_business",
+      "source_name": "The New York Times Business",
+      "country_code": "US",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "nyt_technology",
+      "source_name": "The New York Times Technology",
+      "country_code": "US",
+      "success": true,
+      "item_count": 24,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "marketwatch_topstories",
+      "source_name": "MarketWatch Top Stories",
+      "country_code": "US",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "npr_business",
+      "source_name": "NPR Business",
+      "country_code": "US",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "foxbusiness_markets",
+      "source_name": "Fox Business Markets",
+      "country_code": "US",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "foxbusiness_technology",
+      "source_name": "Fox Business Technology",
+      "country_code": "US",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "us_doj_press_releases",
+      "source_name": "U.S. DOJ Press Releases",
+      "country_code": "US",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "sec_press_releases",
+      "source_name": "U.S. SEC Press Releases",
+      "country_code": "US",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "country_code": "US",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "chinadaily_bizchina",
+      "source_name": "China Daily BizChina",
+      "country_code": "CN",
+      "success": false,
+      "item_count": 0,
+      "matched_count": 0,
+      "error": "HTTP 404 for https://www.chinadaily.com.cn/rss/bizchina_rss.xml"
+    },
+    {
+      "source_id": "chinadaily_world",
+      "source_name": "China Daily World",
+      "country_code": "CN",
+      "success": false,
+      "item_count": 0,
+      "matched_count": 0,
+      "error": "HTTP 404 for https://www.chinadaily.com.cn/rss/world_rss.xml"
+    },
+    {
+      "source_id": "chinadaily_china",
+      "source_name": "China Daily China",
+      "country_code": "CN",
+      "success": false,
+      "item_count": 0,
+      "matched_count": 0,
+      "error": "HTTP 404 for https://www.chinadaily.com.cn/rss/china_rss.xml"
+    },
+    {
+      "source_id": "nikkei_asia",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 2,
+      "error": ""
+    },
+    {
+      "source_id": "japan_times_topstories",
+      "source_name": "The Japan Times",
+      "country_code": "JP",
+      "success": true,
+      "item_count": 30,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "nhk_business",
+      "source_name": "NHK Business",
+      "country_code": "JP",
+      "success": true,
+      "item_count": 86,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "nhk_world",
+      "source_name": "NHK International",
+      "country_code": "JP",
+      "success": true,
+      "item_count": 98,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "japan_today",
+      "source_name": "Japan Today",
+      "country_code": "JP",
+      "success": true,
+      "item_count": 30,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "vnexpress_business",
+      "source_name": "VnExpress Business",
+      "country_code": "VN",
+      "success": true,
+      "item_count": 60,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "vnexpress_world",
+      "source_name": "VnExpress World",
+      "country_code": "VN",
+      "success": true,
+      "item_count": 60,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "vietnamnews_business",
+      "source_name": "Vietnam News Business",
+      "country_code": "VN",
+      "success": true,
+      "item_count": 0,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "vietnamnews_economy",
+      "source_name": "Vietnam News Economy",
+      "country_code": "VN",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "vietnamnews_world",
+      "source_name": "Vietnam News World",
+      "country_code": "VN",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "dw_business",
+      "source_name": "Deutsche Welle Business",
+      "country_code": "DE",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "dw_world",
+      "source_name": "Deutsche Welle World",
+      "country_code": "DE",
+      "success": true,
+      "item_count": 12,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "dw_topstories",
+      "source_name": "Deutsche Welle Top Stories",
+      "country_code": "DE",
+      "success": true,
+      "item_count": 21,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "tagesschau_wirtschaft",
+      "source_name": "tagesschau Wirtschaft",
+      "country_code": "DE",
+      "success": true,
+      "item_count": 19,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "tagesschau_ausland",
+      "source_name": "tagesschau Ausland",
+      "country_code": "DE",
+      "success": true,
+      "item_count": 65,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "spiegel_international",
+      "source_name": "DER SPIEGEL International",
+      "country_code": "DE",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "bbc_business",
+      "source_name": "BBC Business",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 52,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "bbc_world",
+      "source_name": "BBC World",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 27,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "bbc_technology",
+      "source_name": "BBC Technology",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "ft_companies",
+      "source_name": "Financial Times Companies",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "ft_world",
+      "source_name": "Financial Times World",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "guardian_business",
+      "source_name": "The Guardian Business",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 19,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "guardian_world",
+      "source_name": "The Guardian World",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 45,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "guardian_technology",
+      "source_name": "The Guardian Technology",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 35,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "independent_business",
+      "source_name": "The Independent Business",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 1,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "lemonde_economie",
+      "source_name": "Le Monde Economie",
+      "country_code": "FR",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "lemonde_international",
+      "source_name": "Le Monde International",
+      "country_code": "FR",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "france24_business_tech",
+      "source_name": "France 24 Business / Tech",
+      "country_code": "FR",
+      "success": true,
+      "item_count": 30,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "france24_europe",
+      "source_name": "France 24 Europe",
+      "country_code": "FR",
+      "success": true,
+      "item_count": 30,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "euronews_business",
+      "source_name": "Euronews Business",
+      "country_code": "EU",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "politico_europe",
+      "source_name": "POLITICO Europe",
+      "country_code": "EU",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "cnbc_top_news",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "success": true,
+      "item_count": 30,
+      "matched_count": 1,
+      "error": ""
+    },
+    {
+      "source_id": "cnbc_world",
+      "source_name": "CNBC World News",
+      "country_code": "US",
+      "success": true,
+      "item_count": 30,
+      "matched_count": 2,
+      "error": ""
+    },
+    {
+      "source_id": "cnbc_technology",
+      "source_name": "CNBC Technology",
+      "country_code": "US",
+      "success": true,
+      "item_count": 30,
+      "matched_count": 3,
+      "error": ""
+    },
+    {
+      "source_id": "abc_us_business",
+      "source_name": "ABC News Business",
+      "country_code": "US",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "abc_us_international",
+      "source_name": "ABC News International",
+      "country_code": "US",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "globe_business",
+      "source_name": "The Globe and Mail Business",
+      "country_code": "CA",
+      "success": true,
+      "item_count": 100,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "globe_world",
+      "source_name": "The Globe and Mail World",
+      "country_code": "CA",
+      "success": true,
+      "item_count": 100,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "globalnews_money",
+      "source_name": "Global News Money",
+      "country_code": "CA",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "globalnews_world",
+      "source_name": "Global News World",
+      "country_code": "CA",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "abc_au_top_stories",
+      "source_name": "ABC Australia Top Stories",
+      "country_code": "AU",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "abc_au_business",
+      "source_name": "ABC Australia Business",
+      "country_code": "AU",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "economic_times_industry",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 2,
+      "error": ""
+    },
+    {
+      "source_id": "economic_times_tech",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 1,
+      "error": ""
+    },
+    {
+      "source_id": "businessline_companies",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "success": true,
+      "item_count": 60,
+      "matched_count": 2,
+      "error": ""
+    },
+    {
+      "source_id": "businessline_economy",
+      "source_name": "BusinessLine Economy",
+      "country_code": "IN",
+      "success": true,
+      "item_count": 60,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "cna_business",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "cna_asia",
+      "source_name": "CNA Asia",
+      "country_code": "SG",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "cna_world",
+      "source_name": "CNA World",
+      "country_code": "SG",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "straits_times_business",
+      "source_name": "The Straits Times Business",
+      "country_code": "SG",
+      "success": true,
+      "item_count": 43,
+      "matched_count": 1,
+      "error": ""
+    },
+    {
+      "source_id": "straits_times_world",
+      "source_name": "The Straits Times World",
+      "country_code": "SG",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "scmp_business",
+      "source_name": "South China Morning Post Business",
+      "country_code": "HK",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "scmp_world",
+      "source_name": "South China Morning Post World",
+      "country_code": "HK",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 1,
+      "error": ""
+    },
+    {
+      "source_id": "scmp_tech",
+      "source_name": "South China Morning Post Tech",
+      "country_code": "HK",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "taipei_times_front",
+      "source_name": "Taipei Times",
+      "country_code": "TW",
+      "success": true,
+      "item_count": 52,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "dutchnews",
+      "source_name": "DutchNews.nl",
+      "country_code": "NL",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "nltimes",
+      "source_name": "NL Times",
+      "country_code": "NL",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "bangkok_post_business",
+      "source_name": "Bangkok Post Business",
+      "country_code": "TH",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 1,
+      "error": ""
+    },
+    {
+      "source_id": "bangkok_post_world",
+      "source_name": "Bangkok Post World",
+      "country_code": "TH",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "mexico_news_daily",
+      "source_name": "Mexico News Daily",
+      "country_code": "MX",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "aljazeera_all",
+      "source_name": "Al Jazeera",
+      "country_code": "QA",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    }
+  ]
+}
