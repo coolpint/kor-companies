@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-30T02:39:55.451538+00:00",
+  "last_run_at": "2026-10-30T15:59:53.529975+00:00",
   "seen_articles": {
     "https://asia.nikkei.com/business/transportation/korean-air-launches-free-starlink-in-flight-wi-fi": {
       "title": "Korean Air launches free Starlink in-flight Wi-Fi",
@@ -12,17 +12,6 @@
       ],
       "first_seen_at": "2026-09-14T15:47:02.411262+00:00",
       "last_seen_at": "2026-09-16T01:10:38.669906+00:00"
-    },
-    "https://www.straitstimes.com/business/samsung-sk-hynix-reject-kepcos-23-billion-power-prepayment-proposal-document-shows": {
-      "title": "Samsung, SK Hynix reject KEPCO’s $23 billion power prepayment proposal, document shows",
-      "link": "https://www.straitstimes.com/business/samsung-sk-hynix-reject-kepcos-23-billion-power-prepayment-proposal-document-shows",
-      "source_name": "The Straits Times",
-      "country_code": "SG",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-09-14T15:47:02.411262+00:00",
-      "last_seen_at": "2026-09-15T14:14:19.372218+00:00"
     },
     "https://asia.nikkei.com/business/transportation/korean-air-will-maintain-asiana-mileage-program-for-10-years-after-merger": {
       "title": "Korean Air will maintain Asiana mileage program for 10 years after merger",
@@ -1352,7 +1341,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-10-29T02:29:27.554584+00:00",
-      "last_seen_at": "2026-10-30T02:39:55.451538+00:00"
+      "last_seen_at": "2026-10-30T15:59:53.529975+00:00"
     },
     "https://www.scmp.com/week-asia/economics/article/3372439/south-koreas-chipmakers-are-raking-it-can-china-close-gap": {
       "title": "South Korea’s chipmakers are raking it in. Can China close the gap?",
@@ -1396,7 +1385,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-10-29T16:14:21.332671+00:00",
-      "last_seen_at": "2026-10-30T02:39:55.451538+00:00"
+      "last_seen_at": "2026-10-30T15:59:53.529975+00:00"
     },
     "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372524/samsung-electronics-reportedly-ending-home-appliance-sales-hong-kong": {
       "title": "Samsung Electronics reportedly ending home appliance sales in Hong Kong",
@@ -1407,7 +1396,40 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-10-29T16:14:21.332671+00:00",
-      "last_seen_at": "2026-10-30T02:39:55.451538+00:00"
+      "last_seen_at": "2026-10-30T15:59:53.529975+00:00"
+    },
+    "https://www.scmp.com/news/hong-kong/transport/article/3372722/cathay-pacific-says-data-53000-bookings-compromised-amadeus-cyberattack": {
+      "title": "Cathay Pacific says data from 53,000 bookings compromised in Amadeus cyberattack",
+      "link": "https://www.scmp.com/news/hong-kong/transport/article/3372722/cathay-pacific-says-data-53000-bookings-compromised-amadeus-cyberattack",
+      "source_name": "South China Morning Post Business",
+      "country_code": "HK",
+      "companies": [
+        "Korean Air"
+      ],
+      "first_seen_at": "2026-10-30T15:59:53.529975+00:00",
+      "last_seen_at": "2026-10-30T15:59:53.529975+00:00"
+    },
+    "https://www.scmp.com/week-asia/economics/article/3372710/saviour-or-stop-gap-malaysias-south-korean-jets-arrive-relieve-ageing-fighters": {
+      "title": "Saviour or stopgap? Malaysia’s South Korean jets arrive to relieve ageing fighters",
+      "link": "https://www.scmp.com/week-asia/economics/article/3372710/saviour-or-stop-gap-malaysias-south-korean-jets-arrive-relieve-ageing-fighters",
+      "source_name": "South China Morning Post World",
+      "country_code": "HK",
+      "companies": [
+        "Korea Aerospace Industries"
+      ],
+      "first_seen_at": "2026-10-30T15:59:53.529975+00:00",
+      "last_seen_at": "2026-10-30T15:59:53.529975+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-to-buy-1-27-trillion-won-worth-of-shares-in-tcl-china-from-samsung-display/articleshow/135350320.cms": {
+      "title": "Samsung Electronics to buy 1.27 trillion won worth of shares in TCL China from Samsung Display",
+      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-to-buy-1-27-trillion-won-worth-of-shares-in-tcl-china-from-samsung-display/articleshow/135350320.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-10-30T15:59:53.529975+00:00",
+      "last_seen_at": "2026-10-30T15:59:53.529975+00:00"
     }
   }
 }
