@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-31T02:28:53.935326+00:00",
+  "last_run_at": "2026-10-31T15:23:15.630801+00:00",
   "seen_articles": {
     "https://asia.nikkei.com/business/transportation/korean-air-will-maintain-asiana-mileage-program-for-10-years-after-merger": {
       "title": "Korean Air will maintain Asiana mileage program for 10 years after merger",
@@ -23,17 +23,6 @@
       ],
       "first_seen_at": "2026-09-16T01:10:38.669906+00:00",
       "last_seen_at": "2026-09-17T14:11:31.702695+00:00"
-    },
-    "https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale": {
-      "title": "Kia’s electric van lineup is getting more interesting with reveal of PV7",
-      "link": "https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale",
-      "source_name": "The Verge",
-      "country_code": "US",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-09-16T01:10:38.669906+00:00",
-      "last_seen_at": "2026-09-16T14:06:37.629631+00:00"
     },
     "https://www.cnbc.com/2026/09/16/intel-sk-hynix-us-memory-chips.html": {
       "title": "Intel, SK Hynix shares jump on report they're discussing U.S. memory chip manufacturing",
@@ -78,17 +67,6 @@
       ],
       "first_seen_at": "2026-09-16T14:06:37.629631+00:00",
       "last_seen_at": "2026-09-17T14:11:31.702695+00:00"
-    },
-    "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/boeing-to-supply-103-aircraft-to-korean-air-for-36-2-billion-aiding-fleet-expansion/articleshow/134278642.cms": {
-      "title": "Boeing to supply 103 aircraft to Korean Air for $36.2 billion, aiding fleet expansion",
-      "link": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/boeing-to-supply-103-aircraft-to-korean-air-for-36-2-billion-aiding-fleet-expansion/articleshow/134278642.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Korean Air"
-      ],
-      "first_seen_at": "2026-09-16T14:06:37.629631+00:00",
-      "last_seen_at": "2026-09-16T14:06:37.629631+00:00"
     },
     "https://www.straitstimes.com/business/companies-markets/sk-hynix-says-exploring-options-after-report-of-intel-tie-up": {
       "title": "SK Hynix says it’s exploring options after report of Intel tie-up",
@@ -1396,7 +1374,7 @@
         "Korean Air"
       ],
       "first_seen_at": "2026-10-30T15:59:53.529975+00:00",
-      "last_seen_at": "2026-10-31T02:28:53.935326+00:00"
+      "last_seen_at": "2026-10-31T15:23:15.630801+00:00"
     },
     "https://www.scmp.com/week-asia/economics/article/3372710/saviour-or-stop-gap-malaysias-south-korean-jets-arrive-relieve-ageing-fighters": {
       "title": "Saviour or stopgap? Malaysia’s South Korean jets arrive to relieve ageing fighters",
@@ -1418,7 +1396,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-10-30T15:59:53.529975+00:00",
-      "last_seen_at": "2026-10-31T02:28:53.935326+00:00"
+      "last_seen_at": "2026-10-31T15:23:15.630801+00:00"
     }
   }
 }
