@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-30T15:59:53.529975+00:00",
+  "last_run_at": "2026-10-31T02:28:53.935326+00:00",
   "seen_articles": {
-    "https://asia.nikkei.com/business/transportation/korean-air-launches-free-starlink-in-flight-wi-fi": {
-      "title": "Korean Air launches free Starlink in-flight Wi-Fi",
-      "link": "https://asia.nikkei.com/business/transportation/korean-air-launches-free-starlink-in-flight-wi-fi",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "companies": [
-        "Korean Air"
-      ],
-      "first_seen_at": "2026-09-14T15:47:02.411262+00:00",
-      "last_seen_at": "2026-09-16T01:10:38.669906+00:00"
-    },
     "https://asia.nikkei.com/business/transportation/korean-air-will-maintain-asiana-mileage-program-for-10-years-after-merger": {
       "title": "Korean Air will maintain Asiana mileage program for 10 years after merger",
       "link": "https://asia.nikkei.com/business/transportation/korean-air-will-maintain-asiana-mileage-program-for-10-years-after-merger",
@@ -1407,7 +1396,7 @@
         "Korean Air"
       ],
       "first_seen_at": "2026-10-30T15:59:53.529975+00:00",
-      "last_seen_at": "2026-10-30T15:59:53.529975+00:00"
+      "last_seen_at": "2026-10-31T02:28:53.935326+00:00"
     },
     "https://www.scmp.com/week-asia/economics/article/3372710/saviour-or-stop-gap-malaysias-south-korean-jets-arrive-relieve-ageing-fighters": {
       "title": "Saviour or stopgap? Malaysia’s South Korean jets arrive to relieve ageing fighters",
@@ -1429,7 +1418,7 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-10-30T15:59:53.529975+00:00",
-      "last_seen_at": "2026-10-30T15:59:53.529975+00:00"
+      "last_seen_at": "2026-10-31T02:28:53.935326+00:00"
     }
   }
 }

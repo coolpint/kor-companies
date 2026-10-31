@@ -1,83 +1,13 @@
 {
-  "run_at": "2026-10-30T15:59:53.529975+00:00",
+  "run_at": "2026-10-31T02:28:53.935326+00:00",
   "summary": {
     "source_count": 73,
-    "success_count": 69,
-    "failed_count": 4,
-    "matched_count": 6,
-    "new_count": 3
+    "success_count": 70,
+    "failed_count": 3,
+    "matched_count": 2,
+    "new_count": 0
   },
-  "new_articles": [
-    {
-      "article_key": "https://www.scmp.com/news/hong-kong/transport/article/3372722/cathay-pacific-says-data-53000-bookings-compromised-amadeus-cyberattack",
-      "canonical_link": "https://www.scmp.com/news/hong-kong/transport/article/3372722/cathay-pacific-says-data-53000-bookings-compromised-amadeus-cyberattack",
-      "link": "https://www.scmp.com/news/hong-kong/transport/article/3372722/cathay-pacific-says-data-53000-bookings-compromised-amadeus-cyberattack",
-      "title": "Cathay Pacific says data from 53,000 bookings compromised in Amadeus cyberattack",
-      "summary": "Korean Air 관련 기사다. 기사 제목은 'Cathay Pacific says data from 53,000 bookings compromised in Amadeus cyberattack'이다. Hong Kong flag carrier Cathay Pacific Airways has revealed that 53,000 bookings were compromised after hackers breached the system of its technology service provider. The carrier is among hundreds of airlines worldwide that use technology solutions provided by Amadeus IT Group. The revelation follows similar disclosures by Korean Air and Japan Airlines. Cathay said on Friday that the unauthorised access took place between August 2023 and September 2026. “We apologise to our customers for the. .",
-      "original_title": "Cathay Pacific says data from 53,000 bookings compromised in Amadeus cyberattack",
-      "original_summary": "Hong Kong flag carrier Cathay Pacific Airways has revealed that 53,000 bookings were compromised after hackers breached the system of its technology service provider. The carrier is among hundreds of airlines worldwide that use technology solutions provided by Amadeus IT Group. The revelation follows similar disclosures by Korean Air and Japan Airlines. Cathay said on Friday that the unauthorised access took place between August 2023 and September 2026. “We apologise to our customers for the...",
-      "company_summary": "Korean Air 관련 기사다. 기사 제목은 'Cathay Pacific says data from 53,000 bookings compromised in Amadeus cyberattack'이다. Hong Kong flag carrier Cathay Pacific Airways has revealed that 53,000 bookings were compromised after hackers breached the system of its technology service provider. The carrier is among hundreds of airlines worldwide that use technology solutions provided by Amadeus IT Group. The revelation follows similar disclosures by Korean Air and Japan Airlines. Cathay said on Friday that the unauthorised access took place between August 2023 and September 2026. “We apologise to our customers for the. .",
-      "published_at": "2026-10-30T08:38:03+00:00",
-      "source_id": "scmp_business",
-      "source_name": "South China Morning Post Business",
-      "country_code": "HK",
-      "country_name_ko": "홍콩",
-      "source_language": "en",
-      "matched_companies": [
-        "Korean Air"
-      ],
-      "matched_aliases": [
-        "Korean Air"
-      ],
-      "is_new": true
-    },
-    {
-      "article_key": "https://www.scmp.com/week-asia/economics/article/3372710/saviour-or-stop-gap-malaysias-south-korean-jets-arrive-relieve-ageing-fighters",
-      "canonical_link": "https://www.scmp.com/week-asia/economics/article/3372710/saviour-or-stop-gap-malaysias-south-korean-jets-arrive-relieve-ageing-fighters",
-      "link": "https://www.scmp.com/week-asia/economics/article/3372710/saviour-or-stop-gap-malaysias-south-korean-jets-arrive-relieve-ageing-fighters",
-      "title": "Saviour or stopgap? Malaysia’s South Korean jets arrive to relieve ageing fighters",
-      "summary": "Korea Aerospace Industries 관련 기사다. 기사 제목은 'Saviour or stopgap? Malaysia’s South Korean jets arrive to relieve ageing fighters'이다. Malaysia received its first South Korean-made light combat jet on Friday under a nearly 4 billion ringgit (US$990 million) procurement, in what analysts describe as welcome relief for an ageing air force still years away from replacing its frontline fighters. The FA-50M Block 20 jet arrived at the air force base in Labuan, off Borneo, with a second expected in Kuantan on the peninsula’s east coast next Monday. They are the first of 18 aircraft ordered from Korea Aerospace Industries under a deal. . Malaysia’s South Korean jets arrive to relieve ageing fighters The ordered planes mark the Malaysian air force’s first fleet renewal in 19 years since the delivery of Russian Sukhois in 2007 4 -MIN READ 4 -MIN Listen Iman Muttaqin Yusof in Kuala Lumpur Published: 3:57pm, 30 Oct 2026 Updated: 4:42pm, 30 Oct 2026 Malaysia received its first South Korean -made light combat jet on Friday under a nearly 4 billion ringgit (US$990 million) procurement, in what analysts describe as welcome relief for an ageing air force still years away from replacing its frontline fighters The FA-50M Block 20 jet arrived at the air force base in Labuan, off Borneo, with a second expected in Kuantan on the peninsula’s east coast next Monday They are the first of 18 aircraft ordered from Korea Aerospace Industries under a deal formalised in May 2023 The remaining aircraft are scheduled to arrive in stages through March 2028 – beginning the first fleet renewal in 19 years since the delivery of Russian-built Sukhoi Su-30MKMs in 2007 Select Voice Select Speed 0. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Saviour or stopgap? Malaysia’s South Korean jets arrive to relieve ageing fighters",
-      "original_summary": "Malaysia received its first South Korean-made light combat jet on Friday under a nearly 4 billion ringgit (US$990 million) procurement, in what analysts describe as welcome relief for an ageing air force still years away from replacing its frontline fighters. The FA-50M Block 20 jet arrived at the air force base in Labuan, off Borneo, with a second expected in Kuantan on the peninsula’s east coast next Monday. They are the first of 18 aircraft ordered from Korea Aerospace Industries under a deal...",
-      "company_summary": "Korea Aerospace Industries 관련 기사다. 기사 제목은 'Saviour or stopgap? Malaysia’s South Korean jets arrive to relieve ageing fighters'이다. Malaysia received its first South Korean-made light combat jet on Friday under a nearly 4 billion ringgit (US$990 million) procurement, in what analysts describe as welcome relief for an ageing air force still years away from replacing its frontline fighters. The FA-50M Block 20 jet arrived at the air force base in Labuan, off Borneo, with a second expected in Kuantan on the peninsula’s east coast next Monday. They are the first of 18 aircraft ordered from Korea Aerospace Industries under a deal. . Malaysia’s South Korean jets arrive to relieve ageing fighters The ordered planes mark the Malaysian air force’s first fleet renewal in 19 years since the delivery of Russian Sukhois in 2007 4 -MIN READ 4 -MIN Listen Iman Muttaqin Yusof in Kuala Lumpur Published: 3:57pm, 30 Oct 2026 Updated: 4:42pm, 30 Oct 2026 Malaysia received its first South Korean -made light combat jet on Friday under a nearly 4 billion ringgit (US$990 million) procurement, in what analysts describe as welcome relief for an ageing air force still years away from replacing its frontline fighters The FA-50M Block 20 jet arrived at the air force base in Labuan, off Borneo, with a second expected in Kuantan on the peninsula’s east coast next Monday They are the first of 18 aircraft ordered from Korea Aerospace Industries under a deal formalised in May 2023 The remaining aircraft are scheduled to arrive in stages through March 2028 – beginning the first fleet renewal in 19 years since the delivery of Russian-built Sukhoi Su-30MKMs in 2007 Select Voice Select Speed 0. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-30T07:57:20+00:00",
-      "source_id": "scmp_world",
-      "source_name": "South China Morning Post World",
-      "country_code": "HK",
-      "country_name_ko": "홍콩",
-      "source_language": "en",
-      "matched_companies": [
-        "Korea Aerospace Industries"
-      ],
-      "matched_aliases": [
-        "Korea Aerospace Industries"
-      ],
-      "is_new": true
-    },
-    {
-      "article_key": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-to-buy-1-27-trillion-won-worth-of-shares-in-tcl-china-from-samsung-display/articleshow/135350320.cms",
-      "canonical_link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-to-buy-1-27-trillion-won-worth-of-shares-in-tcl-china-from-samsung-display/articleshow/135350320.cms",
-      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-to-buy-1-27-trillion-won-worth-of-shares-in-tcl-china-from-samsung-display/articleshow/135350320.cms",
-      "title": "Samsung Electronics to buy 1.27 trillion won worth of shares in TCL China from Samsung Display",
-      "summary": "Samsung Electronics 관련 기사다. 기사 제목은 'Samsung Electronics to buy 1.27 trillion won worth of shares in TCL China from Samsung Display'이다. Samsung Electronics said in a filing on Fridaty that the company will buy 1. 27 trillion won ($948. 39 million) worth of shares in TCL China Star Optoelectronics Technology Co. Ltd from Samsung Display. Business News Tech Tech & Internet Samsung Electronics to buy 1 27 trillion won worth of shares in TCL China from Samsung Display Samsung Electronics to buy 1 Reuters Samsung Electronics said in a filing on Fridaty that the company will buy 1 After the purchase, Samsung Electronics will hold a 10 16% stake in TCL China, the filing says. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Samsung Electronics to buy 1.27 trillion won worth of shares in TCL China from Samsung Display",
-      "original_summary": "Samsung Electronics said in a filing on Fridaty that the company will buy 1.27 trillion won ($948.39 million) worth of shares in TCL China Star Optoelectronics Technology Co. Ltd from Samsung Display.",
-      "company_summary": "Samsung Electronics 관련 기사다. 기사 제목은 'Samsung Electronics to buy 1.27 trillion won worth of shares in TCL China from Samsung Display'이다. Samsung Electronics said in a filing on Fridaty that the company will buy 1. 27 trillion won ($948. 39 million) worth of shares in TCL China Star Optoelectronics Technology Co. Ltd from Samsung Display. Business News Tech Tech & Internet Samsung Electronics to buy 1 27 trillion won worth of shares in TCL China from Samsung Display Samsung Electronics to buy 1 Reuters Samsung Electronics said in a filing on Fridaty that the company will buy 1 After the purchase, Samsung Electronics will hold a 10 16% stake in TCL China, the filing says. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-30T07:48:28+00:00",
-      "source_id": "economic_times_tech",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "country_name_ko": "인도",
-      "source_language": "en",
-      "matched_companies": [
-        "Samsung Electronics"
-      ],
-      "matched_aliases": [
-        "Samsung Electronics"
-      ],
-      "is_new": true
-    }
-  ],
+  "new_articles": [],
   "matched_articles": [
     {
       "article_key": "https://www.scmp.com/news/hong-kong/transport/article/3372722/cathay-pacific-says-data-53000-bookings-compromised-amadeus-cyberattack",
@@ -100,30 +30,7 @@
       "matched_aliases": [
         "Korean Air"
       ],
-      "is_new": true
-    },
-    {
-      "article_key": "https://www.scmp.com/week-asia/economics/article/3372710/saviour-or-stop-gap-malaysias-south-korean-jets-arrive-relieve-ageing-fighters",
-      "canonical_link": "https://www.scmp.com/week-asia/economics/article/3372710/saviour-or-stop-gap-malaysias-south-korean-jets-arrive-relieve-ageing-fighters",
-      "link": "https://www.scmp.com/week-asia/economics/article/3372710/saviour-or-stop-gap-malaysias-south-korean-jets-arrive-relieve-ageing-fighters",
-      "title": "Saviour or stopgap? Malaysia’s South Korean jets arrive to relieve ageing fighters",
-      "summary": "Korea Aerospace Industries 관련 기사다. 기사 제목은 'Saviour or stopgap? Malaysia’s South Korean jets arrive to relieve ageing fighters'이다. Malaysia received its first South Korean-made light combat jet on Friday under a nearly 4 billion ringgit (US$990 million) procurement, in what analysts describe as welcome relief for an ageing air force still years away from replacing its frontline fighters. The FA-50M Block 20 jet arrived at the air force base in Labuan, off Borneo, with a second expected in Kuantan on the peninsula’s east coast next Monday. They are the first of 18 aircraft ordered from Korea Aerospace Industries under a deal. . Malaysia’s South Korean jets arrive to relieve ageing fighters The ordered planes mark the Malaysian air force’s first fleet renewal in 19 years since the delivery of Russian Sukhois in 2007 4 -MIN READ 4 -MIN Listen Iman Muttaqin Yusof in Kuala Lumpur Published: 3:57pm, 30 Oct 2026 Updated: 4:42pm, 30 Oct 2026 Malaysia received its first South Korean -made light combat jet on Friday under a nearly 4 billion ringgit (US$990 million) procurement, in what analysts describe as welcome relief for an ageing air force still years away from replacing its frontline fighters The FA-50M Block 20 jet arrived at the air force base in Labuan, off Borneo, with a second expected in Kuantan on the peninsula’s east coast next Monday They are the first of 18 aircraft ordered from Korea Aerospace Industries under a deal formalised in May 2023 The remaining aircraft are scheduled to arrive in stages through March 2028 – beginning the first fleet renewal in 19 years since the delivery of Russian-built Sukhoi Su-30MKMs in 2007 Select Voice Select Speed 0. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Saviour or stopgap? Malaysia’s South Korean jets arrive to relieve ageing fighters",
-      "original_summary": "Malaysia received its first South Korean-made light combat jet on Friday under a nearly 4 billion ringgit (US$990 million) procurement, in what analysts describe as welcome relief for an ageing air force still years away from replacing its frontline fighters. The FA-50M Block 20 jet arrived at the air force base in Labuan, off Borneo, with a second expected in Kuantan on the peninsula’s east coast next Monday. They are the first of 18 aircraft ordered from Korea Aerospace Industries under a deal...",
-      "company_summary": "Korea Aerospace Industries 관련 기사다. 기사 제목은 'Saviour or stopgap? Malaysia’s South Korean jets arrive to relieve ageing fighters'이다. Malaysia received its first South Korean-made light combat jet on Friday under a nearly 4 billion ringgit (US$990 million) procurement, in what analysts describe as welcome relief for an ageing air force still years away from replacing its frontline fighters. The FA-50M Block 20 jet arrived at the air force base in Labuan, off Borneo, with a second expected in Kuantan on the peninsula’s east coast next Monday. They are the first of 18 aircraft ordered from Korea Aerospace Industries under a deal. . Malaysia’s South Korean jets arrive to relieve ageing fighters The ordered planes mark the Malaysian air force’s first fleet renewal in 19 years since the delivery of Russian Sukhois in 2007 4 -MIN READ 4 -MIN Listen Iman Muttaqin Yusof in Kuala Lumpur Published: 3:57pm, 30 Oct 2026 Updated: 4:42pm, 30 Oct 2026 Malaysia received its first South Korean -made light combat jet on Friday under a nearly 4 billion ringgit (US$990 million) procurement, in what analysts describe as welcome relief for an ageing air force still years away from replacing its frontline fighters The FA-50M Block 20 jet arrived at the air force base in Labuan, off Borneo, with a second expected in Kuantan on the peninsula’s east coast next Monday They are the first of 18 aircraft ordered from Korea Aerospace Industries under a deal formalised in May 2023 The remaining aircraft are scheduled to arrive in stages through March 2028 – beginning the first fleet renewal in 19 years since the delivery of Russian-built Sukhoi Su-30MKMs in 2007 Select Voice Select Speed 0. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-30T07:57:20+00:00",
-      "source_id": "scmp_world",
-      "source_name": "South China Morning Post World",
-      "country_code": "HK",
-      "country_name_ko": "홍콩",
-      "source_language": "en",
-      "matched_companies": [
-        "Korea Aerospace Industries"
-      ],
-      "matched_aliases": [
-        "Korea Aerospace Industries"
-      ],
-      "is_new": true
+      "is_new": false
     },
     {
       "article_key": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-to-buy-1-27-trillion-won-worth-of-shares-in-tcl-china-from-samsung-display/articleshow/135350320.cms",
@@ -139,75 +46,6 @@
       "source_name": "The Economic Times Tech",
       "country_code": "IN",
       "country_name_ko": "인도",
-      "source_language": "en",
-      "matched_companies": [
-        "Samsung Electronics"
-      ],
-      "matched_aliases": [
-        "Samsung Electronics"
-      ],
-      "is_new": true
-    },
-    {
-      "article_key": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
-      "canonical_link": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
-      "link": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
-      "title": "Samsung Electronics shares slid despite record profit in the third-quarter",
-      "summary": "Samsung Electronics 관련 기사다. 기사 제목은 'Samsung Electronics shares slid despite record profit in the third-quarter'이다. Samsung Electronics reported third-quarter earnings on Thursday. Looking ahead, the company expects AI infrastructure investment to accelerate in 2027, with rising demand likely to further tighten memory supply Samsung also plans to increase sales of HBM, a type of high-performance memory used in AI chips, along with other memory products used in servers and data storage In the third quarter, Samsung Electronics and five of its affiliates had announced a combined $1 billion investment in KKR-backed Helix Digital Infrastructure Samsung Electronics will invest $500 million, with the remaining amount coming from its affiliates The tech giant had also announced a partnership with French AI startup Mistral AI to use AI technologies in its semiconductor operations, including chip design and manufacturing. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Samsung Electronics shares slid despite record profit in the third-quarter",
-      "original_summary": "Samsung Electronics reported third-quarter earnings on Thursday.",
-      "company_summary": "Samsung Electronics 관련 기사다. 기사 제목은 'Samsung Electronics shares slid despite record profit in the third-quarter'이다. Samsung Electronics reported third-quarter earnings on Thursday. Looking ahead, the company expects AI infrastructure investment to accelerate in 2027, with rising demand likely to further tighten memory supply Samsung also plans to increase sales of HBM, a type of high-performance memory used in AI chips, along with other memory products used in servers and data storage In the third quarter, Samsung Electronics and five of its affiliates had announced a combined $1 billion investment in KKR-backed Helix Digital Infrastructure Samsung Electronics will invest $500 million, with the remaining amount coming from its affiliates The tech giant had also announced a partnership with French AI startup Mistral AI to use AI technologies in its semiconductor operations, including chip design and manufacturing. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-29T06:53:19+00:00",
-      "source_id": "cnbc_technology",
-      "source_name": "CNBC Technology",
-      "country_code": "US",
-      "country_name_ko": "미국",
-      "source_language": "en",
-      "matched_companies": [
-        "Samsung Electronics"
-      ],
-      "matched_aliases": [
-        "Samsung Electronics"
-      ],
-      "is_new": false
-    },
-    {
-      "article_key": "https://abcnews.com/Business/wireStory/samsung-shattering-profit-records-ai-boom-lifts-chip-137662083",
-      "canonical_link": "https://abcnews.com/Business/wireStory/samsung-shattering-profit-records-ai-boom-lifts-chip-137662083",
-      "link": "https://abcnews.com/Business/wireStory/samsung-shattering-profit-records-ai-boom-lifts-chip-137662083",
-      "title": "Samsung keeps shattering profit records as AI boom lifts chip demand",
-      "summary": "Samsung Electronics 관련 기사다. 기사 제목은 'Samsung keeps shattering profit records as AI boom lifts chip demand'이다. Samsung Electronics has reported a record operating profit of $80. 5 billion, driven by high demand for computer memory chips used in AI systems. Samsung keeps shattering profit records as AI boom lifts chip demand Samsung Electronics has reported a record operating profit of $80 5 billion, driven by high demand for computer memory chips used in AI systems By The Associated Press October 28, 2026, 10:57 PM SEOUL, South Korea -- SEOUL, South Korea (AP) — Samsung Electronics said Thursday that its operating profit for the last quarter reached a record 107 4 trillion won ($80 5 billion), fueled by surging demands for its computer memory chips used in artificial intelligence systems. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Samsung keeps shattering profit records as AI boom lifts chip demand",
-      "original_summary": "Samsung Electronics has reported a record operating profit of $80.5 billion, driven by high demand for computer memory chips used in AI systems",
-      "company_summary": "Samsung Electronics 관련 기사다. 기사 제목은 'Samsung keeps shattering profit records as AI boom lifts chip demand'이다. Samsung Electronics has reported a record operating profit of $80. 5 billion, driven by high demand for computer memory chips used in AI systems. Samsung keeps shattering profit records as AI boom lifts chip demand Samsung Electronics has reported a record operating profit of $80 5 billion, driven by high demand for computer memory chips used in AI systems By The Associated Press October 28, 2026, 10:57 PM SEOUL, South Korea -- SEOUL, South Korea (AP) — Samsung Electronics said Thursday that its operating profit for the last quarter reached a record 107 4 trillion won ($80 5 billion), fueled by surging demands for its computer memory chips used in artificial intelligence systems. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-29T06:46:41+00:00",
-      "source_id": "abc_us_business",
-      "source_name": "ABC News Business",
-      "country_code": "US",
-      "country_name_ko": "미국",
-      "source_language": "en",
-      "matched_companies": [
-        "Samsung Electronics"
-      ],
-      "matched_aliases": [
-        "Samsung Electronics"
-      ],
-      "is_new": false
-    },
-    {
-      "article_key": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372524/samsung-electronics-reportedly-ending-home-appliance-sales-hong-kong",
-      "canonical_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372524/samsung-electronics-reportedly-ending-home-appliance-sales-hong-kong",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372524/samsung-electronics-reportedly-ending-home-appliance-sales-hong-kong",
-      "title": "Samsung Electronics reportedly ending home appliance sales in Hong Kong",
-      "summary": "Samsung Electronics 관련 기사다. 기사 제목은 'Samsung Electronics reportedly ending home appliance sales in Hong Kong'이다. Samsung Electronics is reportedly ending home appliance sales in Hong Kong, months after withdrawing from the mainland Chinese market. Samsung’s Hong Kong office told the South China Morning Post on Thursday that it would focus on televisions, monitors, audio products, business-to-business display solutions and mobile devices in the city. It did not explicitly confirm that it was ending sales of major home appliances. However, a check by the SCMP on Thursday morning found that major home. . Advertisement Hong Kong economy Hong Kong Hong Kong Economy Samsung Electronics reportedly ending home appliance sales in Hong Kong South Korean company to focus on TVs and mobile devices as fridges and washing machines listed as sold out on its Hong Kong online shop, amid reports of a withdrawal 2 -MIN READ 2 -MIN Listen Eric Jiang Published: 12:38pm, 29 Oct 2026 Updated: 5:53pm, 29 Oct 2026 Samsung Electronics is reportedly ending home appliance sales in Hong Kong, months after withdrawing from the mainland Chinese market Samsung’s Hong Kong office told the South China Morning Post on Thursday that it would focus on televisions, monitors, audio products, business-to-business display solutions and mobile devices in the city It did not explicitly confirm that it was ending sales of major home appliances.",
-      "original_title": "Samsung Electronics reportedly ending home appliance sales in Hong Kong",
-      "original_summary": "Samsung Electronics is reportedly ending home appliance sales in Hong Kong, months after withdrawing from the mainland Chinese market. Samsung’s Hong Kong office told the South China Morning Post on Thursday that it would focus on televisions, monitors, audio products, business-to-business display solutions and mobile devices in the city. It did not explicitly confirm that it was ending sales of major home appliances. However, a check by the SCMP on Thursday morning found that major home...",
-      "company_summary": "Samsung Electronics 관련 기사다. 기사 제목은 'Samsung Electronics reportedly ending home appliance sales in Hong Kong'이다. Samsung Electronics is reportedly ending home appliance sales in Hong Kong, months after withdrawing from the mainland Chinese market. Samsung’s Hong Kong office told the South China Morning Post on Thursday that it would focus on televisions, monitors, audio products, business-to-business display solutions and mobile devices in the city. It did not explicitly confirm that it was ending sales of major home appliances. However, a check by the SCMP on Thursday morning found that major home. . Advertisement Hong Kong economy Hong Kong Hong Kong Economy Samsung Electronics reportedly ending home appliance sales in Hong Kong South Korean company to focus on TVs and mobile devices as fridges and washing machines listed as sold out on its Hong Kong online shop, amid reports of a withdrawal 2 -MIN READ 2 -MIN Listen Eric Jiang Published: 12:38pm, 29 Oct 2026 Updated: 5:53pm, 29 Oct 2026 Samsung Electronics is reportedly ending home appliance sales in Hong Kong, months after withdrawing from the mainland Chinese market Samsung’s Hong Kong office told the South China Morning Post on Thursday that it would focus on televisions, monitors, audio products, business-to-business display solutions and mobile devices in the city It did not explicitly confirm that it was ending sales of major home appliances.",
-      "published_at": "2026-10-29T04:38:02+00:00",
-      "source_id": "scmp_business",
-      "source_name": "South China Morning Post Business",
-      "country_code": "HK",
-      "country_name_ko": "홍콩",
       "source_language": "en",
       "matched_companies": [
         "Samsung Electronics"
@@ -233,7 +71,7 @@
       "source_name": "The New York Times Technology",
       "country_code": "US",
       "success": true,
-      "item_count": 28,
+      "item_count": 31,
       "matched_count": 0,
       "error": ""
     },
@@ -431,7 +269,7 @@
       "source_name": "Deutsche Welle World",
       "country_code": "DE",
       "success": true,
-      "item_count": 10,
+      "item_count": 11,
       "matched_count": 0,
       "error": ""
     },
@@ -449,7 +287,7 @@
       "source_name": "tagesschau Wirtschaft",
       "country_code": "DE",
       "success": true,
-      "item_count": 27,
+      "item_count": 24,
       "matched_count": 0,
       "error": ""
     },
@@ -476,7 +314,7 @@
       "source_name": "BBC Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 47,
+      "item_count": 50,
       "matched_count": 0,
       "error": ""
     },
@@ -485,7 +323,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 36,
+      "item_count": 34,
       "matched_count": 0,
       "error": ""
     },
@@ -521,7 +359,7 @@
       "source_name": "The Guardian Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 19,
+      "item_count": 20,
       "matched_count": 0,
       "error": ""
     },
@@ -574,10 +412,10 @@
       "source_id": "france24_business_tech",
       "source_name": "France 24 Business / Tech",
       "country_code": "FR",
-      "success": false,
-      "item_count": 0,
+      "success": true,
+      "item_count": 30,
       "matched_count": 0,
-      "error": "HTTP 403 for https://www.france24.com/en/business-tech/rss"
+      "error": ""
     },
     {
       "source_id": "france24_europe",
@@ -630,7 +468,7 @@
       "country_code": "US",
       "success": true,
       "item_count": 30,
-      "matched_count": 1,
+      "matched_count": 0,
       "error": ""
     },
     {
@@ -639,7 +477,7 @@
       "country_code": "US",
       "success": true,
       "item_count": 25,
-      "matched_count": 1,
+      "matched_count": 0,
       "error": ""
     },
     {
@@ -792,7 +630,7 @@
       "country_code": "HK",
       "success": true,
       "item_count": 50,
-      "matched_count": 2,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -801,7 +639,7 @@
       "country_code": "HK",
       "success": true,
       "item_count": 50,
-      "matched_count": 2,
+      "matched_count": 0,
       "error": ""
     },
     {
@@ -818,7 +656,7 @@
       "source_name": "Taipei Times",
       "country_code": "TW",
       "success": true,
-      "item_count": 50,
+      "item_count": 47,
       "matched_count": 0,
       "error": ""
     },
