@@ -1,61 +1,14 @@
 {
-  "run_at": "2026-10-31T15:23:15.630801+00:00",
+  "run_at": "2026-11-01T02:19:00.049172+00:00",
   "summary": {
     "source_count": 73,
     "success_count": 70,
     "failed_count": 3,
-    "matched_count": 2,
+    "matched_count": 0,
     "new_count": 0
   },
   "new_articles": [],
-  "matched_articles": [
-    {
-      "article_key": "https://www.scmp.com/news/hong-kong/transport/article/3372722/cathay-pacific-says-data-53000-bookings-compromised-amadeus-cyberattack",
-      "canonical_link": "https://www.scmp.com/news/hong-kong/transport/article/3372722/cathay-pacific-says-data-53000-bookings-compromised-amadeus-cyberattack",
-      "link": "https://www.scmp.com/news/hong-kong/transport/article/3372722/cathay-pacific-says-data-53000-bookings-compromised-amadeus-cyberattack",
-      "title": "Cathay Pacific says data from 53,000 bookings compromised in Amadeus cyberattack",
-      "summary": "Korean Air 관련 기사다. 기사 제목은 'Cathay Pacific says data from 53,000 bookings compromised in Amadeus cyberattack'이다. Hong Kong flag carrier Cathay Pacific Airways has revealed that 53,000 bookings were compromised after hackers breached the system of its technology service provider. The carrier is among hundreds of airlines worldwide that use technology solutions provided by Amadeus IT Group. The revelation follows similar disclosures by Korean Air and Japan Airlines. Cathay said on Friday that the unauthorised access took place between August 2023 and September 2026. “We apologise to our customers for the. .",
-      "original_title": "Cathay Pacific says data from 53,000 bookings compromised in Amadeus cyberattack",
-      "original_summary": "Hong Kong flag carrier Cathay Pacific Airways has revealed that 53,000 bookings were compromised after hackers breached the system of its technology service provider. The carrier is among hundreds of airlines worldwide that use technology solutions provided by Amadeus IT Group. The revelation follows similar disclosures by Korean Air and Japan Airlines. Cathay said on Friday that the unauthorised access took place between August 2023 and September 2026. “We apologise to our customers for the...",
-      "company_summary": "Korean Air 관련 기사다. 기사 제목은 'Cathay Pacific says data from 53,000 bookings compromised in Amadeus cyberattack'이다. Hong Kong flag carrier Cathay Pacific Airways has revealed that 53,000 bookings were compromised after hackers breached the system of its technology service provider. The carrier is among hundreds of airlines worldwide that use technology solutions provided by Amadeus IT Group. The revelation follows similar disclosures by Korean Air and Japan Airlines. Cathay said on Friday that the unauthorised access took place between August 2023 and September 2026. “We apologise to our customers for the. .",
-      "published_at": "2026-10-30T08:38:03+00:00",
-      "source_id": "scmp_business",
-      "source_name": "South China Morning Post Business",
-      "country_code": "HK",
-      "country_name_ko": "홍콩",
-      "source_language": "en",
-      "matched_companies": [
-        "Korean Air"
-      ],
-      "matched_aliases": [
-        "Korean Air"
-      ],
-      "is_new": false
-    },
-    {
-      "article_key": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-to-buy-1-27-trillion-won-worth-of-shares-in-tcl-china-from-samsung-display/articleshow/135350320.cms",
-      "canonical_link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-to-buy-1-27-trillion-won-worth-of-shares-in-tcl-china-from-samsung-display/articleshow/135350320.cms",
-      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-to-buy-1-27-trillion-won-worth-of-shares-in-tcl-china-from-samsung-display/articleshow/135350320.cms",
-      "title": "Samsung Electronics to buy 1.27 trillion won worth of shares in TCL China from Samsung Display",
-      "summary": "Samsung Electronics 관련 기사다. 기사 제목은 'Samsung Electronics to buy 1.27 trillion won worth of shares in TCL China from Samsung Display'이다. Samsung Electronics said in a filing on Fridaty that the company will buy 1. 27 trillion won ($948. 39 million) worth of shares in TCL China Star Optoelectronics Technology Co. Ltd from Samsung Display. Business News Tech Tech & Internet Samsung Electronics to buy 1 27 trillion won worth of shares in TCL China from Samsung Display Samsung Electronics to buy 1 Reuters Samsung Electronics said in a filing on Fridaty that the company will buy 1 After the purchase, Samsung Electronics will hold a 10 16% stake in TCL China, the filing says. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Samsung Electronics to buy 1.27 trillion won worth of shares in TCL China from Samsung Display",
-      "original_summary": "Samsung Electronics said in a filing on Fridaty that the company will buy 1.27 trillion won ($948.39 million) worth of shares in TCL China Star Optoelectronics Technology Co. Ltd from Samsung Display.",
-      "company_summary": "Samsung Electronics 관련 기사다. 기사 제목은 'Samsung Electronics to buy 1.27 trillion won worth of shares in TCL China from Samsung Display'이다. Samsung Electronics said in a filing on Fridaty that the company will buy 1. 27 trillion won ($948. 39 million) worth of shares in TCL China Star Optoelectronics Technology Co. Ltd from Samsung Display. Business News Tech Tech & Internet Samsung Electronics to buy 1 27 trillion won worth of shares in TCL China from Samsung Display Samsung Electronics to buy 1 Reuters Samsung Electronics said in a filing on Fridaty that the company will buy 1 After the purchase, Samsung Electronics will hold a 10 16% stake in TCL China, the filing says. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-10-30T07:48:28+00:00",
-      "source_id": "economic_times_tech",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "country_name_ko": "인도",
-      "source_language": "en",
-      "matched_companies": [
-        "Samsung Electronics"
-      ],
-      "matched_aliases": [
-        "Samsung Electronics"
-      ],
-      "is_new": false
-    }
-  ],
+  "matched_articles": [],
   "source_runs": [
     {
       "source_id": "nyt_business",
@@ -287,7 +240,7 @@
       "source_name": "tagesschau Wirtschaft",
       "country_code": "DE",
       "success": true,
-      "item_count": 25,
+      "item_count": 26,
       "matched_count": 0,
       "error": ""
     },
@@ -323,7 +276,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 31,
+      "item_count": 27,
       "matched_count": 0,
       "error": ""
     },
@@ -558,7 +511,7 @@
       "country_code": "IN",
       "success": true,
       "item_count": 50,
-      "matched_count": 1,
+      "matched_count": 0,
       "error": ""
     },
     {
@@ -611,7 +564,7 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 41,
+      "item_count": 34,
       "matched_count": 0,
       "error": ""
     },
@@ -630,7 +583,7 @@
       "country_code": "HK",
       "success": true,
       "item_count": 50,
-      "matched_count": 1,
+      "matched_count": 0,
       "error": ""
     },
     {
@@ -656,7 +609,7 @@
       "source_name": "Taipei Times",
       "country_code": "TW",
       "success": true,
-      "item_count": 47,
+      "item_count": 41,
       "matched_count": 0,
       "error": ""
     },

@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-10-31T15:23:15.630801+00:00",
+  "last_run_at": "2026-11-01T02:19:00.049172+00:00",
   "seen_articles": {
-    "https://asia.nikkei.com/business/transportation/korean-air-will-maintain-asiana-mileage-program-for-10-years-after-merger": {
-      "title": "Korean Air will maintain Asiana mileage program for 10 years after merger",
-      "link": "https://asia.nikkei.com/business/transportation/korean-air-will-maintain-asiana-mileage-program-for-10-years-after-merger",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "companies": [
-        "Korean Air"
-      ],
-      "first_seen_at": "2026-09-15T14:14:19.372218+00:00",
-      "last_seen_at": "2026-09-17T01:12:19.157653+00:00"
-    },
     "https://www.cnbc.com/2026/09/16/samsung-sk-hynix-ai-boom-students-university-programs.html": {
       "title": "Inside South Korea’s university programs offering a direct route to Samsung and SK Hynix",
       "link": "https://www.cnbc.com/2026/09/16/samsung-sk-hynix-ai-boom-students-university-programs.html",
@@ -34,17 +23,6 @@
       ],
       "first_seen_at": "2026-09-16T14:06:37.629631+00:00",
       "last_seen_at": "2026-09-18T01:07:39.061614+00:00"
-    },
-    "https://www.channelnewsasia.com/east-asia/sk-hynix-intel-deal-memory-chip-us-6388281": {
-      "title": "SK Hynix in talks with Intel about deal to make memory chips in the US for the first time, sources say",
-      "link": "https://www.channelnewsasia.com/east-asia/sk-hynix-intel-deal-memory-chip-us-6388281",
-      "source_name": "CNA Asia",
-      "country_code": "SG",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-09-16T14:06:37.629631+00:00",
-      "last_seen_at": "2026-09-17T01:12:19.157653+00:00"
     },
     "https://economictimes.indiatimes.com/tech/technology/mirae-asset-venture-investments-others-pay-rs-12-75-lakh-to-settle-sebi-proceedings-over-violations/articleshow/134287979.cms": {
       "title": "Mirae Asset Venture Investments, others pay Rs 12.75 lakh to settle Sebi proceedings over violations",
@@ -89,17 +67,6 @@
       ],
       "first_seen_at": "2026-09-17T01:12:19.157653+00:00",
       "last_seen_at": "2026-09-17T14:11:31.702695+00:00"
-    },
-    "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories": {
-      "title": "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
-      "link": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
-      "source_name": "MarketWatch Top Stories",
-      "country_code": "US",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-09-17T01:12:19.157653+00:00",
-      "last_seen_at": "2026-09-17T01:12:19.157653+00:00"
     },
     "https://www.straitstimes.com/business/sk-hynix-in-talks-with-intel-about-deal-to-make-memory-chips-in-us-for-the-first-time-sources-say": {
       "title": "SK Hynix in talks with Intel about deal to make memory chips in US for the first time, sources say",
