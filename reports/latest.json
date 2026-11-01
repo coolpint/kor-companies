@@ -1,14 +1,362 @@
 {
-  "run_at": "2026-11-01T02:19:00.049172+00:00",
+  "run_at": "2026-11-01T16:06:29.596214+00:00",
   "summary": {
     "source_count": 73,
     "success_count": 70,
     "failed_count": 3,
-    "matched_count": 0,
-    "new_count": 0
+    "matched_count": 7,
+    "new_count": 7
   },
-  "new_articles": [],
-  "matched_articles": [],
+  "new_articles": [
+    {
+      "article_key": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/festive-dispatches-drive-october-car-sales-to-record-high/articleshow/135430795.cms",
+      "canonical_link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/festive-dispatches-drive-october-car-sales-to-record-high/articleshow/135430795.cms",
+      "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/festive-dispatches-drive-october-car-sales-to-record-high/articleshow/135430795.cms",
+      "title": "Festive dispatches drive October car sales to record high",
+      "summary": "Hyundai Motor, Kia 관련 기사다. 기사 제목은 'Festive dispatches drive October car sales to record high'이다. India's passenger vehicle dispatches to dealerships are estimated to have risen 13-14% year-on-year to a record 5. 25-5. 30 lakh units in October, driven by festive demand. Maruti Suzuki, Mahindra, Hyundai and Kia reported record monthly sales, while two-wheeler and commercial vehicle makers also posted strong growth. Maruti Suzuki, Mahindra, Hyundai and Kia reported record monthly sales, while two-wheeler and commercial vehicle makers also posted strong growth The local unit of Korean auto major Hyundai, which recently launched a new model in the fast-growing mid-SUV segment, dispatched 62,799 units to domestic dealerships, registering 16 Including exports, its sales grew about 18% to 82,299 units in October “Strong festive demand, coupled with healthy momentum in both domestic and export markets, helped us set this new sales record,” said Hyundai Motor India chief executive Tarun Garg Kia India dispatched 33,462 units, registering 13. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Festive dispatches drive October car sales to record high",
+      "original_summary": "India's passenger vehicle dispatches to dealerships are estimated to have risen 13-14% year-on-year to a record 5.25-5.30 lakh units in October, driven by festive demand. Maruti Suzuki, Mahindra, Hyundai and Kia reported record monthly sales, while two-wheeler and commercial vehicle makers also posted strong growth.",
+      "company_summary": "Hyundai Motor, Kia 관련 기사다. 기사 제목은 'Festive dispatches drive October car sales to record high'이다. India's passenger vehicle dispatches to dealerships are estimated to have risen 13-14% year-on-year to a record 5. 25-5. 30 lakh units in October, driven by festive demand. Maruti Suzuki, Mahindra, Hyundai and Kia reported record monthly sales, while two-wheeler and commercial vehicle makers also posted strong growth. Maruti Suzuki, Mahindra, Hyundai and Kia reported record monthly sales, while two-wheeler and commercial vehicle makers also posted strong growth The local unit of Korean auto major Hyundai, which recently launched a new model in the fast-growing mid-SUV segment, dispatched 62,799 units to domestic dealerships, registering 16 Including exports, its sales grew about 18% to 82,299 units in October “Strong festive demand, coupled with healthy momentum in both domestic and export markets, helped us set this new sales record,” said Hyundai Motor India chief executive Tarun Garg Kia India dispatched 33,462 units, registering 13. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-01T15:18:01+00:00",
+      "source_id": "economic_times_industry",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "country_name_ko": "인도",
+      "source_language": "en",
+      "matched_companies": [
+        "Hyundai Motor",
+        "Kia"
+      ],
+      "matched_aliases": [
+        "Hyundai",
+        "Kia"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://www.thehindubusinessline.com/companies/festive-mode-brings-cheer-to-automakers-with-record-sales-in-october/article71652377.ece",
+      "canonical_link": "https://www.thehindubusinessline.com/companies/festive-mode-brings-cheer-to-automakers-with-record-sales-in-october/article71652377.ece",
+      "link": "https://www.thehindubusinessline.com/companies/festive-mode-brings-cheer-to-automakers-with-record-sales-in-october/article71652377.ece",
+      "title": "Strong festive demand lifts October passenger vehicle wholesales by 13% to 5.30 lakh units",
+      "summary": "Hyundai Motor, Kia 관련 기사다. 기사 제목은 'Strong festive demand lifts October passenger vehicle wholesales by 13% to 5.30 lakh units'이다. Maruti Suzuki India, Tata Motors, Hyundai Motor India, Kia India, Mahindra & Mahindra see best-ever October sales. 7 per cent y-o-y as compared with 53,792 units in October 2025 “Strong festive demand, coupled with healthy momentum in both domestic and export markets, helped us set this new sales record Hyundai’s sister company Kia India too recorded its highest-ever monthly wholesales since entering the Indian market at 33,462 units in October, registering 13 22 per cent y-o-y growth over 29,556 units sold in October 2025 JSW MG Motor India said it dispatched 8,013 units during the month, a 19 per cent y-o-y growth as compared with 6,397 units in October last year. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Strong festive demand lifts October passenger vehicle wholesales by 13% to 5.30 lakh units",
+      "original_summary": "Maruti Suzuki India, Tata Motors, Hyundai Motor India, Kia India, Mahindra & Mahindra see best-ever October sales",
+      "company_summary": "Hyundai Motor, Kia 관련 기사다. 기사 제목은 'Strong festive demand lifts October passenger vehicle wholesales by 13% to 5.30 lakh units'이다. Maruti Suzuki India, Tata Motors, Hyundai Motor India, Kia India, Mahindra & Mahindra see best-ever October sales. 7 per cent y-o-y as compared with 53,792 units in October 2025 “Strong festive demand, coupled with healthy momentum in both domestic and export markets, helped us set this new sales record Hyundai’s sister company Kia India too recorded its highest-ever monthly wholesales since entering the Indian market at 33,462 units in October, registering 13 22 per cent y-o-y growth over 29,556 units sold in October 2025 JSW MG Motor India said it dispatched 8,013 units during the month, a 19 per cent y-o-y growth as compared with 6,397 units in October last year. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-01T14:47:24+00:00",
+      "source_id": "businessline_companies",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "country_name_ko": "인도",
+      "source_language": "en",
+      "matched_companies": [
+        "Hyundai Motor",
+        "Kia"
+      ],
+      "matched_aliases": [
+        "Hyundai Motor",
+        "Hyundai",
+        "Kia"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-india-clocks-highest-ever-monthly-sales-of-33462-units-in-october-up-13-22/articleshow/135426096.cms",
+      "canonical_link": "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-india-clocks-highest-ever-monthly-sales-of-33462-units-in-october-up-13-22/articleshow/135426096.cms",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-india-clocks-highest-ever-monthly-sales-of-33462-units-in-october-up-13-22/articleshow/135426096.cms",
+      "title": "Kia India clocks highest-ever monthly sales of 33,462 units in October, up 13.22%",
+      "summary": "Kia 관련 기사다. 기사 제목은 'Kia India clocks highest-ever monthly sales of 33,462 units in October, up 13.22%'이다. Kia India recorded its highest-ever monthly wholesales at 33,462 units in October 2026, up 13. 22% year-on-year, surpassing its previous record set in September. Cumulative sales rose 21. 31% to 2,86,470 units during January-October, exceeding the automaker's full-year 2025 sales, with festive demand and multiple powertrains supporting growth. 22% SECTIONS Kia India clocks highest-ever monthly sales of 33,462 units in October, up 13 Kia India reported its highest-ever monthly wholesales since entering the Indian market at 33,462 units in October 2026, registering a 13 The Carens and Carens Clavis also contributed to sales momentum, with their CNG variants accounting for close to 10% of Kia India's total October wholesales Commenting on the performance, Atul Sood, senior vice-president, sales and marketing, Kia India, said, “Surpassing our previous monthly sales record within just a month to achieve our highest-ever sales of 33,462 units in October reflects the growing trust customers place in Kia and the strength of our products “The Kia Sorento has received an encouraging market response, with customers appreciating its advanced technology, sophisticated features and the fuel efficiency offered by its Hybrid powertrain. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Kia India clocks highest-ever monthly sales of 33,462 units in October, up 13.22%",
+      "original_summary": "Kia India recorded its highest-ever monthly wholesales at 33,462 units in October 2026, up 13.22% year-on-year, surpassing its previous record set in September. Cumulative sales rose 21.31% to 2,86,470 units during January-October, exceeding the automaker's full-year 2025 sales, with festive demand and multiple powertrains supporting growth.",
+      "company_summary": "Kia 관련 기사다. 기사 제목은 'Kia India clocks highest-ever monthly sales of 33,462 units in October, up 13.22%'이다. Kia India recorded its highest-ever monthly wholesales at 33,462 units in October 2026, up 13. 22% year-on-year, surpassing its previous record set in September. Cumulative sales rose 21. 31% to 2,86,470 units during January-October, exceeding the automaker's full-year 2025 sales, with festive demand and multiple powertrains supporting growth. 22% SECTIONS Kia India clocks highest-ever monthly sales of 33,462 units in October, up 13 Kia India reported its highest-ever monthly wholesales since entering the Indian market at 33,462 units in October 2026, registering a 13 The Carens and Carens Clavis also contributed to sales momentum, with their CNG variants accounting for close to 10% of Kia India's total October wholesales Commenting on the performance, Atul Sood, senior vice-president, sales and marketing, Kia India, said, “Surpassing our previous monthly sales record within just a month to achieve our highest-ever sales of 33,462 units in October reflects the growing trust customers place in Kia and the strength of our products “The Kia Sorento has received an encouraging market response, with customers appreciating its advanced technology, sophisticated features and the fuel efficiency offered by its Hybrid powertrain. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-01T11:41:34+00:00",
+      "source_id": "economic_times_industry",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "country_name_ko": "인도",
+      "source_language": "en",
+      "matched_companies": [
+        "Kia"
+      ],
+      "matched_aliases": [
+        "Kia"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-sales-rise-177-in-oct-to-82299-units/article71652283.ece",
+      "canonical_link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-sales-rise-177-in-oct-to-82299-units/article71652283.ece",
+      "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-sales-rise-177-in-oct-to-82299-units/article71652283.ece",
+      "title": "Hyundai Motor India sales rise 17.7% in Oct to 82,299 units",
+      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Motor India sales rise 17.7% in Oct to 82,299 units'이다. The milestone was driven by record domestic sales of 62,799 units, a 16. 7% rise, and exports grew 21. 1% to 19,500 units, the automaker said. Hyundai Motor India sales rise 17 com/companies/hyundai-motor-india-sales-rise-177-in-oct-to-82299-units/article71652283 ece Hyundai Motor India Limited (HMIL) on Sunday reported its highest-ever total monthly sales, including exports, of 82,299 units in October, a 17 Tarun Garg, MD & CEO - HMIL, said, \"Strong festive demand, coupled with healthy momentum in both domestic and export markets, helped us set this new sales record Going forward, the newly launched Hyundai BAYON - our Intelligent Utility Vehicle, will provide further impetus to our growth in India as well as across 50+ export markets, reinforcing India's role as a strategic manufacturing and export hub for Hyundai\". 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Hyundai Motor India sales rise 17.7% in Oct to 82,299 units",
+      "original_summary": "The milestone was driven by record domestic sales of 62,799 units, a 16.7% rise, and exports grew 21.1% to 19,500 units, the automaker said",
+      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Motor India sales rise 17.7% in Oct to 82,299 units'이다. The milestone was driven by record domestic sales of 62,799 units, a 16. 7% rise, and exports grew 21. 1% to 19,500 units, the automaker said. Hyundai Motor India sales rise 17 com/companies/hyundai-motor-india-sales-rise-177-in-oct-to-82299-units/article71652283 ece Hyundai Motor India Limited (HMIL) on Sunday reported its highest-ever total monthly sales, including exports, of 82,299 units in October, a 17 Tarun Garg, MD & CEO - HMIL, said, \"Strong festive demand, coupled with healthy momentum in both domestic and export markets, helped us set this new sales record Going forward, the newly launched Hyundai BAYON - our Intelligent Utility Vehicle, will provide further impetus to our growth in India as well as across 50+ export markets, reinforcing India's role as a strategic manufacturing and export hub for Hyundai\". 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-01T07:50:01+00:00",
+      "source_id": "businessline_companies",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "country_name_ko": "인도",
+      "source_language": "en",
+      "matched_companies": [
+        "Hyundai Motor"
+      ],
+      "matched_aliases": [
+        "Hyundai Motor",
+        "Hyundai"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-tata-mm-october-sales-surge-amid-festive-cheer-escorts-kubota-declines-10/articleshow/135421007.cms",
+      "canonical_link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-tata-mm-october-sales-surge-amid-festive-cheer-escorts-kubota-declines-10/articleshow/135421007.cms",
+      "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-tata-mm-october-sales-surge-amid-festive-cheer-escorts-kubota-declines-10/articleshow/135421007.cms",
+      "title": "Hyundai, Tata, M&M, Maruti, KIA October sales surge amid festive cheer; Renault, Escorts Kubota decline",
+      "summary": "Hyundai Motor, Kia 관련 기사다. 기사 제목은 'Hyundai, Tata, M&M, Maruti, KIA October sales surge amid festive cheer; Renault, Escorts Kubota decline'이다. In October, various automakers experienced different sales results, highlighting a mixed performance across the industry. Hyundai Motor India observed a 17. 7% sales increase, with domestic and export growth. Tata Motors Passenger Vehicles reported an impressive 23% rise in sales, including a 75% increase in electric vehicles. Conversely, Escorts Kubota faced a 10% sales decline during this time period. Hyundai Motor India observed a 17 Utility vehicle sales increased to 97,787 units from 77,571 units, while passenger car sales rose to 1,00,877 units from 85,210 units Kia India recorded its highest-ever monthly sales since entering the Indian market at 33,462 units in October, up 13 22% from 29,556 units in the year-ago period Live Events Hyundai Motor India reported total sales of 82,299 units in October, up 17.",
+      "original_title": "Hyundai, Tata, M&M, Maruti, KIA October sales surge amid festive cheer; Renault, Escorts Kubota decline",
+      "original_summary": "In October, various automakers experienced different sales results, highlighting a mixed performance across the industry. Hyundai Motor India observed a 17.7% sales increase, with domestic and export growth. Tata Motors Passenger Vehicles reported an impressive 23% rise in sales, including a 75% increase in electric vehicles. Conversely, Escorts Kubota faced a 10% sales decline during this time period.",
+      "company_summary": "Hyundai Motor, Kia 관련 기사다. 기사 제목은 'Hyundai, Tata, M&M, Maruti, KIA October sales surge amid festive cheer; Renault, Escorts Kubota decline'이다. In October, various automakers experienced different sales results, highlighting a mixed performance across the industry. Hyundai Motor India observed a 17. 7% sales increase, with domestic and export growth. Tata Motors Passenger Vehicles reported an impressive 23% rise in sales, including a 75% increase in electric vehicles. Conversely, Escorts Kubota faced a 10% sales decline during this time period. Hyundai Motor India observed a 17 Utility vehicle sales increased to 97,787 units from 77,571 units, while passenger car sales rose to 1,00,877 units from 85,210 units Kia India recorded its highest-ever monthly sales since entering the Indian market at 33,462 units in October, up 13 22% from 29,556 units in the year-ago period Live Events Hyundai Motor India reported total sales of 82,299 units in October, up 17.",
+      "published_at": "2026-11-01T07:42:28+00:00",
+      "source_id": "economic_times_industry",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "country_name_ko": "인도",
+      "source_language": "en",
+      "matched_companies": [
+        "Hyundai Motor",
+        "Kia"
+      ],
+      "matched_aliases": [
+        "Hyundai Motor",
+        "Hyundai",
+        "Kia"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-india-records-highest-ever-monthly-sales-at-82299-units-in-october/articleshow/135420314.cms",
+      "canonical_link": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-india-records-highest-ever-monthly-sales-at-82299-units-in-october/articleshow/135420314.cms",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-india-records-highest-ever-monthly-sales-at-82299-units-in-october/articleshow/135420314.cms",
+      "title": "Hyundai Motor India records highest-ever monthly sales at 82,299 units in October",
+      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Motor India records highest-ever monthly sales at 82,299 units in October'이다. Hyundai Motor India Limited (HMIL) recorded its highest-ever monthly sales of 82,299 units in October, registering a year-on-year growth of 17. 7 per cent, driven by strong festive demand and increased sales in both domestic and export markets. \"October 2026 has been an exceptional month for Hyundai Motor India, with total sales of 82,299 units, our highest-ever monthly sales since inception with a robust 17 Live Events He added that the newly launched Hyundai BAYON, positioned as the company's Intelligent Utility Vehicle, is expected to provide further impetus to growth in India and across more than 50 export markets The company said the new model would reinforce India's position as a strategic manufacturing and export hub for Hyundai Separately, the Hyundai VENUE recorded its highest-ever domestic monthly sales of 13,017 units during October 2026, contributing to the company's overall performance Hyundai Motor India said the BAYON's planned contribution across domestic and international markets would support its growth outlook in the coming months. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Hyundai Motor India records highest-ever monthly sales at 82,299 units in October",
+      "original_summary": "Hyundai Motor India Limited (HMIL) recorded its highest-ever monthly sales of 82,299 units in October, registering a year-on-year growth of 17.7 per cent, driven by strong festive demand and increased sales in both domestic and export markets.",
+      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Motor India records highest-ever monthly sales at 82,299 units in October'이다. Hyundai Motor India Limited (HMIL) recorded its highest-ever monthly sales of 82,299 units in October, registering a year-on-year growth of 17. 7 per cent, driven by strong festive demand and increased sales in both domestic and export markets. \"October 2026 has been an exceptional month for Hyundai Motor India, with total sales of 82,299 units, our highest-ever monthly sales since inception with a robust 17 Live Events He added that the newly launched Hyundai BAYON, positioned as the company's Intelligent Utility Vehicle, is expected to provide further impetus to growth in India and across more than 50 export markets The company said the new model would reinforce India's position as a strategic manufacturing and export hub for Hyundai Separately, the Hyundai VENUE recorded its highest-ever domestic monthly sales of 13,017 units during October 2026, contributing to the company's overall performance Hyundai Motor India said the BAYON's planned contribution across domestic and international markets would support its growth outlook in the coming months. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-01T06:58:39+00:00",
+      "source_id": "economic_times_industry",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "country_name_ko": "인도",
+      "source_language": "en",
+      "matched_companies": [
+        "Hyundai Motor"
+      ],
+      "matched_aliases": [
+        "Hyundai Motor",
+        "Hyundai"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://www.scmp.com/tech/big-tech/article/3372785/us-or-china-why-kazakhstan-refuses-pick-sides-it-eyes-ai-revolution",
+      "canonical_link": "https://www.scmp.com/tech/big-tech/article/3372785/us-or-china-why-kazakhstan-refuses-pick-sides-it-eyes-ai-revolution",
+      "link": "https://www.scmp.com/tech/big-tech/article/3372785/us-or-china-why-kazakhstan-refuses-pick-sides-it-eyes-ai-revolution",
+      "title": "US or China? Why Kazakhstan refuses to pick sides as it eyes AI revolution",
+      "summary": "Hyundai Motor, Kia 관련 기사다. 기사 제목은 'US or China? Why Kazakhstan refuses to pick sides as it eyes AI revolution'이다. Driving along the wide boulevards of Astana during a recent trip to the Kazakh capital, signs of China’s growing commercial footprint were everywhere. Chinese cars were becoming a common sight on the streets here, as brands from BYD to Changan made aggressive inroads in a market once dominated by South Korea’s Hyundai and Kia, said the driver who picked me up from the airport in a gleaming Changan electric vehicle. But it was not the rise of Chinese tech that had brought me to this energy-rich. . Why Kazakhstan refuses to pick sides as it eyes AI revolution Like other middle powers, the Central Asian nation is striving to build a new AI economy while bridging a widening US-China tech divide 3 -MIN READ 3 -MIN 1 Listen Ben Jiang in Astana, Kazakhstan Published: 2:00pm, 1 Nov 2026 Driving along the wide boulevards of Astana during a recent trip to the Kazakh capital, signs of China’s growing commercial footprint were everywhere Chinese cars were becoming a common sight on the streets here, as brands from BYD to Changan made aggressive inroads in a market once dominated by South Korea’s Hyundai and Kia, said the driver who picked me up from the airport in a gleaming Changan electric vehicle But it was not the rise of Chinese tech that had brought me to this energy-rich pocket of Central Asia; it was an American giant Select Voice Select Speed 0. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "US or China? Why Kazakhstan refuses to pick sides as it eyes AI revolution",
+      "original_summary": "Driving along the wide boulevards of Astana during a recent trip to the Kazakh capital, signs of China’s growing commercial footprint were everywhere. Chinese cars were becoming a common sight on the streets here, as brands from BYD to Changan made aggressive inroads in a market once dominated by South Korea’s Hyundai and Kia, said the driver who picked me up from the airport in a gleaming Changan electric vehicle. But it was not the rise of Chinese tech that had brought me to this energy-rich...",
+      "company_summary": "Hyundai Motor, Kia 관련 기사다. 기사 제목은 'US or China? Why Kazakhstan refuses to pick sides as it eyes AI revolution'이다. Driving along the wide boulevards of Astana during a recent trip to the Kazakh capital, signs of China’s growing commercial footprint were everywhere. Chinese cars were becoming a common sight on the streets here, as brands from BYD to Changan made aggressive inroads in a market once dominated by South Korea’s Hyundai and Kia, said the driver who picked me up from the airport in a gleaming Changan electric vehicle. But it was not the rise of Chinese tech that had brought me to this energy-rich. . Why Kazakhstan refuses to pick sides as it eyes AI revolution Like other middle powers, the Central Asian nation is striving to build a new AI economy while bridging a widening US-China tech divide 3 -MIN READ 3 -MIN 1 Listen Ben Jiang in Astana, Kazakhstan Published: 2:00pm, 1 Nov 2026 Driving along the wide boulevards of Astana during a recent trip to the Kazakh capital, signs of China’s growing commercial footprint were everywhere Chinese cars were becoming a common sight on the streets here, as brands from BYD to Changan made aggressive inroads in a market once dominated by South Korea’s Hyundai and Kia, said the driver who picked me up from the airport in a gleaming Changan electric vehicle But it was not the rise of Chinese tech that had brought me to this energy-rich pocket of Central Asia; it was an American giant Select Voice Select Speed 0. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-01T06:00:13+00:00",
+      "source_id": "scmp_world",
+      "source_name": "South China Morning Post World",
+      "country_code": "HK",
+      "country_name_ko": "홍콩",
+      "source_language": "en",
+      "matched_companies": [
+        "Hyundai Motor",
+        "Kia"
+      ],
+      "matched_aliases": [
+        "Hyundai",
+        "Kia"
+      ],
+      "is_new": true
+    }
+  ],
+  "matched_articles": [
+    {
+      "article_key": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/festive-dispatches-drive-october-car-sales-to-record-high/articleshow/135430795.cms",
+      "canonical_link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/festive-dispatches-drive-october-car-sales-to-record-high/articleshow/135430795.cms",
+      "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/festive-dispatches-drive-october-car-sales-to-record-high/articleshow/135430795.cms",
+      "title": "Festive dispatches drive October car sales to record high",
+      "summary": "Hyundai Motor, Kia 관련 기사다. 기사 제목은 'Festive dispatches drive October car sales to record high'이다. India's passenger vehicle dispatches to dealerships are estimated to have risen 13-14% year-on-year to a record 5. 25-5. 30 lakh units in October, driven by festive demand. Maruti Suzuki, Mahindra, Hyundai and Kia reported record monthly sales, while two-wheeler and commercial vehicle makers also posted strong growth. Maruti Suzuki, Mahindra, Hyundai and Kia reported record monthly sales, while two-wheeler and commercial vehicle makers also posted strong growth The local unit of Korean auto major Hyundai, which recently launched a new model in the fast-growing mid-SUV segment, dispatched 62,799 units to domestic dealerships, registering 16 Including exports, its sales grew about 18% to 82,299 units in October “Strong festive demand, coupled with healthy momentum in both domestic and export markets, helped us set this new sales record,” said Hyundai Motor India chief executive Tarun Garg Kia India dispatched 33,462 units, registering 13. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Festive dispatches drive October car sales to record high",
+      "original_summary": "India's passenger vehicle dispatches to dealerships are estimated to have risen 13-14% year-on-year to a record 5.25-5.30 lakh units in October, driven by festive demand. Maruti Suzuki, Mahindra, Hyundai and Kia reported record monthly sales, while two-wheeler and commercial vehicle makers also posted strong growth.",
+      "company_summary": "Hyundai Motor, Kia 관련 기사다. 기사 제목은 'Festive dispatches drive October car sales to record high'이다. India's passenger vehicle dispatches to dealerships are estimated to have risen 13-14% year-on-year to a record 5. 25-5. 30 lakh units in October, driven by festive demand. Maruti Suzuki, Mahindra, Hyundai and Kia reported record monthly sales, while two-wheeler and commercial vehicle makers also posted strong growth. Maruti Suzuki, Mahindra, Hyundai and Kia reported record monthly sales, while two-wheeler and commercial vehicle makers also posted strong growth The local unit of Korean auto major Hyundai, which recently launched a new model in the fast-growing mid-SUV segment, dispatched 62,799 units to domestic dealerships, registering 16 Including exports, its sales grew about 18% to 82,299 units in October “Strong festive demand, coupled with healthy momentum in both domestic and export markets, helped us set this new sales record,” said Hyundai Motor India chief executive Tarun Garg Kia India dispatched 33,462 units, registering 13. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-01T15:18:01+00:00",
+      "source_id": "economic_times_industry",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "country_name_ko": "인도",
+      "source_language": "en",
+      "matched_companies": [
+        "Hyundai Motor",
+        "Kia"
+      ],
+      "matched_aliases": [
+        "Hyundai",
+        "Kia"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://www.thehindubusinessline.com/companies/festive-mode-brings-cheer-to-automakers-with-record-sales-in-october/article71652377.ece",
+      "canonical_link": "https://www.thehindubusinessline.com/companies/festive-mode-brings-cheer-to-automakers-with-record-sales-in-october/article71652377.ece",
+      "link": "https://www.thehindubusinessline.com/companies/festive-mode-brings-cheer-to-automakers-with-record-sales-in-october/article71652377.ece",
+      "title": "Strong festive demand lifts October passenger vehicle wholesales by 13% to 5.30 lakh units",
+      "summary": "Hyundai Motor, Kia 관련 기사다. 기사 제목은 'Strong festive demand lifts October passenger vehicle wholesales by 13% to 5.30 lakh units'이다. Maruti Suzuki India, Tata Motors, Hyundai Motor India, Kia India, Mahindra & Mahindra see best-ever October sales. 7 per cent y-o-y as compared with 53,792 units in October 2025 “Strong festive demand, coupled with healthy momentum in both domestic and export markets, helped us set this new sales record Hyundai’s sister company Kia India too recorded its highest-ever monthly wholesales since entering the Indian market at 33,462 units in October, registering 13 22 per cent y-o-y growth over 29,556 units sold in October 2025 JSW MG Motor India said it dispatched 8,013 units during the month, a 19 per cent y-o-y growth as compared with 6,397 units in October last year. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Strong festive demand lifts October passenger vehicle wholesales by 13% to 5.30 lakh units",
+      "original_summary": "Maruti Suzuki India, Tata Motors, Hyundai Motor India, Kia India, Mahindra & Mahindra see best-ever October sales",
+      "company_summary": "Hyundai Motor, Kia 관련 기사다. 기사 제목은 'Strong festive demand lifts October passenger vehicle wholesales by 13% to 5.30 lakh units'이다. Maruti Suzuki India, Tata Motors, Hyundai Motor India, Kia India, Mahindra & Mahindra see best-ever October sales. 7 per cent y-o-y as compared with 53,792 units in October 2025 “Strong festive demand, coupled with healthy momentum in both domestic and export markets, helped us set this new sales record Hyundai’s sister company Kia India too recorded its highest-ever monthly wholesales since entering the Indian market at 33,462 units in October, registering 13 22 per cent y-o-y growth over 29,556 units sold in October 2025 JSW MG Motor India said it dispatched 8,013 units during the month, a 19 per cent y-o-y growth as compared with 6,397 units in October last year. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-01T14:47:24+00:00",
+      "source_id": "businessline_companies",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "country_name_ko": "인도",
+      "source_language": "en",
+      "matched_companies": [
+        "Hyundai Motor",
+        "Kia"
+      ],
+      "matched_aliases": [
+        "Hyundai Motor",
+        "Hyundai",
+        "Kia"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-india-clocks-highest-ever-monthly-sales-of-33462-units-in-october-up-13-22/articleshow/135426096.cms",
+      "canonical_link": "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-india-clocks-highest-ever-monthly-sales-of-33462-units-in-october-up-13-22/articleshow/135426096.cms",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-india-clocks-highest-ever-monthly-sales-of-33462-units-in-october-up-13-22/articleshow/135426096.cms",
+      "title": "Kia India clocks highest-ever monthly sales of 33,462 units in October, up 13.22%",
+      "summary": "Kia 관련 기사다. 기사 제목은 'Kia India clocks highest-ever monthly sales of 33,462 units in October, up 13.22%'이다. Kia India recorded its highest-ever monthly wholesales at 33,462 units in October 2026, up 13. 22% year-on-year, surpassing its previous record set in September. Cumulative sales rose 21. 31% to 2,86,470 units during January-October, exceeding the automaker's full-year 2025 sales, with festive demand and multiple powertrains supporting growth. 22% SECTIONS Kia India clocks highest-ever monthly sales of 33,462 units in October, up 13 Kia India reported its highest-ever monthly wholesales since entering the Indian market at 33,462 units in October 2026, registering a 13 The Carens and Carens Clavis also contributed to sales momentum, with their CNG variants accounting for close to 10% of Kia India's total October wholesales Commenting on the performance, Atul Sood, senior vice-president, sales and marketing, Kia India, said, “Surpassing our previous monthly sales record within just a month to achieve our highest-ever sales of 33,462 units in October reflects the growing trust customers place in Kia and the strength of our products “The Kia Sorento has received an encouraging market response, with customers appreciating its advanced technology, sophisticated features and the fuel efficiency offered by its Hybrid powertrain. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Kia India clocks highest-ever monthly sales of 33,462 units in October, up 13.22%",
+      "original_summary": "Kia India recorded its highest-ever monthly wholesales at 33,462 units in October 2026, up 13.22% year-on-year, surpassing its previous record set in September. Cumulative sales rose 21.31% to 2,86,470 units during January-October, exceeding the automaker's full-year 2025 sales, with festive demand and multiple powertrains supporting growth.",
+      "company_summary": "Kia 관련 기사다. 기사 제목은 'Kia India clocks highest-ever monthly sales of 33,462 units in October, up 13.22%'이다. Kia India recorded its highest-ever monthly wholesales at 33,462 units in October 2026, up 13. 22% year-on-year, surpassing its previous record set in September. Cumulative sales rose 21. 31% to 2,86,470 units during January-October, exceeding the automaker's full-year 2025 sales, with festive demand and multiple powertrains supporting growth. 22% SECTIONS Kia India clocks highest-ever monthly sales of 33,462 units in October, up 13 Kia India reported its highest-ever monthly wholesales since entering the Indian market at 33,462 units in October 2026, registering a 13 The Carens and Carens Clavis also contributed to sales momentum, with their CNG variants accounting for close to 10% of Kia India's total October wholesales Commenting on the performance, Atul Sood, senior vice-president, sales and marketing, Kia India, said, “Surpassing our previous monthly sales record within just a month to achieve our highest-ever sales of 33,462 units in October reflects the growing trust customers place in Kia and the strength of our products “The Kia Sorento has received an encouraging market response, with customers appreciating its advanced technology, sophisticated features and the fuel efficiency offered by its Hybrid powertrain. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-01T11:41:34+00:00",
+      "source_id": "economic_times_industry",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "country_name_ko": "인도",
+      "source_language": "en",
+      "matched_companies": [
+        "Kia"
+      ],
+      "matched_aliases": [
+        "Kia"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-sales-rise-177-in-oct-to-82299-units/article71652283.ece",
+      "canonical_link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-sales-rise-177-in-oct-to-82299-units/article71652283.ece",
+      "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-sales-rise-177-in-oct-to-82299-units/article71652283.ece",
+      "title": "Hyundai Motor India sales rise 17.7% in Oct to 82,299 units",
+      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Motor India sales rise 17.7% in Oct to 82,299 units'이다. The milestone was driven by record domestic sales of 62,799 units, a 16. 7% rise, and exports grew 21. 1% to 19,500 units, the automaker said. Hyundai Motor India sales rise 17 com/companies/hyundai-motor-india-sales-rise-177-in-oct-to-82299-units/article71652283 ece Hyundai Motor India Limited (HMIL) on Sunday reported its highest-ever total monthly sales, including exports, of 82,299 units in October, a 17 Tarun Garg, MD & CEO - HMIL, said, \"Strong festive demand, coupled with healthy momentum in both domestic and export markets, helped us set this new sales record Going forward, the newly launched Hyundai BAYON - our Intelligent Utility Vehicle, will provide further impetus to our growth in India as well as across 50+ export markets, reinforcing India's role as a strategic manufacturing and export hub for Hyundai\". 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Hyundai Motor India sales rise 17.7% in Oct to 82,299 units",
+      "original_summary": "The milestone was driven by record domestic sales of 62,799 units, a 16.7% rise, and exports grew 21.1% to 19,500 units, the automaker said",
+      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Motor India sales rise 17.7% in Oct to 82,299 units'이다. The milestone was driven by record domestic sales of 62,799 units, a 16. 7% rise, and exports grew 21. 1% to 19,500 units, the automaker said. Hyundai Motor India sales rise 17 com/companies/hyundai-motor-india-sales-rise-177-in-oct-to-82299-units/article71652283 ece Hyundai Motor India Limited (HMIL) on Sunday reported its highest-ever total monthly sales, including exports, of 82,299 units in October, a 17 Tarun Garg, MD & CEO - HMIL, said, \"Strong festive demand, coupled with healthy momentum in both domestic and export markets, helped us set this new sales record Going forward, the newly launched Hyundai BAYON - our Intelligent Utility Vehicle, will provide further impetus to our growth in India as well as across 50+ export markets, reinforcing India's role as a strategic manufacturing and export hub for Hyundai\". 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-01T07:50:01+00:00",
+      "source_id": "businessline_companies",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "country_name_ko": "인도",
+      "source_language": "en",
+      "matched_companies": [
+        "Hyundai Motor"
+      ],
+      "matched_aliases": [
+        "Hyundai Motor",
+        "Hyundai"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-tata-mm-october-sales-surge-amid-festive-cheer-escorts-kubota-declines-10/articleshow/135421007.cms",
+      "canonical_link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-tata-mm-october-sales-surge-amid-festive-cheer-escorts-kubota-declines-10/articleshow/135421007.cms",
+      "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-tata-mm-october-sales-surge-amid-festive-cheer-escorts-kubota-declines-10/articleshow/135421007.cms",
+      "title": "Hyundai, Tata, M&M, Maruti, KIA October sales surge amid festive cheer; Renault, Escorts Kubota decline",
+      "summary": "Hyundai Motor, Kia 관련 기사다. 기사 제목은 'Hyundai, Tata, M&M, Maruti, KIA October sales surge amid festive cheer; Renault, Escorts Kubota decline'이다. In October, various automakers experienced different sales results, highlighting a mixed performance across the industry. Hyundai Motor India observed a 17. 7% sales increase, with domestic and export growth. Tata Motors Passenger Vehicles reported an impressive 23% rise in sales, including a 75% increase in electric vehicles. Conversely, Escorts Kubota faced a 10% sales decline during this time period. Hyundai Motor India observed a 17 Utility vehicle sales increased to 97,787 units from 77,571 units, while passenger car sales rose to 1,00,877 units from 85,210 units Kia India recorded its highest-ever monthly sales since entering the Indian market at 33,462 units in October, up 13 22% from 29,556 units in the year-ago period Live Events Hyundai Motor India reported total sales of 82,299 units in October, up 17.",
+      "original_title": "Hyundai, Tata, M&M, Maruti, KIA October sales surge amid festive cheer; Renault, Escorts Kubota decline",
+      "original_summary": "In October, various automakers experienced different sales results, highlighting a mixed performance across the industry. Hyundai Motor India observed a 17.7% sales increase, with domestic and export growth. Tata Motors Passenger Vehicles reported an impressive 23% rise in sales, including a 75% increase in electric vehicles. Conversely, Escorts Kubota faced a 10% sales decline during this time period.",
+      "company_summary": "Hyundai Motor, Kia 관련 기사다. 기사 제목은 'Hyundai, Tata, M&M, Maruti, KIA October sales surge amid festive cheer; Renault, Escorts Kubota decline'이다. In October, various automakers experienced different sales results, highlighting a mixed performance across the industry. Hyundai Motor India observed a 17. 7% sales increase, with domestic and export growth. Tata Motors Passenger Vehicles reported an impressive 23% rise in sales, including a 75% increase in electric vehicles. Conversely, Escorts Kubota faced a 10% sales decline during this time period. Hyundai Motor India observed a 17 Utility vehicle sales increased to 97,787 units from 77,571 units, while passenger car sales rose to 1,00,877 units from 85,210 units Kia India recorded its highest-ever monthly sales since entering the Indian market at 33,462 units in October, up 13 22% from 29,556 units in the year-ago period Live Events Hyundai Motor India reported total sales of 82,299 units in October, up 17.",
+      "published_at": "2026-11-01T07:42:28+00:00",
+      "source_id": "economic_times_industry",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "country_name_ko": "인도",
+      "source_language": "en",
+      "matched_companies": [
+        "Hyundai Motor",
+        "Kia"
+      ],
+      "matched_aliases": [
+        "Hyundai Motor",
+        "Hyundai",
+        "Kia"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-india-records-highest-ever-monthly-sales-at-82299-units-in-october/articleshow/135420314.cms",
+      "canonical_link": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-india-records-highest-ever-monthly-sales-at-82299-units-in-october/articleshow/135420314.cms",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-india-records-highest-ever-monthly-sales-at-82299-units-in-october/articleshow/135420314.cms",
+      "title": "Hyundai Motor India records highest-ever monthly sales at 82,299 units in October",
+      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Motor India records highest-ever monthly sales at 82,299 units in October'이다. Hyundai Motor India Limited (HMIL) recorded its highest-ever monthly sales of 82,299 units in October, registering a year-on-year growth of 17. 7 per cent, driven by strong festive demand and increased sales in both domestic and export markets. \"October 2026 has been an exceptional month for Hyundai Motor India, with total sales of 82,299 units, our highest-ever monthly sales since inception with a robust 17 Live Events He added that the newly launched Hyundai BAYON, positioned as the company's Intelligent Utility Vehicle, is expected to provide further impetus to growth in India and across more than 50 export markets The company said the new model would reinforce India's position as a strategic manufacturing and export hub for Hyundai Separately, the Hyundai VENUE recorded its highest-ever domestic monthly sales of 13,017 units during October 2026, contributing to the company's overall performance Hyundai Motor India said the BAYON's planned contribution across domestic and international markets would support its growth outlook in the coming months. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Hyundai Motor India records highest-ever monthly sales at 82,299 units in October",
+      "original_summary": "Hyundai Motor India Limited (HMIL) recorded its highest-ever monthly sales of 82,299 units in October, registering a year-on-year growth of 17.7 per cent, driven by strong festive demand and increased sales in both domestic and export markets.",
+      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Motor India records highest-ever monthly sales at 82,299 units in October'이다. Hyundai Motor India Limited (HMIL) recorded its highest-ever monthly sales of 82,299 units in October, registering a year-on-year growth of 17. 7 per cent, driven by strong festive demand and increased sales in both domestic and export markets. \"October 2026 has been an exceptional month for Hyundai Motor India, with total sales of 82,299 units, our highest-ever monthly sales since inception with a robust 17 Live Events He added that the newly launched Hyundai BAYON, positioned as the company's Intelligent Utility Vehicle, is expected to provide further impetus to growth in India and across more than 50 export markets The company said the new model would reinforce India's position as a strategic manufacturing and export hub for Hyundai Separately, the Hyundai VENUE recorded its highest-ever domestic monthly sales of 13,017 units during October 2026, contributing to the company's overall performance Hyundai Motor India said the BAYON's planned contribution across domestic and international markets would support its growth outlook in the coming months. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-01T06:58:39+00:00",
+      "source_id": "economic_times_industry",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "country_name_ko": "인도",
+      "source_language": "en",
+      "matched_companies": [
+        "Hyundai Motor"
+      ],
+      "matched_aliases": [
+        "Hyundai Motor",
+        "Hyundai"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://www.scmp.com/tech/big-tech/article/3372785/us-or-china-why-kazakhstan-refuses-pick-sides-it-eyes-ai-revolution",
+      "canonical_link": "https://www.scmp.com/tech/big-tech/article/3372785/us-or-china-why-kazakhstan-refuses-pick-sides-it-eyes-ai-revolution",
+      "link": "https://www.scmp.com/tech/big-tech/article/3372785/us-or-china-why-kazakhstan-refuses-pick-sides-it-eyes-ai-revolution",
+      "title": "US or China? Why Kazakhstan refuses to pick sides as it eyes AI revolution",
+      "summary": "Hyundai Motor, Kia 관련 기사다. 기사 제목은 'US or China? Why Kazakhstan refuses to pick sides as it eyes AI revolution'이다. Driving along the wide boulevards of Astana during a recent trip to the Kazakh capital, signs of China’s growing commercial footprint were everywhere. Chinese cars were becoming a common sight on the streets here, as brands from BYD to Changan made aggressive inroads in a market once dominated by South Korea’s Hyundai and Kia, said the driver who picked me up from the airport in a gleaming Changan electric vehicle. But it was not the rise of Chinese tech that had brought me to this energy-rich. . Why Kazakhstan refuses to pick sides as it eyes AI revolution Like other middle powers, the Central Asian nation is striving to build a new AI economy while bridging a widening US-China tech divide 3 -MIN READ 3 -MIN 1 Listen Ben Jiang in Astana, Kazakhstan Published: 2:00pm, 1 Nov 2026 Driving along the wide boulevards of Astana during a recent trip to the Kazakh capital, signs of China’s growing commercial footprint were everywhere Chinese cars were becoming a common sight on the streets here, as brands from BYD to Changan made aggressive inroads in a market once dominated by South Korea’s Hyundai and Kia, said the driver who picked me up from the airport in a gleaming Changan electric vehicle But it was not the rise of Chinese tech that had brought me to this energy-rich pocket of Central Asia; it was an American giant Select Voice Select Speed 0. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "US or China? Why Kazakhstan refuses to pick sides as it eyes AI revolution",
+      "original_summary": "Driving along the wide boulevards of Astana during a recent trip to the Kazakh capital, signs of China’s growing commercial footprint were everywhere. Chinese cars were becoming a common sight on the streets here, as brands from BYD to Changan made aggressive inroads in a market once dominated by South Korea’s Hyundai and Kia, said the driver who picked me up from the airport in a gleaming Changan electric vehicle. But it was not the rise of Chinese tech that had brought me to this energy-rich...",
+      "company_summary": "Hyundai Motor, Kia 관련 기사다. 기사 제목은 'US or China? Why Kazakhstan refuses to pick sides as it eyes AI revolution'이다. Driving along the wide boulevards of Astana during a recent trip to the Kazakh capital, signs of China’s growing commercial footprint were everywhere. Chinese cars were becoming a common sight on the streets here, as brands from BYD to Changan made aggressive inroads in a market once dominated by South Korea’s Hyundai and Kia, said the driver who picked me up from the airport in a gleaming Changan electric vehicle. But it was not the rise of Chinese tech that had brought me to this energy-rich. . Why Kazakhstan refuses to pick sides as it eyes AI revolution Like other middle powers, the Central Asian nation is striving to build a new AI economy while bridging a widening US-China tech divide 3 -MIN READ 3 -MIN 1 Listen Ben Jiang in Astana, Kazakhstan Published: 2:00pm, 1 Nov 2026 Driving along the wide boulevards of Astana during a recent trip to the Kazakh capital, signs of China’s growing commercial footprint were everywhere Chinese cars were becoming a common sight on the streets here, as brands from BYD to Changan made aggressive inroads in a market once dominated by South Korea’s Hyundai and Kia, said the driver who picked me up from the airport in a gleaming Changan electric vehicle But it was not the rise of Chinese tech that had brought me to this energy-rich pocket of Central Asia; it was an American giant Select Voice Select Speed 0. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-01T06:00:13+00:00",
+      "source_id": "scmp_world",
+      "source_name": "South China Morning Post World",
+      "country_code": "HK",
+      "country_name_ko": "홍콩",
+      "source_language": "en",
+      "matched_companies": [
+        "Hyundai Motor",
+        "Kia"
+      ],
+      "matched_aliases": [
+        "Hyundai",
+        "Kia"
+      ],
+      "is_new": true
+    }
+  ],
   "source_runs": [
     {
       "source_id": "nyt_business",
@@ -222,7 +570,7 @@
       "source_name": "Deutsche Welle World",
       "country_code": "DE",
       "success": true,
-      "item_count": 9,
+      "item_count": 10,
       "matched_count": 0,
       "error": ""
     },
@@ -240,7 +588,7 @@
       "source_name": "tagesschau Wirtschaft",
       "country_code": "DE",
       "success": true,
-      "item_count": 26,
+      "item_count": 29,
       "matched_count": 0,
       "error": ""
     },
@@ -267,7 +615,7 @@
       "source_name": "BBC Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 50,
+      "item_count": 52,
       "matched_count": 0,
       "error": ""
     },
@@ -276,7 +624,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 27,
+      "item_count": 25,
       "matched_count": 0,
       "error": ""
     },
@@ -502,7 +850,7 @@
       "country_code": "IN",
       "success": true,
       "item_count": 50,
-      "matched_count": 0,
+      "matched_count": 4,
       "error": ""
     },
     {
@@ -520,7 +868,7 @@
       "country_code": "IN",
       "success": true,
       "item_count": 60,
-      "matched_count": 0,
+      "matched_count": 2,
       "error": ""
     },
     {
@@ -537,7 +885,7 @@
       "source_name": "CNA Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 20,
+      "item_count": 19,
       "matched_count": 0,
       "error": ""
     },
@@ -546,7 +894,7 @@
       "source_name": "CNA Asia",
       "country_code": "SG",
       "success": true,
-      "item_count": 17,
+      "item_count": 15,
       "matched_count": 0,
       "error": ""
     },
@@ -564,7 +912,7 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 34,
+      "item_count": 18,
       "matched_count": 0,
       "error": ""
     },
@@ -592,7 +940,7 @@
       "country_code": "HK",
       "success": true,
       "item_count": 50,
-      "matched_count": 0,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -601,7 +949,7 @@
       "country_code": "HK",
       "success": true,
       "item_count": 50,
-      "matched_count": 0,
+      "matched_count": 1,
       "error": ""
     },
     {

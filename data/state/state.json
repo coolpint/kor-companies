@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-01T02:19:00.049172+00:00",
+  "last_run_at": "2026-11-01T16:06:29.596214+00:00",
   "seen_articles": {
-    "https://www.cnbc.com/2026/09/16/samsung-sk-hynix-ai-boom-students-university-programs.html": {
-      "title": "Inside South Korea’s university programs offering a direct route to Samsung and SK Hynix",
-      "link": "https://www.cnbc.com/2026/09/16/samsung-sk-hynix-ai-boom-students-university-programs.html",
-      "source_name": "CNBC World News",
-      "country_code": "US",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-09-16T01:10:38.669906+00:00",
-      "last_seen_at": "2026-09-17T14:11:31.702695+00:00"
-    },
     "https://www.cnbc.com/2026/09/16/intel-sk-hynix-us-memory-chips.html": {
       "title": "Intel, SK Hynix shares jump on report they're discussing U.S. memory chip manufacturing",
       "link": "https://www.cnbc.com/2026/09/16/intel-sk-hynix-us-memory-chips.html",
@@ -24,28 +13,6 @@
       "first_seen_at": "2026-09-16T14:06:37.629631+00:00",
       "last_seen_at": "2026-09-18T01:07:39.061614+00:00"
     },
-    "https://economictimes.indiatimes.com/tech/technology/mirae-asset-venture-investments-others-pay-rs-12-75-lakh-to-settle-sebi-proceedings-over-violations/articleshow/134287979.cms": {
-      "title": "Mirae Asset Venture Investments, others pay Rs 12.75 lakh to settle Sebi proceedings over violations",
-      "link": "https://economictimes.indiatimes.com/tech/technology/mirae-asset-venture-investments-others-pay-rs-12-75-lakh-to-settle-sebi-proceedings-over-violations/articleshow/134287979.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Mirae Asset"
-      ],
-      "first_seen_at": "2026-09-16T14:06:37.629631+00:00",
-      "last_seen_at": "2026-09-17T14:11:31.702695+00:00"
-    },
-    "https://abcnews.com/Business/wireStory/honda-hr-kia-seltos-budget-suv-edmunds-comparison-136488521": {
-      "title": "Honda HR-V vs Kia Seltos, a budget SUV Edmunds comparison",
-      "link": "https://abcnews.com/Business/wireStory/honda-hr-kia-seltos-budget-suv-edmunds-comparison-136488521",
-      "source_name": "ABC News Business",
-      "country_code": "US",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-09-16T14:06:37.629631+00:00",
-      "last_seen_at": "2026-09-17T14:11:31.702695+00:00"
-    },
     "https://www.straitstimes.com/business/companies-markets/sk-hynix-says-exploring-options-after-report-of-intel-tie-up": {
       "title": "SK Hynix says it’s exploring options after report of Intel tie-up",
       "link": "https://www.straitstimes.com/business/companies-markets/sk-hynix-says-exploring-options-after-report-of-intel-tie-up",
@@ -56,17 +23,6 @@
       ],
       "first_seen_at": "2026-09-17T01:12:19.157653+00:00",
       "last_seen_at": "2026-09-18T01:07:39.061614+00:00"
-    },
-    "https://www.taipeitimes.com/News/biz/archives/2026/09/17/2003864382": {
-      "title": "SK Hynix mulling making chips in US",
-      "link": "https://www.taipeitimes.com/News/biz/archives/2026/09/17/2003864382",
-      "source_name": "Taipei Times",
-      "country_code": "TW",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-09-17T01:12:19.157653+00:00",
-      "last_seen_at": "2026-09-17T14:11:31.702695+00:00"
     },
     "https://www.straitstimes.com/business/sk-hynix-in-talks-with-intel-about-deal-to-make-memory-chips-in-us-for-the-first-time-sources-say": {
       "title": "SK Hynix in talks with Intel about deal to make memory chips in US for the first time, sources say",
@@ -1364,6 +1320,87 @@
       ],
       "first_seen_at": "2026-10-30T15:59:53.529975+00:00",
       "last_seen_at": "2026-10-31T15:23:15.630801+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/cars-uvs/festive-dispatches-drive-october-car-sales-to-record-high/articleshow/135430795.cms": {
+      "title": "Festive dispatches drive October car sales to record high",
+      "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/festive-dispatches-drive-october-car-sales-to-record-high/articleshow/135430795.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor",
+        "Kia"
+      ],
+      "first_seen_at": "2026-11-01T16:06:29.596214+00:00",
+      "last_seen_at": "2026-11-01T16:06:29.596214+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/festive-mode-brings-cheer-to-automakers-with-record-sales-in-october/article71652377.ece": {
+      "title": "Strong festive demand lifts October passenger vehicle wholesales by 13% to 5.30 lakh units",
+      "link": "https://www.thehindubusinessline.com/companies/festive-mode-brings-cheer-to-automakers-with-record-sales-in-october/article71652377.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor",
+        "Kia"
+      ],
+      "first_seen_at": "2026-11-01T16:06:29.596214+00:00",
+      "last_seen_at": "2026-11-01T16:06:29.596214+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-india-clocks-highest-ever-monthly-sales-of-33462-units-in-october-up-13-22/articleshow/135426096.cms": {
+      "title": "Kia India clocks highest-ever monthly sales of 33,462 units in October, up 13.22%",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-india-clocks-highest-ever-monthly-sales-of-33462-units-in-october-up-13-22/articleshow/135426096.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Kia"
+      ],
+      "first_seen_at": "2026-11-01T16:06:29.596214+00:00",
+      "last_seen_at": "2026-11-01T16:06:29.596214+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/hyundai-motor-india-sales-rise-177-in-oct-to-82299-units/article71652283.ece": {
+      "title": "Hyundai Motor India sales rise 17.7% in Oct to 82,299 units",
+      "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-sales-rise-177-in-oct-to-82299-units/article71652283.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-11-01T16:06:29.596214+00:00",
+      "last_seen_at": "2026-11-01T16:06:29.596214+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-tata-mm-october-sales-surge-amid-festive-cheer-escorts-kubota-declines-10/articleshow/135421007.cms": {
+      "title": "Hyundai, Tata, M&M, Maruti, KIA October sales surge amid festive cheer; Renault, Escorts Kubota decline",
+      "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-tata-mm-october-sales-surge-amid-festive-cheer-escorts-kubota-declines-10/articleshow/135421007.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor",
+        "Kia"
+      ],
+      "first_seen_at": "2026-11-01T16:06:29.596214+00:00",
+      "last_seen_at": "2026-11-01T16:06:29.596214+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-india-records-highest-ever-monthly-sales-at-82299-units-in-october/articleshow/135420314.cms": {
+      "title": "Hyundai Motor India records highest-ever monthly sales at 82,299 units in October",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-india-records-highest-ever-monthly-sales-at-82299-units-in-october/articleshow/135420314.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-11-01T16:06:29.596214+00:00",
+      "last_seen_at": "2026-11-01T16:06:29.596214+00:00"
+    },
+    "https://www.scmp.com/tech/big-tech/article/3372785/us-or-china-why-kazakhstan-refuses-pick-sides-it-eyes-ai-revolution": {
+      "title": "US or China? Why Kazakhstan refuses to pick sides as it eyes AI revolution",
+      "link": "https://www.scmp.com/tech/big-tech/article/3372785/us-or-china-why-kazakhstan-refuses-pick-sides-it-eyes-ai-revolution",
+      "source_name": "South China Morning Post World",
+      "country_code": "HK",
+      "companies": [
+        "Hyundai Motor",
+        "Kia"
+      ],
+      "first_seen_at": "2026-11-01T16:06:29.596214+00:00",
+      "last_seen_at": "2026-11-01T16:06:29.596214+00:00"
     }
   }
 }
