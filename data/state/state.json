@@ -1,29 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-02T02:35:17.599028+00:00",
+  "last_run_at": "2026-11-02T19:34:11.436634+00:00",
   "seen_articles": {
-    "https://www.scmp.com/tech/big-tech/article/3367853/once-reliant-samsung-and-sk-hynix-chinese-smartphone-makers-are-turning-cxmt": {
-      "title": "Once reliant on Samsung and SK Hynix, Chinese smartphone makers are turning to CXMT",
-      "link": "https://www.scmp.com/tech/big-tech/article/3367853/once-reliant-samsung-and-sk-hynix-chinese-smartphone-makers-are-turning-cxmt",
-      "source_name": "South China Morning Post Tech",
-      "country_code": "HK",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-09-17T14:11:31.702695+00:00",
-      "last_seen_at": "2026-09-18T13:30:04.749875+00:00"
-    },
-    "https://www.channelnewsasia.com/business/sk-hynixs-solidigm-unit-weighing-nand-memory-chip-factory-in-us-sources-say-6394121": {
-      "title": "SK Hynix's Solidigm unit is weighing NAND memory chip factory in US, sources say",
-      "link": "https://www.channelnewsasia.com/business/sk-hynixs-solidigm-unit-weighing-nand-memory-chip-factory-in-us-sources-say-6394121",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-09-18T13:30:04.749875+00:00",
-      "last_seen_at": "2026-09-18T13:30:04.749875+00:00"
-    },
     "https://economictimes.indiatimes.com/tech/technology/sk-hynixs-solidigm-unit-is-weighing-nand-memory-chip-factory-in-us-sources-say/articleshow/134341197.cms": {
       "title": "SK Hynix's Solidigm unit is weighing NAND memory chip factory in US, sources say",
       "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynixs-solidigm-unit-is-weighing-nand-memory-chip-factory-in-us-sources-say/articleshow/134341197.cms",
@@ -1310,7 +1288,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-11-01T16:06:29.596214+00:00",
-      "last_seen_at": "2026-11-02T02:35:17.599028+00:00"
+      "last_seen_at": "2026-11-02T19:34:11.436634+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-india-clocks-highest-ever-monthly-sales-of-33462-units-in-october-up-13-22/articleshow/135426096.cms": {
       "title": "Kia India clocks highest-ever monthly sales of 33,462 units in October, up 13.22%",
@@ -1332,7 +1310,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-11-01T16:06:29.596214+00:00",
-      "last_seen_at": "2026-11-02T02:35:17.599028+00:00"
+      "last_seen_at": "2026-11-02T19:34:11.436634+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-tata-mm-october-sales-surge-amid-festive-cheer-escorts-kubota-declines-10/articleshow/135421007.cms": {
       "title": "Hyundai, Tata, M&M, Maruti, KIA October sales surge amid festive cheer; Renault, Escorts Kubota decline",
@@ -1380,6 +1358,18 @@
       ],
       "first_seen_at": "2026-11-02T02:35:17.599028+00:00",
       "last_seen_at": "2026-11-02T02:35:17.599028+00:00"
+    },
+    "https://www.channelnewsasia.com/east-asia/south-korea-vows-bold-ai-investment-budget-6512016": {
+      "title": "South Korea’s president vows to make bold AI investment in record budget push",
+      "link": "https://www.channelnewsasia.com/east-asia/south-korea-vows-bold-ai-investment-budget-6512016",
+      "source_name": "CNA Asia",
+      "country_code": "SG",
+      "companies": [
+        "Samsung Electronics",
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-11-02T19:34:11.436634+00:00",
+      "last_seen_at": "2026-11-02T19:34:11.436634+00:00"
     }
   }
 }

@@ -1,23 +1,23 @@
 # 해외 언론 한국 기업 모니터링
 
-- 실행 시각: 2026-11-02 11:35:17 KST
+- 실행 시각: 2026-11-03 04:34:11 KST
 - 활성 소스: 73개
 - 정상 수집: 70개
 - 실패 소스: 3개
-- 매칭 기사: 8건
+- 매칭 기사: 3건
 - 신규 기사: 1건
 
 ## 신규 기사
 
-### Andhra Pradesh beats Tamil Nadu to win Rs 1,614 crore investment from three Hyundai, Kia suppliers
+### South Korea’s president vows to make bold AI investment in record budget push
 
-- 회사: Hyundai Motor, Kia
-- 국가/매체: 인도 / The Economic Times Industry
-- 발행 시각: 2026-11-02 04:00 KST
-- 링크: https://economictimes.indiatimes.com/industry/auto/auto-news/andhra-pradesh-beats-tamil-nadu-to-win-rs-1614-crore-investment-from-three-hyundai-kia-suppliers/articleshow/135436222.cms
-- 매칭 별칭: Hyundai, Kia
-- 원문 제목: Andhra Pradesh beats Tamil Nadu to win Rs 1,614 crore investment from three Hyundai, Kia suppliers
-- 요약: Hyundai Motor, Kia 관련 기사다. 기사 제목은 'Andhra Pradesh beats Tamil Nadu to win Rs 1,614 crore investment from three Hyundai, Kia suppliers'이다. Three South Korean automotive component manufacturers have committed to invest ₹1,614 crore in Anantapur, Andhra Pradesh. Hwashin, Seoyon, and Iwamet have signed MoUs with the state government for setting up facilities. The investments follow Andhra Pradesh's proactive efforts to attract global manufacturing investments. These projects are expected to create 1,418 jobs, enhancing the region's automotive manufacturing capabilities. New Delhi|Chennai: In a significant win for Andhra Pradesh's efforts to attract global manufacturing investments , three South Korean automotive component manufacturers supplying Hyundai and Kia have chosen the state over Tamil Nadu for their expansion plans, committing a combined investment of ₹1,614 crore in Anantapur The development marks a setback for Tamil Nadu, which has been actively courting Korean companies to deepen its automobile manufacturing ecosystem and had held discussions with all three companies to set up or expand their operations in the state Hwashin, Seoyon and Iwamet have signed memorandums of understanding (MoUs) with the Andhra Pradesh government to establish manufacturing facilities in Anantapur Also read: Kia India clocks highest-ever monthly sales of 33,462 units in October, up 13 22% Hwa…
+- 회사: Samsung Electronics, SK hynix
+- 국가/매체: 싱가포르 / CNA Asia
+- 발행 시각: 2026-11-02 13:19 KST
+- 링크: https://www.channelnewsasia.com/east-asia/south-korea-vows-bold-ai-investment-budget-6512016
+- 매칭 별칭: Samsung Electronics, SK hynix
+- 원문 제목: South Korea’s president vows to make bold AI investment in record budget push
+- 요약: Samsung Electronics, SK hynix 관련 기사다. 기사 제목은 'South Korea’s president vows to make bold AI investment in record budget push'이다. South Korea’s economy has been heavily boosted by demand for advanced chips used in AI, lifting exports and the earnings of memory chip makers Samsung Electronics and SK Hynix. 9 trillion won aiming to strengthen South Korea’s technological edge as global competition over AI intensifies South Korea’s economy has been heavily boosted by demand for advanced chips used in AI, lifting exports and the earnings of memory chip makers Samsung Electronics and SK Hynix CNA Games Guess Word Crack the word, one row at a time Buzzword Create words using the given letters Mini Sudoku Tiny puzzle, mighty brain teaser Mini Crossword Small grid, big challenge Word Search Spot as many words as you can Show More Show Less Asia's fourth-largest economy grew faster than expected in the third quarter on chip exports and investment 3 trillion won Future Response Fund, financed largely by additional tax revenue from the semiconductor boom, to support growth industries, young people, regional development and education while providing a buffer against future revenue shortfalls Lee is simultaneously pursuing nationwide megaprojects centred on chips, physical AI and data centres, including an 800 trillion won private sector chip buildout led by Samsung and SK Hynix in the countr…
 
 ## 실패한 소스
 
