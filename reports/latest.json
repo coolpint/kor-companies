@@ -1,39 +1,13 @@
 {
-  "run_at": "2026-11-02T19:34:11.436634+00:00",
+  "run_at": "2026-11-03T03:56:57.673563+00:00",
   "summary": {
     "source_count": 73,
     "success_count": 70,
     "failed_count": 3,
-    "matched_count": 3,
-    "new_count": 1
+    "matched_count": 2,
+    "new_count": 0
   },
-  "new_articles": [
-    {
-      "article_key": "https://www.channelnewsasia.com/east-asia/south-korea-vows-bold-ai-investment-budget-6512016",
-      "canonical_link": "https://www.channelnewsasia.com/east-asia/south-korea-vows-bold-ai-investment-budget-6512016",
-      "link": "https://www.channelnewsasia.com/east-asia/south-korea-vows-bold-ai-investment-budget-6512016",
-      "title": "South Korea’s president vows to make bold AI investment in record budget push",
-      "summary": "Samsung Electronics, SK hynix 관련 기사다. 기사 제목은 'South Korea’s president vows to make bold AI investment in record budget push'이다. South Korea’s economy has been heavily boosted by demand for advanced chips used in AI, lifting exports and the earnings of memory chip makers Samsung Electronics and SK Hynix. 9 trillion won aiming to strengthen South Korea’s technological edge as global competition over AI intensifies South Korea’s economy has been heavily boosted by demand for advanced chips used in AI, lifting exports and the earnings of memory chip makers Samsung Electronics and SK Hynix CNA Games Guess Word Crack the word, one row at a time Buzzword Create words using the given letters Mini Sudoku Tiny puzzle, mighty brain teaser Mini Crossword Small grid, big challenge Word Search Spot as many words as you can Show More Show Less Asia's fourth-largest economy grew faster than expected in the third quarter on chip exports and investment 3 trillion won Future Response Fund, financed largely by additional tax revenue from the semiconductor boom, to support growth industries, young people, regional development and education while providing a buffer against future revenue shortfalls Lee is simultaneously pursuing nationwide megaprojects centred on chips, physical AI and data centres, including an 800 trillion won private sector chip buildout led by Samsung and SK Hynix in the country's southwest. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "South Korea’s president vows to make bold AI investment in record budget push",
-      "original_summary": "South Korea’s economy has been heavily boosted by demand for advanced chips used in AI, lifting exports and the earnings of memory chip makers Samsung Electronics and SK Hynix.",
-      "company_summary": "Samsung Electronics, SK hynix 관련 기사다. 기사 제목은 'South Korea’s president vows to make bold AI investment in record budget push'이다. South Korea’s economy has been heavily boosted by demand for advanced chips used in AI, lifting exports and the earnings of memory chip makers Samsung Electronics and SK Hynix. 9 trillion won aiming to strengthen South Korea’s technological edge as global competition over AI intensifies South Korea’s economy has been heavily boosted by demand for advanced chips used in AI, lifting exports and the earnings of memory chip makers Samsung Electronics and SK Hynix CNA Games Guess Word Crack the word, one row at a time Buzzword Create words using the given letters Mini Sudoku Tiny puzzle, mighty brain teaser Mini Crossword Small grid, big challenge Word Search Spot as many words as you can Show More Show Less Asia's fourth-largest economy grew faster than expected in the third quarter on chip exports and investment 3 trillion won Future Response Fund, financed largely by additional tax revenue from the semiconductor boom, to support growth industries, young people, regional development and education while providing a buffer against future revenue shortfalls Lee is simultaneously pursuing nationwide megaprojects centred on chips, physical AI and data centres, including an 800 trillion won private sector chip buildout led by Samsung and SK Hynix in the country's southwest. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-11-02T04:19:14+00:00",
-      "source_id": "cna_asia",
-      "source_name": "CNA Asia",
-      "country_code": "SG",
-      "country_name_ko": "싱가포르",
-      "source_language": "en",
-      "matched_companies": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "matched_aliases": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "is_new": true
-    }
-  ],
+  "new_articles": [],
   "matched_articles": [
     {
       "article_key": "https://www.channelnewsasia.com/east-asia/south-korea-vows-bold-ai-investment-budget-6512016",
@@ -58,7 +32,7 @@
         "Samsung Electronics",
         "SK hynix"
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "article_key": "https://www.thehindubusinessline.com/companies/festive-mode-brings-cheer-to-automakers-with-record-sales-in-october/article71652377.ece",
@@ -85,30 +59,6 @@
         "Kia"
       ],
       "is_new": false
-    },
-    {
-      "article_key": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-sales-rise-177-in-oct-to-82299-units/article71652283.ece",
-      "canonical_link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-sales-rise-177-in-oct-to-82299-units/article71652283.ece",
-      "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-sales-rise-177-in-oct-to-82299-units/article71652283.ece",
-      "title": "Hyundai Motor India sales rise 17.7% in Oct to 82,299 units",
-      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Motor India sales rise 17.7% in Oct to 82,299 units'이다. The milestone was driven by record domestic sales of 62,799 units, a 16. 7% rise, and exports grew 21. 1% to 19,500 units, the automaker said. Hyundai Motor India sales rise 17 com/companies/hyundai-motor-india-sales-rise-177-in-oct-to-82299-units/article71652283 ece Hyundai Motor India Limited (HMIL) on Sunday reported its highest-ever total monthly sales, including exports, of 82,299 units in October, a 17 Tarun Garg, MD & CEO - HMIL, said, \"Strong festive demand, coupled with healthy momentum in both domestic and export markets, helped us set this new sales record Going forward, the newly launched Hyundai BAYON - our Intelligent Utility Vehicle, will provide further impetus to our growth in India as well as across 50+ export markets, reinforcing India's role as a strategic manufacturing and export hub for Hyundai\". 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Hyundai Motor India sales rise 17.7% in Oct to 82,299 units",
-      "original_summary": "The milestone was driven by record domestic sales of 62,799 units, a 16.7% rise, and exports grew 21.1% to 19,500 units, the automaker said",
-      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Motor India sales rise 17.7% in Oct to 82,299 units'이다. The milestone was driven by record domestic sales of 62,799 units, a 16. 7% rise, and exports grew 21. 1% to 19,500 units, the automaker said. Hyundai Motor India sales rise 17 com/companies/hyundai-motor-india-sales-rise-177-in-oct-to-82299-units/article71652283 ece Hyundai Motor India Limited (HMIL) on Sunday reported its highest-ever total monthly sales, including exports, of 82,299 units in October, a 17 Tarun Garg, MD & CEO - HMIL, said, \"Strong festive demand, coupled with healthy momentum in both domestic and export markets, helped us set this new sales record Going forward, the newly launched Hyundai BAYON - our Intelligent Utility Vehicle, will provide further impetus to our growth in India as well as across 50+ export markets, reinforcing India's role as a strategic manufacturing and export hub for Hyundai\". 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-11-01T07:50:01+00:00",
-      "source_id": "businessline_companies",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "country_name_ko": "인도",
-      "source_language": "en",
-      "matched_companies": [
-        "Hyundai Motor"
-      ],
-      "matched_aliases": [
-        "Hyundai Motor",
-        "Hyundai"
-      ],
-      "is_new": false
     }
   ],
   "source_runs": [
@@ -126,7 +76,7 @@
       "source_name": "The New York Times Technology",
       "country_code": "US",
       "success": true,
-      "item_count": 30,
+      "item_count": 32,
       "matched_count": 0,
       "error": ""
     },
@@ -324,7 +274,7 @@
       "source_name": "Deutsche Welle World",
       "country_code": "DE",
       "success": true,
-      "item_count": 11,
+      "item_count": 12,
       "matched_count": 0,
       "error": ""
     },
@@ -369,7 +319,7 @@
       "source_name": "BBC Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 49,
+      "item_count": 53,
       "matched_count": 0,
       "error": ""
     },
@@ -378,7 +328,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 33,
+      "item_count": 36,
       "matched_count": 0,
       "error": ""
     },
@@ -441,7 +391,7 @@
       "source_name": "The Independent Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 0,
+      "item_count": 1,
       "matched_count": 0,
       "error": ""
     },
@@ -622,7 +572,7 @@
       "country_code": "IN",
       "success": true,
       "item_count": 60,
-      "matched_count": 2,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -666,7 +616,7 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 37,
+      "item_count": 43,
       "matched_count": 0,
       "error": ""
     },

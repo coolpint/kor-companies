@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-02T19:34:11.436634+00:00",
+  "last_run_at": "2026-11-03T03:56:57.673563+00:00",
   "seen_articles": {
     "https://economictimes.indiatimes.com/tech/technology/sk-hynixs-solidigm-unit-is-weighing-nand-memory-chip-factory-in-us-sources-say/articleshow/134341197.cms": {
       "title": "SK Hynix's Solidigm unit is weighing NAND memory chip factory in US, sources say",
@@ -1288,7 +1288,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-11-01T16:06:29.596214+00:00",
-      "last_seen_at": "2026-11-02T19:34:11.436634+00:00"
+      "last_seen_at": "2026-11-03T03:56:57.673563+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-india-clocks-highest-ever-monthly-sales-of-33462-units-in-october-up-13-22/articleshow/135426096.cms": {
       "title": "Kia India clocks highest-ever monthly sales of 33,462 units in October, up 13.22%",
@@ -1369,7 +1369,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-11-02T19:34:11.436634+00:00",
-      "last_seen_at": "2026-11-02T19:34:11.436634+00:00"
+      "last_seen_at": "2026-11-03T03:56:57.673563+00:00"
     }
   }
 }
