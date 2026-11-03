@@ -1,64 +1,106 @@
 {
-  "run_at": "2026-11-03T03:56:57.673563+00:00",
+  "run_at": "2026-11-03T17:08:33.353325+00:00",
   "summary": {
     "source_count": 73,
     "success_count": 70,
     "failed_count": 3,
     "matched_count": 2,
-    "new_count": 0
+    "new_count": 2
   },
-  "new_articles": [],
-  "matched_articles": [
+  "new_articles": [
     {
-      "article_key": "https://www.channelnewsasia.com/east-asia/south-korea-vows-bold-ai-investment-budget-6512016",
-      "canonical_link": "https://www.channelnewsasia.com/east-asia/south-korea-vows-bold-ai-investment-budget-6512016",
-      "link": "https://www.channelnewsasia.com/east-asia/south-korea-vows-bold-ai-investment-budget-6512016",
-      "title": "South Korea’s president vows to make bold AI investment in record budget push",
-      "summary": "Samsung Electronics, SK hynix 관련 기사다. 기사 제목은 'South Korea’s president vows to make bold AI investment in record budget push'이다. South Korea’s economy has been heavily boosted by demand for advanced chips used in AI, lifting exports and the earnings of memory chip makers Samsung Electronics and SK Hynix. 9 trillion won aiming to strengthen South Korea’s technological edge as global competition over AI intensifies South Korea’s economy has been heavily boosted by demand for advanced chips used in AI, lifting exports and the earnings of memory chip makers Samsung Electronics and SK Hynix CNA Games Guess Word Crack the word, one row at a time Buzzword Create words using the given letters Mini Sudoku Tiny puzzle, mighty brain teaser Mini Crossword Small grid, big challenge Word Search Spot as many words as you can Show More Show Less Asia's fourth-largest economy grew faster than expected in the third quarter on chip exports and investment 3 trillion won Future Response Fund, financed largely by additional tax revenue from the semiconductor boom, to support growth industries, young people, regional development and education while providing a buffer against future revenue shortfalls Lee is simultaneously pursuing nationwide megaprojects centred on chips, physical AI and data centres, including an 800 trillion won private sector chip buildout led by Samsung and SK Hynix in the country's southwest. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "South Korea’s president vows to make bold AI investment in record budget push",
-      "original_summary": "South Korea’s economy has been heavily boosted by demand for advanced chips used in AI, lifting exports and the earnings of memory chip makers Samsung Electronics and SK Hynix.",
-      "company_summary": "Samsung Electronics, SK hynix 관련 기사다. 기사 제목은 'South Korea’s president vows to make bold AI investment in record budget push'이다. South Korea’s economy has been heavily boosted by demand for advanced chips used in AI, lifting exports and the earnings of memory chip makers Samsung Electronics and SK Hynix. 9 trillion won aiming to strengthen South Korea’s technological edge as global competition over AI intensifies South Korea’s economy has been heavily boosted by demand for advanced chips used in AI, lifting exports and the earnings of memory chip makers Samsung Electronics and SK Hynix CNA Games Guess Word Crack the word, one row at a time Buzzword Create words using the given letters Mini Sudoku Tiny puzzle, mighty brain teaser Mini Crossword Small grid, big challenge Word Search Spot as many words as you can Show More Show Less Asia's fourth-largest economy grew faster than expected in the third quarter on chip exports and investment 3 trillion won Future Response Fund, financed largely by additional tax revenue from the semiconductor boom, to support growth industries, young people, regional development and education while providing a buffer against future revenue shortfalls Lee is simultaneously pursuing nationwide megaprojects centred on chips, physical AI and data centres, including an 800 trillion won private sector chip buildout led by Samsung and SK Hynix in the country's southwest. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-11-02T04:19:14+00:00",
-      "source_id": "cna_asia",
-      "source_name": "CNA Asia",
-      "country_code": "SG",
-      "country_name_ko": "싱가포르",
-      "source_language": "en",
-      "matched_companies": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "matched_aliases": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "is_new": false
-    },
-    {
-      "article_key": "https://www.thehindubusinessline.com/companies/festive-mode-brings-cheer-to-automakers-with-record-sales-in-october/article71652377.ece",
-      "canonical_link": "https://www.thehindubusinessline.com/companies/festive-mode-brings-cheer-to-automakers-with-record-sales-in-october/article71652377.ece",
-      "link": "https://www.thehindubusinessline.com/companies/festive-mode-brings-cheer-to-automakers-with-record-sales-in-october/article71652377.ece",
-      "title": "Strong festive demand lifts October passenger vehicle wholesales by 13% to 5.30 lakh units",
-      "summary": "Hyundai Motor, Kia 관련 기사다. 기사 제목은 'Strong festive demand lifts October passenger vehicle wholesales by 13% to 5.30 lakh units'이다. Maruti Suzuki India, Tata Motors, Hyundai Motor India, Kia India, Mahindra & Mahindra see best-ever October sales. 7 per cent y-o-y as compared with 53,792 units in October 2025 “Strong festive demand, coupled with healthy momentum in both domestic and export markets, helped us set this new sales record Hyundai’s sister company Kia India too recorded its highest-ever monthly wholesales since entering the Indian market at 33,462 units in October, registering 13 22 per cent y-o-y growth over 29,556 units sold in October 2025 JSW MG Motor India said it dispatched 8,013 units during the month, a 19 per cent y-o-y growth as compared with 6,397 units in October last year. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Strong festive demand lifts October passenger vehicle wholesales by 13% to 5.30 lakh units",
-      "original_summary": "Maruti Suzuki India, Tata Motors, Hyundai Motor India, Kia India, Mahindra & Mahindra see best-ever October sales",
-      "company_summary": "Hyundai Motor, Kia 관련 기사다. 기사 제목은 'Strong festive demand lifts October passenger vehicle wholesales by 13% to 5.30 lakh units'이다. Maruti Suzuki India, Tata Motors, Hyundai Motor India, Kia India, Mahindra & Mahindra see best-ever October sales. 7 per cent y-o-y as compared with 53,792 units in October 2025 “Strong festive demand, coupled with healthy momentum in both domestic and export markets, helped us set this new sales record Hyundai’s sister company Kia India too recorded its highest-ever monthly wholesales since entering the Indian market at 33,462 units in October, registering 13 22 per cent y-o-y growth over 29,556 units sold in October 2025 JSW MG Motor India said it dispatched 8,013 units during the month, a 19 per cent y-o-y growth as compared with 6,397 units in October last year. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-11-01T18:33:27+00:00",
-      "source_id": "businessline_companies",
-      "source_name": "BusinessLine Companies",
+      "article_key": "https://economictimes.indiatimes.com/industry/auto/auto-news/maruti-mahindra-tata-hyundai-indian-autos-real-test-lies-ahead-after-firecracker-start-to-festive-season-diwali/articleshow/135485968.cms",
+      "canonical_link": "https://economictimes.indiatimes.com/industry/auto/auto-news/maruti-mahindra-tata-hyundai-indian-autos-real-test-lies-ahead-after-firecracker-start-to-festive-season-diwali/articleshow/135485968.cms",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/maruti-mahindra-tata-hyundai-indian-autos-real-test-lies-ahead-after-firecracker-start-to-festive-season-diwali/articleshow/135485968.cms",
+      "title": "Indian auto's real test lies ahead after firecracker start to festive season",
+      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Indian auto's real test lies ahead after firecracker start to festive season'이다. India’s passenger vehicle dispatches crossed the 5-lakh mark for the first time in October, with wholesales estimated to grow 13-15% year-on-year to 5. 25-5. 3 lakh units. Maruti Suzuki and Hyundai reported record monthly sales, while commercial vehicle makers also posted strong growth. Maruti Suzuki and Hyundai reported record monthly sales, while commercial vehicle makers also posted strong growth ET Online India's car sales (AI-generated image) India’s carmakers had a bumper festive month, shifting into top gear in October as passenger vehicle dispatches crossed 5 lakh units for the first time, with Maruti Suzuki , Mahindra and Hyundai posting record monthly sales Hyundai Motor India ’s domestic wholesales rose 16 \"Strong festive demand, coupled with healthy momentum in both domestic and export markets, helped us set this new sales record,\" said Tarun Garg, managing director and CEO of Hyundai Motor India Growth faces post-festive test While demand has remained resilient despite last year's tax-cut-led surge, analysts said the real test will come after the festive season. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Indian auto's real test lies ahead after firecracker start to festive season",
+      "original_summary": "India’s passenger vehicle dispatches crossed the 5-lakh mark for the first time in October, with wholesales estimated to grow 13-15% year-on-year to 5.25-5.3 lakh units. Maruti Suzuki and Hyundai reported record monthly sales, while commercial vehicle makers also posted strong growth.",
+      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Indian auto's real test lies ahead after firecracker start to festive season'이다. India’s passenger vehicle dispatches crossed the 5-lakh mark for the first time in October, with wholesales estimated to grow 13-15% year-on-year to 5. 25-5. 3 lakh units. Maruti Suzuki and Hyundai reported record monthly sales, while commercial vehicle makers also posted strong growth. Maruti Suzuki and Hyundai reported record monthly sales, while commercial vehicle makers also posted strong growth ET Online India's car sales (AI-generated image) India’s carmakers had a bumper festive month, shifting into top gear in October as passenger vehicle dispatches crossed 5 lakh units for the first time, with Maruti Suzuki , Mahindra and Hyundai posting record monthly sales Hyundai Motor India ’s domestic wholesales rose 16 \"Strong festive demand, coupled with healthy momentum in both domestic and export markets, helped us set this new sales record,\" said Tarun Garg, managing director and CEO of Hyundai Motor India Growth faces post-festive test While demand has remained resilient despite last year's tax-cut-led surge, analysts said the real test will come after the festive season. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-03T07:28:03+00:00",
+      "source_id": "economic_times_industry",
+      "source_name": "The Economic Times Industry",
       "country_code": "IN",
       "country_name_ko": "인도",
       "source_language": "en",
       "matched_companies": [
-        "Hyundai Motor",
-        "Kia"
+        "Hyundai Motor"
       ],
       "matched_aliases": [
-        "Hyundai Motor",
-        "Hyundai",
-        "Kia"
+        "Hyundai"
       ],
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "article_key": "https://economictimes.indiatimes.com/industry/media/entertainment/krafton-steps-up-india-bets-to-build-next-global-gaming-franchise-beyond-pubg/articleshow/135484336.cms",
+      "canonical_link": "https://economictimes.indiatimes.com/industry/media/entertainment/krafton-steps-up-india-bets-to-build-next-global-gaming-franchise-beyond-pubg/articleshow/135484336.cms",
+      "link": "https://economictimes.indiatimes.com/industry/media/entertainment/krafton-steps-up-india-bets-to-build-next-global-gaming-franchise-beyond-pubg/articleshow/135484336.cms",
+      "title": "Krafton steps up India bets to build next global gaming franchise beyond PUBG",
+      "summary": "Krafton 관련 기사다. 기사 제목은 'Krafton steps up India bets to build next global gaming franchise beyond PUBG'이다. Krafton Inc. is actively investing in India's gaming industry to fuel its growth and develop new titles. The company aims to expand beyond its successful PUBG franchise, which has achieved immense popularity in India. With plans to acquire another studio, Krafton seeks to leverage India's talent pool and expertise in software development. The Bangalore team is expected to grow significantly, aided by advancements in artificial intelligence. With plans to acquire another studio, Krafton seeks to leverage India's talent pool and expertise in software development To bolster its work in the country, Krafton last year purchased a controlling stake in Nautilus Mobile, the Pune-based maker of mobile game Real Cricket The Krafton Bangalore development team could swell to as many as 50 people over the next two years, with artificial intelligence helping to bridge the shortage of experienced gaming talent in India, Sohn said Krafton has invested $250 million in India’s digital entertainment, gaming and fintech startups as of September The strategy is to better connect its digital entertainment business, according to the Krafton India CEO.",
+      "original_title": "Krafton steps up India bets to build next global gaming franchise beyond PUBG",
+      "original_summary": "Krafton Inc. is actively investing in India's gaming industry to fuel its growth and develop new titles. The company aims to expand beyond its successful PUBG franchise, which has achieved immense popularity in India. With plans to acquire another studio, Krafton seeks to leverage India's talent pool and expertise in software development. The Bangalore team is expected to grow significantly, aided by advancements in artificial intelligence.",
+      "company_summary": "Krafton 관련 기사다. 기사 제목은 'Krafton steps up India bets to build next global gaming franchise beyond PUBG'이다. Krafton Inc. is actively investing in India's gaming industry to fuel its growth and develop new titles. The company aims to expand beyond its successful PUBG franchise, which has achieved immense popularity in India. With plans to acquire another studio, Krafton seeks to leverage India's talent pool and expertise in software development. The Bangalore team is expected to grow significantly, aided by advancements in artificial intelligence. With plans to acquire another studio, Krafton seeks to leverage India's talent pool and expertise in software development To bolster its work in the country, Krafton last year purchased a controlling stake in Nautilus Mobile, the Pune-based maker of mobile game Real Cricket The Krafton Bangalore development team could swell to as many as 50 people over the next two years, with artificial intelligence helping to bridge the shortage of experienced gaming talent in India, Sohn said Krafton has invested $250 million in India’s digital entertainment, gaming and fintech startups as of September The strategy is to better connect its digital entertainment business, according to the Krafton India CEO.",
+      "published_at": "2026-11-03T05:59:51+00:00",
+      "source_id": "economic_times_industry",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "country_name_ko": "인도",
+      "source_language": "en",
+      "matched_companies": [
+        "Krafton"
+      ],
+      "matched_aliases": [
+        "Krafton"
+      ],
+      "is_new": true
+    }
+  ],
+  "matched_articles": [
+    {
+      "article_key": "https://economictimes.indiatimes.com/industry/auto/auto-news/maruti-mahindra-tata-hyundai-indian-autos-real-test-lies-ahead-after-firecracker-start-to-festive-season-diwali/articleshow/135485968.cms",
+      "canonical_link": "https://economictimes.indiatimes.com/industry/auto/auto-news/maruti-mahindra-tata-hyundai-indian-autos-real-test-lies-ahead-after-firecracker-start-to-festive-season-diwali/articleshow/135485968.cms",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/maruti-mahindra-tata-hyundai-indian-autos-real-test-lies-ahead-after-firecracker-start-to-festive-season-diwali/articleshow/135485968.cms",
+      "title": "Indian auto's real test lies ahead after firecracker start to festive season",
+      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Indian auto's real test lies ahead after firecracker start to festive season'이다. India’s passenger vehicle dispatches crossed the 5-lakh mark for the first time in October, with wholesales estimated to grow 13-15% year-on-year to 5. 25-5. 3 lakh units. Maruti Suzuki and Hyundai reported record monthly sales, while commercial vehicle makers also posted strong growth. Maruti Suzuki and Hyundai reported record monthly sales, while commercial vehicle makers also posted strong growth ET Online India's car sales (AI-generated image) India’s carmakers had a bumper festive month, shifting into top gear in October as passenger vehicle dispatches crossed 5 lakh units for the first time, with Maruti Suzuki , Mahindra and Hyundai posting record monthly sales Hyundai Motor India ’s domestic wholesales rose 16 \"Strong festive demand, coupled with healthy momentum in both domestic and export markets, helped us set this new sales record,\" said Tarun Garg, managing director and CEO of Hyundai Motor India Growth faces post-festive test While demand has remained resilient despite last year's tax-cut-led surge, analysts said the real test will come after the festive season. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Indian auto's real test lies ahead after firecracker start to festive season",
+      "original_summary": "India’s passenger vehicle dispatches crossed the 5-lakh mark for the first time in October, with wholesales estimated to grow 13-15% year-on-year to 5.25-5.3 lakh units. Maruti Suzuki and Hyundai reported record monthly sales, while commercial vehicle makers also posted strong growth.",
+      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Indian auto's real test lies ahead after firecracker start to festive season'이다. India’s passenger vehicle dispatches crossed the 5-lakh mark for the first time in October, with wholesales estimated to grow 13-15% year-on-year to 5. 25-5. 3 lakh units. Maruti Suzuki and Hyundai reported record monthly sales, while commercial vehicle makers also posted strong growth. Maruti Suzuki and Hyundai reported record monthly sales, while commercial vehicle makers also posted strong growth ET Online India's car sales (AI-generated image) India’s carmakers had a bumper festive month, shifting into top gear in October as passenger vehicle dispatches crossed 5 lakh units for the first time, with Maruti Suzuki , Mahindra and Hyundai posting record monthly sales Hyundai Motor India ’s domestic wholesales rose 16 \"Strong festive demand, coupled with healthy momentum in both domestic and export markets, helped us set this new sales record,\" said Tarun Garg, managing director and CEO of Hyundai Motor India Growth faces post-festive test While demand has remained resilient despite last year's tax-cut-led surge, analysts said the real test will come after the festive season. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-03T07:28:03+00:00",
+      "source_id": "economic_times_industry",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "country_name_ko": "인도",
+      "source_language": "en",
+      "matched_companies": [
+        "Hyundai Motor"
+      ],
+      "matched_aliases": [
+        "Hyundai"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://economictimes.indiatimes.com/industry/media/entertainment/krafton-steps-up-india-bets-to-build-next-global-gaming-franchise-beyond-pubg/articleshow/135484336.cms",
+      "canonical_link": "https://economictimes.indiatimes.com/industry/media/entertainment/krafton-steps-up-india-bets-to-build-next-global-gaming-franchise-beyond-pubg/articleshow/135484336.cms",
+      "link": "https://economictimes.indiatimes.com/industry/media/entertainment/krafton-steps-up-india-bets-to-build-next-global-gaming-franchise-beyond-pubg/articleshow/135484336.cms",
+      "title": "Krafton steps up India bets to build next global gaming franchise beyond PUBG",
+      "summary": "Krafton 관련 기사다. 기사 제목은 'Krafton steps up India bets to build next global gaming franchise beyond PUBG'이다. Krafton Inc. is actively investing in India's gaming industry to fuel its growth and develop new titles. The company aims to expand beyond its successful PUBG franchise, which has achieved immense popularity in India. With plans to acquire another studio, Krafton seeks to leverage India's talent pool and expertise in software development. The Bangalore team is expected to grow significantly, aided by advancements in artificial intelligence. With plans to acquire another studio, Krafton seeks to leverage India's talent pool and expertise in software development To bolster its work in the country, Krafton last year purchased a controlling stake in Nautilus Mobile, the Pune-based maker of mobile game Real Cricket The Krafton Bangalore development team could swell to as many as 50 people over the next two years, with artificial intelligence helping to bridge the shortage of experienced gaming talent in India, Sohn said Krafton has invested $250 million in India’s digital entertainment, gaming and fintech startups as of September The strategy is to better connect its digital entertainment business, according to the Krafton India CEO.",
+      "original_title": "Krafton steps up India bets to build next global gaming franchise beyond PUBG",
+      "original_summary": "Krafton Inc. is actively investing in India's gaming industry to fuel its growth and develop new titles. The company aims to expand beyond its successful PUBG franchise, which has achieved immense popularity in India. With plans to acquire another studio, Krafton seeks to leverage India's talent pool and expertise in software development. The Bangalore team is expected to grow significantly, aided by advancements in artificial intelligence.",
+      "company_summary": "Krafton 관련 기사다. 기사 제목은 'Krafton steps up India bets to build next global gaming franchise beyond PUBG'이다. Krafton Inc. is actively investing in India's gaming industry to fuel its growth and develop new titles. The company aims to expand beyond its successful PUBG franchise, which has achieved immense popularity in India. With plans to acquire another studio, Krafton seeks to leverage India's talent pool and expertise in software development. The Bangalore team is expected to grow significantly, aided by advancements in artificial intelligence. With plans to acquire another studio, Krafton seeks to leverage India's talent pool and expertise in software development To bolster its work in the country, Krafton last year purchased a controlling stake in Nautilus Mobile, the Pune-based maker of mobile game Real Cricket The Krafton Bangalore development team could swell to as many as 50 people over the next two years, with artificial intelligence helping to bridge the shortage of experienced gaming talent in India, Sohn said Krafton has invested $250 million in India’s digital entertainment, gaming and fintech startups as of September The strategy is to better connect its digital entertainment business, according to the Krafton India CEO.",
+      "published_at": "2026-11-03T05:59:51+00:00",
+      "source_id": "economic_times_industry",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "country_name_ko": "인도",
+      "source_language": "en",
+      "matched_companies": [
+        "Krafton"
+      ],
+      "matched_aliases": [
+        "Krafton"
+      ],
+      "is_new": true
     }
   ],
   "source_runs": [
@@ -76,7 +118,7 @@
       "source_name": "The New York Times Technology",
       "country_code": "US",
       "success": true,
-      "item_count": 32,
+      "item_count": 28,
       "matched_count": 0,
       "error": ""
     },
@@ -274,7 +316,7 @@
       "source_name": "Deutsche Welle World",
       "country_code": "DE",
       "success": true,
-      "item_count": 12,
+      "item_count": 11,
       "matched_count": 0,
       "error": ""
     },
@@ -292,7 +334,7 @@
       "source_name": "tagesschau Wirtschaft",
       "country_code": "DE",
       "success": true,
-      "item_count": 16,
+      "item_count": 25,
       "matched_count": 0,
       "error": ""
     },
@@ -319,7 +361,7 @@
       "source_name": "BBC Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 53,
+      "item_count": 47,
       "matched_count": 0,
       "error": ""
     },
@@ -328,7 +370,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 36,
+      "item_count": 27,
       "matched_count": 0,
       "error": ""
     },
@@ -391,7 +433,7 @@
       "source_name": "The Independent Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 1,
+      "item_count": 5,
       "matched_count": 0,
       "error": ""
     },
@@ -554,7 +596,7 @@
       "country_code": "IN",
       "success": true,
       "item_count": 50,
-      "matched_count": 0,
+      "matched_count": 2,
       "error": ""
     },
     {
@@ -572,7 +614,7 @@
       "country_code": "IN",
       "success": true,
       "item_count": 60,
-      "matched_count": 1,
+      "matched_count": 0,
       "error": ""
     },
     {
@@ -599,7 +641,7 @@
       "country_code": "SG",
       "success": true,
       "item_count": 20,
-      "matched_count": 1,
+      "matched_count": 0,
       "error": ""
     },
     {
@@ -616,7 +658,7 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 43,
+      "item_count": 50,
       "matched_count": 0,
       "error": ""
     },
@@ -661,7 +703,7 @@
       "source_name": "Taipei Times",
       "country_code": "TW",
       "success": true,
-      "item_count": 49,
+      "item_count": 52,
       "matched_count": 0,
       "error": ""
     },

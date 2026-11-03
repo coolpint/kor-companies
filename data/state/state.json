@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-03T03:56:57.673563+00:00",
+  "last_run_at": "2026-11-03T17:08:33.353325+00:00",
   "seen_articles": {
     "https://economictimes.indiatimes.com/tech/technology/sk-hynixs-solidigm-unit-is-weighing-nand-memory-chip-factory-in-us-sources-say/articleshow/134341197.cms": {
       "title": "SK Hynix's Solidigm unit is weighing NAND memory chip factory in US, sources say",
@@ -1370,6 +1370,28 @@
       ],
       "first_seen_at": "2026-11-02T19:34:11.436634+00:00",
       "last_seen_at": "2026-11-03T03:56:57.673563+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/auto-news/maruti-mahindra-tata-hyundai-indian-autos-real-test-lies-ahead-after-firecracker-start-to-festive-season-diwali/articleshow/135485968.cms": {
+      "title": "Indian auto's real test lies ahead after firecracker start to festive season",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/maruti-mahindra-tata-hyundai-indian-autos-real-test-lies-ahead-after-firecracker-start-to-festive-season-diwali/articleshow/135485968.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-11-03T17:08:33.353325+00:00",
+      "last_seen_at": "2026-11-03T17:08:33.353325+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/media/entertainment/krafton-steps-up-india-bets-to-build-next-global-gaming-franchise-beyond-pubg/articleshow/135484336.cms": {
+      "title": "Krafton steps up India bets to build next global gaming franchise beyond PUBG",
+      "link": "https://economictimes.indiatimes.com/industry/media/entertainment/krafton-steps-up-india-bets-to-build-next-global-gaming-franchise-beyond-pubg/articleshow/135484336.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Krafton"
+      ],
+      "first_seen_at": "2026-11-03T17:08:33.353325+00:00",
+      "last_seen_at": "2026-11-03T17:08:33.353325+00:00"
     }
   }
 }
