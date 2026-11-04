@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-03T17:08:33.353325+00:00",
+  "last_run_at": "2026-11-04T03:02:11.191936+00:00",
   "seen_articles": {
-    "https://economictimes.indiatimes.com/tech/technology/sk-hynixs-solidigm-unit-is-weighing-nand-memory-chip-factory-in-us-sources-say/articleshow/134341197.cms": {
-      "title": "SK Hynix's Solidigm unit is weighing NAND memory chip factory in US, sources say",
-      "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynixs-solidigm-unit-is-weighing-nand-memory-chip-factory-in-us-sources-say/articleshow/134341197.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-09-19T01:02:09.074682+00:00",
-      "last_seen_at": "2026-09-20T00:50:24.068528+00:00"
-    },
     "https://www.scmp.com/tech/article/3368154/chinas-cxmt-touts-new-chip-manufacturing-platform-close-worlds-most-advanced": {
       "title": "China’s CXMT touts new chip manufacturing platform as close to ‘world’s most advanced’",
       "link": "https://www.scmp.com/tech/article/3368154/chinas-cxmt-touts-new-chip-manufacturing-platform-close-worlds-most-advanced",
