@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-04T03:02:11.191936+00:00",
+  "last_run_at": "2026-11-04T17:20:47.551274+00:00",
   "seen_articles": {
     "https://www.scmp.com/tech/article/3368154/chinas-cxmt-touts-new-chip-manufacturing-platform-close-worlds-most-advanced": {
       "title": "China’s CXMT touts new chip manufacturing platform as close to ‘world’s most advanced’",
@@ -1381,6 +1381,17 @@
       ],
       "first_seen_at": "2026-11-03T17:08:33.353325+00:00",
       "last_seen_at": "2026-11-03T17:08:33.353325+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/sk-hynixs-new-york-chip-plans-hit-snag-over-us-restrictions-on-china-sources-say/articleshow/135531996.cms": {
+      "title": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say",
+      "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynixs-new-york-chip-plans-hit-snag-over-us-restrictions-on-china-sources-say/articleshow/135531996.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-11-04T17:20:47.551274+00:00",
+      "last_seen_at": "2026-11-04T17:20:47.551274+00:00"
     }
   }
 }

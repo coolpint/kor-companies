@@ -1,14 +1,62 @@
 {
-  "run_at": "2026-11-04T03:02:11.191936+00:00",
+  "run_at": "2026-11-04T17:20:47.551274+00:00",
   "summary": {
     "source_count": 73,
     "success_count": 70,
     "failed_count": 3,
-    "matched_count": 0,
-    "new_count": 0
+    "matched_count": 1,
+    "new_count": 1
   },
-  "new_articles": [],
-  "matched_articles": [],
+  "new_articles": [
+    {
+      "article_key": "https://economictimes.indiatimes.com/tech/technology/sk-hynixs-new-york-chip-plans-hit-snag-over-us-restrictions-on-china-sources-say/articleshow/135531996.cms",
+      "canonical_link": "https://economictimes.indiatimes.com/tech/technology/sk-hynixs-new-york-chip-plans-hit-snag-over-us-restrictions-on-china-sources-say/articleshow/135531996.cms",
+      "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynixs-new-york-chip-plans-hit-snag-over-us-restrictions-on-china-sources-say/articleshow/135531996.cms",
+      "title": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix's New York chip plans hit snag over US restrictions on China, sources say'이다. SK Hynix is seeking US export licenses to equip its Dalian plant, arguing that increased production there would help fund its planned US expansion. But the Commerce Department has yet to approve the new licenses, the people said. Its Solidigm unit plans to invest about $45 billion and build two NAND plants in Marcy, New York, two people said, with investment potentially reaching about $100 billion over time. NAND is memory that retains data even when power is turned off and is used for storage in data centers. US officials have held up approval for American chipmaking equipment needed by SK Hynix to expand production in China, complicating the South Korean chipmaker's plans for new memory-chip plants in New York, according to people familiar with the matter Negotiations are continuing, the people said, with approval for the Dalian expansion central to SK Hynix's plans in New York Commerce department meetings intensify Executives from SK Hynix's US subsidiary, Solidigm, have met nearly 10 times with officials from the Commerce Department since late August, one of the people said New York officials remain hopeful Company representatives also have met with officials at the US Treasury Department, which would have to waive outbound investment restrictions for SK Hynix to purchase tools for China, the people familiar with the matter said SK Hynix has said that installing equipment to fill empty space in Dalian would not expand capacity because it built the cleanroom in 2023. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say",
+      "original_summary": "SK Hynix is seeking US export licenses to equip its Dalian plant, arguing that increased production there would help fund its planned US expansion. But the Commerce Department has yet to approve the new licenses, the people said. Its Solidigm unit plans to invest about $45 billion and build two NAND plants in Marcy, New York, two people said, with investment potentially reaching about $100 billion over time. NAND is memory that retains data even when power is turned off and is used for storage in data centers.",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix's New York chip plans hit snag over US restrictions on China, sources say'이다. SK Hynix is seeking US export licenses to equip its Dalian plant, arguing that increased production there would help fund its planned US expansion. But the Commerce Department has yet to approve the new licenses, the people said. Its Solidigm unit plans to invest about $45 billion and build two NAND plants in Marcy, New York, two people said, with investment potentially reaching about $100 billion over time. NAND is memory that retains data even when power is turned off and is used for storage in data centers. US officials have held up approval for American chipmaking equipment needed by SK Hynix to expand production in China, complicating the South Korean chipmaker's plans for new memory-chip plants in New York, according to people familiar with the matter Negotiations are continuing, the people said, with approval for the Dalian expansion central to SK Hynix's plans in New York Commerce department meetings intensify Executives from SK Hynix's US subsidiary, Solidigm, have met nearly 10 times with officials from the Commerce Department since late August, one of the people said New York officials remain hopeful Company representatives also have met with officials at the US Treasury Department, which would have to waive outbound investment restrictions for SK Hynix to purchase tools for China, the people familiar with the matter said SK Hynix has said that installing equipment to fill empty space in Dalian would not expand capacity because it built the cleanroom in 2023. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-04T08:35:41+00:00",
+      "source_id": "economic_times_tech",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "country_name_ko": "인도",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": true
+    }
+  ],
+  "matched_articles": [
+    {
+      "article_key": "https://economictimes.indiatimes.com/tech/technology/sk-hynixs-new-york-chip-plans-hit-snag-over-us-restrictions-on-china-sources-say/articleshow/135531996.cms",
+      "canonical_link": "https://economictimes.indiatimes.com/tech/technology/sk-hynixs-new-york-chip-plans-hit-snag-over-us-restrictions-on-china-sources-say/articleshow/135531996.cms",
+      "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynixs-new-york-chip-plans-hit-snag-over-us-restrictions-on-china-sources-say/articleshow/135531996.cms",
+      "title": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix's New York chip plans hit snag over US restrictions on China, sources say'이다. SK Hynix is seeking US export licenses to equip its Dalian plant, arguing that increased production there would help fund its planned US expansion. But the Commerce Department has yet to approve the new licenses, the people said. Its Solidigm unit plans to invest about $45 billion and build two NAND plants in Marcy, New York, two people said, with investment potentially reaching about $100 billion over time. NAND is memory that retains data even when power is turned off and is used for storage in data centers. US officials have held up approval for American chipmaking equipment needed by SK Hynix to expand production in China, complicating the South Korean chipmaker's plans for new memory-chip plants in New York, according to people familiar with the matter Negotiations are continuing, the people said, with approval for the Dalian expansion central to SK Hynix's plans in New York Commerce department meetings intensify Executives from SK Hynix's US subsidiary, Solidigm, have met nearly 10 times with officials from the Commerce Department since late August, one of the people said New York officials remain hopeful Company representatives also have met with officials at the US Treasury Department, which would have to waive outbound investment restrictions for SK Hynix to purchase tools for China, the people familiar with the matter said SK Hynix has said that installing equipment to fill empty space in Dalian would not expand capacity because it built the cleanroom in 2023. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say",
+      "original_summary": "SK Hynix is seeking US export licenses to equip its Dalian plant, arguing that increased production there would help fund its planned US expansion. But the Commerce Department has yet to approve the new licenses, the people said. Its Solidigm unit plans to invest about $45 billion and build two NAND plants in Marcy, New York, two people said, with investment potentially reaching about $100 billion over time. NAND is memory that retains data even when power is turned off and is used for storage in data centers.",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix's New York chip plans hit snag over US restrictions on China, sources say'이다. SK Hynix is seeking US export licenses to equip its Dalian plant, arguing that increased production there would help fund its planned US expansion. But the Commerce Department has yet to approve the new licenses, the people said. Its Solidigm unit plans to invest about $45 billion and build two NAND plants in Marcy, New York, two people said, with investment potentially reaching about $100 billion over time. NAND is memory that retains data even when power is turned off and is used for storage in data centers. US officials have held up approval for American chipmaking equipment needed by SK Hynix to expand production in China, complicating the South Korean chipmaker's plans for new memory-chip plants in New York, according to people familiar with the matter Negotiations are continuing, the people said, with approval for the Dalian expansion central to SK Hynix's plans in New York Commerce department meetings intensify Executives from SK Hynix's US subsidiary, Solidigm, have met nearly 10 times with officials from the Commerce Department since late August, one of the people said New York officials remain hopeful Company representatives also have met with officials at the US Treasury Department, which would have to waive outbound investment restrictions for SK Hynix to purchase tools for China, the people familiar with the matter said SK Hynix has said that installing equipment to fill empty space in Dalian would not expand capacity because it built the cleanroom in 2023. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-04T08:35:41+00:00",
+      "source_id": "economic_times_tech",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "country_name_ko": "인도",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": true
+    }
+  ],
   "source_runs": [
     {
       "source_id": "nyt_business",
@@ -24,7 +72,7 @@
       "source_name": "The New York Times Technology",
       "country_code": "US",
       "success": true,
-      "item_count": 30,
+      "item_count": 29,
       "matched_count": 0,
       "error": ""
     },
@@ -222,7 +270,7 @@
       "source_name": "Deutsche Welle World",
       "country_code": "DE",
       "success": true,
-      "item_count": 11,
+      "item_count": 13,
       "matched_count": 0,
       "error": ""
     },
@@ -240,7 +288,7 @@
       "source_name": "tagesschau Wirtschaft",
       "country_code": "DE",
       "success": true,
-      "item_count": 25,
+      "item_count": 20,
       "matched_count": 0,
       "error": ""
     },
@@ -249,7 +297,7 @@
       "source_name": "tagesschau Ausland",
       "country_code": "DE",
       "success": true,
-      "item_count": 71,
+      "item_count": 72,
       "matched_count": 0,
       "error": ""
     },
@@ -267,7 +315,7 @@
       "source_name": "BBC Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 44,
+      "item_count": 45,
       "matched_count": 0,
       "error": ""
     },
@@ -276,7 +324,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 32,
+      "item_count": 23,
       "matched_count": 0,
       "error": ""
     },
@@ -339,7 +387,7 @@
       "source_name": "The Independent Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 4,
+      "item_count": 1,
       "matched_count": 0,
       "error": ""
     },
@@ -501,7 +549,7 @@
       "source_name": "The Economic Times Industry",
       "country_code": "IN",
       "success": true,
-      "item_count": 48,
+      "item_count": 50,
       "matched_count": 0,
       "error": ""
     },
@@ -511,7 +559,7 @@
       "country_code": "IN",
       "success": true,
       "item_count": 50,
-      "matched_count": 0,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -564,7 +612,7 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 47,
+      "item_count": 42,
       "matched_count": 0,
       "error": ""
     },
@@ -609,7 +657,7 @@
       "source_name": "Taipei Times",
       "country_code": "TW",
       "success": true,
-      "item_count": 52,
+      "item_count": 51,
       "matched_count": 0,
       "error": ""
     },
