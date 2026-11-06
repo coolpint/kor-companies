@@ -1,85 +1,62 @@
 {
-  "run_at": "2026-11-05T17:28:05.968290+00:00",
+  "run_at": "2026-11-06T03:27:44.796135+00:00",
   "summary": {
     "source_count": 73,
     "success_count": 70,
     "failed_count": 3,
     "matched_count": 4,
-    "new_count": 3
+    "new_count": 1
   },
   "new_articles": [
     {
-      "article_key": "https://www.thehindubusinessline.com/markets/q2-results-today-highlights-bharti-airtel-lic-titan-mm-ongc-samvardhana-britannia-lg-bharat-forge-prestige-fortis-abbott-india-bse-biocon-apollo-lesnkart-nykaacompany-results-05-november-2026/article71668559.ece",
-      "canonical_link": "https://www.thehindubusinessline.com/markets/q2-results-today-highlights-bharti-airtel-lic-titan-mm-ongc-samvardhana-britannia-lg-bharat-forge-prestige-fortis-abbott-india-bse-biocon-apollo-lesnkart-nykaacompany-results-05-november-2026/article71668559.ece",
-      "link": "https://www.thehindubusinessline.com/markets/q2-results-today-highlights-bharti-airtel-lic-titan-mm-ongc-samvardhana-britannia-lg-bharat-forge-prestige-fortis-abbott-india-bse-biocon-apollo-lesnkart-nykaacompany-results-05-november-2026/article71668559.ece",
-      "title": "Q2 Results Today Highlights: M&M, NBCC, IPCA Lab, Bharat Forge, LG Electronics, Uno Minda & Amagi Media Q2 profit up, Samvardhana Motherson profit down q-o-q, Bharti Airtel, LIC, Titan, ONGC, Britannia, Prestige Estates, Fortis Healthcare, Abbott to announce Q2 results",
-      "summary": "LG Electronics 관련 기사다. 기사 제목은 'Q2 Results Today Highlights: M&M, NBCC, IPCA Lab, Bharat Forge, LG Electronics, Uno Minda & Amagi Media Q2 profit up, Samvardhana Motherson profit down q-o-q, Bharti Airtel, LIC, Titan, ONGC, Britannia, Prestige Estates, Fortis Healthcare, Abbott to announce Q2 results'이다. Q2 Results Today, 05th November 2026 Highlights: businessline brings you the latest quarterly earnings, outlook and more. November 5, 2026 16:45 LG Electronics India Q2 net up 25 7% on balanced volume and value growth LG Electronics India Q2 net up 25 7% on balanced volume and value growth LG Electronics India posted a net profit of ₹489 November 5, 2026 11:25 Quarterly results LG Electronics: “Moving beyond consumer electronics, we are expanding our footprint in the rapidly evolving B2B sector, by entering a new B2B vertical, Vehicle Solutions,” he said November 5, 2026 11:25 Quarterly results LGE India Q2 results live: Hong Ju Jeon, Managing Director, LGE India Limited, said, “This performance reflects the broader strength of India’s consumer durables industry, which continues to benefit from rising disposable incomes, growing aspiration for premium products and deepening penetration across metro and emerging markets ” November 5, 2026 11:24 Quarterly results LG Electronics Q2 results live: LG Electronics India net profit up 25. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Q2 Results Today Highlights: M&M, NBCC, IPCA Lab, Bharat Forge, LG Electronics, Uno Minda & Amagi Media Q2 profit up, Samvardhana Motherson profit down q-o-q, Bharti Airtel, LIC, Titan, ONGC, Britannia, Prestige Estates, Fortis Healthcare, Abbott to announce Q2 results",
-      "original_summary": "Q2 Results Today, 05th November 2026 Highlights: businessline brings you the latest quarterly earnings, outlook and more.",
-      "company_summary": "LG Electronics 관련 기사다. 기사 제목은 'Q2 Results Today Highlights: M&M, NBCC, IPCA Lab, Bharat Forge, LG Electronics, Uno Minda & Amagi Media Q2 profit up, Samvardhana Motherson profit down q-o-q, Bharti Airtel, LIC, Titan, ONGC, Britannia, Prestige Estates, Fortis Healthcare, Abbott to announce Q2 results'이다. Q2 Results Today, 05th November 2026 Highlights: businessline brings you the latest quarterly earnings, outlook and more. November 5, 2026 16:45 LG Electronics India Q2 net up 25 7% on balanced volume and value growth LG Electronics India Q2 net up 25 7% on balanced volume and value growth LG Electronics India posted a net profit of ₹489 November 5, 2026 11:25 Quarterly results LG Electronics: “Moving beyond consumer electronics, we are expanding our footprint in the rapidly evolving B2B sector, by entering a new B2B vertical, Vehicle Solutions,” he said November 5, 2026 11:25 Quarterly results LGE India Q2 results live: Hong Ju Jeon, Managing Director, LGE India Limited, said, “This performance reflects the broader strength of India’s consumer durables industry, which continues to benefit from rising disposable incomes, growing aspiration for premium products and deepening penetration across metro and emerging markets ” November 5, 2026 11:24 Quarterly results LG Electronics Q2 results live: LG Electronics India net profit up 25. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-11-05T16:08:33+00:00",
-      "source_id": "businessline_companies",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "country_name_ko": "인도",
+      "article_key": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
+      "canonical_link": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
+      "link": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
+      "title": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble'이다. Asian technology stocks tumbled Friday, tracking a sharp sell-off on Wall Street overnight that sent the tech-heavy Nasdaq Composite into correction territory. Images of mobile devices at the Taiwan Semiconductor Manufacturing Co (TSMC) Museum of Innovation in Hsinchu, on Tuesday, Jan South Korean chipmaker SK Hynix plunged over 8%, while Samsung Electronics shed 7% LG Innotek and LG Display fell 10% and 7 7%, respectively, as selling pressure spread across the country's technology sector. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
+      "original_summary": "Asian technology stocks tumbled Friday, tracking a sharp sell-off on Wall Street overnight that sent the tech-heavy Nasdaq Composite into correction territory.",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble'이다. Asian technology stocks tumbled Friday, tracking a sharp sell-off on Wall Street overnight that sent the tech-heavy Nasdaq Composite into correction territory. Images of mobile devices at the Taiwan Semiconductor Manufacturing Co (TSMC) Museum of Innovation in Hsinchu, on Tuesday, Jan South Korean chipmaker SK Hynix plunged over 8%, while Samsung Electronics shed 7% LG Innotek and LG Display fell 10% and 7 7%, respectively, as selling pressure spread across the country's technology sector. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-06T02:40:15+00:00",
+      "source_id": "cnbc_top_news",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "country_name_ko": "미국",
       "source_language": "en",
       "matched_companies": [
-        "LG Electronics"
+        "SK hynix"
       ],
       "matched_aliases": [
-        "LG Electronics"
-      ],
-      "is_new": true
-    },
-    {
-      "article_key": "https://www.thehindubusinessline.com/info-tech/lg-electronics-india-q2-net-up-257-on-balanced-volume-and-value-growth/article71669575.ece",
-      "canonical_link": "https://www.thehindubusinessline.com/info-tech/lg-electronics-india-q2-net-up-257-on-balanced-volume-and-value-growth/article71669575.ece",
-      "link": "https://www.thehindubusinessline.com/info-tech/lg-electronics-india-q2-net-up-257-on-balanced-volume-and-value-growth/article71669575.ece",
-      "title": "LG Electronics India Q2 net up 25.7% on balanced volume and value growth",
-      "summary": "LG Electronics 관련 기사다. 기사 제목은 'LG Electronics India Q2 net up 25.7% on balanced volume and value growth'이다. Sanjay Chitkara, Co-Chief Sales and Marketing Officer, LGE India told businessline said the company’s growth is not merely price-led but its coming from both mass and premium segments. LG Electronics India Q2 net up 25 thehindubusinessline 5 per cent to ₹7,380 crore on the back of balanced growth in terms of both volume and value | Photo Credit: REUTERS/FRANCIS MASCARENHAS LG Electronics India posted a net profit of ₹489 3 crore in September quarter up 25. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "LG Electronics India Q2 net up 25.7% on balanced volume and value growth",
-      "original_summary": "Sanjay Chitkara, Co-Chief Sales and Marketing Officer, LGE India told businessline said the company’s growth is not merely price-led but its coming from both mass and premium segments",
-      "company_summary": "LG Electronics 관련 기사다. 기사 제목은 'LG Electronics India Q2 net up 25.7% on balanced volume and value growth'이다. Sanjay Chitkara, Co-Chief Sales and Marketing Officer, LGE India told businessline said the company’s growth is not merely price-led but its coming from both mass and premium segments. LG Electronics India Q2 net up 25 thehindubusinessline 5 per cent to ₹7,380 crore on the back of balanced growth in terms of both volume and value | Photo Credit: REUTERS/FRANCIS MASCARENHAS LG Electronics India posted a net profit of ₹489 3 crore in September quarter up 25. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-11-05T13:08:27+00:00",
-      "source_id": "businessline_companies",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "country_name_ko": "인도",
-      "source_language": "en",
-      "matched_companies": [
-        "LG Electronics"
-      ],
-      "matched_aliases": [
-        "LG Electronics"
-      ],
-      "is_new": true
-    },
-    {
-      "article_key": "https://www.thehindubusinessline.com/companies/lg-electronics-india-q2-profit-rises-257-to-489-crore-on-strong-appliance-demand/article71668799.ece",
-      "canonical_link": "https://www.thehindubusinessline.com/companies/lg-electronics-india-q2-profit-rises-257-to-489-crore-on-strong-appliance-demand/article71668799.ece",
-      "link": "https://www.thehindubusinessline.com/companies/lg-electronics-india-q2-profit-rises-257-to-489-crore-on-strong-appliance-demand/article71668799.ece",
-      "title": "LG Electronics India Q2 profit rises 25.7% to ₹489 crore on strong appliance demand",
-      "summary": "LG Electronics 관련 기사다. 기사 제목은 'LG Electronics India Q2 profit rises 25.7% to ₹489 crore on strong appliance demand'이다. Strong sales of televisions, refrigerators and washing machines supported quarterly growth, while localisation investments remain central to the company’s cost strategy. LG Electronics India Q2 profit rises 25 ece LG Electronics India reported a 25 LG Electronics India reported a 25 * The ​Indian unit of South Korea’s LG Electronics had previously said it ⁠would target mid-teen per cent revenue growth and ⁠an early double-digit EBITDA margin in fiscal 2027 * Shares of the company ‌were up about 5. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "LG Electronics India Q2 profit rises 25.7% to ₹489 crore on strong appliance demand",
-      "original_summary": "Strong sales of televisions, refrigerators and washing machines supported quarterly growth, while localisation investments remain central to the company’s cost strategy",
-      "company_summary": "LG Electronics 관련 기사다. 기사 제목은 'LG Electronics India Q2 profit rises 25.7% to ₹489 crore on strong appliance demand'이다. Strong sales of televisions, refrigerators and washing machines supported quarterly growth, while localisation investments remain central to the company’s cost strategy. LG Electronics India Q2 profit rises 25 ece LG Electronics India reported a 25 LG Electronics India reported a 25 * The ​Indian unit of South Korea’s LG Electronics had previously said it ⁠would target mid-teen per cent revenue growth and ⁠an early double-digit EBITDA margin in fiscal 2027 * Shares of the company ‌were up about 5. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-11-05T06:34:09+00:00",
-      "source_id": "businessline_companies",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "country_name_ko": "인도",
-      "source_language": "en",
-      "matched_companies": [
-        "LG Electronics"
-      ],
-      "matched_aliases": [
-        "LG Electronics"
+        "SK hynix"
       ],
       "is_new": true
     }
   ],
   "matched_articles": [
     {
+      "article_key": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
+      "canonical_link": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
+      "link": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
+      "title": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble'이다. Asian technology stocks tumbled Friday, tracking a sharp sell-off on Wall Street overnight that sent the tech-heavy Nasdaq Composite into correction territory. Images of mobile devices at the Taiwan Semiconductor Manufacturing Co (TSMC) Museum of Innovation in Hsinchu, on Tuesday, Jan South Korean chipmaker SK Hynix plunged over 8%, while Samsung Electronics shed 7% LG Innotek and LG Display fell 10% and 7 7%, respectively, as selling pressure spread across the country's technology sector. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
+      "original_summary": "Asian technology stocks tumbled Friday, tracking a sharp sell-off on Wall Street overnight that sent the tech-heavy Nasdaq Composite into correction territory.",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble'이다. Asian technology stocks tumbled Friday, tracking a sharp sell-off on Wall Street overnight that sent the tech-heavy Nasdaq Composite into correction territory. Images of mobile devices at the Taiwan Semiconductor Manufacturing Co (TSMC) Museum of Innovation in Hsinchu, on Tuesday, Jan South Korean chipmaker SK Hynix plunged over 8%, while Samsung Electronics shed 7% LG Innotek and LG Display fell 10% and 7 7%, respectively, as selling pressure spread across the country's technology sector. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-06T02:40:15+00:00",
+      "source_id": "cnbc_top_news",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "country_name_ko": "미국",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": true
+    },
+    {
       "article_key": "https://www.thehindubusinessline.com/markets/q2-results-today-highlights-bharti-airtel-lic-titan-mm-ongc-samvardhana-britannia-lg-bharat-forge-prestige-fortis-abbott-india-bse-biocon-apollo-lesnkart-nykaacompany-results-05-november-2026/article71668559.ece",
       "canonical_link": "https://www.thehindubusinessline.com/markets/q2-results-today-highlights-bharti-airtel-lic-titan-mm-ongc-samvardhana-britannia-lg-bharat-forge-prestige-fortis-abbott-india-bse-biocon-apollo-lesnkart-nykaacompany-results-05-november-2026/article71668559.ece",
       "link": "https://www.thehindubusinessline.com/markets/q2-results-today-highlights-bharti-airtel-lic-titan-mm-ongc-samvardhana-britannia-lg-bharat-forge-prestige-fortis-abbott-india-bse-biocon-apollo-lesnkart-nykaacompany-results-05-november-2026/article71668559.ece",
@@ -100,7 +77,7 @@
       "matched_aliases": [
         "LG Electronics"
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "article_key": "https://www.thehindubusinessline.com/info-tech/lg-electronics-india-q2-net-up-257-on-balanced-volume-and-value-growth/article71669575.ece",
@@ -123,7 +100,7 @@
       "matched_aliases": [
         "LG Electronics"
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "article_key": "https://www.thehindubusinessline.com/companies/lg-electronics-india-q2-profit-rises-257-to-489-crore-on-strong-appliance-demand/article71668799.ece",
@@ -145,29 +122,6 @@
       ],
       "matched_aliases": [
         "LG Electronics"
-      ],
-      "is_new": true
-    },
-    {
-      "article_key": "https://economictimes.indiatimes.com/tech/technology/sk-hynixs-new-york-chip-plans-hit-snag-over-us-restrictions-on-china-sources-say/articleshow/135531996.cms",
-      "canonical_link": "https://economictimes.indiatimes.com/tech/technology/sk-hynixs-new-york-chip-plans-hit-snag-over-us-restrictions-on-china-sources-say/articleshow/135531996.cms",
-      "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynixs-new-york-chip-plans-hit-snag-over-us-restrictions-on-china-sources-say/articleshow/135531996.cms",
-      "title": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say",
-      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix's New York chip plans hit snag over US restrictions on China, sources say'이다. SK Hynix is seeking US export licenses to equip its Dalian plant, arguing that increased production there would help fund its planned US expansion. But the Commerce Department has yet to approve the new licenses, the people said. Its Solidigm unit plans to invest about $45 billion and build two NAND plants in Marcy, New York, two people said, with investment potentially reaching about $100 billion over time. NAND is memory that retains data even when power is turned off and is used for storage in data centers. US officials have held up approval for American chipmaking equipment needed by SK Hynix to expand production in China, complicating the South Korean chipmaker's plans for new memory-chip plants in New York, according to people familiar with the matter Negotiations are continuing, the people said, with approval for the Dalian expansion central to SK Hynix's plans in New York Commerce department meetings intensify Executives from SK Hynix's US subsidiary, Solidigm, have met nearly 10 times with officials from the Commerce Department since late August, one of the people said New York officials remain hopeful Company representatives also have met with officials at the US Treasury Department, which would have to waive outbound investment restrictions for SK Hynix to purchase tools for China, the people familiar with the matter said SK Hynix has said that installing equipment to fill empty space in Dalian would not expand capacity because it built the cleanroom in 2023. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say",
-      "original_summary": "SK Hynix is seeking US export licenses to equip its Dalian plant, arguing that increased production there would help fund its planned US expansion. But the Commerce Department has yet to approve the new licenses, the people said. Its Solidigm unit plans to invest about $45 billion and build two NAND plants in Marcy, New York, two people said, with investment potentially reaching about $100 billion over time. NAND is memory that retains data even when power is turned off and is used for storage in data centers.",
-      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix's New York chip plans hit snag over US restrictions on China, sources say'이다. SK Hynix is seeking US export licenses to equip its Dalian plant, arguing that increased production there would help fund its planned US expansion. But the Commerce Department has yet to approve the new licenses, the people said. Its Solidigm unit plans to invest about $45 billion and build two NAND plants in Marcy, New York, two people said, with investment potentially reaching about $100 billion over time. NAND is memory that retains data even when power is turned off and is used for storage in data centers. US officials have held up approval for American chipmaking equipment needed by SK Hynix to expand production in China, complicating the South Korean chipmaker's plans for new memory-chip plants in New York, according to people familiar with the matter Negotiations are continuing, the people said, with approval for the Dalian expansion central to SK Hynix's plans in New York Commerce department meetings intensify Executives from SK Hynix's US subsidiary, Solidigm, have met nearly 10 times with officials from the Commerce Department since late August, one of the people said New York officials remain hopeful Company representatives also have met with officials at the US Treasury Department, which would have to waive outbound investment restrictions for SK Hynix to purchase tools for China, the people familiar with the matter said SK Hynix has said that installing equipment to fill empty space in Dalian would not expand capacity because it built the cleanroom in 2023. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-11-04T08:35:41+00:00",
-      "source_id": "economic_times_tech",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "country_name_ko": "인도",
-      "source_language": "en",
-      "matched_companies": [
-        "SK hynix"
-      ],
-      "matched_aliases": [
-        "SK hynix"
       ],
       "is_new": false
     }
@@ -385,7 +339,7 @@
       "source_name": "Deutsche Welle World",
       "country_code": "DE",
       "success": true,
-      "item_count": 12,
+      "item_count": 11,
       "matched_count": 0,
       "error": ""
     },
@@ -403,7 +357,7 @@
       "source_name": "tagesschau Wirtschaft",
       "country_code": "DE",
       "success": true,
-      "item_count": 18,
+      "item_count": 20,
       "matched_count": 0,
       "error": ""
     },
@@ -430,7 +384,7 @@
       "source_name": "BBC Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 49,
+      "item_count": 52,
       "matched_count": 0,
       "error": ""
     },
@@ -439,7 +393,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 20,
+      "item_count": 22,
       "matched_count": 0,
       "error": ""
     },
@@ -566,7 +520,7 @@
       "country_code": "US",
       "success": true,
       "item_count": 30,
-      "matched_count": 0,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -575,7 +529,7 @@
       "country_code": "US",
       "success": true,
       "item_count": 30,
-      "matched_count": 0,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -584,7 +538,7 @@
       "country_code": "US",
       "success": true,
       "item_count": 30,
-      "matched_count": 0,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -674,7 +628,7 @@
       "country_code": "IN",
       "success": true,
       "item_count": 50,
-      "matched_count": 1,
+      "matched_count": 0,
       "error": ""
     },
     {
@@ -727,7 +681,7 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 38,
+      "item_count": 41,
       "matched_count": 0,
       "error": ""
     },

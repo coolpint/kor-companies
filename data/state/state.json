@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-05T17:28:05.968290+00:00",
+  "last_run_at": "2026-11-06T03:27:44.796135+00:00",
   "seen_articles": {
     "https://asia.nikkei.com/business/retail/hyundai-department-store-looks-to-bring-south-korean-fashion-abroad": {
       "title": "Hyundai Department Store looks to bring South Korean fashion abroad",
@@ -1357,7 +1357,7 @@
         "LG Electronics"
       ],
       "first_seen_at": "2026-11-05T17:28:05.968290+00:00",
-      "last_seen_at": "2026-11-05T17:28:05.968290+00:00"
+      "last_seen_at": "2026-11-06T03:27:44.796135+00:00"
     },
     "https://www.thehindubusinessline.com/info-tech/lg-electronics-india-q2-net-up-257-on-balanced-volume-and-value-growth/article71669575.ece": {
       "title": "LG Electronics India Q2 net up 25.7% on balanced volume and value growth",
@@ -1368,7 +1368,7 @@
         "LG Electronics"
       ],
       "first_seen_at": "2026-11-05T17:28:05.968290+00:00",
-      "last_seen_at": "2026-11-05T17:28:05.968290+00:00"
+      "last_seen_at": "2026-11-06T03:27:44.796135+00:00"
     },
     "https://www.thehindubusinessline.com/companies/lg-electronics-india-q2-profit-rises-257-to-489-crore-on-strong-appliance-demand/article71668799.ece": {
       "title": "LG Electronics India Q2 profit rises 25.7% to ₹489 crore on strong appliance demand",
@@ -1379,7 +1379,18 @@
         "LG Electronics"
       ],
       "first_seen_at": "2026-11-05T17:28:05.968290+00:00",
-      "last_seen_at": "2026-11-05T17:28:05.968290+00:00"
+      "last_seen_at": "2026-11-06T03:27:44.796135+00:00"
+    },
+    "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html": {
+      "title": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
+      "link": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-11-06T03:27:44.796135+00:00",
+      "last_seen_at": "2026-11-06T03:27:44.796135+00:00"
     }
   }
 }
