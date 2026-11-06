@@ -1,50 +1,119 @@
 {
-  "run_at": "2026-11-06T03:27:44.796135+00:00",
+  "run_at": "2026-11-06T16:49:55.703725+00:00",
   "summary": {
     "source_count": 73,
     "success_count": 70,
     "failed_count": 3,
-    "matched_count": 4,
-    "new_count": 1
+    "matched_count": 5,
+    "new_count": 2
   },
   "new_articles": [
     {
-      "article_key": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
-      "canonical_link": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
-      "link": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
-      "title": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
-      "summary": "SK hynix 관련 기사다. 기사 제목은 'Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble'이다. Asian technology stocks tumbled Friday, tracking a sharp sell-off on Wall Street overnight that sent the tech-heavy Nasdaq Composite into correction territory. Images of mobile devices at the Taiwan Semiconductor Manufacturing Co (TSMC) Museum of Innovation in Hsinchu, on Tuesday, Jan South Korean chipmaker SK Hynix plunged over 8%, while Samsung Electronics shed 7% LG Innotek and LG Display fell 10% and 7 7%, respectively, as selling pressure spread across the country's technology sector. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
-      "original_summary": "Asian technology stocks tumbled Friday, tracking a sharp sell-off on Wall Street overnight that sent the tech-heavy Nasdaq Composite into correction territory.",
-      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble'이다. Asian technology stocks tumbled Friday, tracking a sharp sell-off on Wall Street overnight that sent the tech-heavy Nasdaq Composite into correction territory. Images of mobile devices at the Taiwan Semiconductor Manufacturing Co (TSMC) Museum of Innovation in Hsinchu, on Tuesday, Jan South Korean chipmaker SK Hynix plunged over 8%, while Samsung Electronics shed 7% LG Innotek and LG Display fell 10% and 7 7%, respectively, as selling pressure spread across the country's technology sector. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-11-06T02:40:15+00:00",
-      "source_id": "cnbc_top_news",
-      "source_name": "CNBC Top News",
-      "country_code": "US",
-      "country_name_ko": "미국",
+      "article_key": "https://economictimes.indiatimes.com/industry/auto/auto-news/auto-sector-sees-strong-dhanteras-deliveries-expects-momentum-to-continue-till-diwali/articleshow/135612686.cms",
+      "canonical_link": "https://economictimes.indiatimes.com/industry/auto/auto-news/auto-sector-sees-strong-dhanteras-deliveries-expects-momentum-to-continue-till-diwali/articleshow/135612686.cms",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/auto-sector-sees-strong-dhanteras-deliveries-expects-momentum-to-continue-till-diwali/articleshow/135612686.cms",
+      "title": "Auto sector sees strong Dhanteras deliveries, expects momentum to continue till Diwali",
+      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Auto sector sees strong Dhanteras deliveries, expects momentum to continue till Diwali'이다. Automakers and dealerships reported strong Dhanteras deliveries following robust Navratri sales, with Maruti Suzuki expecting over 30,000 deliveries and Tata Motors targeting 12,000 units. Hyundai anticipates nearly 14% growth in festive deliveries. Dealers reported healthy demand across vehicle segments, while the pre-owned car market also witnessed a significant sales uptick. Hyundai anticipates nearly 14% growth in festive deliveries Dealers reported healthy demand across vehicle segments, while the pre-owned car market also witnessed a significant sales uptick Maruti Suzuki estimates its deliveries to be over 30,000 units today, compared to 50,000 deliveries in the last Dhanteras, which the company said happened across two days Tata Motors expects deliveries of 12,000 units, while Hyundai India's CEO Tarun Garg said the automaker expects to record almost 14 pc growth in Dhanteras and Diwali deliveries to 16,000 units \"What is particularly encouraging is that the strong momentum is not limited to one day. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Auto sector sees strong Dhanteras deliveries, expects momentum to continue till Diwali",
+      "original_summary": "Automakers and dealerships reported strong Dhanteras deliveries following robust Navratri sales, with Maruti Suzuki expecting over 30,000 deliveries and Tata Motors targeting 12,000 units. Hyundai anticipates nearly 14% growth in festive deliveries. Dealers reported healthy demand across vehicle segments, while the pre-owned car market also witnessed a significant sales uptick.",
+      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Auto sector sees strong Dhanteras deliveries, expects momentum to continue till Diwali'이다. Automakers and dealerships reported strong Dhanteras deliveries following robust Navratri sales, with Maruti Suzuki expecting over 30,000 deliveries and Tata Motors targeting 12,000 units. Hyundai anticipates nearly 14% growth in festive deliveries. Dealers reported healthy demand across vehicle segments, while the pre-owned car market also witnessed a significant sales uptick. Hyundai anticipates nearly 14% growth in festive deliveries Dealers reported healthy demand across vehicle segments, while the pre-owned car market also witnessed a significant sales uptick Maruti Suzuki estimates its deliveries to be over 30,000 units today, compared to 50,000 deliveries in the last Dhanteras, which the company said happened across two days Tata Motors expects deliveries of 12,000 units, while Hyundai India's CEO Tarun Garg said the automaker expects to record almost 14 pc growth in Dhanteras and Diwali deliveries to 16,000 units \"What is particularly encouraging is that the strong momentum is not limited to one day. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-06T15:47:11+00:00",
+      "source_id": "economic_times_industry",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "country_name_ko": "인도",
       "source_language": "en",
       "matched_companies": [
-        "SK hynix"
+        "Hyundai Motor"
       ],
       "matched_aliases": [
-        "SK hynix"
+        "Hyundai"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://www.thehindubusinessline.com/companies/premium-segment-fuel-demand-for-consumer-appliances-this-deepavali/article71675258.ece",
+      "canonical_link": "https://www.thehindubusinessline.com/companies/premium-segment-fuel-demand-for-consumer-appliances-this-deepavali/article71675258.ece",
+      "link": "https://www.thehindubusinessline.com/companies/premium-segment-fuel-demand-for-consumer-appliances-this-deepavali/article71675258.ece",
+      "title": "Premium segment fuel demand for consumer appliances this Deepavali",
+      "summary": "LG Electronics 관련 기사다. 기사 제목은 'Premium segment fuel demand for consumer appliances this Deepavali'이다. Executives from Haier, LG Electronics India and Godrej report double-digit value growth expected by season’s end, supported by attractive financing. The air-conditioner segment has been witnessing a strong uptick, and the washing machine and refrigerator segments are also doing well In the LED TV segment, the 55-inch and above segment is doing well, but the entry-level segment has been a bit slower ” Demand Momentum LG Electronics India said it has seen demand momentum building up since Q2 Consumer traction is led by better technological products and premium segments, as they are looking to upgrade to bigger screens and bigger capacities Our growth is not just price-led but balanced across value and volume. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Premium segment fuel demand for consumer appliances this Deepavali",
+      "original_summary": "Executives from Haier, LG Electronics India and Godrej report double-digit value growth expected by season’s end, supported by attractive financing",
+      "company_summary": "LG Electronics 관련 기사다. 기사 제목은 'Premium segment fuel demand for consumer appliances this Deepavali'이다. Executives from Haier, LG Electronics India and Godrej report double-digit value growth expected by season’s end, supported by attractive financing. The air-conditioner segment has been witnessing a strong uptick, and the washing machine and refrigerator segments are also doing well In the LED TV segment, the 55-inch and above segment is doing well, but the entry-level segment has been a bit slower ” Demand Momentum LG Electronics India said it has seen demand momentum building up since Q2 Consumer traction is led by better technological products and premium segments, as they are looking to upgrade to bigger screens and bigger capacities Our growth is not just price-led but balanced across value and volume. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-06T15:28:56+00:00",
+      "source_id": "businessline_companies",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "country_name_ko": "인도",
+      "source_language": "en",
+      "matched_companies": [
+        "LG Electronics"
+      ],
+      "matched_aliases": [
+        "LG Electronics"
       ],
       "is_new": true
     }
   ],
   "matched_articles": [
     {
+      "article_key": "https://economictimes.indiatimes.com/industry/auto/auto-news/auto-sector-sees-strong-dhanteras-deliveries-expects-momentum-to-continue-till-diwali/articleshow/135612686.cms",
+      "canonical_link": "https://economictimes.indiatimes.com/industry/auto/auto-news/auto-sector-sees-strong-dhanteras-deliveries-expects-momentum-to-continue-till-diwali/articleshow/135612686.cms",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/auto-sector-sees-strong-dhanteras-deliveries-expects-momentum-to-continue-till-diwali/articleshow/135612686.cms",
+      "title": "Auto sector sees strong Dhanteras deliveries, expects momentum to continue till Diwali",
+      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Auto sector sees strong Dhanteras deliveries, expects momentum to continue till Diwali'이다. Automakers and dealerships reported strong Dhanteras deliveries following robust Navratri sales, with Maruti Suzuki expecting over 30,000 deliveries and Tata Motors targeting 12,000 units. Hyundai anticipates nearly 14% growth in festive deliveries. Dealers reported healthy demand across vehicle segments, while the pre-owned car market also witnessed a significant sales uptick. Hyundai anticipates nearly 14% growth in festive deliveries Dealers reported healthy demand across vehicle segments, while the pre-owned car market also witnessed a significant sales uptick Maruti Suzuki estimates its deliveries to be over 30,000 units today, compared to 50,000 deliveries in the last Dhanteras, which the company said happened across two days Tata Motors expects deliveries of 12,000 units, while Hyundai India's CEO Tarun Garg said the automaker expects to record almost 14 pc growth in Dhanteras and Diwali deliveries to 16,000 units \"What is particularly encouraging is that the strong momentum is not limited to one day. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Auto sector sees strong Dhanteras deliveries, expects momentum to continue till Diwali",
+      "original_summary": "Automakers and dealerships reported strong Dhanteras deliveries following robust Navratri sales, with Maruti Suzuki expecting over 30,000 deliveries and Tata Motors targeting 12,000 units. Hyundai anticipates nearly 14% growth in festive deliveries. Dealers reported healthy demand across vehicle segments, while the pre-owned car market also witnessed a significant sales uptick.",
+      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Auto sector sees strong Dhanteras deliveries, expects momentum to continue till Diwali'이다. Automakers and dealerships reported strong Dhanteras deliveries following robust Navratri sales, with Maruti Suzuki expecting over 30,000 deliveries and Tata Motors targeting 12,000 units. Hyundai anticipates nearly 14% growth in festive deliveries. Dealers reported healthy demand across vehicle segments, while the pre-owned car market also witnessed a significant sales uptick. Hyundai anticipates nearly 14% growth in festive deliveries Dealers reported healthy demand across vehicle segments, while the pre-owned car market also witnessed a significant sales uptick Maruti Suzuki estimates its deliveries to be over 30,000 units today, compared to 50,000 deliveries in the last Dhanteras, which the company said happened across two days Tata Motors expects deliveries of 12,000 units, while Hyundai India's CEO Tarun Garg said the automaker expects to record almost 14 pc growth in Dhanteras and Diwali deliveries to 16,000 units \"What is particularly encouraging is that the strong momentum is not limited to one day. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-06T15:47:11+00:00",
+      "source_id": "economic_times_industry",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "country_name_ko": "인도",
+      "source_language": "en",
+      "matched_companies": [
+        "Hyundai Motor"
+      ],
+      "matched_aliases": [
+        "Hyundai"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://www.thehindubusinessline.com/companies/premium-segment-fuel-demand-for-consumer-appliances-this-deepavali/article71675258.ece",
+      "canonical_link": "https://www.thehindubusinessline.com/companies/premium-segment-fuel-demand-for-consumer-appliances-this-deepavali/article71675258.ece",
+      "link": "https://www.thehindubusinessline.com/companies/premium-segment-fuel-demand-for-consumer-appliances-this-deepavali/article71675258.ece",
+      "title": "Premium segment fuel demand for consumer appliances this Deepavali",
+      "summary": "LG Electronics 관련 기사다. 기사 제목은 'Premium segment fuel demand for consumer appliances this Deepavali'이다. Executives from Haier, LG Electronics India and Godrej report double-digit value growth expected by season’s end, supported by attractive financing. The air-conditioner segment has been witnessing a strong uptick, and the washing machine and refrigerator segments are also doing well In the LED TV segment, the 55-inch and above segment is doing well, but the entry-level segment has been a bit slower ” Demand Momentum LG Electronics India said it has seen demand momentum building up since Q2 Consumer traction is led by better technological products and premium segments, as they are looking to upgrade to bigger screens and bigger capacities Our growth is not just price-led but balanced across value and volume. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Premium segment fuel demand for consumer appliances this Deepavali",
+      "original_summary": "Executives from Haier, LG Electronics India and Godrej report double-digit value growth expected by season’s end, supported by attractive financing",
+      "company_summary": "LG Electronics 관련 기사다. 기사 제목은 'Premium segment fuel demand for consumer appliances this Deepavali'이다. Executives from Haier, LG Electronics India and Godrej report double-digit value growth expected by season’s end, supported by attractive financing. The air-conditioner segment has been witnessing a strong uptick, and the washing machine and refrigerator segments are also doing well In the LED TV segment, the 55-inch and above segment is doing well, but the entry-level segment has been a bit slower ” Demand Momentum LG Electronics India said it has seen demand momentum building up since Q2 Consumer traction is led by better technological products and premium segments, as they are looking to upgrade to bigger screens and bigger capacities Our growth is not just price-led but balanced across value and volume. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-06T15:28:56+00:00",
+      "source_id": "businessline_companies",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "country_name_ko": "인도",
+      "source_language": "en",
+      "matched_companies": [
+        "LG Electronics"
+      ],
+      "matched_aliases": [
+        "LG Electronics"
+      ],
+      "is_new": true
+    },
+    {
       "article_key": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
       "canonical_link": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
       "link": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
       "title": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
-      "summary": "SK hynix 관련 기사다. 기사 제목은 'Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble'이다. Asian technology stocks tumbled Friday, tracking a sharp sell-off on Wall Street overnight that sent the tech-heavy Nasdaq Composite into correction territory. Images of mobile devices at the Taiwan Semiconductor Manufacturing Co (TSMC) Museum of Innovation in Hsinchu, on Tuesday, Jan South Korean chipmaker SK Hynix plunged over 8%, while Samsung Electronics shed 7% LG Innotek and LG Display fell 10% and 7 7%, respectively, as selling pressure spread across the country's technology sector. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble'이다. Asian technology stocks tumbled Friday, tracking a sharp sell-off on Wall Street overnight that sent the tech-heavy Nasdaq Composite into correction territory. Images of mobile devices at the Taiwan Semiconductor Manufacturing Co (TSMC) Museum of Innovation in Hsinchu, on Tuesday, Jan South Korean chipmaker SK Hynix plunged 10 44%, while Samsung Electronics shed 6 LG Innotek and LG Display fell 7. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
       "original_title": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
       "original_summary": "Asian technology stocks tumbled Friday, tracking a sharp sell-off on Wall Street overnight that sent the tech-heavy Nasdaq Composite into correction territory.",
-      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble'이다. Asian technology stocks tumbled Friday, tracking a sharp sell-off on Wall Street overnight that sent the tech-heavy Nasdaq Composite into correction territory. Images of mobile devices at the Taiwan Semiconductor Manufacturing Co (TSMC) Museum of Innovation in Hsinchu, on Tuesday, Jan South Korean chipmaker SK Hynix plunged over 8%, while Samsung Electronics shed 7% LG Innotek and LG Display fell 10% and 7 7%, respectively, as selling pressure spread across the country's technology sector. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-11-06T02:40:15+00:00",
-      "source_id": "cnbc_top_news",
-      "source_name": "CNBC Top News",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble'이다. Asian technology stocks tumbled Friday, tracking a sharp sell-off on Wall Street overnight that sent the tech-heavy Nasdaq Composite into correction territory. Images of mobile devices at the Taiwan Semiconductor Manufacturing Co (TSMC) Museum of Innovation in Hsinchu, on Tuesday, Jan South Korean chipmaker SK Hynix plunged 10 44%, while Samsung Electronics shed 6 LG Innotek and LG Display fell 7. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-06T11:06:58+00:00",
+      "source_id": "cnbc_world",
+      "source_name": "CNBC World News",
       "country_code": "US",
       "country_name_ko": "미국",
       "source_language": "en",
@@ -54,7 +123,7 @@
       "matched_aliases": [
         "SK hynix"
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "article_key": "https://www.thehindubusinessline.com/markets/q2-results-today-highlights-bharti-airtel-lic-titan-mm-ongc-samvardhana-britannia-lg-bharat-forge-prestige-fortis-abbott-india-bse-biocon-apollo-lesnkart-nykaacompany-results-05-november-2026/article71668559.ece",
@@ -101,29 +170,6 @@
         "LG Electronics"
       ],
       "is_new": false
-    },
-    {
-      "article_key": "https://www.thehindubusinessline.com/companies/lg-electronics-india-q2-profit-rises-257-to-489-crore-on-strong-appliance-demand/article71668799.ece",
-      "canonical_link": "https://www.thehindubusinessline.com/companies/lg-electronics-india-q2-profit-rises-257-to-489-crore-on-strong-appliance-demand/article71668799.ece",
-      "link": "https://www.thehindubusinessline.com/companies/lg-electronics-india-q2-profit-rises-257-to-489-crore-on-strong-appliance-demand/article71668799.ece",
-      "title": "LG Electronics India Q2 profit rises 25.7% to ₹489 crore on strong appliance demand",
-      "summary": "LG Electronics 관련 기사다. 기사 제목은 'LG Electronics India Q2 profit rises 25.7% to ₹489 crore on strong appliance demand'이다. Strong sales of televisions, refrigerators and washing machines supported quarterly growth, while localisation investments remain central to the company’s cost strategy. LG Electronics India Q2 profit rises 25 ece LG Electronics India reported a 25 LG Electronics India reported a 25 * The ​Indian unit of South Korea’s LG Electronics had previously said it ⁠would target mid-teen per cent revenue growth and ⁠an early double-digit EBITDA margin in fiscal 2027 * Shares of the company ‌were up about 5. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "LG Electronics India Q2 profit rises 25.7% to ₹489 crore on strong appliance demand",
-      "original_summary": "Strong sales of televisions, refrigerators and washing machines supported quarterly growth, while localisation investments remain central to the company’s cost strategy",
-      "company_summary": "LG Electronics 관련 기사다. 기사 제목은 'LG Electronics India Q2 profit rises 25.7% to ₹489 crore on strong appliance demand'이다. Strong sales of televisions, refrigerators and washing machines supported quarterly growth, while localisation investments remain central to the company’s cost strategy. LG Electronics India Q2 profit rises 25 ece LG Electronics India reported a 25 LG Electronics India reported a 25 * The ​Indian unit of South Korea’s LG Electronics had previously said it ⁠would target mid-teen per cent revenue growth and ⁠an early double-digit EBITDA margin in fiscal 2027 * Shares of the company ‌were up about 5. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-11-05T06:34:09+00:00",
-      "source_id": "businessline_companies",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "country_name_ko": "인도",
-      "source_language": "en",
-      "matched_companies": [
-        "LG Electronics"
-      ],
-      "matched_aliases": [
-        "LG Electronics"
-      ],
-      "is_new": false
     }
   ],
   "source_runs": [
@@ -132,7 +178,7 @@
       "source_name": "The New York Times Business",
       "country_code": "US",
       "success": true,
-      "item_count": 50,
+      "item_count": 49,
       "matched_count": 0,
       "error": ""
     },
@@ -339,7 +385,7 @@
       "source_name": "Deutsche Welle World",
       "country_code": "DE",
       "success": true,
-      "item_count": 11,
+      "item_count": 12,
       "matched_count": 0,
       "error": ""
     },
@@ -357,7 +403,7 @@
       "source_name": "tagesschau Wirtschaft",
       "country_code": "DE",
       "success": true,
-      "item_count": 20,
+      "item_count": 22,
       "matched_count": 0,
       "error": ""
     },
@@ -384,7 +430,7 @@
       "source_name": "BBC Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 52,
+      "item_count": 55,
       "matched_count": 0,
       "error": ""
     },
@@ -393,7 +439,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 22,
+      "item_count": 29,
       "matched_count": 0,
       "error": ""
     },
@@ -520,7 +566,7 @@
       "country_code": "US",
       "success": true,
       "item_count": 30,
-      "matched_count": 1,
+      "matched_count": 0,
       "error": ""
     },
     {
@@ -619,7 +665,7 @@
       "country_code": "IN",
       "success": true,
       "item_count": 50,
-      "matched_count": 0,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -681,7 +727,7 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 41,
+      "item_count": 40,
       "matched_count": 0,
       "error": ""
     },
@@ -726,7 +772,7 @@
       "source_name": "Taipei Times",
       "country_code": "TW",
       "success": true,
-      "item_count": 49,
+      "item_count": 50,
       "matched_count": 0,
       "error": ""
     },

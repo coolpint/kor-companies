@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-06T03:27:44.796135+00:00",
+  "last_run_at": "2026-11-06T16:49:55.703725+00:00",
   "seen_articles": {
-    "https://asia.nikkei.com/business/retail/hyundai-department-store-looks-to-bring-south-korean-fashion-abroad": {
-      "title": "Hyundai Department Store looks to bring South Korean fashion abroad",
-      "link": "https://asia.nikkei.com/business/retail/hyundai-department-store-looks-to-bring-south-korean-fashion-abroad",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-09-20T13:30:36.892429+00:00",
-      "last_seen_at": "2026-09-22T13:57:27.500069+00:00"
-    },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/gst-cuts-drive-20-surge-in-auto-sales-industry-leaders-say/articleshow/134411724.cms": {
       "title": "Auto retail sales rise 20% as GST cut boosts affordability",
       "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/gst-cuts-drive-20-surge-in-auto-sales-industry-leaders-say/articleshow/134411724.cms",
@@ -23,18 +12,6 @@
       ],
       "first_seen_at": "2026-09-22T13:57:27.500069+00:00",
       "last_seen_at": "2026-09-23T01:19:57.684789+00:00"
-    },
-    "https://www.scmp.com/news/asia/east-asia/article/3368347/who-needs-degree-south-koreas-chip-boom-rewires-university-obsessed-culture": {
-      "title": "Who needs a degree? South Korea’s chip boom rewires university-obsessed culture",
-      "link": "https://www.scmp.com/news/asia/east-asia/article/3368347/who-needs-degree-south-koreas-chip-boom-rewires-university-obsessed-culture",
-      "source_name": "South China Morning Post World",
-      "country_code": "HK",
-      "companies": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-09-22T13:57:27.500069+00:00",
-      "last_seen_at": "2026-09-22T13:57:27.500069+00:00"
     },
     "https://economictimes.indiatimes.com/industry/cons-products/electronics/india-probes-lg-samsung-over-alleged-tariff-evasion-on-imported-oled-tv-parts/articleshow/134431170.cms": {
       "title": "India probes LG, Samsung over alleged tariff evasion on imported OLED TV parts",
@@ -1357,7 +1334,7 @@
         "LG Electronics"
       ],
       "first_seen_at": "2026-11-05T17:28:05.968290+00:00",
-      "last_seen_at": "2026-11-06T03:27:44.796135+00:00"
+      "last_seen_at": "2026-11-06T16:49:55.703725+00:00"
     },
     "https://www.thehindubusinessline.com/info-tech/lg-electronics-india-q2-net-up-257-on-balanced-volume-and-value-growth/article71669575.ece": {
       "title": "LG Electronics India Q2 net up 25.7% on balanced volume and value growth",
@@ -1368,7 +1345,7 @@
         "LG Electronics"
       ],
       "first_seen_at": "2026-11-05T17:28:05.968290+00:00",
-      "last_seen_at": "2026-11-06T03:27:44.796135+00:00"
+      "last_seen_at": "2026-11-06T16:49:55.703725+00:00"
     },
     "https://www.thehindubusinessline.com/companies/lg-electronics-india-q2-profit-rises-257-to-489-crore-on-strong-appliance-demand/article71668799.ece": {
       "title": "LG Electronics India Q2 profit rises 25.7% to ₹489 crore on strong appliance demand",
@@ -1384,13 +1361,35 @@
     "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html": {
       "title": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
       "link": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
-      "source_name": "CNBC Top News",
+      "source_name": "CNBC World News",
       "country_code": "US",
       "companies": [
         "SK hynix"
       ],
       "first_seen_at": "2026-11-06T03:27:44.796135+00:00",
-      "last_seen_at": "2026-11-06T03:27:44.796135+00:00"
+      "last_seen_at": "2026-11-06T16:49:55.703725+00:00"
+    },
+    "https://economictimes.indiatimes.com/industry/auto/auto-news/auto-sector-sees-strong-dhanteras-deliveries-expects-momentum-to-continue-till-diwali/articleshow/135612686.cms": {
+      "title": "Auto sector sees strong Dhanteras deliveries, expects momentum to continue till Diwali",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/auto-sector-sees-strong-dhanteras-deliveries-expects-momentum-to-continue-till-diwali/articleshow/135612686.cms",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-11-06T16:49:55.703725+00:00",
+      "last_seen_at": "2026-11-06T16:49:55.703725+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/premium-segment-fuel-demand-for-consumer-appliances-this-deepavali/article71675258.ece": {
+      "title": "Premium segment fuel demand for consumer appliances this Deepavali",
+      "link": "https://www.thehindubusinessline.com/companies/premium-segment-fuel-demand-for-consumer-appliances-this-deepavali/article71675258.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "LG Electronics"
+      ],
+      "first_seen_at": "2026-11-06T16:49:55.703725+00:00",
+      "last_seen_at": "2026-11-06T16:49:55.703725+00:00"
     }
   }
 }
