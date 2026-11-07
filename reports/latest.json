@@ -1,60 +1,13 @@
 {
-  "run_at": "2026-11-06T16:49:55.703725+00:00",
+  "run_at": "2026-11-07T02:53:31.554543+00:00",
   "summary": {
     "source_count": 73,
     "success_count": 70,
     "failed_count": 3,
-    "matched_count": 5,
-    "new_count": 2
+    "matched_count": 4,
+    "new_count": 0
   },
-  "new_articles": [
-    {
-      "article_key": "https://economictimes.indiatimes.com/industry/auto/auto-news/auto-sector-sees-strong-dhanteras-deliveries-expects-momentum-to-continue-till-diwali/articleshow/135612686.cms",
-      "canonical_link": "https://economictimes.indiatimes.com/industry/auto/auto-news/auto-sector-sees-strong-dhanteras-deliveries-expects-momentum-to-continue-till-diwali/articleshow/135612686.cms",
-      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/auto-sector-sees-strong-dhanteras-deliveries-expects-momentum-to-continue-till-diwali/articleshow/135612686.cms",
-      "title": "Auto sector sees strong Dhanteras deliveries, expects momentum to continue till Diwali",
-      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Auto sector sees strong Dhanteras deliveries, expects momentum to continue till Diwali'이다. Automakers and dealerships reported strong Dhanteras deliveries following robust Navratri sales, with Maruti Suzuki expecting over 30,000 deliveries and Tata Motors targeting 12,000 units. Hyundai anticipates nearly 14% growth in festive deliveries. Dealers reported healthy demand across vehicle segments, while the pre-owned car market also witnessed a significant sales uptick. Hyundai anticipates nearly 14% growth in festive deliveries Dealers reported healthy demand across vehicle segments, while the pre-owned car market also witnessed a significant sales uptick Maruti Suzuki estimates its deliveries to be over 30,000 units today, compared to 50,000 deliveries in the last Dhanteras, which the company said happened across two days Tata Motors expects deliveries of 12,000 units, while Hyundai India's CEO Tarun Garg said the automaker expects to record almost 14 pc growth in Dhanteras and Diwali deliveries to 16,000 units \"What is particularly encouraging is that the strong momentum is not limited to one day. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Auto sector sees strong Dhanteras deliveries, expects momentum to continue till Diwali",
-      "original_summary": "Automakers and dealerships reported strong Dhanteras deliveries following robust Navratri sales, with Maruti Suzuki expecting over 30,000 deliveries and Tata Motors targeting 12,000 units. Hyundai anticipates nearly 14% growth in festive deliveries. Dealers reported healthy demand across vehicle segments, while the pre-owned car market also witnessed a significant sales uptick.",
-      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Auto sector sees strong Dhanteras deliveries, expects momentum to continue till Diwali'이다. Automakers and dealerships reported strong Dhanteras deliveries following robust Navratri sales, with Maruti Suzuki expecting over 30,000 deliveries and Tata Motors targeting 12,000 units. Hyundai anticipates nearly 14% growth in festive deliveries. Dealers reported healthy demand across vehicle segments, while the pre-owned car market also witnessed a significant sales uptick. Hyundai anticipates nearly 14% growth in festive deliveries Dealers reported healthy demand across vehicle segments, while the pre-owned car market also witnessed a significant sales uptick Maruti Suzuki estimates its deliveries to be over 30,000 units today, compared to 50,000 deliveries in the last Dhanteras, which the company said happened across two days Tata Motors expects deliveries of 12,000 units, while Hyundai India's CEO Tarun Garg said the automaker expects to record almost 14 pc growth in Dhanteras and Diwali deliveries to 16,000 units \"What is particularly encouraging is that the strong momentum is not limited to one day. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-11-06T15:47:11+00:00",
-      "source_id": "economic_times_industry",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "country_name_ko": "인도",
-      "source_language": "en",
-      "matched_companies": [
-        "Hyundai Motor"
-      ],
-      "matched_aliases": [
-        "Hyundai"
-      ],
-      "is_new": true
-    },
-    {
-      "article_key": "https://www.thehindubusinessline.com/companies/premium-segment-fuel-demand-for-consumer-appliances-this-deepavali/article71675258.ece",
-      "canonical_link": "https://www.thehindubusinessline.com/companies/premium-segment-fuel-demand-for-consumer-appliances-this-deepavali/article71675258.ece",
-      "link": "https://www.thehindubusinessline.com/companies/premium-segment-fuel-demand-for-consumer-appliances-this-deepavali/article71675258.ece",
-      "title": "Premium segment fuel demand for consumer appliances this Deepavali",
-      "summary": "LG Electronics 관련 기사다. 기사 제목은 'Premium segment fuel demand for consumer appliances this Deepavali'이다. Executives from Haier, LG Electronics India and Godrej report double-digit value growth expected by season’s end, supported by attractive financing. The air-conditioner segment has been witnessing a strong uptick, and the washing machine and refrigerator segments are also doing well In the LED TV segment, the 55-inch and above segment is doing well, but the entry-level segment has been a bit slower ” Demand Momentum LG Electronics India said it has seen demand momentum building up since Q2 Consumer traction is led by better technological products and premium segments, as they are looking to upgrade to bigger screens and bigger capacities Our growth is not just price-led but balanced across value and volume. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Premium segment fuel demand for consumer appliances this Deepavali",
-      "original_summary": "Executives from Haier, LG Electronics India and Godrej report double-digit value growth expected by season’s end, supported by attractive financing",
-      "company_summary": "LG Electronics 관련 기사다. 기사 제목은 'Premium segment fuel demand for consumer appliances this Deepavali'이다. Executives from Haier, LG Electronics India and Godrej report double-digit value growth expected by season’s end, supported by attractive financing. The air-conditioner segment has been witnessing a strong uptick, and the washing machine and refrigerator segments are also doing well In the LED TV segment, the 55-inch and above segment is doing well, but the entry-level segment has been a bit slower ” Demand Momentum LG Electronics India said it has seen demand momentum building up since Q2 Consumer traction is led by better technological products and premium segments, as they are looking to upgrade to bigger screens and bigger capacities Our growth is not just price-led but balanced across value and volume. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-11-06T15:28:56+00:00",
-      "source_id": "businessline_companies",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "country_name_ko": "인도",
-      "source_language": "en",
-      "matched_companies": [
-        "LG Electronics"
-      ],
-      "matched_aliases": [
-        "LG Electronics"
-      ],
-      "is_new": true
-    }
-  ],
+  "new_articles": [],
   "matched_articles": [
     {
       "article_key": "https://economictimes.indiatimes.com/industry/auto/auto-news/auto-sector-sees-strong-dhanteras-deliveries-expects-momentum-to-continue-till-diwali/articleshow/135612686.cms",
@@ -77,7 +30,7 @@
       "matched_aliases": [
         "Hyundai"
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "article_key": "https://www.thehindubusinessline.com/companies/premium-segment-fuel-demand-for-consumer-appliances-this-deepavali/article71675258.ece",
@@ -100,7 +53,7 @@
       "matched_aliases": [
         "LG Electronics"
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "article_key": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
@@ -147,29 +100,6 @@
         "LG Electronics"
       ],
       "is_new": false
-    },
-    {
-      "article_key": "https://www.thehindubusinessline.com/info-tech/lg-electronics-india-q2-net-up-257-on-balanced-volume-and-value-growth/article71669575.ece",
-      "canonical_link": "https://www.thehindubusinessline.com/info-tech/lg-electronics-india-q2-net-up-257-on-balanced-volume-and-value-growth/article71669575.ece",
-      "link": "https://www.thehindubusinessline.com/info-tech/lg-electronics-india-q2-net-up-257-on-balanced-volume-and-value-growth/article71669575.ece",
-      "title": "LG Electronics India Q2 net up 25.7% on balanced volume and value growth",
-      "summary": "LG Electronics 관련 기사다. 기사 제목은 'LG Electronics India Q2 net up 25.7% on balanced volume and value growth'이다. Sanjay Chitkara, Co-Chief Sales and Marketing Officer, LGE India told businessline said the company’s growth is not merely price-led but its coming from both mass and premium segments. LG Electronics India Q2 net up 25 thehindubusinessline 5 per cent to ₹7,380 crore on the back of balanced growth in terms of both volume and value | Photo Credit: REUTERS/FRANCIS MASCARENHAS LG Electronics India posted a net profit of ₹489 3 crore in September quarter up 25. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "LG Electronics India Q2 net up 25.7% on balanced volume and value growth",
-      "original_summary": "Sanjay Chitkara, Co-Chief Sales and Marketing Officer, LGE India told businessline said the company’s growth is not merely price-led but its coming from both mass and premium segments",
-      "company_summary": "LG Electronics 관련 기사다. 기사 제목은 'LG Electronics India Q2 net up 25.7% on balanced volume and value growth'이다. Sanjay Chitkara, Co-Chief Sales and Marketing Officer, LGE India told businessline said the company’s growth is not merely price-led but its coming from both mass and premium segments. LG Electronics India Q2 net up 25 thehindubusinessline 5 per cent to ₹7,380 crore on the back of balanced growth in terms of both volume and value | Photo Credit: REUTERS/FRANCIS MASCARENHAS LG Electronics India posted a net profit of ₹489 3 crore in September quarter up 25. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-11-05T13:08:27+00:00",
-      "source_id": "businessline_companies",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "country_name_ko": "인도",
-      "source_language": "en",
-      "matched_companies": [
-        "LG Electronics"
-      ],
-      "matched_aliases": [
-        "LG Electronics"
-      ],
-      "is_new": false
     }
   ],
   "source_runs": [
@@ -187,7 +117,7 @@
       "source_name": "The New York Times Technology",
       "country_code": "US",
       "success": true,
-      "item_count": 27,
+      "item_count": 24,
       "matched_count": 0,
       "error": ""
     },
@@ -403,7 +333,7 @@
       "source_name": "tagesschau Wirtschaft",
       "country_code": "DE",
       "success": true,
-      "item_count": 22,
+      "item_count": 23,
       "matched_count": 0,
       "error": ""
     },
@@ -430,7 +360,7 @@
       "source_name": "BBC Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 55,
+      "item_count": 54,
       "matched_count": 0,
       "error": ""
     },
@@ -439,7 +369,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 29,
+      "item_count": 25,
       "matched_count": 0,
       "error": ""
     },
@@ -683,7 +613,7 @@
       "country_code": "IN",
       "success": true,
       "item_count": 60,
-      "matched_count": 3,
+      "matched_count": 2,
       "error": ""
     },
     {
@@ -727,7 +657,7 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 40,
+      "item_count": 35,
       "matched_count": 0,
       "error": ""
     },

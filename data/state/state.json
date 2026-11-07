@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-06T16:49:55.703725+00:00",
+  "last_run_at": "2026-11-07T02:53:31.554543+00:00",
   "seen_articles": {
-    "https://economictimes.indiatimes.com/industry/auto/auto-news/gst-cuts-drive-20-surge-in-auto-sales-industry-leaders-say/articleshow/134411724.cms": {
-      "title": "Auto retail sales rise 20% as GST cut boosts affordability",
-      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/gst-cuts-drive-20-surge-in-auto-sales-industry-leaders-say/articleshow/134411724.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-09-22T13:57:27.500069+00:00",
-      "last_seen_at": "2026-09-23T01:19:57.684789+00:00"
-    },
     "https://economictimes.indiatimes.com/industry/cons-products/electronics/india-probes-lg-samsung-over-alleged-tariff-evasion-on-imported-oled-tv-parts/articleshow/134431170.cms": {
       "title": "India probes LG, Samsung over alleged tariff evasion on imported OLED TV parts",
       "link": "https://economictimes.indiatimes.com/industry/cons-products/electronics/india-probes-lg-samsung-over-alleged-tariff-evasion-on-imported-oled-tv-parts/articleshow/134431170.cms",
@@ -1334,7 +1323,7 @@
         "LG Electronics"
       ],
       "first_seen_at": "2026-11-05T17:28:05.968290+00:00",
-      "last_seen_at": "2026-11-06T16:49:55.703725+00:00"
+      "last_seen_at": "2026-11-07T02:53:31.554543+00:00"
     },
     "https://www.thehindubusinessline.com/info-tech/lg-electronics-india-q2-net-up-257-on-balanced-volume-and-value-growth/article71669575.ece": {
       "title": "LG Electronics India Q2 net up 25.7% on balanced volume and value growth",
@@ -1367,7 +1356,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-11-06T03:27:44.796135+00:00",
-      "last_seen_at": "2026-11-06T16:49:55.703725+00:00"
+      "last_seen_at": "2026-11-07T02:53:31.554543+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/auto-sector-sees-strong-dhanteras-deliveries-expects-momentum-to-continue-till-diwali/articleshow/135612686.cms": {
       "title": "Auto sector sees strong Dhanteras deliveries, expects momentum to continue till Diwali",
@@ -1378,7 +1367,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-11-06T16:49:55.703725+00:00",
-      "last_seen_at": "2026-11-06T16:49:55.703725+00:00"
+      "last_seen_at": "2026-11-07T02:53:31.554543+00:00"
     },
     "https://www.thehindubusinessline.com/companies/premium-segment-fuel-demand-for-consumer-appliances-this-deepavali/article71675258.ece": {
       "title": "Premium segment fuel demand for consumer appliances this Deepavali",
@@ -1389,7 +1378,7 @@
         "LG Electronics"
       ],
       "first_seen_at": "2026-11-06T16:49:55.703725+00:00",
-      "last_seen_at": "2026-11-06T16:49:55.703725+00:00"
+      "last_seen_at": "2026-11-07T02:53:31.554543+00:00"
     }
   }
 }
