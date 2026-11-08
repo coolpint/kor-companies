@@ -1,29 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-07T15:43:53.377503+00:00",
+  "last_run_at": "2026-11-08T02:33:07.500771+00:00",
   "seen_articles": {
-    "https://economictimes.indiatimes.com/industry/cons-products/electronics/india-probes-lg-samsung-over-alleged-tariff-evasion-on-imported-oled-tv-parts/articleshow/134431170.cms": {
-      "title": "India probes LG, Samsung over alleged tariff evasion on imported OLED TV parts",
-      "link": "https://economictimes.indiatimes.com/industry/cons-products/electronics/india-probes-lg-samsung-over-alleged-tariff-evasion-on-imported-oled-tv-parts/articleshow/134431170.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "LG Electronics"
-      ],
-      "first_seen_at": "2026-09-23T14:08:41.654407+00:00",
-      "last_seen_at": "2026-09-24T01:14:42.990216+00:00"
-    },
-    "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-motor-india-opens-booking-for-bayon-model-at-rs-11000-check-how-to-book-specifications-more/articleshow/134428114.cms": {
-      "title": "Hyundai Motor India opens booking for Bayon at Rs 11,000; check how to book, specifications & more",
-      "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-motor-india-opens-booking-for-bayon-model-at-rs-11000-check-how-to-book-specifications-more/articleshow/134428114.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-09-23T14:08:41.654407+00:00",
-      "last_seen_at": "2026-09-24T01:14:42.990216+00:00"
-    },
     "https://www.cnbc.com/2026/09/24/hyundai-set-to-outsell-ford-in-q3-as-detroit-automakers-lack-hybrids.html": {
       "title": "Hyundai expected to outsell Ford in third quarter as Detroit automakers lack hybrids",
       "link": "https://www.cnbc.com/2026/09/24/hyundai-set-to-outsell-ford-in-q3-as-detroit-automakers-lack-hybrids.html",
@@ -1367,7 +1345,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-11-06T16:49:55.703725+00:00",
-      "last_seen_at": "2026-11-07T15:43:53.377503+00:00"
+      "last_seen_at": "2026-11-08T02:33:07.500771+00:00"
     },
     "https://www.thehindubusinessline.com/companies/premium-segment-fuel-demand-for-consumer-appliances-this-deepavali/article71675258.ece": {
       "title": "Premium segment fuel demand for consumer appliances this Deepavali",
@@ -1378,7 +1356,7 @@
         "LG Electronics"
       ],
       "first_seen_at": "2026-11-06T16:49:55.703725+00:00",
-      "last_seen_at": "2026-11-07T15:43:53.377503+00:00"
+      "last_seen_at": "2026-11-08T02:33:07.500771+00:00"
     }
   }
 }

@@ -1,10 +1,10 @@
 {
-  "run_at": "2026-11-07T15:43:53.377503+00:00",
+  "run_at": "2026-11-08T02:33:07.500771+00:00",
   "summary": {
     "source_count": 73,
     "success_count": 70,
     "failed_count": 3,
-    "matched_count": 3,
+    "matched_count": 2,
     "new_count": 0
   },
   "new_articles": [],
@@ -52,29 +52,6 @@
       ],
       "matched_aliases": [
         "LG Electronics"
-      ],
-      "is_new": false
-    },
-    {
-      "article_key": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
-      "canonical_link": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
-      "link": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
-      "title": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
-      "summary": "SK hynix 관련 기사다. 기사 제목은 'Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble'이다. Asian technology stocks tumbled Friday, tracking a sharp sell-off on Wall Street overnight that sent the tech-heavy Nasdaq Composite into correction territory. Images of mobile devices at the Taiwan Semiconductor Manufacturing Co (TSMC) Museum of Innovation in Hsinchu, on Tuesday, Jan South Korean chipmaker SK Hynix plunged 10 44%, while Samsung Electronics shed 6 LG Innotek and LG Display fell 7. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
-      "original_summary": "Asian technology stocks tumbled Friday, tracking a sharp sell-off on Wall Street overnight that sent the tech-heavy Nasdaq Composite into correction territory.",
-      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble'이다. Asian technology stocks tumbled Friday, tracking a sharp sell-off on Wall Street overnight that sent the tech-heavy Nasdaq Composite into correction territory. Images of mobile devices at the Taiwan Semiconductor Manufacturing Co (TSMC) Museum of Innovation in Hsinchu, on Tuesday, Jan South Korean chipmaker SK Hynix plunged 10 44%, while Samsung Electronics shed 6 LG Innotek and LG Display fell 7. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-11-06T11:06:58+00:00",
-      "source_id": "cnbc_world",
-      "source_name": "CNBC World News",
-      "country_code": "US",
-      "country_name_ko": "미국",
-      "source_language": "en",
-      "matched_companies": [
-        "SK hynix"
-      ],
-      "matched_aliases": [
-        "SK hynix"
       ],
       "is_new": false
     }
@@ -310,7 +287,7 @@
       "source_name": "tagesschau Wirtschaft",
       "country_code": "DE",
       "success": true,
-      "item_count": 24,
+      "item_count": 25,
       "matched_count": 0,
       "error": ""
     },
@@ -337,7 +314,7 @@
       "source_name": "BBC Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 54,
+      "item_count": 43,
       "matched_count": 0,
       "error": ""
     },
@@ -346,7 +323,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 23,
+      "item_count": 25,
       "matched_count": 0,
       "error": ""
     },
@@ -482,7 +459,7 @@
       "country_code": "US",
       "success": true,
       "item_count": 30,
-      "matched_count": 1,
+      "matched_count": 0,
       "error": ""
     },
     {
@@ -491,7 +468,7 @@
       "country_code": "US",
       "success": true,
       "item_count": 30,
-      "matched_count": 1,
+      "matched_count": 0,
       "error": ""
     },
     {
@@ -580,7 +557,7 @@
       "source_name": "The Economic Times Tech",
       "country_code": "IN",
       "success": true,
-      "item_count": 49,
+      "item_count": 50,
       "matched_count": 0,
       "error": ""
     },
@@ -634,7 +611,7 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 27,
+      "item_count": 17,
       "matched_count": 0,
       "error": ""
     },
@@ -679,7 +656,7 @@
       "source_name": "Taipei Times",
       "country_code": "TW",
       "success": true,
-      "item_count": 50,
+      "item_count": 45,
       "matched_count": 0,
       "error": ""
     },
