@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-08T16:02:03.091990+00:00",
+  "last_run_at": "2026-11-09T02:43:39.401011+00:00",
   "seen_articles": {
-    "https://www.cnbc.com/2026/09/24/hyundai-set-to-outsell-ford-in-q3-as-detroit-automakers-lack-hybrids.html": {
-      "title": "Hyundai expected to outsell Ford in third quarter as Detroit automakers lack hybrids",
-      "link": "https://www.cnbc.com/2026/09/24/hyundai-set-to-outsell-ford-in-q3-as-detroit-automakers-lack-hybrids.html",
-      "source_name": "CNBC Top News",
-      "country_code": "US",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-09-25T01:16:33.399128+00:00",
-      "last_seen_at": "2026-09-25T01:16:33.399128+00:00"
-    },
     "https://www.bangkokpost.com/business/general/3326048/set-courts-four-major-firms-for-thai-listings": {
       "title": "SET courts four major firms for Thai listings",
       "link": "https://www.bangkokpost.com/business/general/3326048/set-courts-four-major-firms-for-thai-listings",

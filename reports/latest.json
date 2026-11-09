@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-08T16:02:03.091990+00:00",
+  "run_at": "2026-11-09T02:43:39.401011+00:00",
   "summary": {
     "source_count": 73,
     "success_count": 70,
@@ -24,7 +24,7 @@
       "source_name": "The New York Times Technology",
       "country_code": "US",
       "success": true,
-      "item_count": 23,
+      "item_count": 26,
       "matched_count": 0,
       "error": ""
     },
@@ -267,7 +267,7 @@
       "source_name": "BBC Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 45,
+      "item_count": 47,
       "matched_count": 0,
       "error": ""
     },
@@ -276,7 +276,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 25,
+      "item_count": 27,
       "matched_count": 0,
       "error": ""
     },
@@ -330,7 +330,7 @@
       "source_name": "The Guardian Technology",
       "country_code": "GB",
       "success": true,
-      "item_count": 31,
+      "item_count": 32,
       "matched_count": 0,
       "error": ""
     },
@@ -510,7 +510,7 @@
       "source_name": "The Economic Times Tech",
       "country_code": "IN",
       "success": true,
-      "item_count": 50,
+      "item_count": 49,
       "matched_count": 0,
       "error": ""
     },
@@ -537,7 +537,7 @@
       "source_name": "CNA Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 20,
+      "item_count": 16,
       "matched_count": 0,
       "error": ""
     },
@@ -546,7 +546,7 @@
       "source_name": "CNA Asia",
       "country_code": "SG",
       "success": true,
-      "item_count": 13,
+      "item_count": 12,
       "matched_count": 0,
       "error": ""
     },
@@ -564,7 +564,7 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 11,
+      "item_count": 12,
       "matched_count": 0,
       "error": ""
     },
@@ -609,7 +609,7 @@
       "source_name": "Taipei Times",
       "country_code": "TW",
       "success": true,
-      "item_count": 45,
+      "item_count": 50,
       "matched_count": 0,
       "error": ""
     },
