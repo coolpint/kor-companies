@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-10T04:40:19.014637+00:00",
+  "last_run_at": "2026-11-10T17:07:15.542359+00:00",
   "seen_articles": {
-    "https://www.bangkokpost.com/business/general/3326048/set-courts-four-major-firms-for-thai-listings": {
-      "title": "SET courts four major firms for Thai listings",
-      "link": "https://www.bangkokpost.com/business/general/3326048/set-courts-four-major-firms-for-thai-listings",
-      "source_name": "Bangkok Post Business",
-      "country_code": "TH",
-      "companies": [
-        "CJ CheilJedang"
-      ],
-      "first_seen_at": "2026-09-25T14:30:36.067999+00:00",
-      "last_seen_at": "2026-09-26T13:40:43.294948+00:00"
-    },
     "https://www.channelnewsasia.com/business/exclusive-sk-hynixs-solidigm-weighs-ipo-could-value-unit-up-150-billion-sources-say-6411646": {
       "title": "Exclusive-SK Hynix's Solidigm weighs IPO that could value the unit at up to $150 billion, sources say",
       "link": "https://www.channelnewsasia.com/business/exclusive-sk-hynixs-solidigm-weighs-ipo-could-value-unit-up-150-billion-sources-say-6411646",
@@ -1346,6 +1335,17 @@
       ],
       "first_seen_at": "2026-11-06T16:49:55.703725+00:00",
       "last_seen_at": "2026-11-08T02:33:07.500771+00:00"
+    },
+    "https://www.scmp.com/week-asia/politics/article/3373911/nvidias-jensen-huang-scandal-casts-shadow-over-south-koreas-chip-bromance": {
+      "title": "Nvidia’s Jensen Huang scandal casts shadow over South Korea’s chip ‘bromance’",
+      "link": "https://www.scmp.com/week-asia/politics/article/3373911/nvidias-jensen-huang-scandal-casts-shadow-over-south-koreas-chip-bromance",
+      "source_name": "South China Morning Post World",
+      "country_code": "HK",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-11-10T17:07:15.542359+00:00",
+      "last_seen_at": "2026-11-10T17:07:15.542359+00:00"
     }
   }
 }
