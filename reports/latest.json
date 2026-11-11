@@ -1,62 +1,14 @@
 {
-  "run_at": "2026-11-10T17:07:15.542359+00:00",
+  "run_at": "2026-11-11T02:50:46.218613+00:00",
   "summary": {
     "source_count": 73,
     "success_count": 67,
     "failed_count": 6,
-    "matched_count": 1,
-    "new_count": 1
+    "matched_count": 0,
+    "new_count": 0
   },
-  "new_articles": [
-    {
-      "article_key": "https://www.scmp.com/week-asia/politics/article/3373911/nvidias-jensen-huang-scandal-casts-shadow-over-south-koreas-chip-bromance",
-      "canonical_link": "https://www.scmp.com/week-asia/politics/article/3373911/nvidias-jensen-huang-scandal-casts-shadow-over-south-koreas-chip-bromance",
-      "link": "https://www.scmp.com/week-asia/politics/article/3373911/nvidias-jensen-huang-scandal-casts-shadow-over-south-koreas-chip-bromance",
-      "title": "Nvidia’s Jensen Huang scandal casts shadow over South Korea’s chip ‘bromance’",
-      "summary": "Samsung Electronics 관련 기사다. 기사 제목은 'Nvidia’s Jensen Huang scandal casts shadow over South Korea’s chip ‘bromance’'이다. South Korea is facing growing concerns over the fallout from Nvidia CEO Jensen Huang’s alleged affair with a woman suspected of being a Chinese spy, amid fears that the scandal could disrupt global AI supply chains and trigger tighter US export controls on Seoul’s semiconductor champions. The highly publicised “bromance” between Huang and South Korea’s top technology leaders – notably Samsung Electronics executive chairman Lee Jae-yong and SK Group chairman Chey Tae-won – has played a crucial. . The highly publicised “bromance” between Huang and South Korea’s top technology leaders – notably Samsung Electronics executive chairman Lee Jae-yong and SK Group chairman Chey Tae-won – has played a crucial role in accelerating deals and joint infrastructure development, analysts say During high-profile visits to Seoul, the flamboyant Nvidia boss has routinely bypassed corporate boardrooms, preferring informal, photogenic dinners over Korean comfort food and drinks to cement multibillion-dollar partnerships 02:42 Nvidia CEO Jensen Huang meets with Samsung, Hyundai chiefs over beer and fried chicken But those warm business ties now face uncertainty following revelations surrounding the single most important buyer of South Korean advanced memory chips. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Nvidia’s Jensen Huang scandal casts shadow over South Korea’s chip ‘bromance’",
-      "original_summary": "South Korea is facing growing concerns over the fallout from Nvidia CEO Jensen Huang’s alleged affair with a woman suspected of being a Chinese spy, amid fears that the scandal could disrupt global AI supply chains and trigger tighter US export controls on Seoul’s semiconductor champions. The highly publicised “bromance” between Huang and South Korea’s top technology leaders – notably Samsung Electronics executive chairman Lee Jae-yong and SK Group chairman Chey Tae-won – has played a crucial...",
-      "company_summary": "Samsung Electronics 관련 기사다. 기사 제목은 'Nvidia’s Jensen Huang scandal casts shadow over South Korea’s chip ‘bromance’'이다. South Korea is facing growing concerns over the fallout from Nvidia CEO Jensen Huang’s alleged affair with a woman suspected of being a Chinese spy, amid fears that the scandal could disrupt global AI supply chains and trigger tighter US export controls on Seoul’s semiconductor champions. The highly publicised “bromance” between Huang and South Korea’s top technology leaders – notably Samsung Electronics executive chairman Lee Jae-yong and SK Group chairman Chey Tae-won – has played a crucial. . The highly publicised “bromance” between Huang and South Korea’s top technology leaders – notably Samsung Electronics executive chairman Lee Jae-yong and SK Group chairman Chey Tae-won – has played a crucial role in accelerating deals and joint infrastructure development, analysts say During high-profile visits to Seoul, the flamboyant Nvidia boss has routinely bypassed corporate boardrooms, preferring informal, photogenic dinners over Korean comfort food and drinks to cement multibillion-dollar partnerships 02:42 Nvidia CEO Jensen Huang meets with Samsung, Hyundai chiefs over beer and fried chicken But those warm business ties now face uncertainty following revelations surrounding the single most important buyer of South Korean advanced memory chips. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-11-10T09:00:17+00:00",
-      "source_id": "scmp_world",
-      "source_name": "South China Morning Post World",
-      "country_code": "HK",
-      "country_name_ko": "홍콩",
-      "source_language": "en",
-      "matched_companies": [
-        "Samsung Electronics"
-      ],
-      "matched_aliases": [
-        "Samsung Electronics"
-      ],
-      "is_new": true
-    }
-  ],
-  "matched_articles": [
-    {
-      "article_key": "https://www.scmp.com/week-asia/politics/article/3373911/nvidias-jensen-huang-scandal-casts-shadow-over-south-koreas-chip-bromance",
-      "canonical_link": "https://www.scmp.com/week-asia/politics/article/3373911/nvidias-jensen-huang-scandal-casts-shadow-over-south-koreas-chip-bromance",
-      "link": "https://www.scmp.com/week-asia/politics/article/3373911/nvidias-jensen-huang-scandal-casts-shadow-over-south-koreas-chip-bromance",
-      "title": "Nvidia’s Jensen Huang scandal casts shadow over South Korea’s chip ‘bromance’",
-      "summary": "Samsung Electronics 관련 기사다. 기사 제목은 'Nvidia’s Jensen Huang scandal casts shadow over South Korea’s chip ‘bromance’'이다. South Korea is facing growing concerns over the fallout from Nvidia CEO Jensen Huang’s alleged affair with a woman suspected of being a Chinese spy, amid fears that the scandal could disrupt global AI supply chains and trigger tighter US export controls on Seoul’s semiconductor champions. The highly publicised “bromance” between Huang and South Korea’s top technology leaders – notably Samsung Electronics executive chairman Lee Jae-yong and SK Group chairman Chey Tae-won – has played a crucial. . The highly publicised “bromance” between Huang and South Korea’s top technology leaders – notably Samsung Electronics executive chairman Lee Jae-yong and SK Group chairman Chey Tae-won – has played a crucial role in accelerating deals and joint infrastructure development, analysts say During high-profile visits to Seoul, the flamboyant Nvidia boss has routinely bypassed corporate boardrooms, preferring informal, photogenic dinners over Korean comfort food and drinks to cement multibillion-dollar partnerships 02:42 Nvidia CEO Jensen Huang meets with Samsung, Hyundai chiefs over beer and fried chicken But those warm business ties now face uncertainty following revelations surrounding the single most important buyer of South Korean advanced memory chips. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Nvidia’s Jensen Huang scandal casts shadow over South Korea’s chip ‘bromance’",
-      "original_summary": "South Korea is facing growing concerns over the fallout from Nvidia CEO Jensen Huang’s alleged affair with a woman suspected of being a Chinese spy, amid fears that the scandal could disrupt global AI supply chains and trigger tighter US export controls on Seoul’s semiconductor champions. The highly publicised “bromance” between Huang and South Korea’s top technology leaders – notably Samsung Electronics executive chairman Lee Jae-yong and SK Group chairman Chey Tae-won – has played a crucial...",
-      "company_summary": "Samsung Electronics 관련 기사다. 기사 제목은 'Nvidia’s Jensen Huang scandal casts shadow over South Korea’s chip ‘bromance’'이다. South Korea is facing growing concerns over the fallout from Nvidia CEO Jensen Huang’s alleged affair with a woman suspected of being a Chinese spy, amid fears that the scandal could disrupt global AI supply chains and trigger tighter US export controls on Seoul’s semiconductor champions. The highly publicised “bromance” between Huang and South Korea’s top technology leaders – notably Samsung Electronics executive chairman Lee Jae-yong and SK Group chairman Chey Tae-won – has played a crucial. . The highly publicised “bromance” between Huang and South Korea’s top technology leaders – notably Samsung Electronics executive chairman Lee Jae-yong and SK Group chairman Chey Tae-won – has played a crucial role in accelerating deals and joint infrastructure development, analysts say During high-profile visits to Seoul, the flamboyant Nvidia boss has routinely bypassed corporate boardrooms, preferring informal, photogenic dinners over Korean comfort food and drinks to cement multibillion-dollar partnerships 02:42 Nvidia CEO Jensen Huang meets with Samsung, Hyundai chiefs over beer and fried chicken But those warm business ties now face uncertainty following revelations surrounding the single most important buyer of South Korean advanced memory chips. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-11-10T09:00:17+00:00",
-      "source_id": "scmp_world",
-      "source_name": "South China Morning Post World",
-      "country_code": "HK",
-      "country_name_ko": "홍콩",
-      "source_language": "en",
-      "matched_companies": [
-        "Samsung Electronics"
-      ],
-      "matched_aliases": [
-        "Samsung Electronics"
-      ],
-      "is_new": true
-    }
-  ],
+  "new_articles": [],
+  "matched_articles": [],
   "source_runs": [
     {
       "source_id": "nyt_business",
@@ -72,7 +24,7 @@
       "source_name": "The New York Times Technology",
       "country_code": "US",
       "success": true,
-      "item_count": 28,
+      "item_count": 30,
       "matched_count": 0,
       "error": ""
     },
@@ -270,7 +222,7 @@
       "source_name": "Deutsche Welle World",
       "country_code": "DE",
       "success": true,
-      "item_count": 11,
+      "item_count": 12,
       "matched_count": 0,
       "error": ""
     },
@@ -315,7 +267,7 @@
       "source_name": "BBC Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 47,
+      "item_count": 51,
       "matched_count": 0,
       "error": ""
     },
@@ -324,7 +276,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 27,
+      "item_count": 38,
       "matched_count": 0,
       "error": ""
     },
@@ -612,7 +564,7 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 29,
+      "item_count": 32,
       "matched_count": 0,
       "error": ""
     },
@@ -640,7 +592,7 @@
       "country_code": "HK",
       "success": true,
       "item_count": 50,
-      "matched_count": 1,
+      "matched_count": 0,
       "error": ""
     },
     {
