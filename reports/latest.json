@@ -1,14 +1,62 @@
 {
-  "run_at": "2026-11-11T02:50:46.218613+00:00",
+  "run_at": "2026-11-11T17:14:57.091226+00:00",
   "summary": {
     "source_count": 73,
-    "success_count": 67,
-    "failed_count": 6,
-    "matched_count": 0,
-    "new_count": 0
+    "success_count": 66,
+    "failed_count": 7,
+    "matched_count": 1,
+    "new_count": 1
   },
-  "new_articles": [],
-  "matched_articles": [],
+  "new_articles": [
+    {
+      "article_key": "https://asia.nikkei.com/business/aerospace-defense-industries/hyundai-rotem-plan-to-build-eu-tank-hub-in-poland-takes-shape",
+      "canonical_link": "https://asia.nikkei.com/business/aerospace-defense-industries/hyundai-rotem-plan-to-build-eu-tank-hub-in-poland-takes-shape",
+      "link": "https://asia.nikkei.com/business/aerospace-defense-industries/hyundai-rotem-plan-to-build-eu-tank-hub-in-poland-takes-shape",
+      "title": "Hyundai Rotem plan to build EU tank hub in Poland takes shape",
+      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Rotem plan to build EU tank hub in Poland takes shape'이다. WARSAW -- Hyundai Rotem's plan to build a European tank manufacturing base in Poland is gaining pace after the government granted a tax break for. Success depends on tech transfer and EU rules on defense financing. Aerospace & Defense Industries Hyundai Rotem plan to build EU tank hub in Poland takes shape Success depends on tech transfer and EU rules on defense financing Hyundai Rotem's K2 tanks are being adapted for Poland's military Piotr Szafarski, Polish Armed Forces) MARTA PANAS-GOWORSKA and ANDRZEJ GOWORSKI November 11, 2026 12:32 JST WARSAW -- Hyundai Rotem's plan to build a European tank manufacturing base in Poland is gaining pace after the government granted a tax break for the K2 to be assembled and its parts to be produced locally. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Hyundai Rotem plan to build EU tank hub in Poland takes shape",
+      "original_summary": "",
+      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Rotem plan to build EU tank hub in Poland takes shape'이다. WARSAW -- Hyundai Rotem's plan to build a European tank manufacturing base in Poland is gaining pace after the government granted a tax break for. Success depends on tech transfer and EU rules on defense financing. Aerospace & Defense Industries Hyundai Rotem plan to build EU tank hub in Poland takes shape Success depends on tech transfer and EU rules on defense financing Hyundai Rotem's K2 tanks are being adapted for Poland's military Piotr Szafarski, Polish Armed Forces) MARTA PANAS-GOWORSKA and ANDRZEJ GOWORSKI November 11, 2026 12:32 JST WARSAW -- Hyundai Rotem's plan to build a European tank manufacturing base in Poland is gaining pace after the government granted a tax break for the K2 to be assembled and its parts to be produced locally. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-11T03:32:26+00:00",
+      "source_id": "nikkei_asia",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "country_name_ko": "일본",
+      "source_language": "en",
+      "matched_companies": [
+        "Hyundai Motor"
+      ],
+      "matched_aliases": [
+        "Hyundai"
+      ],
+      "is_new": true
+    }
+  ],
+  "matched_articles": [
+    {
+      "article_key": "https://asia.nikkei.com/business/aerospace-defense-industries/hyundai-rotem-plan-to-build-eu-tank-hub-in-poland-takes-shape",
+      "canonical_link": "https://asia.nikkei.com/business/aerospace-defense-industries/hyundai-rotem-plan-to-build-eu-tank-hub-in-poland-takes-shape",
+      "link": "https://asia.nikkei.com/business/aerospace-defense-industries/hyundai-rotem-plan-to-build-eu-tank-hub-in-poland-takes-shape",
+      "title": "Hyundai Rotem plan to build EU tank hub in Poland takes shape",
+      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Rotem plan to build EU tank hub in Poland takes shape'이다. WARSAW -- Hyundai Rotem's plan to build a European tank manufacturing base in Poland is gaining pace after the government granted a tax break for. Success depends on tech transfer and EU rules on defense financing. Aerospace & Defense Industries Hyundai Rotem plan to build EU tank hub in Poland takes shape Success depends on tech transfer and EU rules on defense financing Hyundai Rotem's K2 tanks are being adapted for Poland's military Piotr Szafarski, Polish Armed Forces) MARTA PANAS-GOWORSKA and ANDRZEJ GOWORSKI November 11, 2026 12:32 JST WARSAW -- Hyundai Rotem's plan to build a European tank manufacturing base in Poland is gaining pace after the government granted a tax break for the K2 to be assembled and its parts to be produced locally. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Hyundai Rotem plan to build EU tank hub in Poland takes shape",
+      "original_summary": "",
+      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Rotem plan to build EU tank hub in Poland takes shape'이다. WARSAW -- Hyundai Rotem's plan to build a European tank manufacturing base in Poland is gaining pace after the government granted a tax break for. Success depends on tech transfer and EU rules on defense financing. Aerospace & Defense Industries Hyundai Rotem plan to build EU tank hub in Poland takes shape Success depends on tech transfer and EU rules on defense financing Hyundai Rotem's K2 tanks are being adapted for Poland's military Piotr Szafarski, Polish Armed Forces) MARTA PANAS-GOWORSKA and ANDRZEJ GOWORSKI November 11, 2026 12:32 JST WARSAW -- Hyundai Rotem's plan to build a European tank manufacturing base in Poland is gaining pace after the government granted a tax break for the K2 to be assembled and its parts to be produced locally. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-11T03:32:26+00:00",
+      "source_id": "nikkei_asia",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "country_name_ko": "일본",
+      "source_language": "en",
+      "matched_companies": [
+        "Hyundai Motor"
+      ],
+      "matched_aliases": [
+        "Hyundai"
+      ],
+      "is_new": true
+    }
+  ],
   "source_runs": [
     {
       "source_id": "nyt_business",
@@ -24,7 +72,7 @@
       "source_name": "The New York Times Technology",
       "country_code": "US",
       "success": true,
-      "item_count": 30,
+      "item_count": 34,
       "matched_count": 0,
       "error": ""
     },
@@ -124,7 +172,7 @@
       "country_code": "JP",
       "success": true,
       "item_count": 50,
-      "matched_count": 0,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -222,7 +270,7 @@
       "source_name": "Deutsche Welle World",
       "country_code": "DE",
       "success": true,
-      "item_count": 12,
+      "item_count": 11,
       "matched_count": 0,
       "error": ""
     },
@@ -240,7 +288,7 @@
       "source_name": "tagesschau Wirtschaft",
       "country_code": "DE",
       "success": true,
-      "item_count": 34,
+      "item_count": 26,
       "matched_count": 0,
       "error": ""
     },
@@ -267,7 +315,7 @@
       "source_name": "BBC Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 51,
+      "item_count": 52,
       "matched_count": 0,
       "error": ""
     },
@@ -276,7 +324,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 38,
+      "item_count": 23,
       "matched_count": 0,
       "error": ""
     },
@@ -365,10 +413,10 @@
       "source_id": "france24_business_tech",
       "source_name": "France 24 Business / Tech",
       "country_code": "FR",
-      "success": true,
-      "item_count": 30,
+      "success": false,
+      "item_count": 0,
       "matched_count": 0,
-      "error": ""
+      "error": "HTTP 403 for https://www.france24.com/en/business-tech/rss"
     },
     {
       "source_id": "france24_europe",
@@ -564,7 +612,7 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 32,
+      "item_count": 33,
       "matched_count": 0,
       "error": ""
     },
@@ -609,7 +657,7 @@
       "source_name": "Taipei Times",
       "country_code": "TW",
       "success": true,
-      "item_count": 50,
+      "item_count": 54,
       "matched_count": 0,
       "error": ""
     },
