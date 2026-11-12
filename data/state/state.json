@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-11T17:14:57.091226+00:00",
+  "last_run_at": "2026-11-12T03:52:42.424419+00:00",
   "seen_articles": {
-    "https://economictimes.indiatimes.com/industry/auto/auto-news/mass-market-automakers-gaining-ground-in-the-premium-segment-mercedes-bmw-work-out-different-strategies-to-drive-growth/articleshow/134509179.cms": {
-      "title": "Mass market automakers gaining ground in the premium segment; Mercedes, BMW work out different strategies to drive growth",
-      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/mass-market-automakers-gaining-ground-in-the-premium-segment-mercedes-bmw-work-out-different-strategies-to-drive-growth/articleshow/134509179.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-09-27T01:12:58.187964+00:00",
-      "last_seen_at": "2026-09-28T01:28:03.325620+00:00"
-    },
     "https://www.cnbc.com/2026/09/28/mongodb-meta-cj-desai.html": {
       "title": "Meta hires MongoDB CEO CJ Desai to lead enterprise unit. MongoDB shares crater",
       "link": "https://www.cnbc.com/2026/09/28/mongodb-meta-cj-desai.html",
@@ -1334,7 +1323,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-11-11T17:14:57.091226+00:00",
-      "last_seen_at": "2026-11-11T17:14:57.091226+00:00"
+      "last_seen_at": "2026-11-12T03:52:42.424419+00:00"
     }
   }
 }
