@@ -1,14 +1,61 @@
 {
-  "run_at": "2026-11-12T03:52:42.424419+00:00",
+  "run_at": "2026-11-12T17:38:34.090230+00:00",
   "summary": {
     "source_count": 73,
     "success_count": 67,
     "failed_count": 6,
-    "matched_count": 1,
-    "new_count": 0
+    "matched_count": 2,
+    "new_count": 1
   },
-  "new_articles": [],
+  "new_articles": [
+    {
+      "article_key": "https://www.thehindubusinessline.com/companies/kia-to-invest-2-billion-in-ap-to-expand-operations/article71692518.ece",
+      "canonical_link": "https://www.thehindubusinessline.com/companies/kia-to-invest-2-billion-in-ap-to-expand-operations/article71692518.ece",
+      "link": "https://www.thehindubusinessline.com/companies/kia-to-invest-2-billion-in-ap-to-expand-operations/article71692518.ece",
+      "title": "Kia India to invest $2 billion in second manufacturing plant in Andhra Pradesh",
+      "summary": "Kia 관련 기사다. 기사 제목은 'Kia India to invest $2 billion in second manufacturing plant in Andhra Pradesh'이다. The new investment will take total investment in the State to $5 billion. Our second manufacturing plant marks a significant new chapter, strengthening our ability to respond to customer demand with greater speed and flexibility, while supporting the introduction of new models across ICE and EV powertrains,” Gwanggu Lee, Managing Director and CEO, Kia India, said New facility to add 2 lakh units of annual capacity Spread across a combined 465 acres for Kia and its suppliers, the proposed facility is expected to generate about 12,000 more direct and indirect jobs The facility will add 2 lakh units of annual manufacturing capacity, taking Kia India’s combined capacity across both plants to over 6 lakh units This expansion will further strengthen Kia’s manufacturing capabilities and contribution to India’s industrial growth Second plant to support next phase of growth Next Phase of Growth: Building on its existing manufacturing base, the second plant will strengthen Kia India’s production capabilities and create a stronger foundation for its next phase of growth. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Kia India to invest $2 billion in second manufacturing plant in Andhra Pradesh",
+      "original_summary": "The new investment will take total investment in the State to $5 billion",
+      "company_summary": "Kia 관련 기사다. 기사 제목은 'Kia India to invest $2 billion in second manufacturing plant in Andhra Pradesh'이다. The new investment will take total investment in the State to $5 billion. Our second manufacturing plant marks a significant new chapter, strengthening our ability to respond to customer demand with greater speed and flexibility, while supporting the introduction of new models across ICE and EV powertrains,” Gwanggu Lee, Managing Director and CEO, Kia India, said New facility to add 2 lakh units of annual capacity Spread across a combined 465 acres for Kia and its suppliers, the proposed facility is expected to generate about 12,000 more direct and indirect jobs The facility will add 2 lakh units of annual manufacturing capacity, taking Kia India’s combined capacity across both plants to over 6 lakh units This expansion will further strengthen Kia’s manufacturing capabilities and contribution to India’s industrial growth Second plant to support next phase of growth Next Phase of Growth: Building on its existing manufacturing base, the second plant will strengthen Kia India’s production capabilities and create a stronger foundation for its next phase of growth. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-12T16:19:50+00:00",
+      "source_id": "businessline_companies",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "country_name_ko": "인도",
+      "source_language": "en",
+      "matched_companies": [
+        "Kia"
+      ],
+      "matched_aliases": [
+        "Kia"
+      ],
+      "is_new": true
+    }
+  ],
   "matched_articles": [
+    {
+      "article_key": "https://www.thehindubusinessline.com/companies/kia-to-invest-2-billion-in-ap-to-expand-operations/article71692518.ece",
+      "canonical_link": "https://www.thehindubusinessline.com/companies/kia-to-invest-2-billion-in-ap-to-expand-operations/article71692518.ece",
+      "link": "https://www.thehindubusinessline.com/companies/kia-to-invest-2-billion-in-ap-to-expand-operations/article71692518.ece",
+      "title": "Kia India to invest $2 billion in second manufacturing plant in Andhra Pradesh",
+      "summary": "Kia 관련 기사다. 기사 제목은 'Kia India to invest $2 billion in second manufacturing plant in Andhra Pradesh'이다. The new investment will take total investment in the State to $5 billion. Our second manufacturing plant marks a significant new chapter, strengthening our ability to respond to customer demand with greater speed and flexibility, while supporting the introduction of new models across ICE and EV powertrains,” Gwanggu Lee, Managing Director and CEO, Kia India, said New facility to add 2 lakh units of annual capacity Spread across a combined 465 acres for Kia and its suppliers, the proposed facility is expected to generate about 12,000 more direct and indirect jobs The facility will add 2 lakh units of annual manufacturing capacity, taking Kia India’s combined capacity across both plants to over 6 lakh units This expansion will further strengthen Kia’s manufacturing capabilities and contribution to India’s industrial growth Second plant to support next phase of growth Next Phase of Growth: Building on its existing manufacturing base, the second plant will strengthen Kia India’s production capabilities and create a stronger foundation for its next phase of growth. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Kia India to invest $2 billion in second manufacturing plant in Andhra Pradesh",
+      "original_summary": "The new investment will take total investment in the State to $5 billion",
+      "company_summary": "Kia 관련 기사다. 기사 제목은 'Kia India to invest $2 billion in second manufacturing plant in Andhra Pradesh'이다. The new investment will take total investment in the State to $5 billion. Our second manufacturing plant marks a significant new chapter, strengthening our ability to respond to customer demand with greater speed and flexibility, while supporting the introduction of new models across ICE and EV powertrains,” Gwanggu Lee, Managing Director and CEO, Kia India, said New facility to add 2 lakh units of annual capacity Spread across a combined 465 acres for Kia and its suppliers, the proposed facility is expected to generate about 12,000 more direct and indirect jobs The facility will add 2 lakh units of annual manufacturing capacity, taking Kia India’s combined capacity across both plants to over 6 lakh units This expansion will further strengthen Kia’s manufacturing capabilities and contribution to India’s industrial growth Second plant to support next phase of growth Next Phase of Growth: Building on its existing manufacturing base, the second plant will strengthen Kia India’s production capabilities and create a stronger foundation for its next phase of growth. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-12T16:19:50+00:00",
+      "source_id": "businessline_companies",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "country_name_ko": "인도",
+      "source_language": "en",
+      "matched_companies": [
+        "Kia"
+      ],
+      "matched_aliases": [
+        "Kia"
+      ],
+      "is_new": true
+    },
     {
       "article_key": "https://asia.nikkei.com/business/aerospace-defense-industries/hyundai-rotem-plan-to-build-eu-tank-hub-in-poland-takes-shape",
       "canonical_link": "https://asia.nikkei.com/business/aerospace-defense-industries/hyundai-rotem-plan-to-build-eu-tank-hub-in-poland-takes-shape",
@@ -39,7 +86,7 @@
       "source_name": "The New York Times Business",
       "country_code": "US",
       "success": true,
-      "item_count": 48,
+      "item_count": 50,
       "matched_count": 0,
       "error": ""
     },
@@ -246,7 +293,7 @@
       "source_name": "Deutsche Welle World",
       "country_code": "DE",
       "success": true,
-      "item_count": 11,
+      "item_count": 12,
       "matched_count": 0,
       "error": ""
     },
@@ -264,7 +311,7 @@
       "source_name": "tagesschau Wirtschaft",
       "country_code": "DE",
       "success": true,
-      "item_count": 27,
+      "item_count": 35,
       "matched_count": 0,
       "error": ""
     },
@@ -291,7 +338,7 @@
       "source_name": "BBC Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 56,
+      "item_count": 57,
       "matched_count": 0,
       "error": ""
     },
@@ -300,7 +347,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 29,
+      "item_count": 31,
       "matched_count": 0,
       "error": ""
     },
@@ -544,7 +591,7 @@
       "country_code": "IN",
       "success": true,
       "item_count": 60,
-      "matched_count": 0,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -588,7 +635,7 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 30,
+      "item_count": 38,
       "matched_count": 0,
       "error": ""
     },
@@ -633,7 +680,7 @@
       "source_name": "Taipei Times",
       "country_code": "TW",
       "success": true,
-      "item_count": 54,
+      "item_count": 50,
       "matched_count": 0,
       "error": ""
     },

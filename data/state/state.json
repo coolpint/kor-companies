@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-12T03:52:42.424419+00:00",
+  "last_run_at": "2026-11-12T17:38:34.090230+00:00",
   "seen_articles": {
     "https://www.cnbc.com/2026/09/28/mongodb-meta-cj-desai.html": {
       "title": "Meta hires MongoDB CEO CJ Desai to lead enterprise unit. MongoDB shares crater",
@@ -1323,7 +1323,18 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-11-11T17:14:57.091226+00:00",
-      "last_seen_at": "2026-11-12T03:52:42.424419+00:00"
+      "last_seen_at": "2026-11-12T17:38:34.090230+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/kia-to-invest-2-billion-in-ap-to-expand-operations/article71692518.ece": {
+      "title": "Kia India to invest $2 billion in second manufacturing plant in Andhra Pradesh",
+      "link": "https://www.thehindubusinessline.com/companies/kia-to-invest-2-billion-in-ap-to-expand-operations/article71692518.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Kia"
+      ],
+      "first_seen_at": "2026-11-12T17:38:34.090230+00:00",
+      "last_seen_at": "2026-11-12T17:38:34.090230+00:00"
     }
   }
 }
