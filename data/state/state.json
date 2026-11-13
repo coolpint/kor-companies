@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-13T03:27:16.689643+00:00",
+  "last_run_at": "2026-11-13T17:15:42.107570+00:00",
   "seen_articles": {
     "https://www.cnbc.com/2026/09/28/mongodb-meta-cj-desai.html": {
       "title": "Meta hires MongoDB CEO CJ Desai to lead enterprise unit. MongoDB shares crater",
@@ -1312,7 +1312,18 @@
         "Kia"
       ],
       "first_seen_at": "2026-11-12T17:38:34.090230+00:00",
-      "last_seen_at": "2026-11-13T03:27:16.689643+00:00"
+      "last_seen_at": "2026-11-13T17:15:42.107570+00:00"
+    },
+    "https://www.theverge.com/tech/1032920/apple-smart-home-collection-release-ship-dates-available-pricing": {
+      "title": "Apple announces release dates for the first Apple Home Collection smart devices",
+      "link": "https://www.theverge.com/tech/1032920/apple-smart-home-collection-release-ship-dates-available-pricing",
+      "source_name": "The Verge",
+      "country_code": "US",
+      "companies": [
+        "LG Electronics"
+      ],
+      "first_seen_at": "2026-11-13T17:15:42.107570+00:00",
+      "last_seen_at": "2026-11-13T17:15:42.107570+00:00"
     }
   }
 }
