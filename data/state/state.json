@@ -1,31 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-14T03:22:30.878817+00:00",
+  "last_run_at": "2026-11-14T15:51:56.885838+00:00",
   "seen_articles": {
-    "https://economictimes.indiatimes.com/tech/technology/samsung-affiliates-commit-1-billion-to-kkr-backed-helix-digital-ai-buildout/articleshow/134564547.cms": {
-      "title": "Samsung, affiliates commit $1 billion to KKR-backed Helix Digital AI buildout",
-      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-affiliates-commit-1-billion-to-kkr-backed-helix-digital-ai-buildout/articleshow/134564547.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Samsung Electronics",
-        "Samsung SDI"
-      ],
-      "first_seen_at": "2026-09-29T15:32:41.973544+00:00",
-      "last_seen_at": "2026-09-30T15:45:11.018058+00:00"
-    },
-    "https://www.channelnewsasia.com/business/opmobility-agrees-buy-hyundai-mobis-lighting-unit-443-million-6420716": {
-      "title": "OPmobility agrees to buy Hyundai Mobis' lighting unit for $443 million",
-      "link": "https://www.channelnewsasia.com/business/opmobility-agrees-buy-hyundai-mobis-lighting-unit-443-million-6420716",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "Hyundai Motor",
-        "Hyundai Mobis"
-      ],
-      "first_seen_at": "2026-09-30T15:45:11.018058+00:00",
-      "last_seen_at": "2026-09-30T15:45:11.018058+00:00"
-    },
     "https://www.thehindubusinessline.com/companies/mm-hyundai-jsw-mg-sales-grow-in-september-led-by-sustained-customer-enthusiasm/article71531697.ece": {
       "title": "Maruti, Tata, M&M, Hyundai see sales growth in September, led by sustained customer enthusiasm",
       "link": "https://www.thehindubusinessline.com/companies/mm-hyundai-jsw-mg-sales-grow-in-september-led-by-sustained-customer-enthusiasm/article71531697.ece",
