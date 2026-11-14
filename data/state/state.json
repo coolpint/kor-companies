@@ -1,40 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-13T17:15:42.107570+00:00",
+  "last_run_at": "2026-11-14T03:22:30.878817+00:00",
   "seen_articles": {
-    "https://www.cnbc.com/2026/09/28/mongodb-meta-cj-desai.html": {
-      "title": "Meta hires MongoDB CEO CJ Desai to lead enterprise unit. MongoDB shares crater",
-      "link": "https://www.cnbc.com/2026/09/28/mongodb-meta-cj-desai.html",
-      "source_name": "CNBC Technology",
-      "country_code": "US",
-      "companies": [
-        "CJ CheilJedang"
-      ],
-      "first_seen_at": "2026-09-28T17:29:27.166477+00:00",
-      "last_seen_at": "2026-09-30T01:53:44.964898+00:00"
-    },
-    "https://www.cnbc.com/2026/09/29/samsung-investment-nvidia-kkr-ai-helix-digital.html": {
-      "title": "Samsung to inject $1 billion into Nvidia- and KKR-backed AI infrastructure firm",
-      "link": "https://www.cnbc.com/2026/09/29/samsung-investment-nvidia-kkr-ai-helix-digital.html",
-      "source_name": "CNBC World News",
-      "country_code": "US",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-09-29T02:31:04.937949+00:00",
-      "last_seen_at": "2026-09-30T01:53:44.964898+00:00"
-    },
-    "https://www.thehindubusinessline.com/economy/logistics/mazagon-dock-shipbuilders-decides-to-not-proceed-with-the-thoothukudi-shipyard-project/article71523444.ece": {
-      "title": "Mazagon Dock Shipbuilders decides to not proceed with the Thoothukudi shipyard project",
-      "link": "https://www.thehindubusinessline.com/economy/logistics/mazagon-dock-shipbuilders-decides-to-not-proceed-with-the-thoothukudi-shipyard-project/article71523444.ece",
-      "source_name": "BusinessLine Economy",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-09-29T15:32:41.973544+00:00",
-      "last_seen_at": "2026-09-30T01:53:44.964898+00:00"
-    },
     "https://economictimes.indiatimes.com/tech/technology/samsung-affiliates-commit-1-billion-to-kkr-backed-helix-digital-ai-buildout/articleshow/134564547.cms": {
       "title": "Samsung, affiliates commit $1 billion to KKR-backed Helix Digital AI buildout",
       "link": "https://economictimes.indiatimes.com/tech/technology/samsung-affiliates-commit-1-billion-to-kkr-backed-helix-digital-ai-buildout/articleshow/134564547.cms",
@@ -1312,7 +1279,7 @@
         "Kia"
       ],
       "first_seen_at": "2026-11-12T17:38:34.090230+00:00",
-      "last_seen_at": "2026-11-13T17:15:42.107570+00:00"
+      "last_seen_at": "2026-11-14T03:22:30.878817+00:00"
     },
     "https://www.theverge.com/tech/1032920/apple-smart-home-collection-release-ship-dates-available-pricing": {
       "title": "Apple announces release dates for the first Apple Home Collection smart devices",
