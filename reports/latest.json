@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-15T02:46:25.624194+00:00",
+  "run_at": "2026-11-15T16:26:09.653540+00:00",
   "summary": {
     "source_count": 73,
     "success_count": 67,
@@ -222,7 +222,7 @@
       "source_name": "Deutsche Welle World",
       "country_code": "DE",
       "success": true,
-      "item_count": 13,
+      "item_count": 11,
       "matched_count": 0,
       "error": ""
     },
@@ -276,7 +276,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 23,
+      "item_count": 25,
       "matched_count": 0,
       "error": ""
     },
@@ -564,7 +564,7 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 21,
+      "item_count": 19,
       "matched_count": 0,
       "error": ""
     },
