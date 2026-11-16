@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-15T16:26:09.653540+00:00",
+  "last_run_at": "2026-11-16T02:49:06.804500+00:00",
   "seen_articles": {
     "https://www.thehindubusinessline.com/companies/mm-hyundai-jsw-mg-sales-grow-in-september-led-by-sustained-customer-enthusiasm/article71531697.ece": {
       "title": "Maruti, Tata, M&M, Hyundai see sales growth in September, led by sustained customer enthusiasm",
@@ -23,17 +23,6 @@
       ],
       "first_seen_at": "2026-10-01T16:10:47.666029+00:00",
       "last_seen_at": "2026-10-02T15:34:40.282637+00:00"
-    },
-    "https://www.straitstimes.com/business/demand-for-ai-chips-fuels-83-5-surge-in-south-korean-exports": {
-      "title": "Demand for AI chips fuels 83.5% surge in South Korean exports",
-      "link": "https://www.straitstimes.com/business/demand-for-ai-chips-fuels-83-5-surge-in-south-korean-exports",
-      "source_name": "The Straits Times",
-      "country_code": "SG",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-10-01T16:10:47.666029+00:00",
-      "last_seen_at": "2026-10-02T02:03:55.474417+00:00"
     },
     "https://asia.nikkei.com/business/automobiles/hyundai-group-tops-honda-for-first-time-in-us-hybrid-sales": {
       "title": "Hyundai group tops Honda for first time in US hybrid sales",
@@ -1256,6 +1245,28 @@
       ],
       "first_seen_at": "2026-11-13T17:15:42.107570+00:00",
       "last_seen_at": "2026-11-13T17:15:42.107570+00:00"
+    },
+    "https://www.straitstimes.com/business/sk-hynix-to-spend-1-35-billion-over-five-years-to-support-chip-suppliers": {
+      "title": "SK Hynix to spend $1.35 billion over five years to support chip suppliers",
+      "link": "https://www.straitstimes.com/business/sk-hynix-to-spend-1-35-billion-over-five-years-to-support-chip-suppliers",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-11-16T02:49:06.804500+00:00",
+      "last_seen_at": "2026-11-16T02:49:06.804500+00:00"
+    },
+    "https://www.channelnewsasia.com/business/sk-hynix-1-billion-five-years-support-chip-suppliers-6553691": {
+      "title": "SK Hynix to spend US$1 billion over five years to support chip suppliers",
+      "link": "https://www.channelnewsasia.com/business/sk-hynix-1-billion-five-years-support-chip-suppliers-6553691",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-11-16T02:49:06.804500+00:00",
+      "last_seen_at": "2026-11-16T02:49:06.804500+00:00"
     }
   }
 }
