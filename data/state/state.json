@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-16T19:40:56.338187+00:00",
+  "last_run_at": "2026-11-17T05:07:04.227615+00:00",
   "seen_articles": {
-    "https://www.thehindubusinessline.com/companies/mm-hyundai-jsw-mg-sales-grow-in-september-led-by-sustained-customer-enthusiasm/article71531697.ece": {
-      "title": "Maruti, Tata, M&M, Hyundai see sales growth in September, led by sustained customer enthusiasm",
-      "link": "https://www.thehindubusinessline.com/companies/mm-hyundai-jsw-mg-sales-grow-in-september-led-by-sustained-customer-enthusiasm/article71531697.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-10-01T16:10:47.666029+00:00",
-      "last_seen_at": "2026-10-03T01:48:00.641755+00:00"
-    },
     "https://asia.nikkei.com/business/automobiles/hyundai-group-tops-honda-for-first-time-in-us-hybrid-sales": {
       "title": "Hyundai group tops Honda for first time in US hybrid sales",
       "link": "https://asia.nikkei.com/business/automobiles/hyundai-group-tops-honda-for-first-time-in-us-hybrid-sales",
@@ -1244,7 +1233,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-11-16T02:49:06.804500+00:00",
-      "last_seen_at": "2026-11-16T19:40:56.338187+00:00"
+      "last_seen_at": "2026-11-17T05:07:04.227615+00:00"
     },
     "https://www.channelnewsasia.com/business/sk-hynix-1-billion-five-years-support-chip-suppliers-6553691": {
       "title": "SK Hynix to spend US$1 billion over five years to support chip suppliers",
@@ -1266,7 +1255,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-11-16T19:40:56.338187+00:00",
-      "last_seen_at": "2026-11-16T19:40:56.338187+00:00"
+      "last_seen_at": "2026-11-17T05:07:04.227615+00:00"
     },
     "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-in-24-7-race-to-complete-colossal-chip-plant": {
       "title": "SK Hynix in 24/7 race to complete colossal chip plant",
@@ -1277,7 +1266,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-11-16T19:40:56.338187+00:00",
-      "last_seen_at": "2026-11-16T19:40:56.338187+00:00"
+      "last_seen_at": "2026-11-17T05:07:04.227615+00:00"
     }
   }
 }
