@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-17T05:07:04.227615+00:00",
+  "last_run_at": "2026-11-17T18:39:04.774691+00:00",
   "seen_articles": {
     "https://asia.nikkei.com/business/automobiles/hyundai-group-tops-honda-for-first-time-in-us-hybrid-sales": {
       "title": "Hyundai group tops Honda for first time in US hybrid sales",
@@ -1255,7 +1255,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-11-16T19:40:56.338187+00:00",
-      "last_seen_at": "2026-11-17T05:07:04.227615+00:00"
+      "last_seen_at": "2026-11-17T18:39:04.774691+00:00"
     },
     "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-in-24-7-race-to-complete-colossal-chip-plant": {
       "title": "SK Hynix in 24/7 race to complete colossal chip plant",
@@ -1266,7 +1266,29 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-11-16T19:40:56.338187+00:00",
-      "last_seen_at": "2026-11-17T05:07:04.227615+00:00"
+      "last_seen_at": "2026-11-17T18:39:04.774691+00:00"
+    },
+    "https://www.straitstimes.com/business/hyundai-motor-takes-full-ownership-of-boston-dynamics": {
+      "title": "Hyundai Motor takes full ownership of Boston Dynamics",
+      "link": "https://www.straitstimes.com/business/hyundai-motor-takes-full-ownership-of-boston-dynamics",
+      "source_name": "The Straits Times",
+      "country_code": "SG",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-11-17T18:39:04.774691+00:00",
+      "last_seen_at": "2026-11-17T18:39:04.774691+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-tsmc-shares-fall-after-us-announces-curbs-on-chinas-chip-access/articleshow/135915493.cms": {
+      "title": "Samsung Electronics, TSMC shares fall after US announces curbs on China's chip access",
+      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-tsmc-shares-fall-after-us-announces-curbs-on-chinas-chip-access/articleshow/135915493.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-11-17T18:39:04.774691+00:00",
+      "last_seen_at": "2026-11-17T18:39:04.774691+00:00"
     }
   }
 }
