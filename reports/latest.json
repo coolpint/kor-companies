@@ -1,50 +1,26 @@
 {
-  "run_at": "2026-11-18T04:30:09.400906+00:00",
+  "run_at": "2026-11-18T18:10:19.621654+00:00",
   "summary": {
     "source_count": 73,
     "success_count": 67,
     "failed_count": 6,
     "matched_count": 3,
-    "new_count": 1
+    "new_count": 0
   },
-  "new_articles": [
-    {
-      "article_key": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
-      "canonical_link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
-      "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
-      "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
-      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'JPMorgan is working on AI agent transactions that don’t involve humans'이다. JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions. The initial trial involved a Hyundai Card AI agent requesting a foreign exchange transaction to maintain euro liquidity in its Kinexys blockchain deposit account The companies are also exploring whether to extend their collaboration to other businesses within Hyundai Motor Group, whose broader operations were one reason JPMorgan selected Hyundai Card as a partner, Toh said Hyundai Motor Group holds a combined 78 Hyundai Card has previously experimented with blockchain-based cross-border payments In July, the company said it completed a proof-of-concept involving a $20,000 transfer using the USDT stablecoin between Hyundai Motor's U. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "JPMorgan is working on AI agent transactions that don’t involve humans",
-      "original_summary": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions.",
-      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'JPMorgan is working on AI agent transactions that don’t involve humans'이다. JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions. The initial trial involved a Hyundai Card AI agent requesting a foreign exchange transaction to maintain euro liquidity in its Kinexys blockchain deposit account The companies are also exploring whether to extend their collaboration to other businesses within Hyundai Motor Group, whose broader operations were one reason JPMorgan selected Hyundai Card as a partner, Toh said Hyundai Motor Group holds a combined 78 Hyundai Card has previously experimented with blockchain-based cross-border payments In July, the company said it completed a proof-of-concept involving a $20,000 transfer using the USDT stablecoin between Hyundai Motor's U. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-11-18T03:17:55+00:00",
-      "source_id": "cnbc_top_news",
-      "source_name": "CNBC Top News",
-      "country_code": "US",
-      "country_name_ko": "미국",
-      "source_language": "en",
-      "matched_companies": [
-        "Hyundai Motor"
-      ],
-      "matched_aliases": [
-        "Hyundai"
-      ],
-      "is_new": true
-    }
-  ],
+  "new_articles": [],
   "matched_articles": [
     {
       "article_key": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
       "canonical_link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
       "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
       "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
-      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'JPMorgan is working on AI agent transactions that don’t involve humans'이다. JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions. The initial trial involved a Hyundai Card AI agent requesting a foreign exchange transaction to maintain euro liquidity in its Kinexys blockchain deposit account The companies are also exploring whether to extend their collaboration to other businesses within Hyundai Motor Group, whose broader operations were one reason JPMorgan selected Hyundai Card as a partner, Toh said Hyundai Motor Group holds a combined 78 Hyundai Card has previously experimented with blockchain-based cross-border payments In July, the company said it completed a proof-of-concept involving a $20,000 transfer using the USDT stablecoin between Hyundai Motor's U. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'JPMorgan is working on AI agent transactions that don’t involve humans'이다. JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions. The initial trial involved a Hyundai Card AI agent requesting a foreign exchange transaction to maintain euro liquidity in its Kinexys blockchain deposit account Beyond the pilot JPMorgan and Hyundai Card are also exploring whether to extend their collaboration to other businesses within Hyundai Motor Group, whose broader operations were one reason the bank selected the credit card company as a partner, Toh said Hyundai Motor Group holds a combined 78 watch now VIDEO 4:56 04:56 JPMorgan and Hyundai Group test AI agents for business payments Squawk Box Asia Hyundai Card has previously experimented with blockchain-based cross-border payments In July, the company said it completed a proof-of-concept involving a $20,000 transfer using the USDT stablecoin between Hyundai Motor's U. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
       "original_title": "JPMorgan is working on AI agent transactions that don’t involve humans",
       "original_summary": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions.",
-      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'JPMorgan is working on AI agent transactions that don’t involve humans'이다. JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions. The initial trial involved a Hyundai Card AI agent requesting a foreign exchange transaction to maintain euro liquidity in its Kinexys blockchain deposit account The companies are also exploring whether to extend their collaboration to other businesses within Hyundai Motor Group, whose broader operations were one reason JPMorgan selected Hyundai Card as a partner, Toh said Hyundai Motor Group holds a combined 78 Hyundai Card has previously experimented with blockchain-based cross-border payments In July, the company said it completed a proof-of-concept involving a $20,000 transfer using the USDT stablecoin between Hyundai Motor's U. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-11-18T03:17:55+00:00",
-      "source_id": "cnbc_top_news",
-      "source_name": "CNBC Top News",
+      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'JPMorgan is working on AI agent transactions that don’t involve humans'이다. JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions. The initial trial involved a Hyundai Card AI agent requesting a foreign exchange transaction to maintain euro liquidity in its Kinexys blockchain deposit account Beyond the pilot JPMorgan and Hyundai Card are also exploring whether to extend their collaboration to other businesses within Hyundai Motor Group, whose broader operations were one reason the bank selected the credit card company as a partner, Toh said Hyundai Motor Group holds a combined 78 watch now VIDEO 4:56 04:56 JPMorgan and Hyundai Group test AI agents for business payments Squawk Box Asia Hyundai Card has previously experimented with blockchain-based cross-border payments In July, the company said it completed a proof-of-concept involving a $20,000 transfer using the USDT stablecoin between Hyundai Motor's U. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-18T06:18:11+00:00",
+      "source_id": "cnbc_technology",
+      "source_name": "CNBC Technology",
       "country_code": "US",
       "country_name_ko": "미국",
       "source_language": "en",
@@ -54,7 +30,7 @@
       "matched_aliases": [
         "Hyundai"
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "article_key": "https://www.straitstimes.com/business/hyundai-motor-takes-full-ownership-of-boston-dynamics",
@@ -110,7 +86,7 @@
       "source_name": "The New York Times Business",
       "country_code": "US",
       "success": true,
-      "item_count": 50,
+      "item_count": 48,
       "matched_count": 0,
       "error": ""
     },
@@ -119,7 +95,7 @@
       "source_name": "The New York Times Technology",
       "country_code": "US",
       "success": true,
-      "item_count": 37,
+      "item_count": 35,
       "matched_count": 0,
       "error": ""
     },
@@ -317,7 +293,7 @@
       "source_name": "Deutsche Welle World",
       "country_code": "DE",
       "success": true,
-      "item_count": 13,
+      "item_count": 11,
       "matched_count": 0,
       "error": ""
     },
@@ -335,7 +311,7 @@
       "source_name": "tagesschau Wirtschaft",
       "country_code": "DE",
       "success": true,
-      "item_count": 36,
+      "item_count": 27,
       "matched_count": 0,
       "error": ""
     },
@@ -362,7 +338,7 @@
       "source_name": "BBC Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 55,
+      "item_count": 46,
       "matched_count": 0,
       "error": ""
     },
@@ -371,7 +347,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 28,
+      "item_count": 33,
       "matched_count": 0,
       "error": ""
     },
@@ -498,7 +474,7 @@
       "country_code": "US",
       "success": true,
       "item_count": 30,
-      "matched_count": 1,
+      "matched_count": 0,
       "error": ""
     },
     {
@@ -507,7 +483,7 @@
       "country_code": "US",
       "success": true,
       "item_count": 30,
-      "matched_count": 1,
+      "matched_count": 0,
       "error": ""
     },
     {
@@ -659,7 +635,7 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 47,
+      "item_count": 50,
       "matched_count": 1,
       "error": ""
     },
@@ -704,7 +680,7 @@
       "source_name": "Taipei Times",
       "country_code": "TW",
       "success": true,
-      "item_count": 49,
+      "item_count": 53,
       "matched_count": 0,
       "error": ""
     },
