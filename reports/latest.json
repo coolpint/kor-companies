@@ -1,63 +1,62 @@
 {
-  "run_at": "2026-11-17T18:39:04.774691+00:00",
+  "run_at": "2026-11-18T04:30:09.400906+00:00",
   "summary": {
     "source_count": 73,
     "success_count": 67,
     "failed_count": 6,
-    "matched_count": 4,
-    "new_count": 2
+    "matched_count": 3,
+    "new_count": 1
   },
   "new_articles": [
     {
-      "article_key": "https://www.straitstimes.com/business/hyundai-motor-takes-full-ownership-of-boston-dynamics",
-      "canonical_link": "https://www.straitstimes.com/business/hyundai-motor-takes-full-ownership-of-boston-dynamics",
-      "link": "https://www.straitstimes.com/business/hyundai-motor-takes-full-ownership-of-boston-dynamics",
-      "title": "Hyundai Motor takes full ownership of Boston Dynamics",
-      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Motor takes full ownership of Boston Dynamics'이다. Central to this strategy is commercialising the humanoid robot Atlas. PHOTO: REUTERS Published Nov 17, 2026, 04:09 PM Updated Nov 17, 2026, 07:56 PM Hyundai Motor Group now owns 100% of Boston Dynamics after buying SoftBank’s last 9 Hyundai plans to commercialise the Atlas humanoid robot, aiming for 30,000 units a year by 2028 and first using them at its Georgia plant for simple factory tasks AI generated SEOUL – Hyundai Motor Group has acquired full ownership of its US robotics subsidiary Boston Dynamics, accelerating its push to commercialise the Atlas humanoid robot By integrating Boston Dynamics’ AI-powered robotics with its automotive manufacturing and logistics systems, Hyundai seeks to boost factory efficiency while building a new growth engine After securing full ownership, one key hurdle for Hyundai is to achieve profitability in its robotics unit. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Hyundai Motor takes full ownership of Boston Dynamics",
-      "original_summary": "Central to this strategy is commercialising the humanoid robot Atlas.",
-      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Motor takes full ownership of Boston Dynamics'이다. Central to this strategy is commercialising the humanoid robot Atlas. PHOTO: REUTERS Published Nov 17, 2026, 04:09 PM Updated Nov 17, 2026, 07:56 PM Hyundai Motor Group now owns 100% of Boston Dynamics after buying SoftBank’s last 9 Hyundai plans to commercialise the Atlas humanoid robot, aiming for 30,000 units a year by 2028 and first using them at its Georgia plant for simple factory tasks AI generated SEOUL – Hyundai Motor Group has acquired full ownership of its US robotics subsidiary Boston Dynamics, accelerating its push to commercialise the Atlas humanoid robot By integrating Boston Dynamics’ AI-powered robotics with its automotive manufacturing and logistics systems, Hyundai seeks to boost factory efficiency while building a new growth engine After securing full ownership, one key hurdle for Hyundai is to achieve profitability in its robotics unit. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-11-17T08:09:00+00:00",
-      "source_id": "straits_times_business",
-      "source_name": "The Straits Times",
-      "country_code": "SG",
-      "country_name_ko": "싱가포르",
+      "article_key": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+      "canonical_link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+      "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+      "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
+      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'JPMorgan is working on AI agent transactions that don’t involve humans'이다. JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions. The initial trial involved a Hyundai Card AI agent requesting a foreign exchange transaction to maintain euro liquidity in its Kinexys blockchain deposit account The companies are also exploring whether to extend their collaboration to other businesses within Hyundai Motor Group, whose broader operations were one reason JPMorgan selected Hyundai Card as a partner, Toh said Hyundai Motor Group holds a combined 78 Hyundai Card has previously experimented with blockchain-based cross-border payments In July, the company said it completed a proof-of-concept involving a $20,000 transfer using the USDT stablecoin between Hyundai Motor's U. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "JPMorgan is working on AI agent transactions that don’t involve humans",
+      "original_summary": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions.",
+      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'JPMorgan is working on AI agent transactions that don’t involve humans'이다. JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions. The initial trial involved a Hyundai Card AI agent requesting a foreign exchange transaction to maintain euro liquidity in its Kinexys blockchain deposit account The companies are also exploring whether to extend their collaboration to other businesses within Hyundai Motor Group, whose broader operations were one reason JPMorgan selected Hyundai Card as a partner, Toh said Hyundai Motor Group holds a combined 78 Hyundai Card has previously experimented with blockchain-based cross-border payments In July, the company said it completed a proof-of-concept involving a $20,000 transfer using the USDT stablecoin between Hyundai Motor's U. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-18T03:17:55+00:00",
+      "source_id": "cnbc_top_news",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "country_name_ko": "미국",
       "source_language": "en",
       "matched_companies": [
         "Hyundai Motor"
       ],
       "matched_aliases": [
-        "Hyundai Motor",
         "Hyundai"
-      ],
-      "is_new": true
-    },
-    {
-      "article_key": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-tsmc-shares-fall-after-us-announces-curbs-on-chinas-chip-access/articleshow/135915493.cms",
-      "canonical_link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-tsmc-shares-fall-after-us-announces-curbs-on-chinas-chip-access/articleshow/135915493.cms",
-      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-tsmc-shares-fall-after-us-announces-curbs-on-chinas-chip-access/articleshow/135915493.cms",
-      "title": "Samsung Electronics, TSMC shares fall after US announces curbs on China's chip access",
-      "summary": "Samsung Electronics 관련 기사다. 기사 제목은 'Samsung Electronics, TSMC shares fall after US announces curbs on China's chip access'이다. Shares of Samsung Electronics and TSMC lost ground on Tuesday in Asia after the Trump administration said on Monday it would further restrict China's access to advanced AI chips. Listen to this article in summarized format Reuters FILE PHOTO: A Samsung Electronics logo and a computer motherboard appear in this illustration taken August 25, 2025 Shares of Samsung Electronics and TSMC lost ground on Tuesday in Asia after the Trump administration s ai d on Monday it would further restrict China's access to advanced AI chips The new rules \"tighten requirements on foundries manufacturing advanced chips for Chinese fabless companies Samsung Foundry therefore might potentially face additional customer due diligence and licensing requirement,\" CLSA senior analyst Sanjeev Rana said. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Samsung Electronics, TSMC shares fall after US announces curbs on China's chip access",
-      "original_summary": "Shares of Samsung Electronics and TSMC lost ground on Tuesday in Asia after the Trump administration said on Monday it would further restrict China's access to advanced AI chips.",
-      "company_summary": "Samsung Electronics 관련 기사다. 기사 제목은 'Samsung Electronics, TSMC shares fall after US announces curbs on China's chip access'이다. Shares of Samsung Electronics and TSMC lost ground on Tuesday in Asia after the Trump administration said on Monday it would further restrict China's access to advanced AI chips. Listen to this article in summarized format Reuters FILE PHOTO: A Samsung Electronics logo and a computer motherboard appear in this illustration taken August 25, 2025 Shares of Samsung Electronics and TSMC lost ground on Tuesday in Asia after the Trump administration s ai d on Monday it would further restrict China's access to advanced AI chips The new rules \"tighten requirements on foundries manufacturing advanced chips for Chinese fabless companies Samsung Foundry therefore might potentially face additional customer due diligence and licensing requirement,\" CLSA senior analyst Sanjeev Rana said. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-11-17T07:23:50+00:00",
-      "source_id": "economic_times_tech",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "country_name_ko": "인도",
-      "source_language": "en",
-      "matched_companies": [
-        "Samsung Electronics"
-      ],
-      "matched_aliases": [
-        "Samsung Electronics"
       ],
       "is_new": true
     }
   ],
   "matched_articles": [
     {
+      "article_key": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+      "canonical_link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+      "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+      "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
+      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'JPMorgan is working on AI agent transactions that don’t involve humans'이다. JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions. The initial trial involved a Hyundai Card AI agent requesting a foreign exchange transaction to maintain euro liquidity in its Kinexys blockchain deposit account The companies are also exploring whether to extend their collaboration to other businesses within Hyundai Motor Group, whose broader operations were one reason JPMorgan selected Hyundai Card as a partner, Toh said Hyundai Motor Group holds a combined 78 Hyundai Card has previously experimented with blockchain-based cross-border payments In July, the company said it completed a proof-of-concept involving a $20,000 transfer using the USDT stablecoin between Hyundai Motor's U. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "JPMorgan is working on AI agent transactions that don’t involve humans",
+      "original_summary": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions.",
+      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'JPMorgan is working on AI agent transactions that don’t involve humans'이다. JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions. The initial trial involved a Hyundai Card AI agent requesting a foreign exchange transaction to maintain euro liquidity in its Kinexys blockchain deposit account The companies are also exploring whether to extend their collaboration to other businesses within Hyundai Motor Group, whose broader operations were one reason JPMorgan selected Hyundai Card as a partner, Toh said Hyundai Motor Group holds a combined 78 Hyundai Card has previously experimented with blockchain-based cross-border payments In July, the company said it completed a proof-of-concept involving a $20,000 transfer using the USDT stablecoin between Hyundai Motor's U. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-18T03:17:55+00:00",
+      "source_id": "cnbc_top_news",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "country_name_ko": "미국",
+      "source_language": "en",
+      "matched_companies": [
+        "Hyundai Motor"
+      ],
+      "matched_aliases": [
+        "Hyundai"
+      ],
+      "is_new": true
+    },
+    {
       "article_key": "https://www.straitstimes.com/business/hyundai-motor-takes-full-ownership-of-boston-dynamics",
       "canonical_link": "https://www.straitstimes.com/business/hyundai-motor-takes-full-ownership-of-boston-dynamics",
       "link": "https://www.straitstimes.com/business/hyundai-motor-takes-full-ownership-of-boston-dynamics",
@@ -79,7 +78,7 @@
         "Hyundai Motor",
         "Hyundai"
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "article_key": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-tsmc-shares-fall-after-us-announces-curbs-on-chinas-chip-access/articleshow/135915493.cms",
@@ -101,52 +100,6 @@
       ],
       "matched_aliases": [
         "Samsung Electronics"
-      ],
-      "is_new": true
-    },
-    {
-      "article_key": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-to-spend-1-billion-over-five-years-to-support-chip-suppliers/articleshow/135878099.cms",
-      "canonical_link": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-to-spend-1-billion-over-five-years-to-support-chip-suppliers/articleshow/135878099.cms",
-      "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-to-spend-1-billion-over-five-years-to-support-chip-suppliers/articleshow/135878099.cms",
-      "title": "SK Hynix to spend $1 billion over five years to support chip suppliers",
-      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix to spend $1 billion over five years to support chip suppliers'이다. South Korea's SK Hynix said on Monday it plans to spend 1. 4 trillion won ($1. 05 billion) over the next five years to support domestic suppliers of semiconductor materials, parts and equipment, aiming to strengthen its supply chain as competition intensifies. South Korea's SK Hynix said on Monday it plans to spend 1 Here are some details: SK Hynix said its supplier support programme covers four stages - research and development, testing, mass production and sales The facility will be housed within the first chip plant at SK Hynix's Yongin semiconductor cluster, 40 km (25 miles) south of Seoul, where the company plans to invest 600 trillion won to build four chip fabrication plants SK Hynix said the shared facility would help small suppliers reduce testing costs and shorten the time needed to bring products to market SK Hynix and financial institutions will also provide 2 trillion won in financing backed by the Korea Trade Insurance Corporation, while other programmes offer low-interest loans and technical consulting to suppliers, including smaller subcontractors. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "SK Hynix to spend $1 billion over five years to support chip suppliers",
-      "original_summary": "South Korea's SK Hynix said on Monday it plans to spend 1.4 trillion won ($1.05 billion) over the next five years to support domestic suppliers of semiconductor materials, parts and equipment, aiming to strengthen its supply chain as competition intensifies",
-      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix to spend $1 billion over five years to support chip suppliers'이다. South Korea's SK Hynix said on Monday it plans to spend 1. 4 trillion won ($1. 05 billion) over the next five years to support domestic suppliers of semiconductor materials, parts and equipment, aiming to strengthen its supply chain as competition intensifies. South Korea's SK Hynix said on Monday it plans to spend 1 Here are some details: SK Hynix said its supplier support programme covers four stages - research and development, testing, mass production and sales The facility will be housed within the first chip plant at SK Hynix's Yongin semiconductor cluster, 40 km (25 miles) south of Seoul, where the company plans to invest 600 trillion won to build four chip fabrication plants SK Hynix said the shared facility would help small suppliers reduce testing costs and shorten the time needed to bring products to market SK Hynix and financial institutions will also provide 2 trillion won in financing backed by the Korea Trade Insurance Corporation, while other programmes offer low-interest loans and technical consulting to suppliers, including smaller subcontractors. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-11-16T08:10:49+00:00",
-      "source_id": "economic_times_tech",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "country_name_ko": "인도",
-      "source_language": "en",
-      "matched_companies": [
-        "SK hynix"
-      ],
-      "matched_aliases": [
-        "SK hynix"
-      ],
-      "is_new": false
-    },
-    {
-      "article_key": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-in-24-7-race-to-complete-colossal-chip-plant",
-      "canonical_link": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-in-24-7-race-to-complete-colossal-chip-plant",
-      "link": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-in-24-7-race-to-complete-colossal-chip-plant",
-      "title": "SK Hynix in 24/7 race to complete colossal chip plant",
-      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix in 24/7 race to complete colossal chip plant'이다. YONGIN, South Korea -- Perhaps the world's tallest semiconductor fabrication plant is rising among the rural hills of Yongin, a 90-minute drive from. Memory chipmaker investing $450bn in 4-fab complex outside Seoul. Semiconductors SK Hynix in 24/7 race to complete colossal chip plant Memory chipmaker investing $450bn in 4-fab complex outside Seoul SK Hynix's first fab, Y1, at its Yongin complex is planned to reach about 150 meters in height, equivalent to a 50-story apartment building (SK Hynix) KIM JAEWON November 16, 2026 13:32 JST YONGIN, South Korea -- Perhaps the world's tallest semiconductor fabrication plant is rising among the rural hills of Yongin, a 90-minute drive from Seoul, as South Korean memory chipmaker SK Hynix builds its largest manufacturing complex to try to keep pace with demand for artificial intelligence computing. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "SK Hynix in 24/7 race to complete colossal chip plant",
-      "original_summary": "",
-      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix in 24/7 race to complete colossal chip plant'이다. YONGIN, South Korea -- Perhaps the world's tallest semiconductor fabrication plant is rising among the rural hills of Yongin, a 90-minute drive from. Memory chipmaker investing $450bn in 4-fab complex outside Seoul. Semiconductors SK Hynix in 24/7 race to complete colossal chip plant Memory chipmaker investing $450bn in 4-fab complex outside Seoul SK Hynix's first fab, Y1, at its Yongin complex is planned to reach about 150 meters in height, equivalent to a 50-story apartment building (SK Hynix) KIM JAEWON November 16, 2026 13:32 JST YONGIN, South Korea -- Perhaps the world's tallest semiconductor fabrication plant is rising among the rural hills of Yongin, a 90-minute drive from Seoul, as South Korean memory chipmaker SK Hynix builds its largest manufacturing complex to try to keep pace with demand for artificial intelligence computing. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-11-16T04:32:01+00:00",
-      "source_id": "nikkei_asia",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "country_name_ko": "일본",
-      "source_language": "en",
-      "matched_companies": [
-        "SK hynix"
-      ],
-      "matched_aliases": [
-        "SK hynix"
       ],
       "is_new": false
     }
@@ -266,7 +219,7 @@
       "country_code": "JP",
       "success": true,
       "item_count": 50,
-      "matched_count": 1,
+      "matched_count": 0,
       "error": ""
     },
     {
@@ -382,7 +335,7 @@
       "source_name": "tagesschau Wirtschaft",
       "country_code": "DE",
       "success": true,
-      "item_count": 35,
+      "item_count": 36,
       "matched_count": 0,
       "error": ""
     },
@@ -418,7 +371,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 24,
+      "item_count": 28,
       "matched_count": 0,
       "error": ""
     },
@@ -545,7 +498,7 @@
       "country_code": "US",
       "success": true,
       "item_count": 30,
-      "matched_count": 0,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -554,7 +507,7 @@
       "country_code": "US",
       "success": true,
       "item_count": 30,
-      "matched_count": 0,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -563,7 +516,7 @@
       "country_code": "US",
       "success": true,
       "item_count": 30,
-      "matched_count": 0,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -653,7 +606,7 @@
       "country_code": "IN",
       "success": true,
       "item_count": 50,
-      "matched_count": 2,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -706,7 +659,7 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 50,
+      "item_count": 47,
       "matched_count": 1,
       "error": ""
     },
