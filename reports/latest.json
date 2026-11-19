@@ -1,10 +1,10 @@
 {
-  "run_at": "2026-11-18T18:10:19.621654+00:00",
+  "run_at": "2026-11-19T04:14:36.748905+00:00",
   "summary": {
     "source_count": 73,
     "success_count": 67,
     "failed_count": 6,
-    "matched_count": 3,
+    "matched_count": 1,
     "new_count": 0
   },
   "new_articles": [],
@@ -31,53 +31,6 @@
         "Hyundai"
       ],
       "is_new": false
-    },
-    {
-      "article_key": "https://www.straitstimes.com/business/hyundai-motor-takes-full-ownership-of-boston-dynamics",
-      "canonical_link": "https://www.straitstimes.com/business/hyundai-motor-takes-full-ownership-of-boston-dynamics",
-      "link": "https://www.straitstimes.com/business/hyundai-motor-takes-full-ownership-of-boston-dynamics",
-      "title": "Hyundai Motor takes full ownership of Boston Dynamics",
-      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Motor takes full ownership of Boston Dynamics'이다. Central to this strategy is commercialising the humanoid robot Atlas. PHOTO: REUTERS Published Nov 17, 2026, 04:09 PM Updated Nov 17, 2026, 07:56 PM Hyundai Motor Group now owns 100% of Boston Dynamics after buying SoftBank’s last 9 Hyundai plans to commercialise the Atlas humanoid robot, aiming for 30,000 units a year by 2028 and first using them at its Georgia plant for simple factory tasks AI generated SEOUL – Hyundai Motor Group has acquired full ownership of its US robotics subsidiary Boston Dynamics, accelerating its push to commercialise the Atlas humanoid robot By integrating Boston Dynamics’ AI-powered robotics with its automotive manufacturing and logistics systems, Hyundai seeks to boost factory efficiency while building a new growth engine After securing full ownership, one key hurdle for Hyundai is to achieve profitability in its robotics unit. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Hyundai Motor takes full ownership of Boston Dynamics",
-      "original_summary": "Central to this strategy is commercialising the humanoid robot Atlas.",
-      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Motor takes full ownership of Boston Dynamics'이다. Central to this strategy is commercialising the humanoid robot Atlas. PHOTO: REUTERS Published Nov 17, 2026, 04:09 PM Updated Nov 17, 2026, 07:56 PM Hyundai Motor Group now owns 100% of Boston Dynamics after buying SoftBank’s last 9 Hyundai plans to commercialise the Atlas humanoid robot, aiming for 30,000 units a year by 2028 and first using them at its Georgia plant for simple factory tasks AI generated SEOUL – Hyundai Motor Group has acquired full ownership of its US robotics subsidiary Boston Dynamics, accelerating its push to commercialise the Atlas humanoid robot By integrating Boston Dynamics’ AI-powered robotics with its automotive manufacturing and logistics systems, Hyundai seeks to boost factory efficiency while building a new growth engine After securing full ownership, one key hurdle for Hyundai is to achieve profitability in its robotics unit. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-11-17T08:09:00+00:00",
-      "source_id": "straits_times_business",
-      "source_name": "The Straits Times",
-      "country_code": "SG",
-      "country_name_ko": "싱가포르",
-      "source_language": "en",
-      "matched_companies": [
-        "Hyundai Motor"
-      ],
-      "matched_aliases": [
-        "Hyundai Motor",
-        "Hyundai"
-      ],
-      "is_new": false
-    },
-    {
-      "article_key": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-tsmc-shares-fall-after-us-announces-curbs-on-chinas-chip-access/articleshow/135915493.cms",
-      "canonical_link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-tsmc-shares-fall-after-us-announces-curbs-on-chinas-chip-access/articleshow/135915493.cms",
-      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-tsmc-shares-fall-after-us-announces-curbs-on-chinas-chip-access/articleshow/135915493.cms",
-      "title": "Samsung Electronics, TSMC shares fall after US announces curbs on China's chip access",
-      "summary": "Samsung Electronics 관련 기사다. 기사 제목은 'Samsung Electronics, TSMC shares fall after US announces curbs on China's chip access'이다. Shares of Samsung Electronics and TSMC lost ground on Tuesday in Asia after the Trump administration said on Monday it would further restrict China's access to advanced AI chips. Listen to this article in summarized format Reuters FILE PHOTO: A Samsung Electronics logo and a computer motherboard appear in this illustration taken August 25, 2025 Shares of Samsung Electronics and TSMC lost ground on Tuesday in Asia after the Trump administration s ai d on Monday it would further restrict China's access to advanced AI chips The new rules \"tighten requirements on foundries manufacturing advanced chips for Chinese fabless companies Samsung Foundry therefore might potentially face additional customer due diligence and licensing requirement,\" CLSA senior analyst Sanjeev Rana said. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Samsung Electronics, TSMC shares fall after US announces curbs on China's chip access",
-      "original_summary": "Shares of Samsung Electronics and TSMC lost ground on Tuesday in Asia after the Trump administration said on Monday it would further restrict China's access to advanced AI chips.",
-      "company_summary": "Samsung Electronics 관련 기사다. 기사 제목은 'Samsung Electronics, TSMC shares fall after US announces curbs on China's chip access'이다. Shares of Samsung Electronics and TSMC lost ground on Tuesday in Asia after the Trump administration said on Monday it would further restrict China's access to advanced AI chips. Listen to this article in summarized format Reuters FILE PHOTO: A Samsung Electronics logo and a computer motherboard appear in this illustration taken August 25, 2025 Shares of Samsung Electronics and TSMC lost ground on Tuesday in Asia after the Trump administration s ai d on Monday it would further restrict China's access to advanced AI chips The new rules \"tighten requirements on foundries manufacturing advanced chips for Chinese fabless companies Samsung Foundry therefore might potentially face additional customer due diligence and licensing requirement,\" CLSA senior analyst Sanjeev Rana said. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-11-17T07:23:50+00:00",
-      "source_id": "economic_times_tech",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "country_name_ko": "인도",
-      "source_language": "en",
-      "matched_companies": [
-        "Samsung Electronics"
-      ],
-      "matched_aliases": [
-        "Samsung Electronics"
-      ],
-      "is_new": false
     }
   ],
   "source_runs": [
@@ -86,7 +39,7 @@
       "source_name": "The New York Times Business",
       "country_code": "US",
       "success": true,
-      "item_count": 48,
+      "item_count": 32,
       "matched_count": 0,
       "error": ""
     },
@@ -95,7 +48,7 @@
       "source_name": "The New York Times Technology",
       "country_code": "US",
       "success": true,
-      "item_count": 35,
+      "item_count": 40,
       "matched_count": 0,
       "error": ""
     },
@@ -311,7 +264,7 @@
       "source_name": "tagesschau Wirtschaft",
       "country_code": "DE",
       "success": true,
-      "item_count": 27,
+      "item_count": 29,
       "matched_count": 0,
       "error": ""
     },
@@ -338,7 +291,7 @@
       "source_name": "BBC Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 46,
+      "item_count": 49,
       "matched_count": 0,
       "error": ""
     },
@@ -582,7 +535,7 @@
       "country_code": "IN",
       "success": true,
       "item_count": 50,
-      "matched_count": 1,
+      "matched_count": 0,
       "error": ""
     },
     {
@@ -635,8 +588,8 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 50,
-      "matched_count": 1,
+      "item_count": 49,
+      "matched_count": 0,
       "error": ""
     },
     {

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-18T18:10:19.621654+00:00",
+  "last_run_at": "2026-11-19T04:14:36.748905+00:00",
   "seen_articles": {
     "https://asia.nikkei.com/business/automobiles/hyundai-group-tops-honda-for-first-time-in-us-hybrid-sales": {
       "title": "Hyundai group tops Honda for first time in US hybrid sales",
@@ -13,17 +13,6 @@
       "first_seen_at": "2026-10-02T15:34:40.282637+00:00",
       "last_seen_at": "2026-10-05T18:09:32.045428+00:00"
     },
-    "https://economictimes.indiatimes.com/industry/auto/auto-news/festive-demand-drives-automakers-to-boost-production-and-inventory-in-india/articleshow/134670341.cms": {
-      "title": "Automakers ramp up production, inventory as festive demand picks up",
-      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/festive-demand-drives-automakers-to-boost-production-and-inventory-in-india/articleshow/134670341.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-10-04T14:42:16.382832+00:00",
-      "last_seen_at": "2026-10-05T01:45:04.954920+00:00"
-    },
     "https://www.thehindubusinessline.com/companies/automakers-build-up-inventory-to-meet-festive-season-demand/article71542971.ece": {
       "title": "Automakers build up inventory to meet festive season demand",
       "link": "https://www.thehindubusinessline.com/companies/automakers-build-up-inventory-to-meet-festive-season-demand/article71542971.ece",
@@ -34,17 +23,6 @@
       ],
       "first_seen_at": "2026-10-04T14:42:16.382832+00:00",
       "last_seen_at": "2026-10-16T01:03:38.508448+00:00"
-    },
-    "https://economictimes.indiatimes.com/industry/auto/auto-news/half-a-dozen-small-hybrids-getting-ready-for-indian-launch/articleshow/134677695.cms": {
-      "title": "Half a dozen small hybrids getting ready for Indian launch",
-      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/half-a-dozen-small-hybrids-getting-ready-for-indian-launch/articleshow/134677695.cms",
-      "source_name": "The Economic Times Industry",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-10-05T01:45:04.954920+00:00",
-      "last_seen_at": "2026-10-05T01:45:04.954920+00:00"
     },
     "https://www.thehindubusinessline.com/companies/hyundai-workers-union-seeks-wage-hike-after-interim-raise-to-management/article71547462.ece": {
       "title": "Hyundai workers’ union seeks wage hike after interim raise to management",
@@ -1288,7 +1266,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-11-18T04:30:09.400906+00:00",
-      "last_seen_at": "2026-11-18T18:10:19.621654+00:00"
+      "last_seen_at": "2026-11-19T04:14:36.748905+00:00"
     }
   }
 }
