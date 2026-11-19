@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-19T04:14:36.748905+00:00",
+  "last_run_at": "2026-11-19T18:22:35.673874+00:00",
   "seen_articles": {
-    "https://asia.nikkei.com/business/automobiles/hyundai-group-tops-honda-for-first-time-in-us-hybrid-sales": {
-      "title": "Hyundai group tops Honda for first time in US hybrid sales",
-      "link": "https://asia.nikkei.com/business/automobiles/hyundai-group-tops-honda-for-first-time-in-us-hybrid-sales",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-10-02T15:34:40.282637+00:00",
-      "last_seen_at": "2026-10-05T18:09:32.045428+00:00"
-    },
     "https://www.thehindubusinessline.com/companies/automakers-build-up-inventory-to-meet-festive-season-demand/article71542971.ece": {
       "title": "Automakers build up inventory to meet festive season demand",
       "link": "https://www.thehindubusinessline.com/companies/automakers-build-up-inventory-to-meet-festive-season-demand/article71542971.ece",
