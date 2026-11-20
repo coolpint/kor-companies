@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-19T18:22:35.673874+00:00",
+  "last_run_at": "2026-11-20T04:01:41.428056+00:00",
   "seen_articles": {
     "https://www.thehindubusinessline.com/companies/automakers-build-up-inventory-to-meet-festive-season-demand/article71542971.ece": {
       "title": "Automakers build up inventory to meet festive season demand",
@@ -23,17 +23,6 @@
       ],
       "first_seen_at": "2026-10-05T18:09:32.045428+00:00",
       "last_seen_at": "2026-10-06T15:46:23.237945+00:00"
-    },
-    "https://www.theverge.com/transportation/1004785/hyundai-ceo-china-ev-us-market-share": {
-      "title": "Hyundai CEO says only a ‘level playing field’ can minimize damage from China",
-      "link": "https://www.theverge.com/transportation/1004785/hyundai-ceo-china-ev-us-market-share",
-      "source_name": "The Verge",
-      "country_code": "US",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-10-06T02:46:50.191074+00:00",
-      "last_seen_at": "2026-10-06T02:46:50.191074+00:00"
     },
     "https://www.channelnewsasia.com/business/amd-ceo-says-continues-explore-foundry-partnership-samsung-electronics-6438731": {
       "title": "AMD CEO says continues to explore foundry partnership with Samsung Electronics",
