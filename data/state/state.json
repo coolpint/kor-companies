@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-20T04:01:41.428056+00:00",
+  "last_run_at": "2026-11-20T17:52:38.916885+00:00",
   "seen_articles": {
     "https://www.thehindubusinessline.com/companies/automakers-build-up-inventory-to-meet-festive-season-demand/article71542971.ece": {
       "title": "Automakers build up inventory to meet festive season demand",
@@ -12,17 +12,6 @@
       ],
       "first_seen_at": "2026-10-04T14:42:16.382832+00:00",
       "last_seen_at": "2026-10-16T01:03:38.508448+00:00"
-    },
-    "https://www.thehindubusinessline.com/companies/hyundai-workers-union-seeks-wage-hike-after-interim-raise-to-management/article71547462.ece": {
-      "title": "Hyundai workers’ union seeks wage hike after interim raise to management",
-      "link": "https://www.thehindubusinessline.com/companies/hyundai-workers-union-seeks-wage-hike-after-interim-raise-to-management/article71547462.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-10-05T18:09:32.045428+00:00",
-      "last_seen_at": "2026-10-06T15:46:23.237945+00:00"
     },
     "https://www.channelnewsasia.com/business/amd-ceo-says-continues-explore-foundry-partnership-samsung-electronics-6438731": {
       "title": "AMD CEO says continues to explore foundry partnership with Samsung Electronics",
@@ -1245,6 +1234,39 @@
       ],
       "first_seen_at": "2026-11-18T04:30:09.400906+00:00",
       "last_seen_at": "2026-11-19T04:14:36.748905+00:00"
+    },
+    "https://asia.nikkei.com/business/markets/bonds/sk-hynix-to-become-kioxia-s-top-shareholder-with-bond-conversion": {
+      "title": "SK Hynix to become Kioxia's top shareholder with bond conversion",
+      "link": "https://asia.nikkei.com/business/markets/bonds/sk-hynix-to-become-kioxia-s-top-shareholder-with-bond-conversion",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-11-20T17:52:38.916885+00:00",
+      "last_seen_at": "2026-11-20T17:52:38.916885+00:00"
+    },
+    "https://www.channelnewsasia.com/business/sk-hynix-become-top-shareholder-in-rival-kioxia-after-bond-conversion-6569061": {
+      "title": "SK Hynix to become top shareholder in rival Kioxia after bond conversion",
+      "link": "https://www.channelnewsasia.com/business/sk-hynix-become-top-shareholder-in-rival-kioxia-after-bond-conversion-6569061",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-11-20T17:52:38.916885+00:00",
+      "last_seen_at": "2026-11-20T17:52:38.916885+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-names-new-heads-of-memory-chip-mobile-businesses/articleshow/136012029.cms": {
+      "title": "Samsung Electronics names new heads of memory chip, mobile businesses",
+      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-names-new-heads-of-memory-chip-mobile-businesses/articleshow/136012029.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "first_seen_at": "2026-11-20T17:52:38.916885+00:00",
+      "last_seen_at": "2026-11-20T17:52:38.916885+00:00"
     }
   }
 }

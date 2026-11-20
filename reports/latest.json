@@ -1,21 +1,161 @@
 {
-  "run_at": "2026-11-20T04:01:41.428056+00:00",
+  "run_at": "2026-11-20T17:52:38.916885+00:00",
   "summary": {
     "source_count": 73,
-    "success_count": 67,
-    "failed_count": 6,
-    "matched_count": 0,
-    "new_count": 0
+    "success_count": 66,
+    "failed_count": 7,
+    "matched_count": 3,
+    "new_count": 3
   },
-  "new_articles": [],
-  "matched_articles": [],
+  "new_articles": [
+    {
+      "article_key": "https://asia.nikkei.com/business/markets/bonds/sk-hynix-to-become-kioxia-s-top-shareholder-with-bond-conversion",
+      "canonical_link": "https://asia.nikkei.com/business/markets/bonds/sk-hynix-to-become-kioxia-s-top-shareholder-with-bond-conversion",
+      "link": "https://asia.nikkei.com/business/markets/bonds/sk-hynix-to-become-kioxia-s-top-shareholder-with-bond-conversion",
+      "title": "SK Hynix to become Kioxia's top shareholder with bond conversion",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix to become Kioxia's top shareholder with bond conversion'이다. SEOUL -- SK Hynix will convert bonds issued by a special-purpose company created for its investment in Kioxia Holdings into common stock under plans. South Korean chipmaker will hold 14. 1% indirect stake after move. Bonds SK Hynix to become Kioxia's top shareholder with bond conversion South Korean chipmaker will hold 14 1% indirect stake after move In 2018, SK Hynix joined a consortium led by Bain Capital to invest in the company that is now Kioxia (Photo by Shintaro Ino) NAMI MATSUURA November 21, 2026 00:38 JST SEOUL -- SK Hynix will convert bonds issued by a special-purpose company created for its investment in Kioxia Holdings into common stock under plans announced Friday, making the South Korean memory chip maker the top shareholder in the Japanese counterpart through an indirect stake 7bn this quarter Semiconductors Japan's Kioxia sheds two-thirds of peak market value as China chip rivals emerge Semiconductors SK Hynix quarterly profit soars sevenfold to $63bn on strong memory demand Semiconductors SK Hynix abandons plan for US unit's IPO, citing market volatility Latest on Bonds Bonds Japan bond market revival fuels record profits for Nomura, Daiwa Bonds SoftBank, Rakuten push Japan retail bond issuance to record high Bonds Rule change to ease Japan life insurers' government bond purchases. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "SK Hynix to become Kioxia's top shareholder with bond conversion",
+      "original_summary": "",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix to become Kioxia's top shareholder with bond conversion'이다. SEOUL -- SK Hynix will convert bonds issued by a special-purpose company created for its investment in Kioxia Holdings into common stock under plans. South Korean chipmaker will hold 14. 1% indirect stake after move. Bonds SK Hynix to become Kioxia's top shareholder with bond conversion South Korean chipmaker will hold 14 1% indirect stake after move In 2018, SK Hynix joined a consortium led by Bain Capital to invest in the company that is now Kioxia (Photo by Shintaro Ino) NAMI MATSUURA November 21, 2026 00:38 JST SEOUL -- SK Hynix will convert bonds issued by a special-purpose company created for its investment in Kioxia Holdings into common stock under plans announced Friday, making the South Korean memory chip maker the top shareholder in the Japanese counterpart through an indirect stake 7bn this quarter Semiconductors Japan's Kioxia sheds two-thirds of peak market value as China chip rivals emerge Semiconductors SK Hynix quarterly profit soars sevenfold to $63bn on strong memory demand Semiconductors SK Hynix abandons plan for US unit's IPO, citing market volatility Latest on Bonds Bonds Japan bond market revival fuels record profits for Nomura, Daiwa Bonds SoftBank, Rakuten push Japan retail bond issuance to record high Bonds Rule change to ease Japan life insurers' government bond purchases. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-20T15:38:06+00:00",
+      "source_id": "nikkei_asia",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "country_name_ko": "일본",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://www.channelnewsasia.com/business/sk-hynix-become-top-shareholder-in-rival-kioxia-after-bond-conversion-6569061",
+      "canonical_link": "https://www.channelnewsasia.com/business/sk-hynix-become-top-shareholder-in-rival-kioxia-after-bond-conversion-6569061",
+      "link": "https://www.channelnewsasia.com/business/sk-hynix-become-top-shareholder-in-rival-kioxia-after-bond-conversion-6569061",
+      "title": "SK Hynix to become top shareholder in rival Kioxia after bond conversion",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix to become top shareholder in rival Kioxia after bond conversion'이다. Channel NewsAsia is an English-language news organization based in Singapore. SEOUL, Nov 20 : South Korean chipmaker SK Hynix Inc will become the largest shareholder in Japanese rival Kioxia Holdings by converting bonds of an investment vehicle into shares in December. SK Hynix said it would convert the bonds into 129,000 common shares and buy 1,001 additional shares in the entity from. Click here to return to FAST Tap here to return to FAST FAST SEOUL, Nov 20 : South Korean chipmaker SK Hynix Inc will become the largest shareholder in Japanese rival Kioxia Holdings by converting bonds of an investment vehicle into shares in December SK Hynix said it would convert the bonds into 129,000 common shares and buy 1,001 additional shares in the entity from Bain Capital, a transaction that will give SK Hynix an indirect stake of about 14 SK Hynix also said it had no current plans to buy or sell additional Kioxia shares and its participation in Kioxia's management would remain limited after the deal In 2018, SK Hynix invested a total of 395 billion yen ($2 48 billion) in the Bain Capital-led consortium that acquired Toshiba Memory, now Kioxia. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "SK Hynix to become top shareholder in rival Kioxia after bond conversion",
+      "original_summary": "",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix to become top shareholder in rival Kioxia after bond conversion'이다. Channel NewsAsia is an English-language news organization based in Singapore. SEOUL, Nov 20 : South Korean chipmaker SK Hynix Inc will become the largest shareholder in Japanese rival Kioxia Holdings by converting bonds of an investment vehicle into shares in December. SK Hynix said it would convert the bonds into 129,000 common shares and buy 1,001 additional shares in the entity from. Click here to return to FAST Tap here to return to FAST FAST SEOUL, Nov 20 : South Korean chipmaker SK Hynix Inc will become the largest shareholder in Japanese rival Kioxia Holdings by converting bonds of an investment vehicle into shares in December SK Hynix said it would convert the bonds into 129,000 common shares and buy 1,001 additional shares in the entity from Bain Capital, a transaction that will give SK Hynix an indirect stake of about 14 SK Hynix also said it had no current plans to buy or sell additional Kioxia shares and its participation in Kioxia's management would remain limited after the deal In 2018, SK Hynix invested a total of 395 billion yen ($2 48 billion) in the Bain Capital-led consortium that acquired Toshiba Memory, now Kioxia. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-20T10:18:32+00:00",
+      "source_id": "cna_business",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "country_name_ko": "싱가포르",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-names-new-heads-of-memory-chip-mobile-businesses/articleshow/136012029.cms",
+      "canonical_link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-names-new-heads-of-memory-chip-mobile-businesses/articleshow/136012029.cms",
+      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-names-new-heads-of-memory-chip-mobile-businesses/articleshow/136012029.cms",
+      "title": "Samsung Electronics names new heads of memory chip, mobile businesses",
+      "summary": "Samsung Electronics 관련 기사다. 기사 제목은 'Samsung Electronics names new heads of memory chip, mobile businesses'이다. Hwang Sang-joon was promoted to president and will become the head of the memory business, and President Choi Won-joon was named the head of the mobile device business, Samsung said in a statement. Samsung Electronics said on Friday that it appointed new heads of its memory chip and mobile device businesses Hwang Sang-joon was promoted to president and will become the head of the memory business, and President Choi Won-joon was named the head of the mobile device business , Samsung said in a statement \"He is expected to continue help strengthen the competitiveness of memory products in the AI era ,\" Samsung said in its statement Samsung Electronics Co-CEO and Vice Chairman Jun Young-hyun will continue to oversee the broader device solutions division, which includes memory and logic chips Co-CEO and President TM Roh will remain as the head of the device experience division, which includes mobile devices, televisions and home appliances, Samsung said. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Samsung Electronics names new heads of memory chip, mobile businesses",
+      "original_summary": "Hwang Sang-joon was promoted to president and will become the head of the memory business, and President Choi Won-joon was named the head of the mobile device business, Samsung said in a statement.",
+      "company_summary": "Samsung Electronics 관련 기사다. 기사 제목은 'Samsung Electronics names new heads of memory chip, mobile businesses'이다. Hwang Sang-joon was promoted to president and will become the head of the memory business, and President Choi Won-joon was named the head of the mobile device business, Samsung said in a statement. Samsung Electronics said on Friday that it appointed new heads of its memory chip and mobile device businesses Hwang Sang-joon was promoted to president and will become the head of the memory business, and President Choi Won-joon was named the head of the mobile device business , Samsung said in a statement \"He is expected to continue help strengthen the competitiveness of memory products in the AI era ,\" Samsung said in its statement Samsung Electronics Co-CEO and Vice Chairman Jun Young-hyun will continue to oversee the broader device solutions division, which includes memory and logic chips Co-CEO and President TM Roh will remain as the head of the device experience division, which includes mobile devices, televisions and home appliances, Samsung said. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-20T03:44:53+00:00",
+      "source_id": "economic_times_tech",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "country_name_ko": "인도",
+      "source_language": "en",
+      "matched_companies": [
+        "Samsung Electronics"
+      ],
+      "matched_aliases": [
+        "Samsung Electronics"
+      ],
+      "is_new": true
+    }
+  ],
+  "matched_articles": [
+    {
+      "article_key": "https://asia.nikkei.com/business/markets/bonds/sk-hynix-to-become-kioxia-s-top-shareholder-with-bond-conversion",
+      "canonical_link": "https://asia.nikkei.com/business/markets/bonds/sk-hynix-to-become-kioxia-s-top-shareholder-with-bond-conversion",
+      "link": "https://asia.nikkei.com/business/markets/bonds/sk-hynix-to-become-kioxia-s-top-shareholder-with-bond-conversion",
+      "title": "SK Hynix to become Kioxia's top shareholder with bond conversion",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix to become Kioxia's top shareholder with bond conversion'이다. SEOUL -- SK Hynix will convert bonds issued by a special-purpose company created for its investment in Kioxia Holdings into common stock under plans. South Korean chipmaker will hold 14. 1% indirect stake after move. Bonds SK Hynix to become Kioxia's top shareholder with bond conversion South Korean chipmaker will hold 14 1% indirect stake after move In 2018, SK Hynix joined a consortium led by Bain Capital to invest in the company that is now Kioxia (Photo by Shintaro Ino) NAMI MATSUURA November 21, 2026 00:38 JST SEOUL -- SK Hynix will convert bonds issued by a special-purpose company created for its investment in Kioxia Holdings into common stock under plans announced Friday, making the South Korean memory chip maker the top shareholder in the Japanese counterpart through an indirect stake 7bn this quarter Semiconductors Japan's Kioxia sheds two-thirds of peak market value as China chip rivals emerge Semiconductors SK Hynix quarterly profit soars sevenfold to $63bn on strong memory demand Semiconductors SK Hynix abandons plan for US unit's IPO, citing market volatility Latest on Bonds Bonds Japan bond market revival fuels record profits for Nomura, Daiwa Bonds SoftBank, Rakuten push Japan retail bond issuance to record high Bonds Rule change to ease Japan life insurers' government bond purchases. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "SK Hynix to become Kioxia's top shareholder with bond conversion",
+      "original_summary": "",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix to become Kioxia's top shareholder with bond conversion'이다. SEOUL -- SK Hynix will convert bonds issued by a special-purpose company created for its investment in Kioxia Holdings into common stock under plans. South Korean chipmaker will hold 14. 1% indirect stake after move. Bonds SK Hynix to become Kioxia's top shareholder with bond conversion South Korean chipmaker will hold 14 1% indirect stake after move In 2018, SK Hynix joined a consortium led by Bain Capital to invest in the company that is now Kioxia (Photo by Shintaro Ino) NAMI MATSUURA November 21, 2026 00:38 JST SEOUL -- SK Hynix will convert bonds issued by a special-purpose company created for its investment in Kioxia Holdings into common stock under plans announced Friday, making the South Korean memory chip maker the top shareholder in the Japanese counterpart through an indirect stake 7bn this quarter Semiconductors Japan's Kioxia sheds two-thirds of peak market value as China chip rivals emerge Semiconductors SK Hynix quarterly profit soars sevenfold to $63bn on strong memory demand Semiconductors SK Hynix abandons plan for US unit's IPO, citing market volatility Latest on Bonds Bonds Japan bond market revival fuels record profits for Nomura, Daiwa Bonds SoftBank, Rakuten push Japan retail bond issuance to record high Bonds Rule change to ease Japan life insurers' government bond purchases. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-20T15:38:06+00:00",
+      "source_id": "nikkei_asia",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "country_name_ko": "일본",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://www.channelnewsasia.com/business/sk-hynix-become-top-shareholder-in-rival-kioxia-after-bond-conversion-6569061",
+      "canonical_link": "https://www.channelnewsasia.com/business/sk-hynix-become-top-shareholder-in-rival-kioxia-after-bond-conversion-6569061",
+      "link": "https://www.channelnewsasia.com/business/sk-hynix-become-top-shareholder-in-rival-kioxia-after-bond-conversion-6569061",
+      "title": "SK Hynix to become top shareholder in rival Kioxia after bond conversion",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix to become top shareholder in rival Kioxia after bond conversion'이다. Channel NewsAsia is an English-language news organization based in Singapore. SEOUL, Nov 20 : South Korean chipmaker SK Hynix Inc will become the largest shareholder in Japanese rival Kioxia Holdings by converting bonds of an investment vehicle into shares in December. SK Hynix said it would convert the bonds into 129,000 common shares and buy 1,001 additional shares in the entity from. Click here to return to FAST Tap here to return to FAST FAST SEOUL, Nov 20 : South Korean chipmaker SK Hynix Inc will become the largest shareholder in Japanese rival Kioxia Holdings by converting bonds of an investment vehicle into shares in December SK Hynix said it would convert the bonds into 129,000 common shares and buy 1,001 additional shares in the entity from Bain Capital, a transaction that will give SK Hynix an indirect stake of about 14 SK Hynix also said it had no current plans to buy or sell additional Kioxia shares and its participation in Kioxia's management would remain limited after the deal In 2018, SK Hynix invested a total of 395 billion yen ($2 48 billion) in the Bain Capital-led consortium that acquired Toshiba Memory, now Kioxia. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "SK Hynix to become top shareholder in rival Kioxia after bond conversion",
+      "original_summary": "",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SK Hynix to become top shareholder in rival Kioxia after bond conversion'이다. Channel NewsAsia is an English-language news organization based in Singapore. SEOUL, Nov 20 : South Korean chipmaker SK Hynix Inc will become the largest shareholder in Japanese rival Kioxia Holdings by converting bonds of an investment vehicle into shares in December. SK Hynix said it would convert the bonds into 129,000 common shares and buy 1,001 additional shares in the entity from. Click here to return to FAST Tap here to return to FAST FAST SEOUL, Nov 20 : South Korean chipmaker SK Hynix Inc will become the largest shareholder in Japanese rival Kioxia Holdings by converting bonds of an investment vehicle into shares in December SK Hynix said it would convert the bonds into 129,000 common shares and buy 1,001 additional shares in the entity from Bain Capital, a transaction that will give SK Hynix an indirect stake of about 14 SK Hynix also said it had no current plans to buy or sell additional Kioxia shares and its participation in Kioxia's management would remain limited after the deal In 2018, SK Hynix invested a total of 395 billion yen ($2 48 billion) in the Bain Capital-led consortium that acquired Toshiba Memory, now Kioxia. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-20T10:18:32+00:00",
+      "source_id": "cna_business",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "country_name_ko": "싱가포르",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-names-new-heads-of-memory-chip-mobile-businesses/articleshow/136012029.cms",
+      "canonical_link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-names-new-heads-of-memory-chip-mobile-businesses/articleshow/136012029.cms",
+      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-names-new-heads-of-memory-chip-mobile-businesses/articleshow/136012029.cms",
+      "title": "Samsung Electronics names new heads of memory chip, mobile businesses",
+      "summary": "Samsung Electronics 관련 기사다. 기사 제목은 'Samsung Electronics names new heads of memory chip, mobile businesses'이다. Hwang Sang-joon was promoted to president and will become the head of the memory business, and President Choi Won-joon was named the head of the mobile device business, Samsung said in a statement. Samsung Electronics said on Friday that it appointed new heads of its memory chip and mobile device businesses Hwang Sang-joon was promoted to president and will become the head of the memory business, and President Choi Won-joon was named the head of the mobile device business , Samsung said in a statement \"He is expected to continue help strengthen the competitiveness of memory products in the AI era ,\" Samsung said in its statement Samsung Electronics Co-CEO and Vice Chairman Jun Young-hyun will continue to oversee the broader device solutions division, which includes memory and logic chips Co-CEO and President TM Roh will remain as the head of the device experience division, which includes mobile devices, televisions and home appliances, Samsung said. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Samsung Electronics names new heads of memory chip, mobile businesses",
+      "original_summary": "Hwang Sang-joon was promoted to president and will become the head of the memory business, and President Choi Won-joon was named the head of the mobile device business, Samsung said in a statement.",
+      "company_summary": "Samsung Electronics 관련 기사다. 기사 제목은 'Samsung Electronics names new heads of memory chip, mobile businesses'이다. Hwang Sang-joon was promoted to president and will become the head of the memory business, and President Choi Won-joon was named the head of the mobile device business, Samsung said in a statement. Samsung Electronics said on Friday that it appointed new heads of its memory chip and mobile device businesses Hwang Sang-joon was promoted to president and will become the head of the memory business, and President Choi Won-joon was named the head of the mobile device business , Samsung said in a statement \"He is expected to continue help strengthen the competitiveness of memory products in the AI era ,\" Samsung said in its statement Samsung Electronics Co-CEO and Vice Chairman Jun Young-hyun will continue to oversee the broader device solutions division, which includes memory and logic chips Co-CEO and President TM Roh will remain as the head of the device experience division, which includes mobile devices, televisions and home appliances, Samsung said. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-20T03:44:53+00:00",
+      "source_id": "economic_times_tech",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "country_name_ko": "인도",
+      "source_language": "en",
+      "matched_companies": [
+        "Samsung Electronics"
+      ],
+      "matched_aliases": [
+        "Samsung Electronics"
+      ],
+      "is_new": true
+    }
+  ],
   "source_runs": [
     {
       "source_id": "nyt_business",
       "source_name": "The New York Times Business",
       "country_code": "US",
       "success": true,
-      "item_count": 39,
+      "item_count": 47,
       "matched_count": 0,
       "error": ""
     },
@@ -24,7 +164,7 @@
       "source_name": "The New York Times Technology",
       "country_code": "US",
       "success": true,
-      "item_count": 40,
+      "item_count": 39,
       "matched_count": 0,
       "error": ""
     },
@@ -124,7 +264,7 @@
       "country_code": "JP",
       "success": true,
       "item_count": 50,
-      "matched_count": 0,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -222,7 +362,7 @@
       "source_name": "Deutsche Welle World",
       "country_code": "DE",
       "success": true,
-      "item_count": 12,
+      "item_count": 11,
       "matched_count": 0,
       "error": ""
     },
@@ -240,7 +380,7 @@
       "source_name": "tagesschau Wirtschaft",
       "country_code": "DE",
       "success": true,
-      "item_count": 37,
+      "item_count": 35,
       "matched_count": 0,
       "error": ""
     },
@@ -276,7 +416,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 36,
+      "item_count": 21,
       "matched_count": 0,
       "error": ""
     },
@@ -339,7 +479,7 @@
       "source_name": "The Independent Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 0,
+      "item_count": 1,
       "matched_count": 0,
       "error": ""
     },
@@ -374,10 +514,10 @@
       "source_id": "france24_europe",
       "source_name": "France 24 Europe",
       "country_code": "FR",
-      "success": true,
-      "item_count": 30,
+      "success": false,
+      "item_count": 0,
       "matched_count": 0,
-      "error": ""
+      "error": "HTTP 403 for https://www.france24.com/en/europe/rss"
     },
     {
       "source_id": "euronews_business",
@@ -511,7 +651,7 @@
       "country_code": "IN",
       "success": true,
       "item_count": 50,
-      "matched_count": 0,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -538,7 +678,7 @@
       "country_code": "SG",
       "success": true,
       "item_count": 20,
-      "matched_count": 0,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -564,7 +704,7 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 42,
+      "item_count": 35,
       "matched_count": 0,
       "error": ""
     },
@@ -609,7 +749,7 @@
       "source_name": "Taipei Times",
       "country_code": "TW",
       "success": true,
-      "item_count": 52,
+      "item_count": 47,
       "matched_count": 0,
       "error": ""
     },
