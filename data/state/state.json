@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-20T17:52:38.916885+00:00",
+  "last_run_at": "2026-11-21T04:01:27.033878+00:00",
   "seen_articles": {
     "https://www.thehindubusinessline.com/companies/automakers-build-up-inventory-to-meet-festive-season-demand/article71542971.ece": {
       "title": "Automakers build up inventory to meet festive season demand",
@@ -1244,7 +1244,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-11-20T17:52:38.916885+00:00",
-      "last_seen_at": "2026-11-20T17:52:38.916885+00:00"
+      "last_seen_at": "2026-11-21T04:01:27.033878+00:00"
     },
     "https://www.channelnewsasia.com/business/sk-hynix-become-top-shareholder-in-rival-kioxia-after-bond-conversion-6569061": {
       "title": "SK Hynix to become top shareholder in rival Kioxia after bond conversion",
@@ -1266,7 +1266,29 @@
         "Samsung Electronics"
       ],
       "first_seen_at": "2026-11-20T17:52:38.916885+00:00",
-      "last_seen_at": "2026-11-20T17:52:38.916885+00:00"
+      "last_seen_at": "2026-11-21T04:01:27.033878+00:00"
+    },
+    "https://economictimes.indiatimes.com/tech/technology/softbanks-son-explored-1-trillion-buyout-of-sk-hynix-the-information/articleshow/136043315.cms": {
+      "title": "SoftBank's Son explored $1 trillion buyout of SK Hynix: The Information",
+      "link": "https://economictimes.indiatimes.com/tech/technology/softbanks-son-explored-1-trillion-buyout-of-sk-hynix-the-information/articleshow/136043315.cms",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-11-21T04:01:27.033878+00:00",
+      "last_seen_at": "2026-11-21T04:01:27.033878+00:00"
+    },
+    "https://asia.nikkei.com/business/automobiles/hyundai-honda-feature-us-hybrids-at-auto-show-amid-investment-wave": {
+      "title": "Hyundai, Honda feature US hybrids at auto show amid investment wave",
+      "link": "https://asia.nikkei.com/business/automobiles/hyundai-honda-feature-us-hybrids-at-auto-show-amid-investment-wave",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-11-21T04:01:27.033878+00:00",
+      "last_seen_at": "2026-11-21T04:01:27.033878+00:00"
     }
   }
 }
