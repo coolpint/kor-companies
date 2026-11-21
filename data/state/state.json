@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-21T04:01:27.033878+00:00",
+  "last_run_at": "2026-11-21T16:50:24.152847+00:00",
   "seen_articles": {
     "https://www.thehindubusinessline.com/companies/automakers-build-up-inventory-to-meet-festive-season-demand/article71542971.ece": {
       "title": "Automakers build up inventory to meet festive season demand",
@@ -12,17 +12,6 @@
       ],
       "first_seen_at": "2026-10-04T14:42:16.382832+00:00",
       "last_seen_at": "2026-10-16T01:03:38.508448+00:00"
-    },
-    "https://www.channelnewsasia.com/business/amd-ceo-says-continues-explore-foundry-partnership-samsung-electronics-6438731": {
-      "title": "AMD CEO says continues to explore foundry partnership with Samsung Electronics",
-      "link": "https://www.channelnewsasia.com/business/amd-ceo-says-continues-explore-foundry-partnership-samsung-electronics-6438731",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-10-07T16:12:35.675305+00:00",
-      "last_seen_at": "2026-10-07T16:12:35.675305+00:00"
     },
     "https://economictimes.indiatimes.com/tech/artificial-intelligence/humanoid-robot-maker-boston-dynamics-appoints-ex-amazon-executive-rohit-prasad-as-ceo/articleshow/134755782.cms": {
       "title": "Humanoid robot maker Boston Dynamics appoints ex-Amazon executive Rohit Prasad as CEO",
@@ -1244,7 +1233,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-11-20T17:52:38.916885+00:00",
-      "last_seen_at": "2026-11-21T04:01:27.033878+00:00"
+      "last_seen_at": "2026-11-21T16:50:24.152847+00:00"
     },
     "https://www.channelnewsasia.com/business/sk-hynix-become-top-shareholder-in-rival-kioxia-after-bond-conversion-6569061": {
       "title": "SK Hynix to become top shareholder in rival Kioxia after bond conversion",
@@ -1277,7 +1266,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-11-21T04:01:27.033878+00:00",
-      "last_seen_at": "2026-11-21T04:01:27.033878+00:00"
+      "last_seen_at": "2026-11-21T16:50:24.152847+00:00"
     },
     "https://asia.nikkei.com/business/automobiles/hyundai-honda-feature-us-hybrids-at-auto-show-amid-investment-wave": {
       "title": "Hyundai, Honda feature US hybrids at auto show amid investment wave",
@@ -1288,7 +1277,18 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-11-21T04:01:27.033878+00:00",
-      "last_seen_at": "2026-11-21T04:01:27.033878+00:00"
+      "last_seen_at": "2026-11-21T16:50:24.152847+00:00"
+    },
+    "https://www.channelnewsasia.com/business/softbanks-son-explored-1-trillion-buyout-sk-hynix-information-reports-6571306": {
+      "title": "SoftBank’s Son explored $1 trillion buyout of SK Hynix, the Information reports",
+      "link": "https://www.channelnewsasia.com/business/softbanks-son-explored-1-trillion-buyout-sk-hynix-information-reports-6571306",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-11-21T16:50:24.152847+00:00",
+      "last_seen_at": "2026-11-21T16:50:24.152847+00:00"
     }
   }
 }
