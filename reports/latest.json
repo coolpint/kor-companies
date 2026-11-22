@@ -1,10 +1,10 @@
 {
-  "run_at": "2026-11-22T03:15:25.724330+00:00",
+  "run_at": "2026-11-22T17:13:00.288396+00:00",
   "summary": {
     "source_count": 73,
     "success_count": 67,
     "failed_count": 6,
-    "matched_count": 4,
+    "matched_count": 3,
     "new_count": 0
   },
   "new_articles": [],
@@ -23,29 +23,6 @@
       "source_name": "CNA Business",
       "country_code": "SG",
       "country_name_ko": "싱가포르",
-      "source_language": "en",
-      "matched_companies": [
-        "SK hynix"
-      ],
-      "matched_aliases": [
-        "SK hynix"
-      ],
-      "is_new": false
-    },
-    {
-      "article_key": "https://economictimes.indiatimes.com/tech/technology/softbanks-son-explored-1-trillion-buyout-of-sk-hynix-the-information/articleshow/136043315.cms",
-      "canonical_link": "https://economictimes.indiatimes.com/tech/technology/softbanks-son-explored-1-trillion-buyout-of-sk-hynix-the-information/articleshow/136043315.cms",
-      "link": "https://economictimes.indiatimes.com/tech/technology/softbanks-son-explored-1-trillion-buyout-of-sk-hynix-the-information/articleshow/136043315.cms",
-      "title": "SoftBank's Son explored $1 trillion buyout of SK Hynix: The Information",
-      "summary": "SK hynix 관련 기사다. 기사 제목은 'SoftBank's Son explored $1 trillion buyout of SK Hynix: The Information'이다. SoftBank and SK Hynix did not immediately respond to Reuters requests for comment on the report, which cited people familiar with the matter. The Information Son quoted a SoftBank spokesperson as saying the company was no longer considering such a deal. The Information Son quoted a SoftBank spokesperson as saying the company was no longer considering such a deal Listen to this article in summarized format Reuters SoftBank Group CEO Masayoshi Son recently approached Wall Street institutions about financing a possible trillion-dollar buyout of South Korea memory chip giant SK Hynix , the Information reported on Friday SoftBank and SK Hynix did not immediately respond to Reuters requests for comment on the report, which cited people familiar with the matter The Information Son quoted a SoftBank spokesperson as saying the company was no longer considering such a deal Add as a Reliable and Trusted News Source Add Now. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "SoftBank's Son explored $1 trillion buyout of SK Hynix: The Information",
-      "original_summary": "SoftBank and SK Hynix did not immediately respond to Reuters requests for comment on the report, which cited people familiar with the matter. The Information Son quoted a SoftBank spokesperson as saying the company was no longer considering such a deal.",
-      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SoftBank's Son explored $1 trillion buyout of SK Hynix: The Information'이다. SoftBank and SK Hynix did not immediately respond to Reuters requests for comment on the report, which cited people familiar with the matter. The Information Son quoted a SoftBank spokesperson as saying the company was no longer considering such a deal. The Information Son quoted a SoftBank spokesperson as saying the company was no longer considering such a deal Listen to this article in summarized format Reuters SoftBank Group CEO Masayoshi Son recently approached Wall Street institutions about financing a possible trillion-dollar buyout of South Korea memory chip giant SK Hynix , the Information reported on Friday SoftBank and SK Hynix did not immediately respond to Reuters requests for comment on the report, which cited people familiar with the matter The Information Son quoted a SoftBank spokesperson as saying the company was no longer considering such a deal Add as a Reliable and Trusted News Source Add Now. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-11-21T02:46:30+00:00",
-      "source_id": "economic_times_tech",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "country_name_ko": "인도",
       "source_language": "en",
       "matched_companies": [
         "SK hynix"
@@ -108,7 +85,7 @@
       "source_name": "The New York Times Business",
       "country_code": "US",
       "success": true,
-      "item_count": 47,
+      "item_count": 48,
       "matched_count": 0,
       "error": ""
     },
@@ -117,7 +94,7 @@
       "source_name": "The New York Times Technology",
       "country_code": "US",
       "success": true,
-      "item_count": 41,
+      "item_count": 42,
       "matched_count": 0,
       "error": ""
     },
@@ -333,7 +310,7 @@
       "source_name": "tagesschau Wirtschaft",
       "country_code": "DE",
       "success": true,
-      "item_count": 35,
+      "item_count": 38,
       "matched_count": 0,
       "error": ""
     },
@@ -369,7 +346,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 27,
+      "item_count": 29,
       "matched_count": 0,
       "error": ""
     },
@@ -604,7 +581,7 @@
       "country_code": "IN",
       "success": true,
       "item_count": 50,
-      "matched_count": 1,
+      "matched_count": 0,
       "error": ""
     },
     {
@@ -639,7 +616,7 @@
       "source_name": "CNA Asia",
       "country_code": "SG",
       "success": true,
-      "item_count": 20,
+      "item_count": 15,
       "matched_count": 0,
       "error": ""
     },
@@ -657,7 +634,7 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 15,
+      "item_count": 8,
       "matched_count": 0,
       "error": ""
     },

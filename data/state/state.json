@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-22T03:15:25.724330+00:00",
+  "last_run_at": "2026-11-22T17:13:00.288396+00:00",
   "seen_articles": {
     "https://www.thehindubusinessline.com/companies/automakers-build-up-inventory-to-meet-festive-season-demand/article71542971.ece": {
       "title": "Automakers build up inventory to meet festive season demand",
@@ -13,17 +13,6 @@
       "first_seen_at": "2026-10-04T14:42:16.382832+00:00",
       "last_seen_at": "2026-10-16T01:03:38.508448+00:00"
     },
-    "https://economictimes.indiatimes.com/tech/artificial-intelligence/humanoid-robot-maker-boston-dynamics-appoints-ex-amazon-executive-rohit-prasad-as-ceo/articleshow/134755782.cms": {
-      "title": "Humanoid robot maker Boston Dynamics appoints ex-Amazon executive Rohit Prasad as CEO",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/humanoid-robot-maker-boston-dynamics-appoints-ex-amazon-executive-rohit-prasad-as-ceo/articleshow/134755782.cms",
-      "source_name": "The Economic Times Tech",
-      "country_code": "IN",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-10-07T16:12:35.675305+00:00",
-      "last_seen_at": "2026-10-08T16:13:46.941946+00:00"
-    },
     "https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html": {
       "title": "Samsung forecasts record third-quarter profit of $80 billion as AI boom fuels chip demand",
       "link": "https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html",
@@ -34,17 +23,6 @@
       ],
       "first_seen_at": "2026-10-08T02:36:06.591903+00:00",
       "last_seen_at": "2026-10-09T02:50:51.563931+00:00"
-    },
-    "https://www.cnbc.com/2026/10/07/jamieson-greer-financial-disclosure-coupang.html": {
-      "title": "Trump trade chief Greer reports higher cash holdings as law firm pay topped $650K",
-      "link": "https://www.cnbc.com/2026/10/07/jamieson-greer-financial-disclosure-coupang.html",
-      "source_name": "CNBC Top News",
-      "country_code": "US",
-      "companies": [
-        "Coupang"
-      ],
-      "first_seen_at": "2026-10-08T02:36:06.591903+00:00",
-      "last_seen_at": "2026-10-08T16:13:46.941946+00:00"
     },
     "https://www.channelnewsasia.com/business/samsung-record-profit-demand-ai-6441041": {
       "title": "Samsung flags US$80 billion profit on AI boom, highest quarterly for any tech company",
@@ -1222,7 +1200,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-11-20T17:52:38.916885+00:00",
-      "last_seen_at": "2026-11-22T03:15:25.724330+00:00"
+      "last_seen_at": "2026-11-22T17:13:00.288396+00:00"
     },
     "https://www.channelnewsasia.com/business/sk-hynix-become-top-shareholder-in-rival-kioxia-after-bond-conversion-6569061": {
       "title": "SK Hynix to become top shareholder in rival Kioxia after bond conversion",
@@ -1266,7 +1244,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-11-21T04:01:27.033878+00:00",
-      "last_seen_at": "2026-11-22T03:15:25.724330+00:00"
+      "last_seen_at": "2026-11-22T17:13:00.288396+00:00"
     },
     "https://www.channelnewsasia.com/business/softbanks-son-explored-1-trillion-buyout-sk-hynix-information-reports-6571306": {
       "title": "SoftBank’s Son explored $1 trillion buyout of SK Hynix, the Information reports",
@@ -1277,7 +1255,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-11-21T16:50:24.152847+00:00",
-      "last_seen_at": "2026-11-22T03:15:25.724330+00:00"
+      "last_seen_at": "2026-11-22T17:13:00.288396+00:00"
     }
   }
 }
