@@ -1,37 +1,13 @@
 {
-  "run_at": "2026-11-21T16:50:24.152847+00:00",
+  "run_at": "2026-11-22T03:15:25.724330+00:00",
   "summary": {
     "source_count": 73,
     "success_count": 67,
     "failed_count": 6,
     "matched_count": 4,
-    "new_count": 1
+    "new_count": 0
   },
-  "new_articles": [
-    {
-      "article_key": "https://www.channelnewsasia.com/business/softbanks-son-explored-1-trillion-buyout-sk-hynix-information-reports-6571306",
-      "canonical_link": "https://www.channelnewsasia.com/business/softbanks-son-explored-1-trillion-buyout-sk-hynix-information-reports-6571306",
-      "link": "https://www.channelnewsasia.com/business/softbanks-son-explored-1-trillion-buyout-sk-hynix-information-reports-6571306",
-      "title": "SoftBank’s Son explored $1 trillion buyout of SK Hynix, the Information reports",
-      "summary": "SK hynix 관련 기사다. 기사 제목은 'SoftBank’s Son explored $1 trillion buyout of SK Hynix, the Information reports'이다. Channel NewsAsia is an English-language news organization based in Singapore. Nov 20 : SoftBank Group CEO Masayoshi Son recently approached Wall Street institutions about financing a possible trillion-dollar \"buyout\" of South Korean memory chip company SK Hynix, the Information reported on Friday, citing people familiar with the matter. The Information quoted a SoftBank spokesperson. REUTERS/Manami Yamada/File Photo FILE PHOTO: SK hynix logo is seen in this illustration taken June 11, 2026 Click here to return to FAST Tap here to return to FAST FAST Nov 20 : SoftBank Group CEO Masayoshi Son recently approached Wall Street institutions about financing a possible trillion-dollar \"buyout\" of South Korean memory chip company SK Hynix, the Information reported on Friday, citing people familiar with the matter “SoftBank explores many opportunities, and this one is no longer under active consideration,” the report said, citing the spokesperson SK Hynix said in a statement it has no knowledge of the matter described in the Information report It added that any foreign acquisition of the company would require prior government approval under Korean law. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "SoftBank’s Son explored $1 trillion buyout of SK Hynix, the Information reports",
-      "original_summary": "",
-      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SoftBank’s Son explored $1 trillion buyout of SK Hynix, the Information reports'이다. Channel NewsAsia is an English-language news organization based in Singapore. Nov 20 : SoftBank Group CEO Masayoshi Son recently approached Wall Street institutions about financing a possible trillion-dollar \"buyout\" of South Korean memory chip company SK Hynix, the Information reported on Friday, citing people familiar with the matter. The Information quoted a SoftBank spokesperson. REUTERS/Manami Yamada/File Photo FILE PHOTO: SK hynix logo is seen in this illustration taken June 11, 2026 Click here to return to FAST Tap here to return to FAST FAST Nov 20 : SoftBank Group CEO Masayoshi Son recently approached Wall Street institutions about financing a possible trillion-dollar \"buyout\" of South Korean memory chip company SK Hynix, the Information reported on Friday, citing people familiar with the matter “SoftBank explores many opportunities, and this one is no longer under active consideration,” the report said, citing the spokesperson SK Hynix said in a statement it has no knowledge of the matter described in the Information report It added that any foreign acquisition of the company would require prior government approval under Korean law. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-11-21T05:57:39+00:00",
-      "source_id": "cna_business",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "country_name_ko": "싱가포르",
-      "source_language": "en",
-      "matched_companies": [
-        "SK hynix"
-      ],
-      "matched_aliases": [
-        "SK hynix"
-      ],
-      "is_new": true
-    }
-  ],
+  "new_articles": [],
   "matched_articles": [
     {
       "article_key": "https://www.channelnewsasia.com/business/softbanks-son-explored-1-trillion-buyout-sk-hynix-information-reports-6571306",
@@ -54,7 +30,7 @@
       "matched_aliases": [
         "SK hynix"
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "article_key": "https://economictimes.indiatimes.com/tech/technology/softbanks-son-explored-1-trillion-buyout-of-sk-hynix-the-information/articleshow/136043315.cms",
@@ -141,7 +117,7 @@
       "source_name": "The New York Times Technology",
       "country_code": "US",
       "success": true,
-      "item_count": 42,
+      "item_count": 41,
       "matched_count": 0,
       "error": ""
     },
@@ -357,7 +333,7 @@
       "source_name": "tagesschau Wirtschaft",
       "country_code": "DE",
       "success": true,
-      "item_count": 34,
+      "item_count": 35,
       "matched_count": 0,
       "error": ""
     },
@@ -393,7 +369,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 25,
+      "item_count": 27,
       "matched_count": 0,
       "error": ""
     },
@@ -681,7 +657,7 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 27,
+      "item_count": 15,
       "matched_count": 0,
       "error": ""
     },

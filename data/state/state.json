@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-21T16:50:24.152847+00:00",
+  "last_run_at": "2026-11-22T03:15:25.724330+00:00",
   "seen_articles": {
     "https://www.thehindubusinessline.com/companies/automakers-build-up-inventory-to-meet-festive-season-demand/article71542971.ece": {
       "title": "Automakers build up inventory to meet festive season demand",
@@ -34,17 +34,6 @@
       ],
       "first_seen_at": "2026-10-08T02:36:06.591903+00:00",
       "last_seen_at": "2026-10-09T02:50:51.563931+00:00"
-    },
-    "https://www.channelnewsasia.com/business/lg-energy-solution-flags-26-rise-in-q3-operating-profit-6441106": {
-      "title": "LG Energy Solution flags 26% rise in Q3 operating profit",
-      "link": "https://www.channelnewsasia.com/business/lg-energy-solution-flags-26-rise-in-q3-operating-profit-6441106",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "LG Energy Solution"
-      ],
-      "first_seen_at": "2026-10-08T02:36:06.591903+00:00",
-      "last_seen_at": "2026-10-08T02:36:06.591903+00:00"
     },
     "https://www.cnbc.com/2026/10/07/jamieson-greer-financial-disclosure-coupang.html": {
       "title": "Trump trade chief Greer reports higher cash holdings as law firm pay topped $650K",
@@ -1233,7 +1222,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-11-20T17:52:38.916885+00:00",
-      "last_seen_at": "2026-11-21T16:50:24.152847+00:00"
+      "last_seen_at": "2026-11-22T03:15:25.724330+00:00"
     },
     "https://www.channelnewsasia.com/business/sk-hynix-become-top-shareholder-in-rival-kioxia-after-bond-conversion-6569061": {
       "title": "SK Hynix to become top shareholder in rival Kioxia after bond conversion",
@@ -1266,7 +1255,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-11-21T04:01:27.033878+00:00",
-      "last_seen_at": "2026-11-21T16:50:24.152847+00:00"
+      "last_seen_at": "2026-11-22T03:15:25.724330+00:00"
     },
     "https://asia.nikkei.com/business/automobiles/hyundai-honda-feature-us-hybrids-at-auto-show-amid-investment-wave": {
       "title": "Hyundai, Honda feature US hybrids at auto show amid investment wave",
@@ -1277,7 +1266,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-11-21T04:01:27.033878+00:00",
-      "last_seen_at": "2026-11-21T16:50:24.152847+00:00"
+      "last_seen_at": "2026-11-22T03:15:25.724330+00:00"
     },
     "https://www.channelnewsasia.com/business/softbanks-son-explored-1-trillion-buyout-sk-hynix-information-reports-6571306": {
       "title": "SoftBank’s Son explored $1 trillion buyout of SK Hynix, the Information reports",
@@ -1288,7 +1277,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-11-21T16:50:24.152847+00:00",
-      "last_seen_at": "2026-11-21T16:50:24.152847+00:00"
+      "last_seen_at": "2026-11-22T03:15:25.724330+00:00"
     }
   }
 }
