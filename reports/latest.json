@@ -1,46 +1,23 @@
 {
-  "run_at": "2026-11-22T17:13:00.288396+00:00",
+  "run_at": "2026-11-23T03:45:28.037732+00:00",
   "summary": {
     "source_count": 73,
-    "success_count": 67,
-    "failed_count": 6,
-    "matched_count": 3,
+    "success_count": 65,
+    "failed_count": 8,
+    "matched_count": 2,
     "new_count": 0
   },
   "new_articles": [],
   "matched_articles": [
     {
-      "article_key": "https://www.channelnewsasia.com/business/softbanks-son-explored-1-trillion-buyout-sk-hynix-information-reports-6571306",
-      "canonical_link": "https://www.channelnewsasia.com/business/softbanks-son-explored-1-trillion-buyout-sk-hynix-information-reports-6571306",
-      "link": "https://www.channelnewsasia.com/business/softbanks-son-explored-1-trillion-buyout-sk-hynix-information-reports-6571306",
-      "title": "SoftBank’s Son explored $1 trillion buyout of SK Hynix, the Information reports",
-      "summary": "SK hynix 관련 기사다. 기사 제목은 'SoftBank’s Son explored $1 trillion buyout of SK Hynix, the Information reports'이다. Channel NewsAsia is an English-language news organization based in Singapore. Nov 20 : SoftBank Group CEO Masayoshi Son recently approached Wall Street institutions about financing a possible trillion-dollar \"buyout\" of South Korean memory chip company SK Hynix, the Information reported on Friday, citing people familiar with the matter. The Information quoted a SoftBank spokesperson. REUTERS/Manami Yamada/File Photo FILE PHOTO: SK hynix logo is seen in this illustration taken June 11, 2026 Click here to return to FAST Tap here to return to FAST FAST Nov 20 : SoftBank Group CEO Masayoshi Son recently approached Wall Street institutions about financing a possible trillion-dollar \"buyout\" of South Korean memory chip company SK Hynix, the Information reported on Friday, citing people familiar with the matter “SoftBank explores many opportunities, and this one is no longer under active consideration,” the report said, citing the spokesperson SK Hynix said in a statement it has no knowledge of the matter described in the Information report It added that any foreign acquisition of the company would require prior government approval under Korean law. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "SoftBank’s Son explored $1 trillion buyout of SK Hynix, the Information reports",
-      "original_summary": "",
-      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'SoftBank’s Son explored $1 trillion buyout of SK Hynix, the Information reports'이다. Channel NewsAsia is an English-language news organization based in Singapore. Nov 20 : SoftBank Group CEO Masayoshi Son recently approached Wall Street institutions about financing a possible trillion-dollar \"buyout\" of South Korean memory chip company SK Hynix, the Information reported on Friday, citing people familiar with the matter. The Information quoted a SoftBank spokesperson. REUTERS/Manami Yamada/File Photo FILE PHOTO: SK hynix logo is seen in this illustration taken June 11, 2026 Click here to return to FAST Tap here to return to FAST FAST Nov 20 : SoftBank Group CEO Masayoshi Son recently approached Wall Street institutions about financing a possible trillion-dollar \"buyout\" of South Korean memory chip company SK Hynix, the Information reported on Friday, citing people familiar with the matter “SoftBank explores many opportunities, and this one is no longer under active consideration,” the report said, citing the spokesperson SK Hynix said in a statement it has no knowledge of the matter described in the Information report It added that any foreign acquisition of the company would require prior government approval under Korean law. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-11-21T05:57:39+00:00",
-      "source_id": "cna_business",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "country_name_ko": "싱가포르",
-      "source_language": "en",
-      "matched_companies": [
-        "SK hynix"
-      ],
-      "matched_aliases": [
-        "SK hynix"
-      ],
-      "is_new": false
-    },
-    {
       "article_key": "https://asia.nikkei.com/business/automobiles/hyundai-honda-feature-us-hybrids-at-auto-show-amid-investment-wave",
       "canonical_link": "https://asia.nikkei.com/business/automobiles/hyundai-honda-feature-us-hybrids-at-auto-show-amid-investment-wave",
       "link": "https://asia.nikkei.com/business/automobiles/hyundai-honda-feature-us-hybrids-at-auto-show-amid-investment-wave",
       "title": "Hyundai, Honda feature US hybrids at auto show amid investment wave",
-      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai, Honda feature US hybrids at auto show amid investment wave'이다. LOS ANGELES -- South Korean and Japanese automakers are showcasing new hybrid vehicles at the Los Angeles Auto Show, highlighting growing investment. Automakers ride strong demand, step up local production as tariffs persist. Automobiles Hyundai, Honda feature US hybrids at auto show amid investment wave Automakers ride strong demand, step up local production as tariffs persist Hyundai Motor has announced a hybrid version of its mainstay Elantra sedan 6m vehicles over Takata airbag rupture risk Automobiles Japanese automakers brace for 3rd year of global sales decline Automobiles China carmakers outmaneuver Japan rivals in Myanmar with EV policy. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai, Honda feature US hybrids at auto show amid investment wave'이다. LOS ANGELES -- South Korean and Japanese automakers are showcasing new hybrid vehicles at the Los Angeles Auto Show, highlighting growing investment. Automakers ride strong demand, step up local production as tariffs persist. Automobiles Hyundai, Honda feature US hybrids at auto show amid investment wave Automakers ride strong demand, step up local production as tariffs persist Hyundai Motor has announced a hybrid version of its mainstay Elantra sedan 5bn in Indian manufacturing, R&D Automobiles Ford, GM hold on to China EV ties despite US curbs Electric vehicles Tesla lays groundwork to enter Vietnam's hot EV market Latest on Automobiles Automobiles Chinese automakers lead Japanese rivals in 39 markets, aided by EVs Automobiles Honda, Toyota recall 1 6m vehicles over Takata airbag rupture risk Automobiles Japanese automakers brace for 3rd year of global sales decline. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
       "original_title": "Hyundai, Honda feature US hybrids at auto show amid investment wave",
       "original_summary": "",
-      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai, Honda feature US hybrids at auto show amid investment wave'이다. LOS ANGELES -- South Korean and Japanese automakers are showcasing new hybrid vehicles at the Los Angeles Auto Show, highlighting growing investment. Automakers ride strong demand, step up local production as tariffs persist. Automobiles Hyundai, Honda feature US hybrids at auto show amid investment wave Automakers ride strong demand, step up local production as tariffs persist Hyundai Motor has announced a hybrid version of its mainstay Elantra sedan 6m vehicles over Takata airbag rupture risk Automobiles Japanese automakers brace for 3rd year of global sales decline Automobiles China carmakers outmaneuver Japan rivals in Myanmar with EV policy. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai, Honda feature US hybrids at auto show amid investment wave'이다. LOS ANGELES -- South Korean and Japanese automakers are showcasing new hybrid vehicles at the Los Angeles Auto Show, highlighting growing investment. Automakers ride strong demand, step up local production as tariffs persist. Automobiles Hyundai, Honda feature US hybrids at auto show amid investment wave Automakers ride strong demand, step up local production as tariffs persist Hyundai Motor has announced a hybrid version of its mainstay Elantra sedan 5bn in Indian manufacturing, R&D Automobiles Ford, GM hold on to China EV ties despite US curbs Electric vehicles Tesla lays groundwork to enter Vietnam's hot EV market Latest on Automobiles Automobiles Chinese automakers lead Japanese rivals in 39 markets, aided by EVs Automobiles Honda, Toyota recall 1 6m vehicles over Takata airbag rupture risk Automobiles Japanese automakers brace for 3rd year of global sales decline. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
       "published_at": "2026-11-20T17:56:39+00:00",
       "source_id": "nikkei_asia",
       "source_name": "Nikkei Asia",
@@ -94,7 +71,7 @@
       "source_name": "The New York Times Technology",
       "country_code": "US",
       "success": true,
-      "item_count": 42,
+      "item_count": 41,
       "matched_count": 0,
       "error": ""
     },
@@ -292,7 +269,7 @@
       "source_name": "Deutsche Welle World",
       "country_code": "DE",
       "success": true,
-      "item_count": 11,
+      "item_count": 10,
       "matched_count": 0,
       "error": ""
     },
@@ -337,7 +314,7 @@
       "source_name": "BBC Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 58,
+      "item_count": 46,
       "matched_count": 0,
       "error": ""
     },
@@ -346,7 +323,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 29,
+      "item_count": 37,
       "matched_count": 0,
       "error": ""
     },
@@ -607,8 +584,8 @@
       "source_name": "CNA Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 20,
-      "matched_count": 1,
+      "item_count": 9,
+      "matched_count": 0,
       "error": ""
     },
     {
@@ -616,7 +593,7 @@
       "source_name": "CNA Asia",
       "country_code": "SG",
       "success": true,
-      "item_count": 15,
+      "item_count": 11,
       "matched_count": 0,
       "error": ""
     },
@@ -634,7 +611,7 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 8,
+      "item_count": 13,
       "matched_count": 0,
       "error": ""
     },
@@ -705,19 +682,19 @@
       "source_id": "bangkok_post_business",
       "source_name": "Bangkok Post Business",
       "country_code": "TH",
-      "success": true,
-      "item_count": 10,
+      "success": false,
+      "item_count": 0,
       "matched_count": 0,
-      "error": ""
+      "error": "HTTP 451 for https://www.bangkokpost.com/rss/data/business.xml"
     },
     {
       "source_id": "bangkok_post_world",
       "source_name": "Bangkok Post World",
       "country_code": "TH",
-      "success": true,
-      "item_count": 10,
+      "success": false,
+      "item_count": 0,
       "matched_count": 0,
-      "error": ""
+      "error": "HTTP 451 for https://www.bangkokpost.com/rss/data/world.xml"
     },
     {
       "source_id": "mexico_news_daily",
