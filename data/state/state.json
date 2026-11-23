@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-23T03:45:28.037732+00:00",
+  "last_run_at": "2026-11-23T21:30:24.573561+00:00",
   "seen_articles": {
     "https://www.thehindubusinessline.com/companies/automakers-build-up-inventory-to-meet-festive-season-demand/article71542971.ece": {
       "title": "Automakers build up inventory to meet festive season demand",
@@ -12,28 +12,6 @@
       ],
       "first_seen_at": "2026-10-04T14:42:16.382832+00:00",
       "last_seen_at": "2026-10-16T01:03:38.508448+00:00"
-    },
-    "https://www.euronews.com/2026/10/08/samsung-flags-783-profit-jump-to-record-80bn-as-ai-chip-boom-also-lifts-tsmc-sales": {
-      "title": "Samsung flags 783% profit jump to record $80bn as AI chip boom also lifts TSMC sales",
-      "link": "https://www.euronews.com/2026/10/08/samsung-flags-783-profit-jump-to-record-80bn-as-ai-chip-boom-also-lifts-tsmc-sales",
-      "source_name": "Euronews Business",
-      "country_code": "EU",
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "first_seen_at": "2026-10-08T16:13:46.941946+00:00",
-      "last_seen_at": "2026-10-09T15:58:00.387917+00:00"
-    },
-    "https://asia.nikkei.com/business/tech/semiconductors/samsung-sk-hynix-record-earnings-fuel-south-korea-spending-on-ai-youth": {
-      "title": "Samsung, SK Hynix record earnings fuel South Korea spending on AI, youth",
-      "link": "https://asia.nikkei.com/business/tech/semiconductors/samsung-sk-hynix-record-earnings-fuel-south-korea-spending-on-ai-youth",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-10-09T02:50:51.563931+00:00",
-      "last_seen_at": "2026-10-09T15:58:00.387917+00:00"
     },
     "https://www.scmp.com/tech/big-tech/article/3370505/chinas-cxmt-unveils-key-progress-chip-structure-pursued-samsung-sk-hynix": {
       "title": "China’s CXMT unveils ‘key progress’ on chip structure pursued by Samsung, SK Hynix",
@@ -1200,7 +1178,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-11-21T04:01:27.033878+00:00",
-      "last_seen_at": "2026-11-23T03:45:28.037732+00:00"
+      "last_seen_at": "2026-11-23T21:30:24.573561+00:00"
     },
     "https://www.channelnewsasia.com/business/softbanks-son-explored-1-trillion-buyout-sk-hynix-information-reports-6571306": {
       "title": "SoftBank’s Son explored $1 trillion buyout of SK Hynix, the Information reports",
