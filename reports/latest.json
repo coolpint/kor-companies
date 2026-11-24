@@ -1,38 +1,14 @@
 {
-  "run_at": "2026-11-23T21:30:24.573561+00:00",
+  "run_at": "2026-11-24T06:58:36.249616+00:00",
   "summary": {
     "source_count": 73,
-    "success_count": 66,
-    "failed_count": 7,
-    "matched_count": 1,
+    "success_count": 67,
+    "failed_count": 6,
+    "matched_count": 0,
     "new_count": 0
   },
   "new_articles": [],
-  "matched_articles": [
-    {
-      "article_key": "https://asia.nikkei.com/business/automobiles/hyundai-honda-feature-us-hybrids-at-auto-show-amid-investment-wave",
-      "canonical_link": "https://asia.nikkei.com/business/automobiles/hyundai-honda-feature-us-hybrids-at-auto-show-amid-investment-wave",
-      "link": "https://asia.nikkei.com/business/automobiles/hyundai-honda-feature-us-hybrids-at-auto-show-amid-investment-wave",
-      "title": "Hyundai, Honda feature US hybrids at auto show amid investment wave",
-      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai, Honda feature US hybrids at auto show amid investment wave'이다. LOS ANGELES -- South Korean and Japanese automakers are showcasing new hybrid vehicles at the Los Angeles Auto Show, highlighting growing investment. Automakers ride strong demand, step up local production as tariffs persist. Automobiles Hyundai, Honda feature US hybrids at auto show amid investment wave Automakers ride strong demand, step up local production as tariffs persist Hyundai Motor has announced a hybrid version of its mainstay Elantra sedan 5bn in Indian manufacturing, R&D Automobiles Ford, GM hold on to China EV ties despite US curbs Electric vehicles Tesla lays groundwork to enter Vietnam's hot EV market Latest on Automobiles Automobiles Chinese automakers lead Japanese rivals in 39 markets, aided by EVs Automobiles Honda, Toyota recall 1 6m vehicles over Takata airbag rupture risk Automobiles Japanese automakers brace for 3rd year of global sales decline. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Hyundai, Honda feature US hybrids at auto show amid investment wave",
-      "original_summary": "",
-      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai, Honda feature US hybrids at auto show amid investment wave'이다. LOS ANGELES -- South Korean and Japanese automakers are showcasing new hybrid vehicles at the Los Angeles Auto Show, highlighting growing investment. Automakers ride strong demand, step up local production as tariffs persist. Automobiles Hyundai, Honda feature US hybrids at auto show amid investment wave Automakers ride strong demand, step up local production as tariffs persist Hyundai Motor has announced a hybrid version of its mainstay Elantra sedan 5bn in Indian manufacturing, R&D Automobiles Ford, GM hold on to China EV ties despite US curbs Electric vehicles Tesla lays groundwork to enter Vietnam's hot EV market Latest on Automobiles Automobiles Chinese automakers lead Japanese rivals in 39 markets, aided by EVs Automobiles Honda, Toyota recall 1 6m vehicles over Takata airbag rupture risk Automobiles Japanese automakers brace for 3rd year of global sales decline. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-11-20T17:56:39+00:00",
-      "source_id": "nikkei_asia",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "country_name_ko": "일본",
-      "source_language": "en",
-      "matched_companies": [
-        "Hyundai Motor"
-      ],
-      "matched_aliases": [
-        "Hyundai"
-      ],
-      "is_new": false
-    }
-  ],
+  "matched_articles": [],
   "source_runs": [
     {
       "source_id": "nyt_business",
@@ -48,7 +24,7 @@
       "source_name": "The New York Times Technology",
       "country_code": "US",
       "success": true,
-      "item_count": 44,
+      "item_count": 46,
       "matched_count": 0,
       "error": ""
     },
@@ -92,10 +68,10 @@
       "source_id": "us_doj_press_releases",
       "source_name": "U.S. DOJ Press Releases",
       "country_code": "US",
-      "success": false,
-      "item_count": 0,
+      "success": true,
+      "item_count": 25,
       "matched_count": 0,
-      "error": "HTTP 403 for https://www.justice.gov/news/rss?m=1&type=press_release"
+      "error": ""
     },
     {
       "source_id": "sec_press_releases",
@@ -148,7 +124,7 @@
       "country_code": "JP",
       "success": true,
       "item_count": 50,
-      "matched_count": 1,
+      "matched_count": 0,
       "error": ""
     },
     {
@@ -264,7 +240,7 @@
       "source_name": "tagesschau Wirtschaft",
       "country_code": "DE",
       "success": true,
-      "item_count": 35,
+      "item_count": 37,
       "matched_count": 0,
       "error": ""
     },
@@ -291,7 +267,7 @@
       "source_name": "BBC Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 54,
+      "item_count": 56,
       "matched_count": 0,
       "error": ""
     },
@@ -300,7 +276,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 33,
+      "item_count": 22,
       "matched_count": 0,
       "error": ""
     },
@@ -570,7 +546,7 @@
       "source_name": "CNA Asia",
       "country_code": "SG",
       "success": true,
-      "item_count": 18,
+      "item_count": 20,
       "matched_count": 0,
       "error": ""
     },
@@ -588,7 +564,7 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 23,
+      "item_count": 37,
       "matched_count": 0,
       "error": ""
     },
