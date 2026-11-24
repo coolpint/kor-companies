@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-24T06:58:36.249616+00:00",
+  "last_run_at": "2026-11-24T20:13:24.035560+00:00",
   "seen_articles": {
     "https://www.thehindubusinessline.com/companies/automakers-build-up-inventory-to-meet-festive-season-demand/article71542971.ece": {
       "title": "Automakers build up inventory to meet festive season demand",
@@ -1190,6 +1190,28 @@
       ],
       "first_seen_at": "2026-11-21T16:50:24.152847+00:00",
       "last_seen_at": "2026-11-22T17:13:00.288396+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/hyundai-tata-join-maruti-in-raising-prices-ahead-of-december-discount-season/article71738278.ece": {
+      "title": "Hyundai, Tata join Maruti in raising prices ahead of December discount season",
+      "link": "https://www.thehindubusinessline.com/companies/hyundai-tata-join-maruti-in-raising-prices-ahead-of-december-discount-season/article71738278.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-11-24T20:13:24.035560+00:00",
+      "last_seen_at": "2026-11-24T20:13:24.035560+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/hyundai-motor-india-to-raise-prices-by-up-to-8000-from-december-1/article71737642.ece": {
+      "title": "Hyundai Motor India to raise prices by up to ₹8,000 from December 1",
+      "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-to-raise-prices-by-up-to-8000-from-december-1/article71737642.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-11-24T20:13:24.035560+00:00",
+      "last_seen_at": "2026-11-24T20:13:24.035560+00:00"
     }
   }
 }

@@ -1,14 +1,110 @@
 {
-  "run_at": "2026-11-24T06:58:36.249616+00:00",
+  "run_at": "2026-11-24T20:13:24.035560+00:00",
   "summary": {
     "source_count": 73,
     "success_count": 67,
     "failed_count": 6,
-    "matched_count": 0,
-    "new_count": 0
+    "matched_count": 2,
+    "new_count": 2
   },
-  "new_articles": [],
-  "matched_articles": [],
+  "new_articles": [
+    {
+      "article_key": "https://www.thehindubusinessline.com/companies/hyundai-tata-join-maruti-in-raising-prices-ahead-of-december-discount-season/article71738278.ece",
+      "canonical_link": "https://www.thehindubusinessline.com/companies/hyundai-tata-join-maruti-in-raising-prices-ahead-of-december-discount-season/article71738278.ece",
+      "link": "https://www.thehindubusinessline.com/companies/hyundai-tata-join-maruti-in-raising-prices-ahead-of-december-discount-season/article71738278.ece",
+      "title": "Hyundai, Tata join Maruti in raising prices ahead of December discount season",
+      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai, Tata join Maruti in raising prices ahead of December discount season'이다. Carmakers caught between rising input costs and the need to sustain sales momentum. com/companies/hyundai-tata-join-maruti-in-raising-prices-ahead-of-december-discount-season/article71738278 ece Hyundai Motor India and Tata Motors Passenger Vehicles on Tuesday announced their fourth price hikes of calendar 2026, effective December 1 India’s leading carmakers are raising prices ahead of the traditional December discount season, setting up a contest between manufacturers seeking to protect margins and dealers looking to liquidate inventory before the model-year change Hyundai will raise prices of select models and variants by up to ₹8,000, while Tata Motors will increase prices by an average of 0 “While TMPV continues to absorb a significant portion of these increases, a part of the impact is being passed on to customers through this increase,” Tata Motors said Hyundai attributed its latest revision to a “steep increase in input costs”. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Hyundai, Tata join Maruti in raising prices ahead of December discount season",
+      "original_summary": "Carmakers caught between rising input costs and the need to sustain sales momentum",
+      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai, Tata join Maruti in raising prices ahead of December discount season'이다. Carmakers caught between rising input costs and the need to sustain sales momentum. com/companies/hyundai-tata-join-maruti-in-raising-prices-ahead-of-december-discount-season/article71738278 ece Hyundai Motor India and Tata Motors Passenger Vehicles on Tuesday announced their fourth price hikes of calendar 2026, effective December 1 India’s leading carmakers are raising prices ahead of the traditional December discount season, setting up a contest between manufacturers seeking to protect margins and dealers looking to liquidate inventory before the model-year change Hyundai will raise prices of select models and variants by up to ₹8,000, while Tata Motors will increase prices by an average of 0 “While TMPV continues to absorb a significant portion of these increases, a part of the impact is being passed on to customers through this increase,” Tata Motors said Hyundai attributed its latest revision to a “steep increase in input costs”. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-24T14:45:38+00:00",
+      "source_id": "businessline_companies",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "country_name_ko": "인도",
+      "source_language": "en",
+      "matched_companies": [
+        "Hyundai Motor"
+      ],
+      "matched_aliases": [
+        "Hyundai"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-to-raise-prices-by-up-to-8000-from-december-1/article71737642.ece",
+      "canonical_link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-to-raise-prices-by-up-to-8000-from-december-1/article71737642.ece",
+      "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-to-raise-prices-by-up-to-8000-from-december-1/article71737642.ece",
+      "title": "Hyundai Motor India to raise prices by up to ₹8,000 from December 1",
+      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Motor India to raise prices by up to ₹8,000 from December 1'이다. ‌The price hike, which will vary ‌across models and variants, ‌is ⁠aimed at partly ⁠offsetting a sharp increase in input costs. Hyundai Motor India to raise prices by up to ₹8,000 from December 1 ‌The price hike, which will vary ‌across models and variants, ‌is ⁠aimed at partly ⁠offsetting a sharp increase in input costs By Reuters Updated - November 24, 2026 at 01:10 PM ece Hyundai Motor India will increase prices ​of select vehicle models ‌and variants by up ​to ₹8,000 ($86 | Photo Credit: WILLY KURNIAWAN Hyundai Motor India will increase prices ​of select vehicle models ‌and variants by up ​to ₹8,000 ($86 ‌The price hike, which will vary ‌across models and variants, ‌is ⁠aimed at partly ⁠offsetting a sharp increase in input costs Automakers in India ​have been ‌battling higher raw material costs, particularly for steel and copper Supply-chain disruptions ‌linked to the prolonged ​Middle East conflict have also added pressure ⁠on margins, prompting several manufacturers to raise vehicle ‌prices Hyundai said it had absorbed a substantial portion of the cost inflation through internal efficiency gains and cost-optimisation ‌measures Hyundai India's latest ​price hike comes after market leader Maruti Suzuki ⁠said it will hike ⁠prices on select models due to rising ‌commodity costs. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Hyundai Motor India to raise prices by up to ₹8,000 from December 1",
+      "original_summary": "‌The price hike, which will vary ‌across models and variants, ‌is ⁠aimed at partly ⁠offsetting a sharp increase in input costs",
+      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Motor India to raise prices by up to ₹8,000 from December 1'이다. ‌The price hike, which will vary ‌across models and variants, ‌is ⁠aimed at partly ⁠offsetting a sharp increase in input costs. Hyundai Motor India to raise prices by up to ₹8,000 from December 1 ‌The price hike, which will vary ‌across models and variants, ‌is ⁠aimed at partly ⁠offsetting a sharp increase in input costs By Reuters Updated - November 24, 2026 at 01:10 PM ece Hyundai Motor India will increase prices ​of select vehicle models ‌and variants by up ​to ₹8,000 ($86 | Photo Credit: WILLY KURNIAWAN Hyundai Motor India will increase prices ​of select vehicle models ‌and variants by up ​to ₹8,000 ($86 ‌The price hike, which will vary ‌across models and variants, ‌is ⁠aimed at partly ⁠offsetting a sharp increase in input costs Automakers in India ​have been ‌battling higher raw material costs, particularly for steel and copper Supply-chain disruptions ‌linked to the prolonged ​Middle East conflict have also added pressure ⁠on margins, prompting several manufacturers to raise vehicle ‌prices Hyundai said it had absorbed a substantial portion of the cost inflation through internal efficiency gains and cost-optimisation ‌measures Hyundai India's latest ​price hike comes after market leader Maruti Suzuki ⁠said it will hike ⁠prices on select models due to rising ‌commodity costs. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-24T07:40:59+00:00",
+      "source_id": "businessline_companies",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "country_name_ko": "인도",
+      "source_language": "en",
+      "matched_companies": [
+        "Hyundai Motor"
+      ],
+      "matched_aliases": [
+        "Hyundai Motor",
+        "Hyundai"
+      ],
+      "is_new": true
+    }
+  ],
+  "matched_articles": [
+    {
+      "article_key": "https://www.thehindubusinessline.com/companies/hyundai-tata-join-maruti-in-raising-prices-ahead-of-december-discount-season/article71738278.ece",
+      "canonical_link": "https://www.thehindubusinessline.com/companies/hyundai-tata-join-maruti-in-raising-prices-ahead-of-december-discount-season/article71738278.ece",
+      "link": "https://www.thehindubusinessline.com/companies/hyundai-tata-join-maruti-in-raising-prices-ahead-of-december-discount-season/article71738278.ece",
+      "title": "Hyundai, Tata join Maruti in raising prices ahead of December discount season",
+      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai, Tata join Maruti in raising prices ahead of December discount season'이다. Carmakers caught between rising input costs and the need to sustain sales momentum. com/companies/hyundai-tata-join-maruti-in-raising-prices-ahead-of-december-discount-season/article71738278 ece Hyundai Motor India and Tata Motors Passenger Vehicles on Tuesday announced their fourth price hikes of calendar 2026, effective December 1 India’s leading carmakers are raising prices ahead of the traditional December discount season, setting up a contest between manufacturers seeking to protect margins and dealers looking to liquidate inventory before the model-year change Hyundai will raise prices of select models and variants by up to ₹8,000, while Tata Motors will increase prices by an average of 0 “While TMPV continues to absorb a significant portion of these increases, a part of the impact is being passed on to customers through this increase,” Tata Motors said Hyundai attributed its latest revision to a “steep increase in input costs”. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Hyundai, Tata join Maruti in raising prices ahead of December discount season",
+      "original_summary": "Carmakers caught between rising input costs and the need to sustain sales momentum",
+      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai, Tata join Maruti in raising prices ahead of December discount season'이다. Carmakers caught between rising input costs and the need to sustain sales momentum. com/companies/hyundai-tata-join-maruti-in-raising-prices-ahead-of-december-discount-season/article71738278 ece Hyundai Motor India and Tata Motors Passenger Vehicles on Tuesday announced their fourth price hikes of calendar 2026, effective December 1 India’s leading carmakers are raising prices ahead of the traditional December discount season, setting up a contest between manufacturers seeking to protect margins and dealers looking to liquidate inventory before the model-year change Hyundai will raise prices of select models and variants by up to ₹8,000, while Tata Motors will increase prices by an average of 0 “While TMPV continues to absorb a significant portion of these increases, a part of the impact is being passed on to customers through this increase,” Tata Motors said Hyundai attributed its latest revision to a “steep increase in input costs”. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-24T14:45:38+00:00",
+      "source_id": "businessline_companies",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "country_name_ko": "인도",
+      "source_language": "en",
+      "matched_companies": [
+        "Hyundai Motor"
+      ],
+      "matched_aliases": [
+        "Hyundai"
+      ],
+      "is_new": true
+    },
+    {
+      "article_key": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-to-raise-prices-by-up-to-8000-from-december-1/article71737642.ece",
+      "canonical_link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-to-raise-prices-by-up-to-8000-from-december-1/article71737642.ece",
+      "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-to-raise-prices-by-up-to-8000-from-december-1/article71737642.ece",
+      "title": "Hyundai Motor India to raise prices by up to ₹8,000 from December 1",
+      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Motor India to raise prices by up to ₹8,000 from December 1'이다. ‌The price hike, which will vary ‌across models and variants, ‌is ⁠aimed at partly ⁠offsetting a sharp increase in input costs. Hyundai Motor India to raise prices by up to ₹8,000 from December 1 ‌The price hike, which will vary ‌across models and variants, ‌is ⁠aimed at partly ⁠offsetting a sharp increase in input costs By Reuters Updated - November 24, 2026 at 01:10 PM ece Hyundai Motor India will increase prices ​of select vehicle models ‌and variants by up ​to ₹8,000 ($86 | Photo Credit: WILLY KURNIAWAN Hyundai Motor India will increase prices ​of select vehicle models ‌and variants by up ​to ₹8,000 ($86 ‌The price hike, which will vary ‌across models and variants, ‌is ⁠aimed at partly ⁠offsetting a sharp increase in input costs Automakers in India ​have been ‌battling higher raw material costs, particularly for steel and copper Supply-chain disruptions ‌linked to the prolonged ​Middle East conflict have also added pressure ⁠on margins, prompting several manufacturers to raise vehicle ‌prices Hyundai said it had absorbed a substantial portion of the cost inflation through internal efficiency gains and cost-optimisation ‌measures Hyundai India's latest ​price hike comes after market leader Maruti Suzuki ⁠said it will hike ⁠prices on select models due to rising ‌commodity costs. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Hyundai Motor India to raise prices by up to ₹8,000 from December 1",
+      "original_summary": "‌The price hike, which will vary ‌across models and variants, ‌is ⁠aimed at partly ⁠offsetting a sharp increase in input costs",
+      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Motor India to raise prices by up to ₹8,000 from December 1'이다. ‌The price hike, which will vary ‌across models and variants, ‌is ⁠aimed at partly ⁠offsetting a sharp increase in input costs. Hyundai Motor India to raise prices by up to ₹8,000 from December 1 ‌The price hike, which will vary ‌across models and variants, ‌is ⁠aimed at partly ⁠offsetting a sharp increase in input costs By Reuters Updated - November 24, 2026 at 01:10 PM ece Hyundai Motor India will increase prices ​of select vehicle models ‌and variants by up ​to ₹8,000 ($86 | Photo Credit: WILLY KURNIAWAN Hyundai Motor India will increase prices ​of select vehicle models ‌and variants by up ​to ₹8,000 ($86 ‌The price hike, which will vary ‌across models and variants, ‌is ⁠aimed at partly ⁠offsetting a sharp increase in input costs Automakers in India ​have been ‌battling higher raw material costs, particularly for steel and copper Supply-chain disruptions ‌linked to the prolonged ​Middle East conflict have also added pressure ⁠on margins, prompting several manufacturers to raise vehicle ‌prices Hyundai said it had absorbed a substantial portion of the cost inflation through internal efficiency gains and cost-optimisation ‌measures Hyundai India's latest ​price hike comes after market leader Maruti Suzuki ⁠said it will hike ⁠prices on select models due to rising ‌commodity costs. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-24T07:40:59+00:00",
+      "source_id": "businessline_companies",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "country_name_ko": "인도",
+      "source_language": "en",
+      "matched_companies": [
+        "Hyundai Motor"
+      ],
+      "matched_aliases": [
+        "Hyundai Motor",
+        "Hyundai"
+      ],
+      "is_new": true
+    }
+  ],
   "source_runs": [
     {
       "source_id": "nyt_business",
@@ -24,7 +120,7 @@
       "source_name": "The New York Times Technology",
       "country_code": "US",
       "success": true,
-      "item_count": 46,
+      "item_count": 43,
       "matched_count": 0,
       "error": ""
     },
@@ -240,7 +336,7 @@
       "source_name": "tagesschau Wirtschaft",
       "country_code": "DE",
       "success": true,
-      "item_count": 37,
+      "item_count": 40,
       "matched_count": 0,
       "error": ""
     },
@@ -267,7 +363,7 @@
       "source_name": "BBC Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 56,
+      "item_count": 59,
       "matched_count": 0,
       "error": ""
     },
@@ -276,7 +372,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 22,
+      "item_count": 30,
       "matched_count": 0,
       "error": ""
     },
@@ -312,7 +408,7 @@
       "source_name": "The Guardian Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 20,
+      "item_count": 19,
       "matched_count": 0,
       "error": ""
     },
@@ -520,7 +616,7 @@
       "country_code": "IN",
       "success": true,
       "item_count": 60,
-      "matched_count": 0,
+      "matched_count": 2,
       "error": ""
     },
     {
@@ -564,7 +660,7 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 37,
+      "item_count": 45,
       "matched_count": 0,
       "error": ""
     },
@@ -609,7 +705,7 @@
       "source_name": "Taipei Times",
       "country_code": "TW",
       "success": true,
-      "item_count": 55,
+      "item_count": 51,
       "matched_count": 0,
       "error": ""
     },
