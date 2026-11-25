@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-25T05:28:36.254602+00:00",
+  "last_run_at": "2026-11-25T19:23:28.713816+00:00",
   "seen_articles": {
     "https://www.thehindubusinessline.com/companies/automakers-build-up-inventory-to-meet-festive-season-demand/article71542971.ece": {
       "title": "Automakers build up inventory to meet festive season demand",
@@ -1200,7 +1200,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-11-24T20:13:24.035560+00:00",
-      "last_seen_at": "2026-11-25T05:28:36.254602+00:00"
+      "last_seen_at": "2026-11-25T19:23:28.713816+00:00"
     },
     "https://www.thehindubusinessline.com/companies/hyundai-motor-india-to-raise-prices-by-up-to-8000-from-december-1/article71737642.ece": {
       "title": "Hyundai Motor India to raise prices by up to ₹8,000 from December 1",
@@ -1212,6 +1212,72 @@
       ],
       "first_seen_at": "2026-11-24T20:13:24.035560+00:00",
       "last_seen_at": "2026-11-25T05:28:36.254602+00:00"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/how-a-bain-led-deal-made-sk-hynix-kioxia-s-top-shareholder": {
+      "title": "How a Bain-led deal made SK Hynix Kioxia's top shareholder",
+      "link": "https://asia.nikkei.com/business/tech/semiconductors/how-a-bain-led-deal-made-sk-hynix-kioxia-s-top-shareholder",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-11-25T19:23:28.713816+00:00",
+      "last_seen_at": "2026-11-25T19:23:28.713816+00:00"
+    },
+    "https://www.theguardian.com/uk-news/2026/nov/25/amazon-motors-into-uk-car-market": {
+      "title": "Amazon to start selling cars in the UK next year",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/25/amazon-motors-into-uk-car-market",
+      "source_name": "The Guardian Technology",
+      "country_code": "GB",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-11-25T19:23:28.713816+00:00",
+      "last_seen_at": "2026-11-25T19:23:28.713816+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/hyundai-bayons-1-lakh-offers-within-a-month-of-launch-cloud-market-share-recovery/article71741832.ece": {
+      "title": "Hyundai Bayon’s ₹1-lakh offers within a month of launch cloud market-share recovery",
+      "link": "https://www.thehindubusinessline.com/companies/hyundai-bayons-1-lakh-offers-within-a-month-of-launch-cloud-market-share-recovery/article71741832.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-11-25T19:23:28.713816+00:00",
+      "last_seen_at": "2026-11-25T19:23:28.713816+00:00"
+    },
+    "https://www.channelnewsasia.com/business/lg-electronics-offload-up-2-in-indian-unit-meet-public-float-norms-6581371": {
+      "title": "LG Electronics to offload up to 2% in Indian unit to meet public float norms",
+      "link": "https://www.channelnewsasia.com/business/lg-electronics-offload-up-2-in-indian-unit-meet-public-float-norms-6581371",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "companies": [
+        "LG Electronics"
+      ],
+      "first_seen_at": "2026-11-25T19:23:28.713816+00:00",
+      "last_seen_at": "2026-11-25T19:23:28.713816+00:00"
+    },
+    "https://www.thehindubusinessline.com/companies/amazon-to-launch-amazon-autos-in-uk-in-early-2027-in-first-expansion-beyond-us/article71741258.ece": {
+      "title": "Amazon to launch Amazon Autos in UK in early 2027 in first expansion beyond US",
+      "link": "https://www.thehindubusinessline.com/companies/amazon-to-launch-amazon-autos-in-uk-in-early-2027-in-first-expansion-beyond-us/article71741258.ece",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "companies": [
+        "Hyundai Motor"
+      ],
+      "first_seen_at": "2026-11-25T19:23:28.713816+00:00",
+      "last_seen_at": "2026-11-25T19:23:28.713816+00:00"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/china-s-ymtc-boosted-by-samsung-and-sk-hynix-adopting-its-memory-technology": {
+      "title": "China's YMTC boosted by Samsung and SK Hynix adopting its memory technology",
+      "link": "https://asia.nikkei.com/business/tech/semiconductors/china-s-ymtc-boosted-by-samsung-and-sk-hynix-adopting-its-memory-technology",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "companies": [
+        "SK hynix"
+      ],
+      "first_seen_at": "2026-11-25T19:23:28.713816+00:00",
+      "last_seen_at": "2026-11-25T19:23:28.713816+00:00"
     }
   }
 }
