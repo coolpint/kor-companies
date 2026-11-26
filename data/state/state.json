@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-25T19:23:28.713816+00:00",
+  "last_run_at": "2026-11-26T05:09:26.942561+00:00",
   "seen_articles": {
     "https://www.thehindubusinessline.com/companies/automakers-build-up-inventory-to-meet-festive-season-demand/article71542971.ece": {
       "title": "Automakers build up inventory to meet festive season demand",
@@ -1200,7 +1200,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-11-24T20:13:24.035560+00:00",
-      "last_seen_at": "2026-11-25T19:23:28.713816+00:00"
+      "last_seen_at": "2026-11-26T05:09:26.942561+00:00"
     },
     "https://www.thehindubusinessline.com/companies/hyundai-motor-india-to-raise-prices-by-up-to-8000-from-december-1/article71737642.ece": {
       "title": "Hyundai Motor India to raise prices by up to ₹8,000 from December 1",
@@ -1222,7 +1222,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-11-25T19:23:28.713816+00:00",
-      "last_seen_at": "2026-11-25T19:23:28.713816+00:00"
+      "last_seen_at": "2026-11-26T05:09:26.942561+00:00"
     },
     "https://www.theguardian.com/uk-news/2026/nov/25/amazon-motors-into-uk-car-market": {
       "title": "Amazon to start selling cars in the UK next year",
@@ -1233,7 +1233,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-11-25T19:23:28.713816+00:00",
-      "last_seen_at": "2026-11-25T19:23:28.713816+00:00"
+      "last_seen_at": "2026-11-26T05:09:26.942561+00:00"
     },
     "https://www.thehindubusinessline.com/companies/hyundai-bayons-1-lakh-offers-within-a-month-of-launch-cloud-market-share-recovery/article71741832.ece": {
       "title": "Hyundai Bayon’s ₹1-lakh offers within a month of launch cloud market-share recovery",
@@ -1244,7 +1244,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-11-25T19:23:28.713816+00:00",
-      "last_seen_at": "2026-11-25T19:23:28.713816+00:00"
+      "last_seen_at": "2026-11-26T05:09:26.942561+00:00"
     },
     "https://www.channelnewsasia.com/business/lg-electronics-offload-up-2-in-indian-unit-meet-public-float-norms-6581371": {
       "title": "LG Electronics to offload up to 2% in Indian unit to meet public float norms",
@@ -1266,7 +1266,7 @@
         "Hyundai Motor"
       ],
       "first_seen_at": "2026-11-25T19:23:28.713816+00:00",
-      "last_seen_at": "2026-11-25T19:23:28.713816+00:00"
+      "last_seen_at": "2026-11-26T05:09:26.942561+00:00"
     },
     "https://asia.nikkei.com/business/tech/semiconductors/china-s-ymtc-boosted-by-samsung-and-sk-hynix-adopting-its-memory-technology": {
       "title": "China's YMTC boosted by Samsung and SK Hynix adopting its memory technology",
@@ -1277,7 +1277,18 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-11-25T19:23:28.713816+00:00",
-      "last_seen_at": "2026-11-25T19:23:28.713816+00:00"
+      "last_seen_at": "2026-11-26T05:09:26.942561+00:00"
+    },
+    "https://www.scmp.com/week-asia/politics/article/3375730/why-russian-bombers-south-koreas-doorstep-raise-stakes-us-led-alliances": {
+      "title": "Why Russian bombers at South Korea’s doorstep raise stakes for US-led alliances",
+      "link": "https://www.scmp.com/week-asia/politics/article/3375730/why-russian-bombers-south-koreas-doorstep-raise-stakes-us-led-alliances",
+      "source_name": "South China Morning Post World",
+      "country_code": "HK",
+      "companies": [
+        "Korean Air"
+      ],
+      "first_seen_at": "2026-11-26T05:09:26.942561+00:00",
+      "last_seen_at": "2026-11-26T05:09:26.942561+00:00"
     }
   }
 }
