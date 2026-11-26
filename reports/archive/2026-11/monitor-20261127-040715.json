@@ -1,0 +1,787 @@
+{
+  "run_at": "2026-11-26T19:07:15.120746+00:00",
+  "summary": {
+    "source_count": 73,
+    "success_count": 67,
+    "failed_count": 6,
+    "matched_count": 5,
+    "new_count": 0
+  },
+  "new_articles": [],
+  "matched_articles": [
+    {
+      "article_key": "https://asia.nikkei.com/business/tech/semiconductors/how-a-bain-led-deal-made-sk-hynix-kioxia-s-top-shareholder",
+      "canonical_link": "https://asia.nikkei.com/business/tech/semiconductors/how-a-bain-led-deal-made-sk-hynix-kioxia-s-top-shareholder",
+      "link": "https://asia.nikkei.com/business/tech/semiconductors/how-a-bain-led-deal-made-sk-hynix-kioxia-s-top-shareholder",
+      "title": "How a Bain-led deal made SK Hynix Kioxia's top shareholder",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'How a Bain-led deal made SK Hynix Kioxia's top shareholder'이다. SEOUL/TOKYO -- SK Hynix is on the verge of becoming the largest shareholder in rival Kioxia Holdings, a move set in motion when it joined with U. S. Defensive investment leaves South Korean chipmaker with stake in Japanese rival. (Source photos by Nikkei) NAMI MATSUURA, SHUHEI OCHIAI and KYOHEI SUGA November 26, 2026 04:09 JST SEOUL/TOKYO -- SK Hynix is on the verge of becoming the largest shareholder in rival Kioxia Holdings, a move set in motion when it joined with U private equity firm Bain Capital in a 2017 bidding war for the Japanese memory chip maker to keep it out of competitors' hands 7bn this quarter Latest on Semiconductors Semiconductors Nvidia, Kioxia team on AI server memory as alternative to South Korean chips Semiconductors Nvidia turmoil casts pall over high-flying global AI chip industry Semiconductors China's YMTC boosted by Samsung and SK Hynix adopting its memory technology. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "How a Bain-led deal made SK Hynix Kioxia's top shareholder",
+      "original_summary": "",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'How a Bain-led deal made SK Hynix Kioxia's top shareholder'이다. SEOUL/TOKYO -- SK Hynix is on the verge of becoming the largest shareholder in rival Kioxia Holdings, a move set in motion when it joined with U. S. Defensive investment leaves South Korean chipmaker with stake in Japanese rival. (Source photos by Nikkei) NAMI MATSUURA, SHUHEI OCHIAI and KYOHEI SUGA November 26, 2026 04:09 JST SEOUL/TOKYO -- SK Hynix is on the verge of becoming the largest shareholder in rival Kioxia Holdings, a move set in motion when it joined with U private equity firm Bain Capital in a 2017 bidding war for the Japanese memory chip maker to keep it out of competitors' hands 7bn this quarter Latest on Semiconductors Semiconductors Nvidia, Kioxia team on AI server memory as alternative to South Korean chips Semiconductors Nvidia turmoil casts pall over high-flying global AI chip industry Semiconductors China's YMTC boosted by Samsung and SK Hynix adopting its memory technology. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-25T19:09:48+00:00",
+      "source_id": "nikkei_asia",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "country_name_ko": "일본",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": false
+    },
+    {
+      "article_key": "https://www.theguardian.com/uk-news/2026/nov/25/amazon-motors-into-uk-car-market",
+      "canonical_link": "https://www.theguardian.com/uk-news/2026/nov/25/amazon-motors-into-uk-car-market",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/25/amazon-motors-into-uk-car-market",
+      "title": "Amazon to start selling cars in the UK next year",
+      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Amazon to start selling cars in the UK next year'이다. US retail giant links up with Hyundai in attempt to crack £200bn British market Amazon is planning to sell cars in the UK from early next year, in a move that threatens to disrupt the vehicle retail market. The Amazon Autos service will be launched in “early 2027”, starting with cars from the Korean manufacturer Hyundai. It will be the first time the US tech company has sold cars outside its home country. Continue reading. . Photograph: Amazon/PA Amazon to start selling cars in the UK next year US retail giant links up with Hyundai in attempt to crack £200bn British market Amazon is planning to sell cars in the UK from early next year, in a move that threatens to disrupt the vehicle retail market The Amazon Autos service will be launched in “early 2027”, starting with cars from the Korean manufacturer Hyundai UK buyers will be able to buy new electric hybrid and petrol Hyundai models, as well as used cars from Vertu Motors, a large British dealership ” Hyundai was also the first brand to work with Amazon in the US José Muñoz, its chief executive, said: “Our partnership with Amazon Autos has changed the way many customers discover Hyundai in the US, and 78% of the Amazon-influenced sales at our dealerships have come from customers who are new to our brand.",
+      "original_title": "Amazon to start selling cars in the UK next year",
+      "original_summary": "US retail giant links up with Hyundai in attempt to crack £200bn British market Amazon is planning to sell cars in the UK from early next year, in a move that threatens to disrupt the vehicle retail market. The Amazon Autos service will be launched in “early 2027”, starting with cars from the Korean manufacturer Hyundai. It will be the first time the US tech company has sold cars outside its home country. Continue reading...",
+      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Amazon to start selling cars in the UK next year'이다. US retail giant links up with Hyundai in attempt to crack £200bn British market Amazon is planning to sell cars in the UK from early next year, in a move that threatens to disrupt the vehicle retail market. The Amazon Autos service will be launched in “early 2027”, starting with cars from the Korean manufacturer Hyundai. It will be the first time the US tech company has sold cars outside its home country. Continue reading. . Photograph: Amazon/PA Amazon to start selling cars in the UK next year US retail giant links up with Hyundai in attempt to crack £200bn British market Amazon is planning to sell cars in the UK from early next year, in a move that threatens to disrupt the vehicle retail market The Amazon Autos service will be launched in “early 2027”, starting with cars from the Korean manufacturer Hyundai UK buyers will be able to buy new electric hybrid and petrol Hyundai models, as well as used cars from Vertu Motors, a large British dealership ” Hyundai was also the first brand to work with Amazon in the US José Muñoz, its chief executive, said: “Our partnership with Amazon Autos has changed the way many customers discover Hyundai in the US, and 78% of the Amazon-influenced sales at our dealerships have come from customers who are new to our brand.",
+      "published_at": "2026-11-25T14:37:26+00:00",
+      "source_id": "guardian_technology",
+      "source_name": "The Guardian Technology",
+      "country_code": "GB",
+      "country_name_ko": "영국",
+      "source_language": "en",
+      "matched_companies": [
+        "Hyundai Motor"
+      ],
+      "matched_aliases": [
+        "Hyundai"
+      ],
+      "is_new": false
+    },
+    {
+      "article_key": "https://www.thehindubusinessline.com/companies/hyundai-tata-join-maruti-in-raising-prices-ahead-of-december-discount-season/article71738278.ece",
+      "canonical_link": "https://www.thehindubusinessline.com/companies/hyundai-tata-join-maruti-in-raising-prices-ahead-of-december-discount-season/article71738278.ece",
+      "link": "https://www.thehindubusinessline.com/companies/hyundai-tata-join-maruti-in-raising-prices-ahead-of-december-discount-season/article71738278.ece",
+      "title": "Hyundai, Tata join Maruti in raising prices ahead of December discount season",
+      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai, Tata join Maruti in raising prices ahead of December discount season'이다. Carmakers caught between rising input costs and the need to sustain sales momentum. com/companies/hyundai-tata-join-maruti-in-raising-prices-ahead-of-december-discount-season/article71738278 ece Hyundai Motor India and Tata Motors Passenger Vehicles on Tuesday announced their fourth price hikes of calendar 2026, effective December 1 India’s leading carmakers are raising prices ahead of the traditional December discount season, setting up a contest between manufacturers seeking to protect margins and dealers looking to liquidate inventory before the model-year change Hyundai will raise prices of select models and variants by up to ₹8,000, while Tata Motors will increase prices by an average of 0 “While TMPV continues to absorb a significant portion of these increases, a part of the impact is being passed on to customers through this increase,” Tata Motors said Hyundai attributed its latest revision to a “steep increase in input costs”. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Hyundai, Tata join Maruti in raising prices ahead of December discount season",
+      "original_summary": "Carmakers caught between rising input costs and the need to sustain sales momentum",
+      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai, Tata join Maruti in raising prices ahead of December discount season'이다. Carmakers caught between rising input costs and the need to sustain sales momentum. com/companies/hyundai-tata-join-maruti-in-raising-prices-ahead-of-december-discount-season/article71738278 ece Hyundai Motor India and Tata Motors Passenger Vehicles on Tuesday announced their fourth price hikes of calendar 2026, effective December 1 India’s leading carmakers are raising prices ahead of the traditional December discount season, setting up a contest between manufacturers seeking to protect margins and dealers looking to liquidate inventory before the model-year change Hyundai will raise prices of select models and variants by up to ₹8,000, while Tata Motors will increase prices by an average of 0 “While TMPV continues to absorb a significant portion of these increases, a part of the impact is being passed on to customers through this increase,” Tata Motors said Hyundai attributed its latest revision to a “steep increase in input costs”. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-25T12:43:51+00:00",
+      "source_id": "businessline_companies",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "country_name_ko": "인도",
+      "source_language": "en",
+      "matched_companies": [
+        "Hyundai Motor"
+      ],
+      "matched_aliases": [
+        "Hyundai"
+      ],
+      "is_new": false
+    },
+    {
+      "article_key": "https://www.thehindubusinessline.com/companies/hyundai-bayons-1-lakh-offers-within-a-month-of-launch-cloud-market-share-recovery/article71741832.ece",
+      "canonical_link": "https://www.thehindubusinessline.com/companies/hyundai-bayons-1-lakh-offers-within-a-month-of-launch-cloud-market-share-recovery/article71741832.ece",
+      "link": "https://www.thehindubusinessline.com/companies/hyundai-bayons-1-lakh-offers-within-a-month-of-launch-cloud-market-share-recovery/article71741832.ece",
+      "title": "Hyundai Bayon’s ₹1-lakh offers within a month of launch cloud market-share recovery",
+      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Bayon’s ₹1-lakh offers within a month of launch cloud market-share recovery'이다. Priced from ₹9. 99 lakh, Bayon takes on Maruti Suzuki’s Grand Vitara while competing for buyers of higher-priced Venue and Brezza variants. Responding to queries from businessline , a Hyundai Motor India spokesperson said, “The benefits being referred to are part of customer-centric programs designed to enhance the overall ownership experience Hyundai is targeting combined annual domestic sales of 2 Aveek Chattopadhyay, an automotive industry expert, says, “Hyundai needs to reduce its dependence on Creta, but that cannot happen simply by transferring customers from one Hyundai SUV to another “Each Hyundai SUV has a distinct positioning and customer proposition, helping us cater to diverse mobility needs while continuing to focus on sustainable growth, customer satisfaction and long-term brand strength,” the Hyundai spokesperson said, declining to comment on future volume projections Hyundai is also promoting Bayon test drives through a ₹1-crore prize campaign until December 31, 2026. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "Hyundai Bayon’s ₹1-lakh offers within a month of launch cloud market-share recovery",
+      "original_summary": "Priced from ₹9.99 lakh, Bayon takes on Maruti Suzuki’s Grand Vitara while competing for buyers of higher-priced Venue and Brezza variants",
+      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Hyundai Bayon’s ₹1-lakh offers within a month of launch cloud market-share recovery'이다. Priced from ₹9. 99 lakh, Bayon takes on Maruti Suzuki’s Grand Vitara while competing for buyers of higher-priced Venue and Brezza variants. Responding to queries from businessline , a Hyundai Motor India spokesperson said, “The benefits being referred to are part of customer-centric programs designed to enhance the overall ownership experience Hyundai is targeting combined annual domestic sales of 2 Aveek Chattopadhyay, an automotive industry expert, says, “Hyundai needs to reduce its dependence on Creta, but that cannot happen simply by transferring customers from one Hyundai SUV to another “Each Hyundai SUV has a distinct positioning and customer proposition, helping us cater to diverse mobility needs while continuing to focus on sustainable growth, customer satisfaction and long-term brand strength,” the Hyundai spokesperson said, declining to comment on future volume projections Hyundai is also promoting Bayon test drives through a ₹1-crore prize campaign until December 31, 2026. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-25T11:50:09+00:00",
+      "source_id": "businessline_companies",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "country_name_ko": "인도",
+      "source_language": "en",
+      "matched_companies": [
+        "Hyundai Motor"
+      ],
+      "matched_aliases": [
+        "Hyundai"
+      ],
+      "is_new": false
+    },
+    {
+      "article_key": "https://asia.nikkei.com/business/tech/semiconductors/china-s-ymtc-boosted-by-samsung-and-sk-hynix-adopting-its-memory-technology",
+      "canonical_link": "https://asia.nikkei.com/business/tech/semiconductors/china-s-ymtc-boosted-by-samsung-and-sk-hynix-adopting-its-memory-technology",
+      "link": "https://asia.nikkei.com/business/tech/semiconductors/china-s-ymtc-boosted-by-samsung-and-sk-hynix-adopting-its-memory-technology",
+      "title": "China's YMTC boosted by Samsung and SK Hynix adopting its memory technology",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'China's YMTC boosted by Samsung and SK Hynix adopting its memory technology'이다. TAIPEI/PALO ALTO/SEOUL -- The world's top memory chipmakers, South Korea's Samsung Electronics and SK Hynix, are adopting chip-stacking technology. Cross-licensing deals show 10-year-old chipmaker is matching older, larger rivals. Semiconductors China's YMTC boosted by Samsung and SK Hynix adopting its memory technology Cross-licensing deals show 10-year-old chipmaker is matching older, larger rivals YMTC has been building a formidable intellectual property library for its memory chip business and says it has filed more than 12,000 patents globally (Source photo by Reuters and logo from YMTC's website) CHENG TING-FANG , LAULY LI , YIFAN YU and KIM JAEWON November 25, 2026 15:08 JST TAIPEI/PALO ALTO/SEOUL -- The world's top memory chipmakers, South Korea's Samsung Electronics and SK Hynix, are adopting chip-stacking technology first developed by Yangtze Memory Technologies Co , signaling how one of China's national champions has rapidly caught up with its larger semiconductor rivals and has built a substantial intellectual property portfolio. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "original_title": "China's YMTC boosted by Samsung and SK Hynix adopting its memory technology",
+      "original_summary": "",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'China's YMTC boosted by Samsung and SK Hynix adopting its memory technology'이다. TAIPEI/PALO ALTO/SEOUL -- The world's top memory chipmakers, South Korea's Samsung Electronics and SK Hynix, are adopting chip-stacking technology. Cross-licensing deals show 10-year-old chipmaker is matching older, larger rivals. Semiconductors China's YMTC boosted by Samsung and SK Hynix adopting its memory technology Cross-licensing deals show 10-year-old chipmaker is matching older, larger rivals YMTC has been building a formidable intellectual property library for its memory chip business and says it has filed more than 12,000 patents globally (Source photo by Reuters and logo from YMTC's website) CHENG TING-FANG , LAULY LI , YIFAN YU and KIM JAEWON November 25, 2026 15:08 JST TAIPEI/PALO ALTO/SEOUL -- The world's top memory chipmakers, South Korea's Samsung Electronics and SK Hynix, are adopting chip-stacking technology first developed by Yangtze Memory Technologies Co , signaling how one of China's national champions has rapidly caught up with its larger semiconductor rivals and has built a substantial intellectual property portfolio. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "published_at": "2026-11-25T06:08:32+00:00",
+      "source_id": "nikkei_asia",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "country_name_ko": "일본",
+      "source_language": "en",
+      "matched_companies": [
+        "SK hynix"
+      ],
+      "matched_aliases": [
+        "SK hynix"
+      ],
+      "is_new": false
+    }
+  ],
+  "source_runs": [
+    {
+      "source_id": "nyt_business",
+      "source_name": "The New York Times Business",
+      "country_code": "US",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "nyt_technology",
+      "source_name": "The New York Times Technology",
+      "country_code": "US",
+      "success": true,
+      "item_count": 33,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "marketwatch_topstories",
+      "source_name": "MarketWatch Top Stories",
+      "country_code": "US",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "npr_business",
+      "source_name": "NPR Business",
+      "country_code": "US",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "foxbusiness_markets",
+      "source_name": "Fox Business Markets",
+      "country_code": "US",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "foxbusiness_technology",
+      "source_name": "Fox Business Technology",
+      "country_code": "US",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "us_doj_press_releases",
+      "source_name": "U.S. DOJ Press Releases",
+      "country_code": "US",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "sec_press_releases",
+      "source_name": "U.S. SEC Press Releases",
+      "country_code": "US",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "country_code": "US",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "chinadaily_bizchina",
+      "source_name": "China Daily BizChina",
+      "country_code": "CN",
+      "success": false,
+      "item_count": 0,
+      "matched_count": 0,
+      "error": "HTTP 404 for https://www.chinadaily.com.cn/rss/bizchina_rss.xml"
+    },
+    {
+      "source_id": "chinadaily_world",
+      "source_name": "China Daily World",
+      "country_code": "CN",
+      "success": false,
+      "item_count": 0,
+      "matched_count": 0,
+      "error": "HTTP 404 for https://www.chinadaily.com.cn/rss/world_rss.xml"
+    },
+    {
+      "source_id": "chinadaily_china",
+      "source_name": "China Daily China",
+      "country_code": "CN",
+      "success": false,
+      "item_count": 0,
+      "matched_count": 0,
+      "error": "HTTP 404 for https://www.chinadaily.com.cn/rss/china_rss.xml"
+    },
+    {
+      "source_id": "nikkei_asia",
+      "source_name": "Nikkei Asia",
+      "country_code": "JP",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 2,
+      "error": ""
+    },
+    {
+      "source_id": "japan_times_topstories",
+      "source_name": "The Japan Times",
+      "country_code": "JP",
+      "success": true,
+      "item_count": 30,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "nhk_business",
+      "source_name": "NHK Business",
+      "country_code": "JP",
+      "success": true,
+      "item_count": 86,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "nhk_world",
+      "source_name": "NHK International",
+      "country_code": "JP",
+      "success": true,
+      "item_count": 98,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "japan_today",
+      "source_name": "Japan Today",
+      "country_code": "JP",
+      "success": true,
+      "item_count": 30,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "vnexpress_business",
+      "source_name": "VnExpress Business",
+      "country_code": "VN",
+      "success": true,
+      "item_count": 60,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "vnexpress_world",
+      "source_name": "VnExpress World",
+      "country_code": "VN",
+      "success": true,
+      "item_count": 60,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "vietnamnews_business",
+      "source_name": "Vietnam News Business",
+      "country_code": "VN",
+      "success": false,
+      "item_count": 0,
+      "matched_count": 0,
+      "error": "HTTP 403 for https://vietnamnews.vn/rss/business.rss"
+    },
+    {
+      "source_id": "vietnamnews_economy",
+      "source_name": "Vietnam News Economy",
+      "country_code": "VN",
+      "success": false,
+      "item_count": 0,
+      "matched_count": 0,
+      "error": "HTTP 403 for https://vietnamnews.vn/rss/economy.rss"
+    },
+    {
+      "source_id": "vietnamnews_world",
+      "source_name": "Vietnam News World",
+      "country_code": "VN",
+      "success": false,
+      "item_count": 0,
+      "matched_count": 0,
+      "error": "HTTP 403 for https://vietnamnews.vn/rss/world.rss"
+    },
+    {
+      "source_id": "dw_business",
+      "source_name": "Deutsche Welle Business",
+      "country_code": "DE",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "dw_world",
+      "source_name": "Deutsche Welle World",
+      "country_code": "DE",
+      "success": true,
+      "item_count": 12,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "dw_topstories",
+      "source_name": "Deutsche Welle Top Stories",
+      "country_code": "DE",
+      "success": true,
+      "item_count": 21,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "tagesschau_wirtschaft",
+      "source_name": "tagesschau Wirtschaft",
+      "country_code": "DE",
+      "success": true,
+      "item_count": 37,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "tagesschau_ausland",
+      "source_name": "tagesschau Ausland",
+      "country_code": "DE",
+      "success": true,
+      "item_count": 70,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "spiegel_international",
+      "source_name": "DER SPIEGEL International",
+      "country_code": "DE",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "bbc_business",
+      "source_name": "BBC Business",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 56,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "bbc_world",
+      "source_name": "BBC World",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 28,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "bbc_technology",
+      "source_name": "BBC Technology",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 21,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "ft_companies",
+      "source_name": "Financial Times Companies",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "ft_world",
+      "source_name": "Financial Times World",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "guardian_business",
+      "source_name": "The Guardian Business",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 19,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "guardian_world",
+      "source_name": "The Guardian World",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 45,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "guardian_technology",
+      "source_name": "The Guardian Technology",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 32,
+      "matched_count": 1,
+      "error": ""
+    },
+    {
+      "source_id": "independent_business",
+      "source_name": "The Independent Business",
+      "country_code": "GB",
+      "success": true,
+      "item_count": 0,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "lemonde_economie",
+      "source_name": "Le Monde Economie",
+      "country_code": "FR",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "lemonde_international",
+      "source_name": "Le Monde International",
+      "country_code": "FR",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "france24_business_tech",
+      "source_name": "France 24 Business / Tech",
+      "country_code": "FR",
+      "success": true,
+      "item_count": 30,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "france24_europe",
+      "source_name": "France 24 Europe",
+      "country_code": "FR",
+      "success": true,
+      "item_count": 30,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "euronews_business",
+      "source_name": "Euronews Business",
+      "country_code": "EU",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "politico_europe",
+      "source_name": "POLITICO Europe",
+      "country_code": "EU",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "cnbc_top_news",
+      "source_name": "CNBC Top News",
+      "country_code": "US",
+      "success": true,
+      "item_count": 30,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "cnbc_world",
+      "source_name": "CNBC World News",
+      "country_code": "US",
+      "success": true,
+      "item_count": 30,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "cnbc_technology",
+      "source_name": "CNBC Technology",
+      "country_code": "US",
+      "success": true,
+      "item_count": 30,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "abc_us_business",
+      "source_name": "ABC News Business",
+      "country_code": "US",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "abc_us_international",
+      "source_name": "ABC News International",
+      "country_code": "US",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "globe_business",
+      "source_name": "The Globe and Mail Business",
+      "country_code": "CA",
+      "success": true,
+      "item_count": 100,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "globe_world",
+      "source_name": "The Globe and Mail World",
+      "country_code": "CA",
+      "success": true,
+      "item_count": 100,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "globalnews_money",
+      "source_name": "Global News Money",
+      "country_code": "CA",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "globalnews_world",
+      "source_name": "Global News World",
+      "country_code": "CA",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "abc_au_top_stories",
+      "source_name": "ABC Australia Top Stories",
+      "country_code": "AU",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "abc_au_business",
+      "source_name": "ABC Australia Business",
+      "country_code": "AU",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "economic_times_industry",
+      "source_name": "The Economic Times Industry",
+      "country_code": "IN",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "economic_times_tech",
+      "source_name": "The Economic Times Tech",
+      "country_code": "IN",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "businessline_companies",
+      "source_name": "BusinessLine Companies",
+      "country_code": "IN",
+      "success": true,
+      "item_count": 60,
+      "matched_count": 2,
+      "error": ""
+    },
+    {
+      "source_id": "businessline_economy",
+      "source_name": "BusinessLine Economy",
+      "country_code": "IN",
+      "success": true,
+      "item_count": 60,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "cna_business",
+      "source_name": "CNA Business",
+      "country_code": "SG",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "cna_asia",
+      "source_name": "CNA Asia",
+      "country_code": "SG",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "cna_world",
+      "source_name": "CNA World",
+      "country_code": "SG",
+      "success": true,
+      "item_count": 20,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "straits_times_business",
+      "source_name": "The Straits Times Business",
+      "country_code": "SG",
+      "success": true,
+      "item_count": 43,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "straits_times_world",
+      "source_name": "The Straits Times World",
+      "country_code": "SG",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "scmp_business",
+      "source_name": "South China Morning Post Business",
+      "country_code": "HK",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "scmp_world",
+      "source_name": "South China Morning Post World",
+      "country_code": "HK",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "scmp_tech",
+      "source_name": "South China Morning Post Tech",
+      "country_code": "HK",
+      "success": true,
+      "item_count": 50,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "taipei_times_front",
+      "source_name": "Taipei Times",
+      "country_code": "TW",
+      "success": true,
+      "item_count": 57,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "dutchnews",
+      "source_name": "DutchNews.nl",
+      "country_code": "NL",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "nltimes",
+      "source_name": "NL Times",
+      "country_code": "NL",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "bangkok_post_business",
+      "source_name": "Bangkok Post Business",
+      "country_code": "TH",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "bangkok_post_world",
+      "source_name": "Bangkok Post World",
+      "country_code": "TH",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "mexico_news_daily",
+      "source_name": "Mexico News Daily",
+      "country_code": "MX",
+      "success": true,
+      "item_count": 10,
+      "matched_count": 0,
+      "error": ""
+    },
+    {
+      "source_id": "aljazeera_all",
+      "source_name": "Al Jazeera",
+      "country_code": "QA",
+      "success": true,
+      "item_count": 25,
+      "matched_count": 0,
+      "error": ""
+    }
+  ]
+}

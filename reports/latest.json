@@ -1,70 +1,23 @@
 {
-  "run_at": "2026-11-26T05:09:26.942561+00:00",
+  "run_at": "2026-11-26T19:07:15.120746+00:00",
   "summary": {
     "source_count": 73,
     "success_count": 67,
     "failed_count": 6,
-    "matched_count": 7,
-    "new_count": 1
+    "matched_count": 5,
+    "new_count": 0
   },
-  "new_articles": [
-    {
-      "article_key": "https://www.scmp.com/week-asia/politics/article/3375730/why-russian-bombers-south-koreas-doorstep-raise-stakes-us-led-alliances",
-      "canonical_link": "https://www.scmp.com/week-asia/politics/article/3375730/why-russian-bombers-south-koreas-doorstep-raise-stakes-us-led-alliances",
-      "link": "https://www.scmp.com/week-asia/politics/article/3375730/why-russian-bombers-south-koreas-doorstep-raise-stakes-us-led-alliances",
-      "title": "Why Russian bombers at South Korea’s doorstep raise stakes for US-led alliances",
-      "summary": "Korean Air 관련 기사다. 기사 제목은 'Why Russian bombers at South Korea’s doorstep raise stakes for US-led alliances'이다. A spate of Russian military flights into airspace considered by South Korea to be within its defence zone appears to be aimed at testing the regional US-led security architecture and pressuring Seoul to improve strained ties with Moscow, observers say. Several Russian warplanes, including a heavy strategic bomber, entered the Korean air defence identification zone (Kadiz) on Tuesday morning and approached close to South Korea’s sovereign airspace, prompting its military to scramble fighter. . 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Why Russian bombers at South Korea’s doorstep raise stakes for US-led alliances",
-      "original_summary": "A spate of Russian military flights into airspace considered by South Korea to be within its defence zone appears to be aimed at testing the regional US-led security architecture and pressuring Seoul to improve strained ties with Moscow, observers say. Several Russian warplanes, including a heavy strategic bomber, entered the Korean air defence identification zone (Kadiz) on Tuesday morning and approached close to South Korea’s sovereign airspace, prompting its military to scramble fighter...",
-      "company_summary": "Korean Air 관련 기사다. 기사 제목은 'Why Russian bombers at South Korea’s doorstep raise stakes for US-led alliances'이다. A spate of Russian military flights into airspace considered by South Korea to be within its defence zone appears to be aimed at testing the regional US-led security architecture and pressuring Seoul to improve strained ties with Moscow, observers say. Several Russian warplanes, including a heavy strategic bomber, entered the Korean air defence identification zone (Kadiz) on Tuesday morning and approached close to South Korea’s sovereign airspace, prompting its military to scramble fighter. . 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-11-26T00:00:15+00:00",
-      "source_id": "scmp_world",
-      "source_name": "South China Morning Post World",
-      "country_code": "HK",
-      "country_name_ko": "홍콩",
-      "source_language": "en",
-      "matched_companies": [
-        "Korean Air"
-      ],
-      "matched_aliases": [
-        "Korean Air"
-      ],
-      "is_new": true
-    }
-  ],
+  "new_articles": [],
   "matched_articles": [
-    {
-      "article_key": "https://www.scmp.com/week-asia/politics/article/3375730/why-russian-bombers-south-koreas-doorstep-raise-stakes-us-led-alliances",
-      "canonical_link": "https://www.scmp.com/week-asia/politics/article/3375730/why-russian-bombers-south-koreas-doorstep-raise-stakes-us-led-alliances",
-      "link": "https://www.scmp.com/week-asia/politics/article/3375730/why-russian-bombers-south-koreas-doorstep-raise-stakes-us-led-alliances",
-      "title": "Why Russian bombers at South Korea’s doorstep raise stakes for US-led alliances",
-      "summary": "Korean Air 관련 기사다. 기사 제목은 'Why Russian bombers at South Korea’s doorstep raise stakes for US-led alliances'이다. A spate of Russian military flights into airspace considered by South Korea to be within its defence zone appears to be aimed at testing the regional US-led security architecture and pressuring Seoul to improve strained ties with Moscow, observers say. Several Russian warplanes, including a heavy strategic bomber, entered the Korean air defence identification zone (Kadiz) on Tuesday morning and approached close to South Korea’s sovereign airspace, prompting its military to scramble fighter. . 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Why Russian bombers at South Korea’s doorstep raise stakes for US-led alliances",
-      "original_summary": "A spate of Russian military flights into airspace considered by South Korea to be within its defence zone appears to be aimed at testing the regional US-led security architecture and pressuring Seoul to improve strained ties with Moscow, observers say. Several Russian warplanes, including a heavy strategic bomber, entered the Korean air defence identification zone (Kadiz) on Tuesday morning and approached close to South Korea’s sovereign airspace, prompting its military to scramble fighter...",
-      "company_summary": "Korean Air 관련 기사다. 기사 제목은 'Why Russian bombers at South Korea’s doorstep raise stakes for US-led alliances'이다. A spate of Russian military flights into airspace considered by South Korea to be within its defence zone appears to be aimed at testing the regional US-led security architecture and pressuring Seoul to improve strained ties with Moscow, observers say. Several Russian warplanes, including a heavy strategic bomber, entered the Korean air defence identification zone (Kadiz) on Tuesday morning and approached close to South Korea’s sovereign airspace, prompting its military to scramble fighter. . 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-11-26T00:00:15+00:00",
-      "source_id": "scmp_world",
-      "source_name": "South China Morning Post World",
-      "country_code": "HK",
-      "country_name_ko": "홍콩",
-      "source_language": "en",
-      "matched_companies": [
-        "Korean Air"
-      ],
-      "matched_aliases": [
-        "Korean Air"
-      ],
-      "is_new": true
-    },
     {
       "article_key": "https://asia.nikkei.com/business/tech/semiconductors/how-a-bain-led-deal-made-sk-hynix-kioxia-s-top-shareholder",
       "canonical_link": "https://asia.nikkei.com/business/tech/semiconductors/how-a-bain-led-deal-made-sk-hynix-kioxia-s-top-shareholder",
       "link": "https://asia.nikkei.com/business/tech/semiconductors/how-a-bain-led-deal-made-sk-hynix-kioxia-s-top-shareholder",
       "title": "How a Bain-led deal made SK Hynix Kioxia's top shareholder",
-      "summary": "SK hynix 관련 기사다. 기사 제목은 'How a Bain-led deal made SK Hynix Kioxia's top shareholder'이다. SEOUL/TOKYO -- SK Hynix is on the verge of becoming the largest shareholder in rival Kioxia Holdings, a move set in motion when it joined with U. S. Defensive investment leaves South Korean chipmaker with stake in Japanese rival. (Source photos by Nikkei) NAMI MATSUURA, SHUHEI OCHIAI and KYOHEI SUGA November 26, 2026 04:09 JST SEOUL/TOKYO -- SK Hynix is on the verge of becoming the largest shareholder in rival Kioxia Holdings, a move set in motion when it joined with U private equity firm Bain Capital in a 2017 bidding war for the Japanese memory chip maker to keep it out of competitors' hands 7bn this quarter Latest on Semiconductors Semiconductors Nvidia turmoil casts pall over high-flying global AI chip industry Semiconductors China's YMTC boosted by Samsung and SK Hynix adopting its memory technology Semiconductors US to place Megaspeed on trade blacklist amid Nvidia scandal. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "summary": "SK hynix 관련 기사다. 기사 제목은 'How a Bain-led deal made SK Hynix Kioxia's top shareholder'이다. SEOUL/TOKYO -- SK Hynix is on the verge of becoming the largest shareholder in rival Kioxia Holdings, a move set in motion when it joined with U. S. Defensive investment leaves South Korean chipmaker with stake in Japanese rival. (Source photos by Nikkei) NAMI MATSUURA, SHUHEI OCHIAI and KYOHEI SUGA November 26, 2026 04:09 JST SEOUL/TOKYO -- SK Hynix is on the verge of becoming the largest shareholder in rival Kioxia Holdings, a move set in motion when it joined with U private equity firm Bain Capital in a 2017 bidding war for the Japanese memory chip maker to keep it out of competitors' hands 7bn this quarter Latest on Semiconductors Semiconductors Nvidia, Kioxia team on AI server memory as alternative to South Korean chips Semiconductors Nvidia turmoil casts pall over high-flying global AI chip industry Semiconductors China's YMTC boosted by Samsung and SK Hynix adopting its memory technology. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
       "original_title": "How a Bain-led deal made SK Hynix Kioxia's top shareholder",
       "original_summary": "",
-      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'How a Bain-led deal made SK Hynix Kioxia's top shareholder'이다. SEOUL/TOKYO -- SK Hynix is on the verge of becoming the largest shareholder in rival Kioxia Holdings, a move set in motion when it joined with U. S. Defensive investment leaves South Korean chipmaker with stake in Japanese rival. (Source photos by Nikkei) NAMI MATSUURA, SHUHEI OCHIAI and KYOHEI SUGA November 26, 2026 04:09 JST SEOUL/TOKYO -- SK Hynix is on the verge of becoming the largest shareholder in rival Kioxia Holdings, a move set in motion when it joined with U private equity firm Bain Capital in a 2017 bidding war for the Japanese memory chip maker to keep it out of competitors' hands 7bn this quarter Latest on Semiconductors Semiconductors Nvidia turmoil casts pall over high-flying global AI chip industry Semiconductors China's YMTC boosted by Samsung and SK Hynix adopting its memory technology Semiconductors US to place Megaspeed on trade blacklist amid Nvidia scandal. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
+      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'How a Bain-led deal made SK Hynix Kioxia's top shareholder'이다. SEOUL/TOKYO -- SK Hynix is on the verge of becoming the largest shareholder in rival Kioxia Holdings, a move set in motion when it joined with U. S. Defensive investment leaves South Korean chipmaker with stake in Japanese rival. (Source photos by Nikkei) NAMI MATSUURA, SHUHEI OCHIAI and KYOHEI SUGA November 26, 2026 04:09 JST SEOUL/TOKYO -- SK Hynix is on the verge of becoming the largest shareholder in rival Kioxia Holdings, a move set in motion when it joined with U private equity firm Bain Capital in a 2017 bidding war for the Japanese memory chip maker to keep it out of competitors' hands 7bn this quarter Latest on Semiconductors Semiconductors Nvidia, Kioxia team on AI server memory as alternative to South Korean chips Semiconductors Nvidia turmoil casts pall over high-flying global AI chip industry Semiconductors China's YMTC boosted by Samsung and SK Hynix adopting its memory technology. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
       "published_at": "2026-11-25T19:09:48+00:00",
       "source_id": "nikkei_asia",
       "source_name": "Nikkei Asia",
@@ -149,29 +102,6 @@
       "is_new": false
     },
     {
-      "article_key": "https://www.thehindubusinessline.com/companies/amazon-to-launch-amazon-autos-in-uk-in-early-2027-in-first-expansion-beyond-us/article71741258.ece",
-      "canonical_link": "https://www.thehindubusinessline.com/companies/amazon-to-launch-amazon-autos-in-uk-in-early-2027-in-first-expansion-beyond-us/article71741258.ece",
-      "link": "https://www.thehindubusinessline.com/companies/amazon-to-launch-amazon-autos-in-uk-in-early-2027-in-first-expansion-beyond-us/article71741258.ece",
-      "title": "Amazon to launch Amazon Autos in UK in early 2027 in first expansion beyond US",
-      "summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Amazon to launch Amazon Autos in UK in early 2027 in first expansion beyond US'이다. Hyundai will be one of the first partners to offer new and ‌used electric, hybrid and petrol models, including the IONIQ ‌3, IONIQ 5, KONA ‌and ⁠i20. Amazon to launch Amazon Autos in UK in early 2027 in first expansion beyond US Hyundai will be one of the first partners to offer new and ‌used electric, hybrid and petrol models, including the IONIQ ‌3, IONIQ 5, KONA ‌and ⁠i20 By Reuters Updated - November 25, 2026 at 12:01 PM ece Amazon said on Wednesday it will launch its ​Amazon Autos service in the UK ‌in early 2027, expanding its online ​car-buying marketplace beyond ⁠the US Hyundai will be one of the first partners to offer new and ‌used electric, hybrid and petrol models, including the IONIQ ‌3, IONIQ 5, KONA ‌and ⁠i20 Used cars from dealer ⁠group Vertu Motors will also be listed at launch More brands and dealers ​will be ‌announced in the coming months, Amazon said. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "Amazon to launch Amazon Autos in UK in early 2027 in first expansion beyond US",
-      "original_summary": "Hyundai will be one of the first partners to offer new and ‌used electric, hybrid and petrol models, including the IONIQ ‌3, IONIQ 5, KONA ‌and ⁠i20",
-      "company_summary": "Hyundai Motor 관련 기사다. 기사 제목은 'Amazon to launch Amazon Autos in UK in early 2027 in first expansion beyond US'이다. Hyundai will be one of the first partners to offer new and ‌used electric, hybrid and petrol models, including the IONIQ ‌3, IONIQ 5, KONA ‌and ⁠i20. Amazon to launch Amazon Autos in UK in early 2027 in first expansion beyond US Hyundai will be one of the first partners to offer new and ‌used electric, hybrid and petrol models, including the IONIQ ‌3, IONIQ 5, KONA ‌and ⁠i20 By Reuters Updated - November 25, 2026 at 12:01 PM ece Amazon said on Wednesday it will launch its ​Amazon Autos service in the UK ‌in early 2027, expanding its online ​car-buying marketplace beyond ⁠the US Hyundai will be one of the first partners to offer new and ‌used electric, hybrid and petrol models, including the IONIQ ‌3, IONIQ 5, KONA ‌and ⁠i20 Used cars from dealer ⁠group Vertu Motors will also be listed at launch More brands and dealers ​will be ‌announced in the coming months, Amazon said. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-11-25T06:31:35+00:00",
-      "source_id": "businessline_companies",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "country_name_ko": "인도",
-      "source_language": "en",
-      "matched_companies": [
-        "Hyundai Motor"
-      ],
-      "matched_aliases": [
-        "Hyundai"
-      ],
-      "is_new": false
-    },
-    {
       "article_key": "https://asia.nikkei.com/business/tech/semiconductors/china-s-ymtc-boosted-by-samsung-and-sk-hynix-adopting-its-memory-technology",
       "canonical_link": "https://asia.nikkei.com/business/tech/semiconductors/china-s-ymtc-boosted-by-samsung-and-sk-hynix-adopting-its-memory-technology",
       "link": "https://asia.nikkei.com/business/tech/semiconductors/china-s-ymtc-boosted-by-samsung-and-sk-hynix-adopting-its-memory-technology",
@@ -201,7 +131,7 @@
       "source_name": "The New York Times Business",
       "country_code": "US",
       "success": true,
-      "item_count": 49,
+      "item_count": 50,
       "matched_count": 0,
       "error": ""
     },
@@ -210,7 +140,7 @@
       "source_name": "The New York Times Technology",
       "country_code": "US",
       "success": true,
-      "item_count": 37,
+      "item_count": 33,
       "matched_count": 0,
       "error": ""
     },
@@ -426,7 +356,7 @@
       "source_name": "tagesschau Wirtschaft",
       "country_code": "DE",
       "success": true,
-      "item_count": 32,
+      "item_count": 37,
       "matched_count": 0,
       "error": ""
     },
@@ -453,7 +383,7 @@
       "source_name": "BBC Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 50,
+      "item_count": 56,
       "matched_count": 0,
       "error": ""
     },
@@ -462,7 +392,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 30,
+      "item_count": 28,
       "matched_count": 0,
       "error": ""
     },
@@ -706,7 +636,7 @@
       "country_code": "IN",
       "success": true,
       "item_count": 60,
-      "matched_count": 3,
+      "matched_count": 2,
       "error": ""
     },
     {
@@ -750,7 +680,7 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 39,
+      "item_count": 43,
       "matched_count": 0,
       "error": ""
     },
@@ -778,7 +708,7 @@
       "country_code": "HK",
       "success": true,
       "item_count": 50,
-      "matched_count": 1,
+      "matched_count": 0,
       "error": ""
     },
     {
@@ -795,7 +725,7 @@
       "source_name": "Taipei Times",
       "country_code": "TW",
       "success": true,
-      "item_count": 50,
+      "item_count": 57,
       "matched_count": 0,
       "error": ""
     },
