@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-26T19:07:15.120746+00:00",
+  "last_run_at": "2026-11-27T05:06:45.681831+00:00",
   "seen_articles": {
     "https://www.thehindubusinessline.com/companies/automakers-build-up-inventory-to-meet-festive-season-demand/article71542971.ece": {
       "title": "Automakers build up inventory to meet festive season demand",
@@ -13,18 +13,6 @@
       "first_seen_at": "2026-10-04T14:42:16.382832+00:00",
       "last_seen_at": "2026-10-16T01:03:38.508448+00:00"
     },
-    "https://www.scmp.com/tech/big-tech/article/3370505/chinas-cxmt-unveils-key-progress-chip-structure-pursued-samsung-sk-hynix": {
-      "title": "China’s CXMT unveils ‘key progress’ on chip structure pursued by Samsung, SK Hynix",
-      "link": "https://www.scmp.com/tech/big-tech/article/3370505/chinas-cxmt-unveils-key-progress-chip-structure-pursued-samsung-sk-hynix",
-      "source_name": "South China Morning Post Tech",
-      "country_code": "HK",
-      "companies": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-10-12T02:10:35.279275+00:00",
-      "last_seen_at": "2026-10-13T03:25:03.291183+00:00"
-    },
     "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1": {
       "title": "Chip stocks slide after Broadcom boss warns of ‘casino’ mentality in AI investing",
       "link": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1",
@@ -35,17 +23,6 @@
       ],
       "first_seen_at": "2026-10-13T03:25:03.291183+00:00",
       "last_seen_at": "2026-10-14T01:41:38.493881+00:00"
-    },
-    "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html": {
-      "title": "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off",
-      "link": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
-      "source_name": "CNBC Top News",
-      "country_code": "US",
-      "companies": [
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-10-13T03:25:03.291183+00:00",
-      "last_seen_at": "2026-10-13T03:25:03.291183+00:00"
     },
     "https://www.theverge.com/tech/1009899/apple-home-collection-hands-on": {
       "title": "Hands-on with the Apple Home Collection",
@@ -1222,7 +1199,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-11-25T19:23:28.713816+00:00",
-      "last_seen_at": "2026-11-26T19:07:15.120746+00:00"
+      "last_seen_at": "2026-11-27T05:06:45.681831+00:00"
     },
     "https://www.theguardian.com/uk-news/2026/nov/25/amazon-motors-into-uk-car-market": {
       "title": "Amazon to start selling cars in the UK next year",
@@ -1277,7 +1254,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-11-25T19:23:28.713816+00:00",
-      "last_seen_at": "2026-11-26T19:07:15.120746+00:00"
+      "last_seen_at": "2026-11-27T05:06:45.681831+00:00"
     },
     "https://www.scmp.com/week-asia/politics/article/3375730/why-russian-bombers-south-koreas-doorstep-raise-stakes-us-led-alliances": {
       "title": "Why Russian bombers at South Korea’s doorstep raise stakes for US-led alliances",
