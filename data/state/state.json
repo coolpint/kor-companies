@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-27T05:06:45.681831+00:00",
+  "last_run_at": "2026-11-27T19:03:11.645874+00:00",
   "seen_articles": {
     "https://www.thehindubusinessline.com/companies/automakers-build-up-inventory-to-meet-festive-season-demand/article71542971.ece": {
       "title": "Automakers build up inventory to meet festive season demand",
@@ -23,17 +23,6 @@
       ],
       "first_seen_at": "2026-10-13T03:25:03.291183+00:00",
       "last_seen_at": "2026-10-14T01:41:38.493881+00:00"
-    },
-    "https://www.theverge.com/tech/1009899/apple-home-collection-hands-on": {
-      "title": "Hands-on with the Apple Home Collection",
-      "link": "https://www.theverge.com/tech/1009899/apple-home-collection-hands-on",
-      "source_name": "The Verge",
-      "country_code": "US",
-      "companies": [
-        "LG Electronics"
-      ],
-      "first_seen_at": "2026-10-13T16:48:29.858019+00:00",
-      "last_seen_at": "2026-10-13T16:48:29.858019+00:00"
     },
     "https://www.thehindubusinessline.com/news/hyundai-motor-group-to-invest-147-lakh-crore-till-2032/article71580464.ece": {
       "title": "Hyundai Motor Group to invest ₹1.47 lakh crore till 2032",
@@ -68,17 +57,6 @@
       ],
       "first_seen_at": "2026-10-13T16:48:29.858019+00:00",
       "last_seen_at": "2026-10-16T13:50:33.432591+00:00"
-    },
-    "https://www.channelnewsasia.com/business/hyundai-motor-group-bets-155-billion-india-global-auto-hub-6456341": {
-      "title": "Hyundai Motor Group bets $15.5 billion on India as global auto hub",
-      "link": "https://www.channelnewsasia.com/business/hyundai-motor-group-bets-155-billion-india-global-auto-hub-6456341",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-10-13T16:48:29.858019+00:00",
-      "last_seen_at": "2026-10-13T16:48:29.858019+00:00"
     },
     "https://www.thehindubusinessline.com/companies/volvo-launches-126-crore-ex90-undercuts-kia-and-mercedes-as-bmw-surge-ahead/article71576872.ece": {
       "title": "Volvo launches ₹1.26 crore EX90, undercuts Kia and Mercedes as BMW surge ahead",
@@ -1199,7 +1177,7 @@
         "SK hynix"
       ],
       "first_seen_at": "2026-11-25T19:23:28.713816+00:00",
-      "last_seen_at": "2026-11-27T05:06:45.681831+00:00"
+      "last_seen_at": "2026-11-27T19:03:11.645874+00:00"
     },
     "https://www.theguardian.com/uk-news/2026/nov/25/amazon-motors-into-uk-car-market": {
       "title": "Amazon to start selling cars in the UK next year",

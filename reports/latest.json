@@ -1,10 +1,10 @@
 {
-  "run_at": "2026-11-27T05:06:45.681831+00:00",
+  "run_at": "2026-11-27T19:03:11.645874+00:00",
   "summary": {
     "source_count": 73,
-    "success_count": 64,
-    "failed_count": 9,
-    "matched_count": 2,
+    "success_count": 66,
+    "failed_count": 7,
+    "matched_count": 1,
     "new_count": 0
   },
   "new_articles": [],
@@ -31,29 +31,6 @@
         "SK hynix"
       ],
       "is_new": false
-    },
-    {
-      "article_key": "https://asia.nikkei.com/business/tech/semiconductors/china-s-ymtc-boosted-by-samsung-and-sk-hynix-adopting-its-memory-technology",
-      "canonical_link": "https://asia.nikkei.com/business/tech/semiconductors/china-s-ymtc-boosted-by-samsung-and-sk-hynix-adopting-its-memory-technology",
-      "link": "https://asia.nikkei.com/business/tech/semiconductors/china-s-ymtc-boosted-by-samsung-and-sk-hynix-adopting-its-memory-technology",
-      "title": "China's YMTC boosted by Samsung and SK Hynix adopting its memory technology",
-      "summary": "SK hynix 관련 기사다. 기사 제목은 'China's YMTC boosted by Samsung and SK Hynix adopting its memory technology'이다. TAIPEI/PALO ALTO/SEOUL -- The world's top memory chipmakers, South Korea's Samsung Electronics and SK Hynix, are adopting chip-stacking technology. Cross-licensing deals show 10-year-old chipmaker is matching older, larger rivals. Semiconductors China's YMTC boosted by Samsung and SK Hynix adopting its memory technology Cross-licensing deals show 10-year-old chipmaker is matching older, larger rivals YMTC has been building a formidable intellectual property library for its memory chip business and says it has filed more than 12,000 patents globally (Source photo by Reuters and logo from YMTC's website) CHENG TING-FANG , LAULY LI , YIFAN YU and KIM JAEWON November 25, 2026 15:08 JST TAIPEI/PALO ALTO/SEOUL -- The world's top memory chipmakers, South Korea's Samsung Electronics and SK Hynix, are adopting chip-stacking technology first developed by Yangtze Memory Technologies Co , signaling how one of China's national champions has rapidly caught up with its larger semiconductor rivals and has built a substantial intellectual property portfolio. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "China's YMTC boosted by Samsung and SK Hynix adopting its memory technology",
-      "original_summary": "",
-      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'China's YMTC boosted by Samsung and SK Hynix adopting its memory technology'이다. TAIPEI/PALO ALTO/SEOUL -- The world's top memory chipmakers, South Korea's Samsung Electronics and SK Hynix, are adopting chip-stacking technology. Cross-licensing deals show 10-year-old chipmaker is matching older, larger rivals. Semiconductors China's YMTC boosted by Samsung and SK Hynix adopting its memory technology Cross-licensing deals show 10-year-old chipmaker is matching older, larger rivals YMTC has been building a formidable intellectual property library for its memory chip business and says it has filed more than 12,000 patents globally (Source photo by Reuters and logo from YMTC's website) CHENG TING-FANG , LAULY LI , YIFAN YU and KIM JAEWON November 25, 2026 15:08 JST TAIPEI/PALO ALTO/SEOUL -- The world's top memory chipmakers, South Korea's Samsung Electronics and SK Hynix, are adopting chip-stacking technology first developed by Yangtze Memory Technologies Co , signaling how one of China's national champions has rapidly caught up with its larger semiconductor rivals and has built a substantial intellectual property portfolio. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-11-25T06:08:32+00:00",
-      "source_id": "nikkei_asia",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "country_name_ko": "일본",
-      "source_language": "en",
-      "matched_companies": [
-        "SK hynix"
-      ],
-      "matched_aliases": [
-        "SK hynix"
-      ],
-      "is_new": false
     }
   ],
   "source_runs": [
@@ -62,7 +39,7 @@
       "source_name": "The New York Times Business",
       "country_code": "US",
       "success": true,
-      "item_count": 50,
+      "item_count": 49,
       "matched_count": 0,
       "error": ""
     },
@@ -71,7 +48,7 @@
       "source_name": "The New York Times Technology",
       "country_code": "US",
       "success": true,
-      "item_count": 29,
+      "item_count": 26,
       "matched_count": 0,
       "error": ""
     },
@@ -115,10 +92,10 @@
       "source_id": "us_doj_press_releases",
       "source_name": "U.S. DOJ Press Releases",
       "country_code": "US",
-      "success": false,
-      "item_count": 0,
+      "success": true,
+      "item_count": 25,
       "matched_count": 0,
-      "error": "HTTP 401 for https://www.justice.gov/news/rss?m=1&type=press_release"
+      "error": ""
     },
     {
       "source_id": "sec_press_releases",
@@ -171,7 +148,7 @@
       "country_code": "JP",
       "success": true,
       "item_count": 50,
-      "matched_count": 2,
+      "matched_count": 1,
       "error": ""
     },
     {
@@ -287,7 +264,7 @@
       "source_name": "tagesschau Wirtschaft",
       "country_code": "DE",
       "success": true,
-      "item_count": 37,
+      "item_count": 29,
       "matched_count": 0,
       "error": ""
     },
@@ -314,7 +291,7 @@
       "source_name": "BBC Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 52,
+      "item_count": 53,
       "matched_count": 0,
       "error": ""
     },
@@ -421,10 +398,10 @@
       "source_id": "france24_europe",
       "source_name": "France 24 Europe",
       "country_code": "FR",
-      "success": true,
-      "item_count": 30,
+      "success": false,
+      "item_count": 0,
       "matched_count": 0,
-      "error": ""
+      "error": "HTTP 403 for https://www.france24.com/en/europe/rss"
     },
     {
       "source_id": "euronews_business",
@@ -611,7 +588,7 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 44,
+      "item_count": 49,
       "matched_count": 0,
       "error": ""
     },
@@ -656,7 +633,7 @@
       "source_name": "Taipei Times",
       "country_code": "TW",
       "success": true,
-      "item_count": 57,
+      "item_count": 46,
       "matched_count": 0,
       "error": ""
     },
@@ -682,19 +659,19 @@
       "source_id": "bangkok_post_business",
       "source_name": "Bangkok Post Business",
       "country_code": "TH",
-      "success": false,
-      "item_count": 0,
+      "success": true,
+      "item_count": 10,
       "matched_count": 0,
-      "error": "HTTP 451 for https://www.bangkokpost.com/rss/data/business.xml"
+      "error": ""
     },
     {
       "source_id": "bangkok_post_world",
       "source_name": "Bangkok Post World",
       "country_code": "TH",
-      "success": false,
-      "item_count": 0,
+      "success": true,
+      "item_count": 10,
       "matched_count": 0,
-      "error": "HTTP 451 for https://www.bangkokpost.com/rss/data/world.xml"
+      "error": ""
     },
     {
       "source_id": "mexico_news_daily",
