@@ -1,38 +1,14 @@
 {
-  "run_at": "2026-11-27T19:03:11.645874+00:00",
+  "run_at": "2026-11-28T04:45:53.020060+00:00",
   "summary": {
     "source_count": 73,
-    "success_count": 66,
-    "failed_count": 7,
-    "matched_count": 1,
+    "success_count": 67,
+    "failed_count": 6,
+    "matched_count": 0,
     "new_count": 0
   },
   "new_articles": [],
-  "matched_articles": [
-    {
-      "article_key": "https://asia.nikkei.com/business/tech/semiconductors/how-a-bain-led-deal-made-sk-hynix-kioxia-s-top-shareholder",
-      "canonical_link": "https://asia.nikkei.com/business/tech/semiconductors/how-a-bain-led-deal-made-sk-hynix-kioxia-s-top-shareholder",
-      "link": "https://asia.nikkei.com/business/tech/semiconductors/how-a-bain-led-deal-made-sk-hynix-kioxia-s-top-shareholder",
-      "title": "How a Bain-led deal made SK Hynix Kioxia's top shareholder",
-      "summary": "SK hynix 관련 기사다. 기사 제목은 'How a Bain-led deal made SK Hynix Kioxia's top shareholder'이다. SEOUL/TOKYO -- SK Hynix is on the verge of becoming the largest shareholder in rival Kioxia Holdings, a move set in motion when it joined with U. S. Defensive investment leaves South Korean chipmaker with stake in Japanese rival. (Source photos by Nikkei) NAMI MATSUURA, SHUHEI OCHIAI and KYOHEI SUGA November 26, 2026 04:09 JST SEOUL/TOKYO -- SK Hynix is on the verge of becoming the largest shareholder in rival Kioxia Holdings, a move set in motion when it joined with U private equity firm Bain Capital in a 2017 bidding war for the Japanese memory chip maker to keep it out of competitors' hands 7bn this quarter Latest on Semiconductors Semiconductors Nvidia, Kioxia team on AI server memory as alternative to South Korean chips Semiconductors Nvidia turmoil casts pall over high-flying global AI chip industry Semiconductors China's YMTC boosted by Samsung and SK Hynix adopting its memory technology. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "original_title": "How a Bain-led deal made SK Hynix Kioxia's top shareholder",
-      "original_summary": "",
-      "company_summary": "SK hynix 관련 기사다. 기사 제목은 'How a Bain-led deal made SK Hynix Kioxia's top shareholder'이다. SEOUL/TOKYO -- SK Hynix is on the verge of becoming the largest shareholder in rival Kioxia Holdings, a move set in motion when it joined with U. S. Defensive investment leaves South Korean chipmaker with stake in Japanese rival. (Source photos by Nikkei) NAMI MATSUURA, SHUHEI OCHIAI and KYOHEI SUGA November 26, 2026 04:09 JST SEOUL/TOKYO -- SK Hynix is on the verge of becoming the largest shareholder in rival Kioxia Holdings, a move set in motion when it joined with U private equity firm Bain Capital in a 2017 bidding war for the Japanese memory chip maker to keep it out of competitors' hands 7bn this quarter Latest on Semiconductors Semiconductors Nvidia, Kioxia team on AI server memory as alternative to South Korean chips Semiconductors Nvidia turmoil casts pall over high-flying global AI chip industry Semiconductors China's YMTC boosted by Samsung and SK Hynix adopting its memory technology. 이 기사는 해당 기업과 연결된 해외 보도를 바탕으로 정리했다.",
-      "published_at": "2026-11-25T19:09:48+00:00",
-      "source_id": "nikkei_asia",
-      "source_name": "Nikkei Asia",
-      "country_code": "JP",
-      "country_name_ko": "일본",
-      "source_language": "en",
-      "matched_companies": [
-        "SK hynix"
-      ],
-      "matched_aliases": [
-        "SK hynix"
-      ],
-      "is_new": false
-    }
-  ],
+  "matched_articles": [],
   "source_runs": [
     {
       "source_id": "nyt_business",
@@ -48,7 +24,7 @@
       "source_name": "The New York Times Technology",
       "country_code": "US",
       "success": true,
-      "item_count": 26,
+      "item_count": 25,
       "matched_count": 0,
       "error": ""
     },
@@ -148,7 +124,7 @@
       "country_code": "JP",
       "success": true,
       "item_count": 50,
-      "matched_count": 1,
+      "matched_count": 0,
       "error": ""
     },
     {
@@ -246,7 +222,7 @@
       "source_name": "Deutsche Welle World",
       "country_code": "DE",
       "success": true,
-      "item_count": 12,
+      "item_count": 11,
       "matched_count": 0,
       "error": ""
     },
@@ -300,7 +276,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 31,
+      "item_count": 21,
       "matched_count": 0,
       "error": ""
     },
@@ -398,10 +374,10 @@
       "source_id": "france24_europe",
       "source_name": "France 24 Europe",
       "country_code": "FR",
-      "success": false,
-      "item_count": 0,
+      "success": true,
+      "item_count": 30,
       "matched_count": 0,
-      "error": "HTTP 403 for https://www.france24.com/en/europe/rss"
+      "error": ""
     },
     {
       "source_id": "euronews_business",
@@ -588,7 +564,7 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 49,
+      "item_count": 43,
       "matched_count": 0,
       "error": ""
     },
