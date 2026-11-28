@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-28T04:45:53.020060+00:00",
+  "run_at": "2026-11-28T17:37:58.167343+00:00",
   "summary": {
     "source_count": 73,
     "success_count": 67,
@@ -15,7 +15,7 @@
       "source_name": "The New York Times Business",
       "country_code": "US",
       "success": true,
-      "item_count": 49,
+      "item_count": 48,
       "matched_count": 0,
       "error": ""
     },
@@ -24,7 +24,7 @@
       "source_name": "The New York Times Technology",
       "country_code": "US",
       "success": true,
-      "item_count": 25,
+      "item_count": 23,
       "matched_count": 0,
       "error": ""
     },
@@ -222,7 +222,7 @@
       "source_name": "Deutsche Welle World",
       "country_code": "DE",
       "success": true,
-      "item_count": 11,
+      "item_count": 12,
       "matched_count": 0,
       "error": ""
     },
@@ -240,7 +240,7 @@
       "source_name": "tagesschau Wirtschaft",
       "country_code": "DE",
       "success": true,
-      "item_count": 29,
+      "item_count": 30,
       "matched_count": 0,
       "error": ""
     },
@@ -276,7 +276,7 @@
       "source_name": "BBC World",
       "country_code": "GB",
       "success": true,
-      "item_count": 21,
+      "item_count": 26,
       "matched_count": 0,
       "error": ""
     },
@@ -312,7 +312,7 @@
       "source_name": "The Guardian Business",
       "country_code": "GB",
       "success": true,
-      "item_count": 19,
+      "item_count": 20,
       "matched_count": 0,
       "error": ""
     },
@@ -564,7 +564,7 @@
       "source_name": "The Straits Times Business",
       "country_code": "SG",
       "success": true,
-      "item_count": 43,
+      "item_count": 30,
       "matched_count": 0,
       "error": ""
     },
@@ -609,7 +609,7 @@
       "source_name": "Taipei Times",
       "country_code": "TW",
       "success": true,
-      "item_count": 46,
+      "item_count": 38,
       "matched_count": 0,
       "error": ""
     },

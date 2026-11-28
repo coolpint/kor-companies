@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_at": "2026-11-28T04:45:53.020060+00:00",
+  "last_run_at": "2026-11-28T17:37:58.167343+00:00",
   "seen_articles": {
     "https://www.thehindubusinessline.com/companies/automakers-build-up-inventory-to-meet-festive-season-demand/article71542971.ece": {
       "title": "Automakers build up inventory to meet festive season demand",
@@ -36,29 +36,6 @@
       "first_seen_at": "2026-10-13T16:48:29.858019+00:00",
       "last_seen_at": "2026-10-16T13:50:33.432591+00:00"
     },
-    "https://www.thehindubusinessline.com/companies/volvo-launches-126-crore-ex90-undercuts-kia-and-mercedes-as-bmw-surge-ahead/article71576872.ece": {
-      "title": "Volvo launches ₹1.26 crore EX90, undercuts Kia and Mercedes as BMW surge ahead",
-      "link": "https://www.thehindubusinessline.com/companies/volvo-launches-126-crore-ex90-undercuts-kia-and-mercedes-as-bmw-surge-ahead/article71576872.ece",
-      "source_name": "BusinessLine Companies",
-      "country_code": "IN",
-      "companies": [
-        "Kia"
-      ],
-      "first_seen_at": "2026-10-13T16:48:29.858019+00:00",
-      "last_seen_at": "2026-10-14T14:24:26.931445+00:00"
-    },
-    "https://www.scmp.com/tech/tech-trends/article/3370739/why-samsung-sk-hynix-and-cxmt-shares-are-under-pressure-despite-strong-ai-demand": {
-      "title": "Why Samsung, SK Hynix and CXMT shares are under pressure despite strong AI demand",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3370739/why-samsung-sk-hynix-and-cxmt-shares-are-under-pressure-despite-strong-ai-demand",
-      "source_name": "South China Morning Post Tech",
-      "country_code": "HK",
-      "companies": [
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "first_seen_at": "2026-10-13T16:48:29.858019+00:00",
-      "last_seen_at": "2026-10-14T14:24:26.931445+00:00"
-    },
     "https://asia.nikkei.com/business/automobiles/hyundai-to-invest-15.5bn-in-indian-manufacturing-r-d": {
       "title": "Hyundai to invest $15.5bn in Indian manufacturing, R&D",
       "link": "https://asia.nikkei.com/business/automobiles/hyundai-to-invest-15.5bn-in-indian-manufacturing-r-d",
@@ -69,17 +46,6 @@
       ],
       "first_seen_at": "2026-10-14T01:41:38.493881+00:00",
       "last_seen_at": "2026-10-15T01:17:56.441140+00:00"
-    },
-    "https://www.channelnewsasia.com/business/hyundai-motor-india-invest-116-billion-expand-capacity-pune-city-plant-6459021": {
-      "title": "Hyundai Motor India to invest $1.16 billion to expand capacity at Pune city plant",
-      "link": "https://www.channelnewsasia.com/business/hyundai-motor-india-invest-116-billion-expand-capacity-pune-city-plant-6459021",
-      "source_name": "CNA Business",
-      "country_code": "SG",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-10-14T14:24:26.931445+00:00",
-      "last_seen_at": "2026-10-14T14:24:26.931445+00:00"
     },
     "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-india-to-invest-rs-11000-crore-at-pune-plant/articleshow/134941989.cms": {
       "title": "Hyundai Motor India to invest Rs 11,000 crore at Pune plant",
@@ -102,17 +68,6 @@
       ],
       "first_seen_at": "2026-10-14T14:24:26.931445+00:00",
       "last_seen_at": "2026-10-16T13:50:33.432591+00:00"
-    },
-    "https://www.cnbc.com/2026/10/14/korea-india-hyundai-cars-investment.html": {
-      "title": "South Korean carmaker Hyundai plans 'strategic' investment of $15.5 billion in India by 2032",
-      "link": "https://www.cnbc.com/2026/10/14/korea-india-hyundai-cars-investment.html",
-      "source_name": "CNBC Top News",
-      "country_code": "US",
-      "companies": [
-        "Hyundai Motor"
-      ],
-      "first_seen_at": "2026-10-14T14:24:26.931445+00:00",
-      "last_seen_at": "2026-10-14T14:24:26.931445+00:00"
     },
     "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html": {
       "title": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount",
